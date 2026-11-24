@@ -172,7 +172,7 @@
       "id": "q-hawel-olberg",
       "title": "Otec Anny Rosenbergerové: Hawel / Havel / Hauel a dům Ölberg 6 vs. 9",
       "summary": "V zápisu 1873 je Anna dcera Antona, podruha v Oehlbergu č. 9 (příjmení čtené opatrně). V zápisu 1833 je dcera Antona a Barbary v Ölbergu č. 6.",
-      "details": "Otec ani matka Anny proto nejsou v mapě jako uzly. Český ekvivalent Oehlbergu / Ölbergu se nepřiřazuje. Čísla 6 a 9 se neslučují.",
+      "details": "Otec ani matka Anny proto nejsou v mapě jako uzly. Český ekvivalent Oehlbergu / Ölbergu se nepřiřazuje. Čísla 6 a 9 se neslučují. Sňatek 16. 11. 1830 (13-32, snímek 72): nevěsta Anna z Olivětína, dcera Antona, nádeníka v Olivětíně, a Barbary (rozené Ku…? z …thal), dům 6; příjmení nevěsty čteno opatrně Haudek / Hauck. Rodiče Anny proto zatím v mapě nejsou.",
       "related_ids": [
         "anna-hawel",
         "franz-rosenberger",
@@ -188,6 +188,11 @@
           "label": "ARON",
           "signatura": "13-7",
           "detail": "snímek 143, pag. 266"
+        },
+        {
+          "label": "ARON",
+          "signatura": "13-32",
+          "detail": "snímek 72, 16. 11. 1830"
         }
       ]
     },
@@ -195,7 +200,7 @@
       "id": "q-rosenberger-poznamka-1833",
       "title": "Pozdější rodopisná poznámka u narození Ignatze 1833",
       "summary": "Na rodném zápisu 19. 5. 1833 je mladší rukou připsán rodokmen: syn Josefa Rosenberga / Rosenbergera, tkalce v Ruppersdorfu, a Barbary roz. Tause, Inwohner Wiesen 58; Josef *7. 10. 1749 Ruppersdorf 73. U matky Anny je připsáno narození 29. 6. 1798 Großölberg a sňatek 16. 11. 1830 (Ölberg II-6).",
-      "details": "To není původní ruka z roku 1833. Do mapy jako uzly nepatří, dokud se nenajde tělo těchto zápisů. V původním textu 1833 je otec Benedikt uveden jako „ill. Sohn“, podruh. Rosenberg a Rosenberger se neslučují potichu.",
+      "details": "To není původní ruka z roku 1833. Do mapy jako uzly nepatří, dokud se nenajde tělo těchto zápisů. V původním textu 1833 je otec Benedikt uveden jako „ill. Sohn“, podruh. Rosenberg a Rosenberger se neslučují potichu. Doplněk 24. 11. 2026: původní zápisy se našly a poznámku v podstatných bodech potvrzují. Rodný zápis 141-1, snímek 51, 7. 10. 1799 (ne 1749), Ruprechtice č. 73: Benedikt, syn Josepha Rosenberga, podruha, a Barbary, dcery Antona (Tausch?) z Wiesen č. 58. Sňatek 13-32, snímek 72, 16. 11. 1830 Ölberg. Joseph a Barbara jsou proto nově v mapě; povolání tkadlec a rodné příjmení Barbary (Tause / Tausch) zůstávají nedoložené.",
       "related_ids": [
         "franz-rosenberger",
         "benedikt-rosenberger",
@@ -206,6 +211,16 @@
           "label": "ARON",
           "signatura": "13-7",
           "detail": "snímek 143, pag. 266, pozdější poznámka"
+        },
+        {
+          "label": "ARON",
+          "signatura": "141-1",
+          "detail": "snímek 51, 7. 10. 1799"
+        },
+        {
+          "label": "ARON",
+          "signatura": "13-32",
+          "detail": "snímek 72, 16. 11. 1830"
         }
       ]
     },
@@ -231,7 +246,7 @@
       "id": "q-georg-dauer-jmeno-1841",
       "title": "Křestní jméno otce Theresie Dauerové v zápisu 22. 11. 1841",
       "summary": "V tělech 1845, 1846 a 1873 je otec Theresie důsledně Georg Dauer, č. 117. Oddací zápis 22. 11. 1841 má téhož Dauera z č. 117 a manželku Barbaru z č. 53; křestní jméno v tom zápisu je třeba při další četbě ještě jednou srovnat.",
-      "details": "V mapě zůstává jméno Georg z trojího shodného čtení. Kdyby 1841 četlo jinak, jména se neslučují potichu.",
+      "details": "V mapě zůstává jméno Georg z trojího shodného čtení. Kdyby 1841 četlo jinak, jména se neslučují potichu. Doplněk 24. 11. 2026: rodné zápisy dcer 22. 11. 1799 a 22. 9. 1808 (141-1, snímky 52 a 88, dům 74) mají otce Georga Dauera a matku Barbaru, dceru Antona Ringela. Jméno Georg je tím doloženo nezávisle na zápisu 1841.",
       "related_ids": [
         "georg-dauer",
         "theresia-dauer",
@@ -250,6 +265,11 @@
         {
           "label": "ARON",
           "signatura": "174-4248"
+        },
+        {
+          "label": "ARON",
+          "signatura": "141-1",
+          "detail": "snímek 88, 22. 9. 1808"
         }
       ]
     },
@@ -275,6 +295,34 @@
           "label": "ARON",
           "signatura": "96-4228",
           "detail": "snímek 75"
+        }
+      ]
+    },
+    {
+      "id": "q-ringel-dum",
+      "title": "Dům Antona Ringela: č. 33, 35 nebo 53",
+      "summary": "Barbara Dauerová je dcera Antona Ringela, výměnkáře v Ruprechticích. Číslo domu jejího původu se v zápisech liší: 1799 č. 33, 1808 č. 33 nebo 35, sňatek dcery 1841 č. 53.",
+      "details": "Čísla domů se neslučují. Manželka Antona Ringela ani jeho narození zatím nejsou. V Ruprechticích je kolem 1800 víc rodin Ringel (např. Benedikt Ringel, č. 81) — bez zápisu se nespojují. Další krok: sňatek Georga Dauera a Barbary Ringel kolem 1795–1799 v 141-3 (O Ruprechtice 1784–1813).",
+      "related_ids": [
+        "anton-ringel",
+        "barbara-pitz",
+        "georg-dauer"
+      ],
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "141-1",
+          "detail": "snímek 52, 22. 11. 1799"
+        },
+        {
+          "label": "ARON",
+          "signatura": "141-1",
+          "detail": "snímek 88, 22. 9. 1808"
+        },
+        {
+          "label": "ARON",
+          "signatura": "141-4",
+          "detail": "snímek 29, 22. 11. 1841"
         }
       ]
     }

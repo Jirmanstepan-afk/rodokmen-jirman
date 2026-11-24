@@ -180,6 +180,27 @@
    "dao": "fcb4abe9-3d31-42b6-86ed-47cd1aca78f3",
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 96-4 (poř.č. 6794), 1839-6.1865",
    "url": "https://aron.vychodoceskearchivy.cz/apu/fcb4abe9-3d31-42b6-86ed-47cd1aca78f3"
+  },
+  "141-1": {
+   "apu": "2601ece9-a0af-4023-901c-ca324cd94414",
+   "dao": "2601ece9-a0af-4023-901c-ca324cd94414",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 141-1 (poř.č. 9731), 1784-1813",
+   "popis": "římskokatolická matrika NAROZENÝCH, Ruprechtice, Jetřichov + Meziměstí, Hynčice (od 2.1784)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/2601ece9-a0af-4023-901c-ca324cd94414"
+  },
+  "13-32": {
+   "apu": "a671fa1f-b693-42d2-baa8-6d41093b6078",
+   "dao": "a671fa1f-b693-42d2-baa8-6d41093b6078",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 13-32 (poř.č. 591), 1784-1832",
+   "popis": "římskokatolická matrika ODDANÝCH, římskokatolický index ODDANÝCH, Broumov (5.1784-1803), Olivětín (5.1784-1831), Velká Ves (5.1784-1832), Hejtmánkovice (5.1784-1823), Rožmitál (5.1784-1828), Křinice (5.1784-1822)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a671fa1f-b693-42d2-baa8-6d41093b6078"
+  },
+  "13-57": {
+   "apu": "94544493-a620-44d0-b728-478781bc46cf",
+   "dao": "94544493-a620-44d0-b728-478781bc46cf",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 13-57 (poř.č. 641), 1784-1949",
+   "popis": "římskokatolický index ODDANÝCH, farnost (Broumov, Broumov - Dolní předměstí, Broumov - Horní předměstí, Broumov - Prostřední předměstí, Hejtmánkovice, Křinice, Olivětín, Rožmitál, Velká Ves)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/94544493-a620-44d0-b728-478781bc46cf"
   }
  },
  "aliasy": {
@@ -188,6 +209,24 @@
   "13-7528|s. 106": 117
  },
  "snimky": {
+  "13-32|72": {
+   "signatura": "13-32",
+   "snimek": 72,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a671fa1f-b693-42d2-baa8-6d41093b6078/dao/a671fa1f-b693-42d2-baa8-6d41093b6078/file/3ec339cb-48ac-4d2d-8c67-3b0bf0da778f",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/13-32_s072.jpg",
+   "velky": "img/zdroje/13-32_s072_velky.jpg",
+   "vyrez_soubor": "s072-1830-raw.jpg"
+  },
+  "13-57|109": {
+   "signatura": "13-57",
+   "snimek": 109,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/94544493-a620-44d0-b728-478781bc46cf/dao/94544493-a620-44d0-b728-478781bc46cf/file/6c4725c5-b28f-45be-a0e6-4a3200d04847",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/13-57_s109.jpg",
+   "velky": "img/zdroje/13-57_s109_velky.jpg",
+   "vyrez_soubor": "p109R-mid.jpg"
+  },
   "13-7528|117": {
    "signatura": "13-7528",
    "snimek": 117,
@@ -286,6 +325,33 @@
    "nahled": "img/zdroje/130-7420_s044.jpg",
    "velky": "img/zdroje/130-7420_s044_velky.jpg",
    "vyrez_soubor": "maroul-josef-1874-index-130-7420-s44.jpg"
+  },
+  "141-1|51": {
+   "signatura": "141-1",
+   "snimek": 51,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/2601ece9-a0af-4023-901c-ca324cd94414/dao/2601ece9-a0af-4023-901c-ca324cd94414/file/7128ccd1-7b0a-4361-b8a0-3e7794f8d0ab",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-1_s051.jpg",
+   "velky": "img/zdroje/141-1_s051_velky.jpg",
+   "vyrez_soubor": "s051R-1799-10-07-benedikt-rosenberg.jpg"
+  },
+  "141-1|52": {
+   "signatura": "141-1",
+   "snimek": 52,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/2601ece9-a0af-4023-901c-ca324cd94414/dao/2601ece9-a0af-4023-901c-ca324cd94414/file/5e521d8a-f9bd-4e42-be92-03ba6e6d9dc6",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-1_s052.jpg",
+   "velky": "img/zdroje/141-1_s052_velky.jpg",
+   "vyrez_soubor": "s052L-1799-11-22-elisabeth-dauer.jpg"
+  },
+  "141-1|88": {
+   "signatura": "141-1",
+   "snimek": 88,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/2601ece9-a0af-4023-901c-ca324cd94414/dao/2601ece9-a0af-4023-901c-ca324cd94414/file/17249b47-c184-43b4-b3bb-5aa9468ed743",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-1_s088.jpg",
+   "velky": "img/zdroje/141-1_s088_velky.jpg",
+   "vyrez_soubor": "s088L-1808-09-theresia.jpg"
   },
   "141-4240|14": {
    "signatura": "141-4240",

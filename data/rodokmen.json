@@ -2346,7 +2346,13 @@
     },
     {
       "maiden": null,
-      "birth": null,
+      "birth": {
+        "display": "7. 10. 1799",
+        "date": "1799-10-07",
+        "precision": "exact",
+        "place": "Ruprechtice č. 73",
+        "note": "141-1, Pag. 97: Benedikt, manželský syn Josepha Rosenberga, podruha (Inwohner), a Barbary, dcery Antona (příjmení čteno opatrně Tausch) z Vižňova (Wiesen) č. 58. Kmotři Benedikt Mayer, chalupník, a Barbara Daurin, chalupnice. Křtil P. Vincentius Seydl, kaplan."
+      },
       "baptism": null,
       "death": {
         "display": "před 14. 10. 1873",
@@ -2360,7 +2366,8 @@
       "living": false,
       "notes": [
         "Otec Ignatze podle těla sňatku 14. 10. 1873 a podle těla narození 19. 5. 1833. V původním zápisu 1833 je Benedikt uveden jako „ill. Sohn“, podruh (Inwohner).",
-        "Pozdější rodopisná poznámka na témže zápisu (Josef Rosenberg / Rosenberger, tkadlec, Ruppersdorf, a Barbara roz. Tause, Inwohner Wiesen 58, *7. 10. 1749 Ruppersdorf 73) není původní ruka z roku 1833 a do mapy jako uzly nepatří — viz otevřené dotazy."
+        "Sňatek 16. 11. 1830 v Olivětíně (13-32): ženich Benedikt Rosenberg z Ruprechtic, 31 let, svobodný; pozdější poznámka „geb. 7. 10. 1799 Ruppersd. 73“ souhlasí s rodným zápisem 141-1.",
+        "Rodiče Joseph Rosenberg a Barbara jsou doloženi rodným zápisem 7. 10. 1799. Rodné příjmení Barbary (Tausch / Tause) je čteno opatrně, proto v mapě není."
       ],
       "interesting": [],
       "id": "benedikt-rosenberger",
@@ -2368,6 +2375,21 @@
       "branch": "rosenberger",
       "certainty": "potvrzeno",
       "sources": [
+        {
+          "label": "ARON, narození 7. 10. 1799",
+          "signatura": "141-1",
+          "detail": "snímek 51, Pag. 97, 7. 10. 1799, dům 73"
+        },
+        {
+          "label": "ARON, sňatek 16. 11. 1830",
+          "signatura": "13-32",
+          "detail": "snímek 72, Trauungsbuch Ölberg, pag. 6, 16. 11. 1830, dům 56"
+        },
+        {
+          "label": "ARON, index sňatků",
+          "signatura": "13-57",
+          "detail": "snímek 109, Lit. R, 1830"
+        },
         {
           "label": "ARON",
           "signatura": "13-7",
@@ -2482,20 +2504,22 @@
     {
       "maiden": "Dauer",
       "birth": {
-        "display": "kolem 1808",
-        "precision": "circa",
-        "note": "Věk 33 let v oddacím zápisu 22. 11. 1841."
+        "display": "22. 9. 1808",
+        "date": "1808-09-22",
+        "precision": "exact",
+        "place": "Ruprechtice č. 74",
+        "note": "141-1, Pag. 170: Maria Theresia, manželská dcera Georga Dauera, chalupníka (Häusler), a Barbary, dcery Antona Ringela, výměnkáře (Auszügler) z Ruprechtic. Křtil P. Chilian Kram, curatus. Věk 33 let ve sňatku 22. 11. 1841 odpovídá."
       },
       "baptism": null,
       "death": null,
-      "occupation": "Manželka Benedikta Mayera (Meiera). Katolická, manželská dcera †Georga Dauera, chalupníka a podruha v Ruprechticích č. 117, a †Barbary rozené Pirkel z Ruprechtic č. 53.",
+      "occupation": "Manželka Benedikta Mayera (Meiera). Katolická, manželská dcera †Georga Dauera, chalupníka a podruha v Ruprechticích č. 117, a †Barbary rozené Ringel.",
       "places": [
         "Ruprechtice č. 93"
       ],
       "living": false,
       "notes": [
         "Rodné příjmení Dauer je shodně čteno ve sňatku 22. 11. 1841, ve sňatku dcery 1873, v indexu 141-4251 i v tělech 1845 a 1846.",
-        "Matka je v zápisu 1841 rozená Pirkel; k dřívějšímu opatrnému čtení Pitz viz osobu Barbary."
+        "Rodné příjmení matky se dříve četlo Pirkel (sňatek 1841). Rodný zápis Theresie 22. 9. 1808 i zápis sestry Elisabeth 22. 11. 1799 píšou zřetelně Ringel; při srovnání se slovem „Ruppersdorf“ v témže řádku sňatku 1841 tam stojí také Ringel."
       ],
       "interesting": [],
       "id": "theresia-dauer",
@@ -2503,6 +2527,11 @@
       "branch": "meier",
       "certainty": "potvrzeno",
       "sources": [
+        {
+          "label": "ARON, narození 22. 9. 1808",
+          "signatura": "141-1",
+          "detail": "snímek 88, Pag. 170, 22. 9. 1808, dům 74"
+        },
         {
           "label": "ARON",
           "signatura": "141-4",
@@ -2534,9 +2563,10 @@
         "precision": "range",
         "note": "V oddacím zápisu dcery Theresie 22. 11. 1841 už nebožtík."
       },
-      "occupation": "Chalupník a podruh (Häusler und Inwohner) v Ruprechticích č. 117, poddaný broumovského panství.",
+      "occupation": "Chalupník (Häusler) v Ruprechticích č. 74 (1799, 1808); k roku 1841 chalupník a podruh (Häusler und Inwohner) v č. 117, poddaný broumovského panství.",
       "places": [
-        "Ruprechtice č. 117"
+        "Ruprechtice č. 74 (1799, 1808)",
+        "Ruprechtice č. 117 (1841)"
       ],
       "living": false,
       "notes": [
@@ -2549,6 +2579,16 @@
       "branch": "meier",
       "certainty": "potvrzeno",
       "sources": [
+        {
+          "label": "ARON, narození 22. 11. 1799",
+          "signatura": "141-1",
+          "detail": "snímek 52, Pag. 98, 22. 11. 1799, dům 74"
+        },
+        {
+          "label": "ARON, narození 22. 9. 1808",
+          "signatura": "141-1",
+          "detail": "snímek 88, Pag. 170, 22. 9. 1808, dům 74"
+        },
         {
           "label": "ARON",
           "signatura": "141-4",
@@ -2567,7 +2607,7 @@
       ]
     },
     {
-      "maiden": "Pirkel",
+      "maiden": "Ringel",
       "birth": null,
       "baptism": null,
       "death": {
@@ -2575,15 +2615,15 @@
         "precision": "range",
         "note": "V rodném zápisu vnuka Benedikta 20. 6. 1845 už nebožka."
       },
-      "occupation": "Manželka Georga Dauera z Ruprechtic č. 117. V rodných zápisech 1845 a 1846: rozená z Ruprechtic č. 53.",
+      "occupation": "Manželka Georga Dauera, chalupníka v Ruprechticích (č. 74 v letech 1799 a 1808, č. 117 k roku 1841). Dcera Antona Ringela, výměnkáře (Auszügler) v Ruprechticích.",
       "places": [
-        "Ruprechtice č. 53",
-        "Ruprechtice č. 117"
+        "Ruprechtice č. 74 (1799, 1808)",
+        "Ruprechtice č. 117 (1841)"
       ],
       "living": false,
       "notes": [
-        "V těle sňatku dcery Theresie 22. 11. 1841 je výslovně Barbara, rozená Pirkel, z Ruprechtic č. 53, manželka Georga Dauera z č. 117, už nebožka.",
-        "V tělech narození vnoučat 1845 a 1846 bylo rodné příjmení čtené opatrně (Pitz / Sitz / Spitz / Pietz). Platí čtení Pirkel z oddacího zápisu 1841; dřívější opatrné čtení se neslučuje potichu, ale jde o tutéž ženu (č. 53, manžel Dauer č. 117, dcera Theresia)."
+        "Rodné příjmení Ringel stojí zřetelně v rodných zápisech dcer Elisabeth 22. 11. 1799 a Theresie 22. 9. 1808 (141-1): „Barbara, Anton Ringels Auszüglers Tochter aus Ruppersdorf“. Ve sňatku Theresie 22. 11. 1841 bylo dříve čteno Pirkel a v zápisech vnoučat 1845–1846 opatrně Pitz/Sitz. Při srovnání s písmenem R ve slově „Ruppersdorf“ v témže řádku jde o Ringel; čtení Pirkel se tím opravuje.",
+        "Číslo domu jejího otce se v zápisech liší: 1799 zřetelně č. 33, 1808 č. 33 nebo 35, sňatek 1841 č. 53. Čísla domů se neslučují."
       ],
       "interesting": [],
       "id": "barbara-pitz",
@@ -2591,6 +2631,16 @@
       "branch": "meier",
       "certainty": "potvrzeno",
       "sources": [
+        {
+          "label": "ARON, narození 22. 11. 1799",
+          "signatura": "141-1",
+          "detail": "snímek 52, Pag. 98, 22. 11. 1799, dům 74"
+        },
+        {
+          "label": "ARON, narození 22. 9. 1808",
+          "signatura": "141-1",
+          "detail": "snímek 88, Pag. 170, 22. 9. 1808, dům 74"
+        },
         {
           "label": "ARON",
           "signatura": "141-4",
@@ -2679,6 +2729,127 @@
           "detail": "snímek 14, folio 9"
         }
       ]
+    },
+    {
+      "id": "anton-ringel",
+      "name": "Anton Ringel",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Výměnkář (Auszügler) v Ruprechticích, poddaný broumovského panství (1799 a 1808).",
+      "places": [
+        "Ruprechtice č. 33 (1799)"
+      ],
+      "branch": "meier",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 22. 11. 1799",
+          "signatura": "141-1",
+          "detail": "snímek 52, Pag. 98, 22. 11. 1799, dům 74"
+        },
+        {
+          "label": "ARON, narození 22. 9. 1808",
+          "signatura": "141-1",
+          "detail": "snímek 88, Pag. 170, 22. 9. 1808, dům 74"
+        }
+      ],
+      "notes": [
+        "Otec Barbary, manželky Georga Dauera. V rodných zápisech vnuček Elisabeth 22. 11. 1799 a Theresie 22. 9. 1808 je výslovně „Barbara, Anton Ringels Auszüglers Tochter aus Ruppersdorf“.",
+        "Manželka Antona v těchto zápisech jmenována není. Ringelů je v Ruprechticích kolem roku 1800 víc (např. Benedikt Ringel, č. 81, 1799); bez dalšího zápisu se s nimi nespojuje."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "elisabeth-dauer-1799",
+      "name": "Elisabeth Dauerová",
+      "maiden": null,
+      "birth": {
+        "display": "22. 11. 1799",
+        "date": "1799-11-22",
+        "precision": "exact",
+        "place": "Ruprechtice č. 74",
+        "note": "Křtil P. Henricus Tauchman, curatus; porodní bába Rosina Menzel."
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Ruprechtice č. 74"
+      ],
+      "branch": "meier",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 22. 11. 1799",
+          "signatura": "141-1",
+          "detail": "snímek 52, Pag. 98, 22. 11. 1799, dům 74"
+        }
+      ],
+      "notes": [
+        "Manželská dcera Georga Dauera (v zápisu „Daur“, dcera „Daurin“), chalupníka v Ruprechticích č. 74, a Barbary, dcery Antona Ringela, výměnkáře. Starší sestra Theresie *1808. Není v přímé linii Štěpána."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "joseph-rosenberg-1799",
+      "name": "Joseph Rosenberg",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Podruh (Inwohner) v Ruprechticích č. 73 (1799).",
+      "places": [
+        "Ruprechtice č. 73 (1799)"
+      ],
+      "branch": "rosenberger",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 7. 10. 1799",
+          "signatura": "141-1",
+          "detail": "snímek 51, Pag. 97, 7. 10. 1799, dům 73"
+        },
+        {
+          "label": "ARON, sňatek 16. 11. 1830",
+          "signatura": "13-32",
+          "detail": "snímek 72, Trauungsbuch Ölberg, pag. 6, 16. 11. 1830, dům 56"
+        }
+      ],
+      "notes": [
+        "Otec Benedikta Rosenberga *7. 10. 1799. Pozdější rodopisná poznámka na zápisu Ignatze 1833 uvádí Josefa Rosenberga jako tkadlce z Ruprechtic; povolání tkadlec není z původního zápisu 1799, proto se neuvádí jako doložené."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "barbara-rosenberg-1799",
+      "name": "Barbara Rosenbergová",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Dcera Antona, podruha (Inwohner) z Vižňova (Wiesen) č. 58, broumovské panství (1799).",
+      "places": [
+        "Vižňov (Wiesen) č. 58 (původ)"
+      ],
+      "branch": "rosenberger",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 7. 10. 1799",
+          "signatura": "141-1",
+          "detail": "snímek 51, Pag. 97, 7. 10. 1799, dům 73"
+        }
+      ],
+      "notes": [
+        "Matka Benedikta Rosenberga *7. 10. 1799. Rodné příjmení je v zápisu 1799 čteno opatrně jako Tausch; pozdější poznámka 1833 píše Tause. Dokud není jisté, v mapě se jako rodné příjmení neuvádí."
+      ],
+      "interesting": []
     }
   ],
   "unions": [
@@ -3457,14 +3628,31 @@
       "certainty": "potvrzeno",
       "sources": [
         {
+          "label": "ARON, sňatek 16. 11. 1830",
+          "signatura": "13-32",
+          "detail": "snímek 72, Trauungsbuch Ölberg, pag. 6, 16. 11. 1830, dům 56"
+        },
+        {
+          "label": "ARON, index sňatků",
+          "signatura": "13-57",
+          "detail": "snímek 109, Lit. R, 1830"
+        },
+        {
           "label": "ARON",
           "signatura": "174-4248",
           "detail": "snímek 27, folio 23, 14. 10. 1873"
         }
       ],
       "notes": [
-        "Rodiče Ignatze podle těla jeho sňatku 14. 10. 1873. Datum jejich sňatku v této práci ještě není."
-      ]
+        "Rodiče Ignatze podle těla jeho sňatku 14. 10. 1873 a rodného zápisu 1833 (matka Anna, dcera Antona a Barbary z Olivětína č. 6). Sňatek 16. 11. 1830 sedí na totéž: Anna z Olivětína č. 6, dcera Antona a Barbary.",
+        "Rodné příjmení Anny je v oddacím zápisu 1830 čteno opatrně (Haudek / Hauck), jinde Hawel; neslučuje se potichu."
+      ],
+      "married": {
+        "display": "16. 11. 1830",
+        "date": "1830-11-16",
+        "place": "Olivětín (Ölberg) č. 56, fara Broumov",
+        "note": "13-32, Trauungsbuch Ölberg pag. 6. Ženich 31 let, nevěsta Anna 30 let (pozdější poznámka *29. 6. 1798), dcera Antona, nádeníka v Olivětíně, a Barbary; bydliště č. 6. Svědci Benedikt Birke a Benedikt Heinze (?), oba z Olivětína."
+      }
     },
     {
       "id": "u-ignatz-barbara-merkel",
@@ -3518,10 +3706,21 @@
         "barbara-pitz"
       ],
       "children": [
+        "elisabeth-dauer-1799",
         "theresia-dauer"
       ],
       "certainty": "potvrzeno",
       "sources": [
+        {
+          "label": "ARON, narození 22. 11. 1799",
+          "signatura": "141-1",
+          "detail": "snímek 52, Pag. 98, 22. 11. 1799, dům 74"
+        },
+        {
+          "label": "ARON, narození 22. 9. 1808",
+          "signatura": "141-1",
+          "detail": "snímek 88, Pag. 170, 22. 9. 1808, dům 74"
+        },
         {
           "label": "ARON",
           "signatura": "141-4",
@@ -3539,7 +3738,7 @@
         }
       ],
       "notes": [
-        "Pár je z formule u matky Theresie v oddacím zápisu 22. 11. 1841 a v tělech 1845, 1846 a 1873."
+        "Pár je doložen v rodných zápisech dcer 22. 11. 1799 a 22. 9. 1808 (dům 74), ve sňatku Theresie 22. 11. 1841 a v tělech 1845, 1846 a 1873. Datum sňatku Georga a Barbary zatím není."
       ]
     },
     {
@@ -3565,6 +3764,57 @@
       ],
       "notes": [
         "Manželka Andrease v dosud čtených zápisech není jmenována."
+      ]
+    },
+    {
+      "id": "u-anton-ringel",
+      "partners": [
+        "anton-ringel"
+      ],
+      "children": [
+        "barbara-pitz"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, narození 22. 11. 1799",
+          "signatura": "141-1",
+          "detail": "snímek 52, Pag. 98, 22. 11. 1799, dům 74"
+        },
+        {
+          "label": "ARON, narození 22. 9. 1808",
+          "signatura": "141-1",
+          "detail": "snímek 88, Pag. 170, 22. 9. 1808, dům 74"
+        }
+      ],
+      "notes": [
+        "Otcovství z formule u matky v rodných zápisech 1799 a 1808. Manželka nejmenována."
+      ]
+    },
+    {
+      "id": "u-joseph-rosenberg-barbara",
+      "partners": [
+        "joseph-rosenberg-1799",
+        "barbara-rosenberg-1799"
+      ],
+      "children": [
+        "benedikt-rosenberger"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, narození 7. 10. 1799",
+          "signatura": "141-1",
+          "detail": "snímek 51, Pag. 97, 7. 10. 1799, dům 73"
+        },
+        {
+          "label": "ARON, sňatek 16. 11. 1830",
+          "signatura": "13-32",
+          "detail": "snímek 72, Trauungsbuch Ölberg, pag. 6, 16. 11. 1830, dům 56"
+        }
+      ],
+      "notes": [
+        "Rodiče Benedikta podle rodného zápisu 7. 10. 1799; spojení s Benediktem z Olivětína dokládá poznámka „geb. 7. 10. 1799 Ruppersd. 73“ u sňatku 1830. Datum sňatku Josepha a Barbary zatím není."
       ]
     }
   ],
@@ -3741,7 +3991,7 @@
       "id": "q-hawel-olberg",
       "title": "Otec Anny Rosenbergerové: Hawel / Havel / Hauel a dům Ölberg 6 vs. 9",
       "summary": "V zápisu 1873 je Anna dcera Antona, podruha v Oehlbergu č. 9 (příjmení čtené opatrně). V zápisu 1833 je dcera Antona a Barbary v Ölbergu č. 6.",
-      "details": "Otec ani matka Anny proto nejsou v mapě jako uzly. Český ekvivalent Oehlbergu / Ölbergu se nepřiřazuje. Čísla 6 a 9 se neslučují.",
+      "details": "Otec ani matka Anny proto nejsou v mapě jako uzly. Český ekvivalent Oehlbergu / Ölbergu se nepřiřazuje. Čísla 6 a 9 se neslučují. Sňatek 16. 11. 1830 (13-32, snímek 72): nevěsta Anna z Olivětína, dcera Antona, nádeníka v Olivětíně, a Barbary (rozené Ku…? z …thal), dům 6; příjmení nevěsty čteno opatrně Haudek / Hauck. Rodiče Anny proto zatím v mapě nejsou.",
       "related_ids": [
         "anna-hawel",
         "franz-rosenberger",
@@ -3757,6 +4007,11 @@
           "label": "ARON",
           "signatura": "13-7",
           "detail": "snímek 143, pag. 266"
+        },
+        {
+          "label": "ARON",
+          "signatura": "13-32",
+          "detail": "snímek 72, 16. 11. 1830"
         }
       ]
     },
@@ -3764,7 +4019,7 @@
       "id": "q-rosenberger-poznamka-1833",
       "title": "Pozdější rodopisná poznámka u narození Ignatze 1833",
       "summary": "Na rodném zápisu 19. 5. 1833 je mladší rukou připsán rodokmen: syn Josefa Rosenberga / Rosenbergera, tkalce v Ruppersdorfu, a Barbary roz. Tause, Inwohner Wiesen 58; Josef *7. 10. 1749 Ruppersdorf 73. U matky Anny je připsáno narození 29. 6. 1798 Großölberg a sňatek 16. 11. 1830 (Ölberg II-6).",
-      "details": "To není původní ruka z roku 1833. Do mapy jako uzly nepatří, dokud se nenajde tělo těchto zápisů. V původním textu 1833 je otec Benedikt uveden jako „ill. Sohn“, podruh. Rosenberg a Rosenberger se neslučují potichu.",
+      "details": "To není původní ruka z roku 1833. Do mapy jako uzly nepatří, dokud se nenajde tělo těchto zápisů. V původním textu 1833 je otec Benedikt uveden jako „ill. Sohn“, podruh. Rosenberg a Rosenberger se neslučují potichu. Doplněk 24. 11. 2026: původní zápisy se našly a poznámku v podstatných bodech potvrzují. Rodný zápis 141-1, snímek 51, 7. 10. 1799 (ne 1749), Ruprechtice č. 73: Benedikt, syn Josepha Rosenberga, podruha, a Barbary, dcery Antona (Tausch?) z Wiesen č. 58. Sňatek 13-32, snímek 72, 16. 11. 1830 Ölberg. Joseph a Barbara jsou proto nově v mapě; povolání tkadlec a rodné příjmení Barbary (Tause / Tausch) zůstávají nedoložené.",
       "related_ids": [
         "franz-rosenberger",
         "benedikt-rosenberger",
@@ -3775,6 +4030,16 @@
           "label": "ARON",
           "signatura": "13-7",
           "detail": "snímek 143, pag. 266, pozdější poznámka"
+        },
+        {
+          "label": "ARON",
+          "signatura": "141-1",
+          "detail": "snímek 51, 7. 10. 1799"
+        },
+        {
+          "label": "ARON",
+          "signatura": "13-32",
+          "detail": "snímek 72, 16. 11. 1830"
         }
       ]
     },
@@ -3800,7 +4065,7 @@
       "id": "q-georg-dauer-jmeno-1841",
       "title": "Křestní jméno otce Theresie Dauerové v zápisu 22. 11. 1841",
       "summary": "V tělech 1845, 1846 a 1873 je otec Theresie důsledně Georg Dauer, č. 117. Oddací zápis 22. 11. 1841 má téhož Dauera z č. 117 a manželku Barbaru z č. 53; křestní jméno v tom zápisu je třeba při další četbě ještě jednou srovnat.",
-      "details": "V mapě zůstává jméno Georg z trojího shodného čtení. Kdyby 1841 četlo jinak, jména se neslučují potichu.",
+      "details": "V mapě zůstává jméno Georg z trojího shodného čtení. Kdyby 1841 četlo jinak, jména se neslučují potichu. Doplněk 24. 11. 2026: rodné zápisy dcer 22. 11. 1799 a 22. 9. 1808 (141-1, snímky 52 a 88, dům 74) mají otce Georga Dauera a matku Barbaru, dceru Antona Ringela. Jméno Georg je tím doloženo nezávisle na zápisu 1841.",
       "related_ids": [
         "georg-dauer",
         "theresia-dauer",
@@ -3819,6 +4084,11 @@
         {
           "label": "ARON",
           "signatura": "174-4248"
+        },
+        {
+          "label": "ARON",
+          "signatura": "141-1",
+          "detail": "snímek 88, 22. 9. 1808"
         }
       ]
     },
@@ -3844,6 +4114,34 @@
           "label": "ARON",
           "signatura": "96-4228",
           "detail": "snímek 75"
+        }
+      ]
+    },
+    {
+      "id": "q-ringel-dum",
+      "title": "Dům Antona Ringela: č. 33, 35 nebo 53",
+      "summary": "Barbara Dauerová je dcera Antona Ringela, výměnkáře v Ruprechticích. Číslo domu jejího původu se v zápisech liší: 1799 č. 33, 1808 č. 33 nebo 35, sňatek dcery 1841 č. 53.",
+      "details": "Čísla domů se neslučují. Manželka Antona Ringela ani jeho narození zatím nejsou. V Ruprechticích je kolem 1800 víc rodin Ringel (např. Benedikt Ringel, č. 81) — bez zápisu se nespojují. Další krok: sňatek Georga Dauera a Barbary Ringel kolem 1795–1799 v 141-3 (O Ruprechtice 1784–1813).",
+      "related_ids": [
+        "anton-ringel",
+        "barbara-pitz",
+        "georg-dauer"
+      ],
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "141-1",
+          "detail": "snímek 52, 22. 11. 1799"
+        },
+        {
+          "label": "ARON",
+          "signatura": "141-1",
+          "detail": "snímek 88, 22. 9. 1808"
+        },
+        {
+          "label": "ARON",
+          "signatura": "141-4",
+          "detail": "snímek 29, 22. 11. 1841"
         }
       ]
     }
