@@ -208,6 +208,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 141-3 (poř.č. 9739), 1784-1813",
    "popis": "římskokatolická matrika ODDANÝCH, Ruprechtice (2.1784-11.1813), Jetřichov (5.1784-7.1813), Hynčice (2.1784-11.1813)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/41ee5d74-aaef-4eee-8599-da0678470f8b"
+  },
+  "13-5": {
+   "apu": "d8c2baf4-feca-4468-a7ef-4e2c7919fe7d",
+   "dao": "d8c2baf4-feca-4468-a7ef-4e2c7919fe7d",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 13-5 (poř.č. 543), 1784-1808",
+   "popis": "římskokatolická matrika NAROZENÝCH, římskokatolický index NAROZENÝCH, Broumov (5.1784-9.1791), Olivětín (5.1784-5.1801), Velká Ves (5.1784-3.1808), Hejtmánkovice (5.1784-5.1800), Rožmitál (5.1784-6.1807), Křinice (5.1784-10.1800)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/d8c2baf4-feca-4468-a7ef-4e2c7919fe7d"
   }
  },
  "aliasy": {
@@ -233,6 +240,15 @@
    "nahled": "img/zdroje/13-57_s109.jpg",
    "velky": "img/zdroje/13-57_s109_velky.jpg",
    "vyrez_soubor": "p109R-mid.jpg"
+  },
+  "13-5|110": {
+   "signatura": "13-5",
+   "snimek": 110,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/d8c2baf4-feca-4468-a7ef-4e2c7919fe7d/dao/d8c2baf4-feca-4468-a7ef-4e2c7919fe7d/file/a99be0db-145d-4cf3-8bcf-62dcf2746445",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/13-5_s110.jpg",
+   "velky": "img/zdroje/13-5_s110_velky.jpg",
+   "vyrez_soubor": "n13-5-s110R-1798-06-29-anna.jpg"
   },
   "13-7528|117": {
    "signatura": "13-7528",
@@ -359,6 +375,15 @@
    "nahled": "img/zdroje/141-1_s088.jpg",
    "velky": "img/zdroje/141-1_s088_velky.jpg",
    "vyrez_soubor": "s088L-1808-09-theresia.jpg"
+  },
+  "141-3|10": {
+   "signatura": "141-3",
+   "snimek": 10,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/41ee5d74-aaef-4eee-8599-da0678470f8b/dao/41ee5d74-aaef-4eee-8599-da0678470f8b/file/c7c7af3c-a769-4a8b-a545-f7e319f8daf1",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-3_s010.jpg",
+   "velky": "img/zdroje/141-3_s010_velky.jpg",
+   "vyrez_soubor": "o141-3-s010R-1792-10-09-dauer-ringel.jpg"
   },
   "141-3|16": {
    "signatura": "141-3",

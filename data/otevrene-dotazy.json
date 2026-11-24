@@ -172,7 +172,7 @@
       "id": "q-hawel-olberg",
       "title": "Otec Anny Rosenbergerové: Hawel / Havel / Hauel a dům Ölberg 6 vs. 9",
       "summary": "V zápisu 1873 je Anna dcera Antona, podruha v Oehlbergu č. 9 (příjmení čtené opatrně). V zápisu 1833 je dcera Antona a Barbary v Ölbergu č. 6.",
-      "details": "Otec ani matka Anny proto nejsou v mapě jako uzly. Český ekvivalent Oehlbergu / Ölbergu se nepřiřazuje. Čísla 6 a 9 se neslučují. Sňatek 16. 11. 1830 (13-32, snímek 72): nevěsta Anna z Olivětína, dcera Antona, nádeníka v Olivětíně, a Barbary (rozené Ku…? z …thal), dům 6; příjmení nevěsty čteno opatrně Haudek / Hauck. Rodiče Anny proto zatím v mapě nejsou.",
+      "details": "Otec ani matka Anny proto nejsou v mapě jako uzly. Český ekvivalent Oehlbergu / Ölbergu se nepřiřazuje. Čísla 6 a 9 se neslučují. Sňatek 16. 11. 1830 (13-32, snímek 72): nevěsta Anna z Olivětína, dcera Antona, nádeníka v Olivětíně, a Barbary (rozené Ku…? z …thal), dům 6; příjmení nevěsty čteno opatrně Haudek / Hauck. Rodiče Anny proto zatím v mapě nejsou. Doplněk: rodný zápis Anny 29. 6. 1798 (13-5, snímek 110, Ölberg pag. 9, č. 6) — otec Anton, podruh, příjmení opatrně Hausdorf; matka Barbara, dcera Johanna (Lux?) z Rožmitálu. Anton a Barbara jsou nově v mapě jen s křestními jmény; rodné příjmení Hawel u Anny bylo odebráno, dokud se čtení neustálí.",
       "related_ids": [
         "anna-hawel",
         "franz-rosenberger",
@@ -193,6 +193,11 @@
           "label": "ARON",
           "signatura": "13-32",
           "detail": "snímek 72, 16. 11. 1830"
+        },
+        {
+          "label": "ARON",
+          "signatura": "13-5",
+          "detail": "snímek 110, 29. 6. 1798"
         }
       ]
     },

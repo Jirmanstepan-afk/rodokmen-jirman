@@ -2403,21 +2403,26 @@
       ]
     },
     {
-      "maiden": "Hawel",
-      "birth": null,
+      "maiden": null,
+      "birth": {
+        "display": "29. 6. 1798",
+        "date": "1798-06-29",
+        "precision": "exact",
+        "place": "Olivětín (Ölberg) č. 6",
+        "note": "13-5, oddíl Ölberg, pag. 9: Anna Maria Genovefa, manželská dcera Antona (příjmení čteno opatrně Hausdorf), podruha, a Barbary, dcery Johanna (Lux?), podruha z Rožmitálu (Rosenthal). Křtil P. Paulus Berger, kaplan. Pozdější poznámka: „kop. 16. 11. 1830 Br. mit Rosenberg Benedikt, geb. 7. 10. 1799 Rupp. 73“."
+      },
       "baptism": null,
       "death": null,
-      "occupation": "Manželka Benedikta Rosenbergera, podruha v Ruprechticích č. 36. Dcera Antona Hawela (čtení příjmení opatrné, možné i Havel / Hauel), podruha v Oehlbergu č. 9.",
+      "occupation": "Manželka Benedikta Rosenbergera, podruha v Ruprechticích č. 36. Dcera Antona, podruha v Olivětíně č. 6, a Barbary.",
       "places": [
-        "Ruprechtice č. 36",
-        "Oehlberg č. 9",
-        "Ölberg č. 6 (zápis 1833, dům otce)"
+        "Olivětín (Ölberg) č. 6 (narození 1798)",
+        "Ruprechtice č. 36"
       ],
       "living": false,
       "notes": [
-        "V těle sňatku syna Ignatze 14. 10. 1873 je dcera Antona, podruha v Oehlbergu č. 9 (příjmení čtené opatrně: Hawel / Havel / Hauel). V těle narození syna 19. 5. 1833 (13-7, pag. 266) je manželská dcera Antona a jeho manželky Barbary v Ölbergu č. 6.",
-        "Čísla domu 6 a 9 ani přesné znění příjmení se neslučují; otec a matka Anny nejsou v mapě jako uzly — viz otevřené dotazy.",
-        "Oehlberg / Ölberg je v zápisech v broumovském okrese; český ekvivalent v této práci nepřiřazuji."
+        "Rodné příjmení se v zápisech čte různě: 1798 opatrně Hausdorf, 1830 Haudek/Hauck, 1873 Hawel/Havel/Hauel. Dokud se neustálí, v mapě rodné příjmení není (dříve uvedeno Hawel).",
+        "Narození 29. 6. 1798 spojuje s Benediktem Rosenbergem poznámka o sňatku 16. 11. 1830 přímo u rodného zápisu; sedí i dům 6 a rodiče Anton a Barbara (zápis Ignatze 1833).",
+        "Ölberg = Olivětín podle popisu knihy 13-5 v ARON."
       ],
       "interesting": [],
       "id": "anna-hawel",
@@ -2425,6 +2430,16 @@
       "branch": "rosenberger",
       "certainty": "potvrzeno",
       "sources": [
+        {
+          "label": "ARON, narození 29. 6. 1798",
+          "signatura": "13-5",
+          "detail": "snímek 110, Ölberg Geburtsbuch pag. 9, 29. 6. 1798, dům 6"
+        },
+        {
+          "label": "ARON, sňatek 16. 11. 1830",
+          "signatura": "13-32",
+          "detail": "snímek 72, Trauungsbuch Ölberg, pag. 6, 16. 11. 1830, dům 56"
+        },
         {
           "label": "ARON",
           "signatura": "174-4248",
@@ -2556,7 +2571,11 @@
     },
     {
       "maiden": null,
-      "birth": null,
+      "birth": {
+        "display": "kolem 1754",
+        "precision": "circa",
+        "note": "Věk 38 let při sňatku 9. 10. 1792."
+      },
       "baptism": null,
       "death": {
         "display": "před 22. 11. 1841",
@@ -2579,6 +2598,11 @@
       "branch": "meier",
       "certainty": "potvrzeno",
       "sources": [
+        {
+          "label": "ARON, sňatek 9. 10. 1792",
+          "signatura": "141-3",
+          "detail": "snímek 10, Pag. 14, 9. 10. 1792, dům 74"
+        },
         {
           "label": "ARON, narození 22. 11. 1799",
           "signatura": "141-1",
@@ -2608,7 +2632,11 @@
     },
     {
       "maiden": "Ringel",
-      "birth": null,
+      "birth": {
+        "display": "kolem 1768",
+        "precision": "circa",
+        "note": "Věk 24 let při sňatku 9. 10. 1792. Rodný zápis v indexu 141-4251 (R, 1764–1771) jako dcera Antona Ringela nenalezen."
+      },
       "baptism": null,
       "death": {
         "display": "před 20. 6. 1845",
@@ -2631,6 +2659,11 @@
       "branch": "meier",
       "certainty": "potvrzeno",
       "sources": [
+        {
+          "label": "ARON, sňatek 9. 10. 1792",
+          "signatura": "141-3",
+          "detail": "snímek 10, Pag. 14, 9. 10. 1792, dům 74"
+        },
         {
           "label": "ARON, narození 22. 11. 1799",
           "signatura": "141-1",
@@ -2848,6 +2881,63 @@
       ],
       "notes": [
         "Matka Benedikta Rosenberga *7. 10. 1799. Rodné příjmení je v zápisu 1799 čteno opatrně jako Tausch; pozdější poznámka 1833 píše Tause. Dokud není jisté, v mapě se jako rodné příjmení neuvádí."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "anton-otec-anny-1798",
+      "name": "Anton",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Podruh (Inwohner) v Olivětíně (Ölberg) č. 6 (1798); 1830 nádeník (Tagelöhner) v Olivětíně.",
+      "places": [
+        "Olivětín (Ölberg) č. 6"
+      ],
+      "branch": "rosenberger",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 29. 6. 1798",
+          "signatura": "13-5",
+          "detail": "snímek 110, Ölberg Geburtsbuch pag. 9, 29. 6. 1798, dům 6"
+        },
+        {
+          "label": "ARON, sňatek 16. 11. 1830",
+          "signatura": "13-32",
+          "detail": "snímek 72, Trauungsbuch Ölberg, pag. 6, 16. 11. 1830, dům 56"
+        }
+      ],
+      "notes": [
+        "Otec Anny Rosenbergerové *29. 6. 1798. Příjmení je v zápisech čteno nejistě (Hausdorf? / Haudek? / Hawel?), proto je v mapě jen křestní jméno — viz otevřený dotaz q-hawel-olberg."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "barbara-matka-anny-1798",
+      "name": "Barbara",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Dcera Johanna (příjmení čteno opatrně Lux), podruha v Rožmitálu (Rosenthal), broumovské panství.",
+      "places": [
+        "Rožmitál (Rosenthal) (původ)"
+      ],
+      "branch": "rosenberger",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 29. 6. 1798",
+          "signatura": "13-5",
+          "detail": "snímek 110, Ölberg Geburtsbuch pag. 9, 29. 6. 1798, dům 6"
+        }
+      ],
+      "notes": [
+        "Matka Anny Rosenbergerové *29. 6. 1798. Rodné příjmení (Lux?) i manželovo příjmení jsou nejistá čtení, proto v mapě jen křestní jméno."
       ],
       "interesting": []
     }
@@ -3712,6 +3802,11 @@
       "certainty": "potvrzeno",
       "sources": [
         {
+          "label": "ARON, sňatek 9. 10. 1792",
+          "signatura": "141-3",
+          "detail": "snímek 10, Pag. 14, 9. 10. 1792, dům 74"
+        },
+        {
           "label": "ARON, narození 22. 11. 1799",
           "signatura": "141-1",
           "detail": "snímek 52, Pag. 98, 22. 11. 1799, dům 74"
@@ -3738,8 +3833,14 @@
         }
       ],
       "notes": [
-        "Pár je doložen v rodných zápisech dcer 22. 11. 1799 a 22. 9. 1808 (dům 74), ve sňatku Theresie 22. 11. 1841 a v tělech 1845, 1846 a 1873. Datum sňatku Georga a Barbary zatím není."
-      ]
+        "Pár je doložen sňatkem 9. 10. 1792 (dům 74), rodnými zápisy dcer 22. 11. 1799 a 22. 9. 1808 (dům 74), sňatkem Theresie 22. 11. 1841 a těly 1845, 1846 a 1873."
+      ],
+      "married": {
+        "display": "9. 10. 1792",
+        "date": "1792-10-09",
+        "place": "Ruprechtice č. 74",
+        "note": "141-3, Pag. 14: ženich Georg Daur, 38 let; nevěsta Barbara Ringelin, 24 let; svědci Franz Zinke(?) a Joseph Mayer. Oddával Heinrich Tauchmann, farář. Zápis je před vizitační poznámkou z 16. 10. 1792."
+      }
     },
     {
       "id": "u-andreas-mayer",
@@ -3815,6 +3916,27 @@
       ],
       "notes": [
         "Rodiče Benedikta podle rodného zápisu 7. 10. 1799; spojení s Benediktem z Olivětína dokládá poznámka „geb. 7. 10. 1799 Ruppersd. 73“ u sňatku 1830. Datum sňatku Josepha a Barbary zatím není."
+      ]
+    },
+    {
+      "id": "u-anton-barbara-olivetin",
+      "partners": [
+        "anton-otec-anny-1798",
+        "barbara-matka-anny-1798"
+      ],
+      "children": [
+        "anna-hawel"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, narození 29. 6. 1798",
+          "signatura": "13-5",
+          "detail": "snímek 110, Ölberg Geburtsbuch pag. 9, 29. 6. 1798, dům 6"
+        }
+      ],
+      "notes": [
+        "Rodiče Anny podle rodného zápisu 29. 6. 1798; shodně sňatek 1830 (dcera Antona a Barbary, č. 6) a zápis Ignatze 1833."
       ]
     }
   ],
@@ -3991,7 +4113,7 @@
       "id": "q-hawel-olberg",
       "title": "Otec Anny Rosenbergerové: Hawel / Havel / Hauel a dům Ölberg 6 vs. 9",
       "summary": "V zápisu 1873 je Anna dcera Antona, podruha v Oehlbergu č. 9 (příjmení čtené opatrně). V zápisu 1833 je dcera Antona a Barbary v Ölbergu č. 6.",
-      "details": "Otec ani matka Anny proto nejsou v mapě jako uzly. Český ekvivalent Oehlbergu / Ölbergu se nepřiřazuje. Čísla 6 a 9 se neslučují. Sňatek 16. 11. 1830 (13-32, snímek 72): nevěsta Anna z Olivětína, dcera Antona, nádeníka v Olivětíně, a Barbary (rozené Ku…? z …thal), dům 6; příjmení nevěsty čteno opatrně Haudek / Hauck. Rodiče Anny proto zatím v mapě nejsou.",
+      "details": "Otec ani matka Anny proto nejsou v mapě jako uzly. Český ekvivalent Oehlbergu / Ölbergu se nepřiřazuje. Čísla 6 a 9 se neslučují. Sňatek 16. 11. 1830 (13-32, snímek 72): nevěsta Anna z Olivětína, dcera Antona, nádeníka v Olivětíně, a Barbary (rozené Ku…? z …thal), dům 6; příjmení nevěsty čteno opatrně Haudek / Hauck. Rodiče Anny proto zatím v mapě nejsou. Doplněk: rodný zápis Anny 29. 6. 1798 (13-5, snímek 110, Ölberg pag. 9, č. 6) — otec Anton, podruh, příjmení opatrně Hausdorf; matka Barbara, dcera Johanna (Lux?) z Rožmitálu. Anton a Barbara jsou nově v mapě jen s křestními jmény; rodné příjmení Hawel u Anny bylo odebráno, dokud se čtení neustálí.",
       "related_ids": [
         "anna-hawel",
         "franz-rosenberger",
@@ -4012,6 +4134,11 @@
           "label": "ARON",
           "signatura": "13-32",
           "detail": "snímek 72, 16. 11. 1830"
+        },
+        {
+          "label": "ARON",
+          "signatura": "13-5",
+          "detail": "snímek 110, 29. 6. 1798"
         }
       ]
     },
