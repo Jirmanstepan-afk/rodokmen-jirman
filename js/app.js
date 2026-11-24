@@ -1,9 +1,10 @@
 
 (function () {
   const DATA_URL = "./data/rodokmen.json";
+  const ZDROJE_URL = "./data/zdroje.json";
 
   const $ = (sel, el = document) => el.querySelector(sel);
-  const state = { data: null, layout: null, scale: 1, tx: 0, ty: 0, active: null };
+  const state = { data: null, zdroje: null, layout: null, scale: 1, tx: 0, ty: 0, active: null };
 
 
   function unattachedPeople(data) {
@@ -64,26 +65,46 @@
   function renderCards(data, L) {
     const world = $(".world");
     world.querySelectorAll(".card").forEach((n) => n.remove());
+    const focus = data.meta.focus;
     for (const p of data.people) {
       const box = L.pos[p.id];
       if (!box) continue;
       const el = document.createElement("button");
       el.type = "button";
-      el.className = "card " + (p.certainty || "potvrzeno");
+      const lineage = p.id === focus || L.ancestors.has(p.id);
+      el.className = "card " + (p.certainty || "potvrzeno") + (lineage ? " lineage" : "") + (p.id === focus ? " focus" : "") + (p.living ? " living" : "");
       el.dataset.id = p.id;
       el.style.left = box.x + "px";
       el.style.top = box.y + "px";
+      el.style.width = box.w + "px";
+      el.style.height = box.h + "px";
       el.style.setProperty("--branch", branchColor(data, p.branch));
       const maiden = p.maiden ? ` <span class="maiden">roz. ${esc(p.maiden)}</span>` : "";
       const badge = p.certainty && p.certainty !== "potvrzeno"
         ? `<span class="badge">${esc(certLabel(data, p.certainty))}</span>` : "";
       const occ = occShort(p);
+      const nsrc = sourceCount(p);
       el.innerHTML = `${badge}<div class="nm">${esc(p.name)}${maiden}</div>
         <div class="dates">${esc(datesLine(p))}</div>
-        ${occ ? `<div class="occ">${esc(occ)}</div>` : ""}`;
+        ${occ ? `<div class="occ">${esc(occ)}</div>` : ""}
+        ${nsrc.img ? `<span class="has-img" title="${nsrc.img} snímků zápisu">&#9638; ${nsrc.img}</span>` : ""}`;
+      el.title = `${p.name}${datesLine(p) ? " · " + datesLine(p) : ""}`;
       el.addEventListener("click", (e) => { e.stopPropagation(); openPerson(p.id); });
+      el.addEventListener("mouseenter", () => { if (!state.active) highlightPath(p.id, true); });
+      el.addEventListener("mouseleave", () => { if (!state.active) clearHighlight(); });
       world.appendChild(el);
     }
+  }
+
+  const GEN_NAMES = ["Štěpán", "rodiče", "prarodiče", "praprarodiče"];
+  function genLabel(row) {
+    if (row < 0) return row === -1 ? "děti" : `potomci ${-row}. kol.`;
+    if (row < GEN_NAMES.length) return GEN_NAMES[row];
+    return `${row - 1}× pra- prarodiče`.replace(/^1× pra- /, "pra");
+  }
+  function genLabelFull(row) {
+    if (row <= 3) return genLabel(row);
+    return "pra".repeat(row - 1) + "rodiče";
   }
 
   function renderLinks(L) {
@@ -91,11 +112,153 @@
     svg.setAttribute("width", L.width);
     svg.setAttribute("height", L.height);
     svg.setAttribute("viewBox", `0 0 ${L.width} ${L.height}`);
-    svg.innerHTML = L.links.map((l) => {
-      const kind = l.type === "ident" ? "link-ident" : l.type === "marry" ? "marry" : "link-" + (l.cert || "potvrzeno");
-      const cls = l.type === "marry" ? "marry" : kind;
-      return `<path class="${cls}" d="${esc(l.d)}" />`;
+    const bands = L.rows.map((r, i) => {
+      const y = r.y - 22, h = L.CARD_H + 44;
+      const label = r.row >= 0 ? `${r.row}. generace` : "potomci";
+      return `<g class="gen-band${i % 2 ? " odd" : ""}">
+        <rect x="0" y="${y}" width="${L.width}" height="${h}" rx="0" />
+        <text class="gen-num" x="22" y="${r.y + L.CARD_H / 2 - 4}">${esc(label)}</text>
+        <text class="gen-name" x="22" y="${r.y + L.CARD_H / 2 + 14}">${esc(genLabelFull(r.row))}</text>
+      </g>`;
     }).join("");
+    const paths = L.links.map((l, i) => {
+      const cls = ["lk", l.kind, "c-" + (l.cert || "potvrzeno"), l.lineage ? "lineage" : ""].join(" ");
+      return `<path class="${cls}" data-i="${i}" data-people="${esc((l.people || []).join(" "))}" data-union="${esc(l.union || "")}" d="${esc(l.d)}" />`;
+    });
+    // přímá linie nakonec (navrch)
+    const order = L.links.map((l, i) => [l.lineage ? 1 : 0, i]).sort((a, b) => a[0] - b[0]).map((x) => x[1]);
+    const marks = L.markers.map((m) => {
+      const t = m.married && m.married.display ? `Sňatek: ${m.married.display}${m.married.place ? ", " + m.married.place : ""}` : "Svazek";
+      return `<g class="union-mark${m.lineage ? " lineage" : ""} c-${esc(m.cert)}" data-union="${esc(m.union)}" data-people="${esc(m.people.join(" "))}" transform="translate(${m.x} ${m.y})">
+        <title>${esc(t)}</title>
+        <circle r="10" />
+        <path d="M0 4.2 C -5.2 0.6 -5.6 -3.8 -2.6 -4.4 C -1.3 -4.7 -0.3 -3.9 0 -3 C 0.3 -3.9 1.3 -4.7 2.6 -4.4 C 5.6 -3.8 5.2 0.6 0 4.2 Z" />
+      </g>`;
+    }).join("");
+    svg.innerHTML = `<g class="bands">${bands}</g><g class="paths">${order.map((i) => paths[i]).join("")}</g><g class="marks">${marks}</g>`;
+  }
+
+  function highlightPath(id, soft) {
+    const L = state.layout;
+    const focus = state.data.meta.focus;
+    const res = RodokmenLayout.pathTo(state.data, id, focus);
+    const world = $(".world");
+    world.classList.add(soft ? "hl-soft" : "hl");
+    world.classList.remove(soft ? "hl" : "hl-soft");
+    document.querySelectorAll(".on-path").forEach((n) => n.classList.remove("on-path"));
+    if (!res) return;
+    const ppl = new Set(res.people);
+    const uni = new Set(res.unions);
+    for (const pid of ppl) {
+      const el = document.querySelector(`.card[data-id="${CSS.escape(pid)}"]`);
+      if (el) el.classList.add("on-path");
+    }
+    document.querySelectorAll(".links .lk").forEach((p) => {
+      const u = p.getAttribute("data-union");
+      if (!uni.has(u)) return;
+      const ps = (p.getAttribute("data-people") || "").split(" ");
+      if (p.classList.contains("couple")) {
+        if (ps.filter((x) => ppl.has(x)).length >= 2) p.classList.add("on-path");
+      } else {
+        // dítě musí být na cestě a aspoň jeden rodič
+        const child = ps[ps.length - 1];
+        if (ppl.has(child) && ps.slice(0, -1).some((x) => ppl.has(x))) p.classList.add("on-path");
+      }
+    });
+    document.querySelectorAll(".links .union-mark").forEach((m) => {
+      if (uni.has(m.getAttribute("data-union"))) m.classList.add("on-path");
+    });
+    const bar = $("#pathbar");
+    if (bar && !soft) {
+      const names = res.people.map((x) => (findPerson(state.data, x) || {}).name || x);
+      bar.innerHTML = `<span class="pb-lbl">Cesta ke Štěpánovi (${res.people.length - 1} ${res.people.length - 1 === 1 ? "krok" : res.people.length - 1 < 5 ? "kroky" : "kroků"}):</span> ` +
+        res.people.map((x, i) => `<button type="button" class="linkish" data-jump="${esc(x)}">${esc(names[i])}</button>`).join(' <span class="arr">→</span> ');
+      bar.classList.toggle("open", res.people.length > 1);
+    }
+  }
+  function clearHighlight() {
+    const world = $(".world");
+    world.classList.remove("hl", "hl-soft");
+    document.querySelectorAll(".on-path").forEach((n) => n.classList.remove("on-path"));
+    const bar = $("#pathbar");
+    if (bar) bar.classList.remove("open");
+  }
+
+  /* ---------- zdroje: odkazy a fotky ---------- */
+  const FAMILY_DOC = /(rodný|křestní|rodokmen|podklad uživatele|sdělení|rodinn)/i;
+  function snimkyOf(s) {
+    const z = state.zdroje || {};
+    const out = [];
+    if (s.snimek != null) out.push(...(Array.isArray(s.snimek) ? s.snimek : [s.snimek]));
+    const det = String(s.detail || "");
+    let m = det.match(/snímky\s+(\d+)\s*[–-]\s*(\d+)/);
+    if (m) for (let n = +m[1]; n <= +m[2]; n++) out.push(n);
+    m = det.match(/snímky\s+([\d ,a]+)/);
+    if (m) out.push(...(m[1].match(/\d+/g) || []).map(Number));
+    for (const mm of det.matchAll(/snímek\s+(\d+)/g)) out.push(+mm[1]);
+    if (!out.length && s.signatura) {
+      for (const [k, n] of Object.entries(z.aliasy || {})) {
+        const [sig, txt] = [k.slice(0, k.indexOf("|")), k.slice(k.indexOf("|") + 1)];
+        if (sig === s.signatura && txt && det.includes(txt)) out.push(+n);
+      }
+    }
+    return [...new Set(out.map(Number))];
+  }
+  function resolveSource(s) {
+    const z = state.zdroje || { knihy: {}, snimky: {} };
+    const isFamily = !s.signatura && FAMILY_DOC.test(s.label || "");
+    const shots = [];
+    if (s.signatura) {
+      for (const n of snimkyOf(s)) {
+        const e = (z.snimky || {})[`${s.signatura}|${n}`];
+        shots.push({ n, url: e && e.url, img: e && e.nahled, big: e && e.velky, crop: e && e.vyrez });
+      }
+    }
+    const book = s.signatura && (z.knihy || {})[s.signatura];
+    let url = s.url || (shots.find((x) => x.url) || {}).url || (book && book.url) || s.apu || null;
+    if (url && !/^https:\/\//.test(url)) url = null;
+    if (s.image && !isFamily) shots.unshift({ n: null, url, img: s.image, big: s.image_full || s.image, crop: "zápis" });
+    return { isFamily, shots, url, book };
+  }
+  function sourceCount(p) {
+    let img = 0;
+    for (const s of p.sources || []) img += resolveSource(s).shots.filter((x) => x.img).length;
+    return { img };
+  }
+  function sourceItem(s, opts = {}) {
+    const r = resolveSource(s);
+    const det = [s.signatura, s.detail].filter(Boolean).join(" — ");
+    const title = `${esc(s.label)}${det ? ": " + esc(det) : ""}`;
+    if (r.isFamily) {
+      return `<li class="src fam"><span class="src-t">${title}</span>
+        <span class="src-note">Rodinný dokument — na veřejné mapě se nezveřejňuje (obsahuje žijící osoby).</span></li>`;
+    }
+    const links = r.shots.filter((x) => x.url).map((x) =>
+      `<a class="src-link" href="${esc(x.url)}" target="_blank" rel="noopener noreferrer">ARON snímek ${x.n} ↗</a>`);
+    if (!links.length && r.url) links.push(`<a class="src-link" href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">ARON kniha ${esc(s.signatura || "")} ↗</a>`);
+    const thumbs = opts.noThumbs ? "" : r.shots.filter((x) => x.img).map((x) =>
+      `<button type="button" class="thumb" data-big="${esc(x.big || x.img)}" data-url="${esc(x.url || "")}" data-cap="${esc((s.label || "") + " · " + (s.signatura || "") + (x.n ? " · snímek " + x.n : ""))}" data-crop="${esc(x.crop || "")}">
+        <img loading="lazy" src="${esc(x.img)}" alt="Snímek ${x.n || ""} ${esc(s.signatura || "")}">
+        <span class="thumb-cap">${x.crop === "zápis" ? "výřez zápisu" : "celá strana"}${x.n ? " · snímek " + x.n : ""}</span>
+      </button>`).join("");
+    return `<li class="src"><span class="src-t">${title}</span>${links.length ? `<span class="src-links">${links.join(" ")}</span>` : ""}${thumbs ? `<div class="thumbs">${thumbs}</div>` : ""}</li>`;
+  }
+
+  function openLightbox(big, url, cap, crop) {
+    const lb = $("#lightbox");
+    $("#lb-img").src = big;
+    $("#lb-cap").textContent = cap + (crop === "zápis" ? " — výřez zápisu" : crop ? " — celá strana" : "");
+    const a = $("#lb-aron");
+    if (url) { a.href = url; a.style.display = ""; } else a.style.display = "none";
+    $("#lb-full").href = big;
+    lb.classList.add("open");
+    lb.setAttribute("aria-hidden", "false");
+  }
+  function closeLightbox() {
+    const lb = $("#lightbox");
+    lb.classList.remove("open");
+    lb.setAttribute("aria-hidden", "true");
+    $("#lb-img").removeAttribute("src");
   }
 
   function applyTransform() {
@@ -112,6 +275,29 @@
     state.ty = pad;
     applyTransform();
   }
+  function initialView(data, L) {
+    const f = data.meta.focus;
+    const ids = [f];
+    const ups = (id) => {
+      const u = (data.unions || []).find((x) => (x.children || []).includes(id));
+      return u ? (u.partners || []) : [];
+    };
+    for (const p of ups(f)) ids.push(p);
+    const boxes = ids.map((id) => L.pos[id]).filter(Boolean);
+    if (!boxes.length) return;
+    const x0 = Math.min(...boxes.map((b) => b.x)), x1 = Math.max(...boxes.map((b) => b.x + b.w));
+    const y0 = Math.min(...boxes.map((b) => b.y)), y1 = Math.max(...boxes.map((b) => b.y + b.h));
+    const vp = $(".viewport");
+    const s = Math.max(0.55, Math.min(1, (vp.clientWidth - 60) / (x1 - x0), (vp.clientHeight - 90) / (y1 - y0)));
+    state.scale = s;
+    const fb = L.pos[f];
+    // na úzkém displeji centrovat na Štěpána, jinak na celou skupinu
+    const cx = (x1 - x0) * s > vp.clientWidth ? fb.x + fb.w / 2 : (x0 + x1) / 2;
+    state.tx = vp.clientWidth / 2 - cx * s;
+    state.ty = vp.clientHeight / 2 - ((y0 + y1) / 2) * s;
+    applyTransform();
+  }
+
   function focusId(id, scale) {
     const box = state.layout.pos[id];
     if (!box) return;
@@ -120,7 +306,9 @@
     const cx = box.x + box.w / 2;
     const cy = box.y + box.h / 2;
     state.tx = vp.clientWidth / 2 - cx * state.scale;
-    state.ty = vp.clientHeight / 2 - cy * state.scale;
+    // na mobilu panel zakrývá spodní část obrazovky -> osobu dát nahoru
+    const mobile = window.matchMedia("(max-width: 720px)").matches;
+    state.ty = (mobile ? vp.clientHeight * 0.16 : vp.clientHeight / 2) - cy * state.scale;
     applyTransform();
     document.querySelectorAll(".card.active").forEach((n) => n.classList.remove("active"));
     const el = document.querySelector(`.card[data-id="${CSS.escape(id)}"]`);
@@ -135,8 +323,8 @@
     const p = findPerson(state.data, id);
     if (!p) return;
     state.active = id;
-    if (!isUnattached(state.data, id)) focusId(id);
-    else document.querySelectorAll(".card.active").forEach((n) => n.classList.remove("active"));
+    if (!isUnattached(state.data, id)) { focusId(id); highlightPath(id, false); }
+    else { clearHighlight(); document.querySelectorAll(".card.active").forEach((n) => n.classList.remove("active")); }
     const panel = $("#panel");
     panel.classList.add("open");
     panel.setAttribute("aria-hidden", "false");
@@ -156,7 +344,8 @@
         const others = (u.partners || []).filter((x) => x !== id).map(nameOf);
         const kids = (u.children || []).map(nameOf);
         const m = u.married ? (u.married.display + (u.married.place ? ", " + u.married.place : "")) : "";
-        rels.push(`<li><strong>Svazek</strong>${others.length ? " s " + others.join(", ") : ""} (${esc(u.certainty || "")})${m ? " — " + esc(m) : ""}${kids.length ? "<br>děti: " + kids.join(", ") : ""}</li>`);
+        const us = (u.sources || []).length ? `<ul class="sources inner">${(u.sources || []).map((s) => sourceItem(s)).join("")}</ul>` : "";
+        rels.push(`<li><strong>Svazek</strong>${others.length ? " s " + others.join(", ") : ""} (${esc(u.certainty || "")})${m ? " — " + esc(m) : ""}${kids.length ? "<br>děti: " + kids.join(", ") : ""}${us}</li>`);
       } else {
         const pars = (u.partners || []).map(nameOf);
         rels.push(`<li>Dítě svazku: ${pars.join(" × ")} (${esc(u.certainty || "")})</li>`);
@@ -175,11 +364,7 @@
     }
     const notes = (p.notes || []).map((n) => `<li>${esc(n)}</li>`).join("");
     const interesting = (p.interesting || []).map((n) => `<li>${esc(n)}</li>`).join("");
-    const sources = (p.sources || []).map((s) => {
-      const det = [s.signatura, s.detail].filter(Boolean).join(" — ");
-      const apu = s.apu ? ` <a href="${esc(s.apu)}" target="_blank" rel="noopener noreferrer">ARON</a>` : "";
-      return `<li>${esc(s.label)}${det ? ": " + esc(det) : ""}${apu}</li>`;
-    }).join("");
+    const sources = (p.sources || []).map((s) => sourceItem(s)).join("");
     const alert = p.certainty === "kandidat"
       ? `<div class="alert">${esc(cert.description || "Tato položka není v zápisech tvrdé doložena.")}</div>`
       : p.certainty === "pravdepodobne"
@@ -207,7 +392,7 @@
       ${rels.length ? `<h3>Vazby</h3><ul class="notes">${rels.join("")}</ul>` : ""}
       ${interesting ? `<h3>Zajímavosti</h3><ul class="notes">${interesting}</ul>` : ""}
       ${notes ? `<h3>Poznámky</h3><ul class="notes">${notes}</ul>` : ""}
-      ${sources ? `<h3>Zdroje</h3><ul class="sources">${sources}</ul>` : ""}
+      ${sources ? `<h3>Zdroje <span class="h-note">klik na fotku = zvětšit · odkaz otevře snímek v archivu</span></h3><ul class="sources">${sources}</ul>` : ""}
       <p class="footer-note">Údaje výhradně z ledgeru ROD-1.md a ROD-1-doplneni.md. Nic není doplněno z domněnky. U žijících osob se neuveřejňují adresy ani čísla domů.</p>
     `;
   }
@@ -218,6 +403,8 @@
   }
 
   function closePanel() {
+    state.active = null;
+    clearHighlight();
     $("#panel").classList.remove("open");
     $("#panel").setAttribute("aria-hidden", "true");
     document.querySelectorAll(".card.active").forEach((n) => n.classList.remove("active"));
@@ -227,7 +414,7 @@
     const vp = $("#viewport");
     let dragging = false, lx = 0, ly = 0;
     vp.addEventListener("pointerdown", (e) => {
-      if (e.target.closest(".card, .panel, .topbar, .legend, .questions, .search-results")) return;
+      if (e.target.closest(".card, .panel, .topbar, .legend, .questions, .search-results, .pathbar, .lightbox")) return;
       dragging = true; lx = e.clientX; ly = e.clientY;
       vp.classList.add("dragging");
       vp.setPointerCapture(e.pointerId);
@@ -330,16 +517,13 @@
         const label = person ? person.name : id;
         return `<button type="button" class="linkish" data-jump="${esc(id)}">${esc(label)}</button>`;
       }).join(", ");
-      const src = (q.sources || []).map((s) => {
-        const bits = [s.label, s.signatura, s.detail].filter(Boolean);
-        return esc(bits.join(" — "));
-      }).filter(Boolean).join("; ");
+      const src = (q.sources || []).map((s) => sourceItem(s, { noThumbs: true })).join("");
       return `<article class="q-item">
         <h3>${esc(q.title || q.id || "Dotaz")}</h3>
         ${q.summary ? `<p class="q-sum">${esc(q.summary)}</p>` : ""}
         ${q.details ? `<p class="q-det">${esc(q.details)}</p>` : ""}
         ${rel ? `<p class="q-rel">V mapě: ${rel}</p>` : ""}
-        ${src ? `<p class="q-src">${src}</p>` : ""}
+        ${src ? `<ul class="sources q-src">${src}</ul>` : ""}
       </article>`;
     }).join("");
     const branches = data.unattached_branches || [];
@@ -395,6 +579,10 @@
       return;
     }
     state.data = data;
+    try {
+      const zr = await fetch(ZDROJE_URL);
+      state.zdroje = zr.ok ? await zr.json() : null;
+    } catch (_) { state.zdroje = null; }
     const L = RodokmenLayout.layout(data);
     state.layout = L;
     const world = $(".world");
@@ -424,6 +612,18 @@
       if (jump) openPerson(jump.getAttribute("data-jump"));
     });
     $("#panel-close").addEventListener("click", closePanel);
+    document.addEventListener("click", (e) => {
+      const t = e.target.closest(".thumb");
+      if (t) { e.preventDefault(); openLightbox(t.dataset.big, t.dataset.url, t.dataset.cap, t.dataset.crop); }
+    });
+    $("#lightbox").addEventListener("click", (e) => {
+      if (e.target.closest("a")) return;
+      if (e.target.id === "lightbox" || e.target.closest(".lb-close")) closeLightbox();
+    });
+    $("#pathbar")?.addEventListener("click", (e) => {
+      const jump = e.target.closest("[data-jump]");
+      if (jump) openPerson(jump.getAttribute("data-jump"));
+    });
     $("#panel").addEventListener("click", (e) => {
       const jump = e.target.closest("[data-jump]");
       if (jump) openPerson(jump.getAttribute("data-jump"));
@@ -432,7 +632,10 @@
       if (e.target === e.currentTarget) closePanel();
     });
     document.addEventListener("keydown", (e) => {
-      if (e.key === "Escape") { closePanel(); setQuestionsOpen(false); }
+      if (e.key === "Escape") {
+        if ($("#lightbox").classList.contains("open")) { closeLightbox(); return; }
+        closePanel(); setQuestionsOpen(false);
+      }
       if (e.key === "/" && document.activeElement?.tagName !== "INPUT") {
         e.preventDefault(); $("#q").focus();
       }
@@ -445,8 +648,8 @@
       (qn ? ` · ${qn} otevřených dotazů` : "");
     $("#meta-line").textContent = counts + " · aktualizace " + (data.meta.updated || "");
     fitAll();
-    // mírně přiblížit na Štěpána po fit, ale nechat vidět i rodiče
-    setTimeout(() => focusId(data.meta.focus, Math.min(1.05, Math.max(state.scale, 0.7))), 50);
+    // úvodní pohled: Štěpán a rodiče
+    setTimeout(() => initialView(data, L), 50);
   }
 
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", main);

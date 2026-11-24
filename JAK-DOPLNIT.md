@@ -25,7 +25,7 @@ Doporučené:
   - `precision` může být `exact`, `circa`, `year`, `month`, `range`, `conflict`, `unknown`, `uncertain`
 - `occupation` — povolání se zdrojem v `sources`
 - `places` — další místa (u **žijících** osob **vynechte adresy i čísla domů** a nastavte `"living": true`)
-- `sources` — pole `{ "label": "ARON, narození", "signatura": "96-15", "detail": "snímek 47", "apu": "https://…" }`
+- `sources` — pole `{ "label": "ARON, narození", "signatura": "96-15", "detail": "snímek 47, folio 45" }` (viz oddíl 2b — odkaz na snímek a fotka se doplní samy)
 - `notes`, `interesting`
 - `living` — `true` u žijících (veřejná stránka nesmí ukazovat jejich adresy)
 
@@ -71,6 +71,40 @@ Jednoho rodiče (nemanželské dítě) zapište jako svazek s jediným partnerem
 
 Do potvrzeného svazku takovou vazbu nedávejte.
 
+## 2b. Zdroje: proklik na snímek v ARON a fotka zápisu
+
+Každý zdroj se signaturou (`"signatura": "141-4"`) a číslem snímku v `detail` (`"snímek 29"`, `"snímky 32 a 47"`, `"snímky 26–29"`) se v detailu osoby zobrazí jako:
+
+- tlačítko **ARON snímek N ↗** — otevře přesně ten snímek v prohlížeči archivu,
+- **náhled fotky** zápisu; klik otevře velkou verzi (lightbox) s odkazem do ARON.
+
+Odkazy a náhledy jsou v `data/zdroje.json` a `img/zdroje/`. Doplňují se skriptem (z adresáře mapy):
+
+```bash
+# nová kniha (APU je v adrese knihy na aron.vychodoceskearchivy.cz/apu/<uuid>)
+python3 scripts/aron-snimky.py kniha 96-15 89e9015b-d31a-4b96-8437-085cfa61151f
+# pro všechny zdroje v rodokmen.json doplnit odkaz na snímek + náhled celé strany (stáhne snímek, když není na disku)
+python3 scripts/aron-snimky.py doplnit
+# lepší náhled: výřez jen příslušného zápisu (relativně 0–1: x0,y0,x1,y1 vůči celé straně)
+python3 scripts/aron-snimky.py vyrez 141-4 29 0.05,0.10,0.94,0.29
+# nebo hotový výřez z /workspace/rodokmen/vypisy
+python3 scripts/aron-snimky.py vyrez-soubor 96-3 94 /workspace/rodokmen/vypisy/jirman-jan-1825-L.jpg
+# zdroj bez „snímek N“ (např. „folio 71“) přiřadit ke snímku
+python3 scripts/aron-snimky.py alias 13-9353 "folio 71" 77
+```
+
+Formát odkazu na snímek: `https://aron.vychodoceskearchivy.cz/apu/<APU>/dao/<DAO>/file/<id dlaždice>` — skript bere id souboru typu `TILE` s pořadím = číslo snímku (id typu `PUBLISHED` prohlížeč neotevře na správné straně).
+
+Volitelná pole zdroje (rozšíření schématu), když je potřeba přebít automatiku:
+
+| pole | význam |
+|---|---|
+| `snimek` | číslo snímku (nebo pole čísel), když není v `detail` |
+| `url` | vlastní odkaz (https), přednost před automatickým |
+| `image` / `image_full` | vlastní náhled / velká verze (cesta v repozitáři, např. `img/zdroje/…jpg`) |
+
+**Rodinné dokumenty** (rodný a křestní list Gerdy, rodokmen Klimeš 2019, podklady a sdělení uživatele) se na veřejné mapě **nezobrazují jako fotky ani soubory** — obsahují žijící osoby. Ve zdroji zůstává jen text. Validátor hlásí chybu, kdyby měl takový zdroj `image`.
+
 ## 2a. Otevřené dotazy
 
 Nejisté položky patří do `open_questions`:
@@ -99,7 +133,7 @@ Z adresáře mapy:
 python3 scripts/validate-rodokmen.py
 ```
 
-Skript nahlásí duplicitní id, odkazy na neexistující osoby a další rozbité vazby. Chyby je třeba opravit před nasazením; upozornění (třeba číslo domu u žijící osoby) zkontrolujte ručně.
+Skript nahlásí duplicitní id, odkazy na neexistující osoby a další rozbité vazby, chybějící náhledy/odkazy na snímky (upozornění) a obrázky u rodinných dokumentů (chyba). Chyby je třeba opravit před nasazením; upozornění (třeba číslo domu u žijící osoby) zkontrolujte ručně.
 
 ## 4. Prohlédnout lokálně
 
@@ -124,4 +158,8 @@ cd /workspace/rodokmen/mapa
 ./deploy.sh
 ```
 
-Skript ověří `data/rodokmen.json` a odešle změny na `main`. GitHub Pages se obvykle obnoví do minuty. Po nasazení zkontrolujte URL a to, že u žijících osob stále nejsou adresy ani čísla domů.
+Skript ověří `data/rodokmen.json`, **nejdřív stáhne a začlení cizí změny z GitHubu** (`git pull --rebase --autostash`, nic nepřepisuje) a odešle změny na `main`. GitHub Pages se obvykle obnoví do minuty. Po nasazení zkontrolujte URL a to, že u žijících osob stále nejsou adresy ani čísla domů.
+
+## 6. Jak se mapa kreslí (pro úpravy kódu)
+
+`js/layout.js` skládá strom po generacích (řádek 0 = Štěpán, 1 = rodiče, …): manželé vedle sebe s uzlem páru (kroužek se srdcem), z uzlu jedna čára dolů na sběrnici a z ní ke každému dítěti; předci každého partnera nad ním, sourozenci předků s rodinami po straně. Bloky se skládají podle obrysů řádků, takže se karty nepřekrývají a čáry nevedou přes karty (kdyby mezi manžely ležela cizí karta, spojí je „závorka“ pod kartami). Přímá linie Štěpánových předků je zlatá; najetí nebo klik na osobu zvýrazní cestu ke Štěpánovi. Nové osoby stačí přidat do JSON — rozložení se přepočítá samo.

@@ -205,6 +205,71 @@ def main() -> int:
             if c and c not in ALLOWED_CERT:
                 errors.append(f"nepřipojená větev {label} / svazek {uid}: neznámá jistota {c!r}")
 
+    # ---- zdroje: odkazy na ARON a náhledy (data/zdroje.json, scripts/aron-snimky.py) ----
+    import re
+    zpath = ROOT / "data" / "zdroje.json"
+    z = json.loads(zpath.read_text(encoding="utf-8")) if zpath.is_file() else {"knihy": {}, "snimky": {}, "aliasy": {}}
+    ARON = "https://aron.vychodoceskearchivy.cz/apu/"
+    FAMILY = re.compile(r"(rodný|křestní|rodokmen|podklad uživatele|sdělení|rodinn)", re.I)
+    for key, e in (z.get("snimky") or {}).items():
+        if e.get("url") and not str(e["url"]).startswith(ARON):
+            errors.append(f"zdroje.json / {key}: url není snímek ARON ({e['url']})")
+        for f in ("nahled", "velky"):
+            if e.get(f) and not (ROOT / e[f]).is_file():
+                errors.append(f"zdroje.json / {key}: chybí soubor {e[f]}")
+    for sig, k in (z.get("knihy") or {}).items():
+        if not str(k.get("url", "")).startswith(ARON):
+            errors.append(f"zdroje.json / kniha {sig}: url není ARON")
+
+    def snimky_of(src):
+        out = []
+        sn = src.get("snimek")
+        if sn is not None:
+            out += sn if isinstance(sn, list) else [sn]
+        det = src.get("detail") or ""
+        m = re.search(r"snímky\s+(\d+)\s*[–-]\s*(\d+)", det)
+        if m:
+            out += list(range(int(m.group(1)), int(m.group(2)) + 1))
+        m = re.search(r"snímky\s+([\d ,a]+)", det)
+        if m:
+            out += [int(n) for n in re.findall(r"\d+", m.group(1))]
+        out += [int(n) for n in re.findall(r"snímek\s+(\d+)", det)]
+        if not out and src.get("signatura"):
+            for k, n in (z.get("aliasy") or {}).items():
+                sg, _, txt = k.partition("|")
+                if sg == src["signatura"] and txt and txt in det:
+                    out.append(int(n))
+        return sorted(set(int(x) for x in out))
+
+    def check_sources(owner, srcs):
+        for s in srcs or []:
+            lab = s.get("label") or ""
+            fam = not s.get("signatura") and FAMILY.search(lab)
+            if s.get("url") and not str(s["url"]).startswith("https://"):
+                errors.append(f"{owner}: zdroj „{lab}“ má url bez https")
+            if s.get("image"):
+                if fam:
+                    errors.append(f"{owner}: rodinný dokument „{lab}“ nesmí mít obrázek na veřejné mapě")
+                elif not (ROOT / s["image"]).is_file():
+                    errors.append(f"{owner}: zdroj „{lab}“ — chybí obrázek {s['image']}")
+            sig = s.get("signatura")
+            if not sig:
+                continue
+            if sig not in (z.get("knihy") or {}):
+                warnings.append(f"{owner}: kniha {sig} není v data/zdroje.json — spusťte scripts/aron-snimky.py kniha {sig} <APU>")
+                continue
+            for n in snimky_of(s):
+                e = (z.get("snimky") or {}).get(f"{sig}|{n}")
+                if not e or not e.get("url"):
+                    warnings.append(f"{owner}: {sig} snímek {n} nemá odkaz/náhled — spusťte scripts/aron-snimky.py doplnit")
+
+    for p in people + ub_people:
+        check_sources(p.get("id"), p.get("sources"))
+    for u in unions + ub_unions:
+        check_sources(f"svazek {u.get('id')}", u.get("sources"))
+    for q in questions:
+        check_sources(f"dotaz {q.get('id')}", q.get("sources"))
+
     print(f"Osob v hlavním grafu: {len(people)}  svazků: {len(unions)}  nepřipojených osob: {len(ub_people)}  otevřených dotazů: {len(questions)}")
     if errors:
         print(f"\nChyby ({len(errors)}):")

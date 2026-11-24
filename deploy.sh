@@ -14,13 +14,23 @@ if ! git remote get-url origin >/dev/null 2>&1; then
   exit 2
 fi
 
-git add .nojekyll .gitignore index.html robots.txt _headers JAK-DOPLNIT.md deploy.sh css js data scripts/validate-rodokmen.py
+# Nejdřív převzít cizí změny z GitHubu (jiný proces mohl mezitím nasadit) — nic se nepřepisuje.
+git fetch origin main
+if ! git merge-base --is-ancestor origin/main HEAD; then
+  git pull --rebase --autostash origin main
+  python3 scripts/validate-rodokmen.py
+fi
+
+git add .nojekyll .gitignore index.html robots.txt _headers JAK-DOPLNIT.md deploy.sh css js data img scripts/validate-rodokmen.py scripts/aron-snimky.py
 if git diff --cached --quiet; then
   echo "Žádné změny k odeslání. Stránka: https://jirmanstepan-afk.github.io/rodokmen-jirman/"
   exit 0
 fi
 
-git commit -m "Aktualizace mapy rodokmenu."
-git push origin main
+git commit -m "${COMMIT_MSG:-Aktualizace mapy rodokmenu.}"
+if ! git push origin main; then
+  git pull --rebase origin main
+  git push origin main
+fi
 echo "Nasazeno. URL: https://jirmanstepan-afk.github.io/rodokmen-jirman/"
 echo "GitHub Pages se obvykle obnoví během minuty."
