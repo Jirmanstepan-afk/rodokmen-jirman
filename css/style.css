@@ -218,3 +218,11 @@ a { color: var(--accent); }
   font: inherit; font-size: inherit; cursor: pointer; text-decoration: underline;
 }
 .tools #questions-btn[aria-pressed="true"] { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+.ub-sec { margin-top: 16px; padding-top: 4px; border-top: 2px solid #d2c4aa; }
+.ub-sec > h2 {
+  margin: 10px 0 6px; font-size: .72rem; letter-spacing: .08em;
+  text-transform: uppercase; color: var(--ink-soft);
+}
+.ub-people { margin: 6px 0 0; padding: 0 0 0 18px; }
+.ub-people li { margin: 0 0 3px; font-size: .82rem; }

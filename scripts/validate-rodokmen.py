@@ -36,9 +36,27 @@ def main() -> int:
             errors.append(f"Duplicitní id osoby: {i} ({n}×)")
     idset = set(seen)
 
+    unattached = data.get("unattached_branches") or []
+    ub_people = []
+    ub_unions = []
+    ub_ids = []
+    for b in unattached:
+        for p in b.get("people") or []:
+            ub_people.append(p)
+            ub_ids.append(p.get("id"))
+        ub_unions.extend(b.get("unions") or [])
+    all_ids_count = {}
+    for i in list(ids) + [x for x in ub_ids if x]:
+        all_ids_count[i] = all_ids_count.get(i, 0) + 1
+    for i, n in all_ids_count.items():
+        if n > 1:
+            errors.append(f"Duplicitní id osoby napříč hlavním grafem a nepřipojenými větvemi: {i} ({n}×)")
+    ub_idset = {i for i in ub_ids if i}
+    any_idset = idset | ub_idset
+
     focus = (data.get("meta") or {}).get("focus")
     if focus and focus not in idset:
-        errors.append(f"meta.focus odkazuje na neexistující id: {focus}")
+        errors.append(f"meta.focus odkazuje na neexistující id v hlavním grafu: {focus}")
 
     for p in people:
         pid = p.get("id")
@@ -97,19 +115,28 @@ def main() -> int:
         if mu and mu not in set(uids):
             errors.append(f"kandidát {lid}: maybe_parent_union {mu} neexistuje")
 
-    # osiřelé osoby (nikde ve svazku, ztotožnění ani kandidátovi)
-    used = set()
+    # každá osoba v hlavním grafu musí být svazky spojena s meta.focus (Štěpán)
+    from collections import defaultdict, deque
+    adj = defaultdict(set)
     for u in unions:
-        used.update(u.get("partners") or [])
-        used.update(u.get("children") or [])
-    for it in ident:
-        used.add(it.get("a")); used.add(it.get("b"))
-    for l in cands:
-        used.add(l.get("child"))
-        used.update(l.get("parents") or [])
-    orphans = [i for i in idset if i not in used]
-    for i in orphans:
-        warnings.append(f"osoba {i} není v žádném svazku, ztotožnění ani kandidátské vazbě")
+        members = list(u.get("partners") or []) + list(u.get("children") or [])
+        for a in members:
+            for b in members:
+                if a and b and a != b:
+                    adj[a].add(b)
+    connected = set()
+    if focus and focus in idset:
+        dq = deque([focus])
+        while dq:
+            x = dq.popleft()
+            if x in connected:
+                continue
+            connected.add(x)
+            for n in adj[x]:
+                if n in idset and n not in connected:
+                    dq.append(n)
+    for i in sorted(idset - connected):
+        errors.append(f"hlavní graf: osoba {i} není svazky spojena se Štěpánem (meta.focus) — patří do unattached_branches")
 
     print(f"Soubor: {DATA}")
     questions = data.get("open_questions") or []
@@ -122,7 +149,10 @@ def main() -> int:
         if not q.get("title") and not q.get("summary"):
             warnings.append(f"dotaz {qid}: chybí title i summary")
         for pid in q.get("related_ids") or []:
-            need(pid, f"dotaz {qid} / related_ids")
+            if not pid:
+                errors.append(f"dotaz {qid} / related_ids: prázdné id")
+            elif pid not in any_idset:
+                errors.append(f"dotaz {qid} / related_ids: neexistující id {pid}")
 
     # Nové pravidlo: v mapě mají být jen jisté osoby a svazky.
     for p in people:
@@ -138,7 +168,44 @@ def main() -> int:
     if cands:
         warnings.append(f"candidate_links má {len(cands)} položek; nedoložené vazby patří do open_questions")
 
-    print(f"Osob: {len(people)}  svazků: {len(unions)}  ztotožnění: {len(ident)}  kandidátů: {len(cands)}  otevřených dotazů: {len(questions)}")
+    # nepřipojené větve: vlastní id, svazky jen uvnitř větve, stejná pravidla jistoty
+    ub_union_ids = [u.get("id") for u in ub_unions]
+    for i, n in {x: ub_union_ids.count(x) for x in ub_union_ids if x}.items():
+        if n > 1:
+            errors.append(f"Duplicitní id svazku v nepřipojených větvích: {i}")
+        if i in set(uids):
+            errors.append(f"id svazku {i} je v hlavním grafu i v nepřipojené větvi")
+    for bid, b in enumerate(unattached):
+        label = b.get("id") or f"unattached[{bid}]"
+        if not b.get("title") and not b.get("reason"):
+            warnings.append(f"{label}: chybí title i reason")
+        bids = {p.get("id") for p in (b.get("people") or []) if p.get("id")}
+        for p in b.get("people") or []:
+            pid = p.get("id")
+            if not p.get("name"):
+                errors.append(f"nepřipojená větev {label} / {pid}: chybí name")
+            c = p.get("certainty")
+            if c and c not in ALLOWED_CERT:
+                errors.append(f"nepřipojená větev {label} / {pid}: neznámá jistota {c!r}")
+            if p.get("living"):
+                blob = " ".join(p.get("places") or [])
+                for key in ("birth", "death", "baptism"):
+                    place = ((p.get(key) or {}) if isinstance(p.get(key), dict) else {}).get("place") or ""
+                    blob += " " + place
+                if "č. " in blob or "č.p." in blob.lower() or "Kolonie" in blob:
+                    warnings.append(f"nepřipojená větev {label} / {pid}: living=true a číslo domu — zkontrolovat soukromí")
+        for u in b.get("unions") or []:
+            uid = u.get("id") or "?"
+            for pid in list(u.get("partners") or []) + list(u.get("children") or []):
+                if not pid:
+                    errors.append(f"nepřipojená větev {label} / svazek {uid}: prázdné id")
+                elif pid not in bids:
+                    errors.append(f"nepřipojená větev {label} / svazek {uid}: id {pid} není mezi lidmi této větve")
+            c = u.get("certainty")
+            if c and c not in ALLOWED_CERT:
+                errors.append(f"nepřipojená větev {label} / svazek {uid}: neznámá jistota {c!r}")
+
+    print(f"Osob v hlavním grafu: {len(people)}  svazků: {len(unions)}  nepřipojených osob: {len(ub_people)}  otevřených dotazů: {len(questions)}")
     if errors:
         print(f"\nChyby ({len(errors)}):")
         for e in errors:

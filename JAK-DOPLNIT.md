@@ -4,6 +4,9 @@ Mapa se kreslí výhradně ze souboru `data/rodokmen.json`. Stránku ani skript 
 
 **Do mapy (`people`, `unions`) přidávejte jen osoby a vazby s jistotou:** doložené matričním zápisem se signaturou a s jasnou vazbou na existující osobu, úředním listem, nebo jedním ze dvou zdrojových dokumentů (rodný list Gerdy 1948, rodokmen Klimeš 2019). Nové *pravděpodobné* ani *kandidátské* uzly a vazby do mapy nedávejte.
 
+
+**Hlavní graf jen se spojení na Štěpána.** Každá osoba v `people` musí být přes `unions` spojená s `meta.focus` (Štěpán Jirman). Jisté osoby bez této vazby dejte do `unattached_branches` (oddíl Nepřipojené větve v panelu). Data zůstanou v JSON a po doložení vazby stačí přesunout oddíl zpět do `people`/`unions` a doplnit jeden svazek. Validátor hlásí chybu na každý nepřipojený uzel v hlavním grafu.
+
 Nejisté čtení, slučování domů, chybějící sňatky a nedoložené rodičovství zapisujte do pole `open_questions` v `data/rodokmen.json` (kopie je v `data/otevrene-dotazy.json`). Mapa je ukáže v panelu **Otevřené dotazy**, ne jako uzly.
 
 

@@ -5,6 +5,33 @@
   const $ = (sel, el = document) => el.querySelector(sel);
   const state = { data: null, layout: null, scale: 1, tx: 0, ty: 0, active: null };
 
+
+  function unattachedPeople(data) {
+    const out = [];
+    for (const b of data.unattached_branches || []) out.push(...(b.people || []));
+    return out;
+  }
+  function unattachedUnions(data) {
+    const out = [];
+    for (const b of data.unattached_branches || []) out.push(...(b.unions || []));
+    return out;
+  }
+  function allPeople(data) {
+    return [...(data.people || []), ...unattachedPeople(data)];
+  }
+  function allUnions(data) {
+    return [...(data.unions || []), ...unattachedUnions(data)];
+  }
+  function findPerson(data, id) {
+    return allPeople(data).find((x) => x.id === id);
+  }
+  function isUnattached(data, id) {
+    return unattachedPeople(data).some((x) => x.id === id);
+  }
+  function unattachedBranchOf(data, id) {
+    return (data.unattached_branches || []).find((b) => (b.people || []).some((x) => x.id === id));
+  }
+
   function yearOf(ev) {
     if (!ev) return "";
     if (ev.date) return ev.date.slice(0, 4);
@@ -105,10 +132,11 @@
   }
 
   function openPerson(id) {
-    const p = state.data.people.find((x) => x.id === id);
+    const p = findPerson(state.data, id);
     if (!p) return;
     state.active = id;
-    focusId(id);
+    if (!isUnattached(state.data, id)) focusId(id);
+    else document.querySelectorAll(".card.active").forEach((n) => n.classList.remove("active"));
     const panel = $("#panel");
     panel.classList.add("open");
     panel.setAttribute("aria-hidden", "false");
@@ -121,7 +149,7 @@
       return `<dt>${label}</dt><dd>${esc(bits)}${note}</dd>`;
     };
     const places = (p.living ? [] : (p.places || [])).map((x) => esc(x)).join("<br>");
-    const unions = state.data.unions.filter((u) => (u.partners || []).includes(id) || (u.children || []).includes(id));
+    const unions = allUnions(state.data).filter((u) => (u.partners || []).includes(id) || (u.children || []).includes(id));
     const rels = [];
     for (const u of unions) {
       if ((u.partners || []).includes(id)) {
@@ -156,12 +184,15 @@
       ? `<div class="alert">${esc(cert.description || "Tato položka není v zápisech tvrdé doložena.")}</div>`
       : p.certainty === "pravdepodobne"
         ? `<div class="alert warn">${esc(cert.description || "")}</div>` : "";
+    const ub = unattachedBranchOf(state.data, id);
+    const ubNote = ub ? `<div class="alert warn">Tato osoba je v nepřipojené větvi „${esc(ub.title)}“ — v hlavním grafu není spojena se Štěpánem. ${esc(ub.reason || "")}</div>` : "";
     $("#panel-body").innerHTML = `
       <h2>${esc(p.name)}${p.maiden ? ` <span class="maiden">roz. ${esc(p.maiden)}</span>` : ""}</h2>
       <p class="sub">
         <span class="pill" style="background:${branchColor(state.data, p.branch)}">${esc(b.label || p.branch || "")}</span>
         &nbsp;${esc(cert.label || p.certainty || "")}
       </p>
+      ${ubNote}
       ${alert}
       <dl class="kv">
         ${ev(p.birth, "Narození")}
@@ -181,7 +212,7 @@
     `;
   }
   function nameOf(id) {
-    const p = state.data.people.find((x) => x.id === id);
+    const p = findPerson(state.data, id);
     if (!p) return esc(id);
     return `<button type="button" class="linkish" data-jump="${esc(id)}">${esc(p.name)}</button>`;
   }
@@ -256,13 +287,14 @@
     function run() {
       const q = input.value.trim().toLowerCase();
       if (!q) { box.classList.remove("open"); box.innerHTML = ""; return; }
-      items = data.people.filter((p) => {
+      items = allPeople(data).filter((p) => {
         const blob = [p.name, p.maiden, p.id, p.occupation, datesLine(p), ...(p.notes || [])].join(" ").toLowerCase();
         return blob.includes(q);
       }).slice(0, 20);
-      box.innerHTML = items.map((p, i) =>
-        `<button type="button" data-i="${i}" class="${i === 0 ? "active" : ""}"><strong>${esc(p.name)}</strong><span class="meta">${esc(datesLine(p))} · ${esc((data.branches[p.branch] || {}).label || "")}</span></button>`
-      ).join("") || `<button type="button" disabled>Nic nenalezeno</button>`;
+      box.innerHTML = items.map((p, i) => {
+        const tag = isUnattached(data, p.id) ? " · nepřipojená větev" : "";
+        return `<button type="button" data-i="${i}" class="${i === 0 ? "active" : ""}"><strong>${esc(p.name)}</strong><span class="meta">${esc(datesLine(p))} · ${esc((data.branches[p.branch] || {}).label || "")}${esc(tag)}</span></button>`;
+      }).join("") || `<button type="button" disabled>Nic nenalezeno</button>`;
       box.classList.add("open");
     }
     input.addEventListener("input", run);
@@ -310,6 +342,25 @@
         ${src ? `<p class="q-src">${src}</p>` : ""}
       </article>`;
     }).join("");
+    const branches = data.unattached_branches || [];
+    if (branches.length) {
+      const n = branches.reduce((s, b) => s + (b.people || []).length, 0);
+      host.innerHTML += `<section class="ub-sec">
+        <h2>Nepřipojené větve</h2>
+        <p class="questions-lead">Jisté osoby a svazky, které po odstranění nedoložených vazeb nejsou v grafu spojeny se Štěpánem. Data zůstávají v JSON a půjdou připojit, až bude vazba doložena.</p>` +
+        branches.map((b) => {
+          const people = (b.people || []).map((person) =>
+            `<li><button type="button" class="linkish" data-jump="${esc(person.id)}">${esc(person.name)}</button></li>`
+          ).join("");
+          return `<article class="q-item ub-item">
+            <h3>${esc(b.title || b.id)}</h3>
+            ${b.reason ? `<p class="q-sum">${esc(b.reason)}</p>` : ""}
+            ${b.reattach ? `<p class="q-det">${esc(b.reattach)}</p>` : ""}
+            <p class="q-rel">${(b.people || []).length} osob · ${(b.unions || []).length} svazků</p>
+            <ul class="ub-people">${people}</ul>
+          </article>`;
+        }).join("") + `</section>`;
+    }
   }
 
   function setQuestionsOpen(on) {
@@ -387,7 +438,11 @@
       }
     });
     const qn = (data.open_questions || []).length;
-    const counts = `${data.people.length} osob · ${L.generations} generací · ${Object.keys(data.branches).length} větví` + (qn ? ` · ${qn} otevřených dotazů` : "");
+    const ubn = (data.unattached_branches || []).reduce((s, b) => s + (b.people || []).length, 0);
+    const counts = `${data.people.length} osob v hlavním grafu` +
+      (ubn ? ` · ${ubn} v nepřipojených větvích` : "") +
+      ` · ${L.generations} generací · ${Object.keys(data.branches).length} větví` +
+      (qn ? ` · ${qn} otevřených dotazů` : "");
     $("#meta-line").textContent = counts + " · aktualizace " + (data.meta.updated || "");
     fitAll();
     // mírně přiblížit na Štěpána po fit, ale nechat vidět i rodiče
