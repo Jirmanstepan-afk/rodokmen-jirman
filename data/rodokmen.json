@@ -3012,9 +3012,17 @@
       "id": "anton-ringel-viznov",
       "name": "Anton Ringel (Vižňov 58)",
       "maiden": null,
-      "birth": null,
+      "birth": {
+        "display": "kolem 1741",
+        "precision": "circa",
+        "note": "Dopočteno z věku 64 let při úmrtí 7. 7. 1805 (174-14, snímek 133)."
+      },
       "baptism": null,
-      "death": null,
+      "death": {
+        "display": "7. 7. 1805",
+        "precision": "exact",
+        "note": "Vižňov (Wiesen) č. 58, „Anton Ringel Inmann in Wiesen“, 64 let, na úbytě (Abzehrung) (174-14, snímek 133, fol. 261)."
+      },
       "occupation": "Podruh (Inmann / Hausgenoss) ve Vižňově (Wiesen) č. 58, broumovské panství.",
       "places": [
         "Vižňov (Wiesen) č. 58"
@@ -3037,13 +3045,25 @@
           "label": "ARON, narození 19. 2. 1774",
           "signatura": "174-7",
           "detail": "snímek 108, pag. 210, 19. 2. 1774, Vižňov č. 58"
+        },
+        {
+          "label": "ARON, úmrtí 7. 7. 1805",
+          "signatura": "174-14",
+          "detail": "snímek 133, fol. 261, 7. 7. 1805, Vižňov č. 58"
+        },
+        {
+          "label": "ARON, úmrtí dcery Rosiny 16. 3. 1804",
+          "signatura": "174-14",
+          "detail": "snímek 129, 16. 3. 1804, Vižňov č. 58"
         }
       ],
       "notes": [
         "Otec Barbary Rosenbergové, matky Benedikta *7. 10. 1799 (141-1, snímek 51).",
         "Podle indexu 174-19 má ve Vižňově č. 58 s manželkou Annou děti 1767–1781 (mj. A. Barbara 24. 11. 1768, Elisabeth 1772, Joseph 1774/1778, Katharina 1780). Manželka do mapy zatím nejde (příjmení nejisté: Drä…/Deu…).",
         "174-7, snímek 108: 19. 2. 1774 Johann Joseph, syn Antona Ringela, podruha ve Vižňově č. 58, a Anny; oba rodiče z Vižňova.",
-        "Jiný muž než Anton Ringel z Ruprechtic (zemřel 1. 11. 1793 v č. 33, v letech 1770–1774 ženatý s Marií Knittel(ovou)) — viz q-ringel-totoznost."
+        "Jiný muž než Anton Ringel z Ruprechtic (zemřel 1. 11. 1793 v č. 33, v letech 1770–1774 ženatý s Marií Knittel(ovou)) — viz q-ringel-totoznost.",
+        "174-14, snímek 133: 7. 7. 1805 zemřel ve Vižňově č. 58 Anton Ringel, podruh, 64 let — žil tedy ještě 12 let po smrti ruprechtického Antona (†1. 11. 1793, 75 let) a narodil se kolem 1741, ne kolem 1718.",
+        "Další zápisy z č. 58 (174-14): 5. 10. 1796 zemřel Joseph, syn Antona Ringela, 18 let (snímek 115); 16. 3. 1804 zemřela Rosina, dcera Antona Ringela, podruha, 27 let (snímek 129)."
       ],
       "interesting": []
     }
@@ -4491,7 +4511,7 @@
       "id": "q-ringel-totoznost",
       "title": "Dva Antonové Ringelové — vyřešeno: dva různí muži",
       "summary": "Vyřešeno 25. 11. 2026: jde o dva různé muže. Anton Ringel (Ruprechtice), *kolem 1718, †1. 11. 1793 Ruprechtice č. 33, se 27. 11. 1770 oženil (jako vdovec) s Marií Knittel(ovou) a měl s ní děti 1771 a 1774. Anton Ringel (Vižňov 58) měl ve stejné době (1767–1783, mj. 19. 2. 1774) děti s manželkou Annou ve Vižňově. Uzly zůstávají oddělené.",
-      "details": "Doklady: 141-7599 snímek 413 (12. 5. 1750, Anton Ringel vdovec × Anna Maria Schroll); snímek 448 (27. 11. 1770, Anton Ringel vdovec × Maria, dcera Heinricha Knittela); snímek 271 (22. 9. 1771, Anton Ringel výměnkář č. 33, dcera Anna Maria Thekla); snímek 291 (16. 6. 1774, Anton Ringel podruh č. 34 × Maria Knittel, dcera Anna Barbara Margaretha); 141-5 snímek 15 (1. 11. 1793, †Anton Ringel, Ruprechtice č. 33, 75 let). Vižňov: 174-7 snímek 108 (19. 2. 1774, Anton Ringel podruh Vižňov č. 58 × Anna, oba z Vižňova). Dvě současné manželky v roce 1774 vylučují totožnost. Barbary s otcem „Anton Rindel“ v ruprechtickém indexu 1757/1758/1760 patří k podruhovi s manželkami A. Maria / A. Catharina a jiným zápisem jména; nepřipojují se. Zbývá otevřené narození Barbary Dauerové — viz q-ringel-viznov-1768. Vedlejší nález (nejisté čtení): ve sňatku 12. 5. 1750 je svědkem ženicha „Johannes Rüngel aus Wiesen(?)“ — možná příbuzenská vazba mezi ruprechtickými a vižňovskými Ringely; nepřipisuje se.",
+      "details": "Doklady: 141-7599 snímek 413 (12. 5. 1750, Anton Ringel vdovec × Anna Maria Schroll); snímek 448 (27. 11. 1770, Anton Ringel vdovec × Maria, dcera Heinricha Knittela); snímek 271 (22. 9. 1771, Anton Ringel výměnkář č. 33, dcera Anna Maria Thekla); snímek 291 (16. 6. 1774, Anton Ringel podruh č. 34 × Maria Knittel, dcera Anna Barbara Margaretha); 141-5 snímek 15 (1. 11. 1793, †Anton Ringel, Ruprechtice č. 33, 75 let). Vižňov: 174-7 snímek 108 (19. 2. 1774, Anton Ringel podruh Vižňov č. 58 × Anna, oba z Vižňova). Dvě současné manželky v roce 1774 vylučují totožnost. Barbary s otcem „Anton Rindel“ v ruprechtickém indexu 1757/1758/1760 patří k podruhovi s manželkami A. Maria / A. Catharina a jiným zápisem jména; nepřipojují se. Zbývá otevřené narození Barbary Dauerové — viz q-ringel-viznov-1768. Vedlejší nález (nejisté čtení): ve sňatku 12. 5. 1750 je svědkem ženicha „Johannes Rüngel aus Wiesen(?)“ — možná příbuzenská vazba mezi ruprechtickými a vižňovskými Ringely; nepřipisuje se. Doplněk 25. 11. 2026: rozhodující doklad — 174-14 snímek 133 (fol. 261): 7. 7. 1805 zemřel ve Vižňově č. 58 „Anton Ringel Inmann in Wiesen“, 64 let (narozen tedy kolem 1741). Vižňovský Anton tak žil ještě po 1. 11. 1793, kdy zemřel ruprechtický Anton (75 let, *~1718). Totožnost je vyloučena dvojím způsobem: (1) dvě současné manželky v roce 1774, (2) dvě různá úmrtí (1793 Ruprechtice / 1805 Vižňov) s věkem rozdílným o ~23 let. Vedlejší nález na téže straně: 6. 7. 1805 Vižňov č. 95 zemřela Susanna(?), vdova po Antonu Ringelovi, výměnkáři, 73 let — ve Vižňově byl tedy ještě třetí (už zemřelý) Anton Ringel; jméno vdovy je nejisté čtení. Rok 1803 (snímek 127): Anton Ringel, podruh v č. 37, má dceru Rosinu (1½ roku) — mladší Anton (pravděpodobně syn), nepřipisuje se.",
       "related_ids": [
         "anton-ringel",
         "anton-ringel-viznov",
@@ -4548,6 +4568,11 @@
           "label": "ARON",
           "signatura": "174-7",
           "detail": "snímek 108, pag. 210, 19. 2. 1774"
+        },
+        {
+          "label": "ARON, úmrtí 7. 7. 1805",
+          "signatura": "174-14",
+          "detail": "snímek 133, fol. 261, 7. 7. 1805"
         }
       ]
     },

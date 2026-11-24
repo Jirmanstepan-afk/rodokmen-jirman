@@ -250,6 +250,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 141-5 (poř.č. 9742), 1784-1813",
    "popis": "římskokatolická matrika ZEMŘELÝCH, Ruprechtice, Jetřichov + Meziměstí (od 2.1784), Hynčice (od 4.1784)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/592f4aa6-7311-43a6-8dce-fdc2710ba34c"
+  },
+  "174-14": {
+   "apu": "949f7635-3109-429f-a3f3-4be2c9bb92c1",
+   "dao": "949f7635-3109-429f-a3f3-4be2c9bb92c1",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 174-14 (poř.č. 12247), 1752-1814",
+   "popis": "římskokatolická matrika ZEMŘELÝCH, obvod Vižňov (Pomeznice, Starostín, Vižňov) 1752-1783, Vižňov (1784-6.1814), Starostín (1784-6.1814), Pomeznice (1784-8.1812), Meziměstí - část Halbstädter Häuser (6.1795-7.1808)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/949f7635-3109-429f-a3f3-4be2c9bb92c1"
   }
  },
  "aliasy": {
@@ -589,6 +596,24 @@
    "vyrez": "celá strana",
    "nahled": "img/zdroje/144-8637_s038.jpg",
    "velky": "img/zdroje/144-8637_s038_velky.jpg"
+  },
+  "174-14|129": {
+   "signatura": "174-14",
+   "snimek": 129,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/949f7635-3109-429f-a3f3-4be2c9bb92c1/dao/949f7635-3109-429f-a3f3-4be2c9bb92c1/file/7270394d-f995-425f-84ed-f9bbe74969da",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/174-14_s129.jpg",
+   "velky": "img/zdroje/174-14_s129_velky.jpg",
+   "vyrez_soubor": "z174-14-s129-1804-03-16-rosina-ringel-viznov58.jpg"
+  },
+  "174-14|133": {
+   "signatura": "174-14",
+   "snimek": 133,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/949f7635-3109-429f-a3f3-4be2c9bb92c1/dao/949f7635-3109-429f-a3f3-4be2c9bb92c1/file/6395e599-6c52-4684-b02f-f7df5dcd5590",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/174-14_s133.jpg",
+   "velky": "img/zdroje/174-14_s133_velky.jpg",
+   "vyrez_soubor": "z174-14-s133-1805-07-07-anton-ringel-viznov58.jpg"
   },
   "174-19|54": {
    "signatura": "174-19",

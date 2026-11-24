@@ -408,7 +408,7 @@
       "id": "q-ringel-totoznost",
       "title": "Dva Antonové Ringelové — vyřešeno: dva různí muži",
       "summary": "Vyřešeno 25. 11. 2026: jde o dva různé muže. Anton Ringel (Ruprechtice), *kolem 1718, †1. 11. 1793 Ruprechtice č. 33, se 27. 11. 1770 oženil (jako vdovec) s Marií Knittel(ovou) a měl s ní děti 1771 a 1774. Anton Ringel (Vižňov 58) měl ve stejné době (1767–1783, mj. 19. 2. 1774) děti s manželkou Annou ve Vižňově. Uzly zůstávají oddělené.",
-      "details": "Doklady: 141-7599 snímek 413 (12. 5. 1750, Anton Ringel vdovec × Anna Maria Schroll); snímek 448 (27. 11. 1770, Anton Ringel vdovec × Maria, dcera Heinricha Knittela); snímek 271 (22. 9. 1771, Anton Ringel výměnkář č. 33, dcera Anna Maria Thekla); snímek 291 (16. 6. 1774, Anton Ringel podruh č. 34 × Maria Knittel, dcera Anna Barbara Margaretha); 141-5 snímek 15 (1. 11. 1793, †Anton Ringel, Ruprechtice č. 33, 75 let). Vižňov: 174-7 snímek 108 (19. 2. 1774, Anton Ringel podruh Vižňov č. 58 × Anna, oba z Vižňova). Dvě současné manželky v roce 1774 vylučují totožnost. Barbary s otcem „Anton Rindel“ v ruprechtickém indexu 1757/1758/1760 patří k podruhovi s manželkami A. Maria / A. Catharina a jiným zápisem jména; nepřipojují se. Zbývá otevřené narození Barbary Dauerové — viz q-ringel-viznov-1768. Vedlejší nález (nejisté čtení): ve sňatku 12. 5. 1750 je svědkem ženicha „Johannes Rüngel aus Wiesen(?)“ — možná příbuzenská vazba mezi ruprechtickými a vižňovskými Ringely; nepřipisuje se.",
+      "details": "Doklady: 141-7599 snímek 413 (12. 5. 1750, Anton Ringel vdovec × Anna Maria Schroll); snímek 448 (27. 11. 1770, Anton Ringel vdovec × Maria, dcera Heinricha Knittela); snímek 271 (22. 9. 1771, Anton Ringel výměnkář č. 33, dcera Anna Maria Thekla); snímek 291 (16. 6. 1774, Anton Ringel podruh č. 34 × Maria Knittel, dcera Anna Barbara Margaretha); 141-5 snímek 15 (1. 11. 1793, †Anton Ringel, Ruprechtice č. 33, 75 let). Vižňov: 174-7 snímek 108 (19. 2. 1774, Anton Ringel podruh Vižňov č. 58 × Anna, oba z Vižňova). Dvě současné manželky v roce 1774 vylučují totožnost. Barbary s otcem „Anton Rindel“ v ruprechtickém indexu 1757/1758/1760 patří k podruhovi s manželkami A. Maria / A. Catharina a jiným zápisem jména; nepřipojují se. Zbývá otevřené narození Barbary Dauerové — viz q-ringel-viznov-1768. Vedlejší nález (nejisté čtení): ve sňatku 12. 5. 1750 je svědkem ženicha „Johannes Rüngel aus Wiesen(?)“ — možná příbuzenská vazba mezi ruprechtickými a vižňovskými Ringely; nepřipisuje se. Doplněk 25. 11. 2026: rozhodující doklad — 174-14 snímek 133 (fol. 261): 7. 7. 1805 zemřel ve Vižňově č. 58 „Anton Ringel Inmann in Wiesen“, 64 let (narozen tedy kolem 1741). Vižňovský Anton tak žil ještě po 1. 11. 1793, kdy zemřel ruprechtický Anton (75 let, *~1718). Totožnost je vyloučena dvojím způsobem: (1) dvě současné manželky v roce 1774, (2) dvě různá úmrtí (1793 Ruprechtice / 1805 Vižňov) s věkem rozdílným o ~23 let. Vedlejší nález na téže straně: 6. 7. 1805 Vižňov č. 95 zemřela Susanna(?), vdova po Antonu Ringelovi, výměnkáři, 73 let — ve Vižňově byl tedy ještě třetí (už zemřelý) Anton Ringel; jméno vdovy je nejisté čtení. Rok 1803 (snímek 127): Anton Ringel, podruh v č. 37, má dceru Rosinu (1½ roku) — mladší Anton (pravděpodobně syn), nepřipisuje se.",
       "related_ids": [
         "anton-ringel",
         "anton-ringel-viznov",
@@ -465,6 +465,11 @@
           "label": "ARON",
           "signatura": "174-7",
           "detail": "snímek 108, pag. 210, 19. 2. 1774"
+        },
+        {
+          "label": "ARON, úmrtí 7. 7. 1805",
+          "signatura": "174-14",
+          "detail": "snímek 133, fol. 261, 7. 7. 1805"
         }
       ]
     },
