@@ -236,6 +236,20 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 13-3 (poř.č. 541), 1730-1766",
    "popis": "římskokatolická matrika NAROZENÝCH, farnost (Broumov, Broumov - Dolní předměstí, Broumov - Horní předměstí, Broumov - Prostřední předměstí, Hejtmánkovice, Křinice, Olivětín, Rožmitál, Velká Ves)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/4e7de8ca-667f-4171-87d2-bd6e95d5f5df"
+  },
+  "141-7599": {
+   "apu": "9efe1251-fe46-407a-bd3c-56944636577f",
+   "dao": "9efe1251-fe46-407a-bd3c-56944636577f",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 141-7599 (poř.č. 9730), 1733-1785",
+   "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, farnost (Hynčice, Jetřichov, Ruprechtice) \nN 4.1733-5.1785, O 6.1733-2.1785, Z 4.1733-5.1785, fol. 1 vyobrazení kostela sv. Michaela ve Vernéřovicích, kostela sv. Jakuba Většího v Ruprechticích a kostela sv. Anny ve Vižňově, fol. 2-29 kostelní inventáře, desátky, fol. 30-33 statistika NOZ 1736-1755",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f"
+  },
+  "141-5": {
+   "apu": "592f4aa6-7311-43a6-8dce-fdc2710ba34c",
+   "dao": "592f4aa6-7311-43a6-8dce-fdc2710ba34c",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 141-5 (poř.č. 9742), 1784-1813",
+   "popis": "římskokatolická matrika ZEMŘELÝCH, Ruprechtice, Jetřichov + Meziměstí (od 2.1784), Hynčice (od 4.1784)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/592f4aa6-7311-43a6-8dce-fdc2710ba34c"
   }
  },
  "aliasy": {
@@ -270,6 +284,15 @@
    "nahled": "img/zdroje/13-3_s423.jpg",
    "velky": "img/zdroje/13-3_s423_velky.jpg",
    "vyrez_soubor": "i13-3-s423R-1756-12-15-johann-anton-haeusler-oelberg.jpg"
+  },
+  "13-3|582": {
+   "signatura": "13-3",
+   "snimek": 582,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/4e7de8ca-667f-4171-87d2-bd6e95d5f5df/dao/4e7de8ca-667f-4171-87d2-bd6e95d5f5df/file/374b1281-af26-4b00-9dc6-29244255f13a",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/13-3_s582.jpg",
+   "velky": "img/zdroje/13-3_s582_velky.jpg",
+   "vyrez_soubor": "13-3-s582L-1765-08-28-lux-graben.jpg"
   },
   "13-57|109": {
    "signatura": "13-57",
@@ -471,6 +494,51 @@
     0.29
    ]
   },
+  "141-5|15": {
+   "signatura": "141-5",
+   "snimek": 15,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/592f4aa6-7311-43a6-8dce-fdc2710ba34c/dao/592f4aa6-7311-43a6-8dce-fdc2710ba34c/file/920aac79-2d5b-4a18-9fe3-b9f87430dbca",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-5_s015.jpg",
+   "velky": "img/zdroje/141-5_s015_velky.jpg",
+   "vyrez_soubor": "z141-5-s015R-1793-11-01-anton-ringel-33.jpg"
+  },
+  "141-7599|271": {
+   "signatura": "141-7599",
+   "snimek": 271,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/d2962a7a-2a3a-421f-94db-459d97282f4c",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-7599_s271.jpg",
+   "velky": "img/zdroje/141-7599_s271_velky.jpg",
+   "vyrez_soubor": "n141-7599-s271L-1771-09-22-ringel-auszuegler-33.jpg"
+  },
+  "141-7599|291": {
+   "signatura": "141-7599",
+   "snimek": 291,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/e579310e-3e39-4450-81a7-df7f9df75ddd",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-7599_s291.jpg",
+   "velky": "img/zdroje/141-7599_s291_velky.jpg",
+   "vyrez_soubor": "n141-7599-s291R-1774-06-16-anna-barbara-margaretha-ringel.jpg"
+  },
+  "141-7599|413": {
+   "signatura": "141-7599",
+   "snimek": 413,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/409c114b-1b99-40bd-8c4d-05ee04256688",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-7599_s413.jpg",
+   "velky": "img/zdroje/141-7599_s413_velky.jpg",
+   "vyrez_soubor": "o141-7599-s413L-1750-05-12-ringel-schroll.jpg"
+  },
+  "141-7599|448": {
+   "signatura": "141-7599",
+   "snimek": 448,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/3726a27b-002c-4eab-a013-23194b6b7b69",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-7599_s448.jpg",
+   "velky": "img/zdroje/141-7599_s448_velky.jpg",
+   "vyrez_soubor": "o141-7599-s448R-1770-11-27-ringel-knittel.jpg"
+  },
   "144-3938|75": {
    "signatura": "144-3938",
    "snimek": 75,
@@ -535,6 +603,15 @@
    "nahled": "img/zdroje/174-7364_s094.jpg",
    "velky": "img/zdroje/174-7364_s094_velky.jpg",
    "vyrez_soubor": "emma-narozeni-1902-L.jpg"
+  },
+  "174-7|108": {
+   "signatura": "174-7",
+   "snimek": 108,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/d25a16df-557f-484b-95b2-c5a5b679574d/dao/d25a16df-557f-484b-95b2-c5a5b679574d/file/7b28685e-8504-4351-a632-2b1c5b1591ff",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/174-7_s108.jpg",
+   "velky": "img/zdroje/174-7_s108_velky.jpg",
+   "vyrez_soubor": "s108L-1774-02-19-johann-joseph-ringel-viznov-58.jpg"
   },
   "174-7|85": {
    "signatura": "174-7",
