@@ -551,8 +551,8 @@
     {
       "id": "q-ringel-tobias",
       "title": "Ringelové z Vižňova před 1688: Tobias, Dorothea Bircke, Lorenz",
-      "summary": "Daniel Ringel *17. 6. 1706 je syn Tobiase Ringela „des Obern“ a Dorothey; rodiče se vzali 23. 11. 1688, Tobias byl syn †Lorenze Ringela. Otevřené: křestní jméno otce Dorothey Bircke, úmrtí Tobiase (1708–1727) a Dorothey, narození Tobiase (~1660–1668).",
-      "details": "Ve sňatku 1688 (174-6, snímek 17, fol. 24) stojí „Jungfrau Dorothea M?lt?er Birckens ehel. Tochter“ — čteno jako Melcher (Melchior) nebo Matthes; 29. 12. 1700 je pohřben jakýsi Matthias Bircke a pohřeb dítěte Tobiase Birckeho (174-6, snímek 380). Dokud jméno nebude jisté, otec Dorothey není v mapě. Narození Tobiase před rokem 1680 je mimo matriku 174-6 (začíná 1675) — zkusit křty 1675–1670 a starší matriky Vernéřovic/Trutnova. Úmrtí Tobiase: projít pohřby 1708–1727 (174-6, snímky ~390–425).",
+      "summary": "Daniel Ringel *17. 6. 1706 je syn Tobiase Ringela „des Obern“ a Dorothey (†6. 4. 1720); rodiče se vzali 23. 11. 1688, Tobias byl syn †Lorenze Ringela. Otevřené: jméno otce Dorothey Bircke, jisté úmrtí Tobiase a Lorenze, narození Tobiase.",
+      "details": "Ve sňatku 1688 (174-6, snímek 17, fol. 24) stojí „Jungfrau Dorothea M?lt?er Birckens ehel. Tochter“ — čteno jako Melcher (Melchior) nebo Matthes; 29. 12. 1700 je pohřben jakýsi Matthias Bircke a pohřeb dítěte Tobiase Birckeho (174-6, snímek 380). Dokud jméno nebude jisté, otec Dorothey není v mapě. Narození Tobiase před rokem 1680 je mimo matriku 174-6 (začíná 1675) — zkusit křty 1675–1670 a starší matriky Vernéřovic/Trutnova. Úmrtí Tobiase: projít pohřby 1708–1727 (174-6, snímky ~390–425). Doplněk: kandidáti úmrtí — Tobias Ringel pohřben 29./30. 8. 1727 (174-6, snímek 421, fol. 123; jediný dospělý Tobias v indexu zemřelých 1688–10/1727), Lorenz Ringel pohřben 12. 1. 1684 (174-6, snímek 365, fol. 10). Ani jeden zápis neuvádí věk či příbuzné. Sňatek 25. 11. 1721 (174-6, snímek 51, fol. 91) NENÍ nový sňatek Tobiase: ženich je „Tobias Ringel ein junger Gesell, Tobias Ringels nachgel. ehel. Sohn allhier zu Wiesen“ s Rosinou, dcerou George Krause. Jeden z obou starších Tobiasů byl tedy 11/1721 mrtvý — podle indexu narozených spíš Tobias × Susanna (syn Tobias *1701, fol. 134). Pohřeb 29. 8. 1727 tak může patřit našemu Tobiasovi „dem Obern“, ale i mladému Tobiasovi *1701; bez věku nerozhodnuto. Další krok: pohřby 1708–1721 přečíst přímo (index nemusí být úplný) a hledat vdovu Rosinu po 1727.",
       "related_ids": [
         "tobias-ringel-viznov",
         "dorothea-ringel-viznov",
@@ -574,6 +574,21 @@
           "label": "ARON, pohřeb 15. 7. 1705",
           "signatura": "174-6",
           "detail": "snímek 386, fol. 52, 15. 7. 1705, Vižňov"
+        },
+        {
+          "label": "ARON, pohřeb 29. 8. 1727",
+          "signatura": "174-6",
+          "detail": "snímek 421, fol. 123"
+        },
+        {
+          "label": "ARON, pohřeb 12. 1. 1684",
+          "signatura": "174-6",
+          "detail": "snímek 365, fol. 10"
+        },
+        {
+          "label": "ARON, sňatek 25. 11. 1721",
+          "signatura": "174-6",
+          "detail": "snímek 51, fol. 91"
         }
       ]
     }

@@ -3231,7 +3231,7 @@
       "notes": [
         "Otec Daniela Ringela podle sňatku 21. 10. 1727 (174-6, snímek 57, fol. 104): „Tobias Ringels nachgel. ehel. Sohn von der Wiesen“; v křtu Daniela 17. 6. 1706 „Tobias Ringel der Obere“ s manželkou Dorotheou.",
         "Sňatek 23. 11. 1688 (174-6, snímek 17, fol. 24): „Tobias Ringel ein junger Gesell, weil. Lorenz Ringels hinterlassener Sohn, und Jungfrau Dorothea … Birckens ehel. Tochter“. Je to jediný sňatek Tobiase Ringela s Dorotheou v oddacím indexu Vižňova 1680–1751; druhý současný Tobias Ringel měl manželku Susannu (sňatek 1685, děti do 1712), takže páry nelze zaměnit.",
-        "Datum úmrtí zatím nedohledáno (mezi 1708 a 21. 10. 1727)."
+        "Úmrtí: jediný dospělý Tobias Ringel v indexu zemřelých Vižňova 1688–říjen 1727 (174-21, snímky 35–36) je pohřbený 29. 8. 1727 (174-6, snímek 421, fol. 123) — pravděpodobně on, ale zápis neuvádí manželku ani věk, proto datum zatím jen v otevřeném dotazu q-ringel-tobias."
       ],
       "interesting": []
     },
@@ -3268,7 +3268,11 @@
       "maiden": "Bircke (Birke)",
       "birth": null,
       "baptism": null,
-      "death": null,
+      "death": {
+        "display": "6. 4. 1720",
+        "precision": "exact",
+        "note": "Vižňov, „Dorothea Tobias Ringels geweßene Ehew. allhier“, zaopatřena svátostmi, pohřbena 9. 4. 1720 (174-6, snímek 408, fol. 96). Věk neuveden."
+      },
       "occupation": null,
       "places": [
         "Vižňov (Wiesen)"
@@ -3286,10 +3290,16 @@
           "label": "ARON, křest 17. 6. 1706",
           "signatura": "174-6",
           "detail": "snímek 174, fol. 173, 17. 6. 1706, Vižňov"
+        },
+        {
+          "label": "ARON, úmrtí 6. 4. 1720",
+          "signatura": "174-6",
+          "detail": "snímek 408, fol. 96, 6. 4. 1720, Vižňov"
         }
       ],
       "notes": [
-        "Matka Daniela *1706 (174-6, snímek 174). Rodné příjmení ze sňatku s Tobiasem Ringelem 23. 11. 1688 (174-6, snímek 17): „Jungfrau Dorothea … Birckens ehel. Tochter“. Křestní jméno jejího otce je nečitelné jistě (Melcher/Matthes?) — viz otevřený dotaz q-ringel-tobias."
+        "Matka Daniela *1706 (174-6, snímek 174). Rodné příjmení ze sňatku s Tobiasem Ringelem 23. 11. 1688 (174-6, snímek 17): „Jungfrau Dorothea … Birckens ehel. Tochter“. Křestní jméno jejího otce je nečitelné jistě (Melcher/Matthes?) — viz otevřený dotaz q-ringel-tobias.",
+        "Úmrtí přiřazeno, protože Tobias Ringel měl v letech 1680–1720 jedinou manželku jménem Dorothea (oddací index 174-21); druhý současný Tobias Ringel byl ženatý se Susannou."
       ],
       "interesting": []
     },
@@ -3319,7 +3329,8 @@
         }
       ],
       "notes": [
-        "Otec Tobiase Ringela podle sňatku 23. 11. 1688 (174-6, snímek 17, fol. 24): „weil. Lorenz Ringels hinterlassener Sohn“. Manželka nejmenována."
+        "Otec Tobiase Ringela podle sňatku 23. 11. 1688 (174-6, snímek 17, fol. 24): „weil. Lorenz Ringels hinterlassener Sohn“. Manželka nejmenována.",
+        "Kandidát úmrtí: „Anno 1684 den 12. Januarij ist Lorenz Ringel … zur Erden bestattet worden“ (174-6, snímek 365, fol. 10) — jediný Lorenz Ringel v indexu zemřelých 1675–1688, ale bez věku a příbuzných; Lorenz mohl zemřít i před začátkem matriky (1675). Proto jen v otevřeném dotazu."
       ],
       "interesting": []
     }
@@ -5018,8 +5029,8 @@
     {
       "id": "q-ringel-tobias",
       "title": "Ringelové z Vižňova před 1688: Tobias, Dorothea Bircke, Lorenz",
-      "summary": "Daniel Ringel *17. 6. 1706 je syn Tobiase Ringela „des Obern“ a Dorothey; rodiče se vzali 23. 11. 1688, Tobias byl syn †Lorenze Ringela. Otevřené: křestní jméno otce Dorothey Bircke, úmrtí Tobiase (1708–1727) a Dorothey, narození Tobiase (~1660–1668).",
-      "details": "Ve sňatku 1688 (174-6, snímek 17, fol. 24) stojí „Jungfrau Dorothea M?lt?er Birckens ehel. Tochter“ — čteno jako Melcher (Melchior) nebo Matthes; 29. 12. 1700 je pohřben jakýsi Matthias Bircke a pohřeb dítěte Tobiase Birckeho (174-6, snímek 380). Dokud jméno nebude jisté, otec Dorothey není v mapě. Narození Tobiase před rokem 1680 je mimo matriku 174-6 (začíná 1675) — zkusit křty 1675–1670 a starší matriky Vernéřovic/Trutnova. Úmrtí Tobiase: projít pohřby 1708–1727 (174-6, snímky ~390–425).",
+      "summary": "Daniel Ringel *17. 6. 1706 je syn Tobiase Ringela „des Obern“ a Dorothey (†6. 4. 1720); rodiče se vzali 23. 11. 1688, Tobias byl syn †Lorenze Ringela. Otevřené: jméno otce Dorothey Bircke, jisté úmrtí Tobiase a Lorenze, narození Tobiase.",
+      "details": "Ve sňatku 1688 (174-6, snímek 17, fol. 24) stojí „Jungfrau Dorothea M?lt?er Birckens ehel. Tochter“ — čteno jako Melcher (Melchior) nebo Matthes; 29. 12. 1700 je pohřben jakýsi Matthias Bircke a pohřeb dítěte Tobiase Birckeho (174-6, snímek 380). Dokud jméno nebude jisté, otec Dorothey není v mapě. Narození Tobiase před rokem 1680 je mimo matriku 174-6 (začíná 1675) — zkusit křty 1675–1670 a starší matriky Vernéřovic/Trutnova. Úmrtí Tobiase: projít pohřby 1708–1727 (174-6, snímky ~390–425). Doplněk: kandidáti úmrtí — Tobias Ringel pohřben 29./30. 8. 1727 (174-6, snímek 421, fol. 123; jediný dospělý Tobias v indexu zemřelých 1688–10/1727), Lorenz Ringel pohřben 12. 1. 1684 (174-6, snímek 365, fol. 10). Ani jeden zápis neuvádí věk či příbuzné. Sňatek 25. 11. 1721 (174-6, snímek 51, fol. 91) NENÍ nový sňatek Tobiase: ženich je „Tobias Ringel ein junger Gesell, Tobias Ringels nachgel. ehel. Sohn allhier zu Wiesen“ s Rosinou, dcerou George Krause. Jeden z obou starších Tobiasů byl tedy 11/1721 mrtvý — podle indexu narozených spíš Tobias × Susanna (syn Tobias *1701, fol. 134). Pohřeb 29. 8. 1727 tak může patřit našemu Tobiasovi „dem Obern“, ale i mladému Tobiasovi *1701; bez věku nerozhodnuto. Další krok: pohřby 1708–1721 přečíst přímo (index nemusí být úplný) a hledat vdovu Rosinu po 1727.",
       "related_ids": [
         "tobias-ringel-viznov",
         "dorothea-ringel-viznov",
@@ -5041,6 +5052,21 @@
           "label": "ARON, pohřeb 15. 7. 1705",
           "signatura": "174-6",
           "detail": "snímek 386, fol. 52, 15. 7. 1705, Vižňov"
+        },
+        {
+          "label": "ARON, pohřeb 29. 8. 1727",
+          "signatura": "174-6",
+          "detail": "snímek 421, fol. 123"
+        },
+        {
+          "label": "ARON, pohřeb 12. 1. 1684",
+          "signatura": "174-6",
+          "detail": "snímek 365, fol. 10"
+        },
+        {
+          "label": "ARON, sňatek 25. 11. 1721",
+          "signatura": "174-6",
+          "detail": "snímek 51, fol. 91"
         }
       ]
     }
