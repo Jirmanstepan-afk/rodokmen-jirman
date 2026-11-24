@@ -106,7 +106,7 @@
       "id": "q-jan-maroul-71-54",
       "title": "Jan Maroul č. 71 a Jan Maroul č. 54",
       "summary": "Dva zápisy Jana Maroula (domy 71 a 54) se v mapě vedou odděleně.",
-      "details": "Obě Anny, manželky těchto Janů, jsou dcery Jana Másla, výměnkáře v Nízké Srbské. Rozdíl domu otce Másla 30 vs. 39 také zůstává nesloučený. Dříve pravděpodobné ztotožnění v mapě (čárkovaná vazba); přesunuto sem, uzly zůstávají zvlášť.",
+      "details": "Oddací zápis 23. 1. 1844 (96-4228, snímek 6, folio 3) potvrzuje sňatek Jana Maroula z č. 71 s Annou Máslo, dcerou †Jana Másla, výměnkáře v NS č. 39, a Veroniky roz. Němečkové z NS č. 34. Obě Anny v mapě jsou v různých zápisech dcery Jana Másla z Nízké Srbské; dům otce 30 (1846) vs. 39 (1844, 1850, 1878) zůstává nesloučený, stejně jako dům manžela 71 vs. 54. Tento sňatek se zapisuje jen k větvi č. 71. Dříve pravděpodobné ztotožnění v mapě (čárkovaná vazba) je zrušeno; uzly zůstávají zvlášť.",
       "related_ids": [
         "jan-maroul-ns71",
         "jan-maroul-ns54",
@@ -127,6 +127,12 @@
         {
           "label": "ARON",
           "signatura": "130-7417"
+        },
+        {
+          "label": "ARON, sňatek 23. 1. 1844",
+          "signatura": "96-4228",
+          "detail": "snímek 6, folio 3",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
         }
       ]
     },

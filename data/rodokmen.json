@@ -3675,7 +3675,7 @@
       "id": "q-jan-maroul-71-54",
       "title": "Jan Maroul č. 71 a Jan Maroul č. 54",
       "summary": "Dva zápisy Jana Maroula (domy 71 a 54) se v mapě vedou odděleně.",
-      "details": "Obě Anny, manželky těchto Janů, jsou dcery Jana Másla, výměnkáře v Nízké Srbské. Rozdíl domu otce Másla 30 vs. 39 také zůstává nesloučený. Dříve pravděpodobné ztotožnění v mapě (čárkovaná vazba); přesunuto sem, uzly zůstávají zvlášť.",
+      "details": "Oddací zápis 23. 1. 1844 (96-4228, snímek 6, folio 3) potvrzuje sňatek Jana Maroula z č. 71 s Annou Máslo, dcerou †Jana Másla, výměnkáře v NS č. 39, a Veroniky roz. Němečkové z NS č. 34. Obě Anny v mapě jsou v různých zápisech dcery Jana Másla z Nízké Srbské; dům otce 30 (1846) vs. 39 (1844, 1850, 1878) zůstává nesloučený, stejně jako dům manžela 71 vs. 54. Tento sňatek se zapisuje jen k větvi č. 71. Dříve pravděpodobné ztotožnění v mapě (čárkovaná vazba) je zrušeno; uzly zůstávají zvlášť.",
       "related_ids": [
         "jan-maroul-ns71",
         "jan-maroul-ns54",
@@ -3696,6 +3696,12 @@
         {
           "label": "ARON",
           "signatura": "130-7417"
+        },
+        {
+          "label": "ARON, sňatek 23. 1. 1844",
+          "signatura": "96-4228",
+          "detail": "snímek 6, folio 3",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
         }
       ]
     },
@@ -4726,7 +4732,12 @@
           "id": "anna-maslo-ns71",
           "name": "Anna Maroulová",
           "maiden": "Máslo",
-          "birth": null,
+          "birth": {
+            "display": "kolem 1825",
+            "precision": "circa",
+            "date": "1825",
+            "note": "Stáří 19 let při sňatku 23. 1. 1844 (96-4228, snímek 6)."
+          },
           "baptism": null,
           "death": null,
           "occupation": "Výměnkářka, Nízká Srbská č. 39 (1874).",
@@ -4747,11 +4758,18 @@
               "label": "ARON",
               "signatura": "130-7417",
               "detail": "snímek 43"
+            },
+            {
+              "label": "ARON, sňatek 23. 1. 1844",
+              "signatura": "96-4228",
+              "detail": "snímek 6, folio 3",
+              "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
             }
           ],
           "notes": [
             "Dcera †Jana Másla, výměnkáře z NS č. 30 (1846) / č. 39 (1850), a Veroniky roz. Němečkové z NS č. 34.",
-            "Dřívější opatrné čtení babičky „Šimůnková / Šimánková“ se po zápisu 1850 opravuje na Veroniku Němečkovou."
+            "Dřívější opatrné čtení babičky „Šimůnková / Šimánková“ se po zápisu 1850 opravuje na Veroniku Němečkovou.",
+            "Sňatek 23. 1. 1844: Anna Maslo, ehel. Tochter des verstorbenen Johann Maslo, Ausgedinger aus Niedersrbská N. 39, und dessen Eheweib Veronika geborenen Němeček aus Niedersrbská N. 34. Katolička, svobodná, stáří 19. Otec byl k tomuto datu již mrtev."
           ],
           "interesting": []
         },
@@ -4884,7 +4902,12 @@
           "id": "jan-maroul-ns71",
           "name": "Jan Maroul",
           "maiden": null,
-          "birth": null,
+          "birth": {
+            "display": "kolem 1820",
+            "precision": "circa",
+            "date": "1820",
+            "note": "Stáří 24 let při sňatku 23. 1. 1844 (96-4228, snímek 6)."
+          },
           "baptism": null,
           "death": null,
           "occupation": "Podruh, Nízká Srbská č. 71 (1846, 1850); chalupník, Nízká Srbská č. 71 (1874).",
@@ -4904,11 +4927,18 @@
               "label": "ARON",
               "signatura": "130-7417",
               "detail": "snímek 43"
+            },
+            {
+              "label": "ARON, sňatek 23. 1. 1844",
+              "signatura": "96-4228",
+              "detail": "snímek 6, folio 3",
+              "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
             }
           ],
           "notes": [
             "Syn Tobiáše Maroula, chalupníka z NS č. 71, a Marie roz. Šimcové z Bělic č. 23.",
-            "Velmi pravděpodobně týž muž jako Jan, chalupník NS č. 54, z narození Františky *1878 — dům 71 a 54 se neslučují potichu."
+            "Ztotožnění s Janem, chalupníkem NS č. 54, z narození Františky *1878 zůstává otevřeným dotazem (q-jan-maroul-71-54); dům 71 a 54 se neslučují potichu.",
+            "Sňatek 23. 1. 1844 v Nízké Srbské č. 71: Johann Maraul, ehel. Sohn des Tobias Maraul, Chalupner aus Niedersrbská N. 71, und dessen Eheweib Maria geborenen Šimel (pravděpodobně Šimec) aus Groß-Jenzí N. 22 (čtení místa opatrné). Katolík, svobodný, stáří 24. Ohlášky 7., 14. a 21. ledna, politický souhlas 5. ledna; oddával (čtení) Joseph Kramm. Svědci: Joseph (příjmení čtení nejisté), sedlák z NS č. 39, a Johann Maraul, sedlák z NS č. 3 (svědek se jako uzel nepřidává)."
           ],
           "interesting": []
         },
@@ -4919,14 +4949,15 @@
           "birth": null,
           "baptism": null,
           "death": {
-            "display": "před 3. 7. 1846",
-            "precision": "range",
-            "note": "V zápisu vnuka Františka *1846 i Josefa *1850 už nebožtík."
+            "display": "před 23. 1. 1844",
+            "precision": "before",
+            "note": "V oddacím zápisu dcery Anny (96-4228, snímek 6) je uveden jako verstorben / již zemřelý, výměnkář (Ausgedinger) v NS č. 39."
           },
           "occupation": "Výměnkář, Nízká Srbská č. 30 (1846); výměnkář, Nízká Srbská č. 39 (1850).",
           "places": [
             "Nízká Srbská č. 30 (1846)",
-            "Nízká Srbská č. 39 (1850)"
+            "Nízká Srbská č. 39 (1850)",
+            "Nízká Srbská č. 39 (1844, † výměnkář)"
           ],
           "branch": "maslo",
           "certainty": "potvrzeno",
@@ -4936,10 +4967,17 @@
               "label": "ARON",
               "signatura": "96-15",
               "detail": "snímky 32 a 47"
+            },
+            {
+              "label": "ARON, sňatek 23. 1. 1844",
+              "signatura": "96-4228",
+              "detail": "snímek 6, folio 3",
+              "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
             }
           ],
           "notes": [
-            "Obě čísla domu ponechat. Velmi pravděpodobně týž muž jako výměnkář NS č. 39 z narození Františky *1878."
+            "Obě čísla domu ponechat. Velmi pravděpodobně týž muž jako výměnkář NS č. 39 z narození Františky *1878.",
+            "K 23. 1. 1844 již zemřelý výměnkář v NS č. 39. Čísla domu 30 (1846) a 39 (1844, 1850) se neslučují potichu."
           ],
           "interesting": []
         },
@@ -4999,7 +5037,8 @@
           "death": null,
           "occupation": null,
           "places": [
-            "Bělic č. 23"
+            "Bělic č. 23",
+            "Groß-Jenzí č. 22 (1844, čtení místa opatrné)"
           ],
           "branch": "maroul",
           "certainty": "potvrzeno",
@@ -5014,10 +5053,17 @@
               "label": "ARON",
               "signatura": "96-4228",
               "detail": "snímek 75"
+            },
+            {
+              "label": "ARON, sňatek 23. 1. 1844",
+              "signatura": "96-4228",
+              "detail": "snímek 6, folio 3",
+              "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
             }
           ],
           "notes": [
-            "Dcera Antonína Šimce, rolníka v Bělici č. 23."
+            "Dcera Antonína Šimce, rolníka v Bělici č. 23.",
+            "V oddacím zápisu syna Jana 23. 1. 1844: „Maria geborenen Šimel aus Groß-Jenzí N. 22“ (příjmení pravděpodobně totéž jako Šimec; místo Groß-Jenzí č. 22 se neslučuje s Bělicí č. 23 z pozdějších zápisů)."
           ],
           "interesting": []
         },
@@ -5072,6 +5118,12 @@
               "label": "ARON",
               "signatura": "96-4228",
               "detail": "snímek 75"
+            },
+            {
+              "label": "ARON, sňatek 23. 1. 1844",
+              "signatura": "96-4228",
+              "detail": "snímek 6, folio 3",
+              "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
             }
           ],
           "notes": [
@@ -5127,10 +5179,17 @@
               "label": "ARON",
               "signatura": "96-15",
               "detail": "snímky 32 a 47"
+            },
+            {
+              "label": "ARON, sňatek 23. 1. 1844",
+              "signatura": "96-4228",
+              "detail": "snímek 6, folio 3",
+              "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
             }
           ],
           "notes": [
-            "Jasně v zápisu vnuka Josefa *1850; stejně čitelné i v zápisu 1846 po srovnání. Dřívější opatrné čtení „Šimůnková / Šimánková“ je opraveno."
+            "Jasně v zápisu vnuka Josefa *1850; stejně čitelné i v zápisu 1846 po srovnání. Dřívější opatrné čtení „Šimůnková / Šimánková“ je opraveno.",
+            "V oddacím zápisu dcery Anny 23. 1. 1844 znovu „Veronika geborenen Němeček aus Niedersrbská N. 34“."
           ],
           "interesting": []
         }
@@ -5152,7 +5211,22 @@
               "label": "ARON",
               "signatura": "96-15",
               "detail": "snímky 32 a 47"
+            },
+            {
+              "label": "ARON, sňatek 23. 1. 1844",
+              "signatura": "96-4228",
+              "detail": "snímek 6, folio 3",
+              "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
             }
+          ],
+          "date": {
+            "display": "23. 1. 1844",
+            "precision": "exact",
+            "date": "1844-01-23",
+            "place": "Nízká Srbská č. 71"
+          },
+          "notes": [
+            "Tělo zápisu 96-4228 snímek 6, folio 3: ženich Johann Maraul (24) z č. 71, nevěsta Anna Maslo (19), dcera †Jana Másla, výměnkáře č. 39, a Veroniky roz. Němečkové z č. 34. Tento sňatek patří větvi č. 71, ne linii č. 54."
           ]
         },
         {
