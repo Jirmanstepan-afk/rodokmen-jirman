@@ -2578,9 +2578,11 @@
       },
       "baptism": null,
       "death": {
-        "display": "před 22. 11. 1841",
-        "precision": "range",
-        "note": "V oddacím zápisu dcery Theresie 22. 11. 1841 už nebožtík."
+        "display": "3. 7. 1838",
+        "date": "1838-07-03",
+        "precision": "exact",
+        "place": "Ruprechtice č. 117",
+        "note": "„Georg Dauer (psáno Dauße), behausteter Inwohner von Ruppersdorf“, sešlost věkem (Altersschwäche); věk čten nejistě 87(?) let; 141-6, snímek 32, fol. 57."
       },
       "occupation": "Chalupník (Häusler) v Ruprechticích č. 74 (1799, 1808); k roku 1841 chalupník a podruh (Häusler und Inwohner) v č. 117, poddaný broumovského panství.",
       "places": [
@@ -2627,21 +2629,35 @@
           "label": "ARON",
           "signatura": "141-4240",
           "detail": "snímek 14, folio 9, a snímek 25, folio 19"
+        },
+        {
+          "label": "ARON, úmrtí 3. 7. 1838",
+          "signatura": "141-6",
+          "detail": "snímek 32, fol. 57, 3. 7. 1838, Ruprechtice č. 117"
+        },
+        {
+          "label": "ARON, index zemřelých Ruprechtice",
+          "signatura": "141-4254",
+          "detail": "snímek 7 vpravo a 8 vlevo, Lit. D: Barbara č. 116 3. 5. 1833 (str. 39), Georg č. 117 3. 7. 1838 (str. 57)"
         }
       ]
     },
     {
       "maiden": "Ringel",
       "birth": {
-        "display": "kolem 1768",
-        "precision": "circa",
-        "note": "Věk 24 let při sňatku 9. 10. 1792. Rodný zápis nenalezen: jediná Barbara jejího otce Antona Ringela v Ruprechticích je Anna Barbara Margaretha *16. 6. 1774 (141-7599, snímek 291), což věkově nesedí — viz q-ringel-viznov-1768."
+        "display": "16. 6. 1774",
+        "precision": "exact",
+        "date": "1774-06-16",
+        "place": "Ruprechtice č. 34",
+        "note": "Křest 16. 6. 1774 (141-7599, snímek 291, Pag. 502): „Anna Barbara Margaretha“, otec Anton Ringel, podruh (Inmann) v Ruprechticích, matka Maria roz. Knittel(ová); kmotři Benedict Herzog(?), sedlák, a panna Maria, dcera Antona Kasl(?)a, chalupníka v Ruprechticích. Věk 24 let při sňatku 1792 je proti tomu o 6 let nadsazený; věk 58 let při úmrtí 1833 odpovídá přesně."
       },
       "baptism": null,
       "death": {
-        "display": "před 20. 6. 1845",
-        "precision": "range",
-        "note": "V rodném zápisu vnuka Benedikta 20. 6. 1845 už nebožka."
+        "display": "3. 5. 1833",
+        "date": "1833-05-03",
+        "precision": "exact",
+        "place": "Ruprechtice č. 116",
+        "note": "„Barbara des Georg Dauer (psáno Daue/Dauße) Häuslers und Inwohners Ehegattin aus Ruppersdorf“, 58 let, tuberkulóza plic (Lungenschwindsucht); 141-6, snímek 23, fol. 39."
       },
       "occupation": "Manželka Georga Dauera, chalupníka v Ruprechticích (č. 74 v letech 1799 a 1808, č. 117 k roku 1841). Dcera Antona Ringela, výměnkáře (Auszügler) v Ruprechticích.",
       "places": [
@@ -2651,7 +2667,9 @@
       "living": false,
       "notes": [
         "Rodné příjmení Ringel stojí zřetelně v rodných zápisech dcer Elisabeth 22. 11. 1799 a Theresie 22. 9. 1808 (141-1): „Barbara, Anton Ringels Auszüglers Tochter aus Ruppersdorf“. Ve sňatku Theresie 22. 11. 1841 bylo dříve čteno Pirkel a v zápisech vnoučat 1845–1846 opatrně Pitz/Sitz. Při srovnání s písmenem R ve slově „Ruppersdorf“ v témže řádku jde o Ringel; čtení Pirkel se tím opravuje.",
-        "Číslo domu jejího otce se v zápisech liší: 1799 zřetelně č. 33, 1808 č. 33 nebo 35, sňatek 1841 č. 53. Čísla domů se neslučují."
+        "Číslo domu jejího otce se v zápisech liší: 1799 zřetelně č. 33, 1808 č. 33 nebo 35, sňatek 1841 č. 53. Čísla domů se neslučují.",
+        "Úmrtí 3. 5. 1833: v indexu zemřelých Ruprechtic (141-4254, Lit. D) je mezi 1808 a 1845 jediná dospělá Barbara Dauer(ová) — č. 116, manželka Georga, chalupníka a podruha; Georg sám zemřel 1838 v č. 117. Ostatní Barbary s tímto příjmením jsou 6. 4. 1808 (č. 35, před narozením Theresie 9/1808, tedy jiná) a 22. 1. 1843 (dítě †Antona Dauera).",
+        "Narození připsáno 25. 11. 2026: jejím otcem je podle rodných zápisů dcer 1799 a 1808 Anton Ringel, výměnkář z č. 33, totožný s Antonem Ringelem, který byl 1771 výměnkářem v č. 33 a 1774 podruhem v č. 34 (†1793). Tento Anton má v ruprechtické matrice 1765–1777 jedinou dceru Barbaru: Annu Barbaru Margarethu *16. 6. 1774. Dřívější Barbara Antona Ringela (†14. 7. 1762) zemřela jako dítě a starší Barbary by v roce 1833 měly přes 70 let. Úmrtí Barbary Ringel(ové) v dětství bylo vyloučeno: kniha zemřelých 141-7599 je prošlá souvisle 1774–4/1784 a index zemřelých 141-4254 (Lit. R, 1784–1821) uvádí jedinou Barbaru Ringel — 20. 10. 1814, č. 11, 42 let, „des sel. Johann Ringel Häuslers Tochter“ (141-6, snímek 5, fol. 2), tedy dceru jiného otce. Věk 58 let při úmrtí sedí přesně. Ve sňatku 1792 je uvedeno 24 let, což je o 6 let víc; protokol sňatku jiný rodný zápis nepodporuje."
       ],
       "interesting": [],
       "id": "barbara-pitz",
@@ -2683,6 +2701,26 @@
           "label": "ARON",
           "signatura": "141-4240",
           "detail": "snímek 14, folio 9, a snímek 25, folio 19"
+        },
+        {
+          "label": "ARON, úmrtí 3. 5. 1833",
+          "signatura": "141-6",
+          "detail": "snímek 23, fol. 39, 3. 5. 1833, Ruprechtice č. 116"
+        },
+        {
+          "label": "ARON, index zemřelých Ruprechtice",
+          "signatura": "141-4254",
+          "detail": "snímek 7 vpravo a 8 vlevo, Lit. D: Barbara č. 116 3. 5. 1833 (str. 39), Georg č. 117 3. 7. 1838 (str. 57)"
+        },
+        {
+          "label": "ARON, narození 16. 6. 1774",
+          "signatura": "141-7599",
+          "detail": "snímek 291, Pag. 502, 16. 6. 1774, Ruprechtice č. 34"
+        },
+        {
+          "label": "ARON, index zemřelých Ruprechtice",
+          "signatura": "141-4254",
+          "detail": "snímek 31 vpravo, Lit. R (1784–1821): jediná Barbara Ringel 20. 10. 1814, č. 11 — dcera Johanna Ringela"
         }
       ]
     },
@@ -3331,6 +3369,37 @@
       "notes": [
         "Otec Tobiase Ringela podle sňatku 23. 11. 1688 (174-6, snímek 17, fol. 24): „weil. Lorenz Ringels hinterlassener Sohn“. Manželka nejmenována.",
         "Kandidát úmrtí: „Anno 1684 den 12. Januarij ist Lorenz Ringel … zur Erden bestattet worden“ (174-6, snímek 365, fol. 10) — jediný Lorenz Ringel v indexu zemřelých 1675–1688, ale bez věku a příbuzných; Lorenz mohl zemřít i před začátkem matriky (1675). Proto jen v otevřeném dotazu."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "maria-knittel",
+      "name": "Maria Ringel(ová)",
+      "maiden": "Knittel",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Ruprechtice (Ruppersdorf)"
+      ],
+      "branch": "meier",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 27. 11. 1770",
+          "signatura": "141-7599",
+          "detail": "snímek 448, Pag. 128, 27. 11. 1770, Ruprechtice"
+        },
+        {
+          "label": "ARON, narození 16. 6. 1774",
+          "signatura": "141-7599",
+          "detail": "snímek 291, Pag. 502, 16. 6. 1774, Ruprechtice č. 34"
+        }
+      ],
+      "notes": [
+        "Sňatek 27. 11. 1770 (141-7599, snímek 448, Pag. 128): „Anton Ringel ein Wittiber in Ruppersdorf und Jungfrau Maria, Heinrich Knittels ehel. Tochter alldo“; svědci Anton Kahl(?), rychtář v Ruprechticích, Friedrich Braun(?), mlynář, Anton Kasler(?), chalupník, a Wenzel Fau…(?), sedlák; ohlášky 11., 18. a 25. 11. Matka Barbary Dauerové podle křtu 16. 6. 1774. Otec Heinrich Knittel zatím není v mapě (jen jméno ze sňatku, bez dalšího zápisu)."
       ],
       "interesting": []
     }
@@ -4263,7 +4332,8 @@
     {
       "id": "u-anton-ringel",
       "partners": [
-        "anton-ringel"
+        "anton-ringel",
+        "maria-knittel"
       ],
       "children": [
         "barbara-pitz"
@@ -4279,11 +4349,27 @@
           "label": "ARON, narození 22. 9. 1808",
           "signatura": "141-1",
           "detail": "snímek 88, Pag. 170, 22. 9. 1808, dům 74"
+        },
+        {
+          "label": "ARON, sňatek 27. 11. 1770",
+          "signatura": "141-7599",
+          "detail": "snímek 448, Pag. 128, 27. 11. 1770, Ruprechtice"
+        },
+        {
+          "label": "ARON, narození 16. 6. 1774",
+          "signatura": "141-7599",
+          "detail": "snímek 291, Pag. 502, 16. 6. 1774, Ruprechtice č. 34"
         }
       ],
       "notes": [
-        "Otcovství z formule u matky v rodných zápisech 1799 a 1808. Manželka nejmenována."
-      ]
+        "Otcovství z formule u matky v rodných zápisech 1799 a 1808. Matka Maria Knittel(ová) z křtu Barbary 16. 6. 1774; Anton byl při sňatku 27. 11. 1770 vdovec (první manželka Anna Maria roz. Schroll(ová), viz otevřené dotazy)."
+      ],
+      "married": {
+        "display": "27. 11. 1770",
+        "date": "1770-11-27",
+        "place": "Ruprechtice",
+        "note": "141-7599, Pag. 128: Anton Ringel, vdovec, × panna Maria, dcera Heinricha Knittela."
+      }
     },
     {
       "id": "u-joseph-rosenberg-barbara",
@@ -4849,9 +4935,9 @@
     },
     {
       "id": "q-ringel-viznov-1768",
-      "title": "Anna Barbara Ringel *24. 11. 1768 ve Vižňově — matka Benedikta, nebo manželka Georga Dauera?",
+      "title": "Anna Barbara Ringel *24. 11. 1768 ve Vižňově — matka Benedikta Rosenberga?",
       "summary": "174-7, snímek 85 (fol. 164): 24. 11. 1768 pokřtěna ve Vernéřovicích Anna Barbara, dcera Antona Ringela, podruha (Hausgenoss) ve Vižňově, a Anny (příjmení Drä…/Deu…?); kmotři Benedict Kreidler(?), podruh ve Vižňově, a Anna Barbara, dcera učitele Josepha Sch…(?). V indexu 174-19 je to jediná Barbara Antona Ringela (1765–1782).",
-      "details": "Sedí na dvě ženy: (a) Barbara Rosenbergová, matka Benedikta *7. 10. 1799 — dcera Antona Ringela, podruha ve Vižňově č. 58 (stejný otec, stav i dům podle indexu); (b) Barbara Ringel, manželka Georga Dauera — 24 let při sňatku 9. 10. 1792, ale její otec je 1799 a 1808 „Anton Ringel, výměnkář z Ruprechtic č. 33“. Obě ženy rodí v roce 1799 šest týdnů po sobě (7. 10. a 22. 11.), nejde tedy o jednu osobu; Barbara Dauerová je navíc 1799 kmotrou Benedikta. V ruprechtickém indexu jsou Barbary s otcem Antonem Rindel/Ringel 1757 a 1760. Narození 1768 se proto nepřipisuje žádné z nich. Vedlejší nález na téže straně: 16. 11. 1768 (nar. 15. 11.) Joseph, syn Antona Rosenbergera, chalupníka ve Vižňově, a Anny Marie Opitz(ové) — kandidát na Josepha Rosenberga (33 let v roce 1800), nepřipisuje se. Doplněk 25. 11. 2026: Antonové jsou prokazatelně dva různí muži (q-ringel-totoznost). U ruprechtického Antona je v matrice 141-7599 (1765–1777) jediná Barbara: Anna Barbara Margaretha *16. 6. 1774 (snímek 291, matka Maria Knittel) — to by Barbaře Dauerové dávalo 18, ne 24 let v roce 1792; nepřipisuje se. Barbary 1757/1758/1760 patří Antonu Rindelovi (jiné manželky). Vižňovská Anna Barbara *24. 11. 1768 je jediná Barbara Antona z č. 58 (1765–1783 prošlo) — silný kandidát na Barbaru Rosenbergovou, ale přímé spojení (věk při sňatku/úmrtí) chybí, proto zatím ne do mapy.",
+      "details": "Sedí na dvě ženy: (a) Barbara Rosenbergová, matka Benedikta *7. 10. 1799 — dcera Antona Ringela, podruha ve Vižňově č. 58 (stejný otec, stav i dům podle indexu); (b) Barbara Ringel, manželka Georga Dauera — 24 let při sňatku 9. 10. 1792, ale její otec je 1799 a 1808 „Anton Ringel, výměnkář z Ruprechtic č. 33“. Obě ženy rodí v roce 1799 šest týdnů po sobě (7. 10. a 22. 11.), nejde tedy o jednu osobu; Barbara Dauerová je navíc 1799 kmotrou Benedikta. V ruprechtickém indexu jsou Barbary s otcem Antonem Rindel/Ringel 1757 a 1760. Narození 1768 se proto nepřipisuje žádné z nich. Vedlejší nález na téže straně: 16. 11. 1768 (nar. 15. 11.) Joseph, syn Antona Rosenbergera, chalupníka ve Vižňově, a Anny Marie Opitz(ové) — kandidát na Josepha Rosenberga (33 let v roce 1800), nepřipisuje se. Doplněk 25. 11. 2026: Antonové jsou prokazatelně dva různí muži (q-ringel-totoznost). U ruprechtického Antona je v matrice 141-7599 (1765–1777) jediná Barbara: Anna Barbara Margaretha *16. 6. 1774 (snímek 291, matka Maria Knittel) — to by Barbaře Dauerové dávalo 18, ne 24 let v roce 1792; nepřipisuje se. Barbary 1757/1758/1760 patří Antonu Rindelovi (jiné manželky). Vižňovská Anna Barbara *24. 11. 1768 je jediná Barbara Antona z č. 58 (1765–1783 prošlo) — silný kandidát na Barbaru Rosenbergovou, ale přímé spojení (věk při sňatku/úmrtí) chybí, proto zatím ne do mapy. Doplněk 25. 11. 2026 (noc): Barbara Dauerová zemřela 3. 5. 1833 v Ruprechticích č. 116 ve věku 58 let (141-6, snímek 23, fol. 39) → narozena asi 5/1774–5/1775. To přesně odpovídá Anně Barbaře Margarethě *16. 6. 1774 (141-7599, snímek 291), dceři Antona Ringela (podruh č. 34; 1771 výměnkář č. 33) a Marie Knittel(ové). Věk 24 ve sňatku 1792 by pak byl nadsazený (snad kvůli zletilosti ve 24 letech). Před připsáním ověřit, že tato Barbara nezemřela jako dítě (141-7599 Z 1774–5/1785, pak 141-5). Doplněk 25. 11. 2026 (vyřešeno pro Barbaru Dauerovou): úmrtí Anny Barbary Margarethy v dětství vyloučeno (141-7599 Z 1774–4/1784 souvisle; index 141-4254 Lit. R 1784–1821 má jedinou Barbaru Ringel †20. 10. 1814, dceru Johanna). Narození 16. 6. 1774 je proto v mapě připsáno Barbaře Dauerové, matka Maria Knittel(ová) doplněna. Vižňovská Barbara *1768 zůstává kandidátkou jen na Barbaru Rosenbergovou.",
       "related_ids": [
         "barbara-rosenberg-1799",
         "anton-ringel-viznov",
@@ -4879,6 +4965,11 @@
           "label": "ARON",
           "signatura": "141-7599",
           "detail": "snímek 291, 16. 6. 1774"
+        },
+        {
+          "label": "ARON, úmrtí 3. 5. 1833",
+          "signatura": "141-6",
+          "detail": "snímek 23, fol. 39, 3. 5. 1833, Ruprechtice č. 116"
         }
       ]
     },
@@ -5030,7 +5121,7 @@
       "id": "q-ringel-tobias",
       "title": "Ringelové z Vižňova před 1688: Tobias, Dorothea Bircke, Lorenz",
       "summary": "Daniel Ringel *17. 6. 1706 je syn Tobiase Ringela „des Obern“ a Dorothey (†6. 4. 1720); rodiče se vzali 23. 11. 1688, Tobias byl syn †Lorenze Ringela. Otevřené: jméno otce Dorothey Bircke, jisté úmrtí Tobiase a Lorenze, narození Tobiase.",
-      "details": "Ve sňatku 1688 (174-6, snímek 17, fol. 24) stojí „Jungfrau Dorothea M?lt?er Birckens ehel. Tochter“ — čteno jako Melcher (Melchior) nebo Matthes; 29. 12. 1700 je pohřben jakýsi Matthias Bircke a pohřeb dítěte Tobiase Birckeho (174-6, snímek 380). Dokud jméno nebude jisté, otec Dorothey není v mapě. Narození Tobiase před rokem 1680 je mimo matriku 174-6 (začíná 1675) — zkusit křty 1675–1670 a starší matriky Vernéřovic/Trutnova. Úmrtí Tobiase: projít pohřby 1708–1727 (174-6, snímky ~390–425). Doplněk: kandidáti úmrtí — Tobias Ringel pohřben 29./30. 8. 1727 (174-6, snímek 421, fol. 123; jediný dospělý Tobias v indexu zemřelých 1688–10/1727), Lorenz Ringel pohřben 12. 1. 1684 (174-6, snímek 365, fol. 10). Ani jeden zápis neuvádí věk či příbuzné. Sňatek 25. 11. 1721 (174-6, snímek 51, fol. 91) NENÍ nový sňatek Tobiase: ženich je „Tobias Ringel ein junger Gesell, Tobias Ringels nachgel. ehel. Sohn allhier zu Wiesen“ s Rosinou, dcerou George Krause. Jeden z obou starších Tobiasů byl tedy 11/1721 mrtvý — podle indexu narozených spíš Tobias × Susanna (syn Tobias *1701, fol. 134). Pohřeb 29. 8. 1727 tak může patřit našemu Tobiasovi „dem Obern“, ale i mladému Tobiasovi *1701; bez věku nerozhodnuto. Další krok: pohřby 1708–1721 přečíst přímo (index nemusí být úplný) a hledat vdovu Rosinu po 1727.",
+      "details": "Ve sňatku 1688 (174-6, snímek 17, fol. 24) stojí „Jungfrau Dorothea M?lt?er Birckens ehel. Tochter“ — čteno jako Melcher (Melchior) nebo Matthes; 29. 12. 1700 je pohřben jakýsi Matthias Bircke a pohřeb dítěte Tobiase Birckeho (174-6, snímek 380). Dokud jméno nebude jisté, otec Dorothey není v mapě. Narození Tobiase před rokem 1680 je mimo matriku 174-6 (začíná 1675) — zkusit křty 1675–1670 a starší matriky Vernéřovic/Trutnova. Úmrtí Tobiase: projít pohřby 1708–1727 (174-6, snímky ~390–425). Doplněk: kandidáti úmrtí — Tobias Ringel pohřben 29./30. 8. 1727 (174-6, snímek 421, fol. 123; jediný dospělý Tobias v indexu zemřelých 1688–10/1727), Lorenz Ringel pohřben 12. 1. 1684 (174-6, snímek 365, fol. 10). Ani jeden zápis neuvádí věk či příbuzné. Sňatek 25. 11. 1721 (174-6, snímek 51, fol. 91) NENÍ nový sňatek Tobiase: ženich je „Tobias Ringel ein junger Gesell, Tobias Ringels nachgel. ehel. Sohn allhier zu Wiesen“ s Rosinou, dcerou George Krause. Jeden z obou starších Tobiasů byl tedy 11/1721 mrtvý — podle indexu narozených spíš Tobias × Susanna (syn Tobias *1701, fol. 134). Pohřeb 29. 8. 1727 tak může patřit našemu Tobiasovi „dem Obern“, ale i mladému Tobiasovi *1701; bez věku nerozhodnuto. Další krok: pohřby 1708–1721 přečíst přímo (index nemusí být úplný) a hledat vdovu Rosinu po 1727. Doplněk 25. 11. 2026: mladý Tobias × Rosina (sňatek 1721) má podle indexu narozených 174-19 (snímek 52 vpravo) děti ještě 1728 (fol. 346) a 1731 (fol. 368). Pohřeb 29. 8. 1727 proto nepatří jemu, ale jednomu ze dvou starších Tobiasů (× Dorothea, nebo × Susanna, pokud by ten v 11/1721 ještě žil). Protože v roce 1721 byl otec ženicha už mrtvý („nachgel. ehel. Sohn“), a otcem ženicha by byl Tobias × Susanna (syn Tobias *1701), mluví to pro pohřeb 1727 = náš Tobias „der Obere“. Jistota chybí, dokud nebude vyloučeno, že ženich 1721 byl syn Tobiase × Dorothey (index narozených 1689–1694 je nepřehledný).",
       "related_ids": [
         "tobias-ringel-viznov",
         "dorothea-ringel-viznov",

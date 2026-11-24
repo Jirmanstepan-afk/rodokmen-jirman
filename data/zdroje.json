@@ -278,6 +278,20 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 174-21 (poř.č. 12256), 1675-1784",
    "popis": "římskokatolický index ZEMŘELÝCH, ODDANÝCH, obvod Vižňov (Meziměstí - část Halbstädter Häuser, Pomeznice, Starostín, Vižňov)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/97214d89-1f12-43e0-9199-71da32fa01cd"
+  },
+  "141-6": {
+   "apu": "358d4f5b-1b37-453d-b1a9-3f5b308626da",
+   "dao": "358d4f5b-1b37-453d-b1a9-3f5b308626da",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 141-6 (poř.č. 9743), 1814-1855",
+   "popis": "římskokatolická matrika ZEMŘELÝCH, Ruprechtice (2.1814-10.1854), Jetřichov (do 1.1853), Hynčice (do 5.1855)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/358d4f5b-1b37-453d-b1a9-3f5b308626da"
+  },
+  "141-4254": {
+   "apu": "a7ba0d4e-7eba-4c6c-93b8-c6075466b1f3",
+   "dao": "a7ba0d4e-7eba-4c6c-93b8-c6075466b1f3",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 141-4254 (poř.č. 9749), 1784-1889",
+   "popis": "římskokatolický index ZEMŘELÝCH, farnost (Hynčice, Jetřichov, Meziměstí, Ruprechtice)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a7ba0d4e-7eba-4c6c-93b8-c6075466b1f3"
   }
  },
  "aliasy": {
@@ -508,6 +522,22 @@
    "nahled": "img/zdroje/141-4251_s061.jpg",
    "velky": "img/zdroje/141-4251_s061_velky.jpg"
   },
+  "141-4254|31": {
+   "signatura": "141-4254",
+   "snimek": 31,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a7ba0d4e-7eba-4c6c-93b8-c6075466b1f3/dao/a7ba0d4e-7eba-4c6c-93b8-c6075466b1f3/file/7abfc338-ee7c-4a18-b027-8292480265ac",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/141-4254_s031.jpg",
+   "velky": "img/zdroje/141-4254_s031_velky.jpg"
+  },
+  "141-4254|7": {
+   "signatura": "141-4254",
+   "snimek": 7,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a7ba0d4e-7eba-4c6c-93b8-c6075466b1f3/dao/a7ba0d4e-7eba-4c6c-93b8-c6075466b1f3/file/db57ebd9-92c2-4958-a79c-b02f7c604f1c",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/141-4254_s007.jpg",
+   "velky": "img/zdroje/141-4254_s007_velky.jpg"
+  },
   "141-4|29": {
    "signatura": "141-4",
    "snimek": 29,
@@ -531,6 +561,24 @@
    "velky": "img/zdroje/141-5_s015_velky.jpg",
    "vyrez_soubor": "z141-5-s015R-1793-11-01-anton-ringel-33.jpg"
   },
+  "141-6|23": {
+   "signatura": "141-6",
+   "snimek": 23,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/358d4f5b-1b37-453d-b1a9-3f5b308626da/dao/358d4f5b-1b37-453d-b1a9-3f5b308626da/file/71312d0e-3c7f-40f3-ad0e-fb3bf337c0f4",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-6_s023.jpg",
+   "velky": "img/zdroje/141-6_s023_velky.jpg",
+   "vyrez_soubor": "z141-6-s23-1833-05-03-barbara-dauer.jpg"
+  },
+  "141-6|32": {
+   "signatura": "141-6",
+   "snimek": 32,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/358d4f5b-1b37-453d-b1a9-3f5b308626da/dao/358d4f5b-1b37-453d-b1a9-3f5b308626da/file/7b7e30a5-d2cb-44f9-8ddf-083c6960e8f5",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-6_s032.jpg",
+   "velky": "img/zdroje/141-6_s032_velky.jpg",
+   "vyrez_soubor": "z141-6-s32-1838-07-03-georg-dauer.jpg"
+  },
   "141-7599|271": {
    "signatura": "141-7599",
    "snimek": 271,
@@ -547,7 +595,7 @@
    "vyrez": "zápis",
    "nahled": "img/zdroje/141-7599_s291.jpg",
    "velky": "img/zdroje/141-7599_s291_velky.jpg",
-   "vyrez_soubor": "n141-7599-s291R-1774-06-16-anna-barbara-margaretha-ringel.jpg"
+   "vyrez_soubor": "z141-7599-s291-1774-06-16-anna-barbara-margaretha-ringel.jpg"
   },
   "141-7599|409": {
    "signatura": "141-7599",
@@ -574,7 +622,7 @@
    "vyrez": "zápis",
    "nahled": "img/zdroje/141-7599_s448.jpg",
    "velky": "img/zdroje/141-7599_s448_velky.jpg",
-   "vyrez_soubor": "o141-7599-s448R-1770-11-27-ringel-knittel.jpg"
+   "vyrez_soubor": "z141-7599-s448-1770-11-27-anton-ringel-maria-knittel.jpg"
   },
   "141-7599|537": {
    "signatura": "141-7599",
