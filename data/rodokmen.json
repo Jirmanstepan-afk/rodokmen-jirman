@@ -2861,11 +2861,11 @@
   {
    "id": "barbara-rosenberg-1799",
    "name": "Barbara Rosenbergová",
-   "maiden": null,
+   "maiden": "Ringel",
    "birth": null,
    "baptism": null,
    "death": null,
-   "occupation": "Dcera Antona, podruha (Inwohner) z Vižňova (Wiesen) č. 58, broumovské panství (1799).",
+   "occupation": "Dcera Antona Ringela, podruha (Inmann) ve Vižňově (Wiesen) č. 58, broumovské panství (1799).",
    "places": [
     "Vižňov (Wiesen) č. 58 (původ)"
    ],
@@ -2877,10 +2877,17 @@
      "label": "ARON, narození 7. 10. 1799",
      "signatura": "141-1",
      "detail": "snímek 51, Pag. 97, 7. 10. 1799, dům 73"
+    },
+    {
+     "label": "ARON, index narozených Vižňov",
+     "signatura": "174-19",
+     "detail": "snímek 54, Lit. R (Wiese), Ringel: otec Anton, podruh (Inmann), č. 58, děti 1772–1781"
     }
    ],
    "notes": [
-    "Matka Benedikta Rosenberga *7. 10. 1799. Rodné příjmení je v zápisu 1799 čteno opatrně jako Tausch; pozdější poznámka 1833 píše Tause. Dokud není jisté, v mapě se jako rodné příjmení neuvádí."
+    "Matka Benedikta Rosenberga *7. 10. 1799. V zápisu 1799 je „Barbara, Anton Ringels Inmanns Tochter aus Wiesen No. 58, Braunauer Herrschaft“ (dřívější čtení „Tausch?“ bylo chybné; pozdější poznámka 1833 „Tause“ není původní ruka).",
+    "Čtení potvrzuje vižňovský index narozených 174-19 (snímek 54): Anton Ringel, Inmann, č. 58, s manželkou Annou, děti 1772–1781.",
+    "Kandidátní narození 24. 11. 1768 (174-7, fol. 164) se jí nepřipisuje — viz q-ringel-viznov-1768."
    ],
    "interesting": []
   },
@@ -2962,6 +2969,39 @@
    "notes": [
     "Matka Anny Rosenbergerové *29. 6. 1798. Rodné příjmení Lux čteno ve sňatku 1790 i v rodném zápisu 1798.",
     "Křestní jméno jejího otce se v zápisech liší (1790 Anton, 1798 Johann?), proto otec není v mapě — viz q-hawel-olberg."
+   ],
+   "interesting": []
+  },
+  {
+   "id": "anton-ringel-viznov",
+   "name": "Anton Ringel",
+   "maiden": null,
+   "birth": null,
+   "baptism": null,
+   "death": null,
+   "occupation": "Podruh (Inmann / Hausgenoss) ve Vižňově (Wiesen) č. 58, broumovské panství.",
+   "places": [
+    "Vižňov (Wiesen) č. 58"
+   ],
+   "branch": "rosenberger",
+   "certainty": "potvrzeno",
+   "living": false,
+   "sources": [
+    {
+     "label": "ARON, narození 7. 10. 1799",
+     "signatura": "141-1",
+     "detail": "snímek 51, Pag. 97, 7. 10. 1799, dům 73"
+    },
+    {
+     "label": "ARON, index narozených Vižňov",
+     "signatura": "174-19",
+     "detail": "snímek 54, Lit. R (Wiese), Ringel: otec Anton, podruh (Inmann), č. 58, děti 1772–1781"
+    }
+   ],
+   "notes": [
+    "Otec Barbary Rosenbergové, matky Benedikta *7. 10. 1799 (141-1, snímek 51).",
+    "Podle indexu 174-19 má ve Vižňově č. 58 s manželkou Annou děti 1767–1781 (mj. A. Barbara 24. 11. 1768, Elisabeth 1772, Joseph 1774/1778, Katharina 1780). Manželka do mapy zatím nejde (příjmení nejisté: Drä…/Deu…).",
+    "Neslučuje se s Antonem Ringelem, výměnkářem z Ruprechtic č. 33 (otec Barbary Dauerové) — viz q-ringel-viznov-1768."
    ],
    "interesting": []
   }
@@ -3973,6 +4013,31 @@
     "place": "Olivětín (Ölberg) č. 6",
     "note": "13-32, Ölberg pag. 2: ženich Anton Hausdorf, vdovec z Olivětína, 35 let; nevěsta Barbara, dcera Antona Luxe, matka Catharina Nentwich(ová), 25 let. Svědci Franz Schimon(?), pálenkář, a Florian Nentwich, podruh z Rožmitálu. Oddával P. Florianus, farář."
    }
+  },
+  {
+   "id": "u-anton-ringel-viznov",
+   "partners": [
+    "anton-ringel-viznov"
+   ],
+   "children": [
+    "barbara-rosenberg-1799"
+   ],
+   "certainty": "potvrzeno",
+   "sources": [
+    {
+     "label": "ARON, narození 7. 10. 1799",
+     "signatura": "141-1",
+     "detail": "snímek 51, Pag. 97, 7. 10. 1799, dům 73"
+    },
+    {
+     "label": "ARON, index narozených Vižňov",
+     "signatura": "174-19",
+     "detail": "snímek 54, Lit. R (Wiese), Ringel: otec Anton, podruh (Inmann), č. 58, děti 1772–1781"
+    }
+   ],
+   "notes": [
+    "Otcovství z formule u matky v rodném zápisu Benedikta 7. 10. 1799 (Vižňov č. 58); dům 58 shodně v indexu 174-19."
+   ]
   }
  ],
  "identifications": [],
@@ -4315,8 +4380,8 @@
   {
    "id": "q-rosenberg-1800",
    "title": "Joseph Rosenberg, sňatek 12. 8. 1800 v Ruprechticích č. 73",
-   "summary": "Benedikt *7. 10. 1799 (č. 73) je syn Josepha Rosenberga, podruha, a Barbary, dcery Antona (Tausch?) z Vižňova č. 58. V 141-3 je 12. 8. 1800 sňatek Joseph Rosenberg, č. 73, 33 let, s Barbarou, dcerou Antona (Herzog?), chalupníka v Ruprechticích č. 134; svědci Joseph Rosenberg a Anton Herzog.",
-   "details": "Není jisté, zda jde o rodiče Benedikta (legitimace po narození) nebo o jiný pár z téhož domu. Popis otce nevěsty (podruh z Vižňova č. 58 vs. chalupník z Ruprechtic č. 134) se liší. Sňatek se proto k páru Joseph × Barbara nepřipisuje.",
+   "summary": "Benedikt *7. 10. 1799 (č. 73) je syn Josepha Rosenberga, podruha, a Barbary, dcery Antona Ringela, podruha z Vižňova č. 58. V 141-3 je 12. 8. 1800 sňatek Joseph Rosenberg, č. 73, 33 let, s Barbarou, dcerou Antona (Herzog?), chalupníka v Ruprechticích č. 134; svědci Joseph Rosenberg a Anton Herzog.",
+   "details": "Není jisté, zda jde o rodiče Benedikta (legitimace po narození) nebo o jiný pár z téhož domu. Popis otce nevěsty (podruh z Vižňova č. 58 vs. chalupník z Ruprechtic č. 134) se liší. Sňatek se proto k páru Joseph × Barbara nepřipisuje. Doplněk 2026-11-24: matka Benedikta je podle zápisu 1799 dcera Antona Ringela z Vižňova č. 58 — nevěsta 1800 (dcera Antona Herzoga, Ruprechtice č. 134) je tedy jiná žena.",
    "related_ids": [
     "joseph-rosenberg-1799",
     "barbara-rosenberg-1799",
@@ -4332,6 +4397,36 @@
      "label": "ARON",
      "signatura": "141-3",
      "detail": "snímek 16, Pag. 26, 12. 8. 1800"
+    }
+   ]
+  },
+  {
+   "id": "q-ringel-viznov-1768",
+   "title": "Anna Barbara Ringel *24. 11. 1768 ve Vižňově — matka Benedikta, nebo manželka Georga Dauera?",
+   "summary": "174-7, snímek 85 (fol. 164): 24. 11. 1768 pokřtěna ve Vernéřovicích Anna Barbara, dcera Antona Ringela, podruha (Hausgenoss) ve Vižňově, a Anny (příjmení Drä…/Deu…?); kmotři Benedict Kreidler(?), podruh ve Vižňově, a Anna Barbara, dcera učitele Josepha Sch…(?). V indexu 174-19 je to jediná Barbara Antona Ringela (1765–1782).",
+   "details": "Sedí na dvě ženy: (a) Barbara Rosenbergová, matka Benedikta *7. 10. 1799 — dcera Antona Ringela, podruha ve Vižňově č. 58 (stejný otec, stav i dům podle indexu); (b) Barbara Ringel, manželka Georga Dauera — 24 let při sňatku 9. 10. 1792, ale její otec je 1799 a 1808 „Anton Ringel, výměnkář z Ruprechtic č. 33“. Obě ženy rodí v roce 1799 šest týdnů po sobě (7. 10. a 22. 11.), nejde tedy o jednu osobu; Barbara Dauerová je navíc 1799 kmotrou Benedikta. V ruprechtickém indexu jsou Barbary s otcem Antonem Rindel/Ringel 1757 a 1760. Narození 1768 se proto nepřipisuje žádné z nich. Vedlejší nález na téže straně: 16. 11. 1768 (nar. 15. 11.) Joseph, syn Antona Rosenbergera, chalupníka ve Vižňově, a Anny Marie Opitz(ové) — kandidát na Josepha Rosenberga (33 let v roce 1800), nepřipisuje se.",
+   "related_ids": [
+    "barbara-rosenberg-1799",
+    "anton-ringel-viznov",
+    "barbara-pitz",
+    "anton-ringel",
+    "joseph-rosenberg-1799"
+   ],
+   "sources": [
+    {
+     "label": "ARON, narození 24. 11. 1768",
+     "signatura": "174-7",
+     "detail": "snímek 85, fol. 164, 24. 11. 1768, Vižňov"
+    },
+    {
+     "label": "ARON, index narozených Vižňov",
+     "signatura": "174-19",
+     "detail": "snímek 54, Lit. R (Wiese), Ringel: otec Anton, podruh (Inmann), č. 58, děti 1772–1781"
+    },
+    {
+     "label": "ARON, narození 7. 10. 1799",
+     "signatura": "141-1",
+     "detail": "snímek 51, Pag. 97, 7. 10. 1799, dům 73"
     }
    ]
   }

@@ -215,6 +215,20 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 13-5 (poř.č. 543), 1784-1808",
    "popis": "římskokatolická matrika NAROZENÝCH, římskokatolický index NAROZENÝCH, Broumov (5.1784-9.1791), Olivětín (5.1784-5.1801), Velká Ves (5.1784-3.1808), Hejtmánkovice (5.1784-5.1800), Rožmitál (5.1784-6.1807), Křinice (5.1784-10.1800)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/d8c2baf4-feca-4468-a7ef-4e2c7919fe7d"
+  },
+  "174-7": {
+   "apu": "d25a16df-557f-484b-95b2-c5a5b679574d",
+   "dao": "d25a16df-557f-484b-95b2-c5a5b679574d",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 174-7 (poř.č. 12224), 1752-1813",
+   "popis": "římskokatolická matrika NAROZENÝCH, obvod Vižňov (Pomeznice, Starostín, Vižňov) 1752-4.1784, Vižňov (1784-8.1813), Starostín (1784-8.1813), Pomeznice (1784-6.1813), Meziměstí - část Halbstädter Häuser (6.1794-8.1812), farnost - vojenské zápisy (5.1795-5.1813)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/d25a16df-557f-484b-95b2-c5a5b679574d"
+  },
+  "174-19": {
+   "apu": "f31ac66e-33e0-47a1-8f07-5119d1f77040",
+   "dao": "f31ac66e-33e0-47a1-8f07-5119d1f77040",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 174-19 (poř.č. 12255), 1675-1840",
+   "popis": "římskokatolický index NAROZENÝCH, Vižňov",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/f31ac66e-33e0-47a1-8f07-5119d1f77040"
   }
  },
  "aliasy": {
@@ -474,6 +488,15 @@
    "nahled": "img/zdroje/144-8637_s038.jpg",
    "velky": "img/zdroje/144-8637_s038_velky.jpg"
   },
+  "174-19|54": {
+   "signatura": "174-19",
+   "snimek": 54,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/f31ac66e-33e0-47a1-8f07-5119d1f77040/dao/f31ac66e-33e0-47a1-8f07-5119d1f77040/file/d6c98a0f-7598-400f-84e7-37d362703175",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/174-19_s054.jpg",
+   "velky": "img/zdroje/174-19_s054_velky.jpg",
+   "vyrez_soubor": "i174-19-s054-ringel-viznov-58.jpg"
+  },
   "174-4248|27": {
    "signatura": "174-4248",
    "snimek": 27,
@@ -496,6 +519,15 @@
    "nahled": "img/zdroje/174-7364_s094.jpg",
    "velky": "img/zdroje/174-7364_s094_velky.jpg",
    "vyrez_soubor": "emma-narozeni-1902-L.jpg"
+  },
+  "174-7|85": {
+   "signatura": "174-7",
+   "snimek": 85,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/d25a16df-557f-484b-95b2-c5a5b679574d/dao/d25a16df-557f-484b-95b2-c5a5b679574d/file/f2d95f37-7bed-4382-9960-575c94c62c83",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/174-7_s085.jpg",
+   "velky": "img/zdroje/174-7_s085_velky.jpg",
+   "vyrez_soubor": "s085L-1768-11-24-anna-barbara-ringel.jpg"
   },
   "174-8684|25": {
    "signatura": "174-8684",
