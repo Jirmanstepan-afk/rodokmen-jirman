@@ -2765,7 +2765,7 @@
   },
   {
    "id": "anton-ringel",
-   "name": "Anton Ringel",
+   "name": "Anton Ringel (Ruprechtice)",
    "maiden": null,
    "birth": null,
    "baptism": null,
@@ -2791,7 +2791,8 @@
    ],
    "notes": [
     "Otec Barbary, manželky Georga Dauera. V rodných zápisech vnuček Elisabeth 22. 11. 1799 a Theresie 22. 9. 1808 je výslovně „Barbara, Anton Ringels Auszüglers Tochter aus Ruppersdorf“.",
-    "Manželka Antona v těchto zápisech jmenována není. Ringelů je v Ruprechticích kolem roku 1800 víc (např. Benedikt Ringel, č. 81, 1799); bez dalšího zápisu se s nimi nespojuje."
+    "Manželka Antona v těchto zápisech jmenována není. Ringelů je v Ruprechticích kolem roku 1800 víc (např. Benedikt Ringel, č. 81, 1799); bez dalšího zápisu se s nimi nespojuje.",
+    "Neslučovat bez dokladu s Antonem Ringelem, podruhem ve Vižňově č. 58 (otec Barbary Rosenbergové) — viz q-ringel-totoznost."
    ],
    "interesting": []
   },
@@ -2974,7 +2975,7 @@
   },
   {
    "id": "anton-ringel-viznov",
-   "name": "Anton Ringel",
+   "name": "Anton Ringel (Vižňov 58)",
    "maiden": null,
    "birth": null,
    "baptism": null,
@@ -3001,7 +3002,8 @@
    "notes": [
     "Otec Barbary Rosenbergové, matky Benedikta *7. 10. 1799 (141-1, snímek 51).",
     "Podle indexu 174-19 má ve Vižňově č. 58 s manželkou Annou děti 1767–1781 (mj. A. Barbara 24. 11. 1768, Elisabeth 1772, Joseph 1774/1778, Katharina 1780). Manželka do mapy zatím nejde (příjmení nejisté: Drä…/Deu…).",
-    "Neslučuje se s Antonem Ringelem, výměnkářem z Ruprechtic č. 33 (otec Barbary Dauerové) — viz q-ringel-viznov-1768."
+    "Neslučuje se s Antonem Ringelem, výměnkářem z Ruprechtic č. 33 (otec Barbary Dauerové) — viz q-ringel-viznov-1768.",
+    "Neslučovat bez dokladu s Antonem Ringelem, výměnkářem v Ruprechticích č. 33 (otec Barbary Dauerové) — viz q-ringel-totoznost."
    ],
    "interesting": []
   }
@@ -4427,6 +4429,50 @@
      "label": "ARON, narození 7. 10. 1799",
      "signatura": "141-1",
      "detail": "snímek 51, Pag. 97, 7. 10. 1799, dům 73"
+    }
+   ]
+  },
+  {
+   "id": "q-ringel-totoznost",
+   "title": "Dva Antonové Ringelové — jeden muž, nebo dva?",
+   "summary": "V mapě jsou dva uzly záměrně odlišené: Anton Ringel (Ruprechtice), výměnkář v Ruprechticích č. 33, otec Barbary Dauerové; a Anton Ringel (Vižňov 58), podruh ve Vižňově č. 58, otec Barbary Rosenbergové. Totožnost není doložena.",
+   "details": "Pro jednoho muže: stejné jméno, sousední vsi, obě dcery se jmenují Barbara a v roce 1799 jsou spolu v kontaktu (Barbara Dauerová je kmotrou Benedikta Rosenberga 7. 10. 1799); Barbara Dauerová má při sňatku 9. 10. 1792 24 let, což sedí na jedinou Barbaru Antona Ringela ve vižňovském indexu — Anna Barbara *24. 11. 1768 (174-7, fol. 164). Proti: táž kniha a týž rok 1799 popisuje otce rozdílně — 7. 10. 1799 „Anton Ringel, Inmann, Wiesen No. 58“, 22. 11. 1799 a 1808 „Anton Ringel, Auszügler aus Ruppersdorf No. 33“; obě Barbary žijí současně (porody 7. 10. a 22. 11. 1799), takže by musely být dvě sestry stejného jména, ale vižňovský index 1762–1782 má u Antona Ringela (manželka Anna, č. 58; děti 1767–1781) jen jednu Barbaru. V ruprechtickém indexu 141-4251 jsou Barbary s otcem Antonem Rindel/Ringel 1757 a 1760 — kandidátka pro druhou z žen. Sňatek 1792 (141-3, snímek 10) původ nevěsty neuvádí. Rozhodnutí: uzly se neslučují; narození 24. 11. 1768 se nepřipisuje žádné z Barbar (q-ringel-viznov-1768). Další krok: těla 141-7599 pro Barbary 1757/1760 (otec, matka, dům) a úmrtí/výměnek Antona Ringela v Ruprechticích č. 33.",
+   "related_ids": [
+    "anton-ringel",
+    "anton-ringel-viznov",
+    "barbara-pitz",
+    "barbara-rosenberg-1799"
+   ],
+   "sources": [
+    {
+     "label": "ARON",
+     "signatura": "141-1",
+     "detail": "snímek 51, 7. 10. 1799"
+    },
+    {
+     "label": "ARON",
+     "signatura": "141-1",
+     "detail": "snímek 52, 22. 11. 1799"
+    },
+    {
+     "label": "ARON",
+     "signatura": "141-1",
+     "detail": "snímek 88, 22. 9. 1808"
+    },
+    {
+     "label": "ARON",
+     "signatura": "141-3",
+     "detail": "snímek 10, Pag. 14, 9. 10. 1792"
+    },
+    {
+     "label": "ARON",
+     "signatura": "174-19",
+     "detail": "snímek 54, Lit. R (Wiese)"
+    },
+    {
+     "label": "ARON",
+     "signatura": "174-7",
+     "detail": "snímek 85, fol. 164, 24. 11. 1768"
     }
    ]
   }
