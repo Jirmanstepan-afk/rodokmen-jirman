@@ -177,7 +177,65 @@
         }
       ],
       "notes": [
-        "Datum narození je přibližné (cca). Další předkové větve Špadt v dostupných zápisech nejsou."
+        "Datum narození je přibližné (cca).",
+        "Rodiče podle rodinné paměti (sdělení uživatele 22.–23. 11. 2026): Tadej Špadt a Libuše Špadtová, rozená asi Fléglová. Matriční zápis rodičů v této práci zatím není."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "tadej-spadt",
+      "name": "Tadej Špadt",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "zemřel (datum z matriky není; k 22. 11. 2026 už nežil)",
+        "precision": "unknown"
+      },
+      "occupation": null,
+      "places": [
+        "Ukrajina (rodinná paměť)",
+        "Broumov"
+      ],
+      "branch": "spadt",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "Sdělení uživatele, 22.–23. 11. 2026",
+          "detail": "Rodinná paměť; matriční zápis v této práci není."
+        }
+      ],
+      "notes": [
+        "Otec Romany Jirmanové roz. Špadtové. Vztah je z rodinné paměti (sdělení uživatele 22.–23. 11. 2026), v matrice v této práci neověřen.",
+        "Původem z Ukrajiny — podle rodinné paměti.",
+        "Žil v Broumově. Datum úmrtí z matriky není; k 22. 11. 2026 už nežil."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "libuse-spadtova",
+      "name": "Libuše Špadtová",
+      "maiden": "asi Fléglová",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [],
+      "branch": "spadt",
+      "certainty": "potvrzeno",
+      "living": true,
+      "sources": [
+        {
+          "label": "Sdělení uživatele, 22.–23. 11. 2026",
+          "detail": "Rodinná paměť; matriční zápis v této práci není."
+        }
+      ],
+      "notes": [
+        "Matka Romany Jirmanové roz. Špadtové. Vztah je z rodinné paměti (sdělení uživatele 22.–23. 11. 2026), v matrice v této práci neověřen.",
+        "Rodné příjmení Fléglová (též uváděno Flégrová) je pravděpodobné, v matrice neověřeno.",
+        "K 22. 11. 2026 žije. U žijících osob se neuveřejňují adresy ani čísla domů.",
+        "Zmínka o možné sestře na Frýdecku je v paměti bez jména — osobu bez jména do stromu nepřidávám."
       ],
       "interesting": []
     },
@@ -2172,12 +2230,19 @@
           "label": "ARON, tělo",
           "signatura": "130-7417",
           "detail": "snímek 43"
+        },
+        {
+          "label": "ARON, index narození Police (negativní k *cca 1855 / č. 52)",
+          "signatura": "130-45",
+          "detail": "snímky 26–29, písmeno H; u snímku 27 Hruby Franziska 9. 3. 1864, č. 57 — neslučovat",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/3a441afd-7c3e-4532-8098-48b8d7bd11d5"
         }
       ],
       "notes": [
         "Ledigá dcera Jana Hrubého, inwohnere v Ledhuji č. 52, a manželky rozené Špinka (příjmení matky čtené opatrně).",
         "U nevěsty je zmíněna dispens / souhlas pro nezletilost (plnoletost 24 let).",
-        "Neslučovat s Františkou Skuhrovou, matkou Františky Maroulové *1878."
+        "Neslučovat s Františkou Skuhrovou, matkou Františky Maroulové *1878.",
+        "V indexu narozených fary Police 130-45 (1834–1864, včetně Velké i Malé Ledhuje) pod Hrubý/Hruby není Františka / Francisca *cca 1855 v Ledhuji č. 52. Nejbližší jmenný zásah: Hruby Franziska, 9. 3. 1864, č. 57, otec Johann, Häusler, matka Maria (příjmení čtené opatrně), 130-45 snímek 27 — dům 57 ≠ 52 a rok 1864 nesedí na 19 let k 27. 10. 1874; neslučovat. Tělo 130-4323 v tomto kroku nebylo staženo."
       ],
       "interesting": []
     },
@@ -3070,10 +3135,23 @@
           "label": "ARON",
           "signatura": "99-8015",
           "detail": "snímek 137"
+        },
+        {
+          "label": "ARON, narození (jiná Johanna, neslučovat)",
+          "signatura": "144-3938",
+          "detail": "snímek 75, folio 67, 3. zápis, 16. 8. 1868, Sedloňov č. 69",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        },
+        {
+          "label": "ARON, index narození",
+          "signatura": "144-8637",
+          "detail": "snímek 31, Mader Johanna 16. 8. 1868, Lit. G s. 67, Sattel",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/af34c80d-61b7-441c-bccc-93e10a1900a0"
         }
       ],
       "notes": [
-        "Příjmení Mader je čitelné. Tvar „geb. Johann Mader“ se čte opatrně: buď Johanna rozená Maderová, nebo Johanna, dcera Johanna Madera, hospodáře v Sedloňově č. 78. Neslučovat tyto dvě možnosti potichu."
+        "Příjmení Mader je čitelné. Tvar „geb. Johann Mader“ se čte opatrně: buď Johanna rozená Maderová, nebo Johanna, dcera Johanna Madera, hospodáře v Sedloňově č. 78. Neslučovat tyto dvě možnosti potichu.",
+        "V indexu 144-8637 je Mader Johanna, *16. 8. 1868, Lit. G s. 67, Sattel. Tělo 144-3938, snímek 75 (= folio 67), 3. zápis: Johanna, *16. 8. 1868 (křest 17. 8.), Sedloňov č. 69, manželská dcera Josefa Madera, chalupníka, syna † Ignaze Madera, chalupníka ze Sedloňova č. 58, a Anny rozené Metznerové. Matka dítěte: Emerentiana (čtení jména), manželská dcera † Karla Lorenze ze Sedloňova č. 69. V okraji slabší doložka čtená jako „† 13. Juli 70“ (pravděpodobně úmrtí 13. 7. 1870; měsíc čten opatrně). Otec Josef a dům 69 se neshodují s formulí „geb. Johann Mader“, Jungwirth, Sedloňov 78 z roku 1925; při úmrtí 1870 by ani nemohla být nevěstou z 19. 2. 1890. Tuto Johannu s manželkou Antona Proße neslučovat."
       ],
       "interesting": []
     },
@@ -3216,6 +3294,31 @@
         {
           "label": "Podklad uživatele"
         }
+      ]
+    },
+    {
+      "id": "u-tadej-libuse",
+      "partners": [
+        "tadej-spadt",
+        "libuse-spadtova"
+      ],
+      "children": [
+        "romana-spadtova-1971"
+      ],
+      "married": {
+        "display": "asi na Broumovsku",
+        "precision": "unknown",
+        "note": "Místo sňatku jen z rodinné paměti, datum není. Pravděpodobné."
+      },
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "Sdělení uživatele, 22.–23. 11. 2026"
+        }
+      ],
+      "notes": [
+        "Rodičovství Romany je z rodinné paměti, v matrice v této práci neověřeno.",
+        "Sňatek „asi na Broumovsku“ je pravděpodobný; datum není."
       ]
     },
     {
