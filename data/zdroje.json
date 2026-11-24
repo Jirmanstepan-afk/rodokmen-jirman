@@ -271,6 +271,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 174-6 (poř.č. 12223), 1675-1751",
    "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, obvod Vižňov (Meziměstí - část Halbstädter Häuser, Pomeznice, Starostín, Vižňov)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/a76dacd8-1968-44b5-a3d7-b4d19f36cebd"
+  },
+  "174-21": {
+   "apu": "97214d89-1f12-43e0-9199-71da32fa01cd",
+   "dao": "97214d89-1f12-43e0-9199-71da32fa01cd",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 174-21 (poř.č. 12256), 1675-1784",
+   "popis": "římskokatolický index ZEMŘELÝCH, ODDANÝCH, obvod Vižňov (Meziměstí - část Halbstädter Häuser, Pomeznice, Starostín, Vižňov)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/97214d89-1f12-43e0-9199-71da32fa01cd"
   }
  },
  "aliasy": {
@@ -578,6 +585,23 @@
    "velky": "img/zdroje/141-7599_s537_velky.jpg",
    "vyrez_soubor": "z141-7599-s537R-1749-12-12-maria-ringel.jpg"
   },
+  "141-7599|584": {
+   "signatura": "141-7599",
+   "snimek": 584,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/8b418e5a-d3ee-4ca1-aefe-628208b45f4f",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/141-7599_s584.jpg",
+   "velky": "img/zdroje/141-7599_s584_velky.jpg"
+  },
+  "141-7599|602": {
+   "signatura": "141-7599",
+   "snimek": 602,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/cb53b208-b298-4ad4-8e81-5865ea20702b",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-7599_s602.jpg",
+   "velky": "img/zdroje/141-7599_s602_velky.jpg",
+   "vyrez_soubor": "z141-7599-s602-1767-01-25-anton-ringel-ausgedinger.jpg"
+  },
   "144-3938|75": {
    "signatura": "144-3938",
    "snimek": 75,
@@ -664,6 +688,14 @@
    "velky": "img/zdroje/174-19_s054_velky.jpg",
    "vyrez_soubor": "i174-19-s054-ringel-viznov-58.jpg"
   },
+  "174-21|9": {
+   "signatura": "174-21",
+   "snimek": 9,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/97214d89-1f12-43e0-9199-71da32fa01cd/dao/97214d89-1f12-43e0-9199-71da32fa01cd/file/d651fa7d-9889-43f8-997b-df044d6b4a9b",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/174-21_s009.jpg",
+   "velky": "img/zdroje/174-21_s009_velky.jpg"
+  },
   "174-4248|27": {
    "signatura": "174-4248",
    "snimek": 27,
@@ -695,6 +727,15 @@
    "nahled": "img/zdroje/174-6_s431.jpg",
    "velky": "img/zdroje/174-6_s431_velky.jpg",
    "vyrez_soubor": "z174-6-s431-1732-04-04-anton-benedikt-ringel.jpg"
+  },
+  "174-6|57": {
+   "signatura": "174-6",
+   "snimek": 57,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/dao/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/file/751e872a-9e06-429a-9345-3a570f7ddb9e",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/174-6_s057.jpg",
+   "velky": "img/zdroje/174-6_s057_velky.jpg",
+   "vyrez_soubor": "o174-6-s57-1727-10-21-daniel-ringel-anna-maria-hofman.jpg"
   },
   "174-7364|94": {
    "signatura": "174-7364",
