@@ -196,7 +196,7 @@
     const vp = $("#viewport");
     let dragging = false, lx = 0, ly = 0;
     vp.addEventListener("pointerdown", (e) => {
-      if (e.target.closest(".card, .panel, .topbar, .legend, .search-results")) return;
+      if (e.target.closest(".card, .panel, .topbar, .legend, .questions, .search-results")) return;
       dragging = true; lx = e.clientX; ly = e.clientY;
       vp.classList.add("dragging");
       vp.setPointerCapture(e.pointerId);
@@ -284,6 +284,47 @@
     });
   }
 
+  function fillQuestions(data) {
+    const host = $("#questions-body");
+    const items = data.open_questions || [];
+    if (!host) return;
+    if (!items.length) {
+      host.innerHTML = "<p class=\"questions-lead\">Žádný otevřený dotaz.</p>";
+      return;
+    }
+    host.innerHTML = items.map((q) => {
+      const rel = (q.related_ids || []).map((id) => {
+        const person = data.people.find((x) => x.id === id);
+        const label = person ? person.name : id;
+        return `<button type="button" class="linkish" data-jump="${esc(id)}">${esc(label)}</button>`;
+      }).join(", ");
+      const src = (q.sources || []).map((s) => {
+        const bits = [s.label, s.signatura, s.detail].filter(Boolean);
+        return esc(bits.join(" — "));
+      }).filter(Boolean).join("; ");
+      return `<article class="q-item">
+        <h3>${esc(q.title || q.id || "Dotaz")}</h3>
+        ${q.summary ? `<p class="q-sum">${esc(q.summary)}</p>` : ""}
+        ${q.details ? `<p class="q-det">${esc(q.details)}</p>` : ""}
+        ${rel ? `<p class="q-rel">V mapě: ${rel}</p>` : ""}
+        ${src ? `<p class="q-src">${src}</p>` : ""}
+      </article>`;
+    }).join("");
+  }
+
+  function setQuestionsOpen(on) {
+    const box = $("#questions");
+    const btn = $("#questions-btn");
+    if (!box) return;
+    box.classList.toggle("open", on);
+    box.setAttribute("aria-hidden", on ? "false" : "true");
+    btn?.setAttribute("aria-pressed", on ? "true" : "false");
+    if (on) {
+      $("#legend")?.classList.remove("mobile-open");
+      $("#legend-btn")?.setAttribute("aria-pressed", "false");
+    }
+  }
+
   function fillLegend(data) {
     const host = $("#branch-chips");
     host.innerHTML = Object.entries(data.branches).map(([k, v]) =>
@@ -311,14 +352,25 @@
     renderLinks(L);
     renderCards(data, L);
     fillLegend(data);
+    fillQuestions(data);
     bindPanZoom();
     bindSearch(data);
     $("#fit").addEventListener("click", fitAll);
     $("#focus").addEventListener("click", () => { focusId(data.meta.focus, 1.05); openPerson(data.meta.focus); });
     $("#legend-btn")?.addEventListener("click", () => {
-      const lg = $(".legend");
+      const lg = $("#legend");
       const on = lg.classList.toggle("mobile-open");
       $("#legend-btn").setAttribute("aria-pressed", on ? "true" : "false");
+      if (on) setQuestionsOpen(false);
+    });
+    $("#questions-btn")?.addEventListener("click", () => {
+      const box = $("#questions");
+      setQuestionsOpen(!box.classList.contains("open"));
+    });
+    $("#questions-close")?.addEventListener("click", () => setQuestionsOpen(false));
+    $("#questions")?.addEventListener("click", (e) => {
+      const jump = e.target.closest("[data-jump]");
+      if (jump) openPerson(jump.getAttribute("data-jump"));
     });
     $("#panel-close").addEventListener("click", closePanel);
     $("#panel").addEventListener("click", (e) => {
@@ -329,12 +381,13 @@
       if (e.target === e.currentTarget) closePanel();
     });
     document.addEventListener("keydown", (e) => {
-      if (e.key === "Escape") closePanel();
+      if (e.key === "Escape") { closePanel(); setQuestionsOpen(false); }
       if (e.key === "/" && document.activeElement?.tagName !== "INPUT") {
         e.preventDefault(); $("#q").focus();
       }
     });
-    const counts = `${data.people.length} osob · ${L.generations} generací · ${Object.keys(data.branches).length} větví`;
+    const qn = (data.open_questions || []).length;
+    const counts = `${data.people.length} osob · ${L.generations} generací · ${Object.keys(data.branches).length} větví` + (qn ? ` · ${qn} otevřených dotazů` : "");
     $("#meta-line").textContent = counts + " · aktualizace " + (data.meta.updated || "");
     fitAll();
     // mírně přiblížit na Štěpána po fit, ale nechat vidět i rodiče

@@ -2,6 +2,11 @@
 
 Mapa se kreslí výhradně ze souboru `data/rodokmen.json`. Stránku ani skript rozložení kvůli nové osobě upravovat nemusíte.
 
+**Do mapy (`people`, `unions`) přidávejte jen osoby a vazby s jistotou:** doložené matričním zápisem se signaturou a s jasnou vazbou na existující osobu, úředním listem, nebo jedním ze dvou zdrojových dokumentů (rodný list Gerdy 1948, rodokmen Klimeš 2019). Nové *pravděpodobné* ani *kandidátské* uzly a vazby do mapy nedávejte.
+
+Nejisté čtení, slučování domů, chybějící sňatky a nedoložené rodičovství zapisujte do pole `open_questions` v `data/rodokmen.json` (kopie je v `data/otevrene-dotazy.json`). Mapa je ukáže v panelu **Otevřené dotazy**, ne jako uzly.
+
+
 ## 1. Přidat osobu
 
 Do pole `people` přidejte objekt. `id` zvolte stabilní, jedinečné, malými písmeny a s pomlčkami (např. `jan-novak-1840`).
@@ -62,6 +67,24 @@ Jednoho rodiče (nemanželské dítě) zapište jako svazek s jediným partnerem
 ```
 
 Do potvrzeného svazku takovou vazbu nedávejte.
+
+## 2a. Otevřené dotazy
+
+Nejisté položky patří do `open_questions`:
+
+```json
+{
+  "id": "q-priklad",
+  "title": "Krátký název dotazu",
+  "summary": "Jedna až dvě věty, co není jisté.",
+  "details": "Souvislosti a co se nesmí sloučit.",
+  "related_ids": ["id-osoby-v-mape"],
+  "sources": [{ "label": "ARON", "signatura": "96-15", "detail": "snímek 32" }]
+}
+```
+
+Pole `identifications` a `candidate_links` se v mapě už jako vazby nepoužívají pro nové případy; stejný obsah zapište jako otevřený dotaz. Po úpravě zkopírujte pole i do `data/otevrene-dotazy.json`.
+
 
 Nic z domněnky nedoplňujte. Držte se ledgeru (`ROD-1.md`, `ROD-1-doplneni.md`).
 

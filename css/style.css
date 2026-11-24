@@ -78,6 +78,7 @@ a { color: var(--accent); }
 .swatch.pravdepodobne { border: 2px dashed var(--warn); }
 .swatch.kandidat { border: 2px dotted var(--cand); background: repeating-linear-gradient(45deg, #f8e9ec, #f8e9ec 4px, #fff 4px, #fff 8px); }
 .legend .branches { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.legend-note { margin: 10px 0 0; font-size: .75rem; color: var(--ink-soft); line-height: 1.4; }
 .bchip { font-size: .72rem; padding: 2px 8px; border-radius: 999px; color: #fff; }
 
 .viewport {
@@ -170,6 +171,7 @@ a { color: var(--accent); }
   .legend.mobile-open {
     display: block; left: 10px; right: 10px; max-width: none; top: calc(var(--header-h) + 8px);
   }
+  .questions { left: 10px; right: 10px; width: auto; max-height: min(70vh, calc(100% - var(--header-h) - 24px)); }
   .panel {
     top: auto; bottom: 0; left: 0; right: 0; width: 100%;
     height: min(72vh, 620px); max-height: 72vh;
@@ -182,3 +184,37 @@ a { color: var(--accent); }
   .topbar { gap: 8px; padding: 0 8px 0 12px; }
   .tools button span { display: none; }
 }
+
+.questions {
+  position: fixed; z-index: 16; left: 16px; top: calc(var(--header-h) + 12px);
+  width: min(380px, calc(100vw - 32px)); max-height: calc(100% - var(--header-h) - 32px);
+  background: rgba(255,250,243,.97); border: 1px solid #ddd2be; border-radius: var(--radius);
+  box-shadow: var(--shadow); backdrop-filter: blur(8px);
+  display: none; flex-direction: column; overflow: hidden;
+}
+.questions.open { display: flex; }
+.questions-head {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 8px; padding: 12px 14px 8px; flex: none;
+}
+.questions-head h2 {
+  margin: 0; font-size: .72rem; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-soft);
+}
+.questions-head .close {
+  width: 32px; height: 32px; border-radius: 50%; border: 1px solid #cfc3ad;
+  background: #fff; cursor: pointer; font-size: 1.1rem; flex: none;
+}
+.questions-lead { margin: 0 14px 8px; font-size: .8rem; color: var(--ink-soft); }
+#questions-body { overflow: auto; padding: 0 14px 16px; }
+.q-item {
+  border-top: 1px solid #e4d8c4; padding: 10px 0 8px;
+}
+.q-item h3 { margin: 0 0 4px; font-family: var(--font-name); font-size: 1rem; line-height: 1.25; }
+.q-item .q-sum { margin: 0 0 6px; font-size: .85rem; line-height: 1.4; }
+.q-item .q-det { margin: 0 0 6px; font-size: .8rem; color: var(--ink-soft); line-height: 1.4; }
+.q-item .q-rel, .q-item .q-src { margin: 0; font-size: .75rem; color: var(--ink-soft); line-height: 1.4; }
+.q-item button.linkish {
+  border: 0; background: none; padding: 0; color: var(--accent);
+  font: inherit; font-size: inherit; cursor: pointer; text-decoration: underline;
+}
+.tools #questions-btn[aria-pressed="true"] { background: var(--accent); color: #fff; border-color: var(--accent); }

@@ -24,6 +24,7 @@
       <button type="button" id="fit" title="Zobrazit celek">Celek</button>
       <button type="button" id="focus" title="Přejít na Štěpána">Štěpán</button>
       <button type="button" id="legend-btn" aria-pressed="false" title="Legenda">Legenda</button>
+      <button type="button" id="questions-btn" aria-pressed="false" title="Otevřené dotazy">Dotazy</button>
     </div>
   </header>
 
@@ -34,6 +35,16 @@
     <div class="row"><span class="swatch kandidat"></span><span>Kandidát — nedoloženo, zejména vazba Ludvík *1908 → Josef *1857</span></div>
     <h2 style="margin-top:12px">Větve</h2>
     <div class="branches" id="branch-chips"></div>
+    <p class="legend-note">Nejisté vazby a čtení nejsou uzly — jsou v panelu <strong>Otevřené dotazy</strong>.</p>
+  </aside>
+
+  <aside class="questions" id="questions" aria-hidden="true">
+    <div class="questions-head">
+      <h2>Otevřené dotazy</h2>
+      <button type="button" class="close" id="questions-close" aria-label="Zavřít">×</button>
+    </div>
+    <p class="questions-lead">Jen to, co ještě není jisté. Nejsou to osoby v mapě.</p>
+    <div id="questions-body"></div>
   </aside>
 
   <div class="viewport" id="viewport" aria-label="Mapa rodokmenu">

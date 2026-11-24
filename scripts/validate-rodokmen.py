@@ -112,7 +112,33 @@ def main() -> int:
         warnings.append(f"osoba {i} není v žádném svazku, ztotožnění ani kandidátské vazbě")
 
     print(f"Soubor: {DATA}")
-    print(f"Osob: {len(people)}  svazků: {len(unions)}  ztotožnění: {len(ident)}  kandidátů: {len(cands)}")
+    questions = data.get("open_questions") or []
+    qids = [q.get("id") for q in questions if q.get("id")]
+    for i, n in {x: qids.count(x) for x in qids}.items():
+        if n > 1:
+            errors.append(f"Duplicitní id otevřeného dotazu: {i}")
+    for q in questions:
+        qid = q.get("id") or "?"
+        if not q.get("title") and not q.get("summary"):
+            warnings.append(f"dotaz {qid}: chybí title i summary")
+        for pid in q.get("related_ids") or []:
+            need(pid, f"dotaz {qid} / related_ids")
+
+    # Nové pravidlo: v mapě mají být jen jisté osoby a svazky.
+    for p in people:
+        c = p.get("certainty")
+        if c and c != "potvrzeno":
+            warnings.append(f"{p.get('id')}: v mapě nemá jistou úroveň (certainty={c!r}) — patří spíš do open_questions")
+    for u in unions:
+        c = u.get("certainty")
+        if c and c != "potvrzeno":
+            warnings.append(f"svazek {u.get('id')}: certainty={c!r} — nejisté svazky nepatří do mapy")
+    if ident:
+        warnings.append(f"identifications má {len(ident)} položek; pravděpodobná ztotožnění patří do open_questions, ne jako vazby v mapě")
+    if cands:
+        warnings.append(f"candidate_links má {len(cands)} položek; nedoložené vazby patří do open_questions")
+
+    print(f"Osob: {len(people)}  svazků: {len(unions)}  ztotožnění: {len(ident)}  kandidátů: {len(cands)}  otevřených dotazů: {len(questions)}")
     if errors:
         print(f"\nChyby ({len(errors)}):")
         for e in errors:
