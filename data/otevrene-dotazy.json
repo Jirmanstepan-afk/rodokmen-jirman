@@ -1,358 +1,363 @@
 {
-  "updated": "2026-11-24",
-  "note": "Kanonický seznam je pole open_questions v data/rodokmen.json. Tento soubor je jeho kopie.",
-  "open_questions": [
+ "updated": "2026-11-24",
+ "note": "Kanonický seznam je pole open_questions v data/rodokmen.json. Tento soubor je jeho kopie.",
+ "open_questions": [
+  {
+   "id": "q-stepan-manzelka-deti",
+   "title": "Štěpánova manželka a děti",
+   "summary": "Rodný list Gerdy ani rodokmen Klimeš 2019 Štěpánovu manželku ani děti neuvádějí.",
+   "details": "Do mapy se nepřiřazují. Až budou doloženy podkladem od uživatele nebo veřejným zápisem, lze je doplnit. U žijících osob bez adres a čísel domů.",
+   "related_ids": [
+    "stepan-jirman-1997"
+   ],
+   "sources": []
+  },
+  {
+   "id": "q-sourozenci-soucasne-manzelstvi",
+   "title": "Sourozenci ze současného manželství rodičů",
+   "summary": "Dokumenty (list Gerdy, rodokmen Klimeš 2019) neuvádějí, zda má Štěpán sourozence z manželství Josefa *1964 a Romany roz. Špadtové.",
+   "details": "Do mapy se nepřiřazují, dokud to uživatel nebo zápis nedoloží.",
+   "related_ids": [
+    "stepan-jirman-1997",
+    "josef-jirman-1964",
+    "romana-spadtova-1971"
+   ],
+   "sources": []
+  },
+  {
+   "id": "q-deti-predchozi-manzelstvi-rodicu",
+   "title": "Děti z předchozího manželství rodičů",
+   "summary": "Tytéž dva dokumenty neuvádějí, zda některý z rodičů měl předchozí manželství a děti z něj.",
+   "details": "Do mapy se nepřiřazují, dokud to uživatel nebo zápis nedoloží.",
+   "related_ids": [
+    "josef-jirman-1964",
+    "romana-spadtova-1971"
+   ],
+   "sources": []
+  },
+  {
+   "id": "q-ludvik-1908-otec",
+   "title": "Vazba Ludvík Jirman *1908 → Josef Jirman *1857",
+   "summary": "Ludvík *18. 8. 1908 NS 67 je z rodokmenu Klimeš 2019 jistý; Josef *18. 11. 1857 je z matrik jistý. Otázka, zda je Josef otcem Ludvíka, není dokázána.",
+   "details": "Narození Ludvíka v ARON není (kniha po 3. 1905). Josef, chalupník NS č. 75 v letech 1900–1901, je věkově možný otec (v roce 1908 by mu bylo 50 let), ale vazba se nesmí v mapě kreslit jako potvrzené otcovství. Z druhého manželství je doložena dcera Josefa *10. 10. 1900 NS č. 75. V 96-7319 do 26. 3. 1905 další dítě tohoto páru ani zápis u NS 67 není. Dříve kandidátská čárkovaná vazba v mapě; přesunuto sem.",
+   "related_ids": [
+    "ludvik-jirman-1908",
+    "josef-jirman-1857",
+    "josefa-jirmanova-1900"
+   ],
+   "sources": [
     {
-      "id": "q-stepan-manzelka-deti",
-      "title": "Štěpánova manželka a děti",
-      "summary": "Rodný list Gerdy ani rodokmen Klimeš 2019 Štěpánovu manželku ani děti neuvádějí.",
-      "details": "Do mapy se nepřiřazují. Až budou doloženy podkladem od uživatele nebo veřejným zápisem, lze je doplnit. U žijících osob bez adres a čísel domů.",
-      "related_ids": [
-        "stepan-jirman-1997"
-      ],
-      "sources": []
-    },
-    {
-      "id": "q-sourozenci-soucasne-manzelstvi",
-      "title": "Sourozenci ze současného manželství rodičů",
-      "summary": "Dokumenty (list Gerdy, rodokmen Klimeš 2019) neuvádějí, zda má Štěpán sourozence z manželství Josefa *1964 a Romany roz. Špadtové.",
-      "details": "Do mapy se nepřiřazují, dokud to uživatel nebo zápis nedoloží.",
-      "related_ids": [
-        "stepan-jirman-1997",
-        "josef-jirman-1964",
-        "romana-spadtova-1971"
-      ],
-      "sources": []
-    },
-    {
-      "id": "q-deti-predchozi-manzelstvi-rodicu",
-      "title": "Děti z předchozího manželství rodičů",
-      "summary": "Tytéž dva dokumenty neuvádějí, zda některý z rodičů měl předchozí manželství a děti z něj.",
-      "details": "Do mapy se nepřiřazují, dokud to uživatel nebo zápis nedoloží.",
-      "related_ids": [
-        "josef-jirman-1964",
-        "romana-spadtova-1971"
-      ],
-      "sources": []
-    },
-    {
-      "id": "q-ludvik-1908-otec",
-      "title": "Vazba Ludvík Jirman *1908 → Josef Jirman *1857",
-      "summary": "Ludvík *18. 8. 1908 NS 67 je z rodokmenu Klimeš 2019 jistý; Josef *18. 11. 1857 je z matrik jistý. Otázka, zda je Josef otcem Ludvíka, není dokázána.",
-      "details": "Narození Ludvíka v ARON není (kniha po 3. 1905). Josef, chalupník NS č. 75 v letech 1900–1901, je věkově možný otec (v roce 1908 by mu bylo 50 let), ale vazba se nesmí v mapě kreslit jako potvrzené otcovství. Z druhého manželství je doložena dcera Josefa *10. 10. 1900 NS č. 75. V 96-7319 do 26. 3. 1905 další dítě tohoto páru ani zápis u NS 67 není. Dříve kandidátská čárkovaná vazba v mapě; přesunuto sem.",
-      "related_ids": [
-        "ludvik-jirman-1908",
-        "josef-jirman-1857",
-        "josefa-jirmanova-1900"
-      ],
-      "sources": [
-        {
-          "label": "Zatím bez zápisu",
-          "detail": "narození Ludvíka *18. 8. 1908 NS 67 v ARON není (kniha po 3. 1905)"
-        }
-      ]
-    },
-    {
-      "id": "q-josefa-vojteska",
-      "title": "Josefa a Vojtěška Němečková — jedna, nebo dvě ženy?",
-      "summary": "V zápisu dcery 1884 je manželka Josefa *1857 Josefa, dcera Antonína Němečka ze Sedmákovic. V zápisu 1901 je Josef vdovec po Vojtěšce roz. Němečkové, † 17. 10. 1893.",
-      "details": "Jde velmi pravděpodobně o tutéž ženu, ale rozdíl v křestním jménu se ponechává. V mapě jsou dva samostatné jisté uzly, nesloučené. Sňatek hledat ve faře Hronov, typicky před 1. 12. 1884.",
-      "related_ids": [
-        "josefa-nemeckova-sedmakovice",
-        "vojteska-nemeckova",
-        "josef-jirman-1857",
-        "frantiska-jirmanova-1884"
-      ],
-      "sources": [
-        {
-          "label": "ARON",
-          "signatura": "96-7319",
-          "detail": "snímek 46"
-        },
-        {
-          "label": "ARON",
-          "signatura": "96-9405",
-          "detail": "snímek 66"
-        }
-      ]
-    },
-    {
-      "id": "q-maroul-hruba-skuhrova",
-      "title": "Maroul: sňatek s Hrubou a sňatek se Skuhrovou",
-      "summary": "Josef Maroul *1850, syn Jana z č. 71, se v roce 1874 žení s Františkou Hrubou (dům 71). Rodiče Františky Maroulové *1878 jsou Josef Maroul, chalupník č. 54, a Františka roz. Skuhrová.",
-      "details": "Tělo sňatku 1874 potvrzuje nevěstu Hrubou, ne Skuhrovou, a dům 71, ne 54. Tyto páry a domy se neslučují. Sňatek Josefa z č. 54 se Skuhrovou v dosud čtených knihách chybí. Do mapy patří oba doložené páry odděleně.",
-      "related_ids": [
-        "josef-maroul-1850",
-        "frantiska-hruba-c1855",
-        "josef-maroul-otec-1878",
-        "frantiska-skuhrova",
-        "jan-maroul-ns71",
-        "jan-maroul-ns54"
-      ],
-      "sources": [
-        {
-          "label": "ARON",
-          "signatura": "130-7417",
-          "detail": "snímek 43, folio 40, 1874"
-        },
-        {
-          "label": "ARON",
-          "signatura": "96-7319",
-          "detail": "snímek 12, 1878"
-        }
-      ]
-    },
-    {
-      "id": "q-jan-maroul-71-54",
-      "title": "Jan Maroul č. 71 a Jan Maroul č. 54",
-      "summary": "Dva zápisy Jana Maroula (domy 71 a 54) se v mapě vedou odděleně.",
-      "details": "Oddací zápis 23. 1. 1844 (96-4228, snímek 6, folio 3) potvrzuje sňatek Jana Maroula z č. 71 s Annou Máslo, dcerou †Jana Másla, výměnkáře v NS č. 39, a Veroniky roz. Němečkové z NS č. 34. Obě Anny v mapě jsou v různých zápisech dcery Jana Másla z Nízké Srbské; dům otce 30 (1846) vs. 39 (1844, 1850, 1878) zůstává nesloučený, stejně jako dům manžela 71 vs. 54. Tento sňatek se zapisuje jen k větvi č. 71. Dříve pravděpodobné ztotožnění v mapě (čárkovaná vazba) je zrušeno; uzly zůstávají zvlášť.",
-      "related_ids": [
-        "jan-maroul-ns71",
-        "jan-maroul-ns54",
-        "anna-maslo-ns71",
-        "anna-maslo-ns54",
-        "jan-maslo-ns71-otec",
-        "jan-maslo-ns39"
-      ],
-      "sources": [
-        {
-          "label": "ARON",
-          "signatura": "96-15"
-        },
-        {
-          "label": "ARON",
-          "signatura": "96-7319"
-        },
-        {
-          "label": "ARON",
-          "signatura": "130-7417"
-        },
-        {
-          "label": "ARON, sňatek 23. 1. 1844",
-          "signatura": "96-4228",
-          "detail": "snímek 6, folio 3",
-          "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
-        }
-      ]
-    },
-    {
-      "id": "q-franz-ignatz",
-      "title": "Franz Rosenberger (1902/1925) a Ignatz Rosenberger (*1833, sňatek 1873)",
-      "summary": "V těle narození 19. 5. 1833 a ve sňatku 14. 10. 1873 je jméno Ignatz. V zápisu vnučky Emmy 27. 12. 1902 a ve sňatku 22. 8. 1925 je otec Anny *1879 uveden jako Franz, týž dům 177, krejčí a chalupník, manželka Genovefa dcera Benedikta Meiera.",
-      "details": "Totožnost páru je velmi silná, ale křestní jméno se bez tichého přejmenování neslučuje. Tělo narození Anny *9. 9. 1879 (174-4247) v této práci ještě není. V mapě je u osoby jméno z těl 1833 a 1873 (Ignatz) a Anna zůstává zapsána jako dcera tohoto páru s výhradou zde.",
-      "related_ids": [
-        "franz-rosenberger",
-        "genovefa-meier",
-        "anna-rosenberger-1879",
-        "emma-rosenberger-1902"
-      ],
-      "sources": [
-        {
-          "label": "ARON",
-          "signatura": "13-7",
-          "detail": "snímek 143, pag. 266"
-        },
-        {
-          "label": "ARON",
-          "signatura": "174-4248",
-          "detail": "snímek 27, folio 23"
-        },
-        {
-          "label": "ARON",
-          "signatura": "174-7364"
-        },
-        {
-          "label": "ARON",
-          "signatura": "99-8015"
-        }
-      ]
-    },
-    {
-      "id": "q-hawel-olberg",
-      "title": "Otec Anny Rosenbergerové: Hawel / Havel / Hauel a dům Ölberg 6 vs. 9",
-      "summary": "V zápisu 1873 je Anna dcera Antona, podruha v Oehlbergu č. 9 (příjmení čtené opatrně). V zápisu 1833 je dcera Antona a Barbary v Ölbergu č. 6.",
-      "details": "Otec ani matka Anny proto nejsou v mapě jako uzly. Český ekvivalent Oehlbergu / Ölbergu se nepřiřazuje. Čísla 6 a 9 se neslučují. Sňatek 16. 11. 1830 (13-32, snímek 72): nevěsta Anna z Olivětína, dcera Antona, nádeníka v Olivětíně, a Barbary (rozené Ku…? z …thal), dům 6; příjmení nevěsty čteno opatrně Haudek / Hauck. Rodiče Anny proto zatím v mapě nejsou. Doplněk: rodný zápis Anny 29. 6. 1798 (13-5, snímek 110, Ölberg pag. 9, č. 6) — otec Anton, podruh, příjmení opatrně Hausdorf; matka Barbara, dcera Johanna (Lux?) z Rožmitálu. Anton a Barbara jsou nově v mapě jen s křestními jmény; rodné příjmení Hawel u Anny bylo odebráno, dokud se čtení neustálí.",
-      "related_ids": [
-        "anna-hawel",
-        "franz-rosenberger",
-        "benedikt-rosenberger"
-      ],
-      "sources": [
-        {
-          "label": "ARON",
-          "signatura": "174-4248",
-          "detail": "snímek 27, folio 23, 14. 10. 1873"
-        },
-        {
-          "label": "ARON",
-          "signatura": "13-7",
-          "detail": "snímek 143, pag. 266"
-        },
-        {
-          "label": "ARON",
-          "signatura": "13-32",
-          "detail": "snímek 72, 16. 11. 1830"
-        },
-        {
-          "label": "ARON",
-          "signatura": "13-5",
-          "detail": "snímek 110, 29. 6. 1798"
-        }
-      ]
-    },
-    {
-      "id": "q-rosenberger-poznamka-1833",
-      "title": "Pozdější rodopisná poznámka u narození Ignatze 1833",
-      "summary": "Na rodném zápisu 19. 5. 1833 je mladší rukou připsán rodokmen: syn Josefa Rosenberga / Rosenbergera, tkalce v Ruppersdorfu, a Barbary roz. Tause, Inwohner Wiesen 58; Josef *7. 10. 1749 Ruppersdorf 73. U matky Anny je připsáno narození 29. 6. 1798 Großölberg a sňatek 16. 11. 1830 (Ölberg II-6).",
-      "details": "To není původní ruka z roku 1833. Do mapy jako uzly nepatří, dokud se nenajde tělo těchto zápisů. V původním textu 1833 je otec Benedikt uveden jako „ill. Sohn“, podruh. Rosenberg a Rosenberger se neslučují potichu. Doplněk 24. 11. 2026: původní zápisy se našly a poznámku v podstatných bodech potvrzují. Rodný zápis 141-1, snímek 51, 7. 10. 1799 (ne 1749), Ruprechtice č. 73: Benedikt, syn Josepha Rosenberga, podruha, a Barbary, dcery Antona (Tausch?) z Wiesen č. 58. Sňatek 13-32, snímek 72, 16. 11. 1830 Ölberg. Joseph a Barbara jsou proto nově v mapě; povolání tkadlec a rodné příjmení Barbary (Tause / Tausch) zůstávají nedoložené.",
-      "related_ids": [
-        "franz-rosenberger",
-        "benedikt-rosenberger",
-        "anna-hawel"
-      ],
-      "sources": [
-        {
-          "label": "ARON",
-          "signatura": "13-7",
-          "detail": "snímek 143, pag. 266, pozdější poznámka"
-        },
-        {
-          "label": "ARON",
-          "signatura": "141-1",
-          "detail": "snímek 51, 7. 10. 1799"
-        },
-        {
-          "label": "ARON",
-          "signatura": "13-32",
-          "detail": "snímek 72, 16. 11. 1830"
-        }
-      ]
-    },
-    {
-      "id": "q-tschinkel-24-9",
-      "title": "Tschinkel v indexu 24-9 (Deštné, 1784–1835)",
-      "summary": "V oddílu T indexu 24-9 je vedle rodiny Tilgner ještě druhé příjmení, čtené předběžně jako Tschinkel (1819–1829, folia kolem 217–237 knihy narozených).",
-      "details": "Čtení příjmení v indexu není uzavřené (možné i Tschinkerl / podobně) a těla v 24-5 (folio cca 217, 1819, „Jos.“) ještě nebyla čtena. Josef Tschinkel, otec Aloisie ze Štiefwinklu č. 16, se s tímto zápisem neslučuje, dokud tělo nepotvrdí dům, rodiče a jméno. Index 24-3949 (N 1835–1878) samostatný oddíl T nemá.",
-      "related_ids": [
-        "josef-tschinkel",
-        "anna-diener",
-        "aloisie-tschinkelova"
-      ],
-      "sources": [
-        {
-          "label": "ARON",
-          "signatura": "24-9",
-          "detail": "snímek 25, oddíl T, léta 1819–1829"
-        }
-      ]
-    },
-    {
-      "id": "q-georg-dauer-jmeno-1841",
-      "title": "Křestní jméno otce Theresie Dauerové v zápisu 22. 11. 1841",
-      "summary": "V tělech 1845, 1846 a 1873 je otec Theresie důsledně Georg Dauer, č. 117. Oddací zápis 22. 11. 1841 má téhož Dauera z č. 117 a manželku Barbaru z č. 53; křestní jméno v tom zápisu je třeba při další četbě ještě jednou srovnat.",
-      "details": "V mapě zůstává jméno Georg z trojího shodného čtení. Kdyby 1841 četlo jinak, jména se neslučují potichu. Doplněk 24. 11. 2026: rodné zápisy dcer 22. 11. 1799 a 22. 9. 1808 (141-1, snímky 52 a 88, dům 74) mají otce Georga Dauera a matku Barbaru, dceru Antona Ringela. Jméno Georg je tím doloženo nezávisle na zápisu 1841.",
-      "related_ids": [
-        "georg-dauer",
-        "theresia-dauer",
-        "barbara-pitz"
-      ],
-      "sources": [
-        {
-          "label": "ARON",
-          "signatura": "141-4",
-          "detail": "snímek 29"
-        },
-        {
-          "label": "ARON",
-          "signatura": "141-4240"
-        },
-        {
-          "label": "ARON",
-          "signatura": "174-4248"
-        },
-        {
-          "label": "ARON",
-          "signatura": "141-1",
-          "detail": "snímek 88, 22. 9. 1808"
-        }
-      ]
-    },
-    {
-      "id": "q-tobias-71-77",
-      "title": "Tobiáš Maroul č. 71 a č. 77 — je Václav *1878 sourozenec Jana?",
-      "summary": "Jan (linie 71) je syn Tobiáše × Marie z NS č. 71 (1846). Václav *1878 je syn Tobiáše z NS č. 77 a Marie z Bělic 23.",
-      "details": "Jméno manželky a Bělic 23 se shodují, čísla 71 a 77 se neslučují potichu. Václav proto v mapě není zapsán jako dítě téhož svazku. Sňatek Tobiáše s Marií Šimcovou v 96-14 (1815–1841) v tomto kroku ještě nebyl souvisle nalezen.",
-      "related_ids": [
-        "tobias-maroul",
-        "marie-simcova",
-        "jan-maroul-ns71",
-        "vaclav-maroul-1878",
-        "antonin-simec"
-      ],
-      "sources": [
-        {
-          "label": "ARON",
-          "signatura": "96-15",
-          "detail": "snímek 32"
-        },
-        {
-          "label": "ARON",
-          "signatura": "96-4228",
-          "detail": "snímek 75"
-        }
-      ]
-    },
-    {
-      "id": "q-ringel-dum",
-      "title": "Dům Antona Ringela: č. 33, 35 nebo 53",
-      "summary": "Barbara Dauerová je dcera Antona Ringela, výměnkáře v Ruprechticích. Číslo domu jejího původu se v zápisech liší: 1799 č. 33, 1808 č. 33 nebo 35, sňatek dcery 1841 č. 53.",
-      "details": "Čísla domů se neslučují. Manželka Antona Ringela ani jeho narození zatím nejsou. V Ruprechticích je kolem 1800 víc rodin Ringel (např. Benedikt Ringel, č. 81) — bez zápisu se nespojují. Další krok: sňatek Georga Dauera a Barbary Ringel kolem 1795–1799 v 141-3 (O Ruprechtice 1784–1813).",
-      "related_ids": [
-        "anton-ringel",
-        "barbara-pitz",
-        "georg-dauer"
-      ],
-      "sources": [
-        {
-          "label": "ARON",
-          "signatura": "141-1",
-          "detail": "snímek 52, 22. 11. 1799"
-        },
-        {
-          "label": "ARON",
-          "signatura": "141-1",
-          "detail": "snímek 88, 22. 9. 1808"
-        },
-        {
-          "label": "ARON",
-          "signatura": "141-4",
-          "detail": "snímek 29, 22. 11. 1841"
-        }
-      ]
-    },
-    {
-      "id": "q-rosenberg-1800",
-      "title": "Joseph Rosenberg, sňatek 12. 8. 1800 v Ruprechticích č. 73",
-      "summary": "Benedikt *7. 10. 1799 (č. 73) je syn Josepha Rosenberga, podruha, a Barbary, dcery Antona (Tausch?) z Vižňova č. 58. V 141-3 je 12. 8. 1800 sňatek Joseph Rosenberg, č. 73, 33 let, s Barbarou, dcerou Antona (Herzog?), chalupníka v Ruprechticích č. 134; svědci Joseph Rosenberg a Anton Herzog.",
-      "details": "Není jisté, zda jde o rodiče Benedikta (legitimace po narození) nebo o jiný pár z téhož domu. Popis otce nevěsty (podruh z Vižňova č. 58 vs. chalupník z Ruprechtic č. 134) se liší. Sňatek se proto k páru Joseph × Barbara nepřipisuje.",
-      "related_ids": [
-        "joseph-rosenberg-1799",
-        "barbara-rosenberg-1799",
-        "benedikt-rosenberger"
-      ],
-      "sources": [
-        {
-          "label": "ARON",
-          "signatura": "141-1",
-          "detail": "snímek 51, 7. 10. 1799"
-        },
-        {
-          "label": "ARON",
-          "signatura": "141-3",
-          "detail": "snímek 16, Pag. 26, 12. 8. 1800"
-        }
-      ]
+     "label": "Zatím bez zápisu",
+     "detail": "narození Ludvíka *18. 8. 1908 NS 67 v ARON není (kniha po 3. 1905)"
     }
-  ]
+   ]
+  },
+  {
+   "id": "q-josefa-vojteska",
+   "title": "Josefa a Vojtěška Němečková — jedna, nebo dvě ženy?",
+   "summary": "V zápisu dcery 1884 je manželka Josefa *1857 Josefa, dcera Antonína Němečka ze Sedmákovic. V zápisu 1901 je Josef vdovec po Vojtěšce roz. Němečkové, † 17. 10. 1893.",
+   "details": "Jde velmi pravděpodobně o tutéž ženu, ale rozdíl v křestním jménu se ponechává. V mapě jsou dva samostatné jisté uzly, nesloučené. Sňatek hledat ve faře Hronov, typicky před 1. 12. 1884.",
+   "related_ids": [
+    "josefa-nemeckova-sedmakovice",
+    "vojteska-nemeckova",
+    "josef-jirman-1857",
+    "frantiska-jirmanova-1884"
+   ],
+   "sources": [
+    {
+     "label": "ARON",
+     "signatura": "96-7319",
+     "detail": "snímek 46"
+    },
+    {
+     "label": "ARON",
+     "signatura": "96-9405",
+     "detail": "snímek 66"
+    }
+   ]
+  },
+  {
+   "id": "q-maroul-hruba-skuhrova",
+   "title": "Maroul: sňatek s Hrubou a sňatek se Skuhrovou",
+   "summary": "Josef Maroul *1850, syn Jana z č. 71, se v roce 1874 žení s Františkou Hrubou (dům 71). Rodiče Františky Maroulové *1878 jsou Josef Maroul, chalupník č. 54, a Františka roz. Skuhrová.",
+   "details": "Tělo sňatku 1874 potvrzuje nevěstu Hrubou, ne Skuhrovou, a dům 71, ne 54. Tyto páry a domy se neslučují. Sňatek Josefa z č. 54 se Skuhrovou v dosud čtených knihách chybí. Do mapy patří oba doložené páry odděleně.",
+   "related_ids": [
+    "josef-maroul-1850",
+    "frantiska-hruba-c1855",
+    "josef-maroul-otec-1878",
+    "frantiska-skuhrova",
+    "jan-maroul-ns71",
+    "jan-maroul-ns54"
+   ],
+   "sources": [
+    {
+     "label": "ARON",
+     "signatura": "130-7417",
+     "detail": "snímek 43, folio 40, 1874"
+    },
+    {
+     "label": "ARON",
+     "signatura": "96-7319",
+     "detail": "snímek 12, 1878"
+    }
+   ]
+  },
+  {
+   "id": "q-jan-maroul-71-54",
+   "title": "Jan Maroul č. 71 a Jan Maroul č. 54",
+   "summary": "Dva zápisy Jana Maroula (domy 71 a 54) se v mapě vedou odděleně.",
+   "details": "Oddací zápis 23. 1. 1844 (96-4228, snímek 6, folio 3) potvrzuje sňatek Jana Maroula z č. 71 s Annou Máslo, dcerou †Jana Másla, výměnkáře v NS č. 39, a Veroniky roz. Němečkové z NS č. 34. Obě Anny v mapě jsou v různých zápisech dcery Jana Másla z Nízké Srbské; dům otce 30 (1846) vs. 39 (1844, 1850, 1878) zůstává nesloučený, stejně jako dům manžela 71 vs. 54. Tento sňatek se zapisuje jen k větvi č. 71. Dříve pravděpodobné ztotožnění v mapě (čárkovaná vazba) je zrušeno; uzly zůstávají zvlášť.",
+   "related_ids": [
+    "jan-maroul-ns71",
+    "jan-maroul-ns54",
+    "anna-maslo-ns71",
+    "anna-maslo-ns54",
+    "jan-maslo-ns71-otec",
+    "jan-maslo-ns39"
+   ],
+   "sources": [
+    {
+     "label": "ARON",
+     "signatura": "96-15"
+    },
+    {
+     "label": "ARON",
+     "signatura": "96-7319"
+    },
+    {
+     "label": "ARON",
+     "signatura": "130-7417"
+    },
+    {
+     "label": "ARON, sňatek 23. 1. 1844",
+     "signatura": "96-4228",
+     "detail": "snímek 6, folio 3",
+     "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
+    }
+   ]
+  },
+  {
+   "id": "q-franz-ignatz",
+   "title": "Franz Rosenberger (1902/1925) a Ignatz Rosenberger (*1833, sňatek 1873)",
+   "summary": "V těle narození 19. 5. 1833 a ve sňatku 14. 10. 1873 je jméno Ignatz. V zápisu vnučky Emmy 27. 12. 1902 a ve sňatku 22. 8. 1925 je otec Anny *1879 uveden jako Franz, týž dům 177, krejčí a chalupník, manželka Genovefa dcera Benedikta Meiera.",
+   "details": "Totožnost páru je velmi silná, ale křestní jméno se bez tichého přejmenování neslučuje. Tělo narození Anny *9. 9. 1879 (174-4247) v této práci ještě není. V mapě je u osoby jméno z těl 1833 a 1873 (Ignatz) a Anna zůstává zapsána jako dcera tohoto páru s výhradou zde.",
+   "related_ids": [
+    "franz-rosenberger",
+    "genovefa-meier",
+    "anna-rosenberger-1879",
+    "emma-rosenberger-1902"
+   ],
+   "sources": [
+    {
+     "label": "ARON",
+     "signatura": "13-7",
+     "detail": "snímek 143, pag. 266"
+    },
+    {
+     "label": "ARON",
+     "signatura": "174-4248",
+     "detail": "snímek 27, folio 23"
+    },
+    {
+     "label": "ARON",
+     "signatura": "174-7364"
+    },
+    {
+     "label": "ARON",
+     "signatura": "99-8015"
+    }
+   ]
+  },
+  {
+   "id": "q-hawel-olberg",
+   "title": "Anna Rosenbergerová, rozená Hausdorf: varianty příjmení, dům 6 vs. 9 a otec Barbary Lux",
+   "summary": "Rodné příjmení Hausdorf je nyní doloženo sňatkem rodičů 27. 9. 1790 (13-32, snímek 70) a rodným zápisem 1798. Otevřené zůstává: pozdější varianty (1830 Haudek, 1873 Hawel, dům 9) a křestní jméno otce Barbary Lux (1790 Anton, 1798 Johann?).",
+   "details": "Otec ani matka Anny proto nejsou v mapě jako uzly. Český ekvivalent Oehlbergu / Ölbergu se nepřiřazuje. Čísla 6 a 9 se neslučují. Sňatek 16. 11. 1830 (13-32, snímek 72): nevěsta Anna z Olivětína, dcera Antona, nádeníka v Olivětíně, a Barbary (rozené Ku…? z …thal), dům 6; příjmení nevěsty čteno opatrně Haudek / Hauck. Rodiče Anny proto zatím v mapě nejsou. Doplněk: rodný zápis Anny 29. 6. 1798 (13-5, snímek 110, Ölberg pag. 9, č. 6) — otec Anton, podruh, příjmení opatrně Hausdorf; matka Barbara, dcera Johanna (Lux?) z Rožmitálu. Anton a Barbara jsou nově v mapě jen s křestními jmény; rodné příjmení Hawel u Anny bylo odebráno, dokud se čtení neustálí. Doplněk 2026-11-24: 13-32, snímek 70 (Ölberg pag. 2), 27. 9. 1790, dům 6 — Anton Hausdorf, vdovec z Olivětína, 35 let, syn … Hausdorfa, podruha, a Reginy …; nevěsta Barbara, 25 let, dcera Antona Luxe „aus dem Schlegel(?)“, matka Catharina Nentwich(ová) z …dorfu(?). Otec Barbary proto do mapy nejde. Anton a Barbara jsou v mapě s příjmeními; Anna má rodné příjmení Hausdorf. Předchozí manželka Antona (byl vdovec) nebyla hledána.",
+   "related_ids": [
+    "anna-hawel",
+    "franz-rosenberger",
+    "benedikt-rosenberger"
+   ],
+   "sources": [
+    {
+     "label": "ARON",
+     "signatura": "174-4248",
+     "detail": "snímek 27, folio 23, 14. 10. 1873"
+    },
+    {
+     "label": "ARON",
+     "signatura": "13-7",
+     "detail": "snímek 143, pag. 266"
+    },
+    {
+     "label": "ARON",
+     "signatura": "13-32",
+     "detail": "snímek 72, 16. 11. 1830"
+    },
+    {
+     "label": "ARON",
+     "signatura": "13-5",
+     "detail": "snímek 110, 29. 6. 1798"
+    },
+    {
+     "label": "ARON, sňatek 27. 9. 1790",
+     "signatura": "13-32",
+     "detail": "snímek 70, Trauungsbuch Ölberg, pag. 2, 27. 9. 1790, dům 6"
+    }
+   ]
+  },
+  {
+   "id": "q-rosenberger-poznamka-1833",
+   "title": "Pozdější rodopisná poznámka u narození Ignatze 1833",
+   "summary": "Na rodném zápisu 19. 5. 1833 je mladší rukou připsán rodokmen: syn Josefa Rosenberga / Rosenbergera, tkalce v Ruppersdorfu, a Barbary roz. Tause, Inwohner Wiesen 58; Josef *7. 10. 1749 Ruppersdorf 73. U matky Anny je připsáno narození 29. 6. 1798 Großölberg a sňatek 16. 11. 1830 (Ölberg II-6).",
+   "details": "To není původní ruka z roku 1833. Do mapy jako uzly nepatří, dokud se nenajde tělo těchto zápisů. V původním textu 1833 je otec Benedikt uveden jako „ill. Sohn“, podruh. Rosenberg a Rosenberger se neslučují potichu. Doplněk 24. 11. 2026: původní zápisy se našly a poznámku v podstatných bodech potvrzují. Rodný zápis 141-1, snímek 51, 7. 10. 1799 (ne 1749), Ruprechtice č. 73: Benedikt, syn Josepha Rosenberga, podruha, a Barbary, dcery Antona (Tausch?) z Wiesen č. 58. Sňatek 13-32, snímek 72, 16. 11. 1830 Ölberg. Joseph a Barbara jsou proto nově v mapě; povolání tkadlec a rodné příjmení Barbary (Tause / Tausch) zůstávají nedoložené.",
+   "related_ids": [
+    "franz-rosenberger",
+    "benedikt-rosenberger",
+    "anna-hawel"
+   ],
+   "sources": [
+    {
+     "label": "ARON",
+     "signatura": "13-7",
+     "detail": "snímek 143, pag. 266, pozdější poznámka"
+    },
+    {
+     "label": "ARON",
+     "signatura": "141-1",
+     "detail": "snímek 51, 7. 10. 1799"
+    },
+    {
+     "label": "ARON",
+     "signatura": "13-32",
+     "detail": "snímek 72, 16. 11. 1830"
+    }
+   ]
+  },
+  {
+   "id": "q-tschinkel-24-9",
+   "title": "Tschinkel v indexu 24-9 (Deštné, 1784–1835)",
+   "summary": "V oddílu T indexu 24-9 je vedle rodiny Tilgner ještě druhé příjmení, čtené předběžně jako Tschinkel (1819–1829, folia kolem 217–237 knihy narozených).",
+   "details": "Čtení příjmení v indexu není uzavřené (možné i Tschinkerl / podobně) a těla v 24-5 (folio cca 217, 1819, „Jos.“) ještě nebyla čtena. Josef Tschinkel, otec Aloisie ze Štiefwinklu č. 16, se s tímto zápisem neslučuje, dokud tělo nepotvrdí dům, rodiče a jméno. Index 24-3949 (N 1835–1878) samostatný oddíl T nemá.",
+   "related_ids": [
+    "josef-tschinkel",
+    "anna-diener",
+    "aloisie-tschinkelova"
+   ],
+   "sources": [
+    {
+     "label": "ARON",
+     "signatura": "24-9",
+     "detail": "snímek 25, oddíl T, léta 1819–1829"
+    }
+   ]
+  },
+  {
+   "id": "q-georg-dauer-jmeno-1841",
+   "title": "Křestní jméno otce Theresie Dauerové v zápisu 22. 11. 1841",
+   "summary": "V tělech 1845, 1846 a 1873 je otec Theresie důsledně Georg Dauer, č. 117. Oddací zápis 22. 11. 1841 má téhož Dauera z č. 117 a manželku Barbaru z č. 53; křestní jméno v tom zápisu je třeba při další četbě ještě jednou srovnat.",
+   "details": "V mapě zůstává jméno Georg z trojího shodného čtení. Kdyby 1841 četlo jinak, jména se neslučují potichu. Doplněk 24. 11. 2026: rodné zápisy dcer 22. 11. 1799 a 22. 9. 1808 (141-1, snímky 52 a 88, dům 74) mají otce Georga Dauera a matku Barbaru, dceru Antona Ringela. Jméno Georg je tím doloženo nezávisle na zápisu 1841.",
+   "related_ids": [
+    "georg-dauer",
+    "theresia-dauer",
+    "barbara-pitz"
+   ],
+   "sources": [
+    {
+     "label": "ARON",
+     "signatura": "141-4",
+     "detail": "snímek 29"
+    },
+    {
+     "label": "ARON",
+     "signatura": "141-4240"
+    },
+    {
+     "label": "ARON",
+     "signatura": "174-4248"
+    },
+    {
+     "label": "ARON",
+     "signatura": "141-1",
+     "detail": "snímek 88, 22. 9. 1808"
+    }
+   ]
+  },
+  {
+   "id": "q-tobias-71-77",
+   "title": "Tobiáš Maroul č. 71 a č. 77 — je Václav *1878 sourozenec Jana?",
+   "summary": "Jan (linie 71) je syn Tobiáše × Marie z NS č. 71 (1846). Václav *1878 je syn Tobiáše z NS č. 77 a Marie z Bělic 23.",
+   "details": "Jméno manželky a Bělic 23 se shodují, čísla 71 a 77 se neslučují potichu. Václav proto v mapě není zapsán jako dítě téhož svazku. Sňatek Tobiáše s Marií Šimcovou v 96-14 (1815–1841) v tomto kroku ještě nebyl souvisle nalezen.",
+   "related_ids": [
+    "tobias-maroul",
+    "marie-simcova",
+    "jan-maroul-ns71",
+    "vaclav-maroul-1878",
+    "antonin-simec"
+   ],
+   "sources": [
+    {
+     "label": "ARON",
+     "signatura": "96-15",
+     "detail": "snímek 32"
+    },
+    {
+     "label": "ARON",
+     "signatura": "96-4228",
+     "detail": "snímek 75"
+    }
+   ]
+  },
+  {
+   "id": "q-ringel-dum",
+   "title": "Dům Antona Ringela: č. 33, 35 nebo 53",
+   "summary": "Barbara Dauerová je dcera Antona Ringela, výměnkáře v Ruprechticích. Číslo domu jejího původu se v zápisech liší: 1799 č. 33, 1808 č. 33 nebo 35, sňatek dcery 1841 č. 53.",
+   "details": "Čísla domů se neslučují. Manželka Antona Ringela ani jeho narození zatím nejsou. V Ruprechticích je kolem 1800 víc rodin Ringel (např. Benedikt Ringel, č. 81) — bez zápisu se nespojují. Další krok: sňatek Georga Dauera a Barbary Ringel kolem 1795–1799 v 141-3 (O Ruprechtice 1784–1813).",
+   "related_ids": [
+    "anton-ringel",
+    "barbara-pitz",
+    "georg-dauer"
+   ],
+   "sources": [
+    {
+     "label": "ARON",
+     "signatura": "141-1",
+     "detail": "snímek 52, 22. 11. 1799"
+    },
+    {
+     "label": "ARON",
+     "signatura": "141-1",
+     "detail": "snímek 88, 22. 9. 1808"
+    },
+    {
+     "label": "ARON",
+     "signatura": "141-4",
+     "detail": "snímek 29, 22. 11. 1841"
+    }
+   ]
+  },
+  {
+   "id": "q-rosenberg-1800",
+   "title": "Joseph Rosenberg, sňatek 12. 8. 1800 v Ruprechticích č. 73",
+   "summary": "Benedikt *7. 10. 1799 (č. 73) je syn Josepha Rosenberga, podruha, a Barbary, dcery Antona (Tausch?) z Vižňova č. 58. V 141-3 je 12. 8. 1800 sňatek Joseph Rosenberg, č. 73, 33 let, s Barbarou, dcerou Antona (Herzog?), chalupníka v Ruprechticích č. 134; svědci Joseph Rosenberg a Anton Herzog.",
+   "details": "Není jisté, zda jde o rodiče Benedikta (legitimace po narození) nebo o jiný pár z téhož domu. Popis otce nevěsty (podruh z Vižňova č. 58 vs. chalupník z Ruprechtic č. 134) se liší. Sňatek se proto k páru Joseph × Barbara nepřipisuje.",
+   "related_ids": [
+    "joseph-rosenberg-1799",
+    "barbara-rosenberg-1799",
+    "benedikt-rosenberger"
+   ],
+   "sources": [
+    {
+     "label": "ARON",
+     "signatura": "141-1",
+     "detail": "snímek 51, 7. 10. 1799"
+    },
+    {
+     "label": "ARON",
+     "signatura": "141-3",
+     "detail": "snímek 16, Pag. 26, 12. 8. 1800"
+    }
+   ]
+  }
+ ]
 }
