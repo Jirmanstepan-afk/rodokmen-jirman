@@ -229,6 +229,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 174-19 (poř.č. 12255), 1675-1840",
    "popis": "římskokatolický index NAROZENÝCH, Vižňov",
    "url": "https://aron.vychodoceskearchivy.cz/apu/f31ac66e-33e0-47a1-8f07-5119d1f77040"
+  },
+  "13-3": {
+   "apu": "4e7de8ca-667f-4171-87d2-bd6e95d5f5df",
+   "dao": "4e7de8ca-667f-4171-87d2-bd6e95d5f5df",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 13-3 (poř.č. 541), 1730-1766",
+   "popis": "římskokatolická matrika NAROZENÝCH, farnost (Broumov, Broumov - Dolní předměstí, Broumov - Horní předměstí, Broumov - Prostřední předměstí, Hejtmánkovice, Křinice, Olivětín, Rožmitál, Velká Ves)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/4e7de8ca-667f-4171-87d2-bd6e95d5f5df"
   }
  },
  "aliasy": {
@@ -254,6 +261,15 @@
    "nahled": "img/zdroje/13-32_s072.jpg",
    "velky": "img/zdroje/13-32_s072_velky.jpg",
    "vyrez_soubor": "s072-1830-raw.jpg"
+  },
+  "13-3|423": {
+   "signatura": "13-3",
+   "snimek": 423,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/4e7de8ca-667f-4171-87d2-bd6e95d5f5df/dao/4e7de8ca-667f-4171-87d2-bd6e95d5f5df/file/c9e5a804-a1d2-40cf-b2b1-c85b0d8871b6",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/13-3_s423.jpg",
+   "velky": "img/zdroje/13-3_s423_velky.jpg",
+   "vyrez_soubor": "i13-3-s423R-1756-12-15-johann-anton-haeusler-oelberg.jpg"
   },
   "13-57|109": {
    "signatura": "13-57",

@@ -4215,7 +4215,7 @@
    "id": "q-hawel-olberg",
    "title": "Anna Rosenbergerová, rozená Hausdorf: varianty příjmení, dům 6 vs. 9 a otec Barbary Lux",
    "summary": "Rodné příjmení Hausdorf je nyní doloženo sňatkem rodičů 27. 9. 1790 (13-32, snímek 70) a rodným zápisem 1798. Otevřené zůstává: pozdější varianty (1830 Haudek, 1873 Hawel, dům 9) a křestní jméno otce Barbary Lux (1790 Anton, 1798 Johann?).",
-   "details": "Otec ani matka Anny proto nejsou v mapě jako uzly. Český ekvivalent Oehlbergu / Ölbergu se nepřiřazuje. Čísla 6 a 9 se neslučují. Sňatek 16. 11. 1830 (13-32, snímek 72): nevěsta Anna z Olivětína, dcera Antona, nádeníka v Olivětíně, a Barbary (rozené Ku…? z …thal), dům 6; příjmení nevěsty čteno opatrně Haudek / Hauck. Rodiče Anny proto zatím v mapě nejsou. Doplněk: rodný zápis Anny 29. 6. 1798 (13-5, snímek 110, Ölberg pag. 9, č. 6) — otec Anton, podruh, příjmení opatrně Hausdorf; matka Barbara, dcera Johanna (Lux?) z Rožmitálu. Anton a Barbara jsou nově v mapě jen s křestními jmény; rodné příjmení Hawel u Anny bylo odebráno, dokud se čtení neustálí. Doplněk 2026-11-24: 13-32, snímek 70 (Ölberg pag. 2), 27. 9. 1790, dům 6 — Anton Hausdorf, vdovec z Olivětína, 35 let, syn … Hausdorfa, podruha, a Reginy …; nevěsta Barbara, 25 let, dcera Antona Luxe „aus dem Schlegel(?)“, matka Catharina Nentwich(ová) z …dorfu(?). Otec Barbary proto do mapy nejde. Anton a Barbara jsou v mapě s příjmeními; Anna má rodné příjmení Hausdorf. Předchozí manželka Antona (byl vdovec) nebyla hledána.",
+   "details": "Otec ani matka Anny proto nejsou v mapě jako uzly. Český ekvivalent Oehlbergu / Ölbergu se nepřiřazuje. Čísla 6 a 9 se neslučují. Sňatek 16. 11. 1830 (13-32, snímek 72): nevěsta Anna z Olivětína, dcera Antona, nádeníka v Olivětíně, a Barbary (rozené Ku…? z …thal), dům 6; příjmení nevěsty čteno opatrně Haudek / Hauck. Rodiče Anny proto zatím v mapě nejsou. Doplněk: rodný zápis Anny 29. 6. 1798 (13-5, snímek 110, Ölberg pag. 9, č. 6) — otec Anton, podruh, příjmení opatrně Hausdorf; matka Barbara, dcera Johanna (Lux?) z Rožmitálu. Anton a Barbara jsou nově v mapě jen s křestními jmény; rodné příjmení Hawel u Anny bylo odebráno, dokud se čtení neustálí. Doplněk 2026-11-24: 13-32, snímek 70 (Ölberg pag. 2), 27. 9. 1790, dům 6 — Anton Hausdorf, vdovec z Olivětína, 35 let, syn … Hausdorfa, podruha, a Reginy …; nevěsta Barbara, 25 let, dcera Antona Luxe „aus dem Schlegel(?)“, matka Catharina Nentwich(ová) z …dorfu(?). Otec Barbary proto do mapy nejde. Anton a Barbara jsou v mapě s příjmeními; Anna má rodné příjmení Hausdorf. Předchozí manželka Antona (byl vdovec) nebyla hledána. Doplněno 25. 11. 2026: index 13-53 (snímek 72L) uvádí k 15. 12. 1756 Johanna Antona (otec Anton, matka Anna Regina) pod H; tělo zápisu v matrice 13-3 (snímek 423, pag. 834) zní: „Den 15. Anton Häusler(?) v. Ölberg einen Sohn Johan Anton, die Mutter Anna Regina, die Pathen Carl Waltzel aus Crossdorf und die Tobias Gramer(?) v. Ölberg Ehewirthin Anna Maria.“ Příjmení je v těle psáno „Haüßla/Häusler“, ne Hausdorf; rodné příjmení matky chybí. Rodiče (Anton × Regina, Olivětín) sedí na ženicha z 27. 9. 1790 (syn Antona Hausdorfa, podruha, a Reginy), ale bez shody příjmení to není jisté — Johann Anton *1756 do mapy nepřidán.",
    "related_ids": [
     "anna-hawel",
     "franz-rosenberger",
@@ -4246,6 +4246,11 @@
      "label": "ARON, sňatek 27. 9. 1790",
      "signatura": "13-32",
      "detail": "snímek 70, Trauungsbuch Ölberg, pag. 2, 27. 9. 1790, dům 6"
+    },
+    {
+     "label": "ARON",
+     "signatura": "13-3",
+     "detail": "snímek 423, pag. 834, 15. 12. 1756"
     }
    ]
   },
