@@ -744,6 +744,30 @@
    "velky": "img/zdroje/174-19_s054_velky.jpg",
    "vyrez_soubor": "i174-19-s054-ringel-viznov-58.jpg"
   },
+  "174-21|22": {
+   "signatura": "174-21",
+   "snimek": 22,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/97214d89-1f12-43e0-9199-71da32fa01cd/dao/97214d89-1f12-43e0-9199-71da32fa01cd/file/cde6b403-d270-4582-b783-1417aec81258",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/174-21_s022.jpg",
+   "velky": "img/zdroje/174-21_s022_velky.jpg"
+  },
+  "174-21|23": {
+   "signatura": "174-21",
+   "snimek": 23,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/97214d89-1f12-43e0-9199-71da32fa01cd/dao/97214d89-1f12-43e0-9199-71da32fa01cd/file/a80fef00-cabc-4d0c-9c10-f5607d8df147",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/174-21_s023.jpg",
+   "velky": "img/zdroje/174-21_s023_velky.jpg"
+  },
+  "174-21|6": {
+   "signatura": "174-21",
+   "snimek": 6,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/97214d89-1f12-43e0-9199-71da32fa01cd/dao/97214d89-1f12-43e0-9199-71da32fa01cd/file/b5d4b2e9-1828-4ee9-8c2b-1954466ee3c4",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/174-21_s006.jpg",
+   "velky": "img/zdroje/174-21_s006_velky.jpg"
+  },
   "174-21|9": {
    "signatura": "174-21",
    "snimek": 9,
@@ -836,6 +860,14 @@
    "velky": "img/zdroje/174-6_s431_velky.jpg",
    "vyrez_soubor": "z174-6-s431-1732-04-04-anton-benedikt-ringel.jpg"
   },
+  "174-6|455": {
+   "signatura": "174-6",
+   "snimek": 455,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/dao/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/file/17166326-8e2a-4ba0-b01a-466e252557ac",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/174-6_s455.jpg",
+   "velky": "img/zdroje/174-6_s455_velky.jpg"
+  },
   "174-6|51": {
    "signatura": "174-6",
    "snimek": 51,
@@ -852,6 +884,14 @@
    "nahled": "img/zdroje/174-6_s057.jpg",
    "velky": "img/zdroje/174-6_s057_velky.jpg",
    "vyrez_soubor": "o174-6-s57-1727-10-21-daniel-ringel-anna-maria-hofman.jpg"
+  },
+  "174-6|70": {
+   "signatura": "174-6",
+   "snimek": 70,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/dao/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/file/9407546a-8123-4c02-9bf9-db02761efc54",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/174-6_s070.jpg",
+   "velky": "img/zdroje/174-6_s070_velky.jpg"
   },
   "174-7364|94": {
    "signatura": "174-7364",

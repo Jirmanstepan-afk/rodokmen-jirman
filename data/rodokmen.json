@@ -5160,6 +5160,32 @@
           "detail": "snímek 51, fol. 91"
         }
       ]
+    },
+    {
+      "id": "q-hofman-viznov",
+      "title": "Anton Hofman, rychtář ve Vižňově 1727 — sňatek, úmrtí, děti",
+      "summary": "Anton Hofman je doložen jen jako otec nevěsty Anny Marie ve sňatku s Danielem Ringelem 21. 10. 1727 (174-6, snímek 57, fol. 104). Ve vižňovských indexech 1675–1756 jinak nefiguruje.",
+      "details": "Prošlo 25. 11. 2026: index oddaných 174-21 (snímek 6, Lit. H, 1678–1751) — sňatek Antona Hofmana tam není; jediný Anton Hofman, ženich 2. 2. 1738 (174-6, snímek 70, fol. 130), je „ein junger Gesell, Adam Hofmans ehel. Sohn aus Wernersdorf“ — jiný muž. Index zemřelých 174-21 (snímky 22–23, Lit. H, 1699–1756): dospělý Anton Hofman tam není; zápisy 22. 9. 1741 (174-6, snímek 450, fol. 180) a 28. 4. 1743 (snímek 455, fol. 190) jsou synkové Anton (otcové Georg Hoffman a Anton Hofman, chalupník ve Vižňově). Index narozených Vižňov 174-19 (snímek 20, Lit. H, 1675–1740): Hofmanové jen s otcem Davidem (1675, 1678, 1680), dítě Antona Hofmana tam není. Anna Maria se tedy nejspíš nenarodila ve Vižňově; Anton mohl přijít z jiné obce farnosti (Vernéřovice/Wernersdorf, Křinice/Kreuzenz?) nebo se oženil před rokem 1678. Chalupník Anton Hofman z roku 1743 může být jeho syn, nedoloženo. Další krok: indexy narozených ostatních obcí farnosti Vernéřovice (Lit. H, ~1695–1710).",
+      "related_ids": [
+        "anton-hofman-viznov"
+      ],
+      "sources": [
+        {
+          "label": "ARON, index oddaných a zemřelých",
+          "signatura": "174-21",
+          "detail": "snímek 6 (oddaní Lit. H), snímky 22–23 (zemřelí Lit. H)"
+        },
+        {
+          "label": "ARON, sňatek 2. 2. 1738",
+          "signatura": "174-6",
+          "detail": "snímek 70, fol. 130"
+        },
+        {
+          "label": "ARON, úmrtí 28. 4. 1743",
+          "signatura": "174-6",
+          "detail": "snímek 455, fol. 190"
+        }
+      ]
     }
   ],
   "unattached_branches": [
