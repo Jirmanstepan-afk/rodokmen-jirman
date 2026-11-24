@@ -201,6 +201,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 13-57 (poř.č. 641), 1784-1949",
    "popis": "římskokatolický index ODDANÝCH, farnost (Broumov, Broumov - Dolní předměstí, Broumov - Horní předměstí, Broumov - Prostřední předměstí, Hejtmánkovice, Křinice, Olivětín, Rožmitál, Velká Ves)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/94544493-a620-44d0-b728-478781bc46cf"
+  },
+  "141-3": {
+   "apu": "41ee5d74-aaef-4eee-8599-da0678470f8b",
+   "dao": "41ee5d74-aaef-4eee-8599-da0678470f8b",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 141-3 (poř.č. 9739), 1784-1813",
+   "popis": "římskokatolická matrika ODDANÝCH, Ruprechtice (2.1784-11.1813), Jetřichov (5.1784-7.1813), Hynčice (2.1784-11.1813)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/41ee5d74-aaef-4eee-8599-da0678470f8b"
   }
  },
  "aliasy": {
@@ -352,6 +359,15 @@
    "nahled": "img/zdroje/141-1_s088.jpg",
    "velky": "img/zdroje/141-1_s088_velky.jpg",
    "vyrez_soubor": "s088L-1808-09-theresia.jpg"
+  },
+  "141-3|16": {
+   "signatura": "141-3",
+   "snimek": 16,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/41ee5d74-aaef-4eee-8599-da0678470f8b/dao/41ee5d74-aaef-4eee-8599-da0678470f8b/file/b9830df4-5c6c-46b7-8cfe-a8fdbea2528b",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-3_s016.jpg",
+   "velky": "img/zdroje/141-3_s016_velky.jpg",
+   "vyrez_soubor": "o141-3-s016R-1800-08-12-rosenberg.jpg"
   },
   "141-4240|14": {
    "signatura": "141-4240",

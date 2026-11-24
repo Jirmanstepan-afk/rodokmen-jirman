@@ -2351,7 +2351,7 @@
         "date": "1799-10-07",
         "precision": "exact",
         "place": "Ruprechtice č. 73",
-        "note": "141-1, Pag. 97: Benedikt, manželský syn Josepha Rosenberga, podruha (Inwohner), a Barbary, dcery Antona (příjmení čteno opatrně Tausch) z Vižňova (Wiesen) č. 58. Kmotři Benedikt Mayer, chalupník, a Barbara Daurin, chalupnice. Křtil P. Vincentius Seydl, kaplan."
+        "note": "141-1, Pag. 97: Benedikt, syn Josepha Rosenberga, podruha (Inwohner), a Barbary, dcery Antona (příjmení čteno opatrně Tausch) z Vižňova (Wiesen) č. 58. Kmotři Benedikt Mayer, chalupník, a Barbara Daurin, chalupnice. Křtil P. Vincentius Seydl, kaplan. Čárka ve sloupcích ehelich/unehelich stojí na hranici sloupců; legitimita se proto neurčuje (v zápisu 1833 je Benedikt „ill. Sohn“)."
       },
       "baptism": null,
       "death": {
@@ -4142,6 +4142,29 @@
           "label": "ARON",
           "signatura": "141-4",
           "detail": "snímek 29, 22. 11. 1841"
+        }
+      ]
+    },
+    {
+      "id": "q-rosenberg-1800",
+      "title": "Joseph Rosenberg, sňatek 12. 8. 1800 v Ruprechticích č. 73",
+      "summary": "Benedikt *7. 10. 1799 (č. 73) je syn Josepha Rosenberga, podruha, a Barbary, dcery Antona (Tausch?) z Vižňova č. 58. V 141-3 je 12. 8. 1800 sňatek Joseph Rosenberg, č. 73, 33 let, s Barbarou, dcerou Antona (Herzog?), chalupníka v Ruprechticích č. 134; svědci Joseph Rosenberg a Anton Herzog.",
+      "details": "Není jisté, zda jde o rodiče Benedikta (legitimace po narození) nebo o jiný pár z téhož domu. Popis otce nevěsty (podruh z Vižňova č. 58 vs. chalupník z Ruprechtic č. 134) se liší. Sňatek se proto k páru Joseph × Barbara nepřipisuje.",
+      "related_ids": [
+        "joseph-rosenberg-1799",
+        "barbara-rosenberg-1799",
+        "benedikt-rosenberger"
+      ],
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "141-1",
+          "detail": "snímek 51, 7. 10. 1799"
+        },
+        {
+          "label": "ARON",
+          "signatura": "141-3",
+          "detail": "snímek 16, Pag. 26, 12. 8. 1800"
         }
       ]
     }
