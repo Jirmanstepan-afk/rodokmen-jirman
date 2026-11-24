@@ -3190,21 +3190,27 @@
         }
       ],
       "notes": [
-        "Manželská dcera †Franze Rosenbergera a Genovefy, dcery Benedikta Meiera. Otec Emmy není jmenován."
+        "Manželská dcera †Franze Rosenbergera a Genovefy, dcery Benedikta Meiera. Otec Emmy není jmenován.",
+        "Rodiče Ignatz (v zápisech 1902/1925 Franz) Rosenberger a Genovefa Meier se vzali 14. 10. 1873 ve Vernéřovicích; Anna *9. 9. 1879 je v pozdějších zápisech uvedena jako jejich manželská dcera. Místo narození Anny z těch zápisů nevyplývá; tělo 174-4247 v této práci ještě není."
       ],
       "interesting": []
     },
     {
       "id": "franz-rosenberger",
-      "name": "Franz Rosenberger",
+      "name": "Ignatz Rosenberger",
       "maiden": null,
-      "birth": null,
+      "birth": {
+        "display": "19. 5. 1833",
+        "precision": "exact",
+        "date": "1833-05-19",
+        "note": "Datum z poznámky u sňatku 14. 10. 1873; odkaz „Braunau 48-I“ (matrika narozených farnosti Broumov, kniha 48, oddíl I). Tělo narození v této práci ještě není."
+      },
       "baptism": null,
       "death": {
         "display": "před 27. 12. 1902",
         "precision": "range"
       },
-      "occupation": "Krejčí a chalupník (Schneider und Häusler) ve sňatku 1925; mistr krejčí a chalupník (Schneidermeister, Häusler) v zápisu vnučky 1902. Vernéřovice č. 177.",
+      "occupation": "Chalupník a krejčí (Häusler und Schneider) ve Vernéřovicích č. 177 (sňatek 14. 10. 1873, vdovec). V zápisu vnučky Emmy 27. 12. 1902 mistr krejčí a chalupník (Schneidermeister, Häusler); ve sňatku vnučky 22. 8. 1925 Schneider und Häusler, už nebožtík.",
       "places": [
         "Vernéřovice (Deutsch-Wernersdorf) č. 177"
       ],
@@ -3219,19 +3225,42 @@
         {
           "label": "ARON",
           "signatura": "99-8015"
+        },
+        {
+          "label": "ARON",
+          "signatura": "174-8684",
+          "detail": "snímek 25, Lit. R, Wernersdorf"
+        },
+        {
+          "label": "ARON",
+          "signatura": "174-4248",
+          "detail": "snímek 27, folio 23, první zápis, 14. 10. 1873"
         }
       ],
-      "notes": [],
+      "notes": [
+        "V těle sňatku 14. 10. 1873 je ženich výslovně „Rosenberger Ignatz“, chalupník a krejčí, Vernéřovice č. 177, vdovec, věk 40, *19. 5. 1833. V zápisu vnučky Emmy 27. 12. 1902 a ve sňatku 22. 8. 1925 je otec Anny uveden jako Franz Rosenberger, týž dům 177, totéž povolání, manželka Genovefa dcera Benedikta Meiera z Ruprechtic č. 93. Totožnost páru je velmi silná, ale křestní jméno Franz vs. Ignatz se bez tichého přejmenování neslučuje; v mapě je ponecháno jméno z těla 1873 (Ignatz) a nesoulad je zde uveden. Totožnost s Franzem z let 1902/1925 je pravděpodobná.",
+        "První manželství: 14. 11. 1864 s Barbarou, dcerou Antona Merkela, chalupníka ve Starostíně č. 25 (index 174-8684 uvádí č. 28; tělo 1873 čte č. 25 — platí tělo, čísla neslučovat). Vdovec po ní k 14. 10. 1873; v zápisu je zmínka o úmrtí 1. července, rok v této práci není uzavřen."
+      ],
       "interesting": []
     },
     {
       "id": "genovefa-meier",
       "name": "Genovefa Rosenbergerová",
       "maiden": "Meier",
-      "birth": null,
-      "baptism": null,
+      "birth": {
+        "display": "8. 8. 1846",
+        "precision": "exact",
+        "date": "1846-08-08",
+        "place": "Ruprechtice"
+      },
+      "baptism": {
+        "display": "9. 8. 1846",
+        "precision": "exact",
+        "date": "1846-08-09",
+        "place": "Ruprechtice"
+      },
       "death": null,
-      "occupation": "V sňatku vnučky 1925 označena jako Jungwirthin, Ruprechtice č. 93. V rodném zápisu Emmy je jednoznačně manželská dcera Benedikta Meiera, Inwohner v Ruprechticích č. 93.",
+      "occupation": "V sňatku 14. 10. 1873 svobodná, 27 let, manželská dcera †Benedikta Meiera, podruha v Ruprechticích č. 93. V sňatku vnučky 1925 označena jako Jungwirthin, Ruprechtice č. 93.",
       "places": [
         "Ruprechtice č. 93"
       ],
@@ -3247,10 +3276,32 @@
         {
           "label": "ARON",
           "signatura": "99-8015"
+        },
+        {
+          "label": "ARON",
+          "signatura": "174-8684",
+          "detail": "snímek 25, Lit. R, Wernersdorf"
+        },
+        {
+          "label": "ARON",
+          "signatura": "174-4248",
+          "detail": "snímek 27, folio 23, první zápis, 14. 10. 1873"
+        },
+        {
+          "label": "ARON",
+          "signatura": "141-4251",
+          "detail": "snímek 61, písmeno M, Ruppersdorf"
+        },
+        {
+          "label": "ARON",
+          "signatura": "141-4240",
+          "detail": "snímek 25, folio 19, první zápis"
         }
       ],
       "notes": [
-        "Formule „geb. Benedikt Meier“ ze sňatku 1925 je upřesněna zápisem 1902: Genovefa je dcera Benedikta Meiera, ne „rozená Benedikt“."
+        "Formule „geb. Benedikt Meier“ ze sňatku 1925 je upřesněna zápisem 1902: Genovefa je dcera Benedikta Meiera, ne „rozená Benedikt“.",
+        "Rodné příjmení v matrikách 1845–1846 psáno Mayer, ve sňatku 1873 a v zápisech 1902/1925 Meier. Jde o tutéž rodinu (dům 93, otec Benedikt, matka Theresia Dauer).",
+        "Narozena 8. 8. 1846, pokřtěna 9. 8. 1846, Ruprechtice č. 93, katolická, manželská. Bába: Marie (příjmení čtené opatrně, Günter nebo podobně), Ruprechtice č. 40."
       ],
       "interesting": []
     },
@@ -3260,8 +3311,12 @@
       "maiden": null,
       "birth": null,
       "baptism": null,
-      "death": null,
-      "occupation": "Podruh (Inwohner), Ruprechtice č. 93.",
+      "death": {
+        "display": "před 14. 10. 1873",
+        "precision": "range",
+        "note": "K sňatku dcery Genovefy už nebožtík. Dne 8. 8. 1846 jako otec ještě žije (v jejím rodném zápisu bez křížku)."
+      },
+      "occupation": "Podruh (Inwohner) v Ruprechticích č. 93. V rodných zápisech dětí 1845 a 1846: katolík, manželský syn †Andrease Mayera (křestní jméno otce čtené opatrně), chalupníka v Ruprechticích č. 81, poddaný broumovského panství. Příjmení v těch zápisech Mayer.",
       "places": [
         "Ruprechtice č. 93"
       ],
@@ -3273,10 +3328,345 @@
           "label": "ARON",
           "signatura": "174-7364",
           "detail": "snímek 94"
+        },
+        {
+          "label": "ARON",
+          "signatura": "174-4248",
+          "detail": "snímek 27, folio 23, 14. 10. 1873"
+        },
+        {
+          "label": "ARON",
+          "signatura": "141-4240",
+          "detail": "snímek 14, folio 9, a snímek 25, folio 19"
         }
       ],
       "notes": [],
       "interesting": []
+    },
+    {
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 14. 10. 1873",
+        "precision": "range",
+        "note": "V těle sňatku syna Ignatze už nebožtík."
+      },
+      "occupation": "Podruh (Inwohner) v Ruprechticích č. 36.",
+      "places": [
+        "Ruprechtice č. 36"
+      ],
+      "living": false,
+      "notes": [
+        "Otec Ignatze Rosenbergera podle těla sňatku 14. 10. 1873. Narození v této práci ještě není."
+      ],
+      "interesting": [],
+      "id": "benedikt-rosenberger",
+      "name": "Benedikt Rosenberger",
+      "branch": "rosenberger",
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "174-4248",
+          "detail": "snímek 27, folio 23, 14. 10. 1873"
+        }
+      ]
+    },
+    {
+      "maiden": "Hawel",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Manželka Benedikta Rosenbergera, podruha v Ruprechticích č. 36. Dcera Antona Hawela (čtení příjmení opatrné, možné i Havel / Hauel), podruha v Oehlbergu č. 9.",
+      "places": [
+        "Ruprechtice č. 36",
+        "Oehlberg č. 9"
+      ],
+      "living": false,
+      "notes": [
+        "Příjmení otce je čtené opatrně: Hawel, možné i Havel nebo Hauel.",
+        "Oehlberg je v zápisu uveden v broumovském okrese (Bezirke Braunau); český ekvivalent v této práci nepřiřazuji.",
+        "V zápisu 1873 u Antona není křížek (na rozdíl od Benedikta Rosenbergera); o úmrtí se nic nevymýšlí."
+      ],
+      "interesting": [],
+      "id": "anna-hawel",
+      "name": "Anna Rosenbergerová",
+      "branch": "rosenberger",
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "174-4248",
+          "detail": "snímek 27, folio 23, 14. 10. 1873"
+        }
+      ]
+    },
+    {
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Podruh (Inwohner) v Oehlbergu č. 9, broumovský okres.",
+      "places": [
+        "Oehlberg č. 9"
+      ],
+      "living": false,
+      "notes": [
+        "Jméno a dům z formule u dcery Anny ve sňatku 14. 10. 1873. Příjmení čtené opatrně (Hawel / Havel / Hauel) — proto jistota pravděpodobné.",
+        "Oehlberg ponechán v podobě zápisu; český ekvivalent se nepřiřazuje."
+      ],
+      "interesting": [],
+      "id": "anton-hawel",
+      "name": "Anton Hawel",
+      "branch": "rosenberger",
+      "certainty": "pravdepodobne",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "174-4248",
+          "detail": "snímek 27, folio 23, 14. 10. 1873"
+        }
+      ]
+    },
+    {
+      "maiden": "Merkel",
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 14. 10. 1873",
+        "precision": "range",
+        "note": "V těle sňatku 14. 10. 1873 je Ignatz vdovec po ní. Zmíněno úmrtí 1. července; rok v zápisu není v této práci uzavřen."
+      },
+      "occupation": "Dcera Antona Merkela, chalupníka ve Starostíně (Neusorge) č. 25. První manželka Ignatze Rosenbergera.",
+      "places": [
+        "Starostín (Neusorge) č. 25",
+        "Vernéřovice č. 177"
+      ],
+      "living": false,
+      "notes": [
+        "Sňatek s Ignatzem 14. 11. 1864 je uveden v těle jeho druhého sňatku; tělo prvního sňatku v této práci ještě není.",
+        "Index 174-8684 u Merkela uvádí č. 28, tělo 1873 č. 25. Platí tělo; čísla 25 a 28 neslučovat.",
+        "Není v přímé linii Štěpána (první manželka děda Anny). Do stromu je zapsána kvůli sňatku a otci."
+      ],
+      "interesting": [],
+      "id": "barbara-merkel",
+      "name": "Barbara Rosenbergerová",
+      "branch": "rosenberger",
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "174-8684",
+          "detail": "snímek 25, Lit. R — index uvádí Merkel č. 28"
+        },
+        {
+          "label": "ARON",
+          "signatura": "174-4248",
+          "detail": "snímek 27, folio 23, 14. 10. 1873 — tělo čte č. 25"
+        }
+      ]
+    },
+    {
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Chalupník (Häusler) ve Starostíně (Neusorge) č. 25.",
+      "places": [
+        "Starostín (Neusorge) č. 25"
+      ],
+      "living": false,
+      "notes": [
+        "Otec Barbary, první manželky Ignatze Rosenbergera. Není v přímé linii Štěpána. Index 174-8684 uvádí č. 28, tělo č. 25 — platí tělo."
+      ],
+      "interesting": [],
+      "id": "anton-merkel",
+      "name": "Anton Merkel",
+      "branch": "rosenberger",
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "174-4248",
+          "detail": "snímek 27, folio 23, 14. 10. 1873"
+        }
+      ]
+    },
+    {
+      "maiden": "Dauer",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Manželka Benedikta Meiera (Mayera), podruha v Ruprechticích č. 93. Katolická, manželská dcera †Georga Dauera, chalupníka a podruha v Ruprechticích č. 117, a †Barbary rozené příjmením čteným opatrně (Pitz / Sitz / Spitz / Pietz) z Ruprechtic č. 53.",
+      "places": [
+        "Ruprechtice č. 93"
+      ],
+      "living": false,
+      "notes": [
+        "Rodné příjmení Dauer je shodně čteno ve sňatku dcery 1873, v indexu 141-4251 i v tělech 1845 a 1846."
+      ],
+      "interesting": [],
+      "id": "theresia-dauer",
+      "name": "Theresia Meierová",
+      "branch": "meier",
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "174-4248",
+          "detail": "snímek 27, folio 23, 14. 10. 1873"
+        },
+        {
+          "label": "ARON",
+          "signatura": "141-4251",
+          "detail": "snímek 61"
+        },
+        {
+          "label": "ARON",
+          "signatura": "141-4240",
+          "detail": "snímek 14, folio 9, a snímek 25, folio 19"
+        }
+      ]
+    },
+    {
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 20. 6. 1845",
+        "precision": "range",
+        "note": "V rodném zápisu vnuka Benedikta 20. 6. 1845 už nebožtík."
+      },
+      "occupation": "Chalupník a podruh (Häusler und Inwohner) v Ruprechticích č. 117, poddaný broumovského panství.",
+      "places": [
+        "Ruprechtice č. 117"
+      ],
+      "living": false,
+      "notes": [
+        "Otec Theresie, tchán Benedikta Meiera. Jméno shodně ve sňatku vnučky Genovefy 1873 i v rodných zápisech 1845 a 1846."
+      ],
+      "interesting": [],
+      "id": "georg-dauer",
+      "name": "Georg Dauer",
+      "branch": "meier",
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "174-4248",
+          "detail": "snímek 27, folio 23, 14. 10. 1873"
+        },
+        {
+          "label": "ARON",
+          "signatura": "141-4240",
+          "detail": "snímek 14, folio 9, a snímek 25, folio 19"
+        }
+      ]
+    },
+    {
+      "maiden": "Pitz",
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 20. 6. 1845",
+        "precision": "range",
+        "note": "V rodném zápisu vnuka Benedikta 20. 6. 1845 už nebožka."
+      },
+      "occupation": "Manželka Georga Dauera z Ruprechtic č. 117. V rodných zápisech 1845 a 1846: rozená z Ruprechtic č. 53.",
+      "places": [
+        "Ruprechtice č. 53",
+        "Ruprechtice č. 117"
+      ],
+      "living": false,
+      "notes": [
+        "Osoba matky Theresie je z těl 1845 a 1846 potvrzená; rodné příjmení je čtené opatrně (Pitz, možné i Sitz, Spitz nebo Pietz) — proto jistota pravděpodobné.",
+        "Ve sňatku vnučky 14. 10. 1873 matka Theresie jmenována není, jen otec Georg Dauer."
+      ],
+      "interesting": [],
+      "id": "barbara-pitz",
+      "name": "Barbara Dauerová",
+      "branch": "meier",
+      "certainty": "pravdepodobne",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "141-4240",
+          "detail": "snímek 14, folio 9, a snímek 25, folio 19"
+        }
+      ]
+    },
+    {
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 20. 6. 1845",
+        "precision": "range",
+        "note": "V rodném zápisu vnuka Benedikta 20. 6. 1845 už nebožtík."
+      },
+      "occupation": "Chalupník (Häusler) v Ruprechticích č. 81, poddaný broumovského panství.",
+      "places": [
+        "Ruprechtice č. 81"
+      ],
+      "living": false,
+      "notes": [
+        "Otec Benedikta Meiera (Mayera) je v tělech 1845 a 1846 výslovně uveden jako zesnulý chalupník z Ruprechtic č. 81. Křestní jméno je čtené opatrně: nejspíš Andreas, možné i Wenzel nebo Johann — proto jistota pravděpodobné."
+      ],
+      "interesting": [],
+      "id": "andreas-mayer",
+      "name": "Andreas Mayer",
+      "branch": "meier",
+      "certainty": "pravdepodobne",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "141-4240",
+          "detail": "snímek 14, folio 9, a snímek 25, folio 19"
+        }
+      ]
+    },
+    {
+      "maiden": null,
+      "birth": {
+        "display": "20. 6. 1845",
+        "precision": "exact",
+        "date": "1845-06-20",
+        "place": "Ruprechtice"
+      },
+      "baptism": {
+        "display": "22. 6. 1845",
+        "precision": "exact",
+        "date": "1845-06-22",
+        "place": "Ruprechtice"
+      },
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Ruprechtice č. 93"
+      ],
+      "living": false,
+      "notes": [
+        "Manželský syn Benedikta Mayera, podruha v Ruprechticích č. 93, a Theresie rozené Dauer. Starší bratr Genovefy *8. 8. 1846. Není v přímé linii Štěpána.",
+        "Příjmení v zápisu Mayer (stejně jako u sestry v témže knize)."
+      ],
+      "interesting": [],
+      "id": "benedikt-mayer-1845",
+      "name": "Benedikt Mayer",
+      "branch": "meier",
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "141-4251",
+          "detail": "snímek 61, písmeno M, Ruppersdorf, folio 9"
+        },
+        {
+          "label": "ARON",
+          "signatura": "141-4240",
+          "detail": "snímek 14, folio 9"
+        }
+      ]
     }
   ],
   "unions": [
@@ -4322,15 +4712,36 @@
         {
           "label": "ARON",
           "signatura": "99-8015"
+        },
+        {
+          "label": "ARON",
+          "signatura": "174-8684",
+          "detail": "snímek 25, Lit. R, Wernersdorf, folio 23"
+        },
+        {
+          "label": "ARON",
+          "signatura": "174-4248",
+          "detail": "snímek 27, folio 23, první zápis"
         }
+      ],
+      "married": {
+        "display": "14. 10. 1873",
+        "date": "1873-10-14",
+        "place": "Vernéřovice",
+        "note": "Oddával Gotthard Schuppel, farář. Oddávky v Ruprechticích a Vernéřovicích (28. 9., 5. a 12. 10.). Ženich vdovec, nevěsta svobodná."
+      },
+      "notes": [
+        "Tělo sňatku jmenuje ženicha Ignatz Rosenberger. V zápisech 1902 a 1925 je otec Anny uveden jako Franz. Totožnost páru (dům 177, povolání, manželka Genovefa dcera Benedikta Meiera z č. 93) je velmi silná; křestní jméno se neslučuje potichu."
       ]
     },
     {
       "id": "u-benedikt-meier",
       "partners": [
-        "benedikt-meier"
+        "benedikt-meier",
+        "theresia-dauer"
       ],
       "children": [
+        "benedikt-mayer-1845",
         "genovefa-meier"
       ],
       "certainty": "potvrzeno",
@@ -4338,7 +4749,145 @@
         {
           "label": "ARON",
           "signatura": "174-7364"
+        },
+        {
+          "label": "ARON",
+          "signatura": "174-4248",
+          "detail": "snímek 27, folio 23"
+        },
+        {
+          "label": "ARON",
+          "signatura": "141-4240",
+          "detail": "snímek 14, folio 9, a snímek 25, folio 19"
         }
+      ]
+    },
+    {
+      "id": "u-benedikt-rosenberger-anna",
+      "partners": [
+        "benedikt-rosenberger",
+        "anna-hawel"
+      ],
+      "children": [
+        "franz-rosenberger"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "174-4248",
+          "detail": "snímek 27, folio 23, 14. 10. 1873"
+        }
+      ],
+      "notes": [
+        "Rodiče Ignatze podle těla jeho sňatku 14. 10. 1873. Datum jejich sňatku v této práci ještě není."
+      ]
+    },
+    {
+      "id": "u-anton-hawel",
+      "partners": [
+        "anton-hawel"
+      ],
+      "children": [
+        "anna-hawel"
+      ],
+      "certainty": "pravdepodobne",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "174-4248",
+          "detail": "snímek 27, folio 23, 14. 10. 1873"
+        }
+      ],
+      "notes": [
+        "Manželka Antona v zápisu 1873 není jmenována. Příjmení Hawel je čtené opatrně."
+      ]
+    },
+    {
+      "id": "u-ignatz-barbara-merkel",
+      "partners": [
+        "franz-rosenberger",
+        "barbara-merkel"
+      ],
+      "married": {
+        "display": "14. 11. 1864",
+        "date": "1864-11-14",
+        "note": "Datum z formule vdovství v těle druhého sňatku 14. 10. 1873; tělo tohoto sňatku v této práci ještě není."
+      },
+      "children": [],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "174-4248",
+          "detail": "snímek 27, folio 23, 14. 10. 1873"
+        }
+      ],
+      "notes": [
+        "První manželství Ignatze. Děti z tohoto manželství v této práci ještě nejsou hledány (174-4250 je ve frontě).",
+        "Není v přímé linii Štěpána."
+      ]
+    },
+    {
+      "id": "u-anton-merkel",
+      "partners": [
+        "anton-merkel"
+      ],
+      "children": [
+        "barbara-merkel"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "174-4248",
+          "detail": "snímek 27, folio 23, 14. 10. 1873"
+        }
+      ],
+      "notes": [
+        "Manželka Antona v zápisu 1873 není jmenována. Není v přímé linii Štěpána."
+      ]
+    },
+    {
+      "id": "u-georg-dauer-barbara",
+      "partners": [
+        "georg-dauer",
+        "barbara-pitz"
+      ],
+      "children": [
+        "theresia-dauer"
+      ],
+      "certainty": "pravdepodobne",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "141-4240",
+          "detail": "snímek 14, folio 9, a snímek 25, folio 19"
+        }
+      ],
+      "notes": [
+        "Pár je z formule u matky v tělech 1845 a 1846. Jistota svazku je pravděpodobná kvůli opatrnému čtení rodného příjmení Barbary.",
+        "Oba už nebožtíci k 20. 6. 1845."
+      ]
+    },
+    {
+      "id": "u-andreas-mayer",
+      "partners": [
+        "andreas-mayer"
+      ],
+      "children": [
+        "benedikt-meier"
+      ],
+      "certainty": "pravdepodobne",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "141-4240",
+          "detail": "snímek 14, folio 9, a snímek 25, folio 19"
+        }
+      ],
+      "notes": [
+        "Manželka Andrease v tělech 1845 a 1846 není jmenována. Křestní jméno otce je čtené opatrně."
       ]
     }
   ],
