@@ -87,13 +87,15 @@ python3 -m http.server 8765
 
 ## 5. Znovu nasadit jedním příkazem
 
-Potřebujete `CLOUDFLARE_API_TOKEN` s oprávněním **Cloudflare Pages: Edit** a ideálně `CLOUDFLARE_ACCOUNT_ID`.
+Mapa běží na GitHub Pages, stejným způsobem jako mapa obchodních partnerů (`export-market-map`): veřejný repozitář účtu `Jirmanstepan-afk`, větev `main`, kořen webu. Projekt partnerů se nepřepisuje.
+
+Veřejná URL: https://jirmanstepan-afk.github.io/rodokmen-jirman/
+
+Potřebujete přihlášení `gh` k účtu `Jirmanstepan-afk` (už je na tomto stroji).
 
 ```bash
 cd /workspace/rodokmen/mapa
 ./deploy.sh
 ```
 
-Skript nejdřív spustí validaci a potom `wrangler pages deploy . --project-name=rodokmen-jirman` (wrangler si v případě potřeby nainstaluje do `~/.cache/rodokmen-wrangler`, aby neselhal zápis cache).
-
-Po nasazení zkontrolujte veřejnou URL a to, že u žijících osob stále nejsou adresy ani čísla domů.
+Skript ověří `data/rodokmen.json` a odešle změny na `main`. GitHub Pages se obvykle obnoví do minuty. Po nasazení zkontrolujte URL a to, že u žijících osob stále nejsou adresy ani čísla domů.
