@@ -257,6 +257,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 174-14 (poř.č. 12247), 1752-1814",
    "popis": "římskokatolická matrika ZEMŘELÝCH, obvod Vižňov (Pomeznice, Starostín, Vižňov) 1752-1783, Vižňov (1784-6.1814), Starostín (1784-6.1814), Pomeznice (1784-8.1812), Meziměstí - část Halbstädter Häuser (6.1795-7.1808)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/949f7635-3109-429f-a3f3-4be2c9bb92c1"
+  },
+  "174-12": {
+   "apu": "13df5c47-98f1-4cac-9b25-0e3a9566046a",
+   "dao": "13df5c47-98f1-4cac-9b25-0e3a9566046a",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 174-12 (poř.č. 12236), 1752-1814",
+   "popis": "římskokatolická matrika ODDANÝCH, obvod Vižňov (Pomeznice, Starostín, Vižňov) 1752-11.1783, Vižňov (1784-4.1814), Starostín (1784-3.1813), Pomeznice (1784-11.1811)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/13df5c47-98f1-4cac-9b25-0e3a9566046a"
   }
  },
  "aliasy": {
@@ -596,6 +603,23 @@
    "vyrez": "celá strana",
    "nahled": "img/zdroje/144-8637_s038.jpg",
    "velky": "img/zdroje/144-8637_s038_velky.jpg"
+  },
+  "174-12|31": {
+   "signatura": "174-12",
+   "snimek": 31,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/13df5c47-98f1-4cac-9b25-0e3a9566046a/dao/13df5c47-98f1-4cac-9b25-0e3a9566046a/file/44ec74ff-7598-43e5-a34d-c8c9013052c9",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/174-12_s031.jpg",
+   "velky": "img/zdroje/174-12_s031_velky.jpg"
+  },
+  "174-12|32": {
+   "signatura": "174-12",
+   "snimek": 32,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/13df5c47-98f1-4cac-9b25-0e3a9566046a/dao/13df5c47-98f1-4cac-9b25-0e3a9566046a/file/b1d76e01-ee60-4db1-84da-1692a0e2ff04",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/174-12_s032.jpg",
+   "velky": "img/zdroje/174-12_s032_velky.jpg",
+   "vyrez_soubor": "o174-12-s32-1766-11-04-anton-ringel-anna.jpg"
   },
   "174-14|129": {
    "signatura": "174-14",
