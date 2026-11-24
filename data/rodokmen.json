@@ -3013,9 +3013,9 @@
       "name": "Anton Ringel (Vižňov 58)",
       "maiden": null,
       "birth": {
-        "display": "kolem 1741",
-        "precision": "circa",
-        "note": "Dopočteno z věku 64 let při úmrtí 7. 7. 1805 (174-14, snímek 133)."
+        "display": "6. 3. 1744",
+        "precision": "exact",
+        "note": "Vižňov; pokřtěn 7. 3. 1744 v kostele sv. Michaela (174-6, snímek 333, fol. 491). Věk 64 let při úmrtí 1805 je o 3 roky nadsazený."
       },
       "baptism": null,
       "death": {
@@ -3055,6 +3055,16 @@
           "label": "ARON, úmrtí dcery Rosiny 16. 3. 1804",
           "signatura": "174-14",
           "detail": "snímek 129, 16. 3. 1804, Vižňov č. 58"
+        },
+        {
+          "label": "ARON, křest 7. 3. 1744",
+          "signatura": "174-6",
+          "detail": "snímek 333, fol. 491, 7. 3. 1744, Vižňov"
+        },
+        {
+          "label": "ARON, sňatek 4. 11. 1766",
+          "signatura": "174-12",
+          "detail": "snímek 32, fol. 59, 4. 11. 1766, Vernéřovice (Vižňov)"
         }
       ],
       "notes": [
@@ -3064,7 +3074,80 @@
         "Jiný muž než Anton Ringel z Ruprechtic (zemřel 1. 11. 1793 v č. 33, v letech 1770–1774 ženatý s Marií Knittel(ovou)) — viz q-ringel-totoznost.",
         "174-14, snímek 133: 7. 7. 1805 zemřel ve Vižňově č. 58 Anton Ringel, podruh, 64 let — žil tedy ještě 12 let po smrti ruprechtického Antona (†1. 11. 1793, 75 let) a narodil se kolem 1741, ne kolem 1718.",
         "Další zápisy z č. 58 (174-14): 5. 10. 1796 zemřel Joseph, syn Antona Ringela, 18 let (snímek 115); 16. 3. 1804 zemřela Rosina, dcera Antona Ringela, podruha, 27 let (snímek 129).",
-        "Pravděpodobný sňatek 4. 11. 1766 (174-12, snímek 32): Anton Ringel, svobodný, syn zemřelého Daniela Ringela, × Anna, dcera Johanna Heinricha Dräsena(?), oba z Vižňova — viz q-ringel-viznov-snatek-1766."
+        "Křest 7. 3. 1744 (174-6, snímek 333): Anton, syn Daniela Ringela, sedláka ve Vižňově, a Anny Marie; narozen 6. 3. 1744. Sňatek 4. 11. 1766 (174-12, snímek 32): Anton Ringel, svobodný, syn zemřelého Daniela Ringela, × Anna, dcera Johanna Heinricha Dräsena(?), oba z Vižňova; od 1767 mají Anton a Anna děti ve Vižňově č. 58.",
+        "Proč je to tentýž Anton: Daniel Ringel a Anna Maria měli dva syny Antony — Antona Benedikta *21. 1. 1732, pohřbeného jako dítě 4. 4. 1732 (174-6, snímek 431), a Antona *6. 3. 1744. Daniel zemřel 2. 12. 1754, ženich 1766 je tedy jeho jediný žijící syn Anton. Jiný Anton Ringel s manželkou Annou ve Vižňově 1766–1805 v indexech 174-19 a 174-21 není."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "daniel-ringel-viznov",
+      "name": "Daniel Ringel",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "2. 12. 1754",
+        "precision": "exact",
+        "note": "Vižňov, „Daniel Ringel der Bauer allhier“, náhlá smrt, pohřben 4. 12. 1754 (174-14, snímek 10, fol. 15). Věk neuveden."
+      },
+      "occupation": "Sedlák (Bauer) ve Vižňově (Wiesen).",
+      "places": [
+        "Vižňov (Wiesen)"
+      ],
+      "branch": "rosenberger",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, úmrtí 2. 12. 1754",
+          "signatura": "174-14",
+          "detail": "snímek 10, fol. 15, 2. 12. 1754, Vižňov"
+        },
+        {
+          "label": "ARON, křest 7. 3. 1744",
+          "signatura": "174-6",
+          "detail": "snímek 333, fol. 491, 7. 3. 1744, Vižňov"
+        },
+        {
+          "label": "ARON, sňatek 4. 11. 1766",
+          "signatura": "174-12",
+          "detail": "snímek 32, fol. 59, 4. 11. 1766, Vernéřovice (Vižňov)"
+        },
+        {
+          "label": "ARON, pohřeb 4. 4. 1732",
+          "signatura": "174-6",
+          "detail": "snímek 431, fol. 143, 4. 4. 1732, Vižňov"
+        }
+      ],
+      "notes": [
+        "Manželka Anna Maria; děti podle indexu 174-19 (Lit. R, snímky 52–53) mj. Anton Benedikt *1732 (†1732), A. Maria 1737/1739, A. Barbara 1742, Anton 1744, Georg 1748.",
+        "Ve sňatku syna 1766 „weyl. Daniel Ringels des Obern(?)“ — slovo za jménem čteno nejistě."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "anna-maria-ringel-viznov",
+      "name": "Anna Maria Ringel(ová)",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Vižňov (Wiesen)"
+      ],
+      "branch": "rosenberger",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, křest 7. 3. 1744",
+          "signatura": "174-6",
+          "detail": "snímek 333, fol. 491, 7. 3. 1744, Vižňov"
+        }
+      ],
+      "notes": [
+        "Rodné příjmení v křtu syna 1744 neuvedeno."
       ],
       "interesting": []
     }
@@ -4101,6 +4184,32 @@
       "notes": [
         "Otcovství z formule u matky v rodném zápisu Benedikta 7. 10. 1799 (Vižňov č. 58); dům 58 shodně v indexu 174-19."
       ]
+    },
+    {
+      "id": "u-daniel-ringel-viznov",
+      "partners": [
+        "daniel-ringel-viznov",
+        "anna-maria-ringel-viznov"
+      ],
+      "children": [
+        "anton-ringel-viznov"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, křest 7. 3. 1744",
+          "signatura": "174-6",
+          "detail": "snímek 333, fol. 491, 7. 3. 1744, Vižňov"
+        },
+        {
+          "label": "ARON, sňatek 4. 11. 1766",
+          "signatura": "174-12",
+          "detail": "snímek 32, fol. 59, 4. 11. 1766, Vernéřovice (Vižňov)"
+        }
+      ],
+      "notes": [
+        "Rodiče z křtu 7. 3. 1744; otec potvrzen i ve sňatku syna 4. 11. 1766."
+      ]
     }
   ],
   "identifications": [],
@@ -4607,9 +4716,9 @@
     },
     {
       "id": "q-ringel-viznov-snatek-1766",
-      "title": "Sňatek Antona Ringela a Anny ve Vižňově 4. 11. 1766 — otec Daniel Ringel?",
-      "summary": "174-12, snímek 32 (fol. 59): 4. 11. 1766 oddáni v kostele sv. Michaela ve Vernéřovicích „Anton Ringel ein Junggesell, weyl. Daniel Ringels des Obern(?) hinterl. ehel. Sohn“ a „Jungfrau Anna, Johann Heinrich Dräsens(?) ehel. Tochter, beyde aus Wiesen“. Svědci ženicha: Johann Franz Hoffman, rychtář ve Vižňově, a Tobias Rosenberg, novousedlík tamtéž.",
-      "details": "Sedí na Antona Ringela z Vižňova č. 58 (manželka Anna, děti od 1767, příjmení matky v křtu 1768 čteno Drä…), ale zápis neuvádí věk ani číslo domu, takže otec Daniel Ringel (generace 9) zatím do mapy nejde. Ve Vižňově byl kolem 1800 ještě jiný Anton Ringel (výměnkář, †před 7/1805, vdova Susanna(?) 73 let, č. 95). Nezávisle na tom zápis potvrzuje rozdíl osob: ruprechtický Anton se ženil 1748 jako svobodný a 1750 a 1770 jako vdovec — v roce 1766 nemohl být „Junggesell“. Na téže knize 10. 8. 1766 (snímek 31, fol. 56) je svědkem nevěsty „Anton Ringel, Bauer in Ruppersdorf“. Čtení příjmení nevěsty (Dräsen/Drüsen) a slova „des Obern“ je nejisté. Další krok: úmrtí Daniela Ringela ve Vižňově před 1766 (174-21 index úmrtí do 1784, 174-14) a křest Antona ~1741 v 174-6/174-7.",
+      "title": "Sňatek Antona Ringela a Anny 4. 11. 1766 — vyřešeno (otec Daniel Ringel)",
+      "summary": "Vyřešeno 25. 11. 2026: ženich je Anton *6. 3. 1744, syn Daniela Ringela, sedláka ve Vižňově (†2. 12. 1754), a Anny Marie; zapsán do mapy. 174-12, snímek 32 (fol. 59): 4. 11. 1766 oddáni v kostele sv. Michaela ve Vernéřovicích „Anton Ringel ein Junggesell, weyl. Daniel Ringels des Obern(?) hinterl. ehel. Sohn“ a „Jungfrau Anna, Johann Heinrich Dräsens(?) ehel. Tochter, beyde aus Wiesen“. Svědci ženicha: Johann Franz Hoffman, rychtář ve Vižňově, a Tobias Rosenberg, novousedlík tamtéž.",
+      "details": "Sedí na Antona Ringela z Vižňova č. 58 (manželka Anna, děti od 1767, příjmení matky v křtu 1768 čteno Drä…), ale zápis neuvádí věk ani číslo domu, takže otec Daniel Ringel (generace 9) zatím do mapy nejde. Ve Vižňově byl kolem 1800 ještě jiný Anton Ringel (výměnkář, †před 7/1805, vdova Susanna(?) 73 let, č. 95). Nezávisle na tom zápis potvrzuje rozdíl osob: ruprechtický Anton se ženil 1748 jako svobodný a 1750 a 1770 jako vdovec — v roce 1766 nemohl být „Junggesell“. Na téže knize 10. 8. 1766 (snímek 31, fol. 56) je svědkem nevěsty „Anton Ringel, Bauer in Ruppersdorf“. Čtení příjmení nevěsty (Dräsen/Drüsen) a slova „des Obern“ je nejisté. Další krok: úmrtí Daniela Ringela ve Vižňově před 1766 (174-21 index úmrtí do 1784, 174-14) a křest Antona ~1741 v 174-6/174-7. Doplněk: křest 174-6 snímek 333 (7. 3. 1744); starší bratr Anton Benedikt *1732 pohřben 4. 4. 1732 (174-6 snímek 431); Daniel †2. 12. 1754 (174-14 snímek 10). Zbývá: rodné příjmení Anny (Dräsen/Drüsen?) a narození Daniela (index 174-19 1675–1710).",
       "related_ids": [
         "anton-ringel-viznov",
         "anton-ringel"
@@ -4624,6 +4733,21 @@
           "label": "ARON, sňatek 10. 8. 1766",
           "signatura": "174-12",
           "detail": "snímek 31, fol. 56, 10. 8. 1766"
+        },
+        {
+          "label": "ARON, křest 7. 3. 1744",
+          "signatura": "174-6",
+          "detail": "snímek 333, fol. 491, 7. 3. 1744, Vižňov"
+        },
+        {
+          "label": "ARON, pohřeb 4. 4. 1732",
+          "signatura": "174-6",
+          "detail": "snímek 431, fol. 143, 4. 4. 1732, Vižňov"
+        },
+        {
+          "label": "ARON, úmrtí 2. 12. 1754",
+          "signatura": "174-14",
+          "detail": "snímek 10, fol. 15, 2. 12. 1754, Vižňov"
         }
       ]
     }

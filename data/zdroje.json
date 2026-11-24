@@ -264,6 +264,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 174-12 (poř.č. 12236), 1752-1814",
    "popis": "římskokatolická matrika ODDANÝCH, obvod Vižňov (Pomeznice, Starostín, Vižňov) 1752-11.1783, Vižňov (1784-4.1814), Starostín (1784-3.1813), Pomeznice (1784-11.1811)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/13df5c47-98f1-4cac-9b25-0e3a9566046a"
+  },
+  "174-6": {
+   "apu": "a76dacd8-1968-44b5-a3d7-b4d19f36cebd",
+   "dao": "a76dacd8-1968-44b5-a3d7-b4d19f36cebd",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 174-6 (poř.č. 12223), 1675-1751",
+   "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, obvod Vižňov (Meziměstí - část Halbstädter Häuser, Pomeznice, Starostín, Vižňov)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a76dacd8-1968-44b5-a3d7-b4d19f36cebd"
   }
  },
  "aliasy": {
@@ -621,6 +628,15 @@
    "velky": "img/zdroje/174-12_s032_velky.jpg",
    "vyrez_soubor": "o174-12-s32-1766-11-04-anton-ringel-anna.jpg"
   },
+  "174-14|10": {
+   "signatura": "174-14",
+   "snimek": 10,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/949f7635-3109-429f-a3f3-4be2c9bb92c1/dao/949f7635-3109-429f-a3f3-4be2c9bb92c1/file/2da1f861-bc66-4c8e-8ca2-5dc83d4c780a",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/174-14_s010.jpg",
+   "velky": "img/zdroje/174-14_s010_velky.jpg",
+   "vyrez_soubor": "z174-14-s10-1754-12-02-daniel-ringel.jpg"
+  },
   "174-14|129": {
    "signatura": "174-14",
    "snimek": 129,
@@ -661,6 +677,24 @@
     0.96,
     0.4
    ]
+  },
+  "174-6|333": {
+   "signatura": "174-6",
+   "snimek": 333,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/dao/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/file/53712b45-e7e8-4c8d-a3be-fcabf9a81c0d",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/174-6_s333.jpg",
+   "velky": "img/zdroje/174-6_s333_velky.jpg",
+   "vyrez_soubor": "n174-6-s333-1744-03-07-anton-ringel.jpg"
+  },
+  "174-6|431": {
+   "signatura": "174-6",
+   "snimek": 431,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/dao/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/file/a176df45-29d0-4e64-a8a5-6ee85ccd4623",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/174-6_s431.jpg",
+   "velky": "img/zdroje/174-6_s431_velky.jpg",
+   "vyrez_soubor": "z174-6-s431-1732-04-04-anton-benedikt-ringel.jpg"
   },
   "174-7364|94": {
    "signatura": "174-7364",
