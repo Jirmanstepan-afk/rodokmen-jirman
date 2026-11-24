@@ -1,0 +1,4328 @@
+{
+  "meta": {
+    "title": "Rodokmen rodiny Jirman",
+    "subtitle": "Štěpán Jirman a jeho předkové — podle veřejných matrik a rodinných podkladů",
+    "updated": "2026-11-24",
+    "timezone": "Europe/Helsinki",
+    "sources_files": [
+      "ROD-1.md",
+      "ROD-1-doplneni.md"
+    ],
+    "focus": "stepan-jirman-1997",
+    "privacy": "Stránka je veřejná. U žijících osob nejsou adresy ani čísla domů. Seznam možných žijících příbuzných z veřejných rejstříků není zahrnut. Nic není doplněno z domněnky.",
+    "certainty_levels": {
+      "potvrzeno": {
+        "label": "Potvrzeno zápisem",
+        "short": "Potvrzeno",
+        "description": "Doloženo matričním zápisem (ARON), úředním listem, nebo výslovně potvrzeným rodinným podkladem."
+      },
+      "pravdepodobne": {
+        "label": "Pravděpodobné",
+        "short": "Pravděpodobné",
+        "description": "Silná souhra znaků, ale zbývá výhrada (jméno, číslo domu, chybějící oddací zápis). Neslučovat potichu."
+      },
+      "kandidat": {
+        "label": "Kandidát — nedoloženo",
+        "short": "Nedoloženo",
+        "description": "Možná vazba, která v dostupných zápisech není dokázána. Nejvážnější případ: rodiče Ludvíka *1908."
+      }
+    }
+  },
+  "branches": {
+    "jirman": {
+      "label": "Jirman",
+      "color": "#1f4e5c"
+    },
+    "klimes": {
+      "label": "Klimeš",
+      "color": "#a6532a"
+    },
+    "soumar": {
+      "label": "Soumar",
+      "color": "#b08d2e"
+    },
+    "spacek": {
+      "label": "Špaček",
+      "color": "#c47a3a"
+    },
+    "maroul": {
+      "label": "Maroul",
+      "color": "#2f6b4a"
+    },
+    "maslo": {
+      "label": "Máslo",
+      "color": "#5a7a3a"
+    },
+    "spadt": {
+      "label": "Špadt",
+      "color": "#8b4d6b"
+    },
+    "syrovy": {
+      "label": "Syrový",
+      "color": "#3d5a80"
+    },
+    "muller": {
+      "label": "Müller",
+      "color": "#4a6670"
+    },
+    "tschinkel": {
+      "label": "Tschinkel",
+      "color": "#4d6a8a"
+    },
+    "pross": {
+      "label": "Proß",
+      "color": "#7a3045"
+    },
+    "rosenberger": {
+      "label": "Rosenberger",
+      "color": "#6b4c7a"
+    },
+    "mader": {
+      "label": "Mader",
+      "color": "#7a4a62"
+    },
+    "meier": {
+      "label": "Meier",
+      "color": "#5c4a6b"
+    },
+    "vejrych": {
+      "label": "Vejrých",
+      "color": "#2d6a6a"
+    },
+    "svejdar": {
+      "label": "Švejdar",
+      "color": "#3a6e5c"
+    },
+    "solc": {
+      "label": "Šolc",
+      "color": "#6b4e32"
+    }
+  },
+  "people": [
+    {
+      "id": "stepan-jirman-1997",
+      "name": "Štěpán Jirman",
+      "maiden": null,
+      "birth": {
+        "display": "31. 3. 1997",
+        "precision": "exact",
+        "date": "1997-03-31",
+        "place": "Jilemnice (zápis)",
+        "note": "Žil v Broumově."
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": true,
+      "sources": [
+        {
+          "label": "Podklad uživatele"
+        }
+      ],
+      "notes": [
+        "Zapsáno v Jilemnici; žil v Broumově."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "josef-jirman-1964",
+      "name": "Josef Jirman",
+      "maiden": null,
+      "birth": {
+        "display": "17. 5. 1964",
+        "precision": "exact",
+        "date": "1964-05-17",
+        "place": "Broumov"
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": true,
+      "sources": [
+        {
+          "label": "Podklad uživatele"
+        }
+      ],
+      "notes": [
+        "Otec Štěpána."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "romana-spadtova-1971",
+      "name": "Romana Jirmanová",
+      "maiden": "Špadtová",
+      "birth": {
+        "display": "cca 4. 2. 1971",
+        "precision": "circa",
+        "date": "1971-02-04",
+        "place": "Broumov"
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [],
+      "branch": "spadt",
+      "certainty": "potvrzeno",
+      "living": true,
+      "sources": [
+        {
+          "label": "Podklad uživatele"
+        }
+      ],
+      "notes": [
+        "Datum narození je přibližné (cca). Další předkové větve Špadt v dostupných zápisech nejsou."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "josef-jirman-1936",
+      "name": "Josef Jirman",
+      "maiden": null,
+      "birth": {
+        "display": "19. 3. 1936",
+        "precision": "exact",
+        "date": "1936-03-19",
+        "place": "Machovské Končiny"
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": true,
+      "sources": [
+        {
+          "label": "Rodokmen Klimeš, 2019",
+          "detail": "autor Milan Škoda"
+        }
+      ],
+      "notes": [
+        "Děd Štěpána (otec otce). Narození v ARON ještě není veřejné (100 let uplyne 19. 3. 2036)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "gerda-syrova-1941",
+      "name": "Gerda Syrová",
+      "maiden": null,
+      "birth": {
+        "display": "29. 11. 1941",
+        "precision": "exact",
+        "date": "1941-11-29",
+        "place": "Martínkovice"
+      },
+      "baptism": {
+        "display": "13. 12. 1941",
+        "precision": "exact",
+        "date": "1941-12-13",
+        "place": "Martínkovice",
+        "note": "Kaplan P. Ignac Riedel."
+      },
+      "death": null,
+      "occupation": null,
+      "places": [],
+      "branch": "syrovy",
+      "certainty": "potvrzeno",
+      "living": true,
+      "sources": [
+        {
+          "label": "Rodný a křestní list Gerdy",
+          "detail": "fara Martínkovice, kniha I-E, list 159, poř. č. 27, vystaven 17. 8. 1948"
+        }
+      ],
+      "notes": [
+        "Babička Štěpána. Zápis narození 1941 není v ARON veřejný.",
+        "Kmotři podle listu: Gertrud Proßová, žákyně, Martínkovice; Vlasta Syrová, služebná, Dvůr Králové (rok 1932 v přepisu nejistý). Příbuzenský vztah kmoter z listu nevyplývá."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "ludvik-jirman-1934",
+      "name": "Ludvík Jirman",
+      "maiden": null,
+      "birth": {
+        "display": "20. 6. 1934",
+        "precision": "exact",
+        "date": "1934-06-20",
+        "place": "Machovské Končiny"
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": true,
+      "sources": [
+        {
+          "label": "Rodokmen Klimeš, 2019"
+        }
+      ],
+      "notes": [
+        "Starší bratr děda Josefa *1936. V ARON neověřeno."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "eva-jirmanova-eberhardt",
+      "name": "Eva Eberhardt",
+      "maiden": "Jirmanová",
+      "birth": {
+        "display": "Nízká Srbská",
+        "precision": "unknown",
+        "place": "Nízká Srbská"
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": true,
+      "sources": [
+        {
+          "label": "Rodokmen Klimeš, 2019"
+        }
+      ],
+      "notes": [
+        "Sestra děda Josefa *1936. Datum narození v podkladech není. Bydliště podle rodokmenu: Berlín."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "ludvik-jirman-1908",
+      "name": "Ludvík Jirman",
+      "maiden": null,
+      "birth": {
+        "display": "18. 8. 1908",
+        "precision": "exact",
+        "date": "1908-08-18",
+        "place": "Nízká Srbská č. 67"
+      },
+      "baptism": null,
+      "death": {
+        "display": "?. 4. 1974",
+        "precision": "month",
+        "date": "1974-04",
+        "note": "66 let; den v rodokmenu nečitelný."
+      },
+      "occupation": null,
+      "places": [
+        "Nízká Srbská č. 67 (narození)",
+        "Nízká Srbská č. 97 (bydliště v rodokmenu)"
+      ],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "Rodokmen Klimeš, 2019"
+        }
+      ],
+      "notes": [
+        "Narození v ARON není: kniha N Nízká Srbská po 3. 1905 chybí.",
+        "Sňatek s Blaženou 10. 2. 1934 v Machově v ARON není (machovská kniha oddaných končí 10. 1894).",
+        "Matka děda podle uživatele žila později v Broumově na Kolonii; rodokmen uvádí bydliště páru Nízká Srbská 97. Obojí může platit."
+      ],
+      "interesting": [
+        "Klíčová otevřená otázka: rodiče tohoto Ludvíka nejsou v dostupných matrikách doloženi."
+      ]
+    },
+    {
+      "id": "blazena-klimesova-1911",
+      "name": "Blažena Jirmanová",
+      "maiden": "Klimešová",
+      "birth": {
+        "display": "10. 5. 1911",
+        "precision": "exact",
+        "date": "1911-05-10",
+        "place": "Machovské Končiny č. 75"
+      },
+      "baptism": null,
+      "death": {
+        "display": "15. 11. 2002",
+        "precision": "exact",
+        "date": "2002-11-15",
+        "note": "91 let."
+      },
+      "occupation": null,
+      "places": [
+        "Machovské Končiny č. 75",
+        "Nízká Srbská č. 97 (bydliště v rodokmenu)"
+      ],
+      "branch": "klimes",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "Rodokmen Klimeš, 2019"
+        }
+      ],
+      "notes": [
+        "Narození v ARON není (Machov / Končiny N po 6. 1888 v ARON chybí)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "kveta-jirmanova-1941",
+      "name": "Květa Jirmanová",
+      "maiden": null,
+      "birth": {
+        "display": "5. 5. 1941",
+        "precision": "exact",
+        "date": "1941-05-05",
+        "place": "Nízká Srbská č. 97"
+      },
+      "baptism": null,
+      "death": {
+        "display": "10. 12. 1968",
+        "precision": "exact",
+        "date": "1968-12-10",
+        "note": "27 let."
+      },
+      "occupation": null,
+      "places": [],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "Rodokmen Klimeš, 2019"
+        }
+      ],
+      "notes": [],
+      "interesting": []
+    },
+    {
+      "id": "josef-jirman-1857",
+      "name": "Josef Jirman",
+      "maiden": null,
+      "birth": {
+        "display": "18. 11. 1857",
+        "precision": "exact",
+        "date": "1857-11-18",
+        "place": "Machov č. 65",
+        "note": "Dříve chybně čteno jako 1854; záhlaví strany i tělo sňatku 1901 mají 1857."
+      },
+      "baptism": {
+        "display": "20. 11. 1857",
+        "precision": "exact",
+        "date": "1857-11-20",
+        "note": "Kněz Gotthard Schupplay, coop. Pozdější poznámka: křestní list 26. 3. 1942 č. 698."
+      },
+      "death": null,
+      "occupation": "Záložník u c. k. pěšího pluku č. 18, 6. kompagnie, a tkadlec v Nízké Srbské, bydliště NS č. 30 (1884); chalupník v NS č. 75 (1900–1901).",
+      "places": [
+        "Machov č. 65 (1857)",
+        "Nízká Srbská č. 30 (1884)",
+        "Nízká Srbská č. 75 (1900–1901)"
+      ],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození",
+          "signatura": "96-4",
+          "detail": "snímek 77, folio 74"
+        },
+        {
+          "label": "ARON, sňatek 11. 2. 1901",
+          "signatura": "96-9405",
+          "detail": "snímek 66, folio 62, akt 1",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/ece0dc67-f2b9-4e73-b1f6-515f084754b3"
+        }
+      ],
+      "notes": [
+        "Vazba na Ludvíka *18. 8. 1908 NS č. 67 není dokázána. V roce 1908 by mu bylo 50 let — věkově možný otec, bez rodného zápisu Ludvíka se nepřiřazuje.",
+        "Postranní poznámka u sňatku 1901 mylně uvádí narození 1854; tělo zápisu i matrika 96-4 mají 1857 (stáří 43 3/12)."
+      ],
+      "interesting": [
+        "V roce 1884 ještě tkadlec a záložník v č. 30; v roce 1900 již chalupník v č. 75."
+      ]
+    },
+    {
+      "id": "josefa-vojteska-nemeckova",
+      "name": "Josefa / Vojtěška Němečková",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "17. 10. 1893",
+        "precision": "exact",
+        "date": "1893-10-17",
+        "note": "Datum úmrtí z oddacího zápisu vdovce 11. 2. 1901, kde je jmenována jako Vojtěška roz. Němečková."
+      },
+      "occupation": null,
+      "places": [
+        "Sedmákovice č. 1 (rodiče, 1884)"
+      ],
+      "branch": "jirman",
+      "certainty": "pravdepodobne",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození dcery Františky",
+          "signatura": "96-7319",
+          "detail": "snímek 46, folio 38, rok 1884"
+        },
+        {
+          "label": "ARON, sňatek vdovce",
+          "signatura": "96-9405",
+          "detail": "snímek 66, 11. 2. 1901"
+        }
+      ],
+      "notes": [
+        "V zápisu narození dcery 1884 je manželka Josefa zapsána jako Josefa, legitimovaná dcera Antonína Němečka, zahradníka v Sedmákovicích č. 1.",
+        "V oddacím zápisu 1901 je Josef vdovec po Vojtěšce roz. Němečkové († 17. 10. 1893).",
+        "Jde velmi pravděpodobně o tutéž ženu, ale rozdíl v křestním jménu se ponechává; sloučit natvrdo až po zápisu sňatku nebo dalším dítěti.",
+        "Sňatek s Josefem v machovských a nízko-srbských knihách není; protože nevěsta je ze Sedmákovic, sňatek patří hledat ve faře Hronov, typicky před 1. 12. 1884."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "frantiska-nemeckova-1864",
+      "name": "Františka Němečková",
+      "maiden": null,
+      "birth": {
+        "display": "24. 6. 1864, nebo 24. 1. 1864",
+        "precision": "conflict",
+        "place": "Žabokrky č. 6",
+        "note": "Oddací zápis 11. 2. 1901: 24. 6. 1864. Zápis dcery Josefy *1900: 24. 1. 1864. Rozdíl se ponechává."
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": "V roce 1901 vdova (před sňatkem s Josefem Jirmanem).",
+      "places": [
+        "Žabokrky č. 6 (narození)",
+        "Žabokrky č. 11 (otec v zápisu 1900)"
+      ],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 11. 2. 1901",
+          "signatura": "96-9405",
+          "detail": "snímek 66"
+        },
+        {
+          "label": "ARON, narození dcery Josefy",
+          "signatura": "96-7319",
+          "detail": "snímek 133"
+        }
+      ],
+      "notes": [
+        "Dvě různá data narození ve dvou zápisech (24. 6. vs 24. 1. 1864) se neslučují potichu.",
+        "Dům otce: Žabokrky č. 6 (1901) a č. 11 (1900) — uvést obě čísla."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "frantiska-jirmanova-1884",
+      "name": "Františka Jirmanová",
+      "maiden": null,
+      "birth": {
+        "display": "1. 12. 1884",
+        "precision": "exact",
+        "date": "1884-12-01",
+        "place": "Nízká Srbská č. 30"
+      },
+      "baptism": {
+        "display": "3. 12. 1884",
+        "precision": "exact",
+        "date": "1884-12-03",
+        "note": "Kněz P. Cyrill Kräcmer, kooperátor."
+      },
+      "death": {
+        "display": "24. 12. 1885",
+        "precision": "exact",
+        "date": "1885-12-24"
+      },
+      "occupation": null,
+      "places": [],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-7319",
+          "detail": "snímek 46, folio 38",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/335ade0a-eccc-4c8a-a917-becf12f1d6fe"
+        }
+      ],
+      "notes": [
+        "Manželská dcera Josefa Jirmana a Josefy roz. Němečkové ze Sedmákovic. Zemřela ve 13 měsících."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "josefa-jirmanova-1900",
+      "name": "Josefa Jirmanová",
+      "maiden": null,
+      "birth": {
+        "display": "10. 10. 1900",
+        "precision": "exact",
+        "date": "1900-10-10",
+        "place": "Nízká Srbská č. 75"
+      },
+      "baptism": {
+        "display": "13. 10. 1900",
+        "precision": "exact",
+        "date": "1900-10-13",
+        "note": "Kněz P. Methoděj Laudín, administrátor."
+      },
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Nízká Srbská č. 75"
+      ],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-7319",
+          "detail": "snímek 133, folio 124, zápis č. 17"
+        }
+      ],
+      "notes": [
+        "Původně nemanželská; legitimována sňatkem rodičů 11. 2. 1901.",
+        "Poznámka čtená jako přestup k Církvi československé (husitské) 12. 8. 1922, čj. 25.369. Výpis „Ke č. l. 6/6 1932 č. 147“ — není datum úmrtí ani sňatek."
+      ],
+      "interesting": [
+        "Legitimována den sňatku rodičů 11. 2. 1901.",
+        "Přestup k CČS 12. 8. 1922."
+      ]
+    },
+    {
+      "id": "jan-jirmann-1825",
+      "name": "Jan Jirmann",
+      "maiden": null,
+      "birth": {
+        "display": "25. 3. 1825",
+        "precision": "exact",
+        "date": "1825-03-25",
+        "place": "Machov",
+        "note": "Číslo domu v zápisu 1825 čteno jako 66; v letech 1851 a 1857 je uváděn u Machova č. 65, otec u č. 68. Čísla 66 a 68 se neslučují potichu."
+      },
+      "baptism": {
+        "display": "25. 3. 1825",
+        "precision": "exact",
+        "date": "1825-03-25",
+        "note": "V zápisu jedno datum; kněz Franz Brand, curatus."
+      },
+      "death": null,
+      "occupation": "Häusler (chalupník), Machov č. 66 (1825); chalupník, Machov č. 65 (1851, 1857); chalupník, Nízká Srbská č. 5 (1884); výměnkář, Nízká Srbská č. 5 (1901).",
+      "places": [
+        "Machov č. 66 (1825, čtení čísla)",
+        "Machov č. 65 (1851, 1857)",
+        "Nízká Srbská č. 5 (1884, 1901)"
+      ],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození",
+          "signatura": "96-3",
+          "detail": "snímek 94, N. II. Geburtsbuch"
+        },
+        {
+          "label": "ARON, sňatek 18. 2. 1851",
+          "signatura": "130-4326",
+          "detail": "snímek 15, folio 11",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/5878cbf2-4eb0-408c-b6b9-906da63ad6e6"
+        }
+      ],
+      "notes": [
+        "Identifikace s ženichovým Janem z 18. 2. 1851: otec Johann Jirmann chalupník, matka Anna dcera †Johanna Šolce z Lhoty č. 1, stáří 25 let přesně sedí, Trauschein 24. 1. 1851 časově sedí k ohláškám.",
+        "Údaj „tkadlec“ z dřívějšího opisu se při novém čtení nepotvrdil."
+      ],
+      "interesting": [
+        "Den 24. 1. 1851 mu byl vydán oddací list (Trauschein), dva dny před první ohláškou s Františkou."
+      ]
+    },
+    {
+      "id": "frantiska-vejrychova",
+      "name": "Františka Vejrýchová",
+      "maiden": "Vejrýchová",
+      "birth": {
+        "display": "cca 1827/28",
+        "precision": "circa",
+        "note": "23 let k 18. 2. 1851. Vlastní zápis narození v očekávaném okně u Bezděkova č. 67 zatím nenalezen."
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Bezděkov č. 67 (rodiče, 1851 a 1857)"
+      ],
+      "branch": "vejrych",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 18. 2. 1851",
+          "signatura": "130-4326",
+          "detail": "snímek 15"
+        }
+      ],
+      "notes": [
+        "Dcera Josefa Vejrýcha, mistra obuvi a chalupníka v Bezděkově č. 67, a Josefy roz. Švejdarové."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "jan-jirmann-st",
+      "name": "Jan Jirmann",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 18. 2. 1851",
+        "precision": "range",
+        "note": "Naživu 25. 3. 1825; nebožtík k 18. 2. 1851."
+      },
+      "occupation": "Chalupník (Häusler), Machov č. 68 (1851, 1857).",
+      "places": [
+        "Machov č. 68 (1851/1857)",
+        "Machov č. 66 — dům v zápisu narození syna 1825, neslučovat potichu s č. 68"
+      ],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-3",
+          "detail": "snímek 94"
+        },
+        {
+          "label": "ARON",
+          "signatura": "130-4326",
+          "detail": "snímek 15"
+        }
+      ],
+      "notes": [],
+      "interesting": []
+    },
+    {
+      "id": "anna-solcova",
+      "name": "Anna Šolcová",
+      "maiden": "Šolcová",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Lhota (v zápisu 1825 bez přívlastku)",
+        "Lhota Náchodská č. 1 (1851, 1857)"
+      ],
+      "branch": "solc",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-3",
+          "detail": "snímek 94"
+        },
+        {
+          "label": "ARON",
+          "signatura": "96-4"
+        },
+        {
+          "label": "ARON",
+          "signatura": "130-4326"
+        }
+      ],
+      "notes": [
+        "Dcera †Johanna Scholze / Šolce, chalupníka z Lhoty č. 1. Matka Anny v zápisu 1825 není jmenována.",
+        "Dřívější čtení „Anna roz. Vejrých“ bylo omyl; Vejrých patří otci nevěsty Františky.",
+        "„Lhota“ v roce 1825 je bez přívlastku „Náchodská“; dnešní obec zatím neztotožňovat."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "johann-scholz",
+      "name": "Johann Šolc",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 25. 3. 1825",
+        "precision": "range"
+      },
+      "occupation": "Chalupník (Häusler), Lhota č. 1.",
+      "places": [
+        "Lhota č. 1"
+      ],
+      "branch": "solc",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-3",
+          "detail": "snímek 94"
+        }
+      ],
+      "notes": [
+        "Už nebožtík k narození vnuka Jana 25. 3. 1825. Manželka (matka Anny) v zápisu není."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "josef-vejrych",
+      "name": "Josef Vejrých",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Mistr obuvi a chalupník, Bezděkov č. 67 (1851); chalupník, Bezděkov č. 67 (1857) / č. 62 (1901).",
+      "places": [
+        "Bezděkov č. 67 (1851, 1857)",
+        "Bezděkov č. 62 (v oddacím zápisu vnuka 1901)"
+      ],
+      "branch": "vejrych",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "130-4326"
+        },
+        {
+          "label": "ARON",
+          "signatura": "96-4"
+        },
+        {
+          "label": "ARON",
+          "signatura": "96-9405"
+        }
+      ],
+      "notes": [
+        "Čísla domu 67 a 62 uvést obě, neslučovat potichu. Dne 18. 2. 1851 byl naživu: svolil ke sňatku dcery a vlastnoručně se podepsal."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "josefa-svejdrova-vejrychova",
+      "name": "Josefa Švejdarová",
+      "maiden": "Švejdarová",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Bezděkov č. 67"
+      ],
+      "branch": "svejdar",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "130-4326"
+        },
+        {
+          "label": "ARON",
+          "signatura": "96-4"
+        }
+      ],
+      "notes": [],
+      "interesting": []
+    },
+    {
+      "id": "antonin-nemecek-sedmakovice",
+      "name": "Antonín Němeček",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Zahradník, Sedmákovice č. 1 (1884).",
+      "places": [
+        "Sedmákovice č. 1"
+      ],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-7319",
+          "detail": "snímek 46"
+        }
+      ],
+      "notes": [],
+      "interesting": []
+    },
+    {
+      "id": "frantiska-herzigova",
+      "name": "Františka Němečková",
+      "maiden": "Herzigová",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Stroužné č. 13, hrabství Kladské (otec)"
+      ],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-7319",
+          "detail": "snímek 46"
+        }
+      ],
+      "notes": [
+        "Dcera Jakuba Herziga, rolníka ve Stroužném č. 13, v hrabství Kladském v pruském Slezsku."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "jakub-herzig",
+      "name": "Jakub Herzig",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Rolník, Stroužné č. 13, hrabství Kladské, pruské Slezsko (1884).",
+      "places": [
+        "Stroužné č. 13, hrabství Kladské"
+      ],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-7319",
+          "detail": "snímek 46"
+        }
+      ],
+      "notes": [],
+      "interesting": []
+    },
+    {
+      "id": "vaclav-nemecek-zabokrky",
+      "name": "Václav Němeček",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 11. 2. 1901",
+        "precision": "range",
+        "note": "V oddacím zápisu dcery už nebožtík."
+      },
+      "occupation": "Podruh, Žabokrky č. 6 (1901) / č. 11 (1900).",
+      "places": [
+        "Žabokrky č. 6",
+        "Žabokrky č. 11"
+      ],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-9405"
+        },
+        {
+          "label": "ARON",
+          "signatura": "96-7319",
+          "detail": "snímek 133"
+        }
+      ],
+      "notes": [
+        "Obě čísla domu ponechat."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "vilemina-bohacova",
+      "name": "Vilemína Němečková",
+      "maiden": "Boháčová / Bohadlová",
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 11. 2. 1901",
+        "precision": "range"
+      },
+      "occupation": null,
+      "places": [
+        "Žďárky (otec)"
+      ],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-9405"
+        },
+        {
+          "label": "ARON",
+          "signatura": "96-7319",
+          "detail": "snímek 133"
+        }
+      ],
+      "notes": [
+        "Dcera Josefa, příjmení čteno jako Boháč (1901) nebo Bohadlo (1900) — neuzamčeno."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "josef-bohac",
+      "name": "Josef Boháč / Bohadlo",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Podruh, Žďárky č. 1 (1901).",
+      "places": [
+        "Žďárky č. 1"
+      ],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-9405"
+        }
+      ],
+      "notes": [
+        "Příjmení v zápisu dcery Josefy 1900 čteno jako Bohadlo, v sňatku 1901 jako Boháč — neuzamčeno."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "frantisek-klimes-1878",
+      "name": "František Klimeš",
+      "maiden": null,
+      "birth": {
+        "display": "16. 11. 1878",
+        "precision": "exact",
+        "date": "1878-11-16",
+        "place": "Závrchy č. 2"
+      },
+      "baptism": {
+        "display": "16. 11. 1878",
+        "precision": "exact",
+        "date": "1878-11-16",
+        "note": "Kněz Václav Tříska, kooperátor."
+      },
+      "death": {
+        "display": "1938",
+        "precision": "year",
+        "date": "1938",
+        "note": "Rok úmrtí zatím jen z rodokmenu."
+      },
+      "occupation": "V křestním zápisu povolání dítěte není. V rodokmenu truhlář — v matrice neověřeno.",
+      "places": [
+        "Závrchy č. 2 (narození)",
+        "Machovské Končiny č. 75 (bydliště v rodokmenu)"
+      ],
+      "branch": "klimes",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození",
+          "signatura": "53-7386",
+          "detail": "snímek 12, folio 10",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1ede3535-7141-4908-9726-0c165fb6c183"
+        },
+        {
+          "label": "Rodokmen Klimeš, 2019",
+          "detail": "úmrtí 1938 a povolání truhlář — jen rodokmen"
+        }
+      ],
+      "notes": [
+        "Původně nemanželský; legitimován sňatkem rodičů 11. 5. 1880 (53-9391, fol. 6).",
+        "Identifikace s otcem Blaženy: souhra Závrch č. 2, Machov č. 75, matka dcera †Jana Soumara, křestní list 5. 10. 1904 a život do vystoupení z církve 1930. Sňatek s Františkou Maroulovou v ARON stále není.",
+        "Poznámky u zápisu: křestní list 5. 10. 1904; vystoupení z katolické církve do CČS, zapsáno v Broumově 6/1930, č. 15229."
+      ],
+      "interesting": [
+        "Legitimován sňatkem rodičů 11. 5. 1880.",
+        "Vystoupení z katolické církve do CČS, 1930."
+      ]
+    },
+    {
+      "id": "frantiska-maroulova-1878",
+      "name": "Františka Klimešová",
+      "maiden": "Maroulová",
+      "birth": {
+        "display": "30. 8. 1878",
+        "precision": "exact",
+        "date": "1878-08-30",
+        "place": "Nízká Srbská č. 54"
+      },
+      "baptism": {
+        "display": "1. 9. 1878",
+        "precision": "exact",
+        "date": "1878-09-01",
+        "note": "Farář Viktor Munich."
+      },
+      "death": {
+        "display": "1963",
+        "precision": "year",
+        "date": "1963",
+        "note": "85 let, podle rodokmenu."
+      },
+      "occupation": null,
+      "places": [
+        "Nízká Srbská č. 54"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození",
+          "signatura": "96-7319",
+          "detail": "snímek 12"
+        },
+        {
+          "label": "Rodokmen Klimeš, 2019",
+          "detail": "úmrtí 1963"
+        }
+      ],
+      "notes": [
+        "Pozdější poznámky (čtení částečné): biřmování 1893 (č. 31/93); zmínka o občanském listu v Broumově (1920?); „odd. list – 27. 4. 1938 č. 796/38“ — vydání oddacího listu v roce úmrtí manžela, nikoli datum sňatku.",
+        "Sňatek s Františkem Klimešem v ARON není (machovská kniha po 10. 1894)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "ruzena-klimesova-1905",
+      "name": "Růžena Hartmanová",
+      "maiden": "Klimešová",
+      "birth": {
+        "display": "28. 9. 1905",
+        "precision": "exact",
+        "date": "1905-09-28",
+        "place": "Machovské Končiny č. 75"
+      },
+      "baptism": null,
+      "death": {
+        "display": "6. 3. 1971",
+        "precision": "exact",
+        "date": "1971-03-06"
+      },
+      "occupation": null,
+      "places": [],
+      "branch": "klimes",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "Rodokmen Klimeš, 2019"
+        }
+      ],
+      "notes": [
+        "Narození v ARON není (Machov N po 6. 1888 chybí). Sestra Blaženy a Jiřiny."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "jirina-klimesova-1913",
+      "name": "Jiřina Fabiánová",
+      "maiden": "Klimešová",
+      "birth": {
+        "display": "1913",
+        "precision": "year",
+        "date": "1913",
+        "place": "Machovské Končiny č. 75"
+      },
+      "baptism": null,
+      "death": {
+        "display": "3. 2. 1994",
+        "precision": "exact",
+        "date": "1994-02-03",
+        "note": "81 let; pohřbena v Červeném Kostelci."
+      },
+      "occupation": null,
+      "places": [
+        "Machovské Končiny č. 75",
+        "Červený Kostelec (bydliště v rodokmenu)"
+      ],
+      "branch": "klimes",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "Rodokmen Klimeš, 2019"
+        }
+      ],
+      "notes": [],
+      "interesting": []
+    },
+    {
+      "id": "anna-klimesova-1890",
+      "name": "Anna Máslová",
+      "maiden": "Klimešová",
+      "birth": {
+        "display": "22. 5. 1890",
+        "precision": "exact",
+        "date": "1890-05-22",
+        "place": "Machovské Končiny č. 75"
+      },
+      "baptism": null,
+      "death": {
+        "display": "20. 2. 1928",
+        "precision": "exact",
+        "date": "1928-02-20",
+        "note": "Pohřbena v Martínkovicích u kostela."
+      },
+      "occupation": null,
+      "places": [],
+      "branch": "klimes",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "Rodokmen Klimeš, 2019"
+        }
+      ],
+      "notes": [
+        "Sestra Františka Klimeše *1878. Sňatek s Augustinem Máslem 19. 10. 1909 v Machově — v ARON není."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "ruzena-klimesova-balcarova",
+      "name": "Růžena Balcarová",
+      "maiden": "Klimešová",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Machovské Končiny č. 75 / Zlíčko (rodokmen)"
+      ],
+      "branch": "klimes",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "Rodokmen Klimeš, 2019"
+        }
+      ],
+      "notes": [
+        "Sestra Františka *1878. Datum narození v podkladech není. Manžel Jaroslav Balcar."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "jaroslav-balcar",
+      "name": "Jaroslav Balcar",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [],
+      "branch": "klimes",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "Rodokmen Klimeš, 2019"
+        }
+      ],
+      "notes": [
+        "Manžel Růženy Balcarové roz. Klimešové. Další údaje v podkladech nejsou."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "augustin-maslo-1882",
+      "name": "Augustin Máslo",
+      "maiden": null,
+      "birth": {
+        "display": "14. 11. 1882",
+        "precision": "exact",
+        "date": "1882-11-14",
+        "place": "Horní Radechová č. 75"
+      },
+      "baptism": null,
+      "death": {
+        "display": "3. 3. 1967",
+        "precision": "exact",
+        "date": "1967-03-03",
+        "note": "Pohřben v Martínkovicích."
+      },
+      "occupation": "Tkadlec (jen rodokmen 2019, v matrice v tomto bádání neověřeno).",
+      "places": [
+        "Horní Radechová č. 75",
+        "Slavíkov 26",
+        "Otovice 129"
+      ],
+      "branch": "maslo",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "Rodokmen Klimeš, 2019"
+        }
+      ],
+      "notes": [
+        "Sňatek s Annou Klimešovou 19. 10. 1909 v Machově v ARON není. Příbuznost s větví Jana Másla z Nízké Srbské z dostupných zápisů ještě nevyplývá."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "frantisek-hartman-1902",
+      "name": "František Hartman",
+      "maiden": null,
+      "birth": {
+        "display": "11. 5. 1902",
+        "precision": "exact",
+        "date": "1902-05-11",
+        "place": "Bezděkov č. 73"
+      },
+      "baptism": null,
+      "death": {
+        "display": "1981, nebo 1983?",
+        "precision": "uncertain",
+        "note": "V rodokmenu † 1981, rukou „1983?“ a „hrob 449“."
+      },
+      "occupation": null,
+      "places": [
+        "Bezděkov č. 73"
+      ],
+      "branch": "klimes",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "Rodokmen Klimeš, 2019"
+        }
+      ],
+      "notes": [
+        "Sňatek Františka Hartmana v 96-9405, snímek 76 (1905), Bezděkov č. 73, je starší generace téhož domu — neztotožňovat s tímto mužem *1902."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "josef-hartman-1930",
+      "name": "Josef Hartman",
+      "maiden": null,
+      "birth": {
+        "display": "7. 7. 1930",
+        "precision": "exact",
+        "date": "1930-07-07",
+        "place": "Bezděkov č. 73"
+      },
+      "baptism": null,
+      "death": {
+        "display": "únor 1951",
+        "precision": "month",
+        "date": "1951-02"
+      },
+      "occupation": null,
+      "places": [],
+      "branch": "klimes",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "Rodokmen Klimeš, 2019"
+        }
+      ],
+      "notes": [],
+      "interesting": []
+    },
+    {
+      "id": "vera-hartmanova-1932",
+      "name": "Věra Heinzlová",
+      "maiden": "Hartmanová",
+      "birth": {
+        "display": "5. 6. 1932",
+        "precision": "exact",
+        "date": "1932-06-05",
+        "place": "Bezděkov č. 73"
+      },
+      "baptism": null,
+      "death": {
+        "display": "2018",
+        "precision": "year",
+        "date": "2018",
+        "note": "Rukou v rodokmenu † 2018."
+      },
+      "occupation": null,
+      "places": [
+        "Bezděkov č. 73",
+        "Suchý Důl č. 48 (bydliště v rodokmenu)"
+      ],
+      "branch": "klimes",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "Rodokmen Klimeš, 2019"
+        }
+      ],
+      "notes": [],
+      "interesting": []
+    },
+    {
+      "id": "frantisek-klimes-1857",
+      "name": "František Klimeš",
+      "maiden": null,
+      "birth": {
+        "display": "14. 8. 1857",
+        "precision": "exact",
+        "date": "1857-08-14",
+        "place": "Vysoká Srbská č. 9",
+        "note": "Oddací zápis 1880 uvádí paroxenu 18. 8. 1857. Rozdíl se ponechává jako pravděpodobné písařské ujetí; totožnost drží souhra rodičů a místo."
+      },
+      "baptism": {
+        "display": "15. 8. 1857",
+        "precision": "exact",
+        "date": "1857-08-15",
+        "note": "Kněz P. Johann Stiftner, kooperátor."
+      },
+      "death": null,
+      "occupation": "Tkadlec a gruntovní chalupník, Machov č. 75 (1878, 1880).",
+      "places": [
+        "Vysoká Srbská č. 9 (1857)",
+        "Machov č. 75 (1878, 1880)"
+      ],
+      "branch": "klimes",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození",
+          "signatura": "53-20",
+          "detail": "snímek 179, folio 196",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/5f9cac13-2769-47d2-83a8-0b14917d5073"
+        },
+        {
+          "label": "ARON, sňatek 11. 5. 1880",
+          "signatura": "53-9391",
+          "detail": "snímek 10, folio 6",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/f5b0c858-0269-4be2-89f2-89448a10a34a"
+        }
+      ],
+      "notes": [
+        "Toto je otec Františka *16. 11. 1878, ne on sám. Sňatek 11. 5. 1880 je s Anežkou Soumarovou.",
+        "K 11. 5. 1880 stáří od 14. 8. 1857 je 22 let a 8 měsíců (v matrice zapsáno 23). Otec dal souhlas, protože plnoletost byla 24 let."
+      ],
+      "interesting": [
+        "Nezaměňovat s synem Františkem *16. 11. 1878, otcem Blaženy."
+      ]
+    },
+    {
+      "id": "anezka-soumarova-1857",
+      "name": "Anežka Soumarová",
+      "maiden": "Soumarová",
+      "birth": {
+        "display": "1. 2. 1857",
+        "precision": "exact",
+        "date": "1857-02-01",
+        "place": "Závrchy č. 2"
+      },
+      "baptism": {
+        "display": "2. 2. 1857",
+        "precision": "exact",
+        "date": "1857-02-02",
+        "note": "Jméno Agnes (Aneška). Kněz P. Johann Stiftner, kooperátor."
+      },
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Závrchy č. 2"
+      ],
+      "branch": "soumar",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození",
+          "signatura": "53-4158",
+          "detail": "snímek 25, folio 22",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/66580679-0851-4d32-a766-12f4b01b024c"
+        },
+        {
+          "label": "ARON, sňatek 11. 5. 1880",
+          "signatura": "53-9391",
+          "detail": "snímek 10"
+        }
+      ],
+      "notes": [
+        "Nezletilá byla za zletilou prohlášena c. k. okresním soudem v Polici 2. 5. 1880, č. 3715 civ.",
+        "Oddací list (Trau-Cert.) vydán 22. 4. 1880, č. 122."
+      ],
+      "interesting": [
+        "Soudní prohlášení zletilosti 2. 5. 1880, protože v Předlitavsku byla plnoletost 24 let."
+      ]
+    },
+    {
+      "id": "jan-klimes-vymenkar",
+      "name": "Jan Klimeš",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Chalupník (Häusler) ve Vysoké Srbské (1857); výměnkář, Machov č. 75 (1878, 1880).",
+      "places": [
+        "Vysoká Srbská (1857)",
+        "Machov č. 75 (1878, 1880)"
+      ],
+      "branch": "klimes",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "53-20"
+        },
+        {
+          "label": "ARON",
+          "signatura": "53-7386"
+        },
+        {
+          "label": "ARON",
+          "signatura": "53-9391"
+        }
+      ],
+      "notes": [
+        "Dne 11. 5. 1880 dal souhlas k sňatku nezletilého syna a vlastnoručně se podepsal."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "anna-spackova",
+      "name": "Anna Klimešová",
+      "maiden": "Špačková",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Vysoká Srbská č. 29 (rodiče)"
+      ],
+      "branch": "spacek",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "53-20"
+        },
+        {
+          "label": "ARON",
+          "signatura": "53-9391"
+        }
+      ],
+      "notes": [],
+      "interesting": []
+    },
+    {
+      "id": "frantisek-klimes-tesar",
+      "name": "František Klimeš",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Tesař (Zimmermann), Zlíčko č. 31 (1857).",
+      "places": [
+        "Zlíčko č. 31"
+      ],
+      "branch": "klimes",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "53-20",
+          "detail": "snímek 179"
+        }
+      ],
+      "notes": [],
+      "interesting": []
+    },
+    {
+      "id": "katerina-ruzickova",
+      "name": "Kateřina Klimešová",
+      "maiden": "Růžičková",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Vysoká Srbská č. 27"
+      ],
+      "branch": "klimes",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "53-20",
+          "detail": "snímek 179"
+        }
+      ],
+      "notes": [
+        "Čtení příjmení opatrné: Růžička / Ritschka."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "frantisek-spacek",
+      "name": "František Špaček",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 14. 8. 1857",
+        "precision": "range",
+        "note": "V zápisu narození vnuka 1857 už nebožtík. V oddacím zápisu 1880 uveden jako podruh VS 29."
+      },
+      "occupation": "Tesař, Vysoká Srbská č. 29 (1857); podruh, Vysoká Srbská č. 29 (1880).",
+      "places": [
+        "Vysoká Srbská č. 29"
+      ],
+      "branch": "spacek",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "53-20"
+        },
+        {
+          "label": "ARON",
+          "signatura": "53-9391"
+        }
+      ],
+      "notes": [],
+      "interesting": []
+    },
+    {
+      "id": "dorota-justova",
+      "name": "Dorota Špačková",
+      "maiden": "Justová / Jůstová",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Martinec / Martínce č. 39, okres Náchod"
+      ],
+      "branch": "spacek",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "53-20",
+          "detail": "snímek 179"
+        }
+      ],
+      "notes": [
+        "Čtení příjmení opatrné (Justová / Jůstová). Místo čtené jako Martinec / Martínce č. 39."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "jan-soumar",
+      "name": "Jan Soumar",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 16. 11. 1878",
+        "precision": "range",
+        "note": "K narození vnuka Františka i k sňatku 1880 už nebožtík."
+      },
+      "occupation": "Chalupník (Häusler), Závrchy č. 2 (1857); gruntovní chalupník, Závrchy č. 2 (1878, už nebožtík).",
+      "places": [
+        "Závrchy č. 2"
+      ],
+      "branch": "soumar",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "53-4158"
+        },
+        {
+          "label": "ARON",
+          "signatura": "53-7386"
+        },
+        {
+          "label": "ARON",
+          "signatura": "53-9391"
+        }
+      ],
+      "notes": [],
+      "interesting": []
+    },
+    {
+      "id": "anna-svejdarova-soumar",
+      "name": "Anna Soumarová",
+      "maiden": "Švejdarová",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Malé Petrovice č. 4 (matka)",
+        "Závrchy č. 2 (sňatek, děti)"
+      ],
+      "branch": "svejdar",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "53-4158",
+          "detail": "snímek 25"
+        },
+        {
+          "label": "ARON",
+          "signatura": "53-9391"
+        }
+      ],
+      "notes": [
+        "Nemanželská dcera Františky Švejdarové, selské dcery z Malých Petrovic č. 4. Otec Anny není v zápisech 1857 ani 1880 jmenován."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "josef-soumar",
+      "name": "Josef Soumar",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Gruntovní chalupník (Grundhäusler), Závrchy č. 1 (1857).",
+      "places": [
+        "Závrchy č. 1"
+      ],
+      "branch": "soumar",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "53-4158",
+          "detail": "snímek 25"
+        }
+      ],
+      "notes": [],
+      "interesting": []
+    },
+    {
+      "id": "marie-uhl",
+      "name": "Marie Soumarová",
+      "maiden": "Uhl",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "obec čtená jako Deutsch-[Schönberg?] č. 88, hrabství Kladské"
+      ],
+      "branch": "soumar",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "53-4158",
+          "detail": "snímek 25"
+        }
+      ],
+      "notes": [
+        "Přesný tvar pruské obce není uzamčen."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "frantiska-svejdarova-petrovice",
+      "name": "Františka Švejdarová",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Selská dcera (Bauern-Tochter), Malé Petrovice č. 4.",
+      "places": [
+        "Malé Petrovice č. 4"
+      ],
+      "branch": "svejdar",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "53-4158"
+        },
+        {
+          "label": "ARON",
+          "signatura": "53-9391"
+        }
+      ],
+      "notes": [
+        "Matka Anny Soumarové; otec Anny není jmenován."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "josef-maroul-otec-1878",
+      "name": "Josef Maroul",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Chalupník v Nízké Srbské č. 54 (1878).",
+      "places": [
+        "Nízká Srbská č. 54"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození dcery Františky",
+          "signatura": "96-7319",
+          "detail": "snímek 12"
+        }
+      ],
+      "notes": [
+        "Manželský syn Jana Maroula, chalupníka v NS č. 54, a Anny, dcery Jana Másla, výměnkáře v NS č. 39.",
+        "Neslučovat s Josefem Maroulem *1. 10. 1850 z NS č. 71, který se 27. 10. 1874 oženil s Františkou Hrubou. Nevěsta tohoto páru je Skuhrová, dům 54 — ne Hrubá a ne dům 71. Nové manželství se nevymýšlí.",
+        "Vlastní zápis narození a sňatek se Skuhrovou v prohlédnutých online oddacích knihách Machova (96-4228, 1865–1878) a Police/Ledhují (130-7420 / 130-7417) nenalezen."
+      ],
+      "interesting": [
+        "Není totožný s Josefem *1. 10. 1850 (NS 71 × Hrubá, 1874)."
+      ]
+    },
+    {
+      "id": "frantiska-skuhrova",
+      "name": "Františka Maroulová",
+      "maiden": "Skuhrová",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Ledhuje č. 53 (rodiče; Malá nebo Velká Ledhuje, dosud nerozlišeno)"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-7319",
+          "detail": "snímek 12"
+        }
+      ],
+      "notes": [
+        "Dcera Jana Skuhry (čtení příjmení ověřit), podruha v Ledhuji č. 53, a Františky, dcery Františka Ventra, výměnkáře v témže místě.",
+        "Neslučovat s Františkou Hrubou z Ledhují č. 52 (sňatek 27. 10. 1874)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "jan-maroul-ns54",
+      "name": "Jan Maroul",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Chalupník, Nízká Srbská č. 54 (1878).",
+      "places": [
+        "Nízká Srbská č. 54"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-7319",
+          "detail": "snímek 12"
+        }
+      ],
+      "notes": [
+        "Otec Josefa, otce Františky *1878. Velmi pravděpodobně týž muž jako Jan Maroul, podruh/chalupník z NS č. 71 (1846, 1850, 1874) — viz přerušované ztotožnění. Dům 54 a dům 71 se neslučují potichu."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "anna-maslo-ns54",
+      "name": "Anna Maroulová",
+      "maiden": "Máslo",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Nízká Srbská č. 39 (otec výměnkář, 1878)"
+      ],
+      "branch": "maslo",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-7319",
+          "detail": "snímek 12"
+        }
+      ],
+      "notes": [
+        "Dcera Jana Másla, výměnkáře v NS č. 39. Velmi pravděpodobně táž žena jako Anna, manželka Jana Maroula z NS č. 71 — viz ztotožnění. Čísla domu otce 30 (1846) a 39 (1850, 1878) se neslučují potichu."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "jan-maslo-ns39",
+      "name": "Jan Máslo",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Výměnkář, Nízká Srbská č. 39 (1878).",
+      "places": [
+        "Nízká Srbská č. 39"
+      ],
+      "branch": "maslo",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-7319",
+          "detail": "snímek 12"
+        }
+      ],
+      "notes": [
+        "V matrice „Maslo“. Velmi pravděpodobně týž muž jako výměnkář z narození vnuků 1846 (č. 30) a 1850 (č. 39) — čísla 30 a 39 se neslučují potichu."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "jan-skuhra",
+      "name": "Jan Skuhra",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Podruh, Ledhuje č. 53.",
+      "places": [
+        "Ledhuje č. 53"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-7319",
+          "detail": "snímek 12"
+        }
+      ],
+      "notes": [
+        "Čtení příjmení (Skuhra / Skuhrová u dcery) ověřit. Která z Ledhují (Malá / Velká), dosud nerozlišeno."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "frantiska-ventrova",
+      "name": "Františka Skuhrová",
+      "maiden": "Vantrova",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Ledhuje (otec výměnkář v témže místě)"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-7319",
+          "detail": "snímek 12"
+        }
+      ],
+      "notes": [
+        "Dcera Františka Ventra, výměnkáře v Ledhuji. Přesný tvar příjmení po otci: Ventr."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "frantisek-ventr",
+      "name": "František Ventr",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Výměnkář, Ledhuje.",
+      "places": [
+        "Ledhuje"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-7319",
+          "detail": "snímek 12"
+        }
+      ],
+      "notes": [],
+      "interesting": []
+    },
+    {
+      "id": "jan-maroul-ns71",
+      "name": "Jan Maroul",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Podruh, Nízká Srbská č. 71 (1846, 1850); chalupník, Nízká Srbská č. 71 (1874).",
+      "places": [
+        "Nízká Srbská č. 71"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-15",
+          "detail": "snímky 32 a 47"
+        },
+        {
+          "label": "ARON",
+          "signatura": "130-7417",
+          "detail": "snímek 43"
+        }
+      ],
+      "notes": [
+        "Syn Tobiáše Maroula, chalupníka z NS č. 71, a Marie roz. Šimcové z Bělic č. 23.",
+        "Velmi pravděpodobně týž muž jako Jan, chalupník NS č. 54, z narození Františky *1878 — dům 71 a 54 se neslučují potichu."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "anna-maslo-ns71",
+      "name": "Anna Maroulová",
+      "maiden": "Máslo",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Výměnkářka, Nízká Srbská č. 39 (1874).",
+      "places": [
+        "Nízká Srbská č. 71 (manžel)",
+        "Nízká Srbská č. 39 (1874, výměnkářka)"
+      ],
+      "branch": "maslo",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-15",
+          "detail": "snímky 32 a 47"
+        },
+        {
+          "label": "ARON",
+          "signatura": "130-7417",
+          "detail": "snímek 43"
+        }
+      ],
+      "notes": [
+        "Dcera †Jana Másla, výměnkáře z NS č. 30 (1846) / č. 39 (1850), a Veroniky roz. Němečkové z NS č. 34.",
+        "Dřívější opatrné čtení babičky „Šimůnková / Šimánková“ se po zápisu 1850 opravuje na Veroniku Němečkovou."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "frantisek-maroul-1846",
+      "name": "František Maroul",
+      "maiden": null,
+      "birth": {
+        "display": "3. 7. 1846",
+        "precision": "exact",
+        "date": "1846-07-03",
+        "place": "Nízká Srbská č. 71"
+      },
+      "baptism": {
+        "display": "4. 7. 1846",
+        "precision": "exact",
+        "date": "1846-07-04"
+      },
+      "death": null,
+      "occupation": null,
+      "places": [],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-15",
+          "detail": "snímek 32"
+        }
+      ],
+      "notes": [
+        "Syn Jana Maroula a Anny Máslo z NS č. 71. Pokud je Jan × Anna týž pár jako u Františky *1878, je František pravděpodobný starší bratr Josefa, otce Františky — to zůstává ve výhradě ztotožnění domu."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "josef-maroul-1850",
+      "name": "Josef Maroul",
+      "maiden": null,
+      "birth": {
+        "display": "1. 10. 1850",
+        "precision": "exact",
+        "date": "1850-10-01",
+        "place": "Nízká Srbská č. 71"
+      },
+      "baptism": {
+        "display": "2. 10. 1850",
+        "precision": "exact",
+        "date": "1850-10-02",
+        "note": "Kněz Placida Středa, ord. S. B."
+      },
+      "death": null,
+      "occupation": "Syn podruha, NS č. 71 (1850); chalupník, NS č. 71 (1874).",
+      "places": [
+        "Nízká Srbská č. 71"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození",
+          "signatura": "96-15",
+          "detail": "snímek 47"
+        },
+        {
+          "label": "ARON, sňatek 27. 10. 1874",
+          "signatura": "130-7417",
+          "detail": "snímek 43, folio 40; index 130-7420 snímek 44, sv. VIII str. 39",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/569f993d-39f6-4aae-b562-28b26c65c1a6"
+        }
+      ],
+      "notes": [
+        "Syn Jana Maroula, podruha, a Anny, dcery †Jana Másla a Veroniky roz. Němečkové.",
+        "27. 10. 1874 se oženil s Františkou Hrubou z Ledhují č. 52. Věk 24 let a rodiče potvrzují totožnost s tímto Josefem.",
+        "Neslučovat s Josefem, chalupníkem NS č. 54, manželem Františky Skuhrové (otec Františky *30. 8. 1878). Nové manželství se nevymýšlí.",
+        "Poznámka u narození: přistoupil k Církvi československé 30. 4. 1920, čj. 12137. Přípisky 17. 10. 1944 č. 445 a 28. 6. 1945 č. 281 se nečtou jako potvrzené úmrtí."
+      ],
+      "interesting": [
+        "Přestup k CČS 30. 4. 1920, čj. 12137."
+      ]
+    },
+    {
+      "id": "frantiska-hruba-c1855",
+      "name": "Františka Hrubá",
+      "maiden": "Hrubá",
+      "birth": {
+        "display": "cca 1855",
+        "precision": "circa",
+        "note": "19 let k 27. 10. 1874."
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Ledhuje č. 52"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, index",
+          "signatura": "130-7420",
+          "detail": "snímek 44"
+        },
+        {
+          "label": "ARON, tělo",
+          "signatura": "130-7417",
+          "detail": "snímek 43"
+        }
+      ],
+      "notes": [
+        "Ledigá dcera Jana Hrubého, inwohnere v Ledhuji č. 52, a manželky rozené Špinka (příjmení matky čtené opatrně).",
+        "U nevěsty je zmíněna dispens / souhlas pro nezletilost (plnoletost 24 let).",
+        "Neslučovat s Františkou Skuhrovou, matkou Františky Maroulové *1878."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "tobias-maroul",
+      "name": "Tobiáš Maroul",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Chalupník, Nízká Srbská č. 71 (1846); chalupník, Nízká Srbská č. 77 (1878, zápis syna Václava).",
+      "places": [
+        "Nízká Srbská č. 71 (1846)",
+        "Nízká Srbská č. 77 (1878)"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-15",
+          "detail": "snímek 32"
+        },
+        {
+          "label": "ARON",
+          "signatura": "96-4228",
+          "detail": "snímek 75"
+        }
+      ],
+      "notes": [
+        "Manželka Marie, dcera Antonína Šimce, rolníka v Bělici č. 23 — jméno a Bělic 23 se v zápisech 1846 a 1878 shodují. Čísla domu 71 a 77 se neslučují potichu."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "marie-simcova",
+      "name": "Marie Maroulová",
+      "maiden": "Šimcová",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Bělic č. 23"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-15",
+          "detail": "snímek 32"
+        },
+        {
+          "label": "ARON",
+          "signatura": "96-4228",
+          "detail": "snímek 75"
+        }
+      ],
+      "notes": [
+        "Dcera Antonína Šimce, rolníka v Bělici č. 23."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "antonin-simec",
+      "name": "Antonín Šimec",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Rolník, Bělic č. 23 (1878).",
+      "places": [
+        "Bělic č. 23"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-4228",
+          "detail": "snímek 75"
+        }
+      ],
+      "notes": [],
+      "interesting": []
+    },
+    {
+      "id": "jan-maslo-ns71-otec",
+      "name": "Jan Máslo",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 3. 7. 1846",
+        "precision": "range",
+        "note": "V zápisu vnuka Františka *1846 i Josefa *1850 už nebožtík."
+      },
+      "occupation": "Výměnkář, Nízká Srbská č. 30 (1846); výměnkář, Nízká Srbská č. 39 (1850).",
+      "places": [
+        "Nízká Srbská č. 30 (1846)",
+        "Nízká Srbská č. 39 (1850)"
+      ],
+      "branch": "maslo",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-15",
+          "detail": "snímky 32 a 47"
+        }
+      ],
+      "notes": [
+        "Obě čísla domu ponechat. Velmi pravděpodobně týž muž jako výměnkář NS č. 39 z narození Františky *1878."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "veronika-nemeckova",
+      "name": "Veronika Máslo",
+      "maiden": "Němečková",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Nízká Srbská č. 34"
+      ],
+      "branch": "maslo",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-15",
+          "detail": "snímky 32 a 47"
+        }
+      ],
+      "notes": [
+        "Jasně v zápisu vnuka Josefa *1850; stejně čitelné i v zápisu 1846 po srovnání. Dřívější opatrné čtení „Šimůnková / Šimánková“ je opraveno."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "jan-hruby",
+      "name": "Jan Hrubý",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Inwohner, Ledhuje č. 52 (1874).",
+      "places": [
+        "Ledhuje č. 52"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "130-7417",
+          "detail": "snímek 43"
+        }
+      ],
+      "notes": [],
+      "interesting": []
+    },
+    {
+      "id": "matka-hruba-spinka",
+      "name": "manželka Jana Hrubého, roz. Špinka",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "V zápisu 1874 dále výměnkářka? v Ledhuji č. 75 (čtení stavu opatrné).",
+      "places": [
+        "Ledhuje č. 75 (1874, opatrně)"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "130-7417",
+          "detail": "snímek 43"
+        }
+      ],
+      "notes": [
+        "Příjmení Špinka čtené opatrně. Křestní jméno není čteno natolik jistě, aby se zapisovalo jako potvrzené."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "vaclav-maroul-1878",
+      "name": "Václav Maroul",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Chalupník, Machov č. 86 (17. 1. 1878).",
+      "places": [
+        "Machov č. 86"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-4228",
+          "detail": "snímek 75"
+        }
+      ],
+      "notes": [
+        "Manželský syn Tobiáše Maroula, chalupníka v NS č. 77, a Marie, dcery Antonína Šimce z Bělic č. 23.",
+        "Jméno matky a Bělic 23 se shodují s rodiči Jana z NS č. 71; čísla Tobiášova domu 71 a 77 se neslučují potichu. Není Josef z NS 54.",
+        "Nevěsta 17. 1. 1878: Kojková / Košková Františka, vdova, 58 let — vedlejší sňatek, v mapě jen v poznámce.",
+        "Kmotr Františky *1878 „Václav Maroul, chalupník NS 84“ a tento ženich (Machov 86) se neslučují potichu."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "josef-syrovy-1916",
+      "name": "Josef Leopold Syrový",
+      "maiden": null,
+      "birth": {
+        "display": "17. 8. 1916",
+        "precision": "exact",
+        "date": "1916-08-17",
+        "place": "Broumov"
+      },
+      "baptism": {
+        "display": "23. 8. 1916",
+        "precision": "exact",
+        "date": "1916-08-23",
+        "note": "Kněz P. Coelestin (Cölestin) Rýdl / Rydl, kaplan."
+      },
+      "death": null,
+      "occupation": "Průvodčí vlaků (rodný list Gerdy, 1948).",
+      "places": [],
+      "branch": "syrovy",
+      "certainty": "potvrzeno",
+      "living": true,
+      "sources": [
+        {
+          "label": "ARON, narození",
+          "signatura": "13-9353",
+          "detail": "snímek 77, folio 71, akt 46",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/c77517df-0bff-40e5-a529-b3863bd9e97e"
+        },
+        {
+          "label": "Rodný list Gerdy, 1948",
+          "detail": "povolání průvodčí vlaků; sňatek 14. 7. 1945 v Broumově"
+        }
+      ],
+      "notes": [
+        "Zapsán jako nemanželský; legitimován následným sňatkem rodičů 23. 11. 1916.",
+        "28. 6. 1945 vystoupil z katolické církve (16 dní před sňatkem s Hedvikou). Důvod zápis neuvádí.",
+        "Index oddaných 13-57, s. 134, „Josef × Hedvika, Br. 15 č. 62“, 1945, sedí na sňatek; tělo knihy Tom. XV v ARON není.",
+        "U žijících osob se neuveřejňují adresy ani čísla domů."
+      ],
+      "interesting": [
+        "Legitimován sňatkem rodičů 23. 11. 1916.",
+        "28. 6. 1945 vystoupil z katolické církve."
+      ]
+    },
+    {
+      "id": "hedvika-prossova-1922",
+      "name": "Hedvika Proßová",
+      "maiden": null,
+      "birth": {
+        "display": "9. 3. 1922",
+        "precision": "exact",
+        "date": "1922-03-09",
+        "place": "Ruprechtice"
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": "Tovární dělnice (rodný list Gerdy, 1948).",
+      "places": [],
+      "branch": "pross",
+      "certainty": "potvrzeno",
+      "living": true,
+      "sources": [
+        {
+          "label": "Rodný list Gerdy, 1948",
+          "detail": "legitimovaná dcera Jana Proße a Emmy roz. Rosenbergové"
+        }
+      ],
+      "notes": [
+        "Narození v ARON není (ruprechtické knihy N končí rokem 1900). Právně je zápis již veřejný.",
+        "Sňatek rodičů 22. 8. 1925 časově vysvětluje legitimaci po narození 9. 3. 1922. Výslovná doložka legitimace v oddacím zápisu 1925 není.",
+        "U žijících osob se neuveřejňují adresy ani čísla domů."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "josef-syrovy-1888",
+      "name": "Josef Syrový",
+      "maiden": null,
+      "birth": {
+        "display": "12. 2. 1888",
+        "precision": "exact",
+        "date": "1888-02-12",
+        "place": "Choceň č. 165"
+      },
+      "baptism": {
+        "display": "24. 2. 1888",
+        "precision": "exact",
+        "date": "1888-02-24"
+      },
+      "death": {
+        "display": "3. 8. 1933",
+        "precision": "exact",
+        "date": "1933-08-03",
+        "note": "Pohřben žehem v Pardubicích, Ph. 187 (poznámka u sňatku 1916)."
+      },
+      "occupation": "Vochlář (1888, zápis jeho narození); stavební dělník, Velká Ves u Broumova č. 163 (srpen 1916, uznání otcovství); tkadlec, Hejtmánkovice č. 239 (listopad 1916 a 1948).",
+      "places": [
+        "Choceň č. 165",
+        "Velká Ves (Grossdorf) č. 163 (VIII 1916)",
+        "Hejtmánkovice č. 239 (XI 1916, 1948)"
+      ],
+      "branch": "syrovy",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození",
+          "signatura": "3141",
+          "detail": "s. 151",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/d199209d-e972-4369-b5cc-bd1002091270"
+        },
+        {
+          "label": "ARON, sňatek 23. 11. 1916",
+          "signatura": "13-7528",
+          "detail": "s. 106, akt 29",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/c11aad39-24c0-4e97-a184-398007fe1f1e"
+        },
+        {
+          "label": "ARON, narození syna",
+          "signatura": "13-9353",
+          "detail": "folio 71"
+        }
+      ],
+      "notes": [
+        "Pozdější poznámka u narození: bez vyznání (Hejtm. Broumov 21. 5. 1924, č. 32845). U sňatku 1916: oba konfessionslos od 1925."
+      ],
+      "interesting": [
+        "Povolání se měnilo: vochlář → stavební dělník → tkadlec.",
+        "Pohřeb žehem v Pardubicích, 1933."
+      ]
+    },
+    {
+      "id": "marie-mullerova-1896",
+      "name": "Marie Syrová",
+      "maiden": "Müllerová",
+      "birth": {
+        "display": "9. 1. 1896",
+        "precision": "exact",
+        "date": "1896-01-09",
+        "place": "Libná (Libein/Lieben) č. 42"
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": "Tovární dělnice, Broumov č. 49-III (1916).",
+      "places": [
+        "Libná č. 42",
+        "Broumov č. 49-III (1916)"
+      ],
+      "branch": "muller",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození syna (poznámka „M. geb. 9. 1. 1896“)",
+          "signatura": "13-9353",
+          "detail": "folio 71"
+        },
+        {
+          "label": "Rodný list Gerdy, 1948"
+        }
+      ],
+      "notes": [
+        "Vlastní zápis narození 1896 v ARON není (kniha Libná 182-6 sahá jen do 1859; pozdější svazek N chybí). Datum i dům potvrzuje zápis syna 1916.",
+        "Dcera Leopolda Müllera a Marie, dcery Franze Nagela, z obce čtené jako Unter-Hein[z?]endorf, okres Mohelnice a panství Zábřeh na Moravě. Přesný tvar vsi Nagelových není uzamčen."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "frantisek-syrovy-c1848",
+      "name": "František Syrový",
+      "maiden": null,
+      "birth": {
+        "display": "cca 1847/48",
+        "precision": "circa",
+        "note": "39 let k 2. 5. 1887 (v zápisu i slovy „třicet devět“), tedy mezi 3. 5. 1847 a 2. 5. 1848 při přesném věku. V chocenských knihách N (2103, 2102) v tomto okně nenalezen."
+      },
+      "baptism": null,
+      "death": {
+        "display": "před 17. 8. 1916",
+        "precision": "range",
+        "note": "V uznání otcovství u syna Josefa *1916 už nebožtík."
+      },
+      "occupation": "Vochlář v továrně, Choceň č. 165 (1887, 1888); tovární dělník (1916, německý dodatek u narození vnuka).",
+      "places": [
+        "Choceň č. 165"
+      ],
+      "branch": "syrovy",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 2. 5. 1887",
+          "signatura": "6489",
+          "detail": "snímek 20, folio 17",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/b4325f87-a6cf-4866-a197-fc1029d2e1d3"
+        },
+        {
+          "label": "ARON, narození syna",
+          "signatura": "3141",
+          "detail": "s. 151"
+        }
+      ],
+      "notes": [
+        "V roce 1887 vdovec. Otec Františka v oddacím zápisu není jmenován — je zapsán jen po matce Františce Syrové.",
+        "První sňatek v Choceň O 2782 v letech 1871–1885 není."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "anna-tschinkelova-smidova",
+      "name": "Anna Syrová",
+      "maiden": "Tschinkelová",
+      "birth": {
+        "display": "cca 1854/55",
+        "precision": "circa",
+        "note": "32 let k 2. 5. 1887 (v zápisu i slovy „třicet dvě“)."
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": "Služebná, Choceň č. 215 (1887); dříve vdova po krejčím.",
+      "places": [
+        "Choceň č. 215 (1887)",
+        "Dlouhá Ves č. 35 (první manžel; obec stejného jména není zamčena)"
+      ],
+      "branch": "tschinkel",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "6489",
+          "detail": "snímek 20"
+        },
+        {
+          "label": "ARON",
+          "signatura": "3141",
+          "detail": "s. 151"
+        }
+      ],
+      "notes": [
+        "Vdova po †Františku Šmídovi, krejčím v Dlouhé Vsi č. 35. Otec Anny v zápisu není jmenován — je zapsána po matce Aloisií Tschinkelové."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "frantisek-smid",
+      "name": "František Šmíd",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 2. 5. 1887",
+        "precision": "range"
+      },
+      "occupation": "Krejčí, Dlouhá Ves č. 35.",
+      "places": [
+        "Dlouhá Ves č. 35 (obec stejného jména není zamčena)"
+      ],
+      "branch": "tschinkel",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "6489",
+          "detail": "snímek 20"
+        }
+      ],
+      "notes": [
+        "První manžel Anny, později Syrové. Není v přímé linii potomků Josefa *1888."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "frantiska-syrova",
+      "name": "Františka Syrová",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Choceň (otec č. 364, matka č. 65)"
+      ],
+      "branch": "syrovy",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "6489",
+          "detail": "snímek 20"
+        }
+      ],
+      "notes": [
+        "Matka Františka *cca 1848. Manželská dcera †Josefa Syrového, obuvníka z Chocně č. 364, a Ludmily roz. Kumpoštové z Chocně č. 65. Otec Františka *cca 1848 není v zápisu 1887 uveden."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "josef-syrovy-obuvnik",
+      "name": "Josef Syrový",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 2. 5. 1887",
+        "precision": "range"
+      },
+      "occupation": "Obuvník, Choceň č. 364.",
+      "places": [
+        "Choceň č. 364"
+      ],
+      "branch": "syrovy",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "6489",
+          "detail": "snímek 20"
+        }
+      ],
+      "notes": [],
+      "interesting": []
+    },
+    {
+      "id": "ludmila-kumpostova",
+      "name": "Ludmila Syrová",
+      "maiden": "Kumpoštová",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Choceň č. 65"
+      ],
+      "branch": "syrovy",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "6489",
+          "detail": "snímek 20"
+        }
+      ],
+      "notes": [],
+      "interesting": []
+    },
+    {
+      "id": "aloisie-tschinkelova",
+      "name": "Aloisie Tschinkelová",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Štiefwinkl (Kout u Deštného v Orlických horách) č. 16 (rodiče)"
+      ],
+      "branch": "tschinkel",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "6489",
+          "detail": "snímek 20"
+        },
+        {
+          "label": "ARON",
+          "signatura": "3141"
+        }
+      ],
+      "notes": [],
+      "interesting": []
+    },
+    {
+      "id": "josef-tschinkel",
+      "name": "Josef Tschinkel",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Obyvatel (Inwohner), Štiefwinkl (Kout u Deštného v Orlických horách) č. 16.",
+      "places": [
+        "Štiefwinkl / Kout u Deštného v Orlických horách č. 16"
+      ],
+      "branch": "tschinkel",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "6489",
+          "detail": "snímek 20"
+        }
+      ],
+      "notes": [
+        "Štiefwinkl = Kout, osada obce Deštné v Orlických horách (něm. Stiefwinkel u Deschney)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "anna-diener",
+      "name": "Anna Tschinkelová",
+      "maiden": "Diener",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Věže č. 21, okr. Nové Město (obec není zamčena)"
+      ],
+      "branch": "tschinkel",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "6489",
+          "detail": "snímek 20"
+        }
+      ],
+      "notes": [
+        "Obec Věže č. 21 neslučovat s Věží u Havlíčkova Brodu bez důkazu. Okres Nové Město odpovídá dobovému zařazení Deštného pod BH Nové Město nad Metují."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "leopold-muller",
+      "name": "Leopold Müller",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Textilní / tkalcovský dělník (Zeugarbeiter), Broumov č. 83-III (1916); dříve Libná č. 42.",
+      "places": [
+        "Libná č. 42",
+        "Broumov č. 83-III (1916)"
+      ],
+      "branch": "muller",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "13-9353",
+          "detail": "folio 71"
+        }
+      ],
+      "notes": [],
+      "interesting": []
+    },
+    {
+      "id": "marie-nagelova",
+      "name": "Marie Müllerová",
+      "maiden": "Nagelová",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "obec čtená jako Unter-Hein[z?]endorf, okres Mohelnice, panství Zábřeh na Moravě"
+      ],
+      "branch": "muller",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "13-9353",
+          "detail": "folio 71"
+        }
+      ],
+      "notes": [
+        "Dcera Franze Nagela. Přesný tvar vsi není uzamčen; okres Müglitz (Mohelnice) a panství Hohenstadt (Zábřeh) jsou čitelné."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "franz-nagel",
+      "name": "Franz Nagel",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "obec čtená jako Unter-Hein[z?]endorf, okres Mohelnice, panství Zábřeh na Moravě"
+      ],
+      "branch": "muller",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "13-9353",
+          "detail": "folio 71"
+        }
+      ],
+      "notes": [
+        "Přesný tvar vsi není uzamčen."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "jan-pross-1902",
+      "name": "Jan Proß",
+      "maiden": null,
+      "birth": {
+        "display": "8. 6. 1902",
+        "precision": "exact",
+        "date": "1902-06-08",
+        "place": "Sedloňov č. 11"
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": "Tovární dělník, Martínkovice č. 257 (1925); na listu Gerdy 1948 totéž povolání.",
+      "places": [
+        "Sedloňov (Sattel) č. 11",
+        "příslušný do Malého Uhřínova (Klein-Aurschim)",
+        "Martínkovice č. 257 (1925)"
+      ],
+      "branch": "pross",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 22. 8. 1925",
+          "signatura": "99-8015",
+          "detail": "snímek 137, folio 132, poř. č. 14",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/850fd0d4-b750-4a1b-92fa-e2227e3073c2"
+        },
+        {
+          "label": "ARON, index narození",
+          "signatura": "144-8637",
+          "detail": "snímek 38, Lit. G str. 36",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/af34c80d-61b7-441c-bccc-93e10a1900a0"
+        },
+        {
+          "label": "Rodný list Gerdy, 1948"
+        }
+      ],
+      "notes": [
+        "Tělo matriky narozených Sedloňov po 11. 1896 v ARON není; online je jen index, který souhlasí se sňatkem i s doložkou u Emmy.",
+        "Příslušný do Malého Uhřínova, soudní okres Rokytnice v Orlických horách, politický okres Žamberk."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "emma-rosenberger-1902",
+      "name": "Emma Proßová",
+      "maiden": "Rosenberger",
+      "birth": {
+        "display": "27. 12. 1902",
+        "precision": "exact",
+        "date": "1902-12-27",
+        "place": "Starostín (Neusorge) č. 27"
+      },
+      "baptism": {
+        "display": "1. 1. 1903",
+        "precision": "exact",
+        "date": "1903-01-01",
+        "note": "Kněz P. Kaj. Treutler, farář."
+      },
+      "death": null,
+      "occupation": "Tovární dělnice (1925).",
+      "places": [
+        "Starostín č. 27",
+        "příslušná do Ruprechtic"
+      ],
+      "branch": "rosenberger",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození",
+          "signatura": "174-7364",
+          "detail": "snímek 94, folio 88, poř. č. 10, oddíl Neusorge III.",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/aecab2b4-4bcc-4bf9-9dbc-a2508067ef20"
+        },
+        {
+          "label": "ARON, sňatek 22. 8. 1925",
+          "signatura": "99-8015",
+          "detail": "snímek 137"
+        },
+        {
+          "label": "Rodný list Gerdy, 1948",
+          "detail": "uvedena jako Emma roz. Rosenbergová"
+        }
+      ],
+      "notes": [
+        "Nemanželská dcera Anny Rosenbergerové; otec není jmenován.",
+        "Na listu Gerdy je tvar Rosenbergová, v matrice důsledně Rosenberger. Totožnost drží jméno Emma, sňatek s Janem Proßem, Martínkovice a doložka sňatku 22. 8. 1925 u rodného zápisu.",
+        "Okrajová poznámka „11. III. 22 / f. Hm. Rup. …“ se neslučuje automaticky ani se sňatkem 1925, ani s narozením Hedviky 9. 3. 1922."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "anton-pross",
+      "name": "Anton Proß",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 22. 8. 1925",
+        "precision": "range"
+      },
+      "occupation": "Tovární dělník, Martínkovice č. 257 (k sňatku syna 1925, už nebožtík).",
+      "places": [
+        "Martínkovice č. 257"
+      ],
+      "branch": "pross",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, index oddaných Sedloňov",
+          "signatura": "144-7",
+          "detail": "snímek 26, 19. 2. 1890, str. 22 pozdější matriky",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/392f1f89-0649-4538-8c4a-2749c138fc20"
+        },
+        {
+          "label": "ARON, sňatek syna",
+          "signatura": "99-8015",
+          "detail": "snímek 137"
+        }
+      ],
+      "notes": [
+        "Sňatek s Johannou Mader 19. 2. 1890 je v indexu 144-7. Tělo po 11. 1877 v ARON není (144-3943 končí tímto měsícem); rodiče, věk a dům z indexu nevyčíst.",
+        "Zápis časově i jmény sedí na rodiče Jana *8. 6. 1902. Tělo by je potvrdilo, v ARON chybí.",
+        "Na téže stránce indexu je i Proß Anton × Francisca Dörner / Törner, 18. 6. 1858, Lib. B str. 144 — jiný muž, o generaci starší, neslučovat.",
+        "Svědek sňatku 1925 Anton Pross, tovární dělník, Martínkovice č. 84, je jiný dům než č. 257, neslučovat."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "johanna-mader",
+      "name": "Johanna Proßová",
+      "maiden": "Mader",
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 22. 8. 1925",
+        "precision": "range"
+      },
+      "occupation": "V zápisu 1925 označena spolu s Johannem Maderem / sama jako Jungwirth (mladý hospodář) v Sedloňově č. 78.",
+      "places": [
+        "Sedloňov č. 78 (formule 1925)"
+      ],
+      "branch": "mader",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, index",
+          "signatura": "144-7",
+          "detail": "snímek 26, 19. 2. 1890"
+        },
+        {
+          "label": "ARON",
+          "signatura": "99-8015",
+          "detail": "snímek 137"
+        }
+      ],
+      "notes": [
+        "Příjmení Mader je čitelné. Tvar „geb. Johann Mader“ se čte opatrně: buď Johanna rozená Maderová, nebo Johanna, dcera Johanna Madera, hospodáře v Sedloňově č. 78. Neslučovat tyto dvě možnosti potichu."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "anna-rosenberger-1879",
+      "name": "Anna Rosenbergerová",
+      "maiden": null,
+      "birth": {
+        "display": "9. 9. 1879",
+        "precision": "exact",
+        "date": "1879-09-09",
+        "note": "Datum z rodného zápisu dcery Emmy; místo narození Anny tam není uvedeno."
+      },
+      "baptism": null,
+      "death": {
+        "display": "před 22. 8. 1925",
+        "precision": "range",
+        "note": "K sňatku dcery Emmy už nebožka. K 27. 12. 1902 ještě žije."
+      },
+      "occupation": "Tovární dělnice, Starostín č. 27 (1902).",
+      "places": [
+        "Starostín č. 27 (1902)"
+      ],
+      "branch": "rosenberger",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "174-7364",
+          "detail": "snímek 94"
+        },
+        {
+          "label": "ARON",
+          "signatura": "99-8015"
+        }
+      ],
+      "notes": [
+        "Manželská dcera †Franze Rosenbergera a Genovefy, dcery Benedikta Meiera. Otec Emmy není jmenován."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "franz-rosenberger",
+      "name": "Franz Rosenberger",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 27. 12. 1902",
+        "precision": "range"
+      },
+      "occupation": "Krejčí a chalupník (Schneider und Häusler) ve sňatku 1925; mistr krejčí a chalupník (Schneidermeister, Häusler) v zápisu vnučky 1902. Vernéřovice č. 177.",
+      "places": [
+        "Vernéřovice (Deutsch-Wernersdorf) č. 177"
+      ],
+      "branch": "rosenberger",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "174-7364"
+        },
+        {
+          "label": "ARON",
+          "signatura": "99-8015"
+        }
+      ],
+      "notes": [],
+      "interesting": []
+    },
+    {
+      "id": "genovefa-meier",
+      "name": "Genovefa Rosenbergerová",
+      "maiden": "Meier",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "V sňatku vnučky 1925 označena jako Jungwirthin, Ruprechtice č. 93. V rodném zápisu Emmy je jednoznačně manželská dcera Benedikta Meiera, Inwohner v Ruprechticích č. 93.",
+      "places": [
+        "Ruprechtice č. 93"
+      ],
+      "branch": "meier",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "174-7364",
+          "detail": "snímek 94"
+        },
+        {
+          "label": "ARON",
+          "signatura": "99-8015"
+        }
+      ],
+      "notes": [
+        "Formule „geb. Benedikt Meier“ ze sňatku 1925 je upřesněna zápisem 1902: Genovefa je dcera Benedikta Meiera, ne „rozená Benedikt“."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "benedikt-meier",
+      "name": "Benedikt Meier",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Podruh (Inwohner), Ruprechtice č. 93.",
+      "places": [
+        "Ruprechtice č. 93"
+      ],
+      "branch": "meier",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "174-7364",
+          "detail": "snímek 94"
+        }
+      ],
+      "notes": [],
+      "interesting": []
+    }
+  ],
+  "unions": [
+    {
+      "id": "u-josef-romana",
+      "partners": [
+        "josef-jirman-1964",
+        "romana-spadtova-1971"
+      ],
+      "children": [
+        "stepan-jirman-1997"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "Podklad uživatele"
+        }
+      ]
+    },
+    {
+      "id": "u-josef-1936-gerda",
+      "partners": [
+        "josef-jirman-1936",
+        "gerda-syrova-1941"
+      ],
+      "children": [
+        "josef-jirman-1964"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "Podklad uživatele"
+        },
+        {
+          "label": "Rodokmen Klimeš, 2019"
+        }
+      ]
+    },
+    {
+      "id": "u-ludvik-blazena",
+      "partners": [
+        "ludvik-jirman-1908",
+        "blazena-klimesova-1911"
+      ],
+      "married": {
+        "display": "10. 2. 1934",
+        "date": "1934-02-10",
+        "place": "Machov"
+      },
+      "children": [
+        "ludvik-jirman-1934",
+        "josef-jirman-1936",
+        "kveta-jirmanova-1941",
+        "eva-jirmanova-eberhardt"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "Rodokmen Klimeš, 2019"
+        }
+      ],
+      "notes": [
+        "Sňatek v ARON není (machovská kniha oddaných končí 10. 1894). Čtyři děti podle rodokmenu."
+      ]
+    },
+    {
+      "id": "u-josef1857-frantiska-n",
+      "partners": [
+        "josef-jirman-1857",
+        "frantiska-nemeckova-1864"
+      ],
+      "married": {
+        "display": "11. 2. 1901",
+        "date": "1901-02-11",
+        "place": "Machov",
+        "note": "Ohlášky 2., 3. a 10. 2. 1901; P. Methoděj Šandera, adm."
+      },
+      "children": [
+        "josefa-jirmanova-1900"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-9405",
+          "detail": "snímek 66, folio 62"
+        }
+      ],
+      "notes": [
+        "Josefa *10. 10. 1900 byla legitimována tímto sňatkem. Další dítě tohoto páru v 96-7319 do 26. 3. 1905 nenalezeno; u domu NS 67 v tomto okně žádný zápis Jirmanů."
+      ]
+    },
+    {
+      "id": "u-josef1857-josefa",
+      "partners": [
+        "josef-jirman-1857",
+        "josefa-vojteska-nemeckova"
+      ],
+      "married": {
+        "display": "před 1. 12. 1884",
+        "precision": "range",
+        "note": "Dítě je manželské. Sňatek v machovských/nízkosrbských knihách není; hledat ve faře Hronov (nevěsta ze Sedmákovic)."
+      },
+      "children": [
+        "frantiska-jirmanova-1884"
+      ],
+      "certainty": "pravdepodobne",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-7319",
+          "detail": "snímek 46"
+        },
+        {
+          "label": "ARON",
+          "signatura": "96-9405",
+          "detail": "snímek 66"
+        }
+      ],
+      "notes": [
+        "Jméno manželky: Josefa (1884) / Vojtěška († 17. 10. 1893, zápis 1901). Velmi pravděpodobně táž žena, nesloučeno natvrdo."
+      ]
+    },
+    {
+      "id": "u-jan1825-frantiska-v",
+      "partners": [
+        "jan-jirmann-1825",
+        "frantiska-vejrychova"
+      ],
+      "married": {
+        "display": "18. 2. 1851",
+        "date": "1851-02-18",
+        "place": "Bezděkov nad Metují",
+        "note": "Ohlášky 26. 1., 2. a 9. 2. 1851; oddával Roman Růžek, exposita. Dům č. 65."
+      },
+      "children": [
+        "josef-jirman-1857"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "130-4326",
+          "detail": "snímek 15, folio 11"
+        }
+      ]
+    },
+    {
+      "id": "u-jan-st-anna-solcova",
+      "partners": [
+        "jan-jirmann-st",
+        "anna-solcova"
+      ],
+      "children": [
+        "jan-jirmann-1825"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-3",
+          "detail": "snímek 94"
+        }
+      ]
+    },
+    {
+      "id": "u-johann-scholz",
+      "partners": [
+        "johann-scholz"
+      ],
+      "children": [
+        "anna-solcova"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-3"
+        }
+      ],
+      "notes": [
+        "Manželka (matka Anny) v zápisu 1825 není jmenována."
+      ]
+    },
+    {
+      "id": "u-vejrych-svejdarova",
+      "partners": [
+        "josef-vejrych",
+        "josefa-svejdrova-vejrychova"
+      ],
+      "children": [
+        "frantiska-vejrychova"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "130-4326"
+        }
+      ]
+    },
+    {
+      "id": "u-antonin-nemecek",
+      "partners": [
+        "antonin-nemecek-sedmakovice",
+        "frantiska-herzigova"
+      ],
+      "children": [
+        "josefa-vojteska-nemeckova"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-7319",
+          "detail": "snímek 46"
+        }
+      ],
+      "notes": [
+        "Josefa je v zápisu 1884 uvedena jako legitimovaná dcera tohoto páru."
+      ]
+    },
+    {
+      "id": "u-jakub-herzig",
+      "partners": [
+        "jakub-herzig"
+      ],
+      "children": [
+        "frantiska-herzigova"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-7319",
+          "detail": "snímek 46"
+        }
+      ],
+      "notes": [
+        "Manželka Jakuba v zápisu vnučky není jmenována."
+      ]
+    },
+    {
+      "id": "u-vaclav-nemecek",
+      "partners": [
+        "vaclav-nemecek-zabokrky",
+        "vilemina-bohacova"
+      ],
+      "children": [
+        "frantiska-nemeckova-1864"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-9405"
+        },
+        {
+          "label": "ARON",
+          "signatura": "96-7319"
+        }
+      ]
+    },
+    {
+      "id": "u-josef-bohac",
+      "partners": [
+        "josef-bohac"
+      ],
+      "children": [
+        "vilemina-bohacova"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-9405"
+        }
+      ]
+    },
+    {
+      "id": "u-frantisek1878-frantiska-m",
+      "partners": [
+        "frantisek-klimes-1878",
+        "frantiska-maroulova-1878"
+      ],
+      "married": {
+        "display": "Machov, kolem 1900–1905",
+        "place": "Machov",
+        "precision": "range",
+        "note": "V ARON nenalezen (machovská kniha O po 10. 1894)."
+      },
+      "children": [
+        "blazena-klimesova-1911",
+        "ruzena-klimesova-1905",
+        "jirina-klimesova-1913"
+      ],
+      "certainty": "pravdepodobne",
+      "sources": [
+        {
+          "label": "Rodokmen Klimeš, 2019"
+        }
+      ],
+      "notes": [
+        "Identifikace Františka *1878 s otcem Blaženy je potvrzená souhrou znaků, s výhradou chybějícího oddacího zápisu. Děti podle rodokmenu."
+      ]
+    },
+    {
+      "id": "u-frantisek1857-anezka",
+      "partners": [
+        "frantisek-klimes-1857",
+        "anezka-soumarova-1857"
+      ],
+      "married": {
+        "display": "11. 5. 1880",
+        "date": "1880-05-11",
+        "place": "Závrchy (fara Hronov)",
+        "note": "Ohlášky v hronovském a machovském chrámu 25. 4., 2. 5. a 9. 5. 1880; oddal Jan Svatoň, farář."
+      },
+      "children": [
+        "frantisek-klimes-1878",
+        "anna-klimesova-1890",
+        "ruzena-klimesova-balcarova"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "53-9391",
+          "detail": "snímek 10, folio 6"
+        }
+      ],
+      "notes": [
+        "František *1878 se narodil před sňatkem a byl jím legitimován. Anna *1890 a Růžena Balcarová jsou v rodokmenu sourozenci Františka *1878 — přiřazeny k tomuto páru podle rodokmenu."
+      ]
+    },
+    {
+      "id": "u-jan-klimes-spackova",
+      "partners": [
+        "jan-klimes-vymenkar",
+        "anna-spackova"
+      ],
+      "children": [
+        "frantisek-klimes-1857"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "53-20"
+        },
+        {
+          "label": "ARON",
+          "signatura": "53-9391"
+        }
+      ]
+    },
+    {
+      "id": "u-klimes-tesar-ruzickova",
+      "partners": [
+        "frantisek-klimes-tesar",
+        "katerina-ruzickova"
+      ],
+      "children": [
+        "jan-klimes-vymenkar"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "53-20",
+          "detail": "snímek 179"
+        }
+      ]
+    },
+    {
+      "id": "u-spacek-justova",
+      "partners": [
+        "frantisek-spacek",
+        "dorota-justova"
+      ],
+      "children": [
+        "anna-spackova"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "53-20"
+        }
+      ]
+    },
+    {
+      "id": "u-jan-soumar-anna",
+      "partners": [
+        "jan-soumar",
+        "anna-svejdarova-soumar"
+      ],
+      "children": [
+        "anezka-soumarova-1857"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "53-4158"
+        }
+      ]
+    },
+    {
+      "id": "u-josef-soumar-uhl",
+      "partners": [
+        "josef-soumar",
+        "marie-uhl"
+      ],
+      "children": [
+        "jan-soumar"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "53-4158"
+        }
+      ]
+    },
+    {
+      "id": "u-frantiska-svejdarova-alone",
+      "partners": [
+        "frantiska-svejdarova-petrovice"
+      ],
+      "children": [
+        "anna-svejdarova-soumar"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "53-4158"
+        }
+      ],
+      "notes": [
+        "Anna je nemanželská dcera; otec není jmenován."
+      ]
+    },
+    {
+      "id": "u-anna-maslova-augustin",
+      "partners": [
+        "augustin-maslo-1882",
+        "anna-klimesova-1890"
+      ],
+      "married": {
+        "display": "19. 10. 1909",
+        "date": "1909-10-19",
+        "place": "Machov",
+        "note": "Podle rodokmenu; v ARON (96-9405) není, pravděpodobně nezveřejněná machovská kniha po 10. 1894."
+      },
+      "children": [],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "Rodokmen Klimeš, 2019"
+        }
+      ]
+    },
+    {
+      "id": "u-ruzena-balcar",
+      "partners": [
+        "jaroslav-balcar",
+        "ruzena-klimesova-balcarova"
+      ],
+      "children": [],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "Rodokmen Klimeš, 2019"
+        }
+      ]
+    },
+    {
+      "id": "u-ruzena-hartman",
+      "partners": [
+        "frantisek-hartman-1902",
+        "ruzena-klimesova-1905"
+      ],
+      "children": [
+        "josef-hartman-1930",
+        "vera-hartmanova-1932"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "Rodokmen Klimeš, 2019"
+        }
+      ]
+    },
+    {
+      "id": "u-josef54-skuhrova",
+      "partners": [
+        "josef-maroul-otec-1878",
+        "frantiska-skuhrova"
+      ],
+      "children": [
+        "frantiska-maroulova-1878"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-7319",
+          "detail": "snímek 12"
+        }
+      ],
+      "notes": [
+        "Sňatek tohoto páru v prohlédnutých online oddacích knihách nenalezen. Neslučovat s párem Josef *1850 × Hrubá 1874."
+      ]
+    },
+    {
+      "id": "u-jan54-anna54",
+      "partners": [
+        "jan-maroul-ns54",
+        "anna-maslo-ns54"
+      ],
+      "children": [
+        "josef-maroul-otec-1878"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-7319",
+          "detail": "snímek 12"
+        }
+      ]
+    },
+    {
+      "id": "u-jan-maslo39",
+      "partners": [
+        "jan-maslo-ns39"
+      ],
+      "children": [
+        "anna-maslo-ns54"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-7319",
+          "detail": "snímek 12"
+        }
+      ],
+      "notes": [
+        "Manželka Jana Másla v zápisu 1878 není jmenována. Ve větvi NS 71 je manželka Veronika roz. Němečková — viz ztotožnění."
+      ]
+    },
+    {
+      "id": "u-skuhra-ventrova",
+      "partners": [
+        "jan-skuhra",
+        "frantiska-ventrova"
+      ],
+      "children": [
+        "frantiska-skuhrova"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-7319",
+          "detail": "snímek 12"
+        }
+      ]
+    },
+    {
+      "id": "u-ventr",
+      "partners": [
+        "frantisek-ventr"
+      ],
+      "children": [
+        "frantiska-ventrova"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-7319",
+          "detail": "snímek 12"
+        }
+      ]
+    },
+    {
+      "id": "u-jan71-anna71",
+      "partners": [
+        "jan-maroul-ns71",
+        "anna-maslo-ns71"
+      ],
+      "children": [
+        "frantisek-maroul-1846",
+        "josef-maroul-1850"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-15",
+          "detail": "snímky 32 a 47"
+        }
+      ]
+    },
+    {
+      "id": "u-josef1850-hruba",
+      "partners": [
+        "josef-maroul-1850",
+        "frantiska-hruba-c1855"
+      ],
+      "married": {
+        "display": "27. 10. 1874",
+        "date": "1874-10-27",
+        "place": "Ledhuje (fara Police nad Metují)",
+        "note": "Ohlášky 4., 11. a 18. října 1874, mimo jiné v Machově. Index: sv. VIII str. 39; tělo folio 40."
+      },
+      "children": [],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "130-7420",
+          "detail": "snímek 44"
+        },
+        {
+          "label": "ARON",
+          "signatura": "130-7417",
+          "detail": "snímek 43"
+        }
+      ]
+    },
+    {
+      "id": "u-tobias-simcova",
+      "partners": [
+        "tobias-maroul",
+        "marie-simcova"
+      ],
+      "children": [
+        "jan-maroul-ns71",
+        "vaclav-maroul-1878"
+      ],
+      "certainty": "pravdepodobne",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-15",
+          "detail": "snímek 32"
+        },
+        {
+          "label": "ARON",
+          "signatura": "96-4228",
+          "detail": "snímek 75"
+        }
+      ],
+      "notes": [
+        "Jan linie 71 je potvrzený syn Tobiáše × Marie z NS č. 71 (1846). Václav 1878 je syn Tobiáše z NS č. 77 a téže Marie z Bělic 23. Jméno manželky a Bělic 23 se shodují, čísla 71 a 77 se neslučují potichu — proto je sourozenectví Jana a Václava pravděpodobné, ne tvrdé."
+      ]
+    },
+    {
+      "id": "u-antonin-simec",
+      "partners": [
+        "antonin-simec"
+      ],
+      "children": [
+        "marie-simcova"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-4228",
+          "detail": "snímek 75"
+        }
+      ]
+    },
+    {
+      "id": "u-jan-maslo-veronika",
+      "partners": [
+        "jan-maslo-ns71-otec",
+        "veronika-nemeckova"
+      ],
+      "children": [
+        "anna-maslo-ns71"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-15",
+          "detail": "snímky 32 a 47"
+        }
+      ]
+    },
+    {
+      "id": "u-hruby-spinka",
+      "partners": [
+        "jan-hruby",
+        "matka-hruba-spinka"
+      ],
+      "children": [
+        "frantiska-hruba-c1855"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "130-7417",
+          "detail": "snímek 43"
+        }
+      ]
+    },
+    {
+      "id": "u-josef1916-hedvika",
+      "partners": [
+        "josef-syrovy-1916",
+        "hedvika-prossova-1922"
+      ],
+      "married": {
+        "display": "14. 7. 1945",
+        "date": "1945-07-14",
+        "place": "Broumov",
+        "note": "Index 13-57, s. 134, sedí; tělo Tom. XV v ARON není."
+      },
+      "children": [
+        "gerda-syrova-1941"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "Rodný list Gerdy, 1948"
+        }
+      ]
+    },
+    {
+      "id": "u-josef1888-marie-m",
+      "partners": [
+        "josef-syrovy-1888",
+        "marie-mullerova-1896"
+      ],
+      "married": {
+        "display": "23. 11. 1916",
+        "date": "1916-11-23",
+        "place": "Broumov",
+        "note": "Broumov Tom. XIII, sign. 13-7528, s. 106, akt 29."
+      },
+      "children": [
+        "josef-syrovy-1916"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "13-7528",
+          "detail": "s. 106"
+        },
+        {
+          "label": "ARON",
+          "signatura": "13-9353"
+        }
+      ],
+      "notes": [
+        "Syn Josef se narodil 17. 8. 1916 jako nemanželský a byl tímto sňatkem legitimován."
+      ]
+    },
+    {
+      "id": "u-frantisek-syrovy-anna",
+      "partners": [
+        "frantisek-syrovy-c1848",
+        "anna-tschinkelova-smidova"
+      ],
+      "married": {
+        "display": "2. 5. 1887",
+        "date": "1887-05-02",
+        "place": "Choceň",
+        "note": "Ohlášky 17. a 24. 4. a 1. 5. 1887; oddal Boh. Beránek, kaplan. Ženich vdovec, nevěsta vdova."
+      },
+      "children": [
+        "josef-syrovy-1888"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "6489",
+          "detail": "snímek 20, folio 17"
+        }
+      ]
+    },
+    {
+      "id": "u-anna-smid-prvni",
+      "partners": [
+        "frantisek-smid",
+        "anna-tschinkelova-smidova"
+      ],
+      "children": [],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "6489",
+          "detail": "snímek 20"
+        }
+      ],
+      "notes": [
+        "První manželství Anny, skončené vdovstvím před 2. 5. 1887."
+      ]
+    },
+    {
+      "id": "u-frantiska-syrova-alone",
+      "partners": [
+        "frantiska-syrova"
+      ],
+      "children": [
+        "frantisek-syrovy-c1848"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "6489",
+          "detail": "snímek 20"
+        }
+      ],
+      "notes": [
+        "Otec Františka *cca 1848 v zápisu 1887 není jmenován."
+      ]
+    },
+    {
+      "id": "u-josef-obuvnik-kumpostova",
+      "partners": [
+        "josef-syrovy-obuvnik",
+        "ludmila-kumpostova"
+      ],
+      "children": [
+        "frantiska-syrova"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "6489",
+          "detail": "snímek 20"
+        }
+      ]
+    },
+    {
+      "id": "u-aloisie-alone",
+      "partners": [
+        "aloisie-tschinkelova"
+      ],
+      "children": [
+        "anna-tschinkelova-smidova"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "6489",
+          "detail": "snímek 20"
+        }
+      ],
+      "notes": [
+        "Otec Anny v zápisu 1887 není jmenován."
+      ]
+    },
+    {
+      "id": "u-tschinkel-diener",
+      "partners": [
+        "josef-tschinkel",
+        "anna-diener"
+      ],
+      "children": [
+        "aloisie-tschinkelova"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "6489",
+          "detail": "snímek 20"
+        }
+      ]
+    },
+    {
+      "id": "u-leopold-muller",
+      "partners": [
+        "leopold-muller",
+        "marie-nagelova"
+      ],
+      "children": [
+        "marie-mullerova-1896"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "13-9353",
+          "detail": "folio 71"
+        }
+      ]
+    },
+    {
+      "id": "u-franz-nagel",
+      "partners": [
+        "franz-nagel"
+      ],
+      "children": [
+        "marie-nagelova"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "13-9353"
+        }
+      ]
+    },
+    {
+      "id": "u-jan-pross-emma",
+      "partners": [
+        "jan-pross-1902",
+        "emma-rosenberger-1902"
+      ],
+      "married": {
+        "display": "22. 8. 1925",
+        "date": "1925-08-22",
+        "place": "Martínkovice",
+        "note": "Farní kostel, oddal P. Theofil Herrmann, kaplan. Ohlášky 2., 9. a 16. srpna. Oba katolíci, svobodní, 23 a 22 let."
+      },
+      "children": [
+        "hedvika-prossova-1922"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "99-8015",
+          "detail": "snímek 137, folio 132"
+        },
+        {
+          "label": "Rodný list Gerdy, 1948"
+        }
+      ],
+      "notes": [
+        "Hedvika *9. 3. 1922 se narodila před sňatkem; list Gerdy ji uvádí jako legitimovanou dceru. Výslovná doložka legitimace v oddacím zápisu 1925 není."
+      ]
+    },
+    {
+      "id": "u-anton-pross-mader",
+      "partners": [
+        "anton-pross",
+        "johanna-mader"
+      ],
+      "married": {
+        "display": "19. 2. 1890",
+        "date": "1890-02-19",
+        "place": "Sedloňov (index)",
+        "note": "Jen index 144-7, str. 22 pozdější (v ARON nezveřejněné) oddací matriky. Tělo po 11. 1877 v ARON není."
+      },
+      "children": [
+        "jan-pross-1902"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, index",
+          "signatura": "144-7",
+          "detail": "snímek 26"
+        },
+        {
+          "label": "ARON, sňatek syna",
+          "signatura": "99-8015"
+        }
+      ],
+      "notes": [
+        "Tělo sňatku by potvrdilo rodiče Jana *1902; v ARON chybí. Časově i jmény zápis sedí."
+      ]
+    },
+    {
+      "id": "u-anna-rosenberger-alone",
+      "partners": [
+        "anna-rosenberger-1879"
+      ],
+      "children": [
+        "emma-rosenberger-1902"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "174-7364",
+          "detail": "snímek 94"
+        }
+      ],
+      "notes": [
+        "Emma je nemanželská; otec není jmenován."
+      ]
+    },
+    {
+      "id": "u-franz-rosenberger-genovefa",
+      "partners": [
+        "franz-rosenberger",
+        "genovefa-meier"
+      ],
+      "children": [
+        "anna-rosenberger-1879"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "174-7364"
+        },
+        {
+          "label": "ARON",
+          "signatura": "99-8015"
+        }
+      ]
+    },
+    {
+      "id": "u-benedikt-meier",
+      "partners": [
+        "benedikt-meier"
+      ],
+      "children": [
+        "genovefa-meier"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "174-7364"
+        }
+      ]
+    }
+  ],
+  "identifications": [
+    {
+      "id": "id-jan-maroul-71-54",
+      "a": "jan-maroul-ns71",
+      "b": "jan-maroul-ns54",
+      "certainty": "pravdepodobne",
+      "notes": [
+        "Souhra jmen a tchána Jana Másla, výměnkáře v Nízké Srbské, je silná. Dům: podruh/chalupník č. 71 (1846–1874) × chalupník č. 54 (1878). Změna stavu i čísla je životně možná, ale není to týž dům — neslučovat potichu."
+      ],
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-15"
+        },
+        {
+          "label": "ARON",
+          "signatura": "96-7319"
+        },
+        {
+          "label": "ARON",
+          "signatura": "130-7417"
+        }
+      ]
+    },
+    {
+      "id": "id-anna-maslo-71-54",
+      "a": "anna-maslo-ns71",
+      "b": "anna-maslo-ns54",
+      "certainty": "pravdepodobne",
+      "notes": [
+        "Obě Anny jsou dcery Jana Másla, výměnkáře v Nízké Srbské, a manželky Jana Maroula. Viz také rozdíl domu otce 30 vs 39."
+      ],
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-15"
+        },
+        {
+          "label": "ARON",
+          "signatura": "96-7319"
+        }
+      ]
+    },
+    {
+      "id": "id-jan-maslo-30-39",
+      "a": "jan-maslo-ns71-otec",
+      "b": "jan-maslo-ns39",
+      "certainty": "pravdepodobne",
+      "notes": [
+        "Výměnkář Jan Máslo: č. 30 (1846, už nebožtík), č. 39 (1850, 1878). Obě čísla ponechat."
+      ],
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-15"
+        },
+        {
+          "label": "ARON",
+          "signatura": "96-7319"
+        }
+      ]
+    }
+  ],
+  "candidate_links": [
+    {
+      "id": "cand-ludvik-josef1857",
+      "type": "parent-child",
+      "child": "ludvik-jirman-1908",
+      "parents": [
+        "josef-jirman-1857"
+      ],
+      "maybe_parent_union": "u-josef1857-frantiska-n",
+      "certainty": "kandidat",
+      "sources": [
+        {
+          "label": "Zatím bez zápisu",
+          "detail": "narození Ludvíka *18. 8. 1908 NS 67 v ARON není (kniha po 3. 1905)"
+        }
+      ],
+      "notes": [
+        "Josef *18. 11. 1857, chalupník NS č. 75 v letech 1900–1901, je věkově možný otec, ale vazba není dokázána.",
+        "Z druhého manželství je doložena dcera Josefa *10. 10. 1900 NS č. 75. V 96-7319 do 26. 3. 1905 další dítě tohoto páru ani zápis u NS 67 není.",
+        "Tuto vazbu v mapě nezaměňovat s potvrzeným otcovstvím."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta name="googlebot" content="noindex, nofollow, noarchive">
+  <meta name="description" content="Rodokmen rodiny Jirman — interaktivní mapa podle matrik a rodinných podkladů. Soukromá stránka, neindexovat.">
+  <title>Rodokmen rodiny Jirman</title>
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <h1>Rodokmen rodiny Jirman</h1>
+      <p id="meta-line">Načítání…</p>
+    </div>
+    <div class="search">
+      <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M15.5 14h-.79l-.28-.27A6.47 6.47 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79L20 21.5 21.5 20zM9.5 14C7 14 5 12 5 9.5S7 5 9.5 5 14 7 14 9.5 12 14 9.5 14z"/></svg>
+      <input id="q" type="search" placeholder="Hledat jméno, místo, rok…" autocomplete="off" enterkeyhint="search">
+      <div id="results" class="search-results"></div>
+    </div>
+    <div class="tools">
+      <button type="button" id="fit" title="Zobrazit celek">Celek</button>
+      <button type="button" id="focus" title="Přejít na Štěpána">Štěpán</button>
+      <button type="button" id="legend-btn" aria-pressed="false" title="Legenda">Legenda</button>
+    </div>
+  </header>
+
+  <aside class="legend" id="legend">
+    <h2>Jistota údaje</h2>
+    <div class="row"><span class="swatch potvrzeno"></span><span>Potvrzeno zápisem — matrika, list, nebo potvrzený rodinný podklad</span></div>
+    <div class="row"><span class="swatch pravdepodobne"></span><span>Pravděpodobné — silná souhra, ale zbývá výhrada (dům, jméno, chybějící sňatek)</span></div>
+    <div class="row"><span class="swatch kandidat"></span><span>Kandidát — nedoloženo, zejména vazba Ludvík *1908 → Josef *1857</span></div>
+    <h2 style="margin-top:12px">Větve</h2>
+    <div class="branches" id="branch-chips"></div>
+  </aside>
+
+  <div class="viewport" id="viewport" aria-label="Mapa rodokmenu">
+    <div class="world" id="world">
+      <svg class="links" id="links"></svg>
+    </div>
+  </div>
+
+  <aside class="panel" id="panel" aria-hidden="true">
+    <button type="button" class="close" id="panel-close" aria-label="Zavřít">×</button>
+    <div id="panel-body"></div>
+  </aside>
+
+  <div class="hint">Tažení posouvá, kolečko přibližuje. Klávesa / hledá, Esc zavře kartu.</div>
+
+  <script src="./js/layout.js"></script>
+  <script src="./js/app.js"></script>
+</body>
+</html>
