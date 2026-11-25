@@ -927,10 +927,14 @@
       "id": "jan-klimes-vymenkar",
       "name": "Jan Klimeš",
       "maiden": null,
-      "birth": null,
+      "birth": {
+        "display": "cca 1820",
+        "precision": "circa",
+        "note": "24 let k 19. 11. 1844."
+      },
       "baptism": null,
       "death": null,
-      "occupation": "Chalupník (Häusler) ve Vysoké Srbské (1857); výměnkář, Machov č. 75 (1878, 1880).",
+      "occupation": "Tkadlec (Weber) při sňatku 1844; chalupník (Häusler) ve Vysoké Srbské (1857); výměnkář, Machov č. 75 (1878, 1880).",
       "places": [
         "Vysoká Srbská (1857)",
         "Machov č. 75 (1878, 1880)"
@@ -939,6 +943,12 @@
       "certainty": "potvrzeno",
       "living": false,
       "sources": [
+        {
+          "label": "ARON, sňatek 19. 11. 1844",
+          "signatura": "53-53",
+          "detail": "snímek 25, fol. 23, 2. zápis (Vysoká Srbská)",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/dao/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/file/18fbaaf5-f2cb-4110-8396-876402d9822d"
+        },
         {
           "label": "ARON",
           "signatura": "53-20"
@@ -953,7 +963,8 @@
         }
       ],
       "notes": [
-        "Dne 11. 5. 1880 dal souhlas k sňatku nezletilého syna a vlastnoručně se podepsal."
+        "Dne 11. 5. 1880 dal souhlas k sňatku nezletilého syna a vlastnoručně se podepsal.",
+        "Sňatek 19. 11. 1844 ve Vysoké Srbské: syn Františka Klimeše, tkadlece a podruha ze Zlíčka č. 31 (panství Police), a Kateřiny z Vysoké Srbské č. 27 (53-53 snímek 25)."
       ],
       "interesting": []
     },
@@ -979,6 +990,12 @@
       "living": false,
       "sources": [
         {
+          "label": "ARON, sňatek 19. 11. 1844",
+          "signatura": "53-53",
+          "detail": "snímek 25, fol. 23, 2. zápis (Vysoká Srbská)",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/dao/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/file/18fbaaf5-f2cb-4110-8396-876402d9822d"
+        },
+        {
           "label": "ARON, narození 18. 1. 1823",
           "signatura": "53-19",
           "detail": "snímek 69, pravá strana, pag. 131, poslední zápis, Vysoká Srbská č. 29",
@@ -994,7 +1011,8 @@
         }
       ],
       "notes": [
-        "Narození 18. 1. 1823 ve Vysoké Srbské č. 29 (53-19 snímek 69, pag. 131): otec Franz Spatschek, podruh (Inmann); matka Dorothea, dcera Georga Falty, podruha ze Slatiny č. 39, panství Náchod. Rodiče, domy 29 a 39 se shodují se zápisem 1857 (53-20 snímek 179). Starší Anna Spatschek *5. 10. 1818 (53-19 snímek 60, č. 7) je z jiné rodiny (otec Joseph)."
+        "Narození 18. 1. 1823 ve Vysoké Srbské č. 29 (53-19 snímek 69, pag. 131): otec Franz Spatschek, podruh (Inmann); matka Dorothea, dcera Georga Falty, podruha ze Slatiny č. 39, panství Náchod. Rodiče, domy 29 a 39 se shodují se zápisem 1857 (53-20 snímek 179). Starší Anna Spatschek *5. 10. 1818 (53-19 snímek 60, č. 7) je z jiné rodiny (otec Joseph).",
+        "Při sňatku 19. 11. 1844 (21 let) „dcera † Františka Špačka, podruha z Vysoké Srbské č. 29, a Doroty roz. Faltové ze Slatiny č. 39“; svědek Josef Špaček(?), chalupník VS č. 29."
       ],
       "interesting": []
     },
@@ -1005,7 +1023,7 @@
       "birth": null,
       "baptism": null,
       "death": null,
-      "occupation": "Tesař (Zimmermann), Zlíčko č. 31 (1857).",
+      "occupation": "Tkadlec a podruh (Weber und Inwohner), Zlíčko č. 31, panství Police (1844); tesař (Zimmermann), Zlíčko č. 31 (1857).",
       "places": [
         "Zlíčko č. 31"
       ],
@@ -1013,6 +1031,12 @@
       "certainty": "potvrzeno",
       "living": false,
       "sources": [
+        {
+          "label": "ARON, sňatek 19. 11. 1844",
+          "signatura": "53-53",
+          "detail": "snímek 25, fol. 23, 2. zápis (Vysoká Srbská)",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/dao/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/file/18fbaaf5-f2cb-4110-8396-876402d9822d"
+        },
         {
           "label": "ARON",
           "signatura": "53-20",
@@ -1038,13 +1062,20 @@
       "living": false,
       "sources": [
         {
+          "label": "ARON, sňatek 19. 11. 1844",
+          "signatura": "53-53",
+          "detail": "snímek 25, fol. 23, 2. zápis (Vysoká Srbská)",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/dao/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/file/18fbaaf5-f2cb-4110-8396-876402d9822d"
+        },
+        {
           "label": "ARON",
           "signatura": "53-20",
           "detail": "snímek 179"
         }
       ],
       "notes": [
-        "Čtení příjmení opatrné: Růžička / Ritschka."
+        "Čtení příjmení opatrné: Růžička / Ritschka.",
+        "Ve sňatku syna 1844 „Catharina gebor. Pilasch(?) von Hochsichel No. 27“ – příjmení zde čteno jinak než 1857 (Růžička/Ritschka); dům VS č. 27 souhlasí. Rodné příjmení nejisté."
       ],
       "interesting": []
     },
@@ -1067,6 +1098,12 @@
       "certainty": "potvrzeno",
       "living": false,
       "sources": [
+        {
+          "label": "ARON, sňatek 19. 11. 1844",
+          "signatura": "53-53",
+          "detail": "snímek 25, fol. 23, 2. zápis (Vysoká Srbská)",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/dao/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/file/18fbaaf5-f2cb-4110-8396-876402d9822d"
+        },
         {
           "label": "ARON",
           "signatura": "53-20"
@@ -1095,7 +1132,8 @@
         }
       ],
       "notes": [
-        "Ve Vysoké Srbské č. 29 už 1818 (narození syna Josefa 7. 10. 1818, 53-19 snímek 60) a 1823 (dcera Anna, snímek 69). V indexu narozených VS jsou Spatschkovi i 1827 (Ludmila), 1828 (Melichar) a 1832 (Marie) (53-20 snímek 227) – bez kontroly těl nepřiřazeno."
+        "Ve Vysoké Srbské č. 29 už 1818 (narození syna Josefa 7. 10. 1818, 53-19 snímek 60) a 1823 (dcera Anna, snímek 69). V indexu narozených VS jsou Spatschkovi i 1827 (Ludmila), 1828 (Melichar) a 1832 (Marie) (53-20 snímek 227) – bez kontroly těl nepřiřazeno.",
+        "Ve sňatku dcery 19. 11. 1844 zřejmě uveden jako zesnulý („des verstorbenen“) – čtení nejisté, do data úmrtí nepřeneseno."
       ],
       "interesting": []
     },
@@ -1114,6 +1152,12 @@
       "certainty": "potvrzeno",
       "living": false,
       "sources": [
+        {
+          "label": "ARON, sňatek 19. 11. 1844",
+          "signatura": "53-53",
+          "detail": "snímek 25, fol. 23, 2. zápis (Vysoká Srbská)",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/dao/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/file/18fbaaf5-f2cb-4110-8396-876402d9822d"
+        },
         {
           "label": "ARON, narození vnuka 14. 8. 1857",
           "signatura": "53-20",
@@ -1290,14 +1334,21 @@
       "birth": null,
       "baptism": null,
       "death": null,
-      "occupation": "Chalupník a výměnkář (Ausgedinger), Ledhuje č. 75 (1874).",
+      "occupation": "Tkadlec (Weber), Ledhuje č. 45 (1856); chalupník a výměnkář (Ausgedinger), Ledhuje č. 75 (1874).",
       "places": [
+        "Ledhuje č. 45 (1856)",
         "Ledhuje č. 75 (1874)"
       ],
       "branch": "maroul",
       "certainty": "potvrzeno",
       "living": false,
       "sources": [
+        {
+          "label": "ARON, sňatek 2. 6. 1856",
+          "signatura": "130-7417",
+          "detail": "snímek 15, fol. 11, zápis 2. 6. 1856 (Ledhuje č. 52); index 130-47 snímek 20, Lit. H, oddíl Ledhuj",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/569f993d-39f6-4aae-b562-28b26c65c1a6/dao/569f993d-39f6-4aae-b562-28b26c65c1a6/file/76fa0ccc-3692-420d-a95c-bf3b3123cb44"
+        },
         {
           "label": "ARON",
           "signatura": "96-7319",
@@ -4922,7 +4973,11 @@
       "id": "jan-hruby",
       "name": "Jan Hrubý",
       "maiden": null,
-      "birth": null,
+      "birth": {
+        "display": "cca 1822",
+        "precision": "circa",
+        "note": "34 let k 2. 6. 1856."
+      },
       "baptism": null,
       "death": null,
       "occupation": "Podruh (Inwohner), Ledhuje č. 52 (1874, 1878).",
@@ -4933,6 +4988,12 @@
       "certainty": "potvrzeno",
       "living": false,
       "sources": [
+        {
+          "label": "ARON, sňatek 2. 6. 1856",
+          "signatura": "130-7417",
+          "detail": "snímek 15, fol. 11, zápis 2. 6. 1856 (Ledhuje č. 52); index 130-47 snímek 20, Lit. H, oddíl Ledhuj",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/569f993d-39f6-4aae-b562-28b26c65c1a6/dao/569f993d-39f6-4aae-b562-28b26c65c1a6/file/76fa0ccc-3692-420d-a95c-bf3b3123cb44"
+        },
         {
           "label": "ARON",
           "signatura": "130-7417",
@@ -4946,7 +5007,8 @@
         }
       ],
       "notes": [
-        "Dřívější čtení „Jan Skuhra, Ledhuje č. 53“ z narození vnučky 1878 bylo chybné; v zápisu stojí „Jana Hrubého podruha v Ledhuji č. 52“ (96-7319, snímek 12)."
+        "Dřívější čtení „Jan Skuhra, Ledhuje č. 53“ z narození vnučky 1878 bylo chybné; v zápisu stojí „Jana Hrubého podruha v Ledhuji č. 52“ (96-7319, snímek 12).",
+        "Sňatek 2. 6. 1856: syn Johanna Hrubého, výměnkáře (Ausgedinger) z Ledhují č. 52, a Anny, dcery Josefa „Scheele(?)“, sedláka z Ledhují č. 34 (130-7417 snímek 15)."
       ],
       "interesting": []
     },
@@ -5144,7 +5206,11 @@
       "id": "matka-hruba-spinka",
       "name": "Františka Hrubá",
       "maiden": "Wentrová (Ventrová)",
-      "birth": null,
+      "birth": {
+        "display": "cca 1821",
+        "precision": "circa",
+        "note": "35 let k 2. 6. 1856."
+      },
       "baptism": null,
       "death": null,
       "occupation": null,
@@ -5155,6 +5221,12 @@
       "certainty": "potvrzeno",
       "living": false,
       "sources": [
+        {
+          "label": "ARON, sňatek 2. 6. 1856",
+          "signatura": "130-7417",
+          "detail": "snímek 15, fol. 11, zápis 2. 6. 1856 (Ledhuje č. 52); index 130-47 snímek 20, Lit. H, oddíl Ledhuj",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/569f993d-39f6-4aae-b562-28b26c65c1a6/dao/569f993d-39f6-4aae-b562-28b26c65c1a6/file/76fa0ccc-3692-420d-a95c-bf3b3123cb44"
+        },
         {
           "label": "ARON",
           "signatura": "130-7417",
@@ -5168,7 +5240,8 @@
         }
       ],
       "notes": [
-        "Manželka Jana Hrubého, dcera Františka Wentra (Ventra), výměnkáře v Ledhuji (96-7319, snímek 12: „Františky, dcery Františka Wentra, výměnka v Ledhuji“; 130-7417 snímek 43: „Franziska geborene Franz W?ntr, Chalupner und Ausgedinger aus Ledhuj No 75“). Dřívější čtení „roz. Špinka“ a „Skuhrová“ byla chybná."
+        "Manželka Jana Hrubého, dcera Františka Wentra (Ventra), výměnkáře v Ledhuji (96-7319, snímek 12: „Františky, dcery Františka Wentra, výměnka v Ledhuji“; 130-7417 snímek 43: „Franziska geborene Franz W?ntr, Chalupner und Ausgedinger aus Ledhuj No 75“). Dřívější čtení „roz. Špinka“ a „Skuhrová“ byla chybná.",
+        "Sňatek 2. 6. 1856: „Franziska, dcera Franze W(i/e)ntra, tkadlce z Ledhují č. 45, a Rosiny, dcery Josefa „Klepatschek(?)“, krejčího z Ledhují č. 3“. Zápis píše příjmení „Wintr/Wentr“ – shodné s Wentr/Ventr ze zápisů 1874 a 1878."
       ],
       "interesting": []
     },
@@ -5273,6 +5346,87 @@
       ],
       "notes": [
         "Otec Doroty Špačkové; uveden v narozeních vnoučat 7. 10. 1818 a 18. 1. 1823 ve Vysoké Srbské (53-19 snímky 60 a 69)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "jan-hruby-st",
+      "name": "Jan (Johann) Hrubý",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Výměnkář (Ausgedinger), Ledhuje č. 52 (1856).",
+      "places": [
+        "Ledhuje č. 52"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 2. 6. 1856",
+          "signatura": "130-7417",
+          "detail": "snímek 15, fol. 11, zápis 2. 6. 1856 (Ledhuje č. 52); index 130-47 snímek 20, Lit. H, oddíl Ledhuj",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/569f993d-39f6-4aae-b562-28b26c65c1a6/dao/569f993d-39f6-4aae-b562-28b26c65c1a6/file/76fa0ccc-3692-420d-a95c-bf3b3123cb44"
+        }
+      ],
+      "notes": [
+        "Otec ženicha Jana Hrubého při sňatku 2. 6. 1856."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "anna-hruba-st",
+      "name": "Anna Hrubá",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Ledhuje č. 34 (rodiče)"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 2. 6. 1856",
+          "signatura": "130-7417",
+          "detail": "snímek 15, fol. 11, zápis 2. 6. 1856 (Ledhuje č. 52); index 130-47 snímek 20, Lit. H, oddíl Ledhuj",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/569f993d-39f6-4aae-b562-28b26c65c1a6/dao/569f993d-39f6-4aae-b562-28b26c65c1a6/file/76fa0ccc-3692-420d-a95c-bf3b3123cb44"
+        }
+      ],
+      "notes": [
+        "Dcera Josefa, sedláka (Bauer) z Ledhují č. 34; jeho příjmení čteno „Scheele(?)“ – nejisté, proto rodné příjmení nevyplněno."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "rozina-ventrova",
+      "name": "Rozina (Rosina) Ventrová",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Ledhuje č. 3 (rodiče)"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 2. 6. 1856",
+          "signatura": "130-7417",
+          "detail": "snímek 15, fol. 11, zápis 2. 6. 1856 (Ledhuje č. 52); index 130-47 snímek 20, Lit. H, oddíl Ledhuj",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/569f993d-39f6-4aae-b562-28b26c65c1a6/dao/569f993d-39f6-4aae-b562-28b26c65c1a6/file/76fa0ccc-3692-420d-a95c-bf3b3123cb44"
+        }
+      ],
+      "notes": [
+        "Dcera Josefa, krejčího (Schneider) z Ledhují č. 3; jeho příjmení čteno „Klepatschek(?)“ – nejisté, proto rodné příjmení nevyplněno."
       ],
       "interesting": []
     }
@@ -5433,6 +5587,12 @@
       "certainty": "potvrzeno",
       "sources": [
         {
+          "label": "ARON, sňatek 19. 11. 1844",
+          "signatura": "53-53",
+          "detail": "snímek 25, fol. 23, 2. zápis (Vysoká Srbská)",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/dao/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/file/18fbaaf5-f2cb-4110-8396-876402d9822d"
+        },
+        {
           "label": "ARON",
           "signatura": "53-20"
         },
@@ -5440,7 +5600,13 @@
           "label": "ARON",
           "signatura": "53-9391"
         }
-      ]
+      ],
+      "married": {
+        "display": "19. 11. 1844",
+        "date": "1844-11-19",
+        "place": "Vysoká Srbská (fara Vysoká Srbská)",
+        "note": "Ohlášky 3., 10. a 17. 11. 1844; povolení náchodského vrchního úřadu z 11/1844; oddával děkan Joseph Wagner. Ženich 24 let, nevěsta 21 let, oba svobodní."
+      }
     },
     {
       "id": "u-klimes-tesar-ruzickova",
@@ -5596,13 +5762,20 @@
     {
       "id": "u-ventr",
       "partners": [
-        "frantisek-ventr"
+        "frantisek-ventr",
+        "rozina-ventrova"
       ],
       "children": [
         "matka-hruba-spinka"
       ],
       "certainty": "potvrzeno",
       "sources": [
+        {
+          "label": "ARON, sňatek 2. 6. 1856",
+          "signatura": "130-7417",
+          "detail": "snímek 15, fol. 11, zápis 2. 6. 1856 (Ledhuje č. 52); index 130-47 snímek 20, Lit. H, oddíl Ledhuj",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/569f993d-39f6-4aae-b562-28b26c65c1a6/dao/569f993d-39f6-4aae-b562-28b26c65c1a6/file/76fa0ccc-3692-420d-a95c-bf3b3123cb44"
+        },
         {
           "label": "ARON",
           "signatura": "96-7319",
@@ -7114,6 +7287,12 @@
       "certainty": "potvrzeno",
       "sources": [
         {
+          "label": "ARON, sňatek 2. 6. 1856",
+          "signatura": "130-7417",
+          "detail": "snímek 15, fol. 11, zápis 2. 6. 1856 (Ledhuje č. 52); index 130-47 snímek 20, Lit. H, oddíl Ledhuj",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/569f993d-39f6-4aae-b562-28b26c65c1a6/dao/569f993d-39f6-4aae-b562-28b26c65c1a6/file/76fa0ccc-3692-420d-a95c-bf3b3123cb44"
+        },
+        {
           "label": "ARON",
           "signatura": "130-7417",
           "detail": "snímek 43"
@@ -7124,7 +7303,13 @@
           "detail": "snímek 12, folio 14, 1. zápis, Nízká Srbská č. 54",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/335ade0a-eccc-4c8a-a917-becf12f1d6fe/dao/335ade0a-eccc-4c8a-a917-becf12f1d6fe/file/4047fbf3-6a2b-47f1-b8c0-f44f8b8c15aa"
         }
-      ]
+      ],
+      "married": {
+        "display": "2. 6. 1856",
+        "date": "1856-06-02",
+        "place": "Ledhuje (fara Police nad Metují)",
+        "note": "Ohlášky 18. a 25. 5. a 1. 6. 1856; oddával děkan Franz Brand. Ženich 34 let, nevěsta 35 let, oba svobodní. Svědek mj. Franz W(i/e)ntr z Ledhují č. 45."
+      }
     },
     {
       "id": "u-jiri-falta",
@@ -7147,6 +7332,25 @@
           "signatura": "53-19",
           "detail": "snímek 69, pravá strana, pag. 131, poslední zápis, Vysoká Srbská č. 29",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/aaeba355-4492-4eb5-b672-50da71f3b683"
+        }
+      ]
+    },
+    {
+      "id": "u-hruby-st",
+      "partners": [
+        "jan-hruby-st",
+        "anna-hruba-st"
+      ],
+      "children": [
+        "jan-hruby"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, sňatek 2. 6. 1856",
+          "signatura": "130-7417",
+          "detail": "snímek 15, fol. 11, zápis 2. 6. 1856 (Ledhuje č. 52); index 130-47 snímek 20, Lit. H, oddíl Ledhuj",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/569f993d-39f6-4aae-b562-28b26c65c1a6/dao/569f993d-39f6-4aae-b562-28b26c65c1a6/file/76fa0ccc-3692-420d-a95c-bf3b3123cb44"
         }
       ]
     }
@@ -7778,7 +7982,7 @@
       "id": "q-pross-dorner-puvod",
       "title": "Proß a Dörner — původ Josefa Proße a rodná příjmení Agathe a Marie",
       "summary": "Sňatek Anton Proß × Franziska Dörner 15. 6. 1858 (144-3943, snímek 77) a narození Antona 13. 7. 1866 (144-3938, snímek 62) jmenují Josefa Proße, zahradníka v č. 6, a Agathe z Malého Uhřínova; Johanna Dörnera ze Sedloňova č. 32 a Marii z Janova č. 26.",
-      "details": "Franziska Dörner *8. 6. 1838 Sedloňov č. 39 doložena (144-3937 snímek 8); její děd Karl Dörner (Sedloňov 47) × Susanna Herzig přidáni; sňatek 20. 11. 1792 (144-5 snímek 96) a narození Johanna 12. 9. 1800 (144-2 snímek 110) doloženy. Rozpor: zápis 1838 jmenuje otcem Susanny Antona Herziga, chalupníka č. 114, ale zápisy 1792 a 1800 shodně † Adama Herziga; Anton Herzig, syn po † Adamovi, se ženil 29. 1. 1793 (144-5 snímek 96, dům 48) — byl to tedy její bratr. V mapě je otcem Adam. Křest Karla Dörnera: index 144-6 snímek 7 má Karly 5. 4. 1763 (s. 1), 1766 (s. 28, 144-2 snímek 19 — syn Johanna a Anny Dorothey, ne Christopha) a 11/1768 (s. 40, 144-2 snímek 25 — syn Johanna Christopha Dörnera a Susanny). Kandidát 1768 nesedí přesně s věkem 25 v roce 1792; nezapsáno. Karl 5. 4. 1763 (144-2 snímek 5) je syn Melchiora Dörnera a Dorothey — vyloučen (výřez vypisy/_sheets/144-2/z144-2-s5-1763-04-karl-dorner-syn-melchiora.jpg). Jediným kandidátem se jménem otce Christoph tak zůstává Karl 11/1768. Nejisté: rodné příjmení Marie Dörnerové — 1838 dcera Franze „Czwentaczka(?)“, chalupníka v Janově č. 26, a Marie, dcery Antona „Ulrich(?)“ z Janova č. 28 (panství Opočno); 1858 čteno „Czerlaika / Lwotaika“. Proß: Anton st. *kolem 1828 v sedloňovském indexu 1825–1838 (144-3, snímek 90, písmeno P) NENÍ — narodil se jinde. Obec otce Josefa (č. 6) čtena „Bauratal / Banatal(?)“, matka Agathe roz. „Beik / Leik(?)“ z „Klein-Aurim“ č. 2, Bezirksamt čten „Aicheneu / Auscherau(?)“ — neidentifikováno; možná Malá Úpa (Klein-Aupa) a okres Maršov, ověřit. Další krok: Janov u Sedloňova — fara Sedloňov? (Janov patří k Opočnu, fara pravděpodobně Bystré / Olešnice); identifikace obce Proßů. Kolo 25. 11. 2026 (noc): sňatek Johann Dörner × Maria v Bystrém NENÍ — Janov 1811–1826 (14-4 snímky 55–56, 69–73) bez Dörnera; index sňatků 14-5 písmeno D 1829–1849 (snímek 198) bez Dörnera („Dinter Johann“ 1840 je jiná osoba). Svatba byla nejspíš ve farnosti ženicha (Sedloňov?) nebo jinde. Kolo 25. 11. 2026 (ráno): sňatek Johann Dörner × Maria NENÍ ani v sedloňovském indexu oddaných 144-7 (snímky 7 R–8 L, ženichové Dörner 1795–1880): Johannové 1827 × Theresia Feiner(?), 1830 × Theresia Walsch, 1836 × Theresia Fabel, 5. 11. 1840 × Maria Dörner (tělo 144-3943 snímek 48: Johann, syn Josefa ze Sedloňova č. 50, 31 let × Maria z č. 69 — jiný pár). Svatba Johanna × Marie (Janov č. 26) byla tedy mimo Sedloňov i Bystré. Kolo C (25. 11. 2026): Index zemřelých Sedloňov 144-3946 (snímek 186, oddíl D, 1795–1863) uvádí mezi lety 1800–1838 jediného dospělého Karla Dörnera: str. 52, tj. snímek 31 — 1817, „Carl Dörner, Feldgärtner“, Sedloňov č. 71, 48 let (tj. narozen kolem 1768/69). Jinak je v indexu jen Carl, syn Johanna, 1802 (1 den). Věk 48 podporuje kandidátní křest z listopadu 1768 (144-2 snímek 25), ale dům č. 71 a povolání zahradník se liší od „Weber, č. 47“ (1800), takže zatím nejde o jistou shodu. Christoph Dörner zemřelý 16. 8. 1796 (č. 66) v indexu je jiná osoba, protože otec Karla byl už 1792 nebožtík. Kolo D (25. 11. 2026): Úmrtí Johanna Christopha Dörnera 13. 3. 1791 (Sedloňov č. 47, 79 let; 144-5 snímek 248) je zapsané do mapy. Jméno Johann Christoph a dům 47 dále podporují, že kandidátní křest Carolus z listopadu 1768 (otec Johann Christoph Dörner × Susanna) je náš Karl. Karl je proto silný kandidát; datum narození ale zatím nezapisuji, dokud nebude vyloučen jiný Carolus Dörner z let 1766–1768. Adam Herzig: v Sedloňově je úmrtí 8. 12. 1786, „Adam Herzig“, č. 91, 55 let (144-5 snímek 243), a 7. 8. 1788 Apollonia, vdova po † Adamu Herzigovi, č. 39, 68 let (snímek 246). Je to kandidát na otce Susanny, ale čísla domů (91/39) neodpovídají domům 47/48 a v obci žilo více Herzigů (např. Christoph Herzig). Proto zatím jen zde. Kolo E: Karl (křest 11/1768) a Susanna Herzig (křest 8. 2. 1767) jsou zapsáni do mapy. V dotazu zůstává kandidátní úmrtí Adama Herziga 1786 (vdova Apollonia ≠ matka Maria) a úmrtí Karla 1817 (č. 71). Kolo G2: Janov patří k faře Bystré. Oddací Janov 2/1827–1834 (14-5 snímky 70–71: 26. 2. 1827, 24. 11. 1828, 22. 9. 1831, 5. 11. 1833, 21. 8. 1834) – Dörner není; 21. 8. 1834 se z Janova č. 26 vdává Franziska, dcera Wenzela „Luzar(?)“ – jiná rodina. „Dinter Johann“ 1840 v indexu 14-5 je z Janova č. 4, ne č. 26. Sňatek Johann Dörner × Maria tedy v Bystrém 1811–1849 ani v Sedloňově není.",
+      "details": "Franziska Dörner *8. 6. 1838 Sedloňov č. 39 doložena (144-3937 snímek 8); její děd Karl Dörner (Sedloňov 47) × Susanna Herzig přidáni; sňatek 20. 11. 1792 (144-5 snímek 96) a narození Johanna 12. 9. 1800 (144-2 snímek 110) doloženy. Rozpor: zápis 1838 jmenuje otcem Susanny Antona Herziga, chalupníka č. 114, ale zápisy 1792 a 1800 shodně † Adama Herziga; Anton Herzig, syn po † Adamovi, se ženil 29. 1. 1793 (144-5 snímek 96, dům 48) — byl to tedy její bratr. V mapě je otcem Adam. Křest Karla Dörnera: index 144-6 snímek 7 má Karly 5. 4. 1763 (s. 1), 1766 (s. 28, 144-2 snímek 19 — syn Johanna a Anny Dorothey, ne Christopha) a 11/1768 (s. 40, 144-2 snímek 25 — syn Johanna Christopha Dörnera a Susanny). Kandidát 1768 nesedí přesně s věkem 25 v roce 1792; nezapsáno. Karl 5. 4. 1763 (144-2 snímek 5) je syn Melchiora Dörnera a Dorothey — vyloučen (výřez vypisy/_sheets/144-2/z144-2-s5-1763-04-karl-dorner-syn-melchiora.jpg). Jediným kandidátem se jménem otce Christoph tak zůstává Karl 11/1768. Nejisté: rodné příjmení Marie Dörnerové — 1838 dcera Franze „Czwentaczka(?)“, chalupníka v Janově č. 26, a Marie, dcery Antona „Ulrich(?)“ z Janova č. 28 (panství Opočno); 1858 čteno „Czerlaika / Lwotaika“. Proß: Anton st. *kolem 1828 v sedloňovském indexu 1825–1838 (144-3, snímek 90, písmeno P) NENÍ — narodil se jinde. Obec otce Josefa (č. 6) čtena „Bauratal / Banatal(?)“, matka Agathe roz. „Beik / Leik(?)“ z „Klein-Aurim“ č. 2, Bezirksamt čten „Aicheneu / Auscherau(?)“ — neidentifikováno; možná Malá Úpa (Klein-Aupa) a okres Maršov, ověřit. Další krok: Janov u Sedloňova — fara Sedloňov? (Janov patří k Opočnu, fara pravděpodobně Bystré / Olešnice); identifikace obce Proßů. Kolo 25. 11. 2026 (noc): sňatek Johann Dörner × Maria v Bystrém NENÍ — Janov 1811–1826 (14-4 snímky 55–56, 69–73) bez Dörnera; index sňatků 14-5 písmeno D 1829–1849 (snímek 198) bez Dörnera („Dinter Johann“ 1840 je jiná osoba). Svatba byla nejspíš ve farnosti ženicha (Sedloňov?) nebo jinde. Kolo 25. 11. 2026 (ráno): sňatek Johann Dörner × Maria NENÍ ani v sedloňovském indexu oddaných 144-7 (snímky 7 R–8 L, ženichové Dörner 1795–1880): Johannové 1827 × Theresia Feiner(?), 1830 × Theresia Walsch, 1836 × Theresia Fabel, 5. 11. 1840 × Maria Dörner (tělo 144-3943 snímek 48: Johann, syn Josefa ze Sedloňova č. 50, 31 let × Maria z č. 69 — jiný pár). Svatba Johanna × Marie (Janov č. 26) byla tedy mimo Sedloňov i Bystré. Kolo C (25. 11. 2026): Index zemřelých Sedloňov 144-3946 (snímek 186, oddíl D, 1795–1863) uvádí mezi lety 1800–1838 jediného dospělého Karla Dörnera: str. 52, tj. snímek 31 — 1817, „Carl Dörner, Feldgärtner“, Sedloňov č. 71, 48 let (tj. narozen kolem 1768/69). Jinak je v indexu jen Carl, syn Johanna, 1802 (1 den). Věk 48 podporuje kandidátní křest z listopadu 1768 (144-2 snímek 25), ale dům č. 71 a povolání zahradník se liší od „Weber, č. 47“ (1800), takže zatím nejde o jistou shodu. Christoph Dörner zemřelý 16. 8. 1796 (č. 66) v indexu je jiná osoba, protože otec Karla byl už 1792 nebožtík. Kolo D (25. 11. 2026): Úmrtí Johanna Christopha Dörnera 13. 3. 1791 (Sedloňov č. 47, 79 let; 144-5 snímek 248) je zapsané do mapy. Jméno Johann Christoph a dům 47 dále podporují, že kandidátní křest Carolus z listopadu 1768 (otec Johann Christoph Dörner × Susanna) je náš Karl. Karl je proto silný kandidát; datum narození ale zatím nezapisuji, dokud nebude vyloučen jiný Carolus Dörner z let 1766–1768. Adam Herzig: v Sedloňově je úmrtí 8. 12. 1786, „Adam Herzig“, č. 91, 55 let (144-5 snímek 243), a 7. 8. 1788 Apollonia, vdova po † Adamu Herzigovi, č. 39, 68 let (snímek 246). Je to kandidát na otce Susanny, ale čísla domů (91/39) neodpovídají domům 47/48 a v obci žilo více Herzigů (např. Christoph Herzig). Proto zatím jen zde. Kolo E: Karl (křest 11/1768) a Susanna Herzig (křest 8. 2. 1767) jsou zapsáni do mapy. V dotazu zůstává kandidátní úmrtí Adama Herziga 1786 (vdova Apollonia ≠ matka Maria) a úmrtí Karla 1817 (č. 71). Kolo G2: Janov patří k faře Bystré. Oddací Janov 2/1827–1834 (14-5 snímky 70–71: 26. 2. 1827, 24. 11. 1828, 22. 9. 1831, 5. 11. 1833, 21. 8. 1834) – Dörner není; 21. 8. 1834 se z Janova č. 26 vdává Franziska, dcera Wenzela „Luzar(?)“ – jiná rodina. „Dinter Johann“ 1840 v indexu 14-5 je z Janova č. 4, ne č. 26. Sňatek Johann Dörner × Maria tedy v Bystrém 1811–1849 ani v Sedloňově není. Kolo I: sousední fary nedočteny (čas věnován Klimešovi, Faltům a Hrubým).",
       "related_ids": [
         "anton-pross-1828",
         "josef-pross",
@@ -7860,7 +8064,7 @@
       "id": "q-mader-knopp-walsch",
       "title": "Mader, Knopp, Walsch — rodná příjmení a další generace",
       "summary": "Linie Mader je doložena do Ignaze Madera st. × Margarethy Matzner (sňatek syna 10. 2. 1825, 144-3943 snímek 25; narození vnuka 13. 1. 1833, 144-3 snímek 29).",
-      "details": "Vyřešeno 25. 11. 2026: Ignaz Mader ml. *9. 11. 1799 Polom č. 58 (144-2 snímek 195); Johanna Walsch *29. 9. 1801 Sedloňov č. 70 (144-2 snímek 112); sňatek Ignaz Mader st. × Margaretha vdova Zeiner(?) roz. Matzner 4. 1. 1799 (144-3943 snímek 118). Stále nejisté: rodné příjmení Johanny Walschové st. (1801: dcera Adalberta „Zeug / Zautz“, matka Maria dcera Franze Littnera z Martína/Marzdorfu(?) v Kladsku; 1825: „Zeug“ — dvě shodná, ale nejistá čtení); obec Antona Madera (1799, snad Kounov / Kaunay); příjmení prvního manžela Margarethy (Zeiner?); rodné příjmení Klary (dříve čteno Anna) Knoppové z Olešnice č. 161. Další krok: sňatek Ignaz Walsch × Johanna (před 1795, 144-5 bez indexu); narození Ignaze Madera st. *kolem 1780 (podle obce otce); narození Franzisky Knopp *kolem 1837 (fara Olešnice v O. h.). Kolo 25. 11. 2026 (večer): sňatek Ignaz Walsch × Johanna NENÍ v sedloňovské oddací knize 9/1784–11/1794 (144-5, snímky 89–97, prošlo se po zápisech) — svatba byla buď před 9/1784, nebo jinde (nevěsta z Kladska?). Ignaz Mader *1776–1784 NENÍ v sedloňovském indexu narozených (144-6 snímek 24) — Ignaz Mader st. se narodil mimo Sedloňov; obec otce Antona (1799) čtena „D?auschy / Hauschy(?)“, nejisté. Kolo 25. 11. 2026 (noc): Walsch × Johanna NENÍ ani v 144-5 1774–9/1784 (snímky 78–88) — sedloňovská oddací kniha je tak negativní 1774–1794 a v indexu 144-7 od 1795; svatba nejspíš ve farnosti nevěsty (Kladsko?). V indexu narozených 144-6 snímek 35 je Ignatz Walsch *1778 (otec neuveden, nezapsáno). Obec Antona Madera ve sňatku 4. 1. 1799 (144-3943 snímek 118) přečtena znovu jako „aus Dlauhey“ = Dlouhé (něm. Dlauhey); fara neurčena (není v geo vazbách knih Bystré, Olešnice, Sedloňov, Deštné, Rokytnice, Dobruška, Kunvald, Liberk, Solnice; Dlouhá Ves u Rychnova je jiná obec). Výřez vypisy/_sheets/144-3943/z144-3943-s118-1799-01-04-ignaz-mader-aus-dlauhey.jpg. VYŘEŠENO 25. 11. 2026 (ráno): Dlauhey = Dlouhé, fara Nový Hrádek; Ignaz Mader st. *31. 7. 1780 Dlouhé č. 25, rodiče Anton Mader a Anna Rosina (117-2 snímek 68). Otevřené: rodné příjmení Anny Rosiny a sňatek Antona (v indexech oddaných Nový Hrádek 1721–1787 není). Kolo C (25. 11. 2026): V indexu narozených Nový Hrádek 1721–1771 (117-13, snímek 24) je jediný Antonius Madr: „Madr Antonius, Rzy, 130“. Zápis 117-1 snímek 137 (fol. 131) uvádí 6. 8. 1759 Antonína, syna Františka Madera a Doroty z Rzů. Totožnost s Antonem Maderem z Dlouhého č. 25 (otec Ignaze *1780) není prokázaná, proto jde jen o kandidáta. Sňatek Antona s Annou Rosinou v knihách Nového Hrádku 1721–1787 není; okolní fary zatím neprohledány. Kolo F (25. 11. 2026): Franziska Knopp se narodila 14. 7. 1837 v Olešnici č. 160 (119-2 snímek 111, index 119-8 snímek 35). Josefovi rodiče Anton Knopp a Anna Maria roz. Urban jsou zapsáni v mapě. Matka (správně Klara, ne Anna) je v zápisu dcerou Augustina, zahradníka v č. 161; jeho příjmení čtu jen opatrně jako „Rignatschka / Wignatschka(?)“ (dříve čteno Corsnika / Lantnika). Matka Klary je čtena „Anna geb. Thim(?) von Blaschen(?)“. Obojí zůstává nejisté. Další krok: tělo sňatku 1829 v 119-1 a narození Klary. Index oddaných 119-9 (snímek 16): Josef Knopp × Klara 25. 10. 1829 (pag. 96) a Anton Knopp × Anna Urban(ová) 6. 2. 1795. Těla obou zápisů jsou v 119-1 (Olešnice O 10/1784–11/1835), ještě nenalezená. V indexu je i dřívější sňatek Josefa Knoppa × Theresie Klar(ové) 27. 6. 1826 (pag. 86); zda jde o téhož muže (vdovce), není ověřeno. Kolo G (25. 11. 2026): Zápis sňatku 25. 10. 1829 nalezen (119-1 snímek 111): Joseph Knopp 24 let × Klara 20 let, dcera Augustina, zahradníka z Olešnice č. 161, a Anny roz. ?; příjmení otce nevěsty čtu „Nowatschka / Newatschka(?)“, jméno a původ matky „Thim(?) v. Slauhey(?)“ – obojí nejisté, proto nezapsáno. Klara *asi 1809 NENÍ pod písmenem N v indexu narozených 119-8 (snímek 43): jediná Clara je Netikin *12. 9. 1798 č. 208, otec Adam – nehodí se. Další krok: projít narození 119-1 snímky ~265–275 (10/1808–10/1809) a hledat č. 161 / otce Augustina. Sňatek Anton Knopp × Anna Urban v únoru 1795 nalezen (119-1 snímek 71); den v matrice čten spíš 9., v indexu 6. Josef Knopp *11. 9. 1805 Olešnice č. 160 (119-1 snímek 255). Narození 119-1 snímky 266–272 (5/1808–11/1809) prošla: Klara z č. 161 tam NENÍ; je tam jen Katharina *15. 7. 1808 č. 161, otec Augustin „Nowatschka(?)“, zahradník, matka Anna dcera Johanna „Grim…(?)“ „von Dlauhey(?)“ (119-1 snímek 267) – zřejmě Klařina sestra; potvrzuje dům 161 a otce Augustina, příjmení stále nejisté. Klara se tedy nejspíš narodila 1810–1811 (věk 20 v r. 1829 je přibližný); dále projít 119-1 snímky ~273–285. Kolo G2: narození 119-1 snímky 273–278 (11/1809–1/1811) prošla – Klara z č. 161 tam není (jen Klara *3. 9. 1810 č. 122 a Klara *20. 12. 1810 č. 158, jiní otcové). Příjmení Augustina zřejmě nezačíná na N (v indexu 119-8 pod N chybí i Katharina 1808); zkusit index 119-8 pod K/H (např. „Klara … 1806 p. 173“ v Lit. K) a věk 20 brát volněji.",
+      "details": "Vyřešeno 25. 11. 2026: Ignaz Mader ml. *9. 11. 1799 Polom č. 58 (144-2 snímek 195); Johanna Walsch *29. 9. 1801 Sedloňov č. 70 (144-2 snímek 112); sňatek Ignaz Mader st. × Margaretha vdova Zeiner(?) roz. Matzner 4. 1. 1799 (144-3943 snímek 118). Stále nejisté: rodné příjmení Johanny Walschové st. (1801: dcera Adalberta „Zeug / Zautz“, matka Maria dcera Franze Littnera z Martína/Marzdorfu(?) v Kladsku; 1825: „Zeug“ — dvě shodná, ale nejistá čtení); obec Antona Madera (1799, snad Kounov / Kaunay); příjmení prvního manžela Margarethy (Zeiner?); rodné příjmení Klary (dříve čteno Anna) Knoppové z Olešnice č. 161. Další krok: sňatek Ignaz Walsch × Johanna (před 1795, 144-5 bez indexu); narození Ignaze Madera st. *kolem 1780 (podle obce otce); narození Franzisky Knopp *kolem 1837 (fara Olešnice v O. h.). Kolo 25. 11. 2026 (večer): sňatek Ignaz Walsch × Johanna NENÍ v sedloňovské oddací knize 9/1784–11/1794 (144-5, snímky 89–97, prošlo se po zápisech) — svatba byla buď před 9/1784, nebo jinde (nevěsta z Kladska?). Ignaz Mader *1776–1784 NENÍ v sedloňovském indexu narozených (144-6 snímek 24) — Ignaz Mader st. se narodil mimo Sedloňov; obec otce Antona (1799) čtena „D?auschy / Hauschy(?)“, nejisté. Kolo 25. 11. 2026 (noc): Walsch × Johanna NENÍ ani v 144-5 1774–9/1784 (snímky 78–88) — sedloňovská oddací kniha je tak negativní 1774–1794 a v indexu 144-7 od 1795; svatba nejspíš ve farnosti nevěsty (Kladsko?). V indexu narozených 144-6 snímek 35 je Ignatz Walsch *1778 (otec neuveden, nezapsáno). Obec Antona Madera ve sňatku 4. 1. 1799 (144-3943 snímek 118) přečtena znovu jako „aus Dlauhey“ = Dlouhé (něm. Dlauhey); fara neurčena (není v geo vazbách knih Bystré, Olešnice, Sedloňov, Deštné, Rokytnice, Dobruška, Kunvald, Liberk, Solnice; Dlouhá Ves u Rychnova je jiná obec). Výřez vypisy/_sheets/144-3943/z144-3943-s118-1799-01-04-ignaz-mader-aus-dlauhey.jpg. VYŘEŠENO 25. 11. 2026 (ráno): Dlauhey = Dlouhé, fara Nový Hrádek; Ignaz Mader st. *31. 7. 1780 Dlouhé č. 25, rodiče Anton Mader a Anna Rosina (117-2 snímek 68). Otevřené: rodné příjmení Anny Rosiny a sňatek Antona (v indexech oddaných Nový Hrádek 1721–1787 není). Kolo C (25. 11. 2026): V indexu narozených Nový Hrádek 1721–1771 (117-13, snímek 24) je jediný Antonius Madr: „Madr Antonius, Rzy, 130“. Zápis 117-1 snímek 137 (fol. 131) uvádí 6. 8. 1759 Antonína, syna Františka Madera a Doroty z Rzů. Totožnost s Antonem Maderem z Dlouhého č. 25 (otec Ignaze *1780) není prokázaná, proto jde jen o kandidáta. Sňatek Antona s Annou Rosinou v knihách Nového Hrádku 1721–1787 není; okolní fary zatím neprohledány. Kolo F (25. 11. 2026): Franziska Knopp se narodila 14. 7. 1837 v Olešnici č. 160 (119-2 snímek 111, index 119-8 snímek 35). Josefovi rodiče Anton Knopp a Anna Maria roz. Urban jsou zapsáni v mapě. Matka (správně Klara, ne Anna) je v zápisu dcerou Augustina, zahradníka v č. 161; jeho příjmení čtu jen opatrně jako „Rignatschka / Wignatschka(?)“ (dříve čteno Corsnika / Lantnika). Matka Klary je čtena „Anna geb. Thim(?) von Blaschen(?)“. Obojí zůstává nejisté. Další krok: tělo sňatku 1829 v 119-1 a narození Klary. Index oddaných 119-9 (snímek 16): Josef Knopp × Klara 25. 10. 1829 (pag. 96) a Anton Knopp × Anna Urban(ová) 6. 2. 1795. Těla obou zápisů jsou v 119-1 (Olešnice O 10/1784–11/1835), ještě nenalezená. V indexu je i dřívější sňatek Josefa Knoppa × Theresie Klar(ové) 27. 6. 1826 (pag. 86); zda jde o téhož muže (vdovce), není ověřeno. Kolo G (25. 11. 2026): Zápis sňatku 25. 10. 1829 nalezen (119-1 snímek 111): Joseph Knopp 24 let × Klara 20 let, dcera Augustina, zahradníka z Olešnice č. 161, a Anny roz. ?; příjmení otce nevěsty čtu „Nowatschka / Newatschka(?)“, jméno a původ matky „Thim(?) v. Slauhey(?)“ – obojí nejisté, proto nezapsáno. Klara *asi 1809 NENÍ pod písmenem N v indexu narozených 119-8 (snímek 43): jediná Clara je Netikin *12. 9. 1798 č. 208, otec Adam – nehodí se. Další krok: projít narození 119-1 snímky ~265–275 (10/1808–10/1809) a hledat č. 161 / otce Augustina. Sňatek Anton Knopp × Anna Urban v únoru 1795 nalezen (119-1 snímek 71); den v matrice čten spíš 9., v indexu 6. Josef Knopp *11. 9. 1805 Olešnice č. 160 (119-1 snímek 255). Narození 119-1 snímky 266–272 (5/1808–11/1809) prošla: Klara z č. 161 tam NENÍ; je tam jen Katharina *15. 7. 1808 č. 161, otec Augustin „Nowatschka(?)“, zahradník, matka Anna dcera Johanna „Grim…(?)“ „von Dlauhey(?)“ (119-1 snímek 267) – zřejmě Klařina sestra; potvrzuje dům 161 a otce Augustina, příjmení stále nejisté. Klara se tedy nejspíš narodila 1810–1811 (věk 20 v r. 1829 je přibližný); dále projít 119-1 snímky ~273–285. Kolo G2: narození 119-1 snímky 273–278 (11/1809–1/1811) prošla – Klara z č. 161 tam není (jen Klara *3. 9. 1810 č. 122 a Klara *20. 12. 1810 č. 158, jiní otcové). Příjmení Augustina zřejmě nezačíná na N (v indexu 119-8 pod N chybí i Katharina 1808); zkusit index 119-8 pod K/H (např. „Klara … 1806 p. 173“ v Lit. K) a věk 20 brát volněji. Kolo I: index 119-8 Lit. K (snímky 33–34) – Katharina 1808 (č. 161) pod K není, takže příjmení Augustina nezačíná na K. Lit. K má 1805–1806 dvě Klary (pag. 171 a 173); pag. 171 = Klara Anna *8. 11. 1805, č. 244, otec jiný (ne Augustin) – vyloučena. Příjmení Augustina v zápisu 1808 čteno znovu: „Nowatschka / Rowatschka(?)“ – zkusit Lit. R.",
       "related_ids": [
         "ignaz-mader-st",
         "anna-knopp",
@@ -7915,12 +8119,14 @@
     },
     {
       "id": "q-klimes-snatek",
-      "title": "Sňatek Jana Klimeše a Anny Špačkové",
-      "summary": "Rodiče Františka Klimeše *14. 8. 1857 (Vysoká Srbská č. 9), Jan Klimeš a Anna roz. Špačková z Vysoké Srbské č. 29, zatím nemají nalezený sňatek.",
-      "details": "Negativní: Hronov O 1834–1870 (53-53) a Machov město O 8. 1836–11. 1862 (96-16, snímky 20–41 čteny jen v přehledu jmen ženichů, Jan Klimeš nenalezen; čtení není úplné). Zbývá: Police nad Metují — index oddaných 130-47 (oddíl K, snímky 32–36: hlavně německé vsi, zatím neprojitý řádek po řádku), Velké Petrovice a Žďár nad Metují. Kolo G2: Anna Špačková *18. 1. 1823 VS č. 29 (53-19 snímek 69) – sňatek tedy asi 1843–1857. O VS 53-53 snímky 20–24 (1840–1845) v náhledu nečitelné, nedočteno.",
+      "title": "Sňatek Jana Klimeše a Anny Špačkové – VYŘEŠENO (19. 11. 1844); zbývá původ Jana a rodné příjmení Kateřiny",
+      "summary": "Sňatek nalezen: Vysoká Srbská 19. 11. 1844 (53-53 snímek 25). Otevřené zůstává narození Jana (*cca 1820, Zlíčko/panství Police?) a rodné příjmení jeho matky Kateřiny (1857 „Růžička/Ritschka“, 1844 „Pilasch(?)“).",
+      "details": "Negativní: Hronov O 1834–1870 (53-53) a Machov město O 8. 1836–11. 1862 (96-16, snímky 20–41 čteny jen v přehledu jmen ženichů, Jan Klimeš nenalezen; čtení není úplné). Zbývá: Police nad Metují — index oddaných 130-47 (oddíl K, snímky 32–36: hlavně německé vsi, zatím neprojitý řádek po řádku), Velké Petrovice a Žďár nad Metují. Kolo G2: Anna Špačková *18. 1. 1823 VS č. 29 (53-19 snímek 69) – sňatek tedy asi 1843–1857. O VS 53-53 snímky 20–24 (1840–1845) v náhledu nečitelné, nedočteno. Kolo I (25. 11. 2026): sňatek nalezen v 53-53 snímek 25 (fol. 23) při plném rozlišení – Johann Klimesch, tkadlec, 24 let, syn Franze Klimesche, tkadlece a podruha ze Zlíčka č. 31 (panství Police), a Kateřiny „Pilasch(?)“ z VS č. 27; nevěsta Anna, 21 let, dcera † Franze Špačka, podruha z VS č. 29, a Doroty roz. Faltové ze Slatiny č. 39. Výřez vypisy/53-53/z53-53-s25-1844-11-19-snatek-jan-klimes-anna-spackova.jpg. Další krok: narození Jana cca 1820 – Zlíčko patřilo k panství Police, ale do fary Hronov/VS; zlíčský index 1816–1834 negativní, zkusit Police 130-44 (index N 1785–1833).",
       "related_ids": [
         "jan-klimes-vymenkar",
-        "anna-spackova"
+        "anna-spackova",
+        "katerina-ruzickova",
+        "frantisek-klimes-tesar"
       ],
       "sources": [
         {
@@ -7934,7 +8140,7 @@
       "id": "q-syrovy-kumpost-1779",
       "title": "Syrový a Kumpošt v Chocni — sňatek Vojtěcha a rodné příjmení Rozálie",
       "summary": "Sňatek Františka Kumpošta a Rozálie 7. 11. 1779 je nalezen (2104 snímek 243); sňatek Vojtěcha Syrového a Kateřiny zatím ne.",
-      "details": "Kolo G (25. 11. 2026): Rozálie Kumpoštová je 1779 „filia Francisci Hegny(?)“ z Chocně – příjmení čtu nejistě, proto není v mapě. Sňatek Vojtěch Syrový × Kateřina NENÍ v oddací knize 2104 v letech 9/1775–2/1780 (snímky 233–243, procházeno po zápisech, čtení skupinové). V knize je ale 18. 11. 1777 (2104 snímek 238, výřez vypisy/2104/z2104-s238-1777-11-18-vojtech-syrovy-anna.jpg): „Syrowy Adalbertus viduus incola Choyna cum Anna vidua post † Franciscum Przehoda Choyna“, dům č. 136 – Vojtěch Syrový jako vdovec si bere vdovu Annu. Jestli je to tentýž Vojtěch (otec Josefa *20. 3. 1780 z č. 13, matka Kateřina), není prokázáno; buď je to jiný Vojtěch, nebo Anna brzy zemřela a následoval další sňatek, nebo je ve křtu 1780 jméno matky jinak. Další krok: úmrtí Anny Syrové 1777–1779 (Choceň Z 2111) a sňatek 1773–1775 (2104 snímky ~222–230); také první manželství Vojtěcha (vdovec 1777).",
+      "details": "Kolo G (25. 11. 2026): Rozálie Kumpoštová je 1779 „filia Francisci Hegny(?)“ z Chocně – příjmení čtu nejistě, proto není v mapě. Sňatek Vojtěch Syrový × Kateřina NENÍ v oddací knize 2104 v letech 9/1775–2/1780 (snímky 233–243, procházeno po zápisech, čtení skupinové). V knize je ale 18. 11. 1777 (2104 snímek 238, výřez vypisy/2104/z2104-s238-1777-11-18-vojtech-syrovy-anna.jpg): „Syrowy Adalbertus viduus incola Choyna cum Anna vidua post † Franciscum Przehoda Choyna“, dům č. 136 – Vojtěch Syrový jako vdovec si bere vdovu Annu. Jestli je to tentýž Vojtěch (otec Josefa *20. 3. 1780 z č. 13, matka Kateřina), není prokázáno; buď je to jiný Vojtěch, nebo Anna brzy zemřela a následoval další sňatek, nebo je ve křtu 1780 jméno matky jinak. Další krok: úmrtí Anny Syrové 1777–1779 (Choceň Z 2111) a sňatek 1773–1775 (2104 snímky ~222–230); také první manželství Vojtěcha (vdovec 1777). Kolo I: 2104 snímky 224–232 (11/1772–2/1776) prošly – Vojtěch Syrový jako ženich není. Nalezeny jen příbuzné zmínky: 9/1773 „Anna vidua post † Joannem Syrowy“ (snímek 225) a 8/1775 Jan Přihoda × „Anna filia Wenceslai Syrowy Choyna“ (snímek 227) – do mapy nepřeneseno. Sňatek Vojtěcha s Kateřinou tedy není v 2104 v 11/1772–2/1780; zbývá před 11/1772 nebo po 2/1780 (pokud je Kateřina 2. manželka a Josef 1780 nebyl první dítě).",
       "related_ids": [
         "vojtech-syrovy",
         "katerina-syrova-1780",
@@ -7953,6 +8159,25 @@
           "signatura": "2104",
           "detail": "snímek 243, levá strana, 3. zápis, Choceň č. 51",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/f216e5ed-8619-44d6-9443-605455762eb2/dao/f216e5ed-8619-44d6-9443-605455762eb2/file/1d79f6a3-6b73-4847-a181-bae21d3a1415"
+        }
+      ]
+    },
+    {
+      "id": "q-falta-slatina",
+      "title": "Dorota Faltová a Jiří Falta ze Slatiny nad Úpou – narození a sňatek Špaček × Faltová",
+      "summary": "Slatina nad Úpou patří k faře Boušín. Sňatek Františka Špačka a Doroty Faltové ve Slatině 9/1810–2/1819 (12-4) není. Kandidátka na narození: Dorota Marie Faltová *12. 3. 1792, Slatina č. 109, otec Jiří Falta, matka Dorota Lorencová(?) – dům se neshoduje (1818/1823 č. 39), proto mimo mapu.",
+      "details": "Fara: Boušín (ARON fary B), knihy 12-2 (N Slatina 1784–1834), 12-4 (O Slatina 6.1784–6.1853), 12-5 (Z 1784–1847), 12-7 (index N/Z/O 1784–1847). Oddací 12-4 snímky 23–28 (9/1810–2/1819) prošly – nevěsta z č. 39 ani Dorota Faltová tam není. Index 12-7 snímek 11 (Lit. F): rodina Falta ve Slatině velmi početná; „Faltowa Dorota z Slatiny 792“. 12-2 snímek 26, pag. 42: 12. 3. 1792, č. 109, Dorota Marie, otec Jiří Falta („lomník?“), matka Dorota roz. Lorencová(?). Výřez vypisy/12-2/z12-2-s26-1792-03-12-dorota-marie-faltova-kandidat.jpg; ARON https://aron.vychodoceskearchivy.cz/apu/10bcc7ad-6f37-4659-8328-2e58bd1d4a00/dao/10bcc7ad-6f37-4659-8328-2e58bd1d4a00/file/34df6c5e-5ccd-4543-a1c6-a9b06d764204. Další krok: sňatek mohl být ve VS/Hronově (hronovské indexy podle ženicha Špačka byly negativní) nebo před 9/1810; ověřit Doroty věk v úmrtí (VS) a další Doroty Faltové v indexu 12-7.",
+      "related_ids": [
+        "dorota-justova",
+        "jiri-falta-slatina",
+        "frantisek-spacek"
+      ],
+      "sources": [
+        {
+          "label": "ARON, kandidátka narození 12. 3. 1792",
+          "signatura": "12-2",
+          "detail": "snímek 26, pag. 42",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcc7ad-6f37-4659-8328-2e58bd1d4a00/dao/10bcc7ad-6f37-4659-8328-2e58bd1d4a00/file/34df6c5e-5ccd-4543-a1c6-a9b06d764204"
         }
       ]
     }

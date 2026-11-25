@@ -53,6 +53,7 @@
    "apu": "569f993d-39f6-4aae-b562-28b26c65c1a6",
    "dao": "569f993d-39f6-4aae-b562-28b26c65c1a6",
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 130-7417 (poř.č. 8768), 1842-5.1904",
+   "popis": "římskokatolická matrika ODDANÝCH, Velká Ledhuje + Malá Ledhuje",
    "url": "https://aron.vychodoceskearchivy.cz/apu/569f993d-39f6-4aae-b562-28b26c65c1a6"
   },
   "130-4326": {
@@ -460,6 +461,20 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 53-19 (poř.č. 3671), 1784-1825",
    "popis": "římskokatolická matrika NAROZENÝCH, římskokatolický index NAROZENÝCH, Vysoká Srbská (5.1784-3.1825)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3"
+  },
+  "53-53": {
+   "apu": "71f912a9-76a8-4d96-ba3d-f1de19b3b6bd",
+   "dao": "71f912a9-76a8-4d96-ba3d-f1de19b3b6bd",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 53-53 (poř.č. 3731), 1834-1870",
+   "popis": "římskokatolická matrika ODDANÝCH, římskokatolický index ODDANÝCH, Vysoká Srbská\nindex pouze 1834",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd"
+  },
+  "12-2": {
+   "apu": "10bcc7ad-6f37-4659-8328-2e58bd1d4a00",
+   "dao": "10bcc7ad-6f37-4659-8328-2e58bd1d4a00",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 12-2 (poř.č. 453), 5.1784-1834",
+   "popis": "římskokatolická matrika NAROZENÝCH, Slatina nad Úpou",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/10bcc7ad-6f37-4659-8328-2e58bd1d4a00"
   }
  },
  "aliasy": {
@@ -547,6 +562,15 @@
    "nahled": "img/zdroje/119-9_s016.jpg",
    "velky": "img/zdroje/119-9_s016_velky.jpg",
    "vyrez_soubor": "z119-9-s16-1829-10-25-josef-knopp-klara.jpg"
+  },
+  "12-2|26": {
+   "signatura": "12-2",
+   "snimek": 26,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/10bcc7ad-6f37-4659-8328-2e58bd1d4a00/dao/10bcc7ad-6f37-4659-8328-2e58bd1d4a00/file/34df6c5e-5ccd-4543-a1c6-a9b06d764204",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/12-2_s026.jpg",
+   "velky": "img/zdroje/12-2_s026_velky.jpg",
+   "vyrez_soubor": "z12-2-s26-1792-03-12-dorota-marie-faltova-kandidat.jpg"
   },
   "13-32|70": {
    "signatura": "13-32",
@@ -674,6 +698,23 @@
    "vyrez": "celá strana",
    "nahled": "img/zdroje/130-45_s029.jpg",
    "velky": "img/zdroje/130-45_s029_velky.jpg"
+  },
+  "130-7417|15": {
+   "signatura": "130-7417",
+   "snimek": 15,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/569f993d-39f6-4aae-b562-28b26c65c1a6/dao/569f993d-39f6-4aae-b562-28b26c65c1a6/file/76fa0ccc-3692-420d-a95c-bf3b3123cb44",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-7417_s015.jpg",
+   "velky": "img/zdroje/130-7417_s015_velky.jpg",
+   "vyrez_soubor": "z130-7417-s15-1856-06-02-snatek-jan-hruby-frantiska-wentrova.jpg"
+  },
+  "130-7417|20": {
+   "signatura": "130-7417",
+   "snimek": 20,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/569f993d-39f6-4aae-b562-28b26c65c1a6/dao/569f993d-39f6-4aae-b562-28b26c65c1a6/file/c197af2e-b2a0-45c0-9aef-5c842f9fab42",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/130-7417_s020.jpg",
+   "velky": "img/zdroje/130-7417_s020_velky.jpg"
   },
   "130-7417|43": {
    "signatura": "130-7417",
@@ -1720,6 +1761,15 @@
    "nahled": "img/zdroje/53-4158_s025.jpg",
    "velky": "img/zdroje/53-4158_s025_velky.jpg",
    "vyrez_soubor": "soumar-anezka-1857-spread-sm.jpg"
+  },
+  "53-53|25": {
+   "signatura": "53-53",
+   "snimek": 25,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/dao/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/file/18fbaaf5-f2cb-4110-8396-876402d9822d",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-53_s025.jpg",
+   "velky": "img/zdroje/53-53_s025_velky.jpg",
+   "vyrez_soubor": "z53-53-s25-1844-11-19-snatek-jan-klimes-anna-spackova.jpg"
   },
   "53-7386|12": {
    "signatura": "53-7386",
