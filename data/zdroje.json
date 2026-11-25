@@ -650,6 +650,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 53-2 (poř.č. 3644), 1784-1824",
    "popis": "římskokatolická matrika NAROZENÝCH, římskokatolický index NAROZENÝCH, Hronov (5.1784-1824)\ntéž vojenské zápisy do 9.1792",
    "url": "https://aron.vychodoceskearchivy.cz/apu/13eeb8ee-9fdf-4256-8634-dd432d76391f"
+  },
+  "53-52": {
+   "apu": "6edf02b6-2891-4878-b805-94356ad4d3b4",
+   "dao": "6edf02b6-2891-4878-b805-94356ad4d3b4",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 53-52 (poř.č. 3730), 1784-1833",
+   "popis": "římskokatolická matrika ODDANÝCH, římskokatolický index ODDANÝCH, Vysoká Srbská (5.1784-1833)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/6edf02b6-2891-4878-b805-94356ad4d3b4"
   }
  },
  "aliasy": {
@@ -1520,7 +1527,7 @@
    "vyrez": "zápis",
    "nahled": "img/zdroje/141-4251_s075.jpg",
    "velky": "img/zdroje/141-4251_s075_velky.jpg",
-   "vyrez_soubor": "z141-4251-s75-index-n-lit-r-1739-1762-rosenberger-jos-joseph-1743-otec-johann-adalbert.jpg"
+   "vyrez_soubor": "z141-4251-s75-index-n-ruprechtice-lit-r-1739-1752-rosenberg-deti-otec-johann-adalbert.jpg"
   },
   "141-4251|76": {
    "signatura": "141-4251",
@@ -1787,6 +1794,15 @@
    "velky": "img/zdroje/141-7599_s537_velky.jpg",
    "vyrez_soubor": "z141-7599-s537R-1749-12-12-maria-ringel.jpg"
   },
+  "141-7599|54": {
+   "signatura": "141-7599",
+   "snimek": 54,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/6031444b-dfbc-4908-bc6c-858434e7b3dc",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-7599_s054.jpg",
+   "velky": "img/zdroje/141-7599_s054_velky.jpg",
+   "vyrez_soubor": "z141-7599-s54-fol34-1736-02-03-joann-georg-rosenberger-ruprechtice-otec-johann-adalbert-matka-anna-maria.jpg"
+  },
   "141-7599|584": {
    "signatura": "141-7599",
    "snimek": 584,
@@ -1804,6 +1820,15 @@
    "velky": "img/zdroje/141-7599_s602_velky.jpg",
    "vyrez_soubor": "z141-7599-s602-1767-01-25-anton-ringel-ausgedinger.jpg"
   },
+  "141-7599|68": {
+   "signatura": "141-7599",
+   "snimek": 68,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/b2c951ac-0ed1-4cda-bd4e-44941dbc1ea4",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-7599_s068.jpg",
+   "velky": "img/zdroje/141-7599_s068_velky.jpg",
+   "vyrez_soubor": "z141-7599-s68-fol62-1738-07-19-anna-maria-rosenberger-ruprechtice-otec-johann-adalbert-hausgenoss-matka-anna-maria.jpg"
+  },
   "141-7599|82": {
    "signatura": "141-7599",
    "snimek": 82,
@@ -1813,6 +1838,15 @@
    "velky": "img/zdroje/141-7599_s082_velky.jpg",
    "vyrez_soubor": "z141-7599-s82-fol90-1740-09-19-anna-elisabetha-dcera-antona-opitze-ober-hausler-ruprechtice-a-rosiny.jpg"
   },
+  "141-7599|83": {
+   "signatura": "141-7599",
+   "snimek": 83,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/5ad7fb81-a8dc-4d34-b52e-27a4f27c7fb5",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-7599_s083.jpg",
+   "velky": "img/zdroje/141-7599_s083_velky.jpg",
+   "vyrez_soubor": "z141-7599-s83-fol93-1741-01-07-anna-elisabeth-rosenberger-ruprechtice-otec-johann-adalbert-matka-maria.jpg"
+  },
   "141-7599|93": {
    "signatura": "141-7599",
    "snimek": 93,
@@ -1820,7 +1854,7 @@
    "vyrez": "zápis",
    "nahled": "img/zdroje/141-7599_s093.jpg",
    "velky": "img/zdroje/141-7599_s093_velky.jpg",
-   "vyrez_soubor": "z141-7599-s93-fol113-1743-03-01-johann-josephus-syn-johanna-adalberta-rosenberga-a-anny-marie.jpg"
+   "vyrez_soubor": "z141-7599-s93-fol113-1743-03-01-johann-josephus-rosenberg-nar-1743-02-28-otec-johann-adalbert-matka-anna-maria.jpg"
   },
   "144-2|110": {
    "signatura": "144-2",
@@ -2843,7 +2877,7 @@
    "vyrez": "zápis",
    "nahled": "img/zdroje/53-4181_s035.jpg",
    "velky": "img/zdroje/53-4181_s035_velky.jpg",
-   "vyrez_soubor": "z53-4181-s35-index-o-lit-s-1805-1821-bez-spacka.jpg"
+   "vyrez_soubor": "z53-4181-s35-index-o-hronov-lit-s-1815-1818-spacek-franz-1817-02-06-vysoka-srbska-ii-24.jpg"
   },
   "53-4181|36": {
    "signatura": "53-4181",
@@ -2861,6 +2895,15 @@
    "nahled": "img/zdroje/53-4184_s069.jpg",
    "velky": "img/zdroje/53-4184_s069_velky.jpg",
    "vyrez_soubor": "z53-4184-s69-index-z-lit-s-1835-spacek-franz-hochsichel-iii-6.jpg"
+  },
+  "53-52|15": {
+   "signatura": "53-52",
+   "snimek": 15,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/6edf02b6-2891-4878-b805-94356ad4d3b4/dao/6edf02b6-2891-4878-b805-94356ad4d3b4/file/305e9547-33c6-460a-94c1-65501fcea583",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-52_s015.jpg",
+   "velky": "img/zdroje/53-52_s015_velky.jpg",
+   "vyrez_soubor": "z53-52-s15-pag25-1817-01-07-franz-spacek-syn-josepha-podruha-hronov-c88-x-dorothea-faltova-dcera-georga-slatina-c39.jpg"
   },
   "53-53|15": {
    "signatura": "53-53",
