@@ -503,6 +503,20 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 12-7 (poř.č. 463), 1784-1847",
    "popis": "římskokatolický index NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, farnost (Boušín, Mečov, Slatina nad Úpou)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/3688be9d-2fd0-4a9d-a333-5d22d581c29f"
+  },
+  "130-42": {
+   "apu": "3f1c49a8-8387-45d5-9ed7-5e04e6ba996f",
+   "dao": "3f1c49a8-8387-45d5-9ed7-5e04e6ba996f",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 130-42 (poř.č. 8789), 1641-1784",
+   "popis": "římskokatolický index NAROZENÝCH, farnost (Bukovice, Česká Metuje, Dědov, Hlavňov, Hony, Malá Ledhuje, Maršov nad Metují, Nízký Dřevíč, Ostaš, Ochoz, Pěkov, Petrovice, Petrovičky, Police nad Metují, Radešov, Slavný, Suchý Důl, Velká Ledhuje, Žďár nad Metují) + lokality z farního obvodu Stárkov (Horní Dřevíč, Javor, Stárkov, Skalka, Chlívce, Bystré), z farního obvodu Machov (Bělý, Machov, Nouzín, Machovská Lhota, Nízká Srbská, Řeřišný), z farního obvodu Hronov (Hronov, Malá Čermná, Rokytník, Střezina, Velký Dřevíč, Vysoká Srbská, Zbečník, Žabokrky, Žďárky) + lokality z okolí (Jakubovice (Jakubowice, Jakubowitz, PL), Stroužné (Strážné, Pstražna, PL), Lachov, Bezděkov nad Metují, Pavlišov, Česká Skalice, Hrádek (Radków, Wünschelburg, PL), Pasterkov (Pasterka, PL))",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/3f1c49a8-8387-45d5-9ed7-5e04e6ba996f"
+  },
+  "130-5": {
+   "apu": "f895f8aa-2abe-4ebb-8520-fd9ad10ac8f0",
+   "dao": "f895f8aa-2abe-4ebb-8520-fd9ad10ac8f0",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 130-5 (poř.č. 8716), 1755-1784",
+   "popis": "římskokatolická matrika NAROZENÝCH, ODDANÝCH, farnost (Bukovice, Česká Metuje, Dědov, Hlavňov, Hony, Malá Ledhuje, Maršov nad Metují, Nízký Dřevíč, Ostaš, Pěkov, Petrovice, Petrovičky, Police nad Metují, Radešov, Slavný, Suchý Důl, Velká Ledhuje, Žďár nad Metují) + lokality z farního obvodu Machov (Bělý, Nízká Srbská, Machovská Lhota, Machov, Řeřišný, Nouzín) + lokality z okolí (Javor, Velký Dřevíč, Lachov, Bezděkov nad Metují, Zbečník, Pasterka (PL))",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/f895f8aa-2abe-4ebb-8520-fd9ad10ac8f0"
   }
  },
  "aliasy": {
@@ -785,6 +799,15 @@
    "velky": "img/zdroje/130-18_s005_velky.jpg",
    "vyrez_soubor": "z130-18-s05-1824-02-03-snatek-jan-hruby-katerina-kandidat.jpg"
   },
+  "130-42|173": {
+   "signatura": "130-42",
+   "snimek": 173,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/3f1c49a8-8387-45d5-9ed7-5e04e6ba996f/dao/3f1c49a8-8387-45d5-9ed7-5e04e6ba996f/file/ddbd8617-272c-47c0-9d69-c6ed2a7a67b9",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-42_s173.jpg",
+   "velky": "img/zdroje/130-42_s173_velky.jpg",
+   "vyrez_soubor": "z130-42-s173-index-w-1757-winter-wenceslaus-ledhuje.jpg"
+  },
   "130-4326|15": {
    "signatura": "130-4326",
    "snimek": 15,
@@ -834,6 +857,15 @@
    "vyrez": "celá strana",
    "nahled": "img/zdroje/130-45_s029.jpg",
    "velky": "img/zdroje/130-45_s029_velky.jpg"
+  },
+  "130-5|44": {
+   "signatura": "130-5",
+   "snimek": 44,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/f895f8aa-2abe-4ebb-8520-fd9ad10ac8f0/dao/f895f8aa-2abe-4ebb-8520-fd9ad10ac8f0/file/a3480d9f-70d2-47fb-ae67-8596d02d38db",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-5_s044.jpg",
+   "velky": "img/zdroje/130-5_s044_velky.jpg",
+   "vyrez_soubor": "z130-5-s44-1757-09-26-wenceslaus-michael-winter-ledhuje-kandidat.jpg"
   },
   "130-7417|15": {
    "signatura": "130-7417",
