@@ -524,6 +524,20 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 2112 (poř.č. 3910), 1785-1810",
    "popis": "římskokatolická matrika ZEMŘELÝCH, Choceň (3.1785-1810), Kosořín (4.1786-1810), Zářecká Lhota (10.1785-1810), Sudličkova Lhota (3.1785-1810), Hemže (8.1785-1810), Březenice (1793-1810), farnost - vojenské zápisy (5.1785-1802)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/b156902e-891e-4932-8f96-4696953e68f5"
+  },
+  "2116": {
+   "apu": "74ec17a1-30dd-4fdd-b4ff-d28786cf1f14",
+   "dao": "74ec17a1-30dd-4fdd-b4ff-d28786cf1f14",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 2116 (poř.č. 3913), 1811-6.1831",
+   "popis": "římskokatolická matrika ZEMŘELÝCH, římskokatolický index ZEMŘELÝCH, Choceň, Dvořisko, Podrážek, Kosořín, Zářecká Lhota, Běstovice, Darebnice, Bošín, Skořenice, Vrchovina, Koldín, Nasavrky, Hemže + Březenice, Sudličkova Lhota\noddíly dle lokalit, fol. 241 židovské zápisy 1821, 1826",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/74ec17a1-30dd-4fdd-b4ff-d28786cf1f14"
+  },
+  "130-46": {
+   "apu": "a956bc3c-29af-4ba6-9ab2-bc2289e37188",
+   "dao": "a956bc3c-29af-4ba6-9ab2-bc2289e37188",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 130-46 (poř.č. 8795), 1755-1800",
+   "popis": "římskokatolický index ODDANÝCH, farnost (Bukovice, Česká Metuje, Dědov, Hlavňov, Hony, Malá Ledhuje, Maršov nad Metují, Nízký Dřevíč, Pěkov, Petrovice, Police nad metují, Radešov, Slavný, Suchý Důl, Velká Ledhuje, Žďár nad Metují) + lokality farního obvodu Machov (Bělý, Machovská Lhota, Machov, Nízká Srbská, Nouzín, Řeřišný) + lokality z okolí (Stárkov, Javor, Velký Dřevíč, Rokytník, Lachov, Bezděkov nad Metují, Pasterkov (PL), Kamienna Gora (Landeshut, PL), Náchod, Jetřichov (Dittersbach))",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a956bc3c-29af-4ba6-9ab2-bc2289e37188"
   }
  },
  "aliasy": {
@@ -752,6 +766,15 @@
    "velky": "img/zdroje/130-17_s020_velky.jpg",
    "vyrez_soubor": "z130-17-s20-1787-06-03-johann-wenzl-hruby-c30-kandidat.jpg"
   },
+  "130-17|25": {
+   "signatura": "130-17",
+   "snimek": 25,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8558b085-893d-4cad-8d5d-c2326e394a0c/dao/8558b085-893d-4cad-8d5d-c2326e394a0c/file/2b07a511-6a58-41bc-986f-88f25e81cdc9",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-17_s025.jpg",
+   "velky": "img/zdroje/130-17_s025_velky.jpg",
+   "vyrez_soubor": "n130-17-s25-1791-03-anna-maria-schal-c34.jpg"
+  },
   "130-17|28": {
    "signatura": "130-17",
    "snimek": 28,
@@ -851,6 +874,15 @@
    "velky": "img/zdroje/130-42_s173_velky.jpg",
    "vyrez_soubor": "z130-42-s173-index-w-1757-winter-wenceslaus-ledhuje.jpg"
   },
+  "130-42|175": {
+   "signatura": "130-42",
+   "snimek": 175,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/3f1c49a8-8387-45d5-9ed7-5e04e6ba996f/dao/3f1c49a8-8387-45d5-9ed7-5e04e6ba996f/file/7f60d48d-330d-4429-85e5-8a10cfeb610e",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-42_s175.jpg",
+   "velky": "img/zdroje/130-42_s175_velky.jpg",
+   "vyrez_soubor": "z130-42-s175-index-w-1767-1768-winter-wenceslaus.jpg"
+  },
   "130-4326|15": {
    "signatura": "130-4326",
    "snimek": 15,
@@ -909,6 +941,15 @@
    "vyrez": "celá strana",
    "nahled": "img/zdroje/130-45_s029.jpg",
    "velky": "img/zdroje/130-45_s029_velky.jpg"
+  },
+  "130-46|40": {
+   "signatura": "130-46",
+   "snimek": 40,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a956bc3c-29af-4ba6-9ab2-bc2289e37188/dao/a956bc3c-29af-4ba6-9ab2-bc2289e37188/file/2c5e30ca-ede4-4e64-89ac-13cce2dcfb57",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-46_s040.jpg",
+   "velky": "img/zdroje/130-46_s040_velky.jpg",
+   "vyrez_soubor": "z130-46-s40-index-o-1793-06-11-winter-wenzel-rosina.jpg"
   },
   "130-5|44": {
    "signatura": "130-5",
@@ -1928,6 +1969,24 @@
    "nahled": "img/zdroje/2112_s025.jpg",
    "velky": "img/zdroje/2112_s025_velky.jpg",
    "vyrez_soubor": "z2112-s25-1800-07-31-katerina-manzelka-vojtecha-syroveho-c13.jpg"
+  },
+  "2116|20": {
+   "signatura": "2116",
+   "snimek": 20,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/74ec17a1-30dd-4fdd-b4ff-d28786cf1f14/dao/74ec17a1-30dd-4fdd-b4ff-d28786cf1f14/file/512c4951-3d04-4be9-9d1e-8f28aa65eda6",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/2116_s020.jpg",
+   "velky": "img/zdroje/2116_s020_velky.jpg",
+   "vyrez_soubor": "z2116-s20-1813-07-17-vojtech-syrovy-c14.jpg"
+  },
+  "2116|277": {
+   "signatura": "2116",
+   "snimek": 277,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/74ec17a1-30dd-4fdd-b4ff-d28786cf1f14/dao/74ec17a1-30dd-4fdd-b4ff-d28786cf1f14/file/d2a972a6-413d-467a-9a40-1f2a217867e1",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/2116_s277.jpg",
+   "velky": "img/zdroje/2116_s277_velky.jpg",
+   "vyrez_soubor": "z2116-s277-index-S-1813-vojtech-syrovy.jpg"
   },
   "2119|123": {
    "signatura": "2119",
