@@ -545,6 +545,41 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 174-23 (poř.č. 9748), 1660-1785",
    "popis": "římskokatolický index ODDANÝCH, farnost (Hynčice, Jetřichov, Ruprechtice)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/00eeb33c-e30f-45ef-8ef1-79a16a97ffef"
+  },
+  "141-7598": {
+   "apu": "1fad27ed-fc5f-438c-a712-e096f25a2e51",
+   "dao": "1fad27ed-fc5f-438c-a712-e096f25a2e51",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 141-7598 (poř.č. 9729), 1652-1733",
+   "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, farnost (Hynčice, Jetřichov, Ruprechtice)\nN 5.1652-7.1733, O 1660-2.1733, Z 5.1652-5.1733, fol. 101v čtyři zápisy křtů z let 1644-1652",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/1fad27ed-fc5f-438c-a712-e096f25a2e51"
+  },
+  "141-4252": {
+   "apu": "72c08627-2329-4d2a-9227-ea95df35ede6",
+   "dao": "72c08627-2329-4d2a-9227-ea95df35ede6",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 141-4252 (poř.č. 9746), 1652-1889",
+   "popis": "římskokatolický index NAROZENÝCH, Jetřichov",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/72c08627-2329-4d2a-9227-ea95df35ede6"
+  },
+  "141-4253": {
+   "apu": "664b3c54-88f8-4174-8074-fffbcccd2e98",
+   "dao": "664b3c54-88f8-4174-8074-fffbcccd2e98",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 141-4253 (poř.č. 9747), 1652-1889",
+   "popis": "římskokatolický index NAROZENÝCH, Hynčice",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/664b3c54-88f8-4174-8074-fffbcccd2e98"
+  },
+  "13-56": {
+   "apu": "98b82b7e-43c8-434b-8fb8-e4ac4ced1d90",
+   "dao": "98b82b7e-43c8-434b-8fb8-e4ac4ced1d90",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 13-56 (poř.č. 640), 1632-1784",
+   "popis": "římskokatolický index ODDANÝCH, farnost (Broumov, Broumov - Dolní předměstí, Broumov - Horní předměstí, Broumov - Prostřední předměstí, Hejtmánkovice, Křinice, Olivětín, Rožmitál, Velká Ves)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/98b82b7e-43c8-434b-8fb8-e4ac4ced1d90"
+  },
+  "13-31": {
+   "apu": "fea1107a-15d0-4e1d-a570-61255668df2f",
+   "dao": "fea1107a-15d0-4e1d-a570-61255668df2f",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 13-31 (poř.č. 590), 1760-4.1784",
+   "popis": "římskokatolická matrika ODDANÝCH, římskokatolický index ODDANÝCH, farnost (Broumov, Broumov - Dolní předměstí, Broumov - Horní předměstí, Broumov - Prostřední předměstí, Hejtmánkovice, Křinice, Olivětín, Rožmitál, Velká Ves)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fea1107a-15d0-4e1d-a570-61255668df2f"
   }
  },
  "aliasy": {
@@ -705,6 +740,24 @@
    "velky": "img/zdroje/12-7_s011_velky.jpg",
    "vyrez_soubor": "z12-7-s11-index-f-falta-1785-1804-dorota-1792.jpg"
   },
+  "13-31|103": {
+   "signatura": "13-31",
+   "snimek": 103,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fea1107a-15d0-4e1d-a570-61255668df2f/dao/fea1107a-15d0-4e1d-a570-61255668df2f/file/291dfe06-bf90-4537-94bb-96bbdc931988",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/13-31_s103.jpg",
+   "velky": "img/zdroje/13-31_s103_velky.jpg",
+   "vyrez_soubor": "z13-31-s103-1779-10-20-anton-hausdorf-weckersdorf-regina.jpg"
+  },
+  "13-31|106": {
+   "signatura": "13-31",
+   "snimek": 106,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fea1107a-15d0-4e1d-a570-61255668df2f/dao/fea1107a-15d0-4e1d-a570-61255668df2f/file/c343c57b-0977-4b09-b5b1-db16cd181daf",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/13-31_s106.jpg",
+   "velky": "img/zdroje/13-31_s106_velky.jpg",
+   "vyrez_soubor": "z13-31-s106-1780-01-anton-hausdorf-barbara-grossdorf.jpg"
+  },
   "13-32|70": {
    "signatura": "13-32",
    "snimek": 70,
@@ -740,6 +793,15 @@
    "nahled": "img/zdroje/13-3_s582.jpg",
    "velky": "img/zdroje/13-3_s582_velky.jpg",
    "vyrez_soubor": "13-3-s582L-1765-08-28-lux-graben.jpg"
+  },
+  "13-56|29": {
+   "signatura": "13-56",
+   "snimek": 29,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/98b82b7e-43c8-434b-8fb8-e4ac4ced1d90/dao/98b82b7e-43c8-434b-8fb8-e4ac4ced1d90/file/7c7d8c45-1460-4c40-abc2-b2bdb3dc5e67",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/13-56_s029.jpg",
+   "velky": "img/zdroje/13-56_s029_velky.jpg",
+   "vyrez_soubor": "z13-56-s29-index-o-hausdorf-anton-1779-1781.jpg"
   },
   "13-57|109": {
    "signatura": "13-57",
@@ -1140,6 +1202,15 @@
    "velky": "img/zdroje/141-4251_s018_velky.jpg",
    "vyrez_soubor": "z141-4251-s18-index-d-1735-1756-bez-dauera.jpg"
   },
+  "141-4251|50": {
+   "signatura": "141-4251",
+   "snimek": 50,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/b628c27c-a629-44c8-a008-e4d017646195/dao/b628c27c-a629-44c8-a008-e4d017646195/file/b2d9ec08-d33a-48f3-9521-3660ac6dc954",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-4251_s050.jpg",
+   "velky": "img/zdroje/141-4251_s050_velky.jpg",
+   "vyrez_soubor": "z141-4251-s50-index-k-1701-1707-heinrich-knittel.jpg"
+  },
   "141-4251|52": {
    "signatura": "141-4251",
    "snimek": 52,
@@ -1156,6 +1227,24 @@
    "vyrez": "celá strana",
    "nahled": "img/zdroje/141-4251_s061.jpg",
    "velky": "img/zdroje/141-4251_s061_velky.jpg"
+  },
+  "141-4252|9": {
+   "signatura": "141-4252",
+   "snimek": 9,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/72c08627-2329-4d2a-9227-ea95df35ede6/dao/72c08627-2329-4d2a-9227-ea95df35ede6/file/c46f4603-84a2-499d-bba3-d261d91fb1fd",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-4252_s009.jpg",
+   "velky": "img/zdroje/141-4252_s009_velky.jpg",
+   "vyrez_soubor": "z141-4252-s9-index-d-dittersbach-1733-1795-bez-dauera.jpg"
+  },
+  "141-4253|11": {
+   "signatura": "141-4253",
+   "snimek": 11,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/664b3c54-88f8-4174-8074-fffbcccd2e98/dao/664b3c54-88f8-4174-8074-fffbcccd2e98/file/562751b1-c299-4706-ab83-328b867f9f2d",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-4253_s011.jpg",
+   "velky": "img/zdroje/141-4253_s011_velky.jpg",
+   "vyrez_soubor": "z141-4253-s11-index-d-heinzendorf-1752-1809-bez-dauera.jpg"
   },
   "141-4254|31": {
    "signatura": "141-4254",
@@ -1213,6 +1302,15 @@
    "nahled": "img/zdroje/141-6_s032.jpg",
    "velky": "img/zdroje/141-6_s032_velky.jpg",
    "vyrez_soubor": "z141-6-s32-1838-07-03-georg-dauer.jpg"
+  },
+  "141-7598|318": {
+   "signatura": "141-7598",
+   "snimek": 318,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/1fad27ed-fc5f-438c-a712-e096f25a2e51/dao/1fad27ed-fc5f-438c-a712-e096f25a2e51/file/c03861fc-0ed8-441f-bd63-69f8489a92df",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-7598_s318.jpg",
+   "velky": "img/zdroje/141-7598_s318_velky.jpg",
+   "vyrez_soubor": "z141-7598-s318-1707-04-01-heinrich-knittel-syn-lorenze-kandidat.jpg"
   },
   "141-7599|111": {
    "signatura": "141-7599",
