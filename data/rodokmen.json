@@ -6012,8 +6012,18 @@
       "id": "joseph-rosenberger-1767-otec",
       "name": "Johann Joseph Rosenberg(er)",
       "maiden": null,
-      "birth": null,
-      "baptism": null,
+      "birth": {
+        "display": "28. 2. 1743",
+        "precision": "exact",
+        "date": "1743-02-28",
+        "place": "Ruprechtice"
+      },
+      "baptism": {
+        "display": "1. 3. 1743",
+        "precision": "exact",
+        "date": "1743-03-01",
+        "note": "Křtěnec „Johann Josephus“, syn Johanna Adalberta Rosenberga, podruha (Hausgenoss) z Ruprechtic, a Anny Marie."
+      },
       "death": null,
       "occupation": "Podruh (Hausgenoss) v Ruprechticích (1767).",
       "places": [
@@ -6040,11 +6050,24 @@
           "signatura": "141-7599",
           "detail": "snímek 437, fol. 105; výřez vypisy/141-7599/z141-7599-s437-fol105-1764-11-19-johann-joseph-rosenberg-x-anna-elisabetha-obitz.jpg",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/6b010eb3-9bc0-407f-a102-4a249f3915a3"
+        },
+        {
+          "label": "ARON, křest 1. 3. 1743",
+          "signatura": "141-7599",
+          "detail": "snímek 93, fol. 113; výřez vypisy/141-7599/z141-7599-s93-fol113-1743-03-01-johann-josephus-syn-johanna-adalberta-rosenberga-a-anny-marie.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/0748c5ed-8b7e-4687-931b-287eebfe9cc5"
+        },
+        {
+          "label": "ARON, index N 141-4251 lit. R (Rosenberger 1739–1762)",
+          "signatura": "141-4251",
+          "detail": "snímek 75; výřez vypisy/141-4251/z141-4251-s75-index-n-lit-r-1739-1762-rosenberger-jos-joseph-1743-otec-johann-adalbert.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/b628c27c-a629-44c8-a008-e4d017646195/dao/b628c27c-a629-44c8-a008-e4d017646195/file/3014aeac-f92c-4405-a50b-1e83f8db61dc"
         }
       ],
       "notes": [
         "Otec Josepha Rosenberga *1767; 1787 ještě žije v Ruprechticích. Možná totožnost s Josephem Rosenbergem, chalupníkem, †27. 1. 1803 ve věku 61 let (141-5 snímek 24, pag. 42) – nepřipisuje se (q-rosenberg-1800).",
-        "Při sňatku 19. 11. 1764 „Johann Joseph Rosenberg“, svobodný, manželský syn Johannesa Rosenberga z Ruprechtic. Věk ve sňatku neuveden."
+        "Při sňatku 19. 11. 1764 „Johann Joseph Rosenberg“, svobodný, manželský syn Johannesa Rosenberga z Ruprechtic. Věk ve sňatku neuveden.",
+        "Kolo AA: křest 1. 3. 1743 (*28. 2.) – v indexu narozených 141-4251 je v letech 1734–1748 jediný Joseph Rosenberg z Ruprechtic; otec Johann Adalbert = „Johannes“ ze sňatku 1764. Při sňatku 1764 by mu bylo 21 let. Zápis úmrtí 27. 1. 1803 (č. 30, chalupník, 61 let) manželku ani rodiče nejmenuje, proto spojení s ním dál jen v q-rosenberg-1800."
       ],
       "interesting": []
     },
@@ -6053,7 +6076,13 @@
       "name": "Anna Elisabetha Rosenbergerová",
       "maiden": "Obitz (Opitz)",
       "birth": null,
-      "baptism": null,
+      "baptism": {
+        "display": "19. 9. 1740",
+        "precision": "exact",
+        "date": "1740-09-19",
+        "place": "kostel sv. Michaela, Vernéřovice (Wernersdorf)",
+        "note": "„Anton Opitzen dem Ober Häusler von Ruppersdorf und Rosina seiner Ehewirthin ein Töchterlein … Nahmens Anna Elisabetha“; narozena dopoledne ve 12 hodin (den v zápisu neopakován, patrně týž den)."
+      },
       "death": null,
       "occupation": null,
       "places": [
@@ -6074,17 +6103,107 @@
           "signatura": "141-7599",
           "detail": "snímek 437, fol. 105; výřez vypisy/141-7599/z141-7599-s437-fol105-1764-11-19-johann-joseph-rosenberg-x-anna-elisabetha-obitz.jpg",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/6b010eb3-9bc0-407f-a102-4a249f3915a3"
+        },
+        {
+          "label": "ARON, křest 19. 9. 1740",
+          "signatura": "141-7599",
+          "detail": "snímek 82, fol. 90; výřez vypisy/141-7599/z141-7599-s82-fol90-1740-09-19-anna-elisabetha-dcera-antona-opitze-ober-hausler-ruprechtice-a-rosiny.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/c0e9c40c-9e89-47f8-8587-8d7d4e6bf435"
+        },
+        {
+          "label": "ARON, index N 141-4251 lit. O (Opitz 1727–1758)",
+          "signatura": "141-4251",
+          "detail": "snímek 66; výřez vypisy/141-4251/z141-4251-s66-index-n-lit-o-1727-1758-opitz-a-elisabeth-1739-40-otec-anton-chalupnik.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/b628c27c-a629-44c8-a008-e4d017646195/dao/b628c27c-a629-44c8-a008-e4d017646195/file/94f377fb-53a0-4f8a-9020-37b937eff9a1"
         }
       ],
       "notes": [
-        "Matka Josepha Rosenberga *1767. Při sňatku 19. 11. 1764 panna, dcera †Antona Obitze („des Obern“?, čtení nejisté) z Ruprechtic.",
-        "Kolo Z: 3. 11. 1818 zemřela v Ruprechticích č. 56 „Elisabeth, des Joseph Rosenbergs Häuslers hinterbliebene Wittib“, 80 let (141-6 snímek 10, fol. 12) – velmi pravděpodobně ona, ale manžel je v zápisu jen „Joseph Rosenberg, chalupník“, proto jen v dotazu q-rosenberg-1800."
+        "Matka Josepha Rosenberga *1767. Při sňatku 19. 11. 1764 panna, dcera †Antona Obitze „des Obern“ z Ruprechtic – kolo AA: jde o označení „Ober-Häusler“, stejně jako v jejím křtu 1740.",
+        "Kolo Z: 3. 11. 1818 zemřela v Ruprechticích č. 56 „Elisabeth, des Joseph Rosenbergs Häuslers hinterbliebene Wittib“, 80 let (141-6 snímek 10, fol. 12) – velmi pravděpodobně ona, ale manžel je v zápisu jen „Joseph Rosenberg, chalupník“, proto jen v dotazu q-rosenberg-1800.",
+        "Kolo AA: v indexu narozených 141-4251 (Opitz 1727–1758) je jediná Anna Elisabeth s otcem Antonem ve věku vhodném k sňatku 1764 (*1740; další Elisabethy až 1754 a 1757). Shoda otce Antona i označení „Ober-Häusler“ = „des Obern“."
       ],
       "interesting": []
     },
     {
       "id": "johannes-rosenberg-ruprechtice",
-      "name": "Johannes Rosenberg",
+      "name": "Johannes (Johann Adalbert) Rosenberg",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Podruh (Hausgenoss) v Ruprechticích (1743).",
+      "places": [
+        "Ruprechtice"
+      ],
+      "branch": "rosenberger",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 19. 11. 1764",
+          "signatura": "141-7599",
+          "detail": "snímek 437, fol. 105; výřez vypisy/141-7599/z141-7599-s437-fol105-1764-11-19-johann-joseph-rosenberg-x-anna-elisabetha-obitz.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/6b010eb3-9bc0-407f-a102-4a249f3915a3"
+        },
+        {
+          "label": "ARON, křest 1. 3. 1743",
+          "signatura": "141-7599",
+          "detail": "snímek 93, fol. 113; výřez vypisy/141-7599/z141-7599-s93-fol113-1743-03-01-johann-josephus-syn-johanna-adalberta-rosenberga-a-anny-marie.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/0748c5ed-8b7e-4687-931b-287eebfe9cc5"
+        },
+        {
+          "label": "ARON, index N 141-4251 lit. R (Rosenberger 1739–1762)",
+          "signatura": "141-4251",
+          "detail": "snímek 75; výřez vypisy/141-4251/z141-4251-s75-index-n-lit-r-1739-1762-rosenberger-jos-joseph-1743-otec-johann-adalbert.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/b628c27c-a629-44c8-a008-e4d017646195/dao/b628c27c-a629-44c8-a008-e4d017646195/file/3014aeac-f92c-4405-a50b-1e83f8db61dc"
+        }
+      ],
+      "notes": [
+        "Otec Johanna Josepha Rosenberga (sňatek 19. 11. 1764); tehdy uveden bez „weyland“, tedy patrně žijící. Manželka v zápisu neuvedena.",
+        "Kolo AA: při křtu syna 1. 3. 1743 „Johann Adalbert Rosenberg, Hausgenoss“ z Ruprechtic, manželka Anna Maria. Tatáž dvojice (Johann/Johann Adalbert × A. Maria) má v indexu děti 1741–1760."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "anton-obitz-ruprechtice",
+      "name": "Anton Obitz (Opitz)",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 19. 11. 1764",
+        "precision": "range",
+        "note": "Ve sňatku dcery 19. 11. 1764 „weyland“ (zesnulý)."
+      },
+      "occupation": "Horní podruh/chalupník („Ober-Häusler“) v Ruprechticích (1740).",
+      "places": [
+        "Ruprechtice"
+      ],
+      "branch": "rosenberger",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 19. 11. 1764",
+          "signatura": "141-7599",
+          "detail": "snímek 437, fol. 105; výřez vypisy/141-7599/z141-7599-s437-fol105-1764-11-19-johann-joseph-rosenberg-x-anna-elisabetha-obitz.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/6b010eb3-9bc0-407f-a102-4a249f3915a3"
+        },
+        {
+          "label": "ARON, křest 19. 9. 1740",
+          "signatura": "141-7599",
+          "detail": "snímek 82, fol. 90; výřez vypisy/141-7599/z141-7599-s82-fol90-1740-09-19-anna-elisabetha-dcera-antona-opitze-ober-hausler-ruprechtice-a-rosiny.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/c0e9c40c-9e89-47f8-8587-8d7d4e6bf435"
+        }
+      ],
+      "notes": [
+        "Otec Anny Elisabethy Obitz(ové). V oddacím zápisu 1764 „des Obern“ = „Ober-Häusler“ (křest dcery 19. 9. 1740). Manželka Rosina (1740)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "anna-maria-rosenberg-ruprechtice",
+      "name": "Anna Maria Rosenbergová",
       "maiden": null,
       "birth": null,
       "baptism": null,
@@ -6098,28 +6217,30 @@
       "living": false,
       "sources": [
         {
-          "label": "ARON, sňatek 19. 11. 1764",
+          "label": "ARON, křest 1. 3. 1743",
           "signatura": "141-7599",
-          "detail": "snímek 437, fol. 105; výřez vypisy/141-7599/z141-7599-s437-fol105-1764-11-19-johann-joseph-rosenberg-x-anna-elisabetha-obitz.jpg",
-          "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/6b010eb3-9bc0-407f-a102-4a249f3915a3"
+          "detail": "snímek 93, fol. 113; výřez vypisy/141-7599/z141-7599-s93-fol113-1743-03-01-johann-josephus-syn-johanna-adalberta-rosenberga-a-anny-marie.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/0748c5ed-8b7e-4687-931b-287eebfe9cc5"
+        },
+        {
+          "label": "ARON, index N 141-4251 lit. R (Rosenberger 1739–1762)",
+          "signatura": "141-4251",
+          "detail": "snímek 75; výřez vypisy/141-4251/z141-4251-s75-index-n-lit-r-1739-1762-rosenberger-jos-joseph-1743-otec-johann-adalbert.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/b628c27c-a629-44c8-a008-e4d017646195/dao/b628c27c-a629-44c8-a008-e4d017646195/file/3014aeac-f92c-4405-a50b-1e83f8db61dc"
         }
       ],
       "notes": [
-        "Otec Johanna Josepha Rosenberga (sňatek 19. 11. 1764); tehdy uveden bez „weyland“, tedy patrně žijící. Manželka v zápisu neuvedena."
+        "Manželka Johanna Adalberta Rosenberga, matka Johanna Josepha *28. 2. 1743. Rodné příjmení v zápisu neuvedeno."
       ],
       "interesting": []
     },
     {
-      "id": "anton-obitz-ruprechtice",
-      "name": "Anton Obitz",
+      "id": "rosina-obitz-ruprechtice",
+      "name": "Rosina Obitz (Opitz)",
       "maiden": null,
       "birth": null,
       "baptism": null,
-      "death": {
-        "display": "před 19. 11. 1764",
-        "precision": "range",
-        "note": "Ve sňatku dcery 19. 11. 1764 „weyland“ (zesnulý)."
-      },
+      "death": null,
       "occupation": null,
       "places": [
         "Ruprechtice"
@@ -6129,14 +6250,14 @@
       "living": false,
       "sources": [
         {
-          "label": "ARON, sňatek 19. 11. 1764",
+          "label": "ARON, křest 19. 9. 1740",
           "signatura": "141-7599",
-          "detail": "snímek 437, fol. 105; výřez vypisy/141-7599/z141-7599-s437-fol105-1764-11-19-johann-joseph-rosenberg-x-anna-elisabetha-obitz.jpg",
-          "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/6b010eb3-9bc0-407f-a102-4a249f3915a3"
+          "detail": "snímek 82, fol. 90; výřez vypisy/141-7599/z141-7599-s82-fol90-1740-09-19-anna-elisabetha-dcera-antona-opitze-ober-hausler-ruprechtice-a-rosiny.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/c0e9c40c-9e89-47f8-8587-8d7d4e6bf435"
         }
       ],
       "notes": [
-        "Otec Anny Elisabethy Obitz(ové). Slovo za jménem („des Obern“?) čteno nejistě. Manželka v zápisu neuvedena."
+        "Manželka Antona Opitze, Ober-Häuslera z Ruprechtic, matka Anny Elisabethy *1740. Rodné příjmení v zápisu neuvedeno."
       ],
       "interesting": []
     }
@@ -8332,7 +8453,8 @@
     {
       "id": "u-johannes-rosenberg-ruprechtice",
       "partners": [
-        "johannes-rosenberg-ruprechtice"
+        "johannes-rosenberg-ruprechtice",
+        "anna-maria-rosenberg-ruprechtice"
       ],
       "children": [
         "joseph-rosenberger-1767-otec"
@@ -8344,16 +8466,24 @@
           "signatura": "141-7599",
           "detail": "snímek 437, fol. 105; výřez vypisy/141-7599/z141-7599-s437-fol105-1764-11-19-johann-joseph-rosenberg-x-anna-elisabetha-obitz.jpg",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/6b010eb3-9bc0-407f-a102-4a249f3915a3"
+        },
+        {
+          "label": "ARON, křest 1. 3. 1743",
+          "signatura": "141-7599",
+          "detail": "snímek 93, fol. 113; výřez vypisy/141-7599/z141-7599-s93-fol113-1743-03-01-johann-josephus-syn-johanna-adalberta-rosenberga-a-anny-marie.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/0748c5ed-8b7e-4687-931b-287eebfe9cc5"
         }
       ],
       "notes": [
-        "Otcovství z oddacího zápisu syna 19. 11. 1764."
+        "Otcovství z oddacího zápisu syna 19. 11. 1764.",
+        "Kolo AA: rodiče Johann Adalbert a Anna Maria ze křtu syna 1. 3. 1743."
       ]
     },
     {
       "id": "u-anton-obitz-ruprechtice",
       "partners": [
-        "anton-obitz-ruprechtice"
+        "anton-obitz-ruprechtice",
+        "rosina-obitz-ruprechtice"
       ],
       "children": [
         "anna-elisabetha-obitz"
@@ -8365,10 +8495,17 @@
           "signatura": "141-7599",
           "detail": "snímek 437, fol. 105; výřez vypisy/141-7599/z141-7599-s437-fol105-1764-11-19-johann-joseph-rosenberg-x-anna-elisabetha-obitz.jpg",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/6b010eb3-9bc0-407f-a102-4a249f3915a3"
+        },
+        {
+          "label": "ARON, křest 19. 9. 1740",
+          "signatura": "141-7599",
+          "detail": "snímek 82, fol. 90; výřez vypisy/141-7599/z141-7599-s82-fol90-1740-09-19-anna-elisabetha-dcera-antona-opitze-ober-hausler-ruprechtice-a-rosiny.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/c0e9c40c-9e89-47f8-8587-8d7d4e6bf435"
         }
       ],
       "notes": [
-        "Otcovství z oddacího zápisu dcery 19. 11. 1764."
+        "Otcovství z oddacího zápisu dcery 19. 11. 1764.",
+        "Kolo AA: rodiče Anton a Rosina ze křtu dcery 19. 9. 1740."
       ]
     }
   ],
@@ -8712,7 +8849,7 @@
       "id": "q-rosenberg-1800",
       "title": "Joseph Rosenberg, sňatek 12. 8. 1800 v Ruprechticích č. 73",
       "summary": "Benedikt *7. 10. 1799 (č. 73) je syn Josepha Rosenberga, podruha, a Barbary, dcery Antona Ringela, podruha z Vižňova č. 58. V 141-3 je 12. 8. 1800 sňatek Joseph Rosenberg, č. 73, 33 let, s Barbarou, dcerou Antona (Herzog?), chalupníka v Ruprechticích č. 134; svědci Joseph Rosenberg a Anton Herzog.",
-      "details": "Není jisté, zda jde o rodiče Benedikta (legitimace po narození) nebo o jiný pár z téhož domu. Popis otce nevěsty (podruh z Vižňova č. 58 vs. chalupník z Ruprechtic č. 134) se liší. Sňatek se proto k páru Joseph × Barbara nepřipisuje. Doplněk 2026-11-24: matka Benedikta je podle zápisu 1799 dcera Antona Ringela z Vižňova č. 58 — nevěsta 1800 (dcera Antona Herzoga, Ruprechtice č. 134) je tedy jiná žena. Kolo Q (25. 11. 2026): index narozených 141-4251 lit. R (snímky 75–76) má v letech 1749–1774 několik Josefů Rosenbergů s různými otci; bez věku Josepha (otce Benedikta) nelze vybrat, nic se nepřipisuje. Kolo V (25. 11. 2026): Vyřešen rozpor nevěst — sňatek 12. 8. 1800 je DRUHÝ sňatek Josepha (vdovec, 33 let); první žena Barbara (matka Benedikta) zemřela v č. 73 dne 14. 3. 1800 ve věku 31 let (141-5 snímek 21, pag. 36; v mapě). Josephův věk 33 → narozen asi 8/1766–8/1767. Index narozených 141-4251 Lit. R (snímek 76) má v tomto okně jediného Josepha Rosenberga: 11. 1. 1767, otec Joseph, matka Elisabeth (příjmení čteno opatrně Opitz/Ozitz), fol. 379. Další Josefové v indexu: Jos. Caspar 1752, Jos. Benedikt 1758, Jos. Franz 9. 11. 1768 (věk by byl 31) — nesedí. Kandidát 11. 1. 1767 je silný, ale připsání stojí jen na věku; ověřit v těle matriky N (fol. 379) a případně v úmrtí Josepha (věk). Pro zajímavost: Joseph Rosenberg, chalupník (Häusler), †27. 1. 1803 ve věku 61 let (141-5 snímek 24, pag. 42; index uvádí č. 36, tělo spíš č. 30) — narozen asi 1741/42, mohl by být otcem kandidáta, nic se nepřipisuje. Barbara †1800 ve věku 31 let (→ asi 3/1768–3/1769) dobře sedí na vižňovskou Annu Barbaru *24. 11. 1768 (viz q-ringel-viznov-1768). Kolo W (25. 11. 2026): (1) Tělo křtu fol. 379 (141-7599 snímek 230): 11. 1. 1767 pokřtěn v kostele sv. Jakuba v Ruprechticích Joann Josephus, syn Josepha Rosenbergera, podruha (Hausgenoss) v Ruprechticích, a Anny Elisabethy roz. Obitz(in); kmotři Caspar Dimbler, sedlák, a Anna Maria Bendel(?), chalupnice, oba z Ruprechtic. Stav otce (podruh) sedí, ale ve Vižňově žili ve stejné době další Josephové Rosenbergové podobného věku, proto se křest nepřipisuje: oddací 174-12 Vižňov – 5. 11. 1787 Joseph Rosenberg, svobodný, 21 let, syn Josepha Rosenberga, sedláka ve Vižňově (č. 50), × Anna Maria Riedel, 23 let (snímek 65); 25. 10. 1791 Joseph Rosenberg, 23 let, syn Johanna Georga Rosenberga, podruha ve Vižňově č. 59, × Anna Maria Johanna Grün, 28 let (snímek 69); 20. 6. 1796 Joseph Rosenberg, vdovec, 55 let, Vižňov č. 50, × Maria Johanna (Hünzel?), vdova z č. 130 (snímek 74); 11/1797 Joseph Rosenberg, svobodný, 29 let, syn Antona Rosenberga, chalupníka ve Vižňově č. 109 (snímek 76). (2) Sňatek Joseph × Barbara (Ringel) se nenašel: Ruprechtice 141-3 snímky 8–15 (1788–1799) – Rosenbergové jen Benedict × Elisabeth (1788) a Benedict × Barbara Ullmann(?) (17. 10. 1794); Vižňov 174-12 snímky 65–79 (11/1787–1799) – kromě uvedených Josephů ještě 30. 8. 1791 Johann Benedict Rosenberg, vdovec z Ruprechtic; sňatek Joseph Rosenberg × Barbara nenalezen (snímky čteny zčásti jen v náhledu). Mohl být před 1788, v jiné farnosti, nebo jde o nemanželský/nezapsaný svazek (Benedikt *1799 má na hranici sloupců manž./nemanž.). Kolo X (25. 11. 2026): (1) Oddací Vižňov 174-12, snímek 63, fol. 119: 13. 8. 1787, dům 36, Johann Joseph Rosenberg, svobodný, 20 let, manželský syn Josepha Rosenberga v Ruprechticích, × Barbara, manželská dcera Antona Drüsnera(?) ve Vižňově, 18 let; svědci Anton Opitz (chalupník v Ruprechticích?) a Daniel ... z Vižňova. Věk ženicha (→ asi 1767), jméno „Johann Joseph“, otec Joseph z Ruprechtic a svědek Opitz (matka křtence 1767 byla roz. Obitz) dobře sedí na křest 11. 1. 1767; věk nevěsty (→ asi 1769) sedí na Barbaru †1800 (31 let). ALE příjmení nevěsty čtu Drüsner, kdežto zápis Benedikta 1799 jmenuje matku jako dceru Antona Ringela z Vižňova č. 58 – rozpor, proto se sňatek ani křest k Josephovi v mapě nepřipisuje. Výřez vypisy/174-12/z174-12-s63-fol119-1787-08-13-johann-joseph-rosenberg-20-let-x-barbara-drusner-18-let.jpg (https://aron.vychodoceskearchivy.cz/apu/13df5c47-98f1-4cac-9b25-0e3a9566046a/dao/13df5c47-98f1-4cac-9b25-0e3a9566046a/file/6fbf659f-b568-4e66-8439-6dc0f59ec830). (2) Ruprechtice 141-3 snímky 4–7 (1784–1787) prošly: Josepha Rosenberga jako ženicha tam není; 7. 11. 1786 Johann Georg Rosenberg z Vižňova, dům 73(?), 20 let, × Elisabeth Jacob(in), 19 let (snímek 6, pag. 6) – zajímavé kvůli č. 73, nepřipisuje se. Výřez vypisy/141-3/z141-3-s6-pag6-1786-11-07-johann-georg-rosenberg-c73-x-elisabeth-jacob.jpg (https://aron.vychodoceskearchivy.cz/apu/41ee5d74-aaef-4eee-8599-da0678470f8b/dao/41ee5d74-aaef-4eee-8599-da0678470f8b/file/e9e1af7a-6e28-4594-b464-ea933b4bf4e4). Vižňov 174-12 snímky 58–64 (11/1783–10/1787) prošly v náhledu: kromě 13. 8. 1787 jen jiní Rosenbergové (Hans Georg 10/1784, Franz 11/1784). (3) Úmrtí Anny Elisabethy (matky křtence 1767): index zemřelých Ruprechtice 141-4254 Lit. R (snímek 31, 1784–1821) má Elisabeth Rosenberg 17. 3. 1791 č. 63 (tělo 141-5 pag. 19: 23 let – nesedí), 8. 11. 1806 č. 53 (tělo 141-5 snímek 29, pag. 52: Elisabeth, pozůstalá vdova po Johannu Rosenbergovi, 43 let – nesedí) a 3. 11. 1818 č. 56 (pag. 12 následující knihy po 1813, tělo neověřeno – jediná zbývající kandidátka). Výřezy vypisy/141-4254/z141-4254-s31-index-z-lit-r-1784-1821-rosenberg-elisabeth-1791-1806-1818.jpg (https://aron.vychodoceskearchivy.cz/apu/a7ba0d4e-7eba-4c6c-93b8-c6075466b1f3/dao/a7ba0d4e-7eba-4c6c-93b8-c6075466b1f3/file/7abfc338-ee7c-4a18-b027-8292480265ac), vypisy/141-5/z141-5-s29-pag52-1806-11-08-elisabeth-vdova-po-johannu-rosenbergovi-c53-43-let.jpg (https://aron.vychodoceskearchivy.cz/apu/592f4aa6-7311-43a6-8dce-fdc2710ba34c/dao/592f4aa6-7311-43a6-8dce-fdc2710ba34c/file/ca164424-1910-4980-9422-520ef25f5af8). Další krok: přečíst příjmení nevěsty 1787 v ohláškách/indexu oddaných Vižňov (Drüsner vs. Ringel), narození Barbary Drüsner(ové) asi 1769 a tělo úmrtí Elisabeth Rosenberg 3. 11. 1818 č. 56 (věk). Kolo Y (25. 11. 2026): VYŘEŠENO z větší části – sňatek 13. 8. 1787, křest Josepha 11. 1. 1767 a křest Barbary 24. 11. 1768 jsou v mapě (viz poznámky u svazku u-joseph-rosenberg-barbara a u Barbary). Rozpor Drüsner × Ringel: písmo 1787 je jednoznačně „Drüsners“ (srovnání s „Barbara Ringelin“ 26. 11. 1786 na téže straně); jde o rodné jméno matky Anny (Drüsin/Dräsen). Index narozených 141-4251 snímek 77 a tělo 141-1 pag. 54 (15. 5. 1793) uvádějí matku dětí Josepha jako „Barbara Drüsin“, včetně Benedikta 1799. Zůstává otevřené: úmrtí Anny Elisabethy (kandidátka Elisabeth †3. 11. 1818 č. 56, kniha Z Ruprechtice po 1813) a zda Joseph †27. 1. 1803 (61 let) je otec Josepha *1767. Kolo Z (25. 11. 2026): (1) Rodiče Josepha *1767 se vzali 19. 11. 1764 v Ruprechticích (141-7599 snímek 437, fol. 105): Johann Joseph Rosenberg, syn Johannesa, × Anna Elisabetha, dcera †Antona Obitze – v mapě. (2) Úmrtí 3. 11. 1818, Ruprechtice č. 56 (141-6 snímek 10, fol. 12): „Elisabeth, des Joseph Rosenbergs Häuslers hinterbl. Wittib“, 80 let (→ asi 1738), gewöhnlich. Velmi pravděpodobně Anna Elisabetha roz. Obitz; neověřeno, protože zápis nejmenuje rodné příjmení. (3) Joseph Rosenberg, chalupník, †27. 1. 1803, 61 let (→ asi 1742, při sňatku 1764 asi 22 let) je v indexu zemřelých 141-4254 (1784–1821) jediný dospělý Joseph Rosenberg; vdova Elisabeth 1818 výslovně „Joseph Rosenbergs Häuslers Wittib“. Druhá Josephova žena (Barbara Herzog) jako vdova nepřipadá v úvahu. Spojení 1803/1818 s párem z 1764 je tedy silné, ale nepřímé – do mapy zatím ne. Výřez vypisy/141-6/z141-6-s10-fol12-1818-11-03-elisabeth-vdova-po-josephu-rosenbergovi-chalupnikovi-c56-80-let.jpg (https://aron.vychodoceskearchivy.cz/apu/358d4f5b-1b37-453d-b1a9-3f5b308626da/dao/358d4f5b-1b37-453d-b1a9-3f5b308626da/file/e80ae998-254b-4ad8-9316-3a420b064774). Další krok: tělo 1803 (141-5 snímek 24) přečíst kvůli manželce/domu; křest Johanna Josepha kolem 1740–1743 (otec Johannes) a Anny Elisabethy Obitz kolem 1736–1740 v 141-7599.",
+      "details": "Není jisté, zda jde o rodiče Benedikta (legitimace po narození) nebo o jiný pár z téhož domu. Popis otce nevěsty (podruh z Vižňova č. 58 vs. chalupník z Ruprechtic č. 134) se liší. Sňatek se proto k páru Joseph × Barbara nepřipisuje. Doplněk 2026-11-24: matka Benedikta je podle zápisu 1799 dcera Antona Ringela z Vižňova č. 58 — nevěsta 1800 (dcera Antona Herzoga, Ruprechtice č. 134) je tedy jiná žena. Kolo Q (25. 11. 2026): index narozených 141-4251 lit. R (snímky 75–76) má v letech 1749–1774 několik Josefů Rosenbergů s různými otci; bez věku Josepha (otce Benedikta) nelze vybrat, nic se nepřipisuje. Kolo V (25. 11. 2026): Vyřešen rozpor nevěst — sňatek 12. 8. 1800 je DRUHÝ sňatek Josepha (vdovec, 33 let); první žena Barbara (matka Benedikta) zemřela v č. 73 dne 14. 3. 1800 ve věku 31 let (141-5 snímek 21, pag. 36; v mapě). Josephův věk 33 → narozen asi 8/1766–8/1767. Index narozených 141-4251 Lit. R (snímek 76) má v tomto okně jediného Josepha Rosenberga: 11. 1. 1767, otec Joseph, matka Elisabeth (příjmení čteno opatrně Opitz/Ozitz), fol. 379. Další Josefové v indexu: Jos. Caspar 1752, Jos. Benedikt 1758, Jos. Franz 9. 11. 1768 (věk by byl 31) — nesedí. Kandidát 11. 1. 1767 je silný, ale připsání stojí jen na věku; ověřit v těle matriky N (fol. 379) a případně v úmrtí Josepha (věk). Pro zajímavost: Joseph Rosenberg, chalupník (Häusler), †27. 1. 1803 ve věku 61 let (141-5 snímek 24, pag. 42; index uvádí č. 36, tělo spíš č. 30) — narozen asi 1741/42, mohl by být otcem kandidáta, nic se nepřipisuje. Barbara †1800 ve věku 31 let (→ asi 3/1768–3/1769) dobře sedí na vižňovskou Annu Barbaru *24. 11. 1768 (viz q-ringel-viznov-1768). Kolo W (25. 11. 2026): (1) Tělo křtu fol. 379 (141-7599 snímek 230): 11. 1. 1767 pokřtěn v kostele sv. Jakuba v Ruprechticích Joann Josephus, syn Josepha Rosenbergera, podruha (Hausgenoss) v Ruprechticích, a Anny Elisabethy roz. Obitz(in); kmotři Caspar Dimbler, sedlák, a Anna Maria Bendel(?), chalupnice, oba z Ruprechtic. Stav otce (podruh) sedí, ale ve Vižňově žili ve stejné době další Josephové Rosenbergové podobného věku, proto se křest nepřipisuje: oddací 174-12 Vižňov – 5. 11. 1787 Joseph Rosenberg, svobodný, 21 let, syn Josepha Rosenberga, sedláka ve Vižňově (č. 50), × Anna Maria Riedel, 23 let (snímek 65); 25. 10. 1791 Joseph Rosenberg, 23 let, syn Johanna Georga Rosenberga, podruha ve Vižňově č. 59, × Anna Maria Johanna Grün, 28 let (snímek 69); 20. 6. 1796 Joseph Rosenberg, vdovec, 55 let, Vižňov č. 50, × Maria Johanna (Hünzel?), vdova z č. 130 (snímek 74); 11/1797 Joseph Rosenberg, svobodný, 29 let, syn Antona Rosenberga, chalupníka ve Vižňově č. 109 (snímek 76). (2) Sňatek Joseph × Barbara (Ringel) se nenašel: Ruprechtice 141-3 snímky 8–15 (1788–1799) – Rosenbergové jen Benedict × Elisabeth (1788) a Benedict × Barbara Ullmann(?) (17. 10. 1794); Vižňov 174-12 snímky 65–79 (11/1787–1799) – kromě uvedených Josephů ještě 30. 8. 1791 Johann Benedict Rosenberg, vdovec z Ruprechtic; sňatek Joseph Rosenberg × Barbara nenalezen (snímky čteny zčásti jen v náhledu). Mohl být před 1788, v jiné farnosti, nebo jde o nemanželský/nezapsaný svazek (Benedikt *1799 má na hranici sloupců manž./nemanž.). Kolo X (25. 11. 2026): (1) Oddací Vižňov 174-12, snímek 63, fol. 119: 13. 8. 1787, dům 36, Johann Joseph Rosenberg, svobodný, 20 let, manželský syn Josepha Rosenberga v Ruprechticích, × Barbara, manželská dcera Antona Drüsnera(?) ve Vižňově, 18 let; svědci Anton Opitz (chalupník v Ruprechticích?) a Daniel ... z Vižňova. Věk ženicha (→ asi 1767), jméno „Johann Joseph“, otec Joseph z Ruprechtic a svědek Opitz (matka křtence 1767 byla roz. Obitz) dobře sedí na křest 11. 1. 1767; věk nevěsty (→ asi 1769) sedí na Barbaru †1800 (31 let). ALE příjmení nevěsty čtu Drüsner, kdežto zápis Benedikta 1799 jmenuje matku jako dceru Antona Ringela z Vižňova č. 58 – rozpor, proto se sňatek ani křest k Josephovi v mapě nepřipisuje. Výřez vypisy/174-12/z174-12-s63-fol119-1787-08-13-johann-joseph-rosenberg-20-let-x-barbara-drusner-18-let.jpg (https://aron.vychodoceskearchivy.cz/apu/13df5c47-98f1-4cac-9b25-0e3a9566046a/dao/13df5c47-98f1-4cac-9b25-0e3a9566046a/file/6fbf659f-b568-4e66-8439-6dc0f59ec830). (2) Ruprechtice 141-3 snímky 4–7 (1784–1787) prošly: Josepha Rosenberga jako ženicha tam není; 7. 11. 1786 Johann Georg Rosenberg z Vižňova, dům 73(?), 20 let, × Elisabeth Jacob(in), 19 let (snímek 6, pag. 6) – zajímavé kvůli č. 73, nepřipisuje se. Výřez vypisy/141-3/z141-3-s6-pag6-1786-11-07-johann-georg-rosenberg-c73-x-elisabeth-jacob.jpg (https://aron.vychodoceskearchivy.cz/apu/41ee5d74-aaef-4eee-8599-da0678470f8b/dao/41ee5d74-aaef-4eee-8599-da0678470f8b/file/e9e1af7a-6e28-4594-b464-ea933b4bf4e4). Vižňov 174-12 snímky 58–64 (11/1783–10/1787) prošly v náhledu: kromě 13. 8. 1787 jen jiní Rosenbergové (Hans Georg 10/1784, Franz 11/1784). (3) Úmrtí Anny Elisabethy (matky křtence 1767): index zemřelých Ruprechtice 141-4254 Lit. R (snímek 31, 1784–1821) má Elisabeth Rosenberg 17. 3. 1791 č. 63 (tělo 141-5 pag. 19: 23 let – nesedí), 8. 11. 1806 č. 53 (tělo 141-5 snímek 29, pag. 52: Elisabeth, pozůstalá vdova po Johannu Rosenbergovi, 43 let – nesedí) a 3. 11. 1818 č. 56 (pag. 12 následující knihy po 1813, tělo neověřeno – jediná zbývající kandidátka). Výřezy vypisy/141-4254/z141-4254-s31-index-z-lit-r-1784-1821-rosenberg-elisabeth-1791-1806-1818.jpg (https://aron.vychodoceskearchivy.cz/apu/a7ba0d4e-7eba-4c6c-93b8-c6075466b1f3/dao/a7ba0d4e-7eba-4c6c-93b8-c6075466b1f3/file/7abfc338-ee7c-4a18-b027-8292480265ac), vypisy/141-5/z141-5-s29-pag52-1806-11-08-elisabeth-vdova-po-johannu-rosenbergovi-c53-43-let.jpg (https://aron.vychodoceskearchivy.cz/apu/592f4aa6-7311-43a6-8dce-fdc2710ba34c/dao/592f4aa6-7311-43a6-8dce-fdc2710ba34c/file/ca164424-1910-4980-9422-520ef25f5af8). Další krok: přečíst příjmení nevěsty 1787 v ohláškách/indexu oddaných Vižňov (Drüsner vs. Ringel), narození Barbary Drüsner(ové) asi 1769 a tělo úmrtí Elisabeth Rosenberg 3. 11. 1818 č. 56 (věk). Kolo Y (25. 11. 2026): VYŘEŠENO z větší části – sňatek 13. 8. 1787, křest Josepha 11. 1. 1767 a křest Barbary 24. 11. 1768 jsou v mapě (viz poznámky u svazku u-joseph-rosenberg-barbara a u Barbary). Rozpor Drüsner × Ringel: písmo 1787 je jednoznačně „Drüsners“ (srovnání s „Barbara Ringelin“ 26. 11. 1786 na téže straně); jde o rodné jméno matky Anny (Drüsin/Dräsen). Index narozených 141-4251 snímek 77 a tělo 141-1 pag. 54 (15. 5. 1793) uvádějí matku dětí Josepha jako „Barbara Drüsin“, včetně Benedikta 1799. Zůstává otevřené: úmrtí Anny Elisabethy (kandidátka Elisabeth †3. 11. 1818 č. 56, kniha Z Ruprechtice po 1813) a zda Joseph †27. 1. 1803 (61 let) je otec Josepha *1767. Kolo Z (25. 11. 2026): (1) Rodiče Josepha *1767 se vzali 19. 11. 1764 v Ruprechticích (141-7599 snímek 437, fol. 105): Johann Joseph Rosenberg, syn Johannesa, × Anna Elisabetha, dcera †Antona Obitze – v mapě. (2) Úmrtí 3. 11. 1818, Ruprechtice č. 56 (141-6 snímek 10, fol. 12): „Elisabeth, des Joseph Rosenbergs Häuslers hinterbl. Wittib“, 80 let (→ asi 1738), gewöhnlich. Velmi pravděpodobně Anna Elisabetha roz. Obitz; neověřeno, protože zápis nejmenuje rodné příjmení. (3) Joseph Rosenberg, chalupník, †27. 1. 1803, 61 let (→ asi 1742, při sňatku 1764 asi 22 let) je v indexu zemřelých 141-4254 (1784–1821) jediný dospělý Joseph Rosenberg; vdova Elisabeth 1818 výslovně „Joseph Rosenbergs Häuslers Wittib“. Druhá Josephova žena (Barbara Herzog) jako vdova nepřipadá v úvahu. Spojení 1803/1818 s párem z 1764 je tedy silné, ale nepřímé – do mapy zatím ne. Výřez vypisy/141-6/z141-6-s10-fol12-1818-11-03-elisabeth-vdova-po-josephu-rosenbergovi-chalupnikovi-c56-80-let.jpg (https://aron.vychodoceskearchivy.cz/apu/358d4f5b-1b37-453d-b1a9-3f5b308626da/dao/358d4f5b-1b37-453d-b1a9-3f5b308626da/file/e80ae998-254b-4ad8-9316-3a420b064774). Další krok: tělo 1803 (141-5 snímek 24) přečíst kvůli manželce/domu; křest Johanna Josepha kolem 1740–1743 (otec Johannes) a Anny Elisabethy Obitz kolem 1736–1740 v 141-7599. Kolo AA (25. 11. 2026): (1) Celý zápis úmrtí 27. 1. 1803 (141-5 snímek 24, pag. 42): Joseph Rosenberg, chalupník, Ruprechtice č. 30, 61 let – manželka ani rodiče neuvedeni, nic nového; výřez vypisy/141-5/z141-5-s24-pag42-1803-01-27-joseph-rosenberg-chalupnik-c30-61-let.jpg (https://aron.vychodoceskearchivy.cz/apu/592f4aa6-7311-43a6-8dce-fdc2710ba34c/dao/592f4aa6-7311-43a6-8dce-fdc2710ba34c/file/20e2d7ad-9005-419c-aa2d-9cb8c2cb64cb). (2) Křest Johanna Josepha 1. 3. 1743 (*28. 2.), syn Johanna Adalberta Rosenberga, podruha, a Anny Marie (141-7599 snímek 93, fol. 113) – v mapě. Věk 61 v roce 1803 odpovídá narození 1743 (skutečně téměř 60), věk 80 Elisabethy 1818 odpovídá narození 1740 (skutečně 78). (3) Křest Anny Elisabethy Opitz 19. 9. 1740 (141-7599 snímek 82, fol. 90), dcera Antona, Ober-Häuslera, a Rosiny – v mapě. Spojení s úmrtími 1803/1818 tím sílí (obě data narození sedí), ale zápisy úmrtí stále nejmenují rodiče ani rodné příjmení – proto zůstávají jen zde. Další krok: úmrtí Antona Opitze před 1764 a sňatek Anton Opitz × Rosina a Johann Adalbert Rosenberg × Anna Maria (kolem 1735–1740) v 141-7599.",
       "related_ids": [
         "anna-elisabetha-obitz",
         "anton-obitz-ruprechtice",
@@ -9318,7 +9455,7 @@
       "id": "q-falta-slatina",
       "title": "Dorota Faltová a Jiří Falta ze Slatiny nad Úpou – narození a sňatek Špaček × Faltová",
       "summary": "Slatina nad Úpou patří k faře Boušín. Sňatek Františka Špačka a Doroty Faltové ve Slatině 9/1810–2/1819 (12-4) není. Kandidátka na narození: Dorota Marie Faltová *12. 3. 1792, Slatina č. 109, otec Jiří Falta, matka Dorota Lorencová(?) – dům se neshoduje (1818/1823 č. 39), proto mimo mapu.",
-      "details": "Fara: Boušín (ARON fary B), knihy 12-2 (N Slatina 1784–1834), 12-4 (O Slatina 6.1784–6.1853), 12-5 (Z 1784–1847), 12-7 (index N/Z/O 1784–1847). Oddací 12-4 snímky 23–28 (9/1810–2/1819) prošly – nevěsta z č. 39 ani Dorota Faltová tam není. Index 12-7 snímek 11 (Lit. F): rodina Falta ve Slatině velmi početná; „Faltowa Dorota z Slatiny 792“. 12-2 snímek 26, pag. 42: 12. 3. 1792, č. 109, Dorota Marie, otec Jiří Falta („lomník?“), matka Dorota roz. Lorencová(?). Výřez vypisy/12-2/z12-2-s26-1792-03-12-dorota-marie-faltova-kandidat.jpg; ARON https://aron.vychodoceskearchivy.cz/apu/10bcc7ad-6f37-4659-8328-2e58bd1d4a00/dao/10bcc7ad-6f37-4659-8328-2e58bd1d4a00/file/34df6c5e-5ccd-4543-a1c6-a9b06d764204. Další krok: sňatek mohl být ve VS/Hronově (hronovské indexy podle ženicha Špačka byly negativní) nebo před 9/1810; ověřit Doroty věk v úmrtí (VS) a další Doroty Faltové v indexu 12-7. Kolo K: index narozených 12-7 (Slatina/Boušín), lit. F, snímek 11: mezi Faltovými ze Slatiny 1785–1804 je jediná Dorota – „Faltowa Dorota z Slatiny 792 p. 42“ (= kandidátka *12. 3. 1792, č. 109). Výřez vypisy/12-7/z12-7-s11-index-f-falta-1785-1804-dorota-1792.jpg, https://aron.vychodoceskearchivy.cz/apu/3688be9d-2fd0-4a9d-a333-5d22d581c29f/dao/3688be9d-2fd0-4a9d-a333-5d22d581c29f/file/9e771c24-ebff-4c01-8ee6-e2fad5c31dfa. Kandidátka je tím silnější, ale dům (109 vs. 39) se liší, takže zůstává mimo mapu. Kolo M (25. 11. 2026): Slatinská oddací kniha 12-4 (APU 816b61d4-3bc4-4c30-bf85-e65a7ae148f8), snímky 28–30, pag. 47–51 (2/1819–11/1822): sňatek Špaček × Dorota Faltová tam NENÍ. Slatina je tak negativní pro 9/1810–11/1822 a Anna Špačková (* asi 1823) se nejspíš narodila až po svatbě jinde. Další krok: oddací Vysoká Srbská / Hronov kolem 1815–1823 podle nevěsty (Faltová) a úmrtí Doroty Špačkové (věk) ve VS. Kolo P (25. 11. 2026): 17. 6. 1820 VS č. 29 narozen Johann Špaček (53-19 pag. 120, výřez vypisy/53-19/z53-19-s64-1820-06-17-johann-spacek-c29.jpg) – matka Dorothea, dcera Georga Falty, podruha ze Slatiny č. 39; znovu potvrzuje č. 39 (ne 109). Rodina má tedy děti 1818, 1820, 1823; sňatek nejspíš před 10/1818. Oddílu O v indexu 12-7 (Boušín/Slatina) jsem v časovém limitu neidentifikoval (snímky 45–78 jsou indexy N/Z podle písmen). Kolo T (25. 11. 2026): index 12-7 (79 snímků, N/Z/O 1784–1847) je řazen po písmenech; u každého písmene jsou narození (Slatina), od 1834 tabulka zemřelých („Namen der Gestorbenen“) – např. snímek 62 = lit. F (Faltovi narození 1821–1834, zemřelí 1834–1847). Ve vzorku snímků 25, 35, 42, 62, 70, 76 (prázdné/D/L/F–G/P/W) oddíl oddaných nebyl; ten tedy v indexu buď chybí, nebo je v nevzorkovaných snímcích. Bez nového nálezu. Kolo U (25. 11. 2026): (1) Index 12-7 – doplněny vzorky snímků 2, 20, 30, 43, 44, 45, 78, 79: jde o abecední index narozených (písmena A–Z) a od 1834 zemřelých (např. snímek 78 = zemřelí lit. S 1840–1846); oddíl oddaných jsem ani v rozšířeném vzorku nenašel – v tomto svazku zřejmě chybí, přestože popis ARON uvádí N/Z/O. (2) Hronovský farní index oddaných 53-4181, lit. S (snímek 35, roky 1805–1821; výřez vypisy/53-4181/z53-4181-s35-index-o-lit-s-1805-1821-bez-spacka.jpg, https://aron.vychodoceskearchivy.cz/apu/c03115b1-640a-451f-9fba-c14d4a9ea13e/dao/c03115b1-640a-451f-9fba-c14d4a9ea13e/file/96d55469-6cfd-4720-aafb-9711d1d4676f): ženich Špaček (Spatschek) tam v letech 1805–1821 není (Schmid, Svoboda, Sauer, Stejskal, Simon aj.). Sňatek Špaček × Faltová před 10/1818 tedy není ani v hronovské farnosti, ani ve Slatině 9/1810–11/1822. Zbývá: Slatina/Boušín před 9/1810 (12-4) nebo jiná farnost. Kolo V (25. 11. 2026): Oddací 12-4 Slatina, snímky 21 (pag. 32/33, 2/1805–2/1808) a 22 (pag. 34/35, 7/1808–27. 8. 1810) prošly: žádný ženich Špaček ani nevěsta Dorota Faltová (ženichové Falta 18. 7. 1808 a 10. 10. 1809 jsou Josefové s jinými nevěstami). Slatina je tak bez sňatku Špaček × Faltová v letech 2/1805–11/1822. Další krok: oddací Vysoká Srbská / Hronov před 10/1818 nebo jiné farnosti. Kolo W (25. 11. 2026): Hronovský index oddaných 53-4181 lit. S zkontrolován i pro 1786–1805 (snímek 34) a 1821–1833 (snímek 36) – ženich Špaček nenalezen; s 1805–1821 (kolo U) je tím celá farnost Hronov (vč. Vysoké Srbské) negativní 1786–1833. Index narozených VS 53-19 lit. S (snímek 90, 1784–1825): Špačkovi jen 1809 Joseph (pag. 86), 1817 Ludmila (pag. 108), 1818 Anna (pag. 113) a 1818 Joseph (pag. 113). Ludmila (1817, č. 29) a Anna (5. 10. 1818, č. 7) jsou dcery Josepha Špačka, podruha, a Marie – jiná rodina (Joseph Špaček bydlel 1817 rovněž v č. 29, mohl by být příbuzný Františka – nepřipisuje se). První doložené dítě Františka × Doroty je tak Joseph 7. 10. 1818 → sňatek asi 1817–1818 a mimo farnosti Hronov i Boušín; další krok: domovská farnost Františka Špačka (neznámá) nebo jiná farnost nevěsty. Kolo X (25. 11. 2026): František Špaček zemřel 26. 4. 1835 ve VS č. 29, 40 let (53-73 snímek 7, pag. 6; v mapě). Původ neuveden. Hronovský index 53-4184 (snímek 69) má i „Špaček Maria 4. 1. 1843 H. Srbska III fol. 29“ – zda jde o Dorotu (chyba jména) nebo jinou ženu, neověřeno (tělo 53-73 fol. 29). K hypotéze „Joseph Špaček č. 29 jako otec Františka“: index zemřelých VS 53-72 (1784–1832, snímek 45, lit. S) má Spatschkovy 1813 (Joseph, pag. 42), 1817 (Ludmila, pag. 48), 1818 (Anna, pag. 50), 1822 (Johann, pag. 55 = syn Františka *1820), 1828 (Ludmila, pag. 66) a 1829 (Melichar, pag. 69). Tělo pag. 42 (snímek 24): 25. 2. 1813, VS č. 29, Joseph Spatschek, syn Ludmily Spatschkové, podruhyně (Inweib), 3 roky 1 měsíc, Abzehrung – tedy dítě, ne otec Františka; otec dítěte neuveden. Ludmila Špačková žila 1810 v č. 29 – mohla by být Františkova matka nebo sestra, nic se nepřipisuje. Joseph Špaček jako otec Františka zůstává nedoložen. Výřezy: vypisy/53-72/z53-72-s45-index-z-lit-s-1784-1832-spackovi-1813-1817-1818-1822-1828.jpg (https://aron.vychodoceskearchivy.cz/apu/ec74965f-eea9-4f75-8c12-72957f62fd0e/dao/ec74965f-eea9-4f75-8c12-72957f62fd0e/file/9a030f71-d7c9-4687-a5ff-ed9da65060cd); vypisy/53-72/z53-72-s24-pag42-1813-02-25-joseph-spacek-syn-ludmily-spackove-c29.jpg (https://aron.vychodoceskearchivy.cz/apu/ec74965f-eea9-4f75-8c12-72957f62fd0e/dao/ec74965f-eea9-4f75-8c12-72957f62fd0e/file/c16c49a3-58ef-407e-b5de-cc104217f544). Další krok: Ludmila Špačková †1817/1828 (53-72 pag. 48 a 66 – věk, stav), narození Josepha *asi 1/1810 v 53-19, Maria †1843 (53-73 fol. 29). Kolo Y (25. 11. 2026): Ludmila Špačková †7. 4. 1817 (53-72 snímek 27, pag. 48) je dítě (16 dní?), dcera Josepha Špačka, podruha v č. 29; Ludmila †6. 3. 1828 (snímek 36, pag. 66) dcera Josepha Spatschka(?) z č. 65, dítě; Maria †4. 1. 1843 (53-73 snímek 18, pag. 29) dcera Josepha Špačka, chalupníka v č. 29, 1 rok 7 měsíců(?) – pravděpodobně dítě Josefa *1818 (syn Františka), nepřipisuje se. Žádná z nich není dospělá žena, Ludmila – matka dítěte 1810 – tedy zůstává bez úmrtí v 1784–1832 jen pod tímto jménem. Výřezy: vypisy/53-72/z53-72-s27-pag48-1817-04-07-ludmila-spackova-dcera-josepha-spacka-podruha-c29.jpg (https://aron.vychodoceskearchivy.cz/apu/ec74965f-eea9-4f75-8c12-72957f62fd0e/dao/ec74965f-eea9-4f75-8c12-72957f62fd0e/file/d671d8c3-ae66-48ad-986f-92e1c4170467), vypisy/53-72/z53-72-s36-pag66-1828-03-06-ludmila-dcera-josepha-spacka-c65.jpg (https://aron.vychodoceskearchivy.cz/apu/ec74965f-eea9-4f75-8c12-72957f62fd0e/dao/ec74965f-eea9-4f75-8c12-72957f62fd0e/file/fcecc8a5-775c-4103-8a4a-2dec71a5c29c), vypisy/53-73/z53-73-s18-pag29-1843-01-04-maria-dcera-josepha-spacka-c29.jpg (https://aron.vychodoceskearchivy.cz/apu/97156f2f-6d36-4241-9f0b-799d82a7a4f0/dao/97156f2f-6d36-4241-9f0b-799d82a7a4f0/file/a71879a0-e00c-4293-bf08-b656e16514c2). Kolo Z (25. 11. 2026): (1) Josef *1818 se oženil 19. 11. 1839 ve VS (53-53 snímek 15, fol. 13) – potvrzuje rodiče František Špaček a Dorota roz. Faltová ze Slatiny č. 39; ženich 21 let, tkadlec a chalupník v č. 29; nevěsta Franziska, 23 let, dcera Johanna Pawk(?)/Pauk(?), chalupníka z (Zdárek?) č. 35, a Dorothey roz. Litt(?); poručník ženicha Franz Matzura(?). Výřez vypisy/53-53/z53-53-s15-fol13-1839-11-19-joseph-spacek-c29-syn-franze-a-doroty-faltove-x-franziska.jpg (https://aron.vychodoceskearchivy.cz/apu/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/dao/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/file/d0240aee-c6d7-4780-b949-5ac49b03745d). Maria †1843 (dcera Josepha, č. 29) je tak dítě z tohoto manželství (nepřipisuje se, nejde o předka). (2) Joseph *16. 12. 1809 VS č. 29 (53-19 snímek 47, pag. 86): nemanželský, otec „unbekannt“, matka Ludmila Spatschkin, dcera Josepha Spatschka, podruha (Inmann) z Hronova(?) č. 20(?), Náchodské panství; kmotři Karel (Schima?), chalupník, a Ludmila …, selka, z VS. Výřez vypisy/53-19/z53-19-s47-pag86-1809-12-16-joseph-spacek-nemanz-matka-ludmila-dcera-josepha-spacka-podruha.jpg (https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/679294cd-9305-4fb8-8ee6-bd532c7ad07a). Nová stopa k původu Františka: Joseph Špaček, podruh z Hronova(?) – mohl být otcem Ludmily i Františka; čtení místa nejisté, nic se nepřipisuje. Další krok: křty Hronov kolem 1793–1797 (František, otec Joseph Špaček) a Ludmila kolem 1785–1790.",
+      "details": "Fara: Boušín (ARON fary B), knihy 12-2 (N Slatina 1784–1834), 12-4 (O Slatina 6.1784–6.1853), 12-5 (Z 1784–1847), 12-7 (index N/Z/O 1784–1847). Oddací 12-4 snímky 23–28 (9/1810–2/1819) prošly – nevěsta z č. 39 ani Dorota Faltová tam není. Index 12-7 snímek 11 (Lit. F): rodina Falta ve Slatině velmi početná; „Faltowa Dorota z Slatiny 792“. 12-2 snímek 26, pag. 42: 12. 3. 1792, č. 109, Dorota Marie, otec Jiří Falta („lomník?“), matka Dorota roz. Lorencová(?). Výřez vypisy/12-2/z12-2-s26-1792-03-12-dorota-marie-faltova-kandidat.jpg; ARON https://aron.vychodoceskearchivy.cz/apu/10bcc7ad-6f37-4659-8328-2e58bd1d4a00/dao/10bcc7ad-6f37-4659-8328-2e58bd1d4a00/file/34df6c5e-5ccd-4543-a1c6-a9b06d764204. Další krok: sňatek mohl být ve VS/Hronově (hronovské indexy podle ženicha Špačka byly negativní) nebo před 9/1810; ověřit Doroty věk v úmrtí (VS) a další Doroty Faltové v indexu 12-7. Kolo K: index narozených 12-7 (Slatina/Boušín), lit. F, snímek 11: mezi Faltovými ze Slatiny 1785–1804 je jediná Dorota – „Faltowa Dorota z Slatiny 792 p. 42“ (= kandidátka *12. 3. 1792, č. 109). Výřez vypisy/12-7/z12-7-s11-index-f-falta-1785-1804-dorota-1792.jpg, https://aron.vychodoceskearchivy.cz/apu/3688be9d-2fd0-4a9d-a333-5d22d581c29f/dao/3688be9d-2fd0-4a9d-a333-5d22d581c29f/file/9e771c24-ebff-4c01-8ee6-e2fad5c31dfa. Kandidátka je tím silnější, ale dům (109 vs. 39) se liší, takže zůstává mimo mapu. Kolo M (25. 11. 2026): Slatinská oddací kniha 12-4 (APU 816b61d4-3bc4-4c30-bf85-e65a7ae148f8), snímky 28–30, pag. 47–51 (2/1819–11/1822): sňatek Špaček × Dorota Faltová tam NENÍ. Slatina je tak negativní pro 9/1810–11/1822 a Anna Špačková (* asi 1823) se nejspíš narodila až po svatbě jinde. Další krok: oddací Vysoká Srbská / Hronov kolem 1815–1823 podle nevěsty (Faltová) a úmrtí Doroty Špačkové (věk) ve VS. Kolo P (25. 11. 2026): 17. 6. 1820 VS č. 29 narozen Johann Špaček (53-19 pag. 120, výřez vypisy/53-19/z53-19-s64-1820-06-17-johann-spacek-c29.jpg) – matka Dorothea, dcera Georga Falty, podruha ze Slatiny č. 39; znovu potvrzuje č. 39 (ne 109). Rodina má tedy děti 1818, 1820, 1823; sňatek nejspíš před 10/1818. Oddílu O v indexu 12-7 (Boušín/Slatina) jsem v časovém limitu neidentifikoval (snímky 45–78 jsou indexy N/Z podle písmen). Kolo T (25. 11. 2026): index 12-7 (79 snímků, N/Z/O 1784–1847) je řazen po písmenech; u každého písmene jsou narození (Slatina), od 1834 tabulka zemřelých („Namen der Gestorbenen“) – např. snímek 62 = lit. F (Faltovi narození 1821–1834, zemřelí 1834–1847). Ve vzorku snímků 25, 35, 42, 62, 70, 76 (prázdné/D/L/F–G/P/W) oddíl oddaných nebyl; ten tedy v indexu buď chybí, nebo je v nevzorkovaných snímcích. Bez nového nálezu. Kolo U (25. 11. 2026): (1) Index 12-7 – doplněny vzorky snímků 2, 20, 30, 43, 44, 45, 78, 79: jde o abecední index narozených (písmena A–Z) a od 1834 zemřelých (např. snímek 78 = zemřelí lit. S 1840–1846); oddíl oddaných jsem ani v rozšířeném vzorku nenašel – v tomto svazku zřejmě chybí, přestože popis ARON uvádí N/Z/O. (2) Hronovský farní index oddaných 53-4181, lit. S (snímek 35, roky 1805–1821; výřez vypisy/53-4181/z53-4181-s35-index-o-lit-s-1805-1821-bez-spacka.jpg, https://aron.vychodoceskearchivy.cz/apu/c03115b1-640a-451f-9fba-c14d4a9ea13e/dao/c03115b1-640a-451f-9fba-c14d4a9ea13e/file/96d55469-6cfd-4720-aafb-9711d1d4676f): ženich Špaček (Spatschek) tam v letech 1805–1821 není (Schmid, Svoboda, Sauer, Stejskal, Simon aj.). Sňatek Špaček × Faltová před 10/1818 tedy není ani v hronovské farnosti, ani ve Slatině 9/1810–11/1822. Zbývá: Slatina/Boušín před 9/1810 (12-4) nebo jiná farnost. Kolo V (25. 11. 2026): Oddací 12-4 Slatina, snímky 21 (pag. 32/33, 2/1805–2/1808) a 22 (pag. 34/35, 7/1808–27. 8. 1810) prošly: žádný ženich Špaček ani nevěsta Dorota Faltová (ženichové Falta 18. 7. 1808 a 10. 10. 1809 jsou Josefové s jinými nevěstami). Slatina je tak bez sňatku Špaček × Faltová v letech 2/1805–11/1822. Další krok: oddací Vysoká Srbská / Hronov před 10/1818 nebo jiné farnosti. Kolo W (25. 11. 2026): Hronovský index oddaných 53-4181 lit. S zkontrolován i pro 1786–1805 (snímek 34) a 1821–1833 (snímek 36) – ženich Špaček nenalezen; s 1805–1821 (kolo U) je tím celá farnost Hronov (vč. Vysoké Srbské) negativní 1786–1833. Index narozených VS 53-19 lit. S (snímek 90, 1784–1825): Špačkovi jen 1809 Joseph (pag. 86), 1817 Ludmila (pag. 108), 1818 Anna (pag. 113) a 1818 Joseph (pag. 113). Ludmila (1817, č. 29) a Anna (5. 10. 1818, č. 7) jsou dcery Josepha Špačka, podruha, a Marie – jiná rodina (Joseph Špaček bydlel 1817 rovněž v č. 29, mohl by být příbuzný Františka – nepřipisuje se). První doložené dítě Františka × Doroty je tak Joseph 7. 10. 1818 → sňatek asi 1817–1818 a mimo farnosti Hronov i Boušín; další krok: domovská farnost Františka Špačka (neznámá) nebo jiná farnost nevěsty. Kolo X (25. 11. 2026): František Špaček zemřel 26. 4. 1835 ve VS č. 29, 40 let (53-73 snímek 7, pag. 6; v mapě). Původ neuveden. Hronovský index 53-4184 (snímek 69) má i „Špaček Maria 4. 1. 1843 H. Srbska III fol. 29“ – zda jde o Dorotu (chyba jména) nebo jinou ženu, neověřeno (tělo 53-73 fol. 29). K hypotéze „Joseph Špaček č. 29 jako otec Františka“: index zemřelých VS 53-72 (1784–1832, snímek 45, lit. S) má Spatschkovy 1813 (Joseph, pag. 42), 1817 (Ludmila, pag. 48), 1818 (Anna, pag. 50), 1822 (Johann, pag. 55 = syn Františka *1820), 1828 (Ludmila, pag. 66) a 1829 (Melichar, pag. 69). Tělo pag. 42 (snímek 24): 25. 2. 1813, VS č. 29, Joseph Spatschek, syn Ludmily Spatschkové, podruhyně (Inweib), 3 roky 1 měsíc, Abzehrung – tedy dítě, ne otec Františka; otec dítěte neuveden. Ludmila Špačková žila 1810 v č. 29 – mohla by být Františkova matka nebo sestra, nic se nepřipisuje. Joseph Špaček jako otec Františka zůstává nedoložen. Výřezy: vypisy/53-72/z53-72-s45-index-z-lit-s-1784-1832-spackovi-1813-1817-1818-1822-1828.jpg (https://aron.vychodoceskearchivy.cz/apu/ec74965f-eea9-4f75-8c12-72957f62fd0e/dao/ec74965f-eea9-4f75-8c12-72957f62fd0e/file/9a030f71-d7c9-4687-a5ff-ed9da65060cd); vypisy/53-72/z53-72-s24-pag42-1813-02-25-joseph-spacek-syn-ludmily-spackove-c29.jpg (https://aron.vychodoceskearchivy.cz/apu/ec74965f-eea9-4f75-8c12-72957f62fd0e/dao/ec74965f-eea9-4f75-8c12-72957f62fd0e/file/c16c49a3-58ef-407e-b5de-cc104217f544). Další krok: Ludmila Špačková †1817/1828 (53-72 pag. 48 a 66 – věk, stav), narození Josepha *asi 1/1810 v 53-19, Maria †1843 (53-73 fol. 29). Kolo Y (25. 11. 2026): Ludmila Špačková †7. 4. 1817 (53-72 snímek 27, pag. 48) je dítě (16 dní?), dcera Josepha Špačka, podruha v č. 29; Ludmila †6. 3. 1828 (snímek 36, pag. 66) dcera Josepha Spatschka(?) z č. 65, dítě; Maria †4. 1. 1843 (53-73 snímek 18, pag. 29) dcera Josepha Špačka, chalupníka v č. 29, 1 rok 7 měsíců(?) – pravděpodobně dítě Josefa *1818 (syn Františka), nepřipisuje se. Žádná z nich není dospělá žena, Ludmila – matka dítěte 1810 – tedy zůstává bez úmrtí v 1784–1832 jen pod tímto jménem. Výřezy: vypisy/53-72/z53-72-s27-pag48-1817-04-07-ludmila-spackova-dcera-josepha-spacka-podruha-c29.jpg (https://aron.vychodoceskearchivy.cz/apu/ec74965f-eea9-4f75-8c12-72957f62fd0e/dao/ec74965f-eea9-4f75-8c12-72957f62fd0e/file/d671d8c3-ae66-48ad-986f-92e1c4170467), vypisy/53-72/z53-72-s36-pag66-1828-03-06-ludmila-dcera-josepha-spacka-c65.jpg (https://aron.vychodoceskearchivy.cz/apu/ec74965f-eea9-4f75-8c12-72957f62fd0e/dao/ec74965f-eea9-4f75-8c12-72957f62fd0e/file/fcecc8a5-775c-4103-8a4a-2dec71a5c29c), vypisy/53-73/z53-73-s18-pag29-1843-01-04-maria-dcera-josepha-spacka-c29.jpg (https://aron.vychodoceskearchivy.cz/apu/97156f2f-6d36-4241-9f0b-799d82a7a4f0/dao/97156f2f-6d36-4241-9f0b-799d82a7a4f0/file/a71879a0-e00c-4293-bf08-b656e16514c2). Kolo Z (25. 11. 2026): (1) Josef *1818 se oženil 19. 11. 1839 ve VS (53-53 snímek 15, fol. 13) – potvrzuje rodiče František Špaček a Dorota roz. Faltová ze Slatiny č. 39; ženich 21 let, tkadlec a chalupník v č. 29; nevěsta Franziska, 23 let, dcera Johanna Pawk(?)/Pauk(?), chalupníka z (Zdárek?) č. 35, a Dorothey roz. Litt(?); poručník ženicha Franz Matzura(?). Výřez vypisy/53-53/z53-53-s15-fol13-1839-11-19-joseph-spacek-c29-syn-franze-a-doroty-faltove-x-franziska.jpg (https://aron.vychodoceskearchivy.cz/apu/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/dao/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/file/d0240aee-c6d7-4780-b949-5ac49b03745d). Maria †1843 (dcera Josepha, č. 29) je tak dítě z tohoto manželství (nepřipisuje se, nejde o předka). (2) Joseph *16. 12. 1809 VS č. 29 (53-19 snímek 47, pag. 86): nemanželský, otec „unbekannt“, matka Ludmila Spatschkin, dcera Josepha Spatschka, podruha (Inmann) z Hronova(?) č. 20(?), Náchodské panství; kmotři Karel (Schima?), chalupník, a Ludmila …, selka, z VS. Výřez vypisy/53-19/z53-19-s47-pag86-1809-12-16-joseph-spacek-nemanz-matka-ludmila-dcera-josepha-spacka-podruha.jpg (https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/679294cd-9305-4fb8-8ee6-bd532c7ad07a). Nová stopa k původu Františka: Joseph Špaček, podruh z Hronova(?) – mohl být otcem Ludmily i Františka; čtení místa nejisté, nic se nepřipisuje. Další krok: křty Hronov kolem 1793–1797 (František, otec Joseph Špaček) a Ludmila kolem 1785–1790. Kolo AA (25. 11. 2026): Nalezen index narozených fary Hronov 53-4178 (1742–1834, APU 96204dc9-1e5f-4053-81ba-4a10918504e3), lit. S = snímky 134–143 (1742–1779 snímky 134–136, 1780–1784 snímek 137, 1784–1787 snímek 138, 1788–1790 snímek 139). Při procházení snímků 138–139 (1784–1790) jsem v přehledovém rozlišení Ludmilu Špačkovou nenašel jistě; snímky 140–143 (1791–1797, František) v časovém limitu neprošly. Nic se nepřipisuje. Další krok: snímky 138–143 přečíst ve vysokém rozlišení po sloupcích (Spaček/Spatschek, Ludmila, Franz) a teprve pak matriku 53-2 (N Hronov 1784–1824, APU 13eeb8ee-9fdf-4256-8634-dd432d76391f).",
       "related_ids": [
         "dorota-justova",
         "jiri-falta-slatina",
