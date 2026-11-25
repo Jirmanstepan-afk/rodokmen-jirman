@@ -21,7 +21,7 @@ if ! git merge-base --is-ancestor origin/main HEAD; then
   python3 scripts/validate-rodokmen.py
 fi
 
-git add .nojekyll .gitignore index.html mapa.html povolani.html kniha.html robots.txt _headers JAK-DOPLNIT.md deploy.sh css js data img scripts/validate-rodokmen.py scripts/aron-snimky.py
+git add .nojekyll .gitignore index.html mapa.html povolani.html kniha.html kniha-text.html robots.txt _headers JAK-DOPLNIT.md deploy.sh css js fonts data img scripts/validate-rodokmen.py scripts/aron-snimky.py
 if git diff --cached --quiet; then
   echo "Žádné změny k odeslání. Stránka: https://jirmanstepan-afk.github.io/rodokmen-jirman/"
   exit 0

@@ -1,6 +1,11 @@
 # Kniha „Kde jsme žili“: jak ji doplňovat
 
-Stránka `kniha.html` vykresluje rodinnou kroniku ze souborů v této složce:
+Kniha má dvě podoby, obě se vykreslují ze souborů v této složce:
+
+- `kniha.html` je listovací kniha: otevřená dvoustrana přes celou obrazovku, otáčení listů (StPageFlip, `js/vendor/page-flip-2.0.7.browser.js`), kožené desky a obsah s čísly stran. Stránky se rozdělují automaticky podle výšky okna (`js/kniha-listovani.js`), takže po doplnění textu se nic ručně nestránkuje.
+- `kniha-text.html` je klasická textová verze na jednu dlouhou stránku (`js/kniha.js`, `css/kniha.css`).
+
+Obě verze čtou tyto soubory:
 
 - `kniha.json` určuje strukturu: díly, kapitoly, jejich pořadí, nadpisy, podtituly, rody, období a seznam osob (`people`).
 - `NN-nazev.md` obsahuje text kapitoly. Píše se v první osobě, vypravěčem je Štěpán.

@@ -175,4 +175,4 @@ U žijících osob mapa ukazuje jen obec, nikdy číslo domu. Události a povol�
 
 ## Kniha (`kniha.html`)
 
-`kniha.html` je rodinná kronika v první osobě (vypravěč Štěpán). Text kapitol je v `data/kniha/NN-nazev.md`, struktura v `data/kniha/kniha.json`. Značky a postup jsou popsané v `data/kniha/README.md`. Po každém kole hledání stačí dopsat odstavec do příslušné kapitoly (fakta s poznámkou `[^sig/snímek: …]`, domněnky jako `> Domněnka: …`) a spustit `python3 scripts/kniha-kontrola.py`. Rámečky kapitol, generace, retro mapky (II. vojenské mapování) a otevřené otázky se počítají z dat samy.
+`kniha.html` je rodinná kronika v první osobě (vypravěč Štěpán) jako listovací kniha, `kniha-text.html` je tatáž kniha jako jedna textová stránka. Text kapitol je v `data/kniha/NN-nazev.md`, struktura v `data/kniha/kniha.json`. Značky a postup jsou popsané v `data/kniha/README.md`. Po každém kole hledání stačí dopsat odstavec do příslušné kapitoly (fakta s poznámkou `[^sig/snímek: …]`, domněnky jako `> Domněnka: …`) a spustit `python3 scripts/kniha-kontrola.py`. Rámečky kapitol, generace, retro mapky (II. vojenské mapování) a otevřené otázky se počítají z dat samy.

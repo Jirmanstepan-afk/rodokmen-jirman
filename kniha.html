@@ -6,45 +6,44 @@
   <meta name="robots" content="noindex, nofollow, noarchive">
   <meta name="googlebot" content="noindex, nofollow, noarchive">
   <meta name="description" content="Rodinná kronika rodiny Jirman podle matrik. Soukromá stránka, neindexovat.">
+  <meta name="theme-color" content="#2a1d12">
   <title>Kniha — Rodokmen rodiny Jirman</title>
-  <link rel="stylesheet" href="./css/style.css?v=4">
-  <link rel="stylesheet" href="./css/kniha.css?v=1">
+  <link rel="stylesheet" href="./fonts/fonts.css?v=1">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+  <link rel="stylesheet" href="./css/kniha-listovani.css?v=1">
 </head>
-<body class="page-scroll page-book">
-  <header class="topbar">
-    <div class="brand">
-      <h1>Rodokmen rodiny Jirman</h1>
-      <p id="meta-line">Načítání knihy…</p>
-    </div>
-  </header>
-  <div class="subnav-wrap">
-    <nav class="sitenav" aria-label="Sekce webu">
+<body class="fb-body">
+  <header class="fb-top">
+    <a class="fb-brand" href="./index.html">Rodokmen rodiny Jirman</a>
+    <nav class="fb-nav sitenav" aria-label="Sekce webu">
       <a href="./index.html">Rodokmen</a>
       <a href="./mapa.html">Mapa míst</a>
       <a href="./povolani.html">Povolání</a>
       <a href="./kniha.html" class="is-active" aria-current="page">Kniha</a>
     </nav>
-  </div>
+    <a class="fb-classic" href="./kniha-text.html">Textová verze</a>
+  </header>
 
-  <main class="book">
-    <header class="kn-titlepage">
-      <div class="kn-orn-top" aria-hidden="true">❧ ✦ ☙</div>
-      <h1 id="kn-title">Rodinná kronika</h1>
-      <p id="kn-subtitle"></p>
-      <p class="kn-meta" id="kn-updated"></p>
-    </header>
-    <nav class="kn-toc" id="obsah" aria-label="Obsah knihy">
-      <h2>Obsah</h2>
-      <div id="toc"></div>
-    </nav>
-    <div id="book"></div>
+  <div class="fb-loading" id="fb-loading">Otevírám knihu…</div>
+  <main class="fb-stage is-closed-front" id="fb-stage" aria-label="Kniha – listování">
+    <div class="fb-shift" id="fb-shift"><div class="fb-binding" aria-hidden="true"></div></div>
   </main>
+  <button class="fb-arrow fb-prev" type="button" aria-label="Předchozí strana">‹</button>
+  <button class="fb-arrow fb-next" type="button" aria-label="Další strana">›</button>
+  <div class="fb-hint" id="fb-hint">Listujte šipkami, klávesami ← → nebo tažením za roh stránky</div>
+  <nav class="fb-bar" aria-label="Ovládání knihy">
+    <button type="button" id="fb-first" title="Zavřít knihu (na desky)">Desky</button>
+    <button type="button" id="fb-toc">Obsah</button>
+    <span class="fb-count" id="fb-count" aria-live="polite"></span>
+    <button type="button" id="fb-fs" class="fb-fs" title="Celá obrazovka">⛶ Celá obrazovka</button>
+  </nav>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
   <script src="./js/vendor/proj4-2.15.0.js"></script>
   <script src="./js/vendor/proj4leaflet-1.0.2.js"></script>
+  <script src="./js/vendor/page-flip-2.0.7.browser.js"></script>
   <script src="./js/spolecne.js?v=5"></script>
-  <script src="./js/kniha.js?v=1"></script>
+  <script src="./js/kniha.js?v=2"></script>
+  <script src="./js/kniha-listovani.js?v=1"></script>
 </body>
 </html>

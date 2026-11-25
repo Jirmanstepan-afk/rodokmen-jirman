@@ -199,7 +199,8 @@
     const useHist = !fallback && getCrs();
     const map = L.map(el, {
       crs: useHist ? getCrs() : L.CRS.EPSG3857,
-      scrollWheelZoom: false, zoomControl: true, attributionControl: true
+      scrollWheelZoom: false, zoomControl: true, attributionControl: true,
+      dragging: !el.closest(".fb-root"), tap: false
     });
     el.classList.toggle("kn-map-fallback", !useHist);
     let layer;
@@ -243,16 +244,17 @@
     el._map = map;
   }
 
+  function initMap(el) {
+    if (el.dataset.ready) return;
+    el.dataset.ready = "1";
+    const ids = el.dataset.ids.split(",").filter(Boolean);
+    const pts = chapterPoints(ids);
+    if (!pts.length) { el.closest(".kn-mapbox").hidden = true; return; }
+    buildMap(el, pts, false);
+  }
   function lazyMaps() {
     const els = [...document.querySelectorAll(".kn-map[data-ids]")];
-    const init = (el) => {
-      if (el.dataset.ready) return;
-      el.dataset.ready = "1";
-      const ids = el.dataset.ids.split(",").filter(Boolean);
-      const pts = chapterPoints(ids);
-      if (!pts.length) { el.closest(".kn-mapbox").hidden = true; return; }
-      buildMap(el, pts, false);
-    };
+    const init = initMap;
     if (!("IntersectionObserver" in window)) { els.forEach(init); return; }
     const io = new IntersectionObserver((ents) => {
       for (const en of ents) if (en.isIntersecting) { init(en.target); io.unobserve(en.target); }
@@ -310,7 +312,7 @@
 
   function wordCount(s) { return (s.match(/[\p{L}\p{N}]+/gu) || []).length; }
 
-  async function main() {
+  async function loadBook() {
     const [data, zdroje, mista, kniha] = await Promise.all([
       fetch("./data/rodokmen.json").then((r) => r.json()),
       fetch("./data/zdroje.json").then((r) => r.json()),
@@ -330,20 +332,30 @@
     const mdBy = new Map(chapters.map((c, i) => [c.id, texts[i]]));
 
     let no = 0, words = 0;
-    const toc = [], html = [];
+    const toc = [], html = [], parts = [];
     for (const part of kniha.parts) {
       const items = [];
-      html.push(`<div class="kn-part" id="d-${esc(part.id)}"><p class="kn-part-no">${esc(part.label || "")}</p><h2>${esc(part.title)}</h2>${part.intro ? `<p>${esc(part.intro)}</p>` : ""}</div>`);
+      const partHtml = `<div class="kn-part" id="d-${esc(part.id)}"><p class="kn-part-no">${esc(part.label || "")}</p><h2>${esc(part.title)}</h2>${part.intro ? `<p>${esc(part.intro)}</p>` : ""}</div>`;
+      html.push(partHtml);
+      const P = { part, html: partHtml, chapters: [] };
+      parts.push(P);
       for (const ch of part.chapters) {
         const numbered = ch.numbered !== false;
         if (numbered) no++;
         const md = mdBy.get(ch.id) || "";
         words += wordCount(md);
-        html.push(chapterHtml(ch, numbered ? no : "", md));
+        const chHtml = chapterHtml(ch, numbered ? no : "", md);
+        html.push(chHtml);
+        P.chapters.push({ ch, no: numbered ? no : "", html: chHtml });
         items.push(`<li><a href="#k-${esc(ch.id)}">${numbered ? `<span class="kn-toc-no">${no}.</span> ` : ""}${esc(ch.title)}</a></li>`);
       }
       toc.push(`<li class="kn-toc-part"><a href="#d-${esc(part.id)}">${esc(part.label ? part.label + " – " : "")}${esc(part.title)}</a><ol>${items.join("")}</ol></li>`);
     }
+    return { kniha, no, words, peopleCount: S.people.size, parts, toc, html };
+  }
+
+  async function main() {
+    const { kniha, no, words, toc, html } = await loadBook();
     $("#kn-title").textContent = kniha.title;
     $("#kn-subtitle").textContent = kniha.subtitle || "";
     $("#kn-updated").textContent = `Stav k ${kniha.updated} · ${no} kapitol · asi ${Math.round(words / 100) * 100} slov · ${S.people.size} osob v datech`;
@@ -354,6 +366,8 @@
     if (location.hash) { const t = document.getElementById(location.hash.slice(1)); if (t) t.scrollIntoView(); }
   }
 
-  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", main);
-  else main();
+  window.Kniha = { load: loadBook, initMap };
+  const autorun = () => { if (document.getElementById("book")) main(); };
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", autorun);
+  else autorun();
 })();
