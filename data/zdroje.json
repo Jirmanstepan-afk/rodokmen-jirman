@@ -439,6 +439,20 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 119-9 (poř.č. 8153), 1791-1895",
    "popis": "římskokatolický index ODDANÝCH, farnost (Olešnice v Orlických horách, Polom)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/f0f98951-d61a-48b4-a82c-b3e254211c2c"
+  },
+  "119-1": {
+   "apu": "c942febb-f341-4f4a-8e83-d80c422e5040",
+   "dao": "c942febb-f341-4f4a-8e83-d80c422e5040",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 119-1 (poř.č. 8139), 1767-1857",
+   "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, farnost (Lužany, Olešnice v Orlických horách, Polom) NZ do 4.1784 a O do 2.1784, Olešnice v Orlických horách + Polom (N 5-9.1784, O 5-7.1784, Z 6-8.1784), Olešnice v Orlických horách (N 9.1784-1815, O 10.1784-11.1835, Z 9.1784-7.1807), Polom (N 10.1784-8.1815, O 10.1784-2.1850, Z 6.1785-10.1857)\nzápisy Z pro Polom 6.1851-10.1857 pouze v odkazech na matriku sign. 119-3947, fol. 56 opis matričního patentu Josefa II. 1784, fol. 457 pohřbená nekřtěňátka 1771-1809, fol. 458 konverze ke katolicismu 1771-1794",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/c942febb-f341-4f4a-8e83-d80c422e5040"
+  },
+  "2104": {
+   "apu": "f216e5ed-8619-44d6-9443-605455762eb2",
+   "dao": "f216e5ed-8619-44d6-9443-605455762eb2",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 2104 (poř.č. 3896), 1725-1785",
+   "popis": "římskokatolická matrika ODDANÝCH, farnost a filiální obvody (Běstovice, Bošín, Březenice, Darebnice, Dvořisko, Hemže, Hluboká, Hradiště, Chloumek, Choceň, Koldín, Nasavrky, Nová Ves, Ovčín, Plchovice, Plchůvky, Postolov, Prochody, Skořenice, Slatina, Smetana, Sruby, Sudličkova Lhota, Újezd u Chocně, Vrchovina, Zářecká Lhota) 1725-9.1784, oddíly dle lokalit (Bošín, Choceň, Darebnice, Dvořisko, Koldín, Korunka, Zářecká Lhota, Plchovice, Plchůvky, Skořenice, Slatina, Sruby) 10.1784-2.1785",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/f216e5ed-8619-44d6-9443-605455762eb2"
   }
  },
  "aliasy": {
@@ -472,6 +486,33 @@
    "nahled": "img/zdroje/117-2_s068.jpg",
    "velky": "img/zdroje/117-2_s068_velky.jpg",
    "vyrez_soubor": "z117-2-s68-1780-07-31-ignatius-mader-dlauhey.jpg"
+  },
+  "119-1|111": {
+   "signatura": "119-1",
+   "snimek": 111,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/c942febb-f341-4f4a-8e83-d80c422e5040/dao/c942febb-f341-4f4a-8e83-d80c422e5040/file/1a886055-1085-448c-bb00-05356138cf59",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/119-1_s111.jpg",
+   "velky": "img/zdroje/119-1_s111_velky.jpg",
+   "vyrez_soubor": "z119-1-s111-1829-10-25-josef-knopp-klara.jpg"
+  },
+  "119-1|255": {
+   "signatura": "119-1",
+   "snimek": 255,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/c942febb-f341-4f4a-8e83-d80c422e5040/dao/c942febb-f341-4f4a-8e83-d80c422e5040/file/7827ccac-ddfa-4053-afc2-d6872821fcfa",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/119-1_s255.jpg",
+   "velky": "img/zdroje/119-1_s255_velky.jpg",
+   "vyrez_soubor": "z119-1-s255-1805-09-11-josef-knopp.jpg"
+  },
+  "119-1|71": {
+   "signatura": "119-1",
+   "snimek": 71,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/c942febb-f341-4f4a-8e83-d80c422e5040/dao/c942febb-f341-4f4a-8e83-d80c422e5040/file/2314f0dd-90e9-4ca7-8646-2c5d3f139d69",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/119-1_s071.jpg",
+   "velky": "img/zdroje/119-1_s071_velky.jpg",
+   "vyrez_soubor": "z119-1-s71-1795-02-06-anton-knopp-anna-urban.jpg"
   },
   "119-2|111": {
    "signatura": "119-2",
@@ -1574,6 +1615,24 @@
    "velky": "img/zdroje/2100_s010_velky.jpg",
    "vyrez_soubor": "z2100-s10-1811-12-01-syrova-otec-josef-matka-ludmila-kumpostova.jpg",
    "url": "https://aron.vychodoceskearchivy.cz/apu/ccc8521b-c736-49f5-82cd-66817468facb/dao/ccc8521b-c736-49f5-82cd-66817468facb/file/71c2028a-d901-4f58-a385-6820df7d3cc6"
+  },
+  "2104|238": {
+   "signatura": "2104",
+   "snimek": 238,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/f216e5ed-8619-44d6-9443-605455762eb2/dao/f216e5ed-8619-44d6-9443-605455762eb2/file/7fac7938-40b4-441d-a778-e72efd9e3b12",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/2104_s238.jpg",
+   "velky": "img/zdroje/2104_s238_velky.jpg",
+   "vyrez_soubor": "z2104-s238-1777-11-18-vojtech-syrovy-anna.jpg"
+  },
+  "2104|243": {
+   "signatura": "2104",
+   "snimek": 243,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/f216e5ed-8619-44d6-9443-605455762eb2/dao/f216e5ed-8619-44d6-9443-605455762eb2/file/1d79f6a3-6b73-4847-a181-bae21d3a1415",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/2104_s243.jpg",
+   "velky": "img/zdroje/2104_s243_velky.jpg",
+   "vyrez_soubor": "z2104-s243-1779-11-07-frantisek-kumpost-rozalie.jpg"
   },
   "2105|24": {
    "signatura": "2105",
