@@ -1751,7 +1751,10 @@
       "id": "josef-syrovy-obuvnik",
       "name": "Josef Syrový",
       "maiden": null,
-      "birth": null,
+      "birth": {
+        "display": "kolem 1781 (21 let v září 1802)",
+        "precision": "range"
+      },
       "baptism": null,
       "death": {
         "display": "před 2. 5. 1887",
@@ -1769,16 +1772,33 @@
           "label": "ARON",
           "signatura": "6489",
           "detail": "snímek 20"
+        },
+        {
+          "label": "ARON, sňatek 21. 9. 1802",
+          "signatura": "2105",
+          "detail": "snímek 24, pag. 22, poslední zápis, Choceň č. 14",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/dao/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/file/c8f754e8-1e76-48a0-b133-fb46eda79824"
+        },
+        {
+          "label": "ARON, narození dcery 1. 12. 1811",
+          "signatura": "2100",
+          "detail": "snímek 10 (pag. 6), Choceň č. 25",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/ccc8521b-c736-49f5-82cd-66817468facb/dao/ccc8521b-c736-49f5-82cd-66817468facb/file/71c2028a-d901-4f58-a385-6820df7d3cc6"
         }
       ],
-      "notes": [],
+      "notes": [
+        "Syn Vojtěcha Syrového (sňatek 21. 9. 1802). Roku 1811 otec dcery v Chocni č. 25, povolání čteno jako „šewc“ (obuvník)."
+      ],
       "interesting": []
     },
     {
       "id": "ludmila-kumpostova",
       "name": "Ludmila Syrová",
       "maiden": "Kumpoštová",
-      "birth": null,
+      "birth": {
+        "display": "kolem 1782 (20 let v září 1802)",
+        "precision": "range"
+      },
       "baptism": null,
       "death": null,
       "occupation": null,
@@ -1793,9 +1813,23 @@
           "label": "ARON",
           "signatura": "6489",
           "detail": "snímek 20"
+        },
+        {
+          "label": "ARON, sňatek 21. 9. 1802",
+          "signatura": "2105",
+          "detail": "snímek 24, pag. 22, poslední zápis, Choceň č. 14",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/dao/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/file/c8f754e8-1e76-48a0-b133-fb46eda79824"
+        },
+        {
+          "label": "ARON, narození dcery 1. 12. 1811",
+          "signatura": "2100",
+          "detail": "snímek 10 (pag. 6), Choceň č. 25",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/ccc8521b-c736-49f5-82cd-66817468facb/dao/ccc8521b-c736-49f5-82cd-66817468facb/file/71c2028a-d901-4f58-a385-6820df7d3cc6"
         }
       ],
-      "notes": [],
+      "notes": [
+        "Dcera Františka Kumpošta z Chocně č. 51 (sňatek 21. 9. 1802)."
+      ],
       "interesting": []
     },
     {
@@ -4251,10 +4285,15 @@
       "name": "Karl Dörner",
       "maiden": null,
       "birth": {
-        "display": "kolem 1767 (25 let v listopadu 1792)",
-        "precision": "range"
+        "display": "listopad 1768",
+        "precision": "month",
+        "date": "1768-11"
       },
-      "baptism": null,
+      "baptism": {
+        "display": "listopad 1768 (den čten jako 30.)",
+        "precision": "month",
+        "date": "1768-11"
+      },
       "death": {
         "display": "před 8. 6. 1838",
         "precision": "range"
@@ -4284,12 +4323,19 @@
           "signatura": "144-3937",
           "detail": "snímek 8, pag. 4, 2. zápis, Sedloňov č. 39",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/6d99619e-ad51-46f8-8afb-e0d249861d42"
+        },
+        {
+          "label": "ARON, křest 11/1768",
+          "signatura": "144-2",
+          "detail": "snímek 25, levá strana (fol. 40), poslední listopadový zápis",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1ad1e98c-0f25-416d-bbe8-afed3d099515/dao/1ad1e98c-0f25-416d-bbe8-afed3d099515/file/aa024a09-ac3a-4a1c-9780-a5dff8a27d70"
         }
       ],
       "notes": [
         "Sňatek 20. 11. 1792 v Sedloňově (144-5, snímek 96, fol. 14), dům č. 47: Karl, syn po † Christofu Dörnerovi ze Sedloňova (Sattel), 25 let, svobodný; nevěsta Susanna, dcera po † Adamu Herzigovi ze Sedloňova, 24 let. Oddával farář Karl Hartmann; svědek mj. Adam Dörner, sedlák ze Sedloňova.",
         "Při narození syna Johanna 12. 9. 1800 (Sedloňov č. 47) uveden jako tkadlec (Weber); v č. 47 se páru narodily i děti Susanna (1793), Franz Karl (1794) a Anton (17. 3. 1796, 144-2 snímek 99).",
-        "V červnu 1838 už nežil („nach dem † Karl Dörner“, podruh ze Sedloňova č. 47)."
+        "V červnu 1838 už nežil („nach dem † Karl Dörner“, podruh ze Sedloňova č. 47).",
+        "Křest v listopadu 1768 (144-2, snímek 25): Carolus, syn Johanna Christopha Dörnera a Susanny, Sedloňov. Ztotožnění: další Karlové Dörnerové z let 1763 a 1766 mají jiné otce (Melchior, Johann); Johann Christoph zemřel 13. 3. 1791 v č. 47, kde Karl žil; úmrtí Karla 1817 ve 48 letech (144-3946, snímek 31) sedí. Věk 25 u sňatku je o rok větší."
       ],
       "interesting": []
     },
@@ -4298,10 +4344,16 @@
       "name": "Susanna Dörnerová",
       "maiden": "Herzig",
       "birth": {
-        "display": "kolem 1768 (24 let v listopadu 1792)",
-        "precision": "range"
+        "display": "únor 1767 (křest 8. 2. 1767)",
+        "precision": "month",
+        "date": "1767-02"
       },
-      "baptism": null,
+      "baptism": {
+        "display": "8. 2. 1767",
+        "precision": "exact",
+        "date": "1767-02-08",
+        "place": "Sedloňov"
+      },
       "death": null,
       "occupation": null,
       "places": [
@@ -4334,11 +4386,18 @@
           "signatura": "144-3937",
           "detail": "snímek 8, pag. 4, 2. zápis, Sedloňov č. 39",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/6d99619e-ad51-46f8-8afb-e0d249861d42"
+        },
+        {
+          "label": "ARON, křest 8. 2. 1767",
+          "signatura": "144-2",
+          "detail": "snímek 22, pravá strana (fol. 35), únor 1767, 1. zápis",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1ad1e98c-0f25-416d-bbe8-afed3d099515/dao/1ad1e98c-0f25-416d-bbe8-afed3d099515/file/839ee30d-7a81-43fe-8cfe-bbefea9b03f7"
         }
       ],
       "notes": [
         "Dcera po † Adamu Herzigovi ze Sedloňova (sňatek 20. 11. 1792, 144-5 snímek 96; narození syna Johanna 12. 9. 1800, 144-2 snímek 110: „Susanna Tochter nach dem sel. Adam Herzig aus Sattel“).",
-        "Křest vnučky 1838 (144-3937 snímek 8) ji uvádí jako dceru Antona Herziga, chalupníka v č. 114 — to je nejspíš záměna: Anton Herzig, syn po † Adamu Herzigovi, byl její bratr (sňatek 29. 1. 1793, 144-5 snímek 96, dům 48). Viz otevřený dotaz q-pross-dorner-puvod."
+        "Křest vnučky 1838 (144-3937 snímek 8) ji uvádí jako dceru Antona Herziga, chalupníka v č. 114 — to je nejspíš záměna: Anton Herzig, syn po † Adamu Herzigovi, byl její bratr (sňatek 29. 1. 1793, 144-5 snímek 96, dům 48). Viz otevřený dotaz q-pross-dorner-puvod.",
+        "Křest 8. 2. 1767 v Sedloňově (144-2, snímek 22): Susanna, dcera Adama Herziga a Marie. V knize jsem v letech 2/1767–3/1769 jinou Susannu s otcem Adamem Herzigem nenašel. Věk 24 u sňatku 11/1792 je o rok menší (písařská nepřesnost)."
       ],
       "interesting": []
     },
@@ -4377,11 +4436,18 @@
           "signatura": "144-5",
           "detail": "snímek 96, levá strana, Sedloňov č. 48",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1"
+        },
+        {
+          "label": "ARON, křest dcery Susanny 8. 2. 1767",
+          "signatura": "144-2",
+          "detail": "snímek 22",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1ad1e98c-0f25-416d-bbe8-afed3d099515/dao/1ad1e98c-0f25-416d-bbe8-afed3d099515/file/839ee30d-7a81-43fe-8cfe-bbefea9b03f7"
         }
       ],
       "notes": [
         "Otec Susanny Dörnerové; v listopadu 1792 už nežil („nach dem sel. Adam Herzig von Sattel“, 144-5 snímek 96). Totéž uvádí zápis narození vnuka Johanna 12. 9. 1800 (144-2 snímek 110).",
-        "Jeho syn Anton Herzig (24 let) se ženil 29. 1. 1793 v Sedloňově č. 48 (144-5 snímek 96). Křest pravnučky 1838 jmenuje jako otce Susanny omylem(?) Antona Herziga, chalupníka č. 114 — v mapě je otcem Adam podle dvou starších a bližších zápisů."
+        "Jeho syn Anton Herzig (24 let) se ženil 29. 1. 1793 v Sedloňově č. 48 (144-5 snímek 96). Křest pravnučky 1838 jmenuje jako otce Susanny omylem(?) Antona Herziga, chalupníka č. 114 — v mapě je otcem Adam podle dvou starších a bližších zápisů.",
+        "Manželka Maria podle křtu dcery Susanny 8. 2. 1767 (144-2, snímek 22). Kandidátní úmrtí 8. 12. 1786 (č. 91, 55 let) a vdova Apollonia († 1788) zůstávají v dotazu, protože jméno manželky nesedí."
       ],
       "interesting": []
     },
@@ -4422,7 +4488,62 @@
       "notes": [
         "Otec Karla Dörnera; v listopadu 1792 už nežil („Sohn nach dem sel. Christof Dörner von Sattel“, 144-5 snímek 96).",
         "Kandidát na křest Karla: 144-2 snímek 25 (pag. 40, listopad 1768) — Carolus, syn Johanna Christopha Dörnera a Susanny ze Sedloňova. Věk 25 v roce 1792 by ale odpovídal narození kolem 1767, proto není zapsáno jako jisté (viz q-pross-dorner-puvod).",
-        "Úmrtí 13. 3. 1791 (144-5, snímek 248, Sattel fol. 17): „Joh. Christoph Dörner“, Sedloňov č. 47, výměnkář(?), 79 let. Shoda: stejné číslo domu 47, kde se Karl 1792 ženil a kde mu 1800 narodil syn Johann; v listopadu 1792 už „sel. Christof“. Jméno „Johann Christoph“ odpovídá i otci v kandidátním křtu Karla z listopadu 1768."
+        "Úmrtí 13. 3. 1791 (144-5, snímek 248, Sattel fol. 17): „Joh. Christoph Dörner“, Sedloňov č. 47, výměnkář(?), 79 let. Shoda: stejné číslo domu 47, kde se Karl 1792 ženil a kde mu 1800 narodil syn Johann; v listopadu 1792 už „sel. Christof“. Jméno „Johann Christoph“ odpovídá i otci v kandidátním křtu Karla z listopadu 1768.",
+        "Manželka Susanna podle křtu syna Karla v listopadu 1768 (144-2, snímek 25)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "vojtech-syrovy",
+      "name": "Vojtěch Syrový",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Choceň"
+      ],
+      "branch": "syrovy",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 21. 9. 1802",
+          "signatura": "2105",
+          "detail": "snímek 24, pag. 22, poslední zápis, Choceň č. 14",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/dao/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/file/c8f754e8-1e76-48a0-b133-fb46eda79824"
+        }
+      ],
+      "notes": [
+        "Uveden jako otec snoubence ve sňatku 21. 9. 1802 (2105, snímek 24)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "frantisek-kumpost",
+      "name": "František Kumpošt",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Choceň č. 51 (1802)"
+      ],
+      "branch": "syrovy",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 21. 9. 1802",
+          "signatura": "2105",
+          "detail": "snímek 24, pag. 22, poslední zápis, Choceň č. 14",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/dao/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/file/c8f754e8-1e76-48a0-b133-fb46eda79824"
+        }
+      ],
+      "notes": [
+        "Uveden jako otec snoubence ve sňatku 21. 9. 1802 (2105, snímek 24)."
       ],
       "interesting": []
     }
@@ -4956,7 +5077,28 @@
           "label": "ARON",
           "signatura": "6489",
           "detail": "snímek 20"
+        },
+        {
+          "label": "ARON, sňatek 21. 9. 1802",
+          "signatura": "2105",
+          "detail": "snímek 24, pag. 22, poslední zápis, Choceň č. 14",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/dao/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/file/c8f754e8-1e76-48a0-b133-fb46eda79824"
+        },
+        {
+          "label": "ARON, narození dcery 1. 12. 1811",
+          "signatura": "2100",
+          "detail": "snímek 10 (pag. 6), Choceň č. 25",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/ccc8521b-c736-49f5-82cd-66817468facb/dao/ccc8521b-c736-49f5-82cd-66817468facb/file/71c2028a-d901-4f58-a385-6820df7d3cc6"
         }
+      ],
+      "married": {
+        "display": "21. 9. 1802",
+        "date": "1802-09-21",
+        "place": "Choceň",
+        "note": "Ženich Josef, syn Vojtěcha Syrového, 21 let, dům č. 14; nevěsta Ludmila, dcera Františka Kumpošta z Chocně č. 51, 20 let."
+      },
+      "notes": [
+        "Totožnost s párem ze zápisu 1887 potvrzuje narození dcery 1. 12. 1811 (2100, snímek 10, Choceň č. 25): otec Josef Syrový (povolání čteno jako „šewc“, tj. obuvník), matka Ludmila, dcera Františka Kumpošta z Chocně. Jméno dítěte čteno jako Barbora (nejisté); na okraji pozdější poznámka o sňatku. Čísla domů se mezi lety 1802, 1811 a 1887 mění (14, 25, 364)."
       ]
     },
     {
@@ -5973,6 +6115,48 @@
       "notes": [
         "Manželka Christopha Dörnera v zápisu 1792 není jmenována."
       ]
+    },
+    {
+      "id": "u-vojtech-syrovy-alone",
+      "partners": [
+        "vojtech-syrovy"
+      ],
+      "children": [
+        "josef-syrovy-obuvnik"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, sňatek 21. 9. 1802",
+          "signatura": "2105",
+          "detail": "snímek 24, pag. 22, poslední zápis, Choceň č. 14",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/dao/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/file/c8f754e8-1e76-48a0-b133-fb46eda79824"
+        }
+      ],
+      "notes": [
+        "Manželka Vojtěcha Syrového v zápisu 1802 není jmenována."
+      ]
+    },
+    {
+      "id": "u-frantisek-kumpost-alone",
+      "partners": [
+        "frantisek-kumpost"
+      ],
+      "children": [
+        "ludmila-kumpostova"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, sňatek 21. 9. 1802",
+          "signatura": "2105",
+          "detail": "snímek 24, pag. 22, poslední zápis, Choceň č. 14",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/dao/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/file/c8f754e8-1e76-48a0-b133-fb46eda79824"
+        }
+      ],
+      "notes": [
+        "Manželka Františka Kumpošta v zápisu 1802 není jmenována."
+      ]
     }
   ],
   "identifications": [],
@@ -6628,7 +6812,7 @@
       "id": "q-pross-dorner-puvod",
       "title": "Proß a Dörner — původ Josefa Proße a rodná příjmení Agathe a Marie",
       "summary": "Sňatek Anton Proß × Franziska Dörner 15. 6. 1858 (144-3943, snímek 77) a narození Antona 13. 7. 1866 (144-3938, snímek 62) jmenují Josefa Proße, zahradníka v č. 6, a Agathe z Malého Uhřínova; Johanna Dörnera ze Sedloňova č. 32 a Marii z Janova č. 26.",
-      "details": "Franziska Dörner *8. 6. 1838 Sedloňov č. 39 doložena (144-3937 snímek 8); její děd Karl Dörner (Sedloňov 47) × Susanna Herzig přidáni; sňatek 20. 11. 1792 (144-5 snímek 96) a narození Johanna 12. 9. 1800 (144-2 snímek 110) doloženy. Rozpor: zápis 1838 jmenuje otcem Susanny Antona Herziga, chalupníka č. 114, ale zápisy 1792 a 1800 shodně † Adama Herziga; Anton Herzig, syn po † Adamovi, se ženil 29. 1. 1793 (144-5 snímek 96, dům 48) — byl to tedy její bratr. V mapě je otcem Adam. Křest Karla Dörnera: index 144-6 snímek 7 má Karly 5. 4. 1763 (s. 1), 1766 (s. 28, 144-2 snímek 19 — syn Johanna a Anny Dorothey, ne Christopha) a 11/1768 (s. 40, 144-2 snímek 25 — syn Johanna Christopha Dörnera a Susanny). Kandidát 1768 nesedí přesně s věkem 25 v roce 1792; nezapsáno. Karl 5. 4. 1763 (144-2 snímek 5) je syn Melchiora Dörnera a Dorothey — vyloučen (výřez vypisy/_sheets/144-2/z144-2-s5-1763-04-karl-dorner-syn-melchiora.jpg). Jediným kandidátem se jménem otce Christoph tak zůstává Karl 11/1768. Nejisté: rodné příjmení Marie Dörnerové — 1838 dcera Franze „Czwentaczka(?)“, chalupníka v Janově č. 26, a Marie, dcery Antona „Ulrich(?)“ z Janova č. 28 (panství Opočno); 1858 čteno „Czerlaika / Lwotaika“. Proß: Anton st. *kolem 1828 v sedloňovském indexu 1825–1838 (144-3, snímek 90, písmeno P) NENÍ — narodil se jinde. Obec otce Josefa (č. 6) čtena „Bauratal / Banatal(?)“, matka Agathe roz. „Beik / Leik(?)“ z „Klein-Aurim“ č. 2, Bezirksamt čten „Aicheneu / Auscherau(?)“ — neidentifikováno; možná Malá Úpa (Klein-Aupa) a okres Maršov, ověřit. Další krok: Janov u Sedloňova — fara Sedloňov? (Janov patří k Opočnu, fara pravděpodobně Bystré / Olešnice); identifikace obce Proßů. Kolo 25. 11. 2026 (noc): sňatek Johann Dörner × Maria v Bystrém NENÍ — Janov 1811–1826 (14-4 snímky 55–56, 69–73) bez Dörnera; index sňatků 14-5 písmeno D 1829–1849 (snímek 198) bez Dörnera („Dinter Johann“ 1840 je jiná osoba). Svatba byla nejspíš ve farnosti ženicha (Sedloňov?) nebo jinde. Kolo 25. 11. 2026 (ráno): sňatek Johann Dörner × Maria NENÍ ani v sedloňovském indexu oddaných 144-7 (snímky 7 R–8 L, ženichové Dörner 1795–1880): Johannové 1827 × Theresia Feiner(?), 1830 × Theresia Walsch, 1836 × Theresia Fabel, 5. 11. 1840 × Maria Dörner (tělo 144-3943 snímek 48: Johann, syn Josefa ze Sedloňova č. 50, 31 let × Maria z č. 69 — jiný pár). Svatba Johanna × Marie (Janov č. 26) byla tedy mimo Sedloňov i Bystré. Kolo C (25. 11. 2026): Index zemřelých Sedloňov 144-3946 (snímek 186, oddíl D, 1795–1863) uvádí mezi lety 1800–1838 jediného dospělého Karla Dörnera: str. 52, tj. snímek 31 — 1817, „Carl Dörner, Feldgärtner“, Sedloňov č. 71, 48 let (tj. narozen kolem 1768/69). Jinak je v indexu jen Carl, syn Johanna, 1802 (1 den). Věk 48 podporuje kandidátní křest z listopadu 1768 (144-2 snímek 25), ale dům č. 71 a povolání zahradník se liší od „Weber, č. 47“ (1800), takže zatím nejde o jistou shodu. Christoph Dörner zemřelý 16. 8. 1796 (č. 66) v indexu je jiná osoba, protože otec Karla byl už 1792 nebožtík. Kolo D (25. 11. 2026): Úmrtí Johanna Christopha Dörnera 13. 3. 1791 (Sedloňov č. 47, 79 let; 144-5 snímek 248) je zapsané do mapy. Jméno Johann Christoph a dům 47 dále podporují, že kandidátní křest Carolus z listopadu 1768 (otec Johann Christoph Dörner × Susanna) je náš Karl. Karl je proto silný kandidát; datum narození ale zatím nezapisuji, dokud nebude vyloučen jiný Carolus Dörner z let 1766–1768. Adam Herzig: v Sedloňově je úmrtí 8. 12. 1786, „Adam Herzig“, č. 91, 55 let (144-5 snímek 243), a 7. 8. 1788 Apollonia, vdova po † Adamu Herzigovi, č. 39, 68 let (snímek 246). Je to kandidát na otce Susanny, ale čísla domů (91/39) neodpovídají domům 47/48 a v obci žilo více Herzigů (např. Christoph Herzig). Proto zatím jen zde.",
+      "details": "Franziska Dörner *8. 6. 1838 Sedloňov č. 39 doložena (144-3937 snímek 8); její děd Karl Dörner (Sedloňov 47) × Susanna Herzig přidáni; sňatek 20. 11. 1792 (144-5 snímek 96) a narození Johanna 12. 9. 1800 (144-2 snímek 110) doloženy. Rozpor: zápis 1838 jmenuje otcem Susanny Antona Herziga, chalupníka č. 114, ale zápisy 1792 a 1800 shodně † Adama Herziga; Anton Herzig, syn po † Adamovi, se ženil 29. 1. 1793 (144-5 snímek 96, dům 48) — byl to tedy její bratr. V mapě je otcem Adam. Křest Karla Dörnera: index 144-6 snímek 7 má Karly 5. 4. 1763 (s. 1), 1766 (s. 28, 144-2 snímek 19 — syn Johanna a Anny Dorothey, ne Christopha) a 11/1768 (s. 40, 144-2 snímek 25 — syn Johanna Christopha Dörnera a Susanny). Kandidát 1768 nesedí přesně s věkem 25 v roce 1792; nezapsáno. Karl 5. 4. 1763 (144-2 snímek 5) je syn Melchiora Dörnera a Dorothey — vyloučen (výřez vypisy/_sheets/144-2/z144-2-s5-1763-04-karl-dorner-syn-melchiora.jpg). Jediným kandidátem se jménem otce Christoph tak zůstává Karl 11/1768. Nejisté: rodné příjmení Marie Dörnerové — 1838 dcera Franze „Czwentaczka(?)“, chalupníka v Janově č. 26, a Marie, dcery Antona „Ulrich(?)“ z Janova č. 28 (panství Opočno); 1858 čteno „Czerlaika / Lwotaika“. Proß: Anton st. *kolem 1828 v sedloňovském indexu 1825–1838 (144-3, snímek 90, písmeno P) NENÍ — narodil se jinde. Obec otce Josefa (č. 6) čtena „Bauratal / Banatal(?)“, matka Agathe roz. „Beik / Leik(?)“ z „Klein-Aurim“ č. 2, Bezirksamt čten „Aicheneu / Auscherau(?)“ — neidentifikováno; možná Malá Úpa (Klein-Aupa) a okres Maršov, ověřit. Další krok: Janov u Sedloňova — fara Sedloňov? (Janov patří k Opočnu, fara pravděpodobně Bystré / Olešnice); identifikace obce Proßů. Kolo 25. 11. 2026 (noc): sňatek Johann Dörner × Maria v Bystrém NENÍ — Janov 1811–1826 (14-4 snímky 55–56, 69–73) bez Dörnera; index sňatků 14-5 písmeno D 1829–1849 (snímek 198) bez Dörnera („Dinter Johann“ 1840 je jiná osoba). Svatba byla nejspíš ve farnosti ženicha (Sedloňov?) nebo jinde. Kolo 25. 11. 2026 (ráno): sňatek Johann Dörner × Maria NENÍ ani v sedloňovském indexu oddaných 144-7 (snímky 7 R–8 L, ženichové Dörner 1795–1880): Johannové 1827 × Theresia Feiner(?), 1830 × Theresia Walsch, 1836 × Theresia Fabel, 5. 11. 1840 × Maria Dörner (tělo 144-3943 snímek 48: Johann, syn Josefa ze Sedloňova č. 50, 31 let × Maria z č. 69 — jiný pár). Svatba Johanna × Marie (Janov č. 26) byla tedy mimo Sedloňov i Bystré. Kolo C (25. 11. 2026): Index zemřelých Sedloňov 144-3946 (snímek 186, oddíl D, 1795–1863) uvádí mezi lety 1800–1838 jediného dospělého Karla Dörnera: str. 52, tj. snímek 31 — 1817, „Carl Dörner, Feldgärtner“, Sedloňov č. 71, 48 let (tj. narozen kolem 1768/69). Jinak je v indexu jen Carl, syn Johanna, 1802 (1 den). Věk 48 podporuje kandidátní křest z listopadu 1768 (144-2 snímek 25), ale dům č. 71 a povolání zahradník se liší od „Weber, č. 47“ (1800), takže zatím nejde o jistou shodu. Christoph Dörner zemřelý 16. 8. 1796 (č. 66) v indexu je jiná osoba, protože otec Karla byl už 1792 nebožtík. Kolo D (25. 11. 2026): Úmrtí Johanna Christopha Dörnera 13. 3. 1791 (Sedloňov č. 47, 79 let; 144-5 snímek 248) je zapsané do mapy. Jméno Johann Christoph a dům 47 dále podporují, že kandidátní křest Carolus z listopadu 1768 (otec Johann Christoph Dörner × Susanna) je náš Karl. Karl je proto silný kandidát; datum narození ale zatím nezapisuji, dokud nebude vyloučen jiný Carolus Dörner z let 1766–1768. Adam Herzig: v Sedloňově je úmrtí 8. 12. 1786, „Adam Herzig“, č. 91, 55 let (144-5 snímek 243), a 7. 8. 1788 Apollonia, vdova po † Adamu Herzigovi, č. 39, 68 let (snímek 246). Je to kandidát na otce Susanny, ale čísla domů (91/39) neodpovídají domům 47/48 a v obci žilo více Herzigů (např. Christoph Herzig). Proto zatím jen zde. Kolo E: Karl (křest 11/1768) a Susanna Herzig (křest 8. 2. 1767) jsou zapsáni do mapy. V dotazu zůstává kandidátní úmrtí Adama Herziga 1786 (vdova Apollonia ≠ matka Maria) a úmrtí Karla 1817 (č. 71).",
       "related_ids": [
         "anton-pross-1828",
         "josef-pross",
@@ -6758,25 +6942,6 @@
           "signatura": "117-1",
           "detail": "snímek 137, fol. 131, Rzy",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/8df4dc98-f935-4dda-87d2-15cfcb26dd4a/dao/8df4dc98-f935-4dda-87d2-15cfcb26dd4a/file/e77a3be0-3d85-4ccf-babd-1a843bad1ff6"
-        }
-      ]
-    },
-    {
-      "id": "q-syrovy-snatek-1802",
-      "title": "Syrový × Kumpoštová — kandidátní sňatek 21. 9. 1802 v Chocni",
-      "summary": "V chocenské oddací knize 2105 (snímek 24, pag. 22, poslední zápis) je 21. 9. 1802 sňatek: Josef, syn Vojtěcha Syrového, 21 let, dům č. 14 × Ludmila, dcera Františka Kumpošta z Chocně č. 51, 20 let; svědci Václav Líbal(?) a Václav Marvan.",
-      "details": "Jména souhlasí se zápisem 1887 (Františka, dcera † Josefa Syrového, obuvníka z Chocně č. 364, a Ludmily roz. Kumpoštové z č. 65), ale čísla domů nesedí (14/51 vs. 364/65) a mezi Františkou *cca 1820–1828 a sňatkem 1802 je velký odstup. Ve stejném roce se v Chocni jako svědek vyskytuje ještě jiný Josef Syrový, takže jméno není jedinečné. Dítě páru se v N 2096 (1802–1810, snímky 81–116) při rychlém čtení nepodařilo spolehlivě přečíst. Do mapy proto nezapisuji Vojtěcha Syrového ani Františka Kumpošta. Potvrzení: narození Františky Syrové (N 2100, Choceň po 1811) s matkou Ludmilou, roz. Kumpoštovou, nebo úmrtí Josefa či Ludmily s věkem. Kolo D (25. 11. 2026): Index narozených 2100 (1811–5/1828) uvádí jen jméno, rok, obec a stranu, ne rodiče; řádky S z let 1811–1812 jsou těžko čitelné. Index zemřelých 2117 (7/1831–1859, snímky 406–411) jsem při dostupném rozlišení spolehlivě nepřečetl. Shoda s párem z roku 1887 tedy zatím není potvrzená ani vyvrácená. Zbývá: dočíst 2100 index S (snímky 418 R–421 L) se zvětšením po řádcích a projít těla zápisů Syrová Františka 1811–1828; dále tělo 2116 (Z 1811–6/1831) a 2117 pro úmrtí Josefa/Ludmily (věk, dům 364/65).",
-      "related_ids": [
-        "josef-syrovy-obuvnik",
-        "ludmila-kumpostova",
-        "frantiska-syrova"
-      ],
-      "sources": [
-        {
-          "label": "ARON, sňatek 21. 9. 1802",
-          "signatura": "2105",
-          "detail": "snímek 24, pag. 22, poslední zápis, dům 14",
-          "apu": "https://aron.vychodoceskearchivy.cz/apu/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/dao/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/file/c8f754e8-1e76-48a0-b133-fb46eda79824"
         }
       ]
     },

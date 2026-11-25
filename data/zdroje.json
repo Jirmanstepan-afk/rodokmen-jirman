@@ -397,6 +397,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 96-16 (poř.č. 6811), 8.1836-11.1862",
    "popis": "římskokatolická matrika ODDANÝCH, Machov",
    "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f"
+  },
+  "2100": {
+   "apu": "ccc8521b-c736-49f5-82cd-66817468facb",
+   "dao": "ccc8521b-c736-49f5-82cd-66817468facb",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 2100 (poř.č. 3887), 1811-5.1828",
+   "popis": "římskokatolická matrika NAROZENÝCH, římskokatolický index NAROZENÝCH, Choceň, Běstovice + Darebnice, Bošín, Dvořisko + Podrážek, Hemže + Březenice, Koldín, Kosořín, Sudličkova Lhota, Zářecká Lhota, Nasavrky, Podrážek, Skořenice, Vrchovina\noddíly dle lokalit, fol. 153-154 židovské zápisy 1807-1829",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ccc8521b-c736-49f5-82cd-66817468facb"
   }
  },
  "aliasy": {
@@ -839,6 +846,15 @@
    "nahled": "img/zdroje/144-2_s195.jpg",
    "velky": "img/zdroje/144-2_s195_velky.jpg",
    "vyrez_soubor": "z144-2-s195-1799-11-09-ignaz-mader-polom58.jpg"
+  },
+  "144-2|22": {
+   "signatura": "144-2",
+   "snimek": 22,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/1ad1e98c-0f25-416d-bbe8-afed3d099515/dao/1ad1e98c-0f25-416d-bbe8-afed3d099515/file/839ee30d-7a81-43fe-8cfe-bbefea9b03f7",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/144-2_s022.jpg",
+   "velky": "img/zdroje/144-2_s022_velky.jpg",
+   "vyrez_soubor": "z144-2-s22-1767-02-susanna-herzig.jpg"
   },
   "144-2|25": {
    "signatura": "144-2",
@@ -1469,6 +1485,15 @@
    "vyrez": "celá strana",
    "nahled": "img/zdroje/174-8684_s025.jpg",
    "velky": "img/zdroje/174-8684_s025_velky.jpg"
+  },
+  "2100|10": {
+   "signatura": "2100",
+   "snimek": 10,
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/2100_s010.jpg",
+   "velky": "img/zdroje/2100_s010_velky.jpg",
+   "vyrez_soubor": "z2100-s10-1811-12-01-syrova-otec-josef-matka-ludmila-kumpostova.jpg",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ccc8521b-c736-49f5-82cd-66817468facb/dao/ccc8521b-c736-49f5-82cd-66817468facb/file/71c2028a-d901-4f58-a385-6820df7d3cc6"
   },
   "2105|24": {
    "signatura": "2105",
