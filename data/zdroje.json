@@ -581,6 +581,15 @@
    "velky": "img/zdroje/119-1_s111_velky.jpg",
    "vyrez_soubor": "z119-1-s111-1829-10-25-josef-knopp-klara.jpg"
   },
+  "119-1|211": {
+   "signatura": "119-1",
+   "snimek": 211,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/c942febb-f341-4f4a-8e83-d80c422e5040/dao/c942febb-f341-4f4a-8e83-d80c422e5040/file/a5bc1b7c-2462-42b1-9858-f8cf301ff10b",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/119-1_s211.jpg",
+   "velky": "img/zdroje/119-1_s211_velky.jpg",
+   "vyrez_soubor": "z119-1-s211-1795-12-06-klara-wondrejz-c50-odmitnuto.jpg"
+  },
   "119-1|254": {
    "signatura": "119-1",
    "snimek": 254,
@@ -607,6 +616,15 @@
    "nahled": "img/zdroje/119-1_s279.jpg",
    "velky": "img/zdroje/119-1_s279_velky.jpg",
    "vyrez_soubor": "z119-1-s279-1811-02-11-anton-augustin-c161.jpg"
+  },
+  "119-1|391": {
+   "signatura": "119-1",
+   "snimek": 391,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/c942febb-f341-4f4a-8e83-d80c422e5040/dao/c942febb-f341-4f4a-8e83-d80c422e5040/file/e801cdb2-af6d-4ecf-8b1a-56d2c75290ae",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/119-1_s391.jpg",
+   "velky": "img/zdroje/119-1_s391_velky.jpg",
+   "vyrez_soubor": "z119-1-s391-1826-11-21-johann-dorner-syn-antona-x-maria-zeuner-odmitnuto.jpg"
   },
   "119-1|71": {
    "signatura": "119-1",
@@ -635,6 +653,15 @@
    "velky": "img/zdroje/119-8_s035_velky.jpg",
    "vyrez_soubor": "z119-8-s35-1837-franziska-knopp-index.jpg"
   },
+  "119-8|63": {
+   "signatura": "119-8",
+   "snimek": 63,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/eebb0f48-7ed4-450d-b86e-c2729d899cad/dao/eebb0f48-7ed4-450d-b86e-c2729d899cad/file/4a4eeef2-f4bd-4b6d-8b38-456784d6d869",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/119-8_s063.jpg",
+   "velky": "img/zdroje/119-8_s063_velky.jpg",
+   "vyrez_soubor": "z119-8-s63-index-w-1791-1800-klara-wondrejz.jpg"
+  },
   "119-9|16": {
    "signatura": "119-9",
    "snimek": 16,
@@ -643,6 +670,15 @@
    "nahled": "img/zdroje/119-9_s016.jpg",
    "velky": "img/zdroje/119-9_s016_velky.jpg",
    "vyrez_soubor": "z119-9-s16-1829-10-25-josef-knopp-klara.jpg"
+  },
+  "119-9|7": {
+   "signatura": "119-9",
+   "snimek": 7,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/f0f98951-d61a-48b4-a82c-b3e254211c2c/dao/f0f98951-d61a-48b4-a82c-b3e254211c2c/file/e1cf7b78-452c-4244-a712-0e41715b4554",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/119-9_s007.jpg",
+   "velky": "img/zdroje/119-9_s007_velky.jpg",
+   "vyrez_soubor": "z119-9-s7-index-d-dorner-1824-1832.jpg"
   },
   "12-2|26": {
    "signatura": "12-2",
@@ -2059,6 +2095,15 @@
    "vyrez_soubor": "z53-19-s60-1818-10-07-josef-spacek.jpg",
    "url": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/c1b47bb8-9948-44d4-a45f-3cd7a30856e7"
   },
+  "53-19|64": {
+   "signatura": "53-19",
+   "snimek": 64,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/6d617259-621b-40dc-88fa-71c40bd3571e",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-19_s064.jpg",
+   "velky": "img/zdroje/53-19_s064_velky.jpg",
+   "vyrez_soubor": "z53-19-s64-1820-06-17-johann-spacek-c29.jpg"
+  },
   "53-19|69": {
    "signatura": "53-19",
    "snimek": 69,
@@ -2067,6 +2112,15 @@
    "velky": "img/zdroje/53-19_s069_velky.jpg",
    "vyrez_soubor": "z53-19-s69-1823-01-18-anna-spackova.jpg",
    "url": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/aaeba355-4492-4eb5-b672-50da71f3b683"
+  },
+  "53-19|84": {
+   "signatura": "53-19",
+   "snimek": 84,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/381aec82-ace7-4a45-85b5-734479fba156",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-19_s084.jpg",
+   "velky": "img/zdroje/53-19_s084_velky.jpg",
+   "vyrez_soubor": "z53-19-s84-index-k-1818-1822-klimes.jpg"
   },
   "53-20|179": {
    "signatura": "53-20",
