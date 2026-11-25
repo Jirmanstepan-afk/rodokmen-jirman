@@ -671,6 +671,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 96-13 (poř.č. 6800), 1784-1814",
    "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, Nízká Srbská\nN 5.1784-11.1810, O 5.1784-10.1814, Z 5.1784-3.1814",
    "url": "https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7"
+  },
+  "2118": {
+   "apu": "b18d09e5-ebbc-40ce-917b-dc77027a1df9",
+   "dao": "b18d09e5-ebbc-40ce-917b-dc77027a1df9",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 2118 (poř.č. 3920), 1674-1749",
+   "popis": "římskokatolický index NAROZENÝCH, farnost Choceň a filiální obvody (Běstovice, Bošín, Březenice, Darebnice, Dvořisko, Hemže, Hluboká, Hradiště, Chloumek, Choceň, Choceněk, Koldín, Nasavrky, Nová Ves, Orlice, Ovčín, Plchovice, Plchůvky, Podskalí, Postolov, Prochody, Skořenice, Slatina, Smetana, Sruby, Sudličkova Lhota, Újezd u Chocně, Vrchovina, Zářecká Lhota)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/b18d09e5-ebbc-40ce-917b-dc77027a1df9"
   }
  },
  "aliasy": {
@@ -2706,6 +2713,33 @@
    "velky": "img/zdroje/2116_s277_velky.jpg",
    "vyrez_soubor": "z2116-s277-index-S-1813-vojtech-syrovy.jpg"
   },
+  "2118|138": {
+   "signatura": "2118",
+   "snimek": 138,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/b18d09e5-ebbc-40ce-917b-dc77027a1df9/dao/b18d09e5-ebbc-40ce-917b-dc77027a1df9/file/7a74e938-8ec2-4fa4-a85a-e613bf630810",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/2118_s138.jpg",
+   "velky": "img/zdroje/2118_s138_velky.jpg",
+   "vyrez_soubor": "z2118-s138-index-n-chocen-lit-s-1725-1727-vojtech-syrovy-1727-syn-frantiska-odmitnuto.jpg"
+  },
+  "2118|139": {
+   "signatura": "2118",
+   "snimek": 139,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/b18d09e5-ebbc-40ce-917b-dc77027a1df9/dao/b18d09e5-ebbc-40ce-917b-dc77027a1df9/file/070c64f1-97ad-4da1-af7d-12a256a41f37",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/2118_s139.jpg",
+   "velky": "img/zdroje/2118_s139_velky.jpg",
+   "vyrez_soubor": "z2118-s139-index-n-chocen-lit-s-1733-1734-bez-vojtecha-syna-vaclava.jpg"
+  },
+  "2118|140": {
+   "signatura": "2118",
+   "snimek": 140,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/b18d09e5-ebbc-40ce-917b-dc77027a1df9/dao/b18d09e5-ebbc-40ce-917b-dc77027a1df9/file/a9e4d4c8-058c-44ff-9f7f-9decee94233f",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/2118_s140.jpg",
+   "velky": "img/zdroje/2118_s140_velky.jpg",
+   "vyrez_soubor": "z2118-s140-index-n-chocen-lit-s-1734-1737-bez-vojtecha-syna-vaclava.jpg"
+  },
   "2119|123": {
    "signatura": "2119",
    "snimek": 123,
@@ -2767,6 +2801,24 @@
    "nahled": "img/zdroje/3141_s151.jpg",
    "velky": "img/zdroje/3141_s151_velky.jpg",
    "vyrez_soubor": "syrovy-josef-1888-narozeni-chocen-3141-p151.jpg"
+  },
+  "53-19|12": {
+   "signatura": "53-19",
+   "snimek": 12,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/8633e993-9c26-465a-9e8e-3268569a816f",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-19_s012.jpg",
+   "velky": "img/zdroje/53-19_s012_velky.jpg",
+   "vyrez_soubor": "z53-19-s12-pag17-1790-elisabeth-pitasova-vysoka-srbska-c34-otec-georg-pitas-chalupnik.jpg"
+  },
+  "53-19|14": {
+   "signatura": "53-19",
+   "snimek": 14,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/64f7e738-ab19-44c8-b861-e25e8290d188",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-19_s014.jpg",
+   "velky": "img/zdroje/53-19_s014_velky.jpg",
+   "vyrez_soubor": "z53-19-s14-pag21-1791-anna-maria-pitasova-vysoka-srbska-c28-otec-georg-pitas-chalupnik.jpg"
   },
   "53-19|47": {
    "signatura": "53-19",
@@ -2920,6 +2972,15 @@
    "nahled": "img/zdroje/53-4178_s142.jpg",
    "velky": "img/zdroje/53-4178_s142_velky.jpg",
    "vyrez_soubor": "z53-4178-s142-index-n-hronov-lit-s-1795-1796-spacek-franz-david-1795-05-23.jpg"
+  },
+  "53-4178|66": {
+   "signatura": "53-4178",
+   "snimek": 66,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/96204dc9-1e5f-4053-81ba-4a10918504e3/dao/96204dc9-1e5f-4053-81ba-4a10918504e3/file/c0f703e2-4796-4e4e-8ffc-2be4042b0ce2",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-4178_s066.jpg",
+   "velky": "img/zdroje/53-4178_s066_velky.jpg",
+   "vyrez_soubor": "z53-4178-s66-index-n-hronov-lit-k-1778-1782-bez-frantiska-klimese-zlicko.jpg"
   },
   "53-4181|33": {
    "signatura": "53-4181",
