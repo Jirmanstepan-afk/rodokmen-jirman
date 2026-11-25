@@ -2,7 +2,7 @@
   "meta": {
     "title": "Rodokmen rodiny Jirman",
     "subtitle": "Štěpán Jirman a jeho předkové — podle veřejných matrik a rodinných podkladů",
-    "updated": "2026-11-24",
+    "updated": "2026-11-25",
     "timezone": "Europe/Helsinki",
     "sources_files": [
       "ROD-1.md",
@@ -2052,14 +2052,26 @@
       "id": "anton-pross",
       "name": "Anton Proß",
       "maiden": null,
-      "birth": null,
-      "baptism": null,
+      "birth": {
+        "display": "13. 7. 1866",
+        "precision": "exact",
+        "date": "1866-07-13",
+        "place": "Sedloňov č. 130"
+      },
+      "baptism": {
+        "display": "13. 7. 1866",
+        "precision": "exact",
+        "date": "1866-07-13",
+        "place": "Sedloňov"
+      },
       "death": {
         "display": "před 22. 8. 1925",
         "precision": "range"
       },
-      "occupation": "Tovární dělník, Martínkovice č. 257 (k sňatku syna 1925, už nebožtík).",
+      "occupation": "Tkadlec (Weber), Sedloňov č. 88 (1889); tovární dělník, Martínkovice č. 257 (k sňatku syna 1925, už nebožtík).",
       "places": [
+        "Sedloňov č. 130 (narození 1866)",
+        "Sedloňov č. 88 (1889)",
         "Martínkovice č. 257"
       ],
       "branch": "pross",
@@ -2076,12 +2088,26 @@
           "label": "ARON, sňatek syna",
           "signatura": "99-8015",
           "detail": "snímek 137"
+        },
+        {
+          "label": "ARON, narození Anny 1889 (legitimace 1890)",
+          "signatura": "144-3938",
+          "detail": "snímek 195, folio 187, 3. zápis, Sedloňov č. 88",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        },
+        {
+          "label": "ARON, narození 13. 7. 1866",
+          "signatura": "144-3938",
+          "detail": "snímek 62, folio 54, 5. zápis, Sedloňov č. 130",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
         }
       ],
       "notes": [
-        "Sňatek s Johannou Mader 19. 2. 1890 je v indexu 144-7. Tělo po 11. 1877 v ARON není (144-3943 končí tímto měsícem); rodiče, věk a dům z indexu nevyčíst.",
-        "Zápis časově i jmény sedí na rodiče Jana *8. 6. 1902. Tělo by je potvrdilo, v ARON chybí.",
-        "Na téže stránce indexu je i Proß Anton × Francisca Dörner / Törner, 18. 6. 1858, Lib. B str. 144 — jiný muž, o generaci starší, neslučovat.",
+        "Sňatek s Johannou Mader je v indexu 144-7 k 19. 2. 1890; tělo po 11. 1877 v ARON není. Legitimační doložka u dcery Anny (144-3938, snímek 195) uvádí „per subsequens matrimonium d. 11(?) febr. 1890 contractum“ — den 11 vs. 19 nesouhlasí, čte se opatrně; rok a měsíc sedí.",
+        "Dcera Anna *1889 (Sedloňov č. 88), legitimovaná sňatkem rodičů 1890: dodatečně zapsaný otec „Anton Proß, kath., Weber in Sattel N. 88, ehelicher Sohn des Anton Proß, Müllergeselle in Sattel N. 130, und dessen Ehegattin Franciska geb. Dörner aus Sattel N. 32“; matka „Johanna Mader, ehel. Tochter des Johann Mader, Inwohner in Sattel N. 78, und dessen Ehegattin Franciska geb. Knopp aus Gießhübel N. 160, Bez. Neustadt“. Podpisy Anton Proß a Johanna Mader. Tím jsou doloženi rodiče obou snoubenců z indexu 1890.",
+        "Narození 13. 7. 1866 (144-3938, snímek 62, folio 54; index 144-8637 snímek 36: Proß Anton 13. 7. 1866, Lit. E s. 54, Sattel): Anton, Sedloňov č. 130, manželský syn Antona Proße, mlynářského tovaryše, a Franzisky, dcery Johanna Dörnera ze Sedloňova č. 32 — stejný dům 130 a stejní rodiče jako v legitimaci 1889.",
+        "Sestra Anna (*1889, Sedloňov č. 88) se podle přípisu oddala 23. 10. 1915 v Martínkovicích (Märzdorf); jméno ženicha čteno opatrně — do mapy se nepřidává.",
+        "Zápis 1925 časově i jmény sedí na rodiče Jana *8. 6. 1902 (tělo narození Jana v ARON chybí; 144-3938 končí 11. 1896).",
         "Svědek sňatku 1925 Anton Pross, tovární dělník, Martínkovice č. 84, je jiný dům než č. 257, neslučovat."
       ],
       "interesting": []
@@ -2090,15 +2116,26 @@
       "id": "johanna-mader",
       "name": "Johanna Proßová",
       "maiden": "Mader",
-      "birth": null,
-      "baptism": null,
+      "birth": {
+        "display": "21. 6. 1863",
+        "precision": "exact",
+        "date": "1863-06-21",
+        "place": "Sedloňov č. 120"
+      },
+      "baptism": {
+        "display": "22. 6. 1863",
+        "precision": "exact",
+        "date": "1863-06-22",
+        "place": "Sedloňov"
+      },
       "death": {
         "display": "před 22. 8. 1925",
         "precision": "range"
       },
-      "occupation": "V zápisu 1925 označena spolu s Johannem Maderem / sama jako Jungwirth (mladý hospodář) v Sedloňově č. 78.",
+      "occupation": null,
       "places": [
-        "Sedloňov č. 78 (formule 1925)"
+        "Sedloňov č. 120 (narození 1863)",
+        "Sedloňov č. 78 (rodiče 1889; formule 1925)"
       ],
       "branch": "mader",
       "certainty": "potvrzeno",
@@ -2115,21 +2152,28 @@
           "detail": "snímek 137"
         },
         {
-          "label": "ARON, narození (jiná Johanna, neslučovat)",
+          "label": "ARON, narození Anny 1889 (legitimace 1890)",
           "signatura": "144-3938",
-          "detail": "snímek 75, folio 67, 3. zápis, 16. 8. 1868, Sedloňov č. 69",
+          "detail": "snímek 195, folio 187, 3. zápis, Sedloňov č. 88",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        },
+        {
+          "label": "ARON, narození 21. 6. 1863",
+          "signatura": "144-3938",
+          "detail": "snímek 41, folio 35, 4. zápis, Sedloňov č. 120",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
         },
         {
           "label": "ARON, index narození",
           "signatura": "144-8637",
-          "detail": "snímek 31, Mader Johanna 16. 8. 1868, Lit. G s. 67, Sattel",
+          "detail": "snímek 31, Mader Johanna 21. 6. 1863, Lit. E s. 35, Sattel",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/af34c80d-61b7-441c-bccc-93e10a1900a0"
         }
       ],
       "notes": [
-        "Příjmení Mader je čitelné. Tvar „geb. Johann Mader“ se čte opatrně: buď Johanna rozená Maderová, nebo Johanna, dcera Johanna Madera, hospodáře v Sedloňově č. 78. Neslučovat tyto dvě možnosti potichu.",
-        "V indexu 144-8637 je Mader Johanna, *16. 8. 1868, Lit. G s. 67, Sattel. Tělo 144-3938, snímek 75 (= folio 67), 3. zápis: Johanna, *16. 8. 1868 (křest 17. 8.), Sedloňov č. 69, manželská dcera Josefa Madera, chalupníka, syna † Ignaze Madera, chalupníka ze Sedloňova č. 58, a Anny rozené Metznerové. Matka dítěte: Emerentiana (čtení jména), manželská dcera † Karla Lorenze ze Sedloňova č. 69. V okraji slabší doložka čtená jako „† 13. Juli 70“ (pravděpodobně úmrtí 13. 7. 1870; měsíc čten opatrně). Otec Josef a dům 69 se neshodují s formulí „geb. Johann Mader“, Jungwirth, Sedloňov 78 z roku 1925; při úmrtí 1870 by ani nemohla být nevěstou z 19. 2. 1890. Tuto Johannu s manželkou Antona Proße neslučovat."
+        "Narození 21. 6. 1863 (144-3938, snímek 41, folio 35): Johanna, Sedloňov č. 120, manželská dcera Johanna Madera, chalupníka (Häusler), syna Ignaze Madera, výměnkáře ze Sedloňova č. 120, a Johanny rozené Walsch; matka Franziska, dcera † Josefa Knoppa, tkalce z Olešnice (Gießhübel) č. 160. Legitimace dcery Anny 1889 uvádí tytéž rodiče (Johann Mader, Sedloňov č. 78 × Franciska Knopp z Gießhübel č. 160) — vazba je tím doložena.",
+        "Formule 1925 „geb. Johann Mader“ tedy znamená dceru Johanna Madera (Sedloňov č. 78).",
+        "Jiná Johanna Mader *16. 8. 1868, Sedloňov č. 69 (144-3938, snímek 75), dcera Josefa Madera, † pravděpodobně 13. 7. 1870 — s touto Johannou neslučovat."
       ],
       "interesting": []
     },
@@ -3402,6 +3446,610 @@
         "Sňatek 27. 11. 1770 (141-7599, snímek 448, Pag. 128): „Anton Ringel ein Wittiber in Ruppersdorf und Jungfrau Maria, Heinrich Knittels ehel. Tochter alldo“; svědci Anton Kahl(?), rychtář v Ruprechticích, Friedrich Braun(?), mlynář, Anton Kasler(?), chalupník, a Wenzel Fau…(?), sedlák; ohlášky 11., 18. a 25. 11. Matka Barbary Dauerové podle křtu 16. 6. 1774. Otec Heinrich Knittel zatím není v mapě (jen jméno ze sňatku, bez dalšího zápisu)."
       ],
       "interesting": []
+    },
+    {
+      "id": "anton-pross-1828",
+      "name": "Anton Proß",
+      "maiden": null,
+      "birth": {
+        "display": "kolem 1828 (30 let v červnu 1858)",
+        "precision": "range"
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": "Mlynářský tovaryš (Müllergesell), Sedloňov č. 130 (1866, 1889).",
+      "places": [
+        "Sedloňov č. 130"
+      ],
+      "branch": "pross",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 15. 6. 1858",
+          "signatura": "144-3943",
+          "detail": "snímek 77, Pag. 144, poř. č. 32, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 13. 7. 1866",
+          "signatura": "144-3938",
+          "detail": "snímek 62, folio 54, 5. zápis, Sedloňov č. 130",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        },
+        {
+          "label": "ARON, narození Anny 1889 (legitimace 1890)",
+          "signatura": "144-3938",
+          "detail": "snímek 195, folio 187, 3. zápis, Sedloňov č. 88",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        }
+      ],
+      "notes": [
+        "Sňatek 15. 6. 1858 (144-3943, snímek 77, Pag. 144, č. 32; index 144-7 snímek 26 — dříve chybně opsáno 18. 6.): „Anton Proß, Müllergesell aus [obec čtená opatrně, č. 6], ehelicher Sohn des Josef Proß, Feldgärtner … N. 6, und dessen Ehegattin Agathe geborene [příjmení čteno opatrně] aus Klein-Aurim N. [číslo nečitelné]“; 30 let, katolík, svobodný. Ohlášky 3., 6. a 13. 6. 1858.",
+        "Při narození syna Antona 13. 7. 1866 mlynářský tovaryš v Sedloňově č. 130; tak i v legitimaci vnučky Anny 1889."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "franziska-dorner",
+      "name": "Franziska Proßová",
+      "maiden": "Dörner",
+      "birth": {
+        "display": "kolem 1838 (20 let v červnu 1858)",
+        "precision": "range"
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Sedloňov č. 32"
+      ],
+      "branch": "pross",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 15. 6. 1858",
+          "signatura": "144-3943",
+          "detail": "snímek 77, Pag. 144, poř. č. 32, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 13. 7. 1866",
+          "signatura": "144-3938",
+          "detail": "snímek 62, folio 54, 5. zápis, Sedloňov č. 130",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        },
+        {
+          "label": "ARON, narození Anny 1889 (legitimace 1890)",
+          "signatura": "144-3938",
+          "detail": "snímek 195, folio 187, 3. zápis, Sedloňov č. 88",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        }
+      ],
+      "notes": [
+        "Sňatek 15. 6. 1858: „Franziska Dörner, eheliche Tochter des Johann Dörner, Inwohner aus Sattel N. 32, und dessen Eheweib Maria geborene [příjmení čteno opatrně] aus Janow N. 26“, 20 let; otec jako nezletilé svolil a podepsal křížky („+++ Johann Dörner“).",
+        "Legitimace vnučky Anny 1889: „Franciska geb. Dörner aus Sattel N. 32“."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "josef-pross",
+      "name": "Josef Proß",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Zahradník (Feldgärtner), č. 6 (obec čtena opatrně).",
+      "places": [],
+      "branch": "pross",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 15. 6. 1858",
+          "signatura": "144-3943",
+          "detail": "snímek 77, Pag. 144, poř. č. 32, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 13. 7. 1866",
+          "signatura": "144-3938",
+          "detail": "snímek 62, folio 54, 5. zápis, Sedloňov č. 130",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        }
+      ],
+      "notes": [
+        "Jen jako otec ženicha 1858 a děd Antona *1866: Feldgärtner (zahradník) v č. 6; název obce se čte opatrně (viz otevřený dotaz q-pross-dorner-puvod)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "agathe-pross",
+      "name": "Agathe Proßová",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Malý Uhřínov (Klein-Aurim)"
+      ],
+      "branch": "pross",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 15. 6. 1858",
+          "signatura": "144-3943",
+          "detail": "snímek 77, Pag. 144, poř. č. 32, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 13. 7. 1866",
+          "signatura": "144-3938",
+          "detail": "snímek 62, folio 54, 5. zápis, Sedloňov č. 130",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        }
+      ],
+      "notes": [
+        "Manželka Josefa Proße, matka Antona *kolem 1828. Původem z Malého Uhřínova (Klein-Aurim). Rodné příjmení se čte opatrně (Lux / Leik / podobně) — neuvádí se, viz q-pross-dorner-puvod."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "johann-dorner",
+      "name": "Johann Dörner",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Podruh (Inwohner), Sedloňov č. 32.",
+      "places": [
+        "Sedloňov č. 32"
+      ],
+      "branch": "pross",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 15. 6. 1858",
+          "signatura": "144-3943",
+          "detail": "snímek 77, Pag. 144, poř. č. 32, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 13. 7. 1866",
+          "signatura": "144-3938",
+          "detail": "snímek 62, folio 54, 5. zápis, Sedloňov č. 130",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        }
+      ],
+      "notes": [
+        "Podruh (Inwohner), Sedloňov č. 32. Žil ještě 15. 6. 1858 (svolil ke sňatku nezletilé dcery, podpis křížky)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "maria-dorner",
+      "name": "Maria Dörnerová",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Janov č. 26"
+      ],
+      "branch": "pross",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 15. 6. 1858",
+          "signatura": "144-3943",
+          "detail": "snímek 77, Pag. 144, poř. č. 32, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 13. 7. 1866",
+          "signatura": "144-3938",
+          "detail": "snímek 62, folio 54, 5. zápis, Sedloňov č. 130",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        }
+      ],
+      "notes": [
+        "Manželka Johanna Dörnera, z Janova (Janow) č. 26, okr. Nové Město. Rodné příjmení (Czerlaika / Lwotaika / podobně) se čte opatrně — neuvádí se, viz q-pross-dorner-puvod."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "johann-mader-1833",
+      "name": "Johann Mader",
+      "maiden": null,
+      "birth": {
+        "display": "13. 1. 1833",
+        "precision": "exact",
+        "date": "1833-01-13",
+        "place": "Sedloňov č. 120"
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": "Podruh a tkadlec (1858), chalupník (1863), podruh v č. 78 (1889).",
+      "places": [
+        "Sedloňov č. 120",
+        "Sedloňov č. 78 (1889)"
+      ],
+      "branch": "mader",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 13. 1. 1833",
+          "signatura": "144-3",
+          "detail": "snímek 29, Pag. 48, 4. zápis, Sedloňov č. 120",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/59f58474-4a21-4fd4-9245-a472237aabfa"
+        },
+        {
+          "label": "ARON, sňatek 9. 11. 1858",
+          "signatura": "144-3943",
+          "detail": "snímek 79, Pag. 148, poř. č. 120, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 21. 6. 1863",
+          "signatura": "144-3938",
+          "detail": "snímek 41, folio 35, 4. zápis, Sedloňov č. 120",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        },
+        {
+          "label": "ARON, narození Anny 1889 (legitimace 1890)",
+          "signatura": "144-3938",
+          "detail": "snímek 195, folio 187, 3. zápis, Sedloňov č. 88",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        }
+      ],
+      "notes": [
+        "Narození 13. 1. 1833 (144-3, snímek 29, Pag. 48; index v téže knize, snímek 87): Johann, Sedloňov č. 120, syn Ignaze Madera, chalupníka v Sedloňově č. 120 (syna Ignaze Madera a Margarethy roz. Matzner), a Johanny, dcery Ignaze Walsche.",
+        "Sňatek 9. 11. 1858 (144-3943, snímek 79, Pag. 148, č. 120): „Mader Johann, Inwohner und Weber aus Sattel, ehelicher Sohn des Ignaz Mader, Ausgedinger aus Sattel N. 120, und der Johanna geborne Walsch aus Sattel“; 26 let (podle křtu bylo 25 — drobný rozdíl, běžný).",
+        "Otec Johanny *1863 (chalupník, č. 120); v roce 1889 podruh v Sedloňově č. 78."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "franziska-knopp",
+      "name": "Franziska Maderová",
+      "maiden": "Knopp",
+      "birth": {
+        "display": "kolem 1837 (21 let v listopadu 1858)",
+        "precision": "range"
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Olešnice v Orlických horách (Gießhübel) č. 160"
+      ],
+      "branch": "mader",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 9. 11. 1858",
+          "signatura": "144-3943",
+          "detail": "snímek 79, Pag. 148, poř. č. 120, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 21. 6. 1863",
+          "signatura": "144-3938",
+          "detail": "snímek 41, folio 35, 4. zápis, Sedloňov č. 120",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        },
+        {
+          "label": "ARON, narození Anny 1889 (legitimace 1890)",
+          "signatura": "144-3938",
+          "detail": "snímek 195, folio 187, 3. zápis, Sedloňov č. 88",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        }
+      ],
+      "notes": [
+        "Sňatek 9. 11. 1858: „Franziska, eheliche hinterbliebene Tochter des Josef Knopp, Weber zu Gießhübel N. 160, und dessen Ehegattin Anna geborene [příjmení čteno opatrně] von Gießhübel N. 161, Amtsbezirk Neustadt“, 21 let; jako nezletilá měla poručenské svolení okresního soudu v Novém Městě z 9. 10. 1858.",
+        "Gießhübel = Olešnice v Orlických horách."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "josef-knopp",
+      "name": "Josef Knopp",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 9. 11. 1858",
+        "precision": "range"
+      },
+      "occupation": "Tkadlec (Weber), Olešnice v Orl. horách č. 160.",
+      "places": [
+        "Olešnice v Orlických horách (Gießhübel) č. 160"
+      ],
+      "branch": "mader",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 9. 11. 1858",
+          "signatura": "144-3943",
+          "detail": "snímek 79, Pag. 148, poř. č. 120, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 21. 6. 1863",
+          "signatura": "144-3938",
+          "detail": "snímek 41, folio 35, 4. zápis, Sedloňov č. 120",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        }
+      ],
+      "notes": [
+        "Tkadlec v Olešnici v Orl. horách (Gießhübel) č. 160. V listopadu 1858 už nežil (dcera „hinterbliebene“, 1863 „† Josef Knopp“)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "anna-knopp",
+      "name": "Anna Knoppová",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Olešnice v Orlických horách (Gießhübel) č. 161"
+      ],
+      "branch": "mader",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 9. 11. 1858",
+          "signatura": "144-3943",
+          "detail": "snímek 79, Pag. 148, poř. č. 120, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 21. 6. 1863",
+          "signatura": "144-3938",
+          "detail": "snímek 41, folio 35, 4. zápis, Sedloňov č. 120",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        }
+      ],
+      "notes": [
+        "Manželka Josefa Knoppa, z Olešnice (Gießhübel) č. 161. Rodné příjmení se čte opatrně (Corsnika / Lantnika / podobně) — neuvádí se, viz q-mader-knopp-walsch."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "ignaz-mader-ml",
+      "name": "Ignaz Mader",
+      "maiden": null,
+      "birth": {
+        "display": "kolem 1802",
+        "precision": "range"
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": "Chalupník (1833), výměnkář (1858, 1863), Sedloňov č. 120.",
+      "places": [
+        "Sedloňov č. 120"
+      ],
+      "branch": "mader",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 10. 2. 1825",
+          "signatura": "144-3943",
+          "detail": "snímek 25, Pag. 40, 2. zápis, dům 58, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 13. 1. 1833",
+          "signatura": "144-3",
+          "detail": "snímek 29, Pag. 48, 4. zápis, Sedloňov č. 120",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/59f58474-4a21-4fd4-9245-a472237aabfa"
+        },
+        {
+          "label": "ARON, sňatek 9. 11. 1858",
+          "signatura": "144-3943",
+          "detail": "snímek 79, Pag. 148, poř. č. 120, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 21. 6. 1863",
+          "signatura": "144-3938",
+          "detail": "snímek 41, folio 35, 4. zápis, Sedloňov č. 120",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        }
+      ],
+      "notes": [
+        "Sňatek 10. 2. 1825 (144-3943, snímek 25, Pag. 40; index 144-7 snímek 23: Mader Ignaz × Johanna Walsch, 10. 2. 1825, s. 40): Ignatz, syn Ignatze Madera, tkalce, a matky Margarethy rozené Matzner; ženich 23 let (číslice čtena opatrně), nevěsta Johanna, dcera Ignatze Walsche, chalupníka v Sedloňově č. 70.",
+        "Při narození syna Johanna 13. 1. 1833 chalupník v Sedloňově č. 120; 1858 a 1863 výměnkář tamtéž."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "johanna-walsch",
+      "name": "Johanna Maderová",
+      "maiden": "Walsch",
+      "birth": {
+        "display": "kolem 1801",
+        "precision": "range"
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Sedloňov č. 70"
+      ],
+      "branch": "mader",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 10. 2. 1825",
+          "signatura": "144-3943",
+          "detail": "snímek 25, Pag. 40, 2. zápis, dům 58, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 13. 1. 1833",
+          "signatura": "144-3",
+          "detail": "snímek 29, Pag. 48, 4. zápis, Sedloňov č. 120",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/59f58474-4a21-4fd4-9245-a472237aabfa"
+        },
+        {
+          "label": "ARON, sňatek 9. 11. 1858",
+          "signatura": "144-3943",
+          "detail": "snímek 79, Pag. 148, poř. č. 120, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 21. 6. 1863",
+          "signatura": "144-3938",
+          "detail": "snímek 41, folio 35, 4. zápis, Sedloňov č. 120",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        }
+      ],
+      "notes": [
+        "Dcera Ignatze Walsche, chalupníka v Sedloňově č. 70 (sňatek 1825); 24 let při sňatku 10. 2. 1825. Při narození vnučky 1863 uvedena „aus Sattel N. 62“ (čtení čísla opatrné)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "ignaz-mader-st",
+      "name": "Ignaz Mader",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Tkadlec (1825).",
+      "places": [],
+      "branch": "mader",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 10. 2. 1825",
+          "signatura": "144-3943",
+          "detail": "snímek 25, Pag. 40, 2. zápis, dům 58, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 13. 1. 1833",
+          "signatura": "144-3",
+          "detail": "snímek 29, Pag. 48, 4. zápis, Sedloňov č. 120",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/59f58474-4a21-4fd4-9245-a472237aabfa"
+        }
+      ],
+      "notes": [
+        "Jen jako otec ženicha 1825 (tkadlec) a děd Johanna *1833. Bydliště v obou zápisech čteno opatrně (1833 snad „von Pollom“ = Polom) — neuvádí se."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "margaretha-matzner",
+      "name": "Margaretha Maderová",
+      "maiden": "Matzner",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [],
+      "branch": "mader",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 10. 2. 1825",
+          "signatura": "144-3943",
+          "detail": "snímek 25, Pag. 40, 2. zápis, dům 58, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 13. 1. 1833",
+          "signatura": "144-3",
+          "detail": "snímek 29, Pag. 48, 4. zápis, Sedloňov č. 120",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/59f58474-4a21-4fd4-9245-a472237aabfa"
+        }
+      ],
+      "notes": [
+        "Manželka Ignaze Madera st.; rodné příjmení Matzner (v obou zápisech 1825 a 1833; místní tvar též Metzner)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "ignaz-walsch",
+      "name": "Ignatz Walsch",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Chalupník (Häusler), Sedloňov č. 70 (1825).",
+      "places": [
+        "Sedloňov č. 70"
+      ],
+      "branch": "mader",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 10. 2. 1825",
+          "signatura": "144-3943",
+          "detail": "snímek 25, Pag. 40, 2. zápis, dům 58, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 13. 1. 1833",
+          "signatura": "144-3",
+          "detail": "snímek 29, Pag. 48, 4. zápis, Sedloňov č. 120",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/59f58474-4a21-4fd4-9245-a472237aabfa"
+        }
+      ],
+      "notes": [
+        "Chalupník v Sedloňově č. 70 (1825), otec Johanny Maderové."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "johanna-walsch-matka",
+      "name": "Johanna Walschová",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [],
+      "branch": "mader",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 10. 2. 1825",
+          "signatura": "144-3943",
+          "detail": "snímek 25, Pag. 40, 2. zápis, dům 58, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 13. 1. 1833",
+          "signatura": "144-3",
+          "detail": "snímek 29, Pag. 48, 4. zápis, Sedloňov č. 120",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/59f58474-4a21-4fd4-9245-a472237aabfa"
+        }
+      ],
+      "notes": [
+        "Manželka Ignatze Walsche. Rodné příjmení se v zápisech 1825 a 1833 čte opatrně (Zeug / Albert / podobně) — neuvádí se, viz q-mader-knopp-walsch."
+      ],
+      "interesting": []
     }
   ],
   "unions": [
@@ -4063,10 +4711,17 @@
         {
           "label": "ARON, sňatek syna",
           "signatura": "99-8015"
+        },
+        {
+          "label": "ARON, narození Anny 1889 (legitimace 1890)",
+          "signatura": "144-3938",
+          "detail": "snímek 195, folio 187, 3. zápis, Sedloňov č. 88",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
         }
       ],
       "notes": [
-        "Tělo sňatku by potvrdilo rodiče Jana *1902; v ARON chybí. Časově i jmény zápis sedí."
+        "Tělo sňatku v ARON chybí, ale legitimace dcery Anny *1889 (144-3938, snímek 195) jmenuje oba snoubence s rodiči a uvádí sňatek v únoru 1890 („d. 11(?) febr. 1890“, den čten opatrně; index uvádí 19. 2.).",
+        "Anton a Johanna jsou rodiče Jana *8. 6. 1902 podle zápisu 1925 (99-8015)."
       ]
     },
     {
@@ -4560,6 +5215,236 @@
       ],
       "notes": [
         "Otcovství ze sňatku syna 23. 11. 1688. Manželka nejmenována."
+      ]
+    },
+    {
+      "id": "u-anton-pross-dorner",
+      "partners": [
+        "anton-pross-1828",
+        "franziska-dorner"
+      ],
+      "married": {
+        "display": "15. 6. 1858",
+        "date": "1858-06-15",
+        "place": "Sedloňov",
+        "note": "144-3943, Pag. 144, č. 32; ženich 30, nevěsta 20 let."
+      },
+      "children": [
+        "anton-pross"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, sňatek 15. 6. 1858",
+          "signatura": "144-3943",
+          "detail": "snímek 77, Pag. 144, poř. č. 32, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 13. 7. 1866",
+          "signatura": "144-3938",
+          "detail": "snímek 62, folio 54, 5. zápis, Sedloňov č. 130",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        }
+      ]
+    },
+    {
+      "id": "u-josef-pross-agathe",
+      "partners": [
+        "josef-pross",
+        "agathe-pross"
+      ],
+      "children": [
+        "anton-pross-1828"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, sňatek 15. 6. 1858",
+          "signatura": "144-3943",
+          "detail": "snímek 77, Pag. 144, poř. č. 32, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 13. 7. 1866",
+          "signatura": "144-3938",
+          "detail": "snímek 62, folio 54, 5. zápis, Sedloňov č. 130",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        }
+      ]
+    },
+    {
+      "id": "u-johann-dorner-maria",
+      "partners": [
+        "johann-dorner",
+        "maria-dorner"
+      ],
+      "children": [
+        "franziska-dorner"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, sňatek 15. 6. 1858",
+          "signatura": "144-3943",
+          "detail": "snímek 77, Pag. 144, poř. č. 32, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 13. 7. 1866",
+          "signatura": "144-3938",
+          "detail": "snímek 62, folio 54, 5. zápis, Sedloňov č. 130",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        }
+      ]
+    },
+    {
+      "id": "u-johann-mader-knopp",
+      "partners": [
+        "johann-mader-1833",
+        "franziska-knopp"
+      ],
+      "married": {
+        "display": "9. 11. 1858",
+        "date": "1858-11-09",
+        "place": "Sedloňov",
+        "note": "144-3943, Pag. 148, č. 120; ženich 26, nevěsta 21 let."
+      },
+      "children": [
+        "johanna-mader"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, sňatek 9. 11. 1858",
+          "signatura": "144-3943",
+          "detail": "snímek 79, Pag. 148, poř. č. 120, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 21. 6. 1863",
+          "signatura": "144-3938",
+          "detail": "snímek 41, folio 35, 4. zápis, Sedloňov č. 120",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        },
+        {
+          "label": "ARON, narození Anny 1889 (legitimace 1890)",
+          "signatura": "144-3938",
+          "detail": "snímek 195, folio 187, 3. zápis, Sedloňov č. 88",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        }
+      ]
+    },
+    {
+      "id": "u-josef-knopp-anna",
+      "partners": [
+        "josef-knopp",
+        "anna-knopp"
+      ],
+      "children": [
+        "franziska-knopp"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, sňatek 9. 11. 1858",
+          "signatura": "144-3943",
+          "detail": "snímek 79, Pag. 148, poř. č. 120, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 21. 6. 1863",
+          "signatura": "144-3938",
+          "detail": "snímek 41, folio 35, 4. zápis, Sedloňov č. 120",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        }
+      ]
+    },
+    {
+      "id": "u-ignaz-mader-walsch",
+      "partners": [
+        "ignaz-mader-ml",
+        "johanna-walsch"
+      ],
+      "married": {
+        "display": "10. 2. 1825",
+        "date": "1825-02-10",
+        "place": "Sedloňov",
+        "note": "144-3943, Pag. 40; index 144-7."
+      },
+      "children": [
+        "johann-mader-1833"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, sňatek 10. 2. 1825",
+          "signatura": "144-3943",
+          "detail": "snímek 25, Pag. 40, 2. zápis, dům 58, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 13. 1. 1833",
+          "signatura": "144-3",
+          "detail": "snímek 29, Pag. 48, 4. zápis, Sedloňov č. 120",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/59f58474-4a21-4fd4-9245-a472237aabfa"
+        },
+        {
+          "label": "ARON, sňatek 9. 11. 1858",
+          "signatura": "144-3943",
+          "detail": "snímek 79, Pag. 148, poř. č. 120, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        }
+      ]
+    },
+    {
+      "id": "u-ignaz-mader-matzner",
+      "partners": [
+        "ignaz-mader-st",
+        "margaretha-matzner"
+      ],
+      "children": [
+        "ignaz-mader-ml"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, sňatek 10. 2. 1825",
+          "signatura": "144-3943",
+          "detail": "snímek 25, Pag. 40, 2. zápis, dům 58, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 13. 1. 1833",
+          "signatura": "144-3",
+          "detail": "snímek 29, Pag. 48, 4. zápis, Sedloňov č. 120",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/59f58474-4a21-4fd4-9245-a472237aabfa"
+        }
+      ]
+    },
+    {
+      "id": "u-ignaz-walsch-johanna",
+      "partners": [
+        "ignaz-walsch",
+        "johanna-walsch-matka"
+      ],
+      "children": [
+        "johanna-walsch"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, sňatek 10. 2. 1825",
+          "signatura": "144-3943",
+          "detail": "snímek 25, Pag. 40, 2. zápis, dům 58, Sedloňov",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+        },
+        {
+          "label": "ARON, narození 13. 1. 1833",
+          "signatura": "144-3",
+          "detail": "snímek 29, Pag. 48, 4. zápis, Sedloňov č. 120",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/59f58474-4a21-4fd4-9245-a472237aabfa"
+        }
       ]
     }
   ],
@@ -5121,7 +6006,7 @@
       "id": "q-ringel-tobias",
       "title": "Ringelové z Vižňova před 1688: Tobias, Dorothea Bircke, Lorenz",
       "summary": "Daniel Ringel *17. 6. 1706 je syn Tobiase Ringela „des Obern“ a Dorothey (†6. 4. 1720); rodiče se vzali 23. 11. 1688, Tobias byl syn †Lorenze Ringela. Otevřené: jméno otce Dorothey Bircke, jisté úmrtí Tobiase a Lorenze, narození Tobiase.",
-      "details": "Ve sňatku 1688 (174-6, snímek 17, fol. 24) stojí „Jungfrau Dorothea M?lt?er Birckens ehel. Tochter“ — čteno jako Melcher (Melchior) nebo Matthes; 29. 12. 1700 je pohřben jakýsi Matthias Bircke a pohřeb dítěte Tobiase Birckeho (174-6, snímek 380). Dokud jméno nebude jisté, otec Dorothey není v mapě. Narození Tobiase před rokem 1680 je mimo matriku 174-6 (začíná 1675) — zkusit křty 1675–1670 a starší matriky Vernéřovic/Trutnova. Úmrtí Tobiase: projít pohřby 1708–1727 (174-6, snímky ~390–425). Doplněk: kandidáti úmrtí — Tobias Ringel pohřben 29./30. 8. 1727 (174-6, snímek 421, fol. 123; jediný dospělý Tobias v indexu zemřelých 1688–10/1727), Lorenz Ringel pohřben 12. 1. 1684 (174-6, snímek 365, fol. 10). Ani jeden zápis neuvádí věk či příbuzné. Sňatek 25. 11. 1721 (174-6, snímek 51, fol. 91) NENÍ nový sňatek Tobiase: ženich je „Tobias Ringel ein junger Gesell, Tobias Ringels nachgel. ehel. Sohn allhier zu Wiesen“ s Rosinou, dcerou George Krause. Jeden z obou starších Tobiasů byl tedy 11/1721 mrtvý — podle indexu narozených spíš Tobias × Susanna (syn Tobias *1701, fol. 134). Pohřeb 29. 8. 1727 tak může patřit našemu Tobiasovi „dem Obern“, ale i mladému Tobiasovi *1701; bez věku nerozhodnuto. Další krok: pohřby 1708–1721 přečíst přímo (index nemusí být úplný) a hledat vdovu Rosinu po 1727. Doplněk 25. 11. 2026: mladý Tobias × Rosina (sňatek 1721) má podle indexu narozených 174-19 (snímek 52 vpravo) děti ještě 1728 (fol. 346) a 1731 (fol. 368). Pohřeb 29. 8. 1727 proto nepatří jemu, ale jednomu ze dvou starších Tobiasů (× Dorothea, nebo × Susanna, pokud by ten v 11/1721 ještě žil). Protože v roce 1721 byl otec ženicha už mrtvý („nachgel. ehel. Sohn“), a otcem ženicha by byl Tobias × Susanna (syn Tobias *1701), mluví to pro pohřeb 1727 = náš Tobias „der Obere“. Jistota chybí, dokud nebude vyloučeno, že ženich 1721 byl syn Tobiase × Dorothey (index narozených 1689–1694 je nepřehledný).",
+      "details": "Ve sňatku 1688 (174-6, snímek 17, fol. 24) stojí „Jungfrau Dorothea M?lt?er Birckens ehel. Tochter“ — čteno jako Melcher (Melchior) nebo Matthes; 29. 12. 1700 je pohřben jakýsi Matthias Bircke a pohřeb dítěte Tobiase Birckeho (174-6, snímek 380). Dokud jméno nebude jisté, otec Dorothey není v mapě. Narození Tobiase před rokem 1680 je mimo matriku 174-6 (začíná 1675) — zkusit křty 1675–1670 a starší matriky Vernéřovic/Trutnova. Úmrtí Tobiase: projít pohřby 1708–1727 (174-6, snímky ~390–425). Doplněk: kandidáti úmrtí — Tobias Ringel pohřben 29./30. 8. 1727 (174-6, snímek 421, fol. 123; jediný dospělý Tobias v indexu zemřelých 1688–10/1727), Lorenz Ringel pohřben 12. 1. 1684 (174-6, snímek 365, fol. 10). Ani jeden zápis neuvádí věk či příbuzné. Sňatek 25. 11. 1721 (174-6, snímek 51, fol. 91) NENÍ nový sňatek Tobiase: ženich je „Tobias Ringel ein junger Gesell, Tobias Ringels nachgel. ehel. Sohn allhier zu Wiesen“ s Rosinou, dcerou George Krause. Jeden z obou starších Tobiasů byl tedy 11/1721 mrtvý — podle indexu narozených spíš Tobias × Susanna (syn Tobias *1701, fol. 134). Pohřeb 29. 8. 1727 tak může patřit našemu Tobiasovi „dem Obern“, ale i mladému Tobiasovi *1701; bez věku nerozhodnuto. Další krok: pohřby 1708–1721 přečíst přímo (index nemusí být úplný) a hledat vdovu Rosinu po 1727. Doplněk 25. 11. 2026: mladý Tobias × Rosina (sňatek 1721) má podle indexu narozených 174-19 (snímek 52 vpravo) děti ještě 1728 (fol. 346) a 1731 (fol. 368). Pohřeb 29. 8. 1727 proto nepatří jemu, ale jednomu ze dvou starších Tobiasů (× Dorothea, nebo × Susanna, pokud by ten v 11/1721 ještě žil). Protože v roce 1721 byl otec ženicha už mrtvý („nachgel. ehel. Sohn“), a otcem ženicha by byl Tobias × Susanna (syn Tobias *1701), mluví to pro pohřeb 1727 = náš Tobias „der Obere“. Jistota chybí, dokud nebude vyloučeno, že ženich 1721 byl syn Tobiase × Dorothey (index narozených 1689–1694 je nepřehledný). Doplněk 25. 11. 2026 (ráno): Tobias × Dorothea měli syna pokřtěného 21. 11. 1693 (174-6, snímek 132, fol. 92: „ist Tobias Ringeln und Dorothea seiner Eheweirthin ein Söhnlein getaufft worden mit Nahmen …“; jméno chybí, drobně dopsáno „Tobias“). Ženichem 1721 tedy může být syn kteréhokoli z obou Tobiasů (*1693, nebo *1701). 11. 6. 1694 byl pohřben „Tobias Ringels Söhnlein“ se „Engel-Meß“, tedy malé dítě, ale bez jména a bez jména matky (174-6, snímek 373, fol. 27; index 174-21, snímek 35R). Tehdy žili tři malí synové Tobiasů: Kaspar (*17. 3. 1692, matka Susanna), Johann Joseph (1692, matka Dorothea) a Tobias (*11/1693, matka Dorothea). Kdyby šlo o sedmiměsíčního Tobiase, byl by ženich 1721 synem Tobiase × Susanny a pohřeb 29. 8. 1727 by patřil našemu Tobiasovi „dem Obern“. Zápis to ale neříká, takže otázka zůstává otevřená.",
       "related_ids": [
         "tobias-ringel-viznov",
         "dorothea-ringel-viznov",
@@ -5158,6 +6043,16 @@
           "label": "ARON, sňatek 25. 11. 1721",
           "signatura": "174-6",
           "detail": "snímek 51, fol. 91"
+        },
+        {
+          "label": "ARON, křest 21. 11. 1693",
+          "signatura": "174-6",
+          "detail": "snímek 132, fol. 92"
+        },
+        {
+          "label": "ARON, pohřeb 11. 6. 1694",
+          "signatura": "174-6",
+          "detail": "snímek 373, fol. 27"
         }
       ]
     },
@@ -5165,7 +6060,7 @@
       "id": "q-hofman-viznov",
       "title": "Anton Hofman, rychtář ve Vižňově 1727 — sňatek, úmrtí, děti",
       "summary": "Anton Hofman je doložen jen jako otec nevěsty Anny Marie ve sňatku s Danielem Ringelem 21. 10. 1727 (174-6, snímek 57, fol. 104). Ve vižňovských indexech 1675–1756 jinak nefiguruje.",
-      "details": "Prošlo 25. 11. 2026: index oddaných 174-21 (snímek 6, Lit. H, 1678–1751) — sňatek Antona Hofmana tam není; jediný Anton Hofman, ženich 2. 2. 1738 (174-6, snímek 70, fol. 130), je „ein junger Gesell, Adam Hofmans ehel. Sohn aus Wernersdorf“ — jiný muž. Index zemřelých 174-21 (snímky 22–23, Lit. H, 1699–1756): dospělý Anton Hofman tam není; zápisy 22. 9. 1741 (174-6, snímek 450, fol. 180) a 28. 4. 1743 (snímek 455, fol. 190) jsou synkové Anton (otcové Georg Hoffman a Anton Hofman, chalupník ve Vižňově). Index narozených Vižňov 174-19 (snímek 20, Lit. H, 1675–1740): Hofmanové jen s otcem Davidem (1675, 1678, 1680), dítě Antona Hofmana tam není. Anna Maria se tedy nejspíš nenarodila ve Vižňově; Anton mohl přijít z jiné obce farnosti (Vernéřovice/Wernersdorf, Křinice/Kreuzenz?) nebo se oženil před rokem 1678. Chalupník Anton Hofman z roku 1743 může být jeho syn, nedoloženo. Další krok: indexy narozených ostatních obcí farnosti Vernéřovice (Lit. H, ~1695–1710).",
+      "details": "Prošlo 25. 11. 2026: index oddaných 174-21 (snímek 6, Lit. H, 1678–1751) — sňatek Antona Hofmana tam není; jediný Anton Hofman, ženich 2. 2. 1738 (174-6, snímek 70, fol. 130), je „ein junger Gesell, Adam Hofmans ehel. Sohn aus Wernersdorf“ — jiný muž. Index zemřelých 174-21 (snímky 22–23, Lit. H, 1699–1756): dospělý Anton Hofman tam není; zápisy 22. 9. 1741 (174-6, snímek 450, fol. 180) a 28. 4. 1743 (snímek 455, fol. 190) jsou synkové Anton (otcové Georg Hoffman a Anton Hofman, chalupník ve Vižňově). Index narozených Vižňov 174-19 (snímek 20, Lit. H, 1675–1740): Hofmanové jen s otcem Davidem (1675, 1678, 1680), dítě Antona Hofmana tam není. Anna Maria se tedy nejspíš nenarodila ve Vižňově; Anton mohl přijít z jiné obce farnosti (Vernéřovice/Wernersdorf, Křinice/Kreuzenz?) nebo se oženil před rokem 1678. Chalupník Anton Hofman z roku 1743 může být jeho syn, nedoloženo. Další krok: indexy narozených ostatních obcí farnosti Vernéřovice (Lit. H, ~1695–1710). Doplněk 25. 11. 2026 (ráno): index 174-18 (N, Z, O obvod Vernéřovice 1665–1722, snímky 14–15, Lit. H, narození 1682–1716) neuvádí jména otců. Jediná Anna Maria Hofmann(ová) je tam 21. 10. 1693 v Meziměstí (Halbstadt; pag. 184). Tělo 174-2, snímek 94, pag. 184: otcem je Adam Hofman, ne Anton. Narození Anny Marie, dcery Antona, tedy ve farnosti 1680–1716 není; nejspíš pochází z jiné farnosti. Hledání se tu uzavírá.",
       "related_ids": [
         "anton-hofman-viznov"
       ],
@@ -5184,6 +6079,72 @@
           "label": "ARON, úmrtí 28. 4. 1743",
           "signatura": "174-6",
           "detail": "snímek 455, fol. 190"
+        },
+        {
+          "label": "ARON, index narozených Vernéřovice",
+          "signatura": "174-18",
+          "detail": "snímky 14–15, Lit. H"
+        },
+        {
+          "label": "ARON, křest 21. 10. 1693",
+          "signatura": "174-2",
+          "detail": "snímek 94, pag. 184"
+        }
+      ]
+    },
+    {
+      "id": "q-pross-dorner-puvod",
+      "title": "Proß a Dörner — původ Josefa Proße a rodná příjmení Agathe a Marie",
+      "summary": "Sňatek Anton Proß × Franziska Dörner 15. 6. 1858 (144-3943, snímek 77) a narození Antona 13. 7. 1866 (144-3938, snímek 62) jmenují Josefa Proße, zahradníka v č. 6, a Agathe z Malého Uhřínova; Johanna Dörnera ze Sedloňova č. 32 a Marii z Janova č. 26.",
+      "details": "Nečteno jistě: název obce Josefa Proße (č. 6, „Lanatal / Banatal“ apod.), rodné příjmení Agathe (Lux / Leik?) a číslo domu v Malém Uhřínově, rodné příjmení Marie Dörnerové (Czerlaika / Lwotaika?). Další krok: narození Antona Proße *kolem 1828 (podle obce otce — pravděpodobně jiná fara, Uhřínov / Nové Město n. M.) a narození Franzisky Dörner *kolem 1838 v Sedloňově (144-3937, index v knize).",
+      "related_ids": [
+        "anton-pross-1828",
+        "josef-pross",
+        "agathe-pross",
+        "maria-dorner",
+        "franziska-dorner"
+      ],
+      "sources": [
+        {
+          "label": "ARON, sňatek 15. 6. 1858",
+          "signatura": "144-3943",
+          "detail": "snímek 77"
+        },
+        {
+          "label": "ARON, narození 13. 7. 1866",
+          "signatura": "144-3938",
+          "detail": "snímek 62"
+        }
+      ]
+    },
+    {
+      "id": "q-mader-knopp-walsch",
+      "title": "Mader, Knopp, Walsch — rodná příjmení a další generace",
+      "summary": "Linie Mader je doložena do Ignaze Madera st. × Margarethy Matzner (sňatek syna 10. 2. 1825, 144-3943 snímek 25; narození vnuka 13. 1. 1833, 144-3 snímek 29).",
+      "details": "Nečteno jistě: rodné příjmení Anny Knoppové z Olešnice č. 161 (Corsnika / Lantnika?), rodné příjmení Johanny Walschové st. (Zeug / Albert?), bydliště Ignaze Madera st. (1825 a 1833). Další krok: narození Ignaze Madera ml. *kolem 1802 a Johanny Walsch *kolem 1801 v 144-2 (N 1763–1824, index 144-6); narození Franzisky Knopp *kolem 1837 v Olešnici (fara Olešnice v O. h., jiný fond).",
+      "related_ids": [
+        "ignaz-mader-st",
+        "anna-knopp",
+        "johanna-walsch-matka",
+        "ignaz-mader-ml",
+        "johanna-walsch",
+        "franziska-knopp"
+      ],
+      "sources": [
+        {
+          "label": "ARON, sňatek 10. 2. 1825",
+          "signatura": "144-3943",
+          "detail": "snímek 25"
+        },
+        {
+          "label": "ARON, narození 13. 1. 1833",
+          "signatura": "144-3",
+          "detail": "snímek 29"
+        },
+        {
+          "label": "ARON, sňatek 9. 11. 1858",
+          "signatura": "144-3943",
+          "detail": "snímek 79"
         }
       ]
     }

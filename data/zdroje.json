@@ -292,6 +292,34 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 141-4254 (poř.č. 9749), 1784-1889",
    "popis": "římskokatolický index ZEMŘELÝCH, farnost (Hynčice, Jetřichov, Meziměstí, Ruprechtice)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/a7ba0d4e-7eba-4c6c-93b8-c6075466b1f3"
+  },
+  "174-18": {
+   "apu": "22134376-2e01-4077-ae0b-fb04113d4b72",
+   "dao": "22134376-2e01-4077-ae0b-fb04113d4b72",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 174-18 (poř.č. 12251), 1665-1722",
+   "popis": "římskokatolický index NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, obvod Vernéřovice (Bohdašín, Březová, Meziměstí, Vernéřovice)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/22134376-2e01-4077-ae0b-fb04113d4b72"
+  },
+  "174-2": {
+   "apu": "cbbfa874-7ada-4f19-b71a-302b8af8bf60",
+   "dao": "cbbfa874-7ada-4f19-b71a-302b8af8bf60",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 174-2 (poř.č. 12214), 1665-1722",
+   "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, farnost (Bohdašín, Březová, Meziměstí, Vernéřovice)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cbbfa874-7ada-4f19-b71a-302b8af8bf60"
+  },
+  "144-3943": {
+   "apu": "daa8f83b-0855-410f-8490-e01a17274f98",
+   "dao": "daa8f83b-0855-410f-8490-e01a17274f98",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 144-3943 (poř.č. 10019), 1795-1877",
+   "popis": "římskokatolická matrika ODDANÝCH, římskokatolický index ODDANÝCH, Ošerov + Sedloňov + Šerlich (do 11.1877), Polom (2.1795-10.1877)\nindex pouze do 1863",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98"
+  },
+  "144-3": {
+   "apu": "59f58474-4a21-4fd4-9245-a472237aabfa",
+   "dao": "59f58474-4a21-4fd4-9245-a472237aabfa",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 144-3 (poř.č. 10015), 1825-1838",
+   "popis": "římskokatolická matrika NAROZENÝCH, římskokatolický index NAROZENÝCH, Ošerov + Sedloňov + Šerlich (do 3.1838), Polom (3.1825-2.1838)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/59f58474-4a21-4fd4-9245-a472237aabfa"
   }
  },
  "aliasy": {
@@ -650,6 +678,33 @@
    "velky": "img/zdroje/141-7599_s602_velky.jpg",
    "vyrez_soubor": "z141-7599-s602-1767-01-25-anton-ringel-ausgedinger.jpg"
   },
+  "144-3938|195": {
+   "signatura": "144-3938",
+   "snimek": 195,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078/dao/10bcd777-22d9-4770-a9b1-b5cc3bc3d078/file/588bc660-1330-482d-8565-6cc0118cc1b2",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/144-3938_s195.jpg",
+   "velky": "img/zdroje/144-3938_s195_velky.jpg",
+   "vyrez_soubor": "z144-3938-s195-1889-anna-pross-legit-rodice-anton-pross-johanna-mader.jpg"
+  },
+  "144-3938|41": {
+   "signatura": "144-3938",
+   "snimek": 41,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078/dao/10bcd777-22d9-4770-a9b1-b5cc3bc3d078/file/914a104e-4669-404e-b46c-d618ce584b6e",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/144-3938_s041.jpg",
+   "velky": "img/zdroje/144-3938_s041_velky.jpg",
+   "vyrez_soubor": "z144-3938-s41-1863-06-21-johanna-mader.jpg"
+  },
+  "144-3938|62": {
+   "signatura": "144-3938",
+   "snimek": 62,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078/dao/10bcd777-22d9-4770-a9b1-b5cc3bc3d078/file/d5b8da04-f6e3-4dbc-a8c9-e20c252e66ed",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/144-3938_s062.jpg",
+   "velky": "img/zdroje/144-3938_s062_velky.jpg",
+   "vyrez_soubor": "z144-3938-s62-1866-07-13-anton-pross.jpg"
+  },
   "144-3938|75": {
    "signatura": "144-3938",
    "snimek": 75,
@@ -657,6 +712,42 @@
    "vyrez": "celá strana",
    "nahled": "img/zdroje/144-3938_s075.jpg",
    "velky": "img/zdroje/144-3938_s075_velky.jpg"
+  },
+  "144-3943|25": {
+   "signatura": "144-3943",
+   "snimek": 25,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98/dao/daa8f83b-0855-410f-8490-e01a17274f98/file/6fd978b0-51e5-4bb2-9406-6eedcfc82355",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/144-3943_s025.jpg",
+   "velky": "img/zdroje/144-3943_s025_velky.jpg",
+   "vyrez_soubor": "z144-3943-s25-1825-02-10-ignaz-mader-johanna-walsch.jpg"
+  },
+  "144-3943|77": {
+   "signatura": "144-3943",
+   "snimek": 77,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98/dao/daa8f83b-0855-410f-8490-e01a17274f98/file/49bad179-6306-4ec1-b162-6690eabc9bae",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/144-3943_s077.jpg",
+   "velky": "img/zdroje/144-3943_s077_velky.jpg",
+   "vyrez_soubor": "z144-3943-s77-1858-06-15-anton-pross-franziska-dorner.jpg"
+  },
+  "144-3943|79": {
+   "signatura": "144-3943",
+   "snimek": 79,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98/dao/daa8f83b-0855-410f-8490-e01a17274f98/file/36b98249-2740-4536-aaef-857b429a91f4",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/144-3943_s079.jpg",
+   "velky": "img/zdroje/144-3943_s079_velky.jpg",
+   "vyrez_soubor": "z144-3943-s79-1858-11-09-johann-mader-franziska-knopp.jpg"
+  },
+  "144-3|29": {
+   "signatura": "144-3",
+   "snimek": 29,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/59f58474-4a21-4fd4-9245-a472237aabfa/dao/59f58474-4a21-4fd4-9245-a472237aabfa/file/8c430311-0077-4b94-a48e-6a6a14281968",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/144-3_s029.jpg",
+   "velky": "img/zdroje/144-3_s029_velky.jpg",
+   "vyrez_soubor": "z144-3-s29-1833-01-13-johann-mader.jpg"
   },
   "144-7|26": {
    "signatura": "144-7",
@@ -727,6 +818,22 @@
    "velky": "img/zdroje/174-14_s133_velky.jpg",
    "vyrez_soubor": "z174-14-s133-1805-07-07-anton-ringel-viznov58.jpg"
   },
+  "174-18|14": {
+   "signatura": "174-18",
+   "snimek": 14,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/22134376-2e01-4077-ae0b-fb04113d4b72/dao/22134376-2e01-4077-ae0b-fb04113d4b72/file/14b1261c-9dad-4415-8c55-c047a24945dd",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/174-18_s014.jpg",
+   "velky": "img/zdroje/174-18_s014_velky.jpg"
+  },
+  "174-18|15": {
+   "signatura": "174-18",
+   "snimek": 15,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/22134376-2e01-4077-ae0b-fb04113d4b72/dao/22134376-2e01-4077-ae0b-fb04113d4b72/file/8e187203-71f7-45f0-965a-0b9a9f06e097",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/174-18_s015.jpg",
+   "velky": "img/zdroje/174-18_s015_velky.jpg"
+  },
   "174-19|51": {
    "signatura": "174-19",
    "snimek": 51,
@@ -776,6 +883,14 @@
    "nahled": "img/zdroje/174-21_s009.jpg",
    "velky": "img/zdroje/174-21_s009_velky.jpg"
   },
+  "174-2|94": {
+   "signatura": "174-2",
+   "snimek": 94,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cbbfa874-7ada-4f19-b71a-302b8af8bf60/dao/cbbfa874-7ada-4f19-b71a-302b8af8bf60/file/46ef6302-05d9-432c-a1c4-81e6cccb1e7f",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/174-2_s094.jpg",
+   "velky": "img/zdroje/174-2_s094_velky.jpg"
+  },
   "174-4248|27": {
    "signatura": "174-4248",
    "snimek": 27,
@@ -789,6 +904,14 @@
     0.96,
     0.4
    ]
+  },
+  "174-6|132": {
+   "signatura": "174-6",
+   "snimek": 132,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/dao/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/file/6ec9d634-4863-437d-ab12-54f5ca54734f",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/174-6_s132.jpg",
+   "velky": "img/zdroje/174-6_s132_velky.jpg"
   },
   "174-6|17": {
    "signatura": "174-6",
@@ -824,6 +947,14 @@
    "vyrez": "celá strana",
    "nahled": "img/zdroje/174-6_s365.jpg",
    "velky": "img/zdroje/174-6_s365_velky.jpg"
+  },
+  "174-6|373": {
+   "signatura": "174-6",
+   "snimek": 373,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/dao/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/file/516898d7-0183-49d4-b704-8a354b29a94a",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/174-6_s373.jpg",
+   "velky": "img/zdroje/174-6_s373_velky.jpg"
   },
   "174-6|386": {
    "signatura": "174-6",
