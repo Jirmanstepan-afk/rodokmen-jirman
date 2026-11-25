@@ -1331,7 +1331,11 @@
       "id": "frantisek-ventr",
       "name": "František Ventr",
       "maiden": null,
-      "birth": null,
+      "birth": {
+        "display": "4. 10. 1794",
+        "precision": "day",
+        "note": "Pokřtěn jako Franciscus Wenceslaus, Ledhuje č. 26 (130-17 snímek 28); věk 24 při sňatku 7. 7. 1819 odpovídá."
+      },
       "baptism": null,
       "death": null,
       "occupation": "Tkadlec (Weber), Ledhuje č. 45 (1856); chalupník a výměnkář (Ausgedinger), Ledhuje č. 75 (1874).",
@@ -1358,10 +1362,30 @@
           "label": "ARON, sňatek 27. 10. 1874",
           "signatura": "130-7417",
           "detail": "snímek 43, folio 40"
+        },
+        {
+          "label": "ARON, sňatek 7. 7. 1819",
+          "signatura": "130-18",
+          "detail": "snímek 4, pravá strana (fol. 2), 2. zápis, Ledhuje; výřez vypisy/130-18/z130-18-s04-1819-07-07-snatek-franz-winter-rosina.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/63eb6c37-cbf6-4cda-90a3-797d993ea70c"
+        },
+        {
+          "label": "ARON, narození 27. 1. 1821",
+          "signatura": "130-18",
+          "detail": "snímek 23, pravá strana (pag. 41), 1. zápis, Ledhuje č. 45; výřez vypisy/130-18/z130-18-s23-1821-01-27-frantiska-wentrova.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/b9fc0783-c268-4c1f-ae7b-0318cb64e61b"
+        },
+        {
+          "label": "ARON, narození 4. 10. 1794",
+          "signatura": "130-17",
+          "detail": "snímek 28, pravá strana, poslední zápis 1794 před 14. 10., Ledhuje č. 26; výřez vypisy/130-17/z130-17-s28-1794-10-04-frantisek-vaclav-winter.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/8558b085-893d-4cad-8d5d-c2326e394a0c/dao/8558b085-893d-4cad-8d5d-c2326e394a0c/file/15b854e6-0c2e-492c-9983-8ce0a87bc5a9"
         }
       ],
       "notes": [
-        "V zápisu 1878 „František Wentr, výměnek v Ledhuji“, v zápisu 1874 „Franz W?ntr, Chalupner und Ausgedinger aus Ledhuj No 75“."
+        "V zápisu 1878 „František Wentr, výměnek v Ledhuji“, v zápisu 1874 „Franz W?ntr, Chalupner und Ausgedinger aus Ledhuj No 75“.",
+        "Sňatek 7. 7. 1819 v Ledhujích: „Franz Winter, syn Václava Wintra z č. 45“, 24 let, s Rosinou, dcerou † Josefa „Klep…(?)“ z Malé Ledhuje č. 3.",
+        "Křest 4. 10. 1794: otec Wenceslaus Winter, textor (tkadlec), Ledhuje č. 26; matka zapsána „Anna Klim(e)xiana(?)“ – viz dotaz q-hruby-ventr-predci."
       ],
       "interesting": []
     },
@@ -4971,12 +4995,12 @@
     },
     {
       "id": "jan-hruby",
-      "name": "Jan Hrubý",
+      "name": "Jan (Václav) Hrubý",
       "maiden": null,
       "birth": {
-        "display": "cca 1822",
-        "precision": "circa",
-        "note": "34 let k 2. 6. 1856."
+        "display": "10. 2. 1822",
+        "precision": "day",
+        "note": "Narozen 10. 2. 1822 v Ledhujích č. 52, pokřtěn jako Jan Václav (130-18 snímek 25); poznámka „12. Maj 1856 Taufschein ausgestellt“."
       },
       "baptism": null,
       "death": null,
@@ -5004,11 +5028,18 @@
           "signatura": "96-7319",
           "detail": "snímek 12, folio 14, 1. zápis, Nízká Srbská č. 54",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/335ade0a-eccc-4c8a-a917-becf12f1d6fe/dao/335ade0a-eccc-4c8a-a917-becf12f1d6fe/file/4047fbf3-6a2b-47f1-b8c0-f44f8b8c15aa"
+        },
+        {
+          "label": "ARON, narození 10. 2. 1822",
+          "signatura": "130-18",
+          "detail": "snímek 25, levá strana (pag. 44), 2. zápis, Ledhuje č. 52; výřez vypisy/130-18/z130-18-s25-1822-02-10-jan-vaclav-hruby.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/7f16c876-9b8e-4b53-b882-e04cb72543cf"
         }
       ],
       "notes": [
         "Dřívější čtení „Jan Skuhra, Ledhuje č. 53“ z narození vnučky 1878 bylo chybné; v zápisu stojí „Jana Hrubého podruha v Ledhuji č. 52“ (96-7319, snímek 12).",
-        "Sňatek 2. 6. 1856: syn Johanna Hrubého, výměnkáře (Ausgedinger) z Ledhují č. 52, a Anny, dcery Josefa „Scheele(?)“, sedláka z Ledhují č. 34 (130-7417 snímek 15)."
+        "Sňatek 2. 6. 1856: syn Johanna Hrubého, výměnkáře (Ausgedinger) z Ledhují č. 52, a Anny, dcery Josefa „Scheele(?)“, sedláka z Ledhují č. 34 (130-7417 snímek 15).",
+        "Křest 10. 2. 1822: otec Jan Hrubý, podruh (Ledhuje č. 52), matka Anna, dcera † Josefa „Schulz/Šulc(?)“, sedláka z Ledhují č. 34 – příjmení nejisté."
       ],
       "interesting": []
     },
@@ -5207,9 +5238,9 @@
       "name": "Františka Hrubá",
       "maiden": "Wentrová (Ventrová)",
       "birth": {
-        "display": "cca 1821",
-        "precision": "circa",
-        "note": "35 let k 2. 6. 1856."
+        "display": "27. 1. 1821",
+        "precision": "day",
+        "note": "Narozena a pokřtěna 27. 1. 1821 v Ledhujích č. 45 (130-18 snímek 23); poznámka „12. Mai 1856 Taufschein ausgestellt“ (křestní list pro sňatek 2. 6. 1856)."
       },
       "baptism": null,
       "death": null,
@@ -5237,11 +5268,18 @@
           "signatura": "96-7319",
           "detail": "snímek 12, folio 14, 1. zápis, Nízká Srbská č. 54",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/335ade0a-eccc-4c8a-a917-becf12f1d6fe/dao/335ade0a-eccc-4c8a-a917-becf12f1d6fe/file/4047fbf3-6a2b-47f1-b8c0-f44f8b8c15aa"
+        },
+        {
+          "label": "ARON, narození 27. 1. 1821",
+          "signatura": "130-18",
+          "detail": "snímek 23, pravá strana (pag. 41), 1. zápis, Ledhuje č. 45; výřez vypisy/130-18/z130-18-s23-1821-01-27-frantiska-wentrova.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/b9fc0783-c268-4c1f-ae7b-0318cb64e61b"
         }
       ],
       "notes": [
         "Manželka Jana Hrubého, dcera Františka Wentra (Ventra), výměnkáře v Ledhuji (96-7319, snímek 12: „Františky, dcery Františka Wentra, výměnka v Ledhuji“; 130-7417 snímek 43: „Franziska geborene Franz W?ntr, Chalupner und Ausgedinger aus Ledhuj No 75“). Dřívější čtení „roz. Špinka“ a „Skuhrová“ byla chybná.",
-        "Sňatek 2. 6. 1856: „Franziska, dcera Franze W(i/e)ntra, tkadlce z Ledhují č. 45, a Rosiny, dcery Josefa „Klepatschek(?)“, krejčího z Ledhují č. 3“. Zápis píše příjmení „Wintr/Wentr“ – shodné s Wentr/Ventr ze zápisů 1874 a 1878."
+        "Sňatek 2. 6. 1856: „Franziska, dcera Franze W(i/e)ntra, tkadlce z Ledhují č. 45, a Rosiny, dcery Josefa „Klepatschek(?)“, krejčího z Ledhují č. 3“. Zápis píše příjmení „Wintr/Wentr“ – shodné s Wentr/Ventr ze zápisů 1874 a 1878.",
+        "Křest 27. 1. 1821: otec Franz W(i/e)nter (povolání čteno „Kantor(?)“ – nejisté; 1856 tkadlec), matka Rosina, dcera † Josefa „Kle…(?)“ z Malé Ledhuje č. 3. Sestra Marie Theresie narozena 1822 v č. 45 (130-18 snímek 25)."
       ],
       "interesting": []
     },
@@ -5353,7 +5391,11 @@
       "id": "jan-hruby-st",
       "name": "Jan (Johann) Hrubý",
       "maiden": null,
-      "birth": null,
+      "birth": {
+        "display": "cca 1789",
+        "precision": "circa",
+        "note": "24 let k 15. 2. 1813."
+      },
       "baptism": null,
       "death": null,
       "occupation": "Výměnkář (Ausgedinger), Ledhuje č. 52 (1856).",
@@ -5369,10 +5411,24 @@
           "signatura": "130-7417",
           "detail": "snímek 15, fol. 11, zápis 2. 6. 1856 (Ledhuje č. 52); index 130-47 snímek 20, Lit. H, oddíl Ledhuj",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/569f993d-39f6-4aae-b562-28b26c65c1a6/dao/569f993d-39f6-4aae-b562-28b26c65c1a6/file/76fa0ccc-3692-420d-a95c-bf3b3123cb44"
+        },
+        {
+          "label": "ARON, narození 10. 2. 1822",
+          "signatura": "130-18",
+          "detail": "snímek 25, levá strana (pag. 44), 2. zápis, Ledhuje č. 52; výřez vypisy/130-18/z130-18-s25-1822-02-10-jan-vaclav-hruby.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/7f16c876-9b8e-4b53-b882-e04cb72543cf"
+        },
+        {
+          "label": "ARON, sňatek 15. 2. 1813",
+          "signatura": "130-17",
+          "detail": "snímek 10, levá strana (fol. 14), 1. zápis, Ledhuje č. 52; výřez vypisy/130-17/z130-17-s10-1813-02-15-snatek-jan-hruby-anna.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/8558b085-893d-4cad-8d5d-c2326e394a0c/dao/8558b085-893d-4cad-8d5d-c2326e394a0c/file/aff8325b-6bea-49ef-b2e0-2f61a5e705d3"
         }
       ],
       "notes": [
-        "Otec ženicha Jana Hrubého při sňatku 2. 6. 1856."
+        "Otec ženicha Jana Hrubého při sňatku 2. 6. 1856.",
+        "1822 podruh v Ledhujích č. 52 (křest syna Jana Václava).",
+        "Sňatek 15. 2. 1813: „Jan syn Františka Hrubého, sedláka z Ledhuje č. 52“, 24 let, svobodný."
       ],
       "interesting": []
     },
@@ -5380,7 +5436,11 @@
       "id": "anna-hruba-st",
       "name": "Anna Hrubá",
       "maiden": null,
-      "birth": null,
+      "birth": {
+        "display": "cca 1793",
+        "precision": "circa",
+        "note": "20 let k 15. 2. 1813."
+      },
       "baptism": null,
       "death": null,
       "occupation": null,
@@ -5396,10 +5456,24 @@
           "signatura": "130-7417",
           "detail": "snímek 15, fol. 11, zápis 2. 6. 1856 (Ledhuje č. 52); index 130-47 snímek 20, Lit. H, oddíl Ledhuj",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/569f993d-39f6-4aae-b562-28b26c65c1a6/dao/569f993d-39f6-4aae-b562-28b26c65c1a6/file/76fa0ccc-3692-420d-a95c-bf3b3123cb44"
+        },
+        {
+          "label": "ARON, narození 10. 2. 1822",
+          "signatura": "130-18",
+          "detail": "snímek 25, levá strana (pag. 44), 2. zápis, Ledhuje č. 52; výřez vypisy/130-18/z130-18-s25-1822-02-10-jan-vaclav-hruby.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/7f16c876-9b8e-4b53-b882-e04cb72543cf"
+        },
+        {
+          "label": "ARON, sňatek 15. 2. 1813",
+          "signatura": "130-17",
+          "detail": "snímek 10, levá strana (fol. 14), 1. zápis, Ledhuje č. 52; výřez vypisy/130-17/z130-17-s10-1813-02-15-snatek-jan-hruby-anna.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/8558b085-893d-4cad-8d5d-c2326e394a0c/dao/8558b085-893d-4cad-8d5d-c2326e394a0c/file/aff8325b-6bea-49ef-b2e0-2f61a5e705d3"
         }
       ],
       "notes": [
-        "Dcera Josefa, sedláka (Bauer) z Ledhují č. 34; jeho příjmení čteno „Scheele(?)“ – nejisté, proto rodné příjmení nevyplněno."
+        "Dcera Josefa, sedláka (Bauer) z Ledhují č. 34; jeho příjmení čteno „Scheele(?)“ – nejisté, proto rodné příjmení nevyplněno.",
+        "Křest syna 1822: „dcera † Josefa Schulz/Šulc(?), sedláka z Ledhují č. 34“ – otec tedy zemřel před 2/1822; příjmení stále nejisté.",
+        "Sňatek 15. 2. 1813: „Anna dcera † Josefa Ssolz (Šolc?) z Ledhuje č. 34“, 20 let. Tři zápisy (1813 „Ssolz“, 1822 „Schulz/Šulc“, 1856 „Scheele“) ukazují nejspíš na Šolc/Scholz – rodné příjmení zatím nevyplněno, viz dotaz q-hruby-ventr-predci."
       ],
       "interesting": []
     },
@@ -5407,7 +5481,11 @@
       "id": "rozina-ventrova",
       "name": "Rozina (Rosina) Ventrová",
       "maiden": null,
-      "birth": null,
+      "birth": {
+        "display": "cca 1796",
+        "precision": "circa",
+        "note": "23 let k 7. 7. 1819 (čtení věku 23 téměř jisté)."
+      },
       "baptism": null,
       "death": null,
       "occupation": null,
@@ -5423,10 +5501,85 @@
           "signatura": "130-7417",
           "detail": "snímek 15, fol. 11, zápis 2. 6. 1856 (Ledhuje č. 52); index 130-47 snímek 20, Lit. H, oddíl Ledhuj",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/569f993d-39f6-4aae-b562-28b26c65c1a6/dao/569f993d-39f6-4aae-b562-28b26c65c1a6/file/76fa0ccc-3692-420d-a95c-bf3b3123cb44"
+        },
+        {
+          "label": "ARON, sňatek 7. 7. 1819",
+          "signatura": "130-18",
+          "detail": "snímek 4, pravá strana (fol. 2), 2. zápis, Ledhuje; výřez vypisy/130-18/z130-18-s04-1819-07-07-snatek-franz-winter-rosina.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/63eb6c37-cbf6-4cda-90a3-797d993ea70c"
+        },
+        {
+          "label": "ARON, narození 27. 1. 1821",
+          "signatura": "130-18",
+          "detail": "snímek 23, pravá strana (pag. 41), 1. zápis, Ledhuje č. 45; výřez vypisy/130-18/z130-18-s23-1821-01-27-frantiska-wentrova.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/b9fc0783-c268-4c1f-ae7b-0318cb64e61b"
         }
       ],
       "notes": [
-        "Dcera Josefa, krejčího (Schneider) z Ledhují č. 3; jeho příjmení čteno „Klepatschek(?)“ – nejisté, proto rodné příjmení nevyplněno."
+        "Dcera Josefa, krejčího (Schneider) z Ledhují č. 3; jeho příjmení čteno „Klepatschek(?)“ – nejisté, proto rodné příjmení nevyplněno.",
+        "Sňatek 1819 i křest dcery 1821 shodně: dcera † Josefa „Klep…(?)“ z Malé Ledhuje č. 3 (otec zemřel před 7/1819). Příjmení stále nejisté (Klepáček?)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "vaclav-ventr-ledhuje",
+      "name": "Václav Winter (Ventr)",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Tkadlec (textor), Ledhuje č. 26 (1794); chalupník (1813).",
+      "places": [
+        "Ledhuje č. 26 (1794)",
+        "Ledhuje č. 45 (1819)"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 7. 7. 1819",
+          "signatura": "130-18",
+          "detail": "snímek 4, pravá strana (fol. 2), 2. zápis, Ledhuje; výřez vypisy/130-18/z130-18-s04-1819-07-07-snatek-franz-winter-rosina.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/63eb6c37-cbf6-4cda-90a3-797d993ea70c"
+        },
+        {
+          "label": "ARON, narození 4. 10. 1794",
+          "signatura": "130-17",
+          "detail": "snímek 28, pravá strana, poslední zápis 1794 před 14. 10., Ledhuje č. 26; výřez vypisy/130-17/z130-17-s28-1794-10-04-frantisek-vaclav-winter.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/8558b085-893d-4cad-8d5d-c2326e394a0c/dao/8558b085-893d-4cad-8d5d-c2326e394a0c/file/15b854e6-0c2e-492c-9983-8ce0a87bc5a9"
+        }
+      ],
+      "notes": [
+        "Otec ženicha Franze Wintra při sňatku 7. 7. 1819 („syn Václava Wintra z č. 45“). Manželka (matka Františka) zatím neznámá.",
+        "1813 svědkem na sňatku Jana Hrubého a Anny (130-17 snímek 10) jako „Wáclaw Winter, chalupník“."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "frantisek-hruby-ledhuje",
+      "name": "František Hrubý",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Sedlák, Ledhuje č. 52 (1813).",
+      "places": [
+        "Ledhuje č. 52"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 15. 2. 1813",
+          "signatura": "130-17",
+          "detail": "snímek 10, levá strana (fol. 14), 1. zápis, Ledhuje č. 52; výřez vypisy/130-17/z130-17-s10-1813-02-15-snatek-jan-hruby-anna.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/8558b085-893d-4cad-8d5d-c2326e394a0c/dao/8558b085-893d-4cad-8d5d-c2326e394a0c/file/aff8325b-6bea-49ef-b2e0-2f61a5e705d3"
+        }
+      ],
+      "notes": [
+        "Otec ženicha Jana Hrubého při sňatku 15. 2. 1813. Manželka zatím neznámá."
       ],
       "interesting": []
     }
@@ -5780,8 +5933,26 @@
           "label": "ARON",
           "signatura": "96-7319",
           "detail": "snímek 12"
+        },
+        {
+          "label": "ARON, sňatek 7. 7. 1819",
+          "signatura": "130-18",
+          "detail": "snímek 4, pravá strana (fol. 2), 2. zápis, Ledhuje; výřez vypisy/130-18/z130-18-s04-1819-07-07-snatek-franz-winter-rosina.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/63eb6c37-cbf6-4cda-90a3-797d993ea70c"
+        },
+        {
+          "label": "ARON, narození 27. 1. 1821",
+          "signatura": "130-18",
+          "detail": "snímek 23, pravá strana (pag. 41), 1. zápis, Ledhuje č. 45; výřez vypisy/130-18/z130-18-s23-1821-01-27-frantiska-wentrova.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/b9fc0783-c268-4c1f-ae7b-0318cb64e61b"
         }
-      ]
+      ],
+      "married": {
+        "display": "7. 7. 1819",
+        "date": "1819-07-07",
+        "place": "Ledhuje (fara Police n. M.)",
+        "note": "130-18 snímek 4"
+      }
     },
     {
       "id": "u-josef1916-hedvika",
@@ -7351,7 +7522,67 @@
           "signatura": "130-7417",
           "detail": "snímek 15, fol. 11, zápis 2. 6. 1856 (Ledhuje č. 52); index 130-47 snímek 20, Lit. H, oddíl Ledhuj",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/569f993d-39f6-4aae-b562-28b26c65c1a6/dao/569f993d-39f6-4aae-b562-28b26c65c1a6/file/76fa0ccc-3692-420d-a95c-bf3b3123cb44"
+        },
+        {
+          "label": "ARON, narození 10. 2. 1822",
+          "signatura": "130-18",
+          "detail": "snímek 25, levá strana (pag. 44), 2. zápis, Ledhuje č. 52; výřez vypisy/130-18/z130-18-s25-1822-02-10-jan-vaclav-hruby.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/7f16c876-9b8e-4b53-b882-e04cb72543cf"
+        },
+        {
+          "label": "ARON, sňatek 15. 2. 1813",
+          "signatura": "130-17",
+          "detail": "snímek 10, levá strana (fol. 14), 1. zápis, Ledhuje č. 52; výřez vypisy/130-17/z130-17-s10-1813-02-15-snatek-jan-hruby-anna.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/8558b085-893d-4cad-8d5d-c2326e394a0c/dao/8558b085-893d-4cad-8d5d-c2326e394a0c/file/aff8325b-6bea-49ef-b2e0-2f61a5e705d3"
         }
+      ],
+      "married": {
+        "display": "15. 2. 1813",
+        "date": "1813-02-15",
+        "place": "Ledhuje (fara Police n. M.)",
+        "note": "130-17 snímek 10; svědci Josef Hon(?) a Václav Winter, chalupník"
+      }
+    },
+    {
+      "id": "u-vaclav-ventr",
+      "partners": [
+        "vaclav-ventr-ledhuje"
+      ],
+      "children": [
+        "frantisek-ventr"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, sňatek 7. 7. 1819",
+          "signatura": "130-18",
+          "detail": "snímek 4, pravá strana (fol. 2), 2. zápis, Ledhuje; výřez vypisy/130-18/z130-18-s04-1819-07-07-snatek-franz-winter-rosina.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/63eb6c37-cbf6-4cda-90a3-797d993ea70c"
+        }
+      ],
+      "notes": [
+        "Matka Františka Ventra zatím nezjištěna."
+      ]
+    },
+    {
+      "id": "u-frantisek-hruby",
+      "partners": [
+        "frantisek-hruby-ledhuje"
+      ],
+      "children": [
+        "jan-hruby-st"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, sňatek 15. 2. 1813",
+          "signatura": "130-17",
+          "detail": "snímek 10, levá strana (fol. 14), 1. zápis, Ledhuje č. 52; výřez vypisy/130-17/z130-17-s10-1813-02-15-snatek-jan-hruby-anna.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/8558b085-893d-4cad-8d5d-c2326e394a0c/dao/8558b085-893d-4cad-8d5d-c2326e394a0c/file/aff8325b-6bea-49ef-b2e0-2f61a5e705d3"
+        }
+      ],
+      "notes": [
+        "Matka Jana Hrubého st. zatím nezjištěna."
       ]
     }
   ],
@@ -8121,7 +8352,7 @@
       "id": "q-klimes-snatek",
       "title": "Sňatek Jana Klimeše a Anny Špačkové – VYŘEŠENO (19. 11. 1844); zbývá původ Jana a rodné příjmení Kateřiny",
       "summary": "Sňatek nalezen: Vysoká Srbská 19. 11. 1844 (53-53 snímek 25). Otevřené zůstává narození Jana (*cca 1820, Zlíčko/panství Police?) a rodné příjmení jeho matky Kateřiny (1857 „Růžička/Ritschka“, 1844 „Pilasch(?)“).",
-      "details": "Negativní: Hronov O 1834–1870 (53-53) a Machov město O 8. 1836–11. 1862 (96-16, snímky 20–41 čteny jen v přehledu jmen ženichů, Jan Klimeš nenalezen; čtení není úplné). Zbývá: Police nad Metují — index oddaných 130-47 (oddíl K, snímky 32–36: hlavně německé vsi, zatím neprojitý řádek po řádku), Velké Petrovice a Žďár nad Metují. Kolo G2: Anna Špačková *18. 1. 1823 VS č. 29 (53-19 snímek 69) – sňatek tedy asi 1843–1857. O VS 53-53 snímky 20–24 (1840–1845) v náhledu nečitelné, nedočteno. Kolo I (25. 11. 2026): sňatek nalezen v 53-53 snímek 25 (fol. 23) při plném rozlišení – Johann Klimesch, tkadlec, 24 let, syn Franze Klimesche, tkadlece a podruha ze Zlíčka č. 31 (panství Police), a Kateřiny „Pilasch(?)“ z VS č. 27; nevěsta Anna, 21 let, dcera † Franze Špačka, podruha z VS č. 29, a Doroty roz. Faltové ze Slatiny č. 39. Výřez vypisy/53-53/z53-53-s25-1844-11-19-snatek-jan-klimes-anna-spackova.jpg. Další krok: narození Jana cca 1820 – Zlíčko patřilo k panství Police, ale do fary Hronov/VS; zlíčský index 1816–1834 negativní, zkusit Police 130-44 (index N 1785–1833).",
+      "details": "Negativní: Hronov O 1834–1870 (53-53) a Machov město O 8. 1836–11. 1862 (96-16, snímky 20–41 čteny jen v přehledu jmen ženichů, Jan Klimeš nenalezen; čtení není úplné). Zbývá: Police nad Metují — index oddaných 130-47 (oddíl K, snímky 32–36: hlavně německé vsi, zatím neprojitý řádek po řádku), Velké Petrovice a Žďár nad Metují. Kolo G2: Anna Špačková *18. 1. 1823 VS č. 29 (53-19 snímek 69) – sňatek tedy asi 1843–1857. O VS 53-53 snímky 20–24 (1840–1845) v náhledu nečitelné, nedočteno. Kolo I (25. 11. 2026): sňatek nalezen v 53-53 snímek 25 (fol. 23) při plném rozlišení – Johann Klimesch, tkadlec, 24 let, syn Franze Klimesche, tkadlece a podruha ze Zlíčka č. 31 (panství Police), a Kateřiny „Pilasch(?)“ z VS č. 27; nevěsta Anna, 21 let, dcera † Franze Špačka, podruha z VS č. 29, a Doroty roz. Faltové ze Slatiny č. 39. Výřez vypisy/53-53/z53-53-s25-1844-11-19-snatek-jan-klimes-anna-spackova.jpg. Další krok: narození Jana cca 1820 – Zlíčko patřilo k panství Police, ale do fary Hronov/VS; zlíčský index 1816–1834 negativní, zkusit Police 130-44 (index N 1785–1833). Kolo J (25. 11. 2026): rejstřík Police 130-44, snímek 36 (písmeno K, narození), levý sloupec: „Klimesch Johann, 1820, 11.(?) dubna, pag. 39“ – obec ve sloupci vlevo nečitelná (okraj). Kandidát na Jana Klimeše (* cca 1820); ve stejném sloupci i „Klimesch Franziska 30. 6. 1818“. Výřez vypisy/130-44/z130-44-s36-1820-index-johann-klimesch-kandidat.jpg. Další krok: najít knihu N, na kterou rejstřík odkazuje (pag. 39), pro Zlíčko 1820, a ověřit rodiče František × Kateřina.",
       "related_ids": [
         "jan-klimes-vymenkar",
         "anna-spackova",
@@ -8133,6 +8364,11 @@
           "label": "ARON",
           "signatura": "96-16",
           "detail": "snímky 20–41, bez nálezu"
+        },
+        {
+          "label": "ARON 130-44 snímek 36",
+          "signatura": "130-44",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/abd89fc7-6a72-41a5-8a89-fa7355bf4574/dao/abd89fc7-6a72-41a5-8a89-fa7355bf4574/file/e8ef4e9c-12ad-47da-a551-41b3d2c08303"
         }
       ]
     },
@@ -8178,6 +8414,31 @@
           "signatura": "12-2",
           "detail": "snímek 26, pag. 42",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcc7ad-6f37-4659-8328-2e58bd1d4a00/dao/10bcc7ad-6f37-4659-8328-2e58bd1d4a00/file/34df6c5e-5ccd-4543-a1c6-a9b06d764204"
+        }
+      ]
+    },
+    {
+      "id": "q-hruby-ventr-predci",
+      "title": "Předci Hrubých a Ventrů v Ledhujích – nejisté body",
+      "summary": "Sňatky 1813 (Hrubý × Anna) a 1819 (Winter × Rosina) i křty 1794, 1821 a 1822 jsou jisté. Nejisté zůstávají příjmení dívčí (Šolc?, Klep…?) a matka Františka Ventra.",
+      "details": "Anna Hrubá: otec Josef, sedlák Ledhuje č. 34 – čtení 1813 „Ssolz“, 1822 „Schulz/Šulc“, 1856 „Scheele“. 7. 5. 1811 se v č. 34 žení Jan Šol(c), sedlák (130-17 snímek 9) – patrně příbuzný. Pravděpodobně Šolcová, ale neověřeno křtem. Rozina Ventrová: otec † Josef „Klep…(?)“ z Malé Ledhuje č. 3 (1819, 1821, 1856). Její křest 7/1795–7/1796 v 130-17 (snímky 29–30) nenalezen – mohla se narodit jinde nebo jindy. Matka Františka Ventra: při křtu 4. 10. 1794 „Anna Klim(e)xiana(?)“. Kandidátní sňatek 11. 6. 1793: Wenceslaus Winter, textor, č. 26, 33 let × Rosina „Klimschiana(?)“, 31 let (130-17 snímek 5, výřez vypisy/130-17/z130-17-s05-1793-06-11-snatek-vaclav-winter-rosina-kandidat.jpg). Stejné příjmení (Klimšová?), ale jiné křestní jméno – nerozhodnuto. 3. 2. 1824 se v Ledhujích žení jiný Jan Hrubý (syn Šebestiána) s Kateřinou, dcerou Jana Šolce(?) z č. 34 (130-18 snímek 5, výřez vypisy/130-18/z130-18-s05-1824-02-03-snatek-jan-hruby-katerina-kandidat.jpg) – není náš předek, ale potvrzuje vazbu Hrubí × č. 34. Další krok: křest Jana Hrubého st. cca 1789 a Anny cca 1793 v 130-17 (snímky ~24–28), křest Václava Wintra cca 1760 (starší matrika Police). Křest Anny (č. 34, otec Josef) v rozmezí 2/1792–2/1793 v 130-17 (snímky 26–27) nenalezen; 15. 3. 1792 je pokřtěna Anna Josepha, dcera Josefa „Rahička(?)“, chalupníka – číslo domu i příjmení nesedí, nezařazeno.",
+      "related_ids": [
+        "anna-hruba-st",
+        "rozina-ventrova",
+        "frantisek-ventr",
+        "vaclav-ventr-ledhuje",
+        "jan-hruby-st"
+      ],
+      "sources": [
+        {
+          "label": "ARON 130-17 snímek 5",
+          "signatura": "130-17",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/8558b085-893d-4cad-8d5d-c2326e394a0c/dao/8558b085-893d-4cad-8d5d-c2326e394a0c/file/fe452e2e-ee2d-4aa3-bf07-b497d74fc87c"
+        },
+        {
+          "label": "ARON 130-18 snímek 5",
+          "signatura": "130-18",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/edb33e21-d6d1-483b-9ed6-a6fa3eab9560"
         }
       ]
     }

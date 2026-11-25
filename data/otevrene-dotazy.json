@@ -765,7 +765,7 @@
       "id": "q-klimes-snatek",
       "title": "Sňatek Jana Klimeše a Anny Špačkové – VYŘEŠENO (19. 11. 1844); zbývá původ Jana a rodné příjmení Kateřiny",
       "summary": "Sňatek nalezen: Vysoká Srbská 19. 11. 1844 (53-53 snímek 25). Otevřené zůstává narození Jana (*cca 1820, Zlíčko/panství Police?) a rodné příjmení jeho matky Kateřiny (1857 „Růžička/Ritschka“, 1844 „Pilasch(?)“).",
-      "details": "Negativní: Hronov O 1834–1870 (53-53) a Machov město O 8. 1836–11. 1862 (96-16, snímky 20–41 čteny jen v přehledu jmen ženichů, Jan Klimeš nenalezen; čtení není úplné). Zbývá: Police nad Metují — index oddaných 130-47 (oddíl K, snímky 32–36: hlavně německé vsi, zatím neprojitý řádek po řádku), Velké Petrovice a Žďár nad Metují. Kolo G2: Anna Špačková *18. 1. 1823 VS č. 29 (53-19 snímek 69) – sňatek tedy asi 1843–1857. O VS 53-53 snímky 20–24 (1840–1845) v náhledu nečitelné, nedočteno. Kolo I (25. 11. 2026): sňatek nalezen v 53-53 snímek 25 (fol. 23) při plném rozlišení – Johann Klimesch, tkadlec, 24 let, syn Franze Klimesche, tkadlece a podruha ze Zlíčka č. 31 (panství Police), a Kateřiny „Pilasch(?)“ z VS č. 27; nevěsta Anna, 21 let, dcera † Franze Špačka, podruha z VS č. 29, a Doroty roz. Faltové ze Slatiny č. 39. Výřez vypisy/53-53/z53-53-s25-1844-11-19-snatek-jan-klimes-anna-spackova.jpg. Další krok: narození Jana cca 1820 – Zlíčko patřilo k panství Police, ale do fary Hronov/VS; zlíčský index 1816–1834 negativní, zkusit Police 130-44 (index N 1785–1833).",
+      "details": "Negativní: Hronov O 1834–1870 (53-53) a Machov město O 8. 1836–11. 1862 (96-16, snímky 20–41 čteny jen v přehledu jmen ženichů, Jan Klimeš nenalezen; čtení není úplné). Zbývá: Police nad Metují — index oddaných 130-47 (oddíl K, snímky 32–36: hlavně německé vsi, zatím neprojitý řádek po řádku), Velké Petrovice a Žďár nad Metují. Kolo G2: Anna Špačková *18. 1. 1823 VS č. 29 (53-19 snímek 69) – sňatek tedy asi 1843–1857. O VS 53-53 snímky 20–24 (1840–1845) v náhledu nečitelné, nedočteno. Kolo I (25. 11. 2026): sňatek nalezen v 53-53 snímek 25 (fol. 23) při plném rozlišení – Johann Klimesch, tkadlec, 24 let, syn Franze Klimesche, tkadlece a podruha ze Zlíčka č. 31 (panství Police), a Kateřiny „Pilasch(?)“ z VS č. 27; nevěsta Anna, 21 let, dcera † Franze Špačka, podruha z VS č. 29, a Doroty roz. Faltové ze Slatiny č. 39. Výřez vypisy/53-53/z53-53-s25-1844-11-19-snatek-jan-klimes-anna-spackova.jpg. Další krok: narození Jana cca 1820 – Zlíčko patřilo k panství Police, ale do fary Hronov/VS; zlíčský index 1816–1834 negativní, zkusit Police 130-44 (index N 1785–1833). Kolo J (25. 11. 2026): rejstřík Police 130-44, snímek 36 (písmeno K, narození), levý sloupec: „Klimesch Johann, 1820, 11.(?) dubna, pag. 39“ – obec ve sloupci vlevo nečitelná (okraj). Kandidát na Jana Klimeše (* cca 1820); ve stejném sloupci i „Klimesch Franziska 30. 6. 1818“. Výřez vypisy/130-44/z130-44-s36-1820-index-johann-klimesch-kandidat.jpg. Další krok: najít knihu N, na kterou rejstřík odkazuje (pag. 39), pro Zlíčko 1820, a ověřit rodiče František × Kateřina.",
       "related_ids": [
         "jan-klimes-vymenkar",
         "anna-spackova",
@@ -777,6 +777,11 @@
           "label": "ARON",
           "signatura": "96-16",
           "detail": "snímky 20–41, bez nálezu"
+        },
+        {
+          "label": "ARON 130-44 snímek 36",
+          "signatura": "130-44",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/abd89fc7-6a72-41a5-8a89-fa7355bf4574/dao/abd89fc7-6a72-41a5-8a89-fa7355bf4574/file/e8ef4e9c-12ad-47da-a551-41b3d2c08303"
         }
       ]
     },
@@ -822,6 +827,31 @@
           "signatura": "12-2",
           "detail": "snímek 26, pag. 42",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcc7ad-6f37-4659-8328-2e58bd1d4a00/dao/10bcc7ad-6f37-4659-8328-2e58bd1d4a00/file/34df6c5e-5ccd-4543-a1c6-a9b06d764204"
+        }
+      ]
+    },
+    {
+      "id": "q-hruby-ventr-predci",
+      "title": "Předci Hrubých a Ventrů v Ledhujích – nejisté body",
+      "summary": "Sňatky 1813 (Hrubý × Anna) a 1819 (Winter × Rosina) i křty 1794, 1821 a 1822 jsou jisté. Nejisté zůstávají příjmení dívčí (Šolc?, Klep…?) a matka Františka Ventra.",
+      "details": "Anna Hrubá: otec Josef, sedlák Ledhuje č. 34 – čtení 1813 „Ssolz“, 1822 „Schulz/Šulc“, 1856 „Scheele“. 7. 5. 1811 se v č. 34 žení Jan Šol(c), sedlák (130-17 snímek 9) – patrně příbuzný. Pravděpodobně Šolcová, ale neověřeno křtem. Rozina Ventrová: otec † Josef „Klep…(?)“ z Malé Ledhuje č. 3 (1819, 1821, 1856). Její křest 7/1795–7/1796 v 130-17 (snímky 29–30) nenalezen – mohla se narodit jinde nebo jindy. Matka Františka Ventra: při křtu 4. 10. 1794 „Anna Klim(e)xiana(?)“. Kandidátní sňatek 11. 6. 1793: Wenceslaus Winter, textor, č. 26, 33 let × Rosina „Klimschiana(?)“, 31 let (130-17 snímek 5, výřez vypisy/130-17/z130-17-s05-1793-06-11-snatek-vaclav-winter-rosina-kandidat.jpg). Stejné příjmení (Klimšová?), ale jiné křestní jméno – nerozhodnuto. 3. 2. 1824 se v Ledhujích žení jiný Jan Hrubý (syn Šebestiána) s Kateřinou, dcerou Jana Šolce(?) z č. 34 (130-18 snímek 5, výřez vypisy/130-18/z130-18-s05-1824-02-03-snatek-jan-hruby-katerina-kandidat.jpg) – není náš předek, ale potvrzuje vazbu Hrubí × č. 34. Další krok: křest Jana Hrubého st. cca 1789 a Anny cca 1793 v 130-17 (snímky ~24–28), křest Václava Wintra cca 1760 (starší matrika Police). Křest Anny (č. 34, otec Josef) v rozmezí 2/1792–2/1793 v 130-17 (snímky 26–27) nenalezen; 15. 3. 1792 je pokřtěna Anna Josepha, dcera Josefa „Rahička(?)“, chalupníka – číslo domu i příjmení nesedí, nezařazeno.",
+      "related_ids": [
+        "anna-hruba-st",
+        "rozina-ventrova",
+        "frantisek-ventr",
+        "vaclav-ventr-ledhuje",
+        "jan-hruby-st"
+      ],
+      "sources": [
+        {
+          "label": "ARON 130-17 snímek 5",
+          "signatura": "130-17",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/8558b085-893d-4cad-8d5d-c2326e394a0c/dao/8558b085-893d-4cad-8d5d-c2326e394a0c/file/fe452e2e-ee2d-4aa3-bf07-b497d74fc87c"
+        },
+        {
+          "label": "ARON 130-18 snímek 5",
+          "signatura": "130-18",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/edb33e21-d6d1-483b-9ed6-a6fa3eab9560"
         }
       ]
     }

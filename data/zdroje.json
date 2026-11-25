@@ -475,6 +475,27 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 12-2 (poř.č. 453), 5.1784-1834",
    "popis": "římskokatolická matrika NAROZENÝCH, Slatina nad Úpou",
    "url": "https://aron.vychodoceskearchivy.cz/apu/10bcc7ad-6f37-4659-8328-2e58bd1d4a00"
+  },
+  "130-18": {
+   "apu": "3534fa9d-4ca4-4670-bc91-1cd2f0c079e2",
+   "dao": "3534fa9d-4ca4-4670-bc91-1cd2f0c079e2",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 130-18 (poř.č. 8736), 1814-1841",
+   "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, Ledhuje\nN do 11.1841, O 11.1814-10.1841, Z do 9.1841",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2"
+  },
+  "130-17": {
+   "apu": "8558b085-893d-4cad-8d5d-c2326e394a0c",
+   "dao": "8558b085-893d-4cad-8d5d-c2326e394a0c",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 130-17 (poř.č. 8735), 1785-1813",
+   "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, Ledhuje\nN do 11.1813, O do 9.1813",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8558b085-893d-4cad-8d5d-c2326e394a0c"
+  },
+  "130-44": {
+   "apu": "abd89fc7-6a72-41a5-8a89-fa7355bf4574",
+   "dao": "abd89fc7-6a72-41a5-8a89-fa7355bf4574",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 130-44 (poř.č. 8791), 1785-1833",
+   "popis": "římskokatolický index NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, farnost (Bukovice, Česká Metuje, Dědov, Hlavňov, Hony, Malá Ledhuje, Maršov nad Metují, Pěkov, Petrovice, Police nad Metují, Radešov, Slavný Suchý Důl, Velká Ledhuje, Žďár nad Metují)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/abd89fc7-6a72-41a5-8a89-fa7355bf4574"
   }
  },
  "aliasy": {
@@ -658,6 +679,69 @@
    "velky": "img/zdroje/13-9353_s077_velky.jpg",
    "vyrez_soubor": "syrovy-josef-1916-spread.jpg"
   },
+  "130-17|10": {
+   "signatura": "130-17",
+   "snimek": 10,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8558b085-893d-4cad-8d5d-c2326e394a0c/dao/8558b085-893d-4cad-8d5d-c2326e394a0c/file/aff8325b-6bea-49ef-b2e0-2f61a5e705d3",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-17_s010.jpg",
+   "velky": "img/zdroje/130-17_s010_velky.jpg",
+   "vyrez_soubor": "z130-17-s10-1813-02-15-snatek-jan-hruby-anna.jpg"
+  },
+  "130-17|28": {
+   "signatura": "130-17",
+   "snimek": 28,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8558b085-893d-4cad-8d5d-c2326e394a0c/dao/8558b085-893d-4cad-8d5d-c2326e394a0c/file/15b854e6-0c2e-492c-9983-8ce0a87bc5a9",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-17_s028.jpg",
+   "velky": "img/zdroje/130-17_s028_velky.jpg",
+   "vyrez_soubor": "z130-17-s28-1794-10-04-frantisek-vaclav-winter.jpg"
+  },
+  "130-17|5": {
+   "signatura": "130-17",
+   "snimek": 5,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8558b085-893d-4cad-8d5d-c2326e394a0c/dao/8558b085-893d-4cad-8d5d-c2326e394a0c/file/fe452e2e-ee2d-4aa3-bf07-b497d74fc87c",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-17_s005.jpg",
+   "velky": "img/zdroje/130-17_s005_velky.jpg",
+   "vyrez_soubor": "z130-17-s05-1793-06-11-snatek-vaclav-winter-rosina-kandidat.jpg"
+  },
+  "130-18|23": {
+   "signatura": "130-18",
+   "snimek": 23,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/b9fc0783-c268-4c1f-ae7b-0318cb64e61b",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-18_s023.jpg",
+   "velky": "img/zdroje/130-18_s023_velky.jpg",
+   "vyrez_soubor": "z130-18-s23-1821-01-27-frantiska-wentrova.jpg"
+  },
+  "130-18|25": {
+   "signatura": "130-18",
+   "snimek": 25,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/7f16c876-9b8e-4b53-b882-e04cb72543cf",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-18_s025.jpg",
+   "velky": "img/zdroje/130-18_s025_velky.jpg",
+   "vyrez_soubor": "z130-18-s25-1822-02-10-jan-vaclav-hruby.jpg"
+  },
+  "130-18|4": {
+   "signatura": "130-18",
+   "snimek": 4,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/63eb6c37-cbf6-4cda-90a3-797d993ea70c",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-18_s004.jpg",
+   "velky": "img/zdroje/130-18_s004_velky.jpg",
+   "vyrez_soubor": "z130-18-s04-1819-07-07-snatek-franz-winter-rosina.jpg"
+  },
+  "130-18|5": {
+   "signatura": "130-18",
+   "snimek": 5,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/edb33e21-d6d1-483b-9ed6-a6fa3eab9560",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-18_s005.jpg",
+   "velky": "img/zdroje/130-18_s005_velky.jpg",
+   "vyrez_soubor": "z130-18-s05-1824-02-03-snatek-jan-hruby-katerina-kandidat.jpg"
+  },
   "130-4326|15": {
    "signatura": "130-4326",
    "snimek": 15,
@@ -666,6 +750,15 @@
    "nahled": "img/zdroje/130-4326_s015.jpg",
    "velky": "img/zdroje/130-4326_s015_velky.jpg",
    "vyrez_soubor": "jirman-jan-frantiska-1851-row.jpg"
+  },
+  "130-44|36": {
+   "signatura": "130-44",
+   "snimek": 36,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/abd89fc7-6a72-41a5-8a89-fa7355bf4574/dao/abd89fc7-6a72-41a5-8a89-fa7355bf4574/file/e8ef4e9c-12ad-47da-a551-41b3d2c08303",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-44_s036.jpg",
+   "velky": "img/zdroje/130-44_s036_velky.jpg",
+   "vyrez_soubor": "z130-44-s36-1820-index-johann-klimesch-kandidat.jpg"
   },
   "130-45|26": {
    "signatura": "130-45",
