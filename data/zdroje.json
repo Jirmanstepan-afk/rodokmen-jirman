@@ -1296,6 +1296,15 @@
    "nahled": "img/zdroje/14-5_s198.jpg",
    "velky": "img/zdroje/14-5_s198_velky.jpg"
   },
+  "141-1|30": {
+   "signatura": "141-1",
+   "snimek": 30,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/2601ece9-a0af-4023-901c-ca324cd94414/dao/2601ece9-a0af-4023-901c-ca324cd94414/file/2806a371-4aff-4844-a408-c87d97a4661f",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-1_s030.jpg",
+   "velky": "img/zdroje/141-1_s030_velky.jpg",
+   "vyrez_soubor": "z141-1-s30-pag54-1793-05-15-joseph-rosenberger-c36-otec-joseph-matka-barbara-drusin.jpg"
+  },
   "141-1|51": {
    "signatura": "141-1",
    "snimek": 51,
@@ -1489,6 +1498,15 @@
    "nahled": "img/zdroje/141-4251_s076.jpg",
    "velky": "img/zdroje/141-4251_s076_velky.jpg",
    "vyrez_soubor": "z141-4251-s76-index-n-lit-r-1766-1769-joseph-rosenberg-1767-01-11.jpg"
+  },
+  "141-4251|77": {
+   "signatura": "141-4251",
+   "snimek": 77,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/b628c27c-a629-44c8-a008-e4d017646195/dao/b628c27c-a629-44c8-a008-e4d017646195/file/ab67aad3-60b5-49c6-b7ea-2df98b6db3b0",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-4251_s077.jpg",
+   "velky": "img/zdroje/141-4251_s077_velky.jpg",
+   "vyrez_soubor": "z141-4251-s77-index-n-lit-r-1792-1804-rosenberger-joseph-c36-c73-matka-barbara-drusin-pak-herzog.jpg"
   },
   "141-4252|35": {
    "signatura": "141-4252",
@@ -2131,7 +2149,7 @@
    "vyrez": "zápis",
    "nahled": "img/zdroje/174-12_s063.jpg",
    "velky": "img/zdroje/174-12_s063_velky.jpg",
-   "vyrez_soubor": "z174-12-s63-fol119-1787-08-13-johann-joseph-rosenberg-20-let-x-barbara-drusner-18-let.jpg"
+   "vyrez_soubor": "z174-12-s63-fol118-119-1786-1787-barbara-ringelin-vs-barbara-drusner-srovnani-pisma.jpg"
   },
   "174-12|65": {
    "signatura": "174-12",
@@ -2436,7 +2454,7 @@
    "vyrez": "zápis",
    "nahled": "img/zdroje/174-7_s085.jpg",
    "velky": "img/zdroje/174-7_s085_velky.jpg",
-   "vyrez_soubor": "s085L-1768-11-24-anna-barbara-ringel.jpg"
+   "vyrez_soubor": "z174-7-s85-fol164-1768-11-24-anna-barbara-dcera-antona-ringela-a-anny-drusin-viznov.jpg"
   },
   "174-8684|25": {
    "signatura": "174-8684",
@@ -2722,6 +2740,24 @@
    "velky": "img/zdroje/53-72_s024_velky.jpg",
    "vyrez_soubor": "z53-72-s24-pag42-1813-02-25-joseph-spacek-syn-ludmily-spackove-c29.jpg"
   },
+  "53-72|27": {
+   "signatura": "53-72",
+   "snimek": 27,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ec74965f-eea9-4f75-8c12-72957f62fd0e/dao/ec74965f-eea9-4f75-8c12-72957f62fd0e/file/d671d8c3-ae66-48ad-986f-92e1c4170467",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-72_s027.jpg",
+   "velky": "img/zdroje/53-72_s027_velky.jpg",
+   "vyrez_soubor": "z53-72-s27-pag48-1817-04-07-ludmila-spackova-dcera-josepha-spacka-podruha-c29.jpg"
+  },
+  "53-72|36": {
+   "signatura": "53-72",
+   "snimek": 36,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ec74965f-eea9-4f75-8c12-72957f62fd0e/dao/ec74965f-eea9-4f75-8c12-72957f62fd0e/file/fcecc8a5-775c-4103-8a4a-2dec71a5c29c",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-72_s036.jpg",
+   "velky": "img/zdroje/53-72_s036_velky.jpg",
+   "vyrez_soubor": "z53-72-s36-pag66-1828-03-06-ludmila-dcera-josepha-spacka-c65.jpg"
+  },
   "53-72|45": {
    "signatura": "53-72",
    "snimek": 45,
@@ -2739,6 +2775,15 @@
    "nahled": "img/zdroje/53-7386_s012.jpg",
    "velky": "img/zdroje/53-7386_s012_velky.jpg",
    "vyrez_soubor": "klimes-frantisek-1878-spread.jpg"
+  },
+  "53-73|18": {
+   "signatura": "53-73",
+   "snimek": 18,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/97156f2f-6d36-4241-9f0b-799d82a7a4f0/dao/97156f2f-6d36-4241-9f0b-799d82a7a4f0/file/a71879a0-e00c-4293-bf08-b656e16514c2",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-73_s018.jpg",
+   "velky": "img/zdroje/53-73_s018_velky.jpg",
+   "vyrez_soubor": "z53-73-s18-pag29-1843-01-04-maria-dcera-josepha-spacka-c29.jpg"
   },
   "53-73|7": {
    "signatura": "53-73",
