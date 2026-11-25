@@ -453,6 +453,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 2104 (poř.č. 3896), 1725-1785",
    "popis": "římskokatolická matrika ODDANÝCH, farnost a filiální obvody (Běstovice, Bošín, Březenice, Darebnice, Dvořisko, Hemže, Hluboká, Hradiště, Chloumek, Choceň, Koldín, Nasavrky, Nová Ves, Ovčín, Plchovice, Plchůvky, Postolov, Prochody, Skořenice, Slatina, Smetana, Sruby, Sudličkova Lhota, Újezd u Chocně, Vrchovina, Zářecká Lhota) 1725-9.1784, oddíly dle lokalit (Bošín, Choceň, Darebnice, Dvořisko, Koldín, Korunka, Zářecká Lhota, Plchovice, Plchůvky, Skořenice, Slatina, Sruby) 10.1784-2.1785",
    "url": "https://aron.vychodoceskearchivy.cz/apu/f216e5ed-8619-44d6-9443-605455762eb2"
+  },
+  "53-19": {
+   "apu": "88b43e04-9d89-4107-8272-791d9389a7f3",
+   "dao": "88b43e04-9d89-4107-8272-791d9389a7f3",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 53-19 (poř.č. 3671), 1784-1825",
+   "popis": "římskokatolická matrika NAROZENÝCH, římskokatolický index NAROZENÝCH, Vysoká Srbská (5.1784-3.1825)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3"
   }
  },
  "aliasy": {
@@ -1678,6 +1685,24 @@
    "velky": "img/zdroje/3141_s151_velky.jpg",
    "vyrez_soubor": "syrovy-josef-1888-narozeni-chocen-3141-p151.jpg"
   },
+  "53-19|60": {
+   "signatura": "53-19",
+   "snimek": 60,
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-19_s060.jpg",
+   "velky": "img/zdroje/53-19_s060_velky.jpg",
+   "vyrez_soubor": "z53-19-s60-1818-10-07-josef-spacek.jpg",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/c1b47bb8-9948-44d4-a45f-3cd7a30856e7"
+  },
+  "53-19|69": {
+   "signatura": "53-19",
+   "snimek": 69,
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-19_s069.jpg",
+   "velky": "img/zdroje/53-19_s069_velky.jpg",
+   "vyrez_soubor": "z53-19-s69-1823-01-18-anna-spackova.jpg",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/aaeba355-4492-4eb5-b672-50da71f3b683"
+  },
   "53-20|179": {
    "signatura": "53-20",
    "snimek": 179,
@@ -1685,7 +1710,7 @@
    "vyrez": "zápis",
    "nahled": "img/zdroje/53-20_s179.jpg",
    "velky": "img/zdroje/53-20_s179_velky.jpg",
-   "vyrez_soubor": "klimes-frantisek-sr-1857-spread-sm.jpg"
+   "vyrez_soubor": "z53-20-s179-1857-matka-anna-spackova-falta.jpg"
   },
   "53-4158|25": {
    "signatura": "53-4158",
@@ -1973,7 +1998,7 @@
    "vyrez": "zápis",
    "nahled": "img/zdroje/96-7319_s012.jpg",
    "velky": "img/zdroje/96-7319_s012_velky.jpg",
-   "vyrez_soubor": "maroulova-frantiska-1878-narozeni-left.jpg"
+   "vyrez_soubor": "z96-7319-s12-1878-08-30-frantiska-maroulova-rodice-hruba.jpg"
   },
   "96-7319|133": {
    "signatura": "96-7319",

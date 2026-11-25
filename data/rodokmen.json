@@ -961,7 +961,13 @@
       "id": "anna-spackova",
       "name": "Anna Klimešová",
       "maiden": "Špačková",
-      "birth": null,
+      "birth": {
+        "display": "18. 1. 1823",
+        "precision": "exact",
+        "date": "1823-01-18",
+        "place": "Vysoká Srbská č. 29",
+        "note": "Index 53-19 Lit. S: „Spatschek Anna 1823 pag. 131“."
+      },
       "baptism": null,
       "death": null,
       "occupation": null,
@@ -973,6 +979,12 @@
       "living": false,
       "sources": [
         {
+          "label": "ARON, narození 18. 1. 1823",
+          "signatura": "53-19",
+          "detail": "snímek 69, pravá strana, pag. 131, poslední zápis, Vysoká Srbská č. 29",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/aaeba355-4492-4eb5-b672-50da71f3b683"
+        },
+        {
           "label": "ARON",
           "signatura": "53-20"
         },
@@ -981,7 +993,9 @@
           "signatura": "53-9391"
         }
       ],
-      "notes": [],
+      "notes": [
+        "Narození 18. 1. 1823 ve Vysoké Srbské č. 29 (53-19 snímek 69, pag. 131): otec Franz Spatschek, podruh (Inmann); matka Dorothea, dcera Georga Falty, podruha ze Slatiny č. 39, panství Náchod. Rodiče, domy 29 a 39 se shodují se zápisem 1857 (53-20 snímek 179). Starší Anna Spatschek *5. 10. 1818 (53-19 snímek 60, č. 7) je z jiné rodiny (otec Joseph)."
+      ],
       "interesting": []
     },
     {
@@ -1045,7 +1059,7 @@
         "precision": "range",
         "note": "V zápisu narození vnuka 1857 už nebožtík. V oddacím zápisu 1880 uveden jako podruh VS 29."
       },
-      "occupation": "Tesař, Vysoká Srbská č. 29 (1857); podruh, Vysoká Srbská č. 29 (1880).",
+      "occupation": "Podruh (Inmann), Vysoká Srbská č. 29 (1818, 1823); tesař, VS č. 29 (1857); podruh, VS č. 29 (1880).",
       "places": [
         "Vysoká Srbská č. 29"
       ],
@@ -1060,34 +1074,67 @@
         {
           "label": "ARON",
           "signatura": "53-9391"
+        },
+        {
+          "label": "ARON, narození 18. 1. 1823",
+          "signatura": "53-19",
+          "detail": "snímek 69, pravá strana, pag. 131, poslední zápis, Vysoká Srbská č. 29",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/aaeba355-4492-4eb5-b672-50da71f3b683"
+        },
+        {
+          "label": "ARON, narození syna Josefa 7. 10. 1818",
+          "signatura": "53-19",
+          "detail": "snímek 60, pravá strana, pag. 113, 2. zápis, Vysoká Srbská č. 29",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/c1b47bb8-9948-44d4-a45f-3cd7a30856e7"
+        },
+        {
+          "label": "ARON, narození vnuka 14. 8. 1857",
+          "signatura": "53-20",
+          "detail": "snímek 179, folio 196, Vysoká Srbská",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/5f9cac13-2769-47d2-83a8-0b14917d5073/dao/5f9cac13-2769-47d2-83a8-0b14917d5073/file/2b04eea4-59da-4dc4-a779-b1dd48f3ab18"
         }
       ],
-      "notes": [],
+      "notes": [
+        "Ve Vysoké Srbské č. 29 už 1818 (narození syna Josefa 7. 10. 1818, 53-19 snímek 60) a 1823 (dcera Anna, snímek 69). V indexu narozených VS jsou Spatschkovi i 1827 (Ludmila), 1828 (Melichar) a 1832 (Marie) (53-20 snímek 227) – bez kontroly těl nepřiřazeno."
+      ],
       "interesting": []
     },
     {
       "id": "dorota-justova",
       "name": "Dorota Špačková",
-      "maiden": "Justová / Jůstová",
+      "maiden": "Faltová",
       "birth": null,
       "baptism": null,
       "death": null,
       "occupation": null,
       "places": [
-        "Martinec / Martínce č. 39, okres Náchod"
+        "Slatina č. 39, panství / okres Náchod (otec)"
       ],
       "branch": "spacek",
       "certainty": "potvrzeno",
       "living": false,
       "sources": [
         {
-          "label": "ARON",
+          "label": "ARON, narození vnuka 14. 8. 1857",
           "signatura": "53-20",
-          "detail": "snímek 179"
+          "detail": "snímek 179, folio 196, Vysoká Srbská",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/5f9cac13-2769-47d2-83a8-0b14917d5073/dao/5f9cac13-2769-47d2-83a8-0b14917d5073/file/2b04eea4-59da-4dc4-a779-b1dd48f3ab18"
+        },
+        {
+          "label": "ARON, narození 18. 1. 1823",
+          "signatura": "53-19",
+          "detail": "snímek 69, pravá strana, pag. 131, poslední zápis, Vysoká Srbská č. 29",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/aaeba355-4492-4eb5-b672-50da71f3b683"
+        },
+        {
+          "label": "ARON, narození syna Josefa 7. 10. 1818",
+          "signatura": "53-19",
+          "detail": "snímek 60, pravá strana, pag. 113, 2. zápis, Vysoká Srbská č. 29",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/c1b47bb8-9948-44d4-a45f-3cd7a30856e7"
         }
       ],
       "notes": [
-        "Čtení příjmení opatrné (Justová / Jůstová). Místo čtené jako Martinec / Martínce č. 39."
+        "Dcera Jiřího (Georg) Falty, podruha (Inmann) ve Slatině č. 39, panství Náchod – shodně ve třech zápisech: 1818 (53-19 snímek 60, „gebohrne Georg Falta Inmann aus Slatina N. 39, Nachoder Herrschaft“), 1823 (53-19 snímek 69, „Tochter des Georg Falta Inmann aus Slatina N. 39“) a 1857 (53-20 snímek 179, „gebornen Falta aus Slatina No 39, im Bezirke Nachod“). Dřívější čtení „Justová, Martinec / Martínce č. 39“ bylo chybné. Která Slatina (nejspíš Slatina nad Úpou), zatím neověřeno."
       ],
       "interesting": []
     },
@@ -1237,202 +1284,15 @@
       "interesting": []
     },
     {
-      "id": "josef-maroul-otec-1878",
-      "name": "Josef Maroul",
-      "maiden": null,
-      "birth": null,
-      "baptism": null,
-      "death": null,
-      "occupation": "Chalupník v Nízké Srbské č. 54 (1878).",
-      "places": [
-        "Nízká Srbská č. 54"
-      ],
-      "branch": "maroul",
-      "certainty": "potvrzeno",
-      "living": false,
-      "sources": [
-        {
-          "label": "ARON, narození dcery Františky",
-          "signatura": "96-7319",
-          "detail": "snímek 12"
-        }
-      ],
-      "notes": [
-        "Manželský syn Jana Maroula, chalupníka v NS č. 54, a Anny, dcery Jana Másla, výměnkáře v NS č. 39.",
-        "Neslučovat s Josefem Maroulem *1. 10. 1850 z NS č. 71, který se 27. 10. 1874 oženil s Františkou Hrubou. Nevěsta tohoto páru je Skuhrová, dům 54 — ne Hrubá a ne dům 71. Nové manželství se nevymýšlí.",
-        "Vlastní zápis narození a sňatek se Skuhrovou v prohlédnutých online oddacích knihách Machova (96-4228, 1865–1878) a Police/Ledhují (130-7420 / 130-7417) nenalezen."
-      ],
-      "interesting": [
-        "Není totožný s Josefem *1. 10. 1850 (NS 71 × Hrubá, 1874)."
-      ]
-    },
-    {
-      "id": "frantiska-skuhrova",
-      "name": "Františka Maroulová",
-      "maiden": "Skuhrová",
-      "birth": null,
-      "baptism": null,
-      "death": null,
-      "occupation": null,
-      "places": [
-        "Ledhuje č. 53 (rodiče; Malá nebo Velká Ledhuje, dosud nerozlišeno)"
-      ],
-      "branch": "maroul",
-      "certainty": "potvrzeno",
-      "living": false,
-      "sources": [
-        {
-          "label": "ARON",
-          "signatura": "96-7319",
-          "detail": "snímek 12"
-        }
-      ],
-      "notes": [
-        "Dcera Jana Skuhry (čtení příjmení ověřit), podruha v Ledhuji č. 53, a Františky, dcery Františka Ventra, výměnkáře v témže místě.",
-        "Neslučovat s Františkou Hrubou z Ledhují č. 52 (sňatek 27. 10. 1874)."
-      ],
-      "interesting": []
-    },
-    {
-      "id": "jan-maroul-ns54",
-      "name": "Jan Maroul",
-      "maiden": null,
-      "birth": null,
-      "baptism": null,
-      "death": null,
-      "occupation": "Chalupník, Nízká Srbská č. 54 (1878).",
-      "places": [
-        "Nízká Srbská č. 54"
-      ],
-      "branch": "maroul",
-      "certainty": "potvrzeno",
-      "living": false,
-      "sources": [
-        {
-          "label": "ARON",
-          "signatura": "96-7319",
-          "detail": "snímek 12"
-        }
-      ],
-      "notes": [
-        "Otec Josefa, otce Františky *1878. Velmi pravděpodobně týž muž jako Jan Maroul, podruh/chalupník z NS č. 71 (1846, 1850, 1874) — viz přerušované ztotožnění. Dům 54 a dům 71 se neslučují potichu."
-      ],
-      "interesting": []
-    },
-    {
-      "id": "anna-maslo-ns54",
-      "name": "Anna Maroulová",
-      "maiden": "Máslo",
-      "birth": null,
-      "baptism": null,
-      "death": null,
-      "occupation": null,
-      "places": [
-        "Nízká Srbská č. 39 (otec výměnkář, 1878)"
-      ],
-      "branch": "maslo",
-      "certainty": "potvrzeno",
-      "living": false,
-      "sources": [
-        {
-          "label": "ARON",
-          "signatura": "96-7319",
-          "detail": "snímek 12"
-        }
-      ],
-      "notes": [
-        "Dcera Jana Másla, výměnkáře v NS č. 39. Velmi pravděpodobně táž žena jako Anna, manželka Jana Maroula z NS č. 71 — viz ztotožnění. Čísla domu otce 30 (1846) a 39 (1850, 1878) se neslučují potichu."
-      ],
-      "interesting": []
-    },
-    {
-      "id": "jan-maslo-ns39",
-      "name": "Jan Máslo",
-      "maiden": null,
-      "birth": null,
-      "baptism": null,
-      "death": null,
-      "occupation": "Výměnkář, Nízká Srbská č. 39 (1878).",
-      "places": [
-        "Nízká Srbská č. 39"
-      ],
-      "branch": "maslo",
-      "certainty": "potvrzeno",
-      "living": false,
-      "sources": [
-        {
-          "label": "ARON",
-          "signatura": "96-7319",
-          "detail": "snímek 12"
-        }
-      ],
-      "notes": [
-        "V matrice „Maslo“. Velmi pravděpodobně týž muž jako výměnkář z narození vnuků 1846 (č. 30) a 1850 (č. 39) — čísla 30 a 39 se neslučují potichu."
-      ],
-      "interesting": []
-    },
-    {
-      "id": "jan-skuhra",
-      "name": "Jan Skuhra",
-      "maiden": null,
-      "birth": null,
-      "baptism": null,
-      "death": null,
-      "occupation": "Podruh, Ledhuje č. 53.",
-      "places": [
-        "Ledhuje č. 53"
-      ],
-      "branch": "maroul",
-      "certainty": "potvrzeno",
-      "living": false,
-      "sources": [
-        {
-          "label": "ARON",
-          "signatura": "96-7319",
-          "detail": "snímek 12"
-        }
-      ],
-      "notes": [
-        "Čtení příjmení (Skuhra / Skuhrová u dcery) ověřit. Která z Ledhují (Malá / Velká), dosud nerozlišeno."
-      ],
-      "interesting": []
-    },
-    {
-      "id": "frantiska-ventrova",
-      "name": "Františka Skuhrová",
-      "maiden": "Vantrova",
-      "birth": null,
-      "baptism": null,
-      "death": null,
-      "occupation": null,
-      "places": [
-        "Ledhuje (otec výměnkář v témže místě)"
-      ],
-      "branch": "maroul",
-      "certainty": "potvrzeno",
-      "living": false,
-      "sources": [
-        {
-          "label": "ARON",
-          "signatura": "96-7319",
-          "detail": "snímek 12"
-        }
-      ],
-      "notes": [
-        "Dcera Františka Ventra, výměnkáře v Ledhuji. Přesný tvar příjmení po otci: Ventr."
-      ],
-      "interesting": []
-    },
-    {
       "id": "frantisek-ventr",
       "name": "František Ventr",
       "maiden": null,
       "birth": null,
       "baptism": null,
       "death": null,
-      "occupation": "Výměnkář, Ledhuje.",
+      "occupation": "Chalupník a výměnkář (Ausgedinger), Ledhuje č. 75 (1874).",
       "places": [
-        "Ledhuje"
+        "Ledhuje č. 75 (1874)"
       ],
       "branch": "maroul",
       "certainty": "potvrzeno",
@@ -1442,9 +1302,16 @@
           "label": "ARON",
           "signatura": "96-7319",
           "detail": "snímek 12"
+        },
+        {
+          "label": "ARON, sňatek 27. 10. 1874",
+          "signatura": "130-7417",
+          "detail": "snímek 43, folio 40"
         }
       ],
-      "notes": [],
+      "notes": [
+        "V zápisu 1878 „František Wentr, výměnek v Ledhuji“, v zápisu 1874 „Franz W?ntr, Chalupner und Ausgedinger aus Ledhuj No 75“."
+      ],
       "interesting": []
     },
     {
@@ -4891,6 +4758,523 @@
         "Otec ženicha Františka Kumpošta při sňatku 7. 11. 1779 („Franciscus Francisci filius“, 2104, snímek 243)."
       ],
       "interesting": []
+    },
+    {
+      "id": "anna-maslo-ns71",
+      "name": "Anna Maroulová",
+      "maiden": "Máslo",
+      "birth": {
+        "display": "kolem 1825",
+        "precision": "circa",
+        "date": "1825",
+        "note": "Stáří 19 let při sňatku 23. 1. 1844 (96-4228, snímek 6)."
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": "Výměnkářka, Nízká Srbská č. 39 (1874).",
+      "places": [
+        "Nízká Srbská č. 71 (manžel)",
+        "Nízká Srbská č. 39 (1874, výměnkářka)",
+        "Nízká Srbská č. 39 (otec výměnkář, 1878)"
+      ],
+      "branch": "maslo",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-15",
+          "detail": "snímky 32 a 47"
+        },
+        {
+          "label": "ARON",
+          "signatura": "130-7417",
+          "detail": "snímek 43"
+        },
+        {
+          "label": "ARON, sňatek 23. 1. 1844",
+          "signatura": "96-4228",
+          "detail": "snímek 6, folio 3",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
+        },
+        {
+          "label": "ARON, narození 30. 8. 1878",
+          "signatura": "96-7319",
+          "detail": "snímek 12, folio 14, 1. zápis, Nízká Srbská č. 54",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/335ade0a-eccc-4c8a-a917-becf12f1d6fe/dao/335ade0a-eccc-4c8a-a917-becf12f1d6fe/file/4047fbf3-6a2b-47f1-b8c0-f44f8b8c15aa"
+        }
+      ],
+      "notes": [
+        "Dcera †Jana Másla, výměnkáře z NS č. 30 (1846) / č. 39 (1850), a Veroniky roz. Němečkové z NS č. 34.",
+        "Dřívější opatrné čtení babičky „Šimůnková / Šimánková“ se po zápisu 1850 opravuje na Veroniku Němečkovou.",
+        "Sňatek 23. 1. 1844: Anna Maslo, ehel. Tochter des verstorbenen Johann Maslo, Ausgedinger aus Niedersrbská N. 39, und dessen Eheweib Veronika geborenen Němeček aus Niedersrbská N. 34. Katolička, svobodná, stáří 19. Otec byl k tomuto datu již mrtev."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "antonin-simec",
+      "name": "Antonín Šimec",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Rolník, Bělic č. 23 (1878).",
+      "places": [
+        "Bělic č. 23"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-4228",
+          "detail": "snímek 75"
+        }
+      ],
+      "notes": [],
+      "interesting": []
+    },
+    {
+      "id": "frantisek-maroul-1846",
+      "name": "František Maroul",
+      "maiden": null,
+      "birth": {
+        "display": "3. 7. 1846",
+        "precision": "exact",
+        "date": "1846-07-03",
+        "place": "Nízká Srbská č. 71"
+      },
+      "baptism": {
+        "display": "4. 7. 1846",
+        "precision": "exact",
+        "date": "1846-07-04"
+      },
+      "death": null,
+      "occupation": null,
+      "places": [],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-15",
+          "detail": "snímek 32"
+        }
+      ],
+      "notes": [
+        "Syn Jana Maroula a Anny Máslo z NS č. 71. Pokud je Jan × Anna týž pár jako u Františky *1878, je František pravděpodobný starší bratr Josefa, otce Františky — to zůstává ve výhradě ztotožnění domu."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "frantiska-hruba-c1855",
+      "name": "Františka Maroulová",
+      "maiden": "Hrubá",
+      "birth": {
+        "display": "cca 1855",
+        "precision": "circa",
+        "note": "19 let k 27. 10. 1874."
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Ledhuje č. 52"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, index",
+          "signatura": "130-7420",
+          "detail": "snímek 44"
+        },
+        {
+          "label": "ARON, tělo",
+          "signatura": "130-7417",
+          "detail": "snímek 43"
+        },
+        {
+          "label": "ARON, index narození Police (negativní k *cca 1855 / č. 52)",
+          "signatura": "130-45",
+          "detail": "snímky 26–29, písmeno H; u snímku 27 Hruby Franziska 9. 3. 1864, č. 57 — neslučovat",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/3a441afd-7c3e-4532-8098-48b8d7bd11d5"
+        },
+        {
+          "label": "ARON, narození 30. 8. 1878",
+          "signatura": "96-7319",
+          "detail": "snímek 12, folio 14, 1. zápis, Nízká Srbská č. 54",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/335ade0a-eccc-4c8a-a917-becf12f1d6fe/dao/335ade0a-eccc-4c8a-a917-becf12f1d6fe/file/4047fbf3-6a2b-47f1-b8c0-f44f8b8c15aa"
+        }
+      ],
+      "notes": [
+        "U nevěsty je zmíněna dispens / souhlas pro nezletilost (plnoletost 24 let).",
+        "V indexu narozených fary Police 130-45 (1834–1864, včetně Velké i Malé Ledhuje) pod Hrubý/Hruby není Františka / Francisca *cca 1855 v Ledhuji č. 52. Nejbližší jmenný zásah: Hruby Franziska, 9. 3. 1864, č. 57, otec Johann, Häusler, matka Maria (příjmení čtené opatrně), 130-45 snímek 27 — dům 57 ≠ 52 a rok 1864 nesedí na 19 let k 27. 10. 1874; neslučovat. Tělo 130-4323 v tomto kroku nebylo staženo.",
+        "Dcera Jana Hrubého, podruha (Inwohner) v Ledhuji č. 52, a Františky roz. Wentrové (Ventrové), dcery Františka Wentra, chalupníka a výměnkáře v Ledhuji č. 75 (sňatek 1874, 130-7417 snímek 43; narození dcery 1878, 96-7319 snímek 12). Dřívější čtení matky „roz. Špinka“ bylo chybné – v zápisu 1874 je „Franziska geborene Franz W(i/e)ntr“.",
+        "Narození dcery Františky 30. 8. 1878 (96-7319, snímek 12) při novém čtení ve vysokém rozlišení: otec Josef Maroul, „manželský syn Jana Maroula chalupníka v Nízkosrbské č. 71 a jeho manželky Anny, dcery Jana Másla, výměnkáře v Nízkosrbské č. 39“; matka Františka, „manželská dcera Jana Hrubého, podruha v Ledhuji č. 52, a manželky jeho Františky, dcery Františka Wentra, výměnka v Ledhuji“. Dřívější čtení „Skuhra“, „č. 53“ a „č. 54“ (u Jana Maroula) byla chybná – č. 54 je jen dům, kde se dítě narodilo. Obě dvojice rodičů se přesně shodují se sňatkem 27. 10. 1874 (130-7417 snímek 43), proto jde o tentýž pár."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "jan-hruby",
+      "name": "Jan Hrubý",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Podruh (Inwohner), Ledhuje č. 52 (1874, 1878).",
+      "places": [
+        "Ledhuje č. 52"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "130-7417",
+          "detail": "snímek 43"
+        },
+        {
+          "label": "ARON, narození 30. 8. 1878",
+          "signatura": "96-7319",
+          "detail": "snímek 12, folio 14, 1. zápis, Nízká Srbská č. 54",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/335ade0a-eccc-4c8a-a917-becf12f1d6fe/dao/335ade0a-eccc-4c8a-a917-becf12f1d6fe/file/4047fbf3-6a2b-47f1-b8c0-f44f8b8c15aa"
+        }
+      ],
+      "notes": [
+        "Dřívější čtení „Jan Skuhra, Ledhuje č. 53“ z narození vnučky 1878 bylo chybné; v zápisu stojí „Jana Hrubého podruha v Ledhuji č. 52“ (96-7319, snímek 12)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "jan-maroul-ns71",
+      "name": "Jan Maroul",
+      "maiden": null,
+      "birth": {
+        "display": "kolem 1820",
+        "precision": "circa",
+        "date": "1820",
+        "note": "Stáří 24 let při sňatku 23. 1. 1844 (96-4228, snímek 6)."
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": "Podruh, Nízká Srbská č. 71 (1846, 1850); chalupník, Nízká Srbská č. 71 (1874).",
+      "places": [
+        "Nízká Srbská č. 71",
+        "Nízká Srbská č. 54"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-15",
+          "detail": "snímky 32 a 47"
+        },
+        {
+          "label": "ARON",
+          "signatura": "130-7417",
+          "detail": "snímek 43"
+        },
+        {
+          "label": "ARON, sňatek 23. 1. 1844",
+          "signatura": "96-4228",
+          "detail": "snímek 6, folio 3",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
+        },
+        {
+          "label": "ARON, narození 30. 8. 1878",
+          "signatura": "96-7319",
+          "detail": "snímek 12, folio 14, 1. zápis, Nízká Srbská č. 54",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/335ade0a-eccc-4c8a-a917-becf12f1d6fe/dao/335ade0a-eccc-4c8a-a917-becf12f1d6fe/file/4047fbf3-6a2b-47f1-b8c0-f44f8b8c15aa"
+        }
+      ],
+      "notes": [
+        "Syn Tobiáše Maroula, chalupníka z NS č. 71, a Marie roz. Šimcové z Bělic č. 23.",
+        "Sňatek 23. 1. 1844 v Nízké Srbské č. 71: Johann Maraul, ehel. Sohn des Tobias Maraul, Chalupner aus Niedersrbská N. 71, und dessen Eheweib Maria geborenen Šimel (pravděpodobně Šimec) aus Groß-Jenzí N. 22 (čtení místa opatrné). Katolík, svobodný, stáří 24. Ohlášky 7., 14. a 21. ledna, politický souhlas 5. ledna; oddával (čtení) Joseph Kramm. Svědci: Joseph (příjmení čtení nejisté), sedlák z NS č. 39, a Johann Maraul, sedlák z NS č. 3 (svědek se jako uzel nepřidává).",
+        "V narození vnučky Františky 30. 8. 1878 (96-7319 snímek 12) uveden jako chalupník v NS č. 71 – dřívější čtení „č. 54“ bylo chybné."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "jan-maslo-ns71-otec",
+      "name": "Jan Máslo",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 23. 1. 1844",
+        "precision": "before",
+        "note": "V oddacím zápisu dcery Anny (96-4228, snímek 6) je uveden jako verstorben / již zemřelý, výměnkář (Ausgedinger) v NS č. 39."
+      },
+      "occupation": "Výměnkář, Nízká Srbská č. 30 (1846); výměnkář, Nízká Srbská č. 39 (1850).",
+      "places": [
+        "Nízká Srbská č. 30 (1846)",
+        "Nízká Srbská č. 39 (1850)",
+        "Nízká Srbská č. 39 (1844, † výměnkář)",
+        "Nízká Srbská č. 39"
+      ],
+      "branch": "maslo",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-15",
+          "detail": "snímky 32 a 47"
+        },
+        {
+          "label": "ARON, sňatek 23. 1. 1844",
+          "signatura": "96-4228",
+          "detail": "snímek 6, folio 3",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
+        },
+        {
+          "label": "ARON, narození 30. 8. 1878",
+          "signatura": "96-7319",
+          "detail": "snímek 12, folio 14, 1. zápis, Nízká Srbská č. 54",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/335ade0a-eccc-4c8a-a917-becf12f1d6fe/dao/335ade0a-eccc-4c8a-a917-becf12f1d6fe/file/4047fbf3-6a2b-47f1-b8c0-f44f8b8c15aa"
+        }
+      ],
+      "notes": [
+        "K 23. 1. 1844 již zemřelý výměnkář v NS č. 39. Čísla domu 30 (1846) a 39 (1844, 1850) se neslučují potichu.",
+        "V narození pravnučky 1878 (96-7319 snímek 12) výměnkář v NS č. 39."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "josef-maroul-1850",
+      "name": "Josef Maroul",
+      "maiden": null,
+      "birth": {
+        "display": "1. 10. 1850",
+        "precision": "exact",
+        "date": "1850-10-01",
+        "place": "Nízká Srbská č. 71"
+      },
+      "baptism": {
+        "display": "2. 10. 1850",
+        "precision": "exact",
+        "date": "1850-10-02",
+        "note": "Kněz Placida Středa, ord. S. B."
+      },
+      "death": null,
+      "occupation": "Syn podruha, NS č. 71 (1850); chalupník, NS č. 71 (1874); chalupník v Nízké Srbské, dítě narozeno v č. 54 (1878).",
+      "places": [
+        "Nízká Srbská č. 71",
+        "Nízká Srbská č. 54 (1878)"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození",
+          "signatura": "96-15",
+          "detail": "snímek 47"
+        },
+        {
+          "label": "ARON, sňatek 27. 10. 1874",
+          "signatura": "130-7417",
+          "detail": "snímek 43, folio 40; index 130-7420 snímek 44, sv. VIII str. 39",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/569f993d-39f6-4aae-b562-28b26c65c1a6"
+        },
+        {
+          "label": "ARON, narození 30. 8. 1878",
+          "signatura": "96-7319",
+          "detail": "snímek 12, folio 14, 1. zápis, Nízká Srbská č. 54",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/335ade0a-eccc-4c8a-a917-becf12f1d6fe/dao/335ade0a-eccc-4c8a-a917-becf12f1d6fe/file/4047fbf3-6a2b-47f1-b8c0-f44f8b8c15aa"
+        }
+      ],
+      "notes": [
+        "Syn Jana Maroula, podruha, a Anny, dcery †Jana Másla a Veroniky roz. Němečkové.",
+        "27. 10. 1874 se oženil s Františkou Hrubou z Ledhují č. 52. Věk 24 let a rodiče potvrzují totožnost s tímto Josefem.",
+        "Poznámka u narození: přistoupil k Církvi československé 30. 4. 1920, čj. 12137. Přípisky 17. 10. 1944 č. 445 a 28. 6. 1945 č. 281 se nečtou jako potvrzené úmrtí.",
+        "Narození dcery Františky 30. 8. 1878 (96-7319, snímek 12) při novém čtení ve vysokém rozlišení: otec Josef Maroul, „manželský syn Jana Maroula chalupníka v Nízkosrbské č. 71 a jeho manželky Anny, dcery Jana Másla, výměnkáře v Nízkosrbské č. 39“; matka Františka, „manželská dcera Jana Hrubého, podruha v Ledhuji č. 52, a manželky jeho Františky, dcery Františka Wentra, výměnka v Ledhuji“. Dřívější čtení „Skuhra“, „č. 53“ a „č. 54“ (u Jana Maroula) byla chybná – č. 54 je jen dům, kde se dítě narodilo. Obě dvojice rodičů se přesně shodují se sňatkem 27. 10. 1874 (130-7417 snímek 43), proto jde o tentýž pár."
+      ],
+      "interesting": [
+        "Přestup k CČS 30. 4. 1920, čj. 12137."
+      ]
+    },
+    {
+      "id": "marie-simcova",
+      "name": "Marie Maroulová",
+      "maiden": "Šimcová",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Bělic č. 23",
+        "Groß-Jenzí č. 22 (1844, čtení místa opatrné)"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-15",
+          "detail": "snímek 32"
+        },
+        {
+          "label": "ARON",
+          "signatura": "96-4228",
+          "detail": "snímek 75"
+        },
+        {
+          "label": "ARON, sňatek 23. 1. 1844",
+          "signatura": "96-4228",
+          "detail": "snímek 6, folio 3",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
+        }
+      ],
+      "notes": [
+        "Dcera Antonína Šimce, rolníka v Bělici č. 23.",
+        "V oddacím zápisu syna Jana 23. 1. 1844: „Maria geborenen Šimel aus Groß-Jenzí N. 22“ (příjmení pravděpodobně totéž jako Šimec; místo Groß-Jenzí č. 22 se neslučuje s Bělicí č. 23 z pozdějších zápisů)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "matka-hruba-spinka",
+      "name": "Františka Hrubá",
+      "maiden": "Wentrová (Ventrová)",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Ledhuje"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "130-7417",
+          "detail": "snímek 43"
+        },
+        {
+          "label": "ARON, narození 30. 8. 1878",
+          "signatura": "96-7319",
+          "detail": "snímek 12, folio 14, 1. zápis, Nízká Srbská č. 54",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/335ade0a-eccc-4c8a-a917-becf12f1d6fe/dao/335ade0a-eccc-4c8a-a917-becf12f1d6fe/file/4047fbf3-6a2b-47f1-b8c0-f44f8b8c15aa"
+        }
+      ],
+      "notes": [
+        "Manželka Jana Hrubého, dcera Františka Wentra (Ventra), výměnkáře v Ledhuji (96-7319, snímek 12: „Františky, dcery Františka Wentra, výměnka v Ledhuji“; 130-7417 snímek 43: „Franziska geborene Franz W?ntr, Chalupner und Ausgedinger aus Ledhuj No 75“). Dřívější čtení „roz. Špinka“ a „Skuhrová“ byla chybná."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "tobias-maroul",
+      "name": "Tobiáš Maroul",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Chalupník, Nízká Srbská č. 71 (1846); chalupník, Nízká Srbská č. 77 (1878, zápis syna Václava).",
+      "places": [
+        "Nízká Srbská č. 71 (1846)",
+        "Nízká Srbská č. 77 (1878)"
+      ],
+      "branch": "maroul",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-15",
+          "detail": "snímek 32"
+        },
+        {
+          "label": "ARON",
+          "signatura": "96-4228",
+          "detail": "snímek 75"
+        },
+        {
+          "label": "ARON, sňatek 23. 1. 1844",
+          "signatura": "96-4228",
+          "detail": "snímek 6, folio 3",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
+        }
+      ],
+      "notes": [
+        "Manželka Marie, dcera Antonína Šimce, rolníka v Bělici č. 23 — jméno a Bělic 23 se v zápisech 1846 a 1878 shodují. Čísla domu 71 a 77 se neslučují potichu."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "veronika-nemeckova",
+      "name": "Veronika Máslo",
+      "maiden": "Němečková",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Nízká Srbská č. 34"
+      ],
+      "branch": "maslo",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-15",
+          "detail": "snímky 32 a 47"
+        },
+        {
+          "label": "ARON, sňatek 23. 1. 1844",
+          "signatura": "96-4228",
+          "detail": "snímek 6, folio 3",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
+        }
+      ],
+      "notes": [
+        "Jasně v zápisu vnuka Josefa *1850; stejně čitelné i v zápisu 1846 po srovnání. Dřívější opatrné čtení „Šimůnková / Šimánková“ je opraveno.",
+        "V oddacím zápisu dcery Anny 23. 1. 1844 znovu „Veronika geborenen Němeček aus Niedersrbská N. 34“."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "jiri-falta-slatina",
+      "name": "Jiří (Georg) Falta",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Podruh (Inmann), Slatina č. 39, panství Náchod (1818, 1823).",
+      "places": [
+        "Slatina č. 39 (panství Náchod)"
+      ],
+      "branch": "spacek",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození syna Josefa 7. 10. 1818",
+          "signatura": "53-19",
+          "detail": "snímek 60, pravá strana, pag. 113, 2. zápis, Vysoká Srbská č. 29",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/c1b47bb8-9948-44d4-a45f-3cd7a30856e7"
+        },
+        {
+          "label": "ARON, narození 18. 1. 1823",
+          "signatura": "53-19",
+          "detail": "snímek 69, pravá strana, pag. 131, poslední zápis, Vysoká Srbská č. 29",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/aaeba355-4492-4eb5-b672-50da71f3b683"
+        }
+      ],
+      "notes": [
+        "Otec Doroty Špačkové; uveden v narozeních vnoučat 7. 10. 1818 a 18. 1. 1823 ve Vysoké Srbské (53-19 snímky 60 a 69)."
+      ],
+      "interesting": []
     }
   ],
   "unions": [
@@ -5090,6 +5474,18 @@
         {
           "label": "ARON",
           "signatura": "53-20"
+        },
+        {
+          "label": "ARON, narození syna Josefa 7. 10. 1818",
+          "signatura": "53-19",
+          "detail": "snímek 60, pravá strana, pag. 113, 2. zápis, Vysoká Srbská č. 29",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/c1b47bb8-9948-44d4-a45f-3cd7a30856e7"
+        },
+        {
+          "label": "ARON, narození 18. 1. 1823",
+          "signatura": "53-19",
+          "detail": "snímek 69, pravá strana, pag. 131, poslední zápis, Vysoká Srbská č. 29",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/aaeba355-4492-4eb5-b672-50da71f3b683"
         }
       ]
     },
@@ -5198,89 +5594,12 @@
       ]
     },
     {
-      "id": "u-josef54-skuhrova",
-      "partners": [
-        "josef-maroul-otec-1878",
-        "frantiska-skuhrova"
-      ],
-      "children": [
-        "frantiska-maroulova-1878"
-      ],
-      "certainty": "potvrzeno",
-      "sources": [
-        {
-          "label": "ARON",
-          "signatura": "96-7319",
-          "detail": "snímek 12"
-        }
-      ],
-      "notes": [
-        "Sňatek tohoto páru v prohlédnutých online oddacích knihách nenalezen. Neslučovat s párem Josef *1850 × Hrubá 1874."
-      ]
-    },
-    {
-      "id": "u-jan54-anna54",
-      "partners": [
-        "jan-maroul-ns54",
-        "anna-maslo-ns54"
-      ],
-      "children": [
-        "josef-maroul-otec-1878"
-      ],
-      "certainty": "potvrzeno",
-      "sources": [
-        {
-          "label": "ARON",
-          "signatura": "96-7319",
-          "detail": "snímek 12"
-        }
-      ]
-    },
-    {
-      "id": "u-jan-maslo39",
-      "partners": [
-        "jan-maslo-ns39"
-      ],
-      "children": [
-        "anna-maslo-ns54"
-      ],
-      "certainty": "potvrzeno",
-      "sources": [
-        {
-          "label": "ARON",
-          "signatura": "96-7319",
-          "detail": "snímek 12"
-        }
-      ],
-      "notes": [
-        "Manželka Jana Másla v zápisu 1878 není jmenována. Ve větvi NS 71 je manželka Veronika roz. Němečková — viz ztotožnění."
-      ]
-    },
-    {
-      "id": "u-skuhra-ventrova",
-      "partners": [
-        "jan-skuhra",
-        "frantiska-ventrova"
-      ],
-      "children": [
-        "frantiska-skuhrova"
-      ],
-      "certainty": "potvrzeno",
-      "sources": [
-        {
-          "label": "ARON",
-          "signatura": "96-7319",
-          "detail": "snímek 12"
-        }
-      ]
-    },
-    {
       "id": "u-ventr",
       "partners": [
         "frantisek-ventr"
       ],
       "children": [
-        "frantiska-ventrova"
+        "matka-hruba-spinka"
       ],
       "certainty": "potvrzeno",
       "sources": [
@@ -6639,6 +6958,197 @@
           "apu": "https://aron.vychodoceskearchivy.cz/apu/f216e5ed-8619-44d6-9443-605455762eb2/dao/f216e5ed-8619-44d6-9443-605455762eb2/file/1d79f6a3-6b73-4847-a181-bae21d3a1415"
         }
       ]
+    },
+    {
+      "id": "u-jan71-anna71",
+      "partners": [
+        "jan-maroul-ns71",
+        "anna-maslo-ns71"
+      ],
+      "children": [
+        "frantisek-maroul-1846",
+        "josef-maroul-1850"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-15",
+          "detail": "snímky 32 a 47"
+        },
+        {
+          "label": "ARON, sňatek 23. 1. 1844",
+          "signatura": "96-4228",
+          "detail": "snímek 6, folio 3",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
+        },
+        {
+          "label": "ARON, narození 30. 8. 1878",
+          "signatura": "96-7319",
+          "detail": "snímek 12, folio 14, 1. zápis, Nízká Srbská č. 54",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/335ade0a-eccc-4c8a-a917-becf12f1d6fe/dao/335ade0a-eccc-4c8a-a917-becf12f1d6fe/file/4047fbf3-6a2b-47f1-b8c0-f44f8b8c15aa"
+        }
+      ],
+      "date": {
+        "display": "23. 1. 1844",
+        "precision": "exact",
+        "date": "1844-01-23",
+        "place": "Nízká Srbská č. 71"
+      },
+      "notes": [
+        "Tělo zápisu 96-4228 snímek 6, folio 3: ženich Johann Maraul (24) z č. 71, nevěsta Anna Maslo (19), dcera †Jana Másla, výměnkáře č. 39, a Veroniky roz. Němečkové z č. 34. Tento sňatek patří větvi č. 71, ne linii č. 54."
+      ]
+    },
+    {
+      "id": "u-josef1850-hruba",
+      "partners": [
+        "josef-maroul-1850",
+        "frantiska-hruba-c1855"
+      ],
+      "married": {
+        "display": "27. 10. 1874",
+        "date": "1874-10-27",
+        "place": "Ledhuje (fara Police nad Metují)",
+        "note": "Ohlášky 4., 11. a 18. října 1874, mimo jiné v Machově. Index: sv. VIII str. 39; tělo folio 40."
+      },
+      "children": [
+        "frantiska-maroulova-1878"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "130-7420",
+          "detail": "snímek 44"
+        },
+        {
+          "label": "ARON",
+          "signatura": "130-7417",
+          "detail": "snímek 43"
+        },
+        {
+          "label": "ARON, narození 30. 8. 1878",
+          "signatura": "96-7319",
+          "detail": "snímek 12, folio 14, 1. zápis, Nízká Srbská č. 54",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/335ade0a-eccc-4c8a-a917-becf12f1d6fe/dao/335ade0a-eccc-4c8a-a917-becf12f1d6fe/file/4047fbf3-6a2b-47f1-b8c0-f44f8b8c15aa"
+        }
+      ]
+    },
+    {
+      "id": "u-tobias-simcova",
+      "partners": [
+        "tobias-maroul",
+        "marie-simcova"
+      ],
+      "children": [
+        "jan-maroul-ns71"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-15",
+          "detail": "snímek 32"
+        },
+        {
+          "label": "ARON",
+          "signatura": "96-4228",
+          "detail": "snímek 75"
+        }
+      ],
+      "notes": [
+        "Jan linie 71 je potvrzený syn Tobiáše × Marie z NS č. 71 (96-15, 1846).",
+        "Václav *1878, syn Tobiáše z NS č. 77 a Marie z Bělic 23, není v tomto svazku; sourozenectví a slučování domů 71 a 77 je otevřený dotaz."
+      ]
+    },
+    {
+      "id": "u-antonin-simec",
+      "partners": [
+        "antonin-simec"
+      ],
+      "children": [
+        "marie-simcova"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-4228",
+          "detail": "snímek 75"
+        }
+      ]
+    },
+    {
+      "id": "u-jan-maslo-veronika",
+      "partners": [
+        "jan-maslo-ns71-otec",
+        "veronika-nemeckova"
+      ],
+      "children": [
+        "anna-maslo-ns71"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "96-15",
+          "detail": "snímky 32 a 47"
+        },
+        {
+          "label": "ARON, narození 30. 8. 1878",
+          "signatura": "96-7319",
+          "detail": "snímek 12, folio 14, 1. zápis, Nízká Srbská č. 54",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/335ade0a-eccc-4c8a-a917-becf12f1d6fe/dao/335ade0a-eccc-4c8a-a917-becf12f1d6fe/file/4047fbf3-6a2b-47f1-b8c0-f44f8b8c15aa"
+        }
+      ]
+    },
+    {
+      "id": "u-hruby-spinka",
+      "partners": [
+        "jan-hruby",
+        "matka-hruba-spinka"
+      ],
+      "children": [
+        "frantiska-hruba-c1855"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON",
+          "signatura": "130-7417",
+          "detail": "snímek 43"
+        },
+        {
+          "label": "ARON, narození 30. 8. 1878",
+          "signatura": "96-7319",
+          "detail": "snímek 12, folio 14, 1. zápis, Nízká Srbská č. 54",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/335ade0a-eccc-4c8a-a917-becf12f1d6fe/dao/335ade0a-eccc-4c8a-a917-becf12f1d6fe/file/4047fbf3-6a2b-47f1-b8c0-f44f8b8c15aa"
+        }
+      ]
+    },
+    {
+      "id": "u-jiri-falta",
+      "partners": [
+        "jiri-falta-slatina"
+      ],
+      "children": [
+        "dorota-justova"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, narození syna Josefa 7. 10. 1818",
+          "signatura": "53-19",
+          "detail": "snímek 60, pravá strana, pag. 113, 2. zápis, Vysoká Srbská č. 29",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/c1b47bb8-9948-44d4-a45f-3cd7a30856e7"
+        },
+        {
+          "label": "ARON, narození 18. 1. 1823",
+          "signatura": "53-19",
+          "detail": "snímek 69, pravá strana, pag. 131, poslední zápis, Vysoká Srbská č. 29",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/aaeba355-4492-4eb5-b672-50da71f3b683"
+        }
+      ]
     }
   ],
   "identifications": [],
@@ -6719,43 +7229,17 @@
       ]
     },
     {
-      "id": "q-maroul-hruba-skuhrova",
-      "title": "Maroul: sňatek s Hrubou a sňatek se Skuhrovou",
-      "summary": "Josef Maroul *1850, syn Jana z č. 71, se v roce 1874 žení s Františkou Hrubou (dům 71). Rodiče Františky Maroulové *1878 jsou Josef Maroul, chalupník č. 54, a Františka roz. Skuhrová.",
-      "details": "Tělo sňatku 1874 potvrzuje nevěstu Hrubou, ne Skuhrovou, a dům 71, ne 54. Tyto páry a domy se neslučují. Sňatek Josefa z č. 54 se Skuhrovou v dosud čtených knihách chybí. Do mapy patří oba doložené páry odděleně.",
-      "related_ids": [
-        "josef-maroul-1850",
-        "frantiska-hruba-c1855",
-        "josef-maroul-otec-1878",
-        "frantiska-skuhrova",
-        "jan-maroul-ns71",
-        "jan-maroul-ns54"
-      ],
-      "sources": [
-        {
-          "label": "ARON",
-          "signatura": "130-7417",
-          "detail": "snímek 43, folio 40, 1874"
-        },
-        {
-          "label": "ARON",
-          "signatura": "96-7319",
-          "detail": "snímek 12, 1878"
-        }
-      ]
-    },
-    {
       "id": "q-jan-maroul-71-54",
-      "title": "Jan Maroul č. 71 a Jan Maroul č. 54",
-      "summary": "Dva zápisy Jana Maroula (domy 71 a 54) se v mapě vedou odděleně.",
-      "details": "Oddací zápis 23. 1. 1844 (96-4228, snímek 6, folio 3) potvrzuje sňatek Jana Maroula z č. 71 s Annou Máslo, dcerou †Jana Másla, výměnkáře v NS č. 39, a Veroniky roz. Němečkové z NS č. 34. Obě Anny v mapě jsou v různých zápisech dcery Jana Másla z Nízké Srbské; dům otce 30 (1846) vs. 39 (1844, 1850, 1878) zůstává nesloučený, stejně jako dům manžela 71 vs. 54. Tento sňatek se zapisuje jen k větvi č. 71. Dříve pravděpodobné ztotožnění v mapě (čárkovaná vazba) je zrušeno; uzly zůstávají zvlášť.",
+      "title": "Jan Maroul č. 71 – vyřešeno; zbývá dům Jana Másla (30 vs. 39)",
+      "summary": "Kolo G2 (25. 11. 2026): narození Františky 1878 uvádí Jana Maroula v č. 71 (ne 54) – obě linie jsou sloučeny.",
+      "details": "Oddací zápis 23. 1. 1844 (96-4228, snímek 6, folio 3) potvrzuje sňatek Jana Maroula z č. 71 s Annou Máslo, dcerou †Jana Másla, výměnkáře v NS č. 39, a Veroniky roz. Němečkové z NS č. 34. Obě Anny v mapě jsou v různých zápisech dcery Jana Másla z Nízké Srbské; dům otce 30 (1846) vs. 39 (1844, 1850, 1878) zůstává nesloučený, stejně jako dům manžela 71 vs. 54. Tento sňatek se zapisuje jen k větvi č. 71. Dříve pravděpodobné ztotožnění v mapě (čárkovaná vazba) je zrušeno; uzly zůstávají zvlášť. Kolo G2: nové čtení 96-7319 snímek 12 ukazuje u Jana Maroula „č. 71“; „č. 54“ je dům narození dítěte. Matka Františka je dcera Jana Hrubého z Ledhuje č. 52 (ne Skuhry č. 53). Rodiče se shodují se sňatkem 27. 10. 1874, linie č. 71 je proto připojena do hlavního grafu. Otevřené zůstává jen číslo domu Jana Másla (30 v r. 1846 vs. 39).",
       "related_ids": [
         "jan-maroul-ns71",
-        "jan-maroul-ns54",
+        "jan-maroul-ns71",
         "anna-maslo-ns71",
-        "anna-maslo-ns54",
+        "anna-maslo-ns71",
         "jan-maslo-ns71-otec",
-        "jan-maslo-ns39"
+        "jan-maslo-ns71-otec"
       ],
       "sources": [
         {
@@ -7294,7 +7778,7 @@
       "id": "q-pross-dorner-puvod",
       "title": "Proß a Dörner — původ Josefa Proße a rodná příjmení Agathe a Marie",
       "summary": "Sňatek Anton Proß × Franziska Dörner 15. 6. 1858 (144-3943, snímek 77) a narození Antona 13. 7. 1866 (144-3938, snímek 62) jmenují Josefa Proße, zahradníka v č. 6, a Agathe z Malého Uhřínova; Johanna Dörnera ze Sedloňova č. 32 a Marii z Janova č. 26.",
-      "details": "Franziska Dörner *8. 6. 1838 Sedloňov č. 39 doložena (144-3937 snímek 8); její děd Karl Dörner (Sedloňov 47) × Susanna Herzig přidáni; sňatek 20. 11. 1792 (144-5 snímek 96) a narození Johanna 12. 9. 1800 (144-2 snímek 110) doloženy. Rozpor: zápis 1838 jmenuje otcem Susanny Antona Herziga, chalupníka č. 114, ale zápisy 1792 a 1800 shodně † Adama Herziga; Anton Herzig, syn po † Adamovi, se ženil 29. 1. 1793 (144-5 snímek 96, dům 48) — byl to tedy její bratr. V mapě je otcem Adam. Křest Karla Dörnera: index 144-6 snímek 7 má Karly 5. 4. 1763 (s. 1), 1766 (s. 28, 144-2 snímek 19 — syn Johanna a Anny Dorothey, ne Christopha) a 11/1768 (s. 40, 144-2 snímek 25 — syn Johanna Christopha Dörnera a Susanny). Kandidát 1768 nesedí přesně s věkem 25 v roce 1792; nezapsáno. Karl 5. 4. 1763 (144-2 snímek 5) je syn Melchiora Dörnera a Dorothey — vyloučen (výřez vypisy/_sheets/144-2/z144-2-s5-1763-04-karl-dorner-syn-melchiora.jpg). Jediným kandidátem se jménem otce Christoph tak zůstává Karl 11/1768. Nejisté: rodné příjmení Marie Dörnerové — 1838 dcera Franze „Czwentaczka(?)“, chalupníka v Janově č. 26, a Marie, dcery Antona „Ulrich(?)“ z Janova č. 28 (panství Opočno); 1858 čteno „Czerlaika / Lwotaika“. Proß: Anton st. *kolem 1828 v sedloňovském indexu 1825–1838 (144-3, snímek 90, písmeno P) NENÍ — narodil se jinde. Obec otce Josefa (č. 6) čtena „Bauratal / Banatal(?)“, matka Agathe roz. „Beik / Leik(?)“ z „Klein-Aurim“ č. 2, Bezirksamt čten „Aicheneu / Auscherau(?)“ — neidentifikováno; možná Malá Úpa (Klein-Aupa) a okres Maršov, ověřit. Další krok: Janov u Sedloňova — fara Sedloňov? (Janov patří k Opočnu, fara pravděpodobně Bystré / Olešnice); identifikace obce Proßů. Kolo 25. 11. 2026 (noc): sňatek Johann Dörner × Maria v Bystrém NENÍ — Janov 1811–1826 (14-4 snímky 55–56, 69–73) bez Dörnera; index sňatků 14-5 písmeno D 1829–1849 (snímek 198) bez Dörnera („Dinter Johann“ 1840 je jiná osoba). Svatba byla nejspíš ve farnosti ženicha (Sedloňov?) nebo jinde. Kolo 25. 11. 2026 (ráno): sňatek Johann Dörner × Maria NENÍ ani v sedloňovském indexu oddaných 144-7 (snímky 7 R–8 L, ženichové Dörner 1795–1880): Johannové 1827 × Theresia Feiner(?), 1830 × Theresia Walsch, 1836 × Theresia Fabel, 5. 11. 1840 × Maria Dörner (tělo 144-3943 snímek 48: Johann, syn Josefa ze Sedloňova č. 50, 31 let × Maria z č. 69 — jiný pár). Svatba Johanna × Marie (Janov č. 26) byla tedy mimo Sedloňov i Bystré. Kolo C (25. 11. 2026): Index zemřelých Sedloňov 144-3946 (snímek 186, oddíl D, 1795–1863) uvádí mezi lety 1800–1838 jediného dospělého Karla Dörnera: str. 52, tj. snímek 31 — 1817, „Carl Dörner, Feldgärtner“, Sedloňov č. 71, 48 let (tj. narozen kolem 1768/69). Jinak je v indexu jen Carl, syn Johanna, 1802 (1 den). Věk 48 podporuje kandidátní křest z listopadu 1768 (144-2 snímek 25), ale dům č. 71 a povolání zahradník se liší od „Weber, č. 47“ (1800), takže zatím nejde o jistou shodu. Christoph Dörner zemřelý 16. 8. 1796 (č. 66) v indexu je jiná osoba, protože otec Karla byl už 1792 nebožtík. Kolo D (25. 11. 2026): Úmrtí Johanna Christopha Dörnera 13. 3. 1791 (Sedloňov č. 47, 79 let; 144-5 snímek 248) je zapsané do mapy. Jméno Johann Christoph a dům 47 dále podporují, že kandidátní křest Carolus z listopadu 1768 (otec Johann Christoph Dörner × Susanna) je náš Karl. Karl je proto silný kandidát; datum narození ale zatím nezapisuji, dokud nebude vyloučen jiný Carolus Dörner z let 1766–1768. Adam Herzig: v Sedloňově je úmrtí 8. 12. 1786, „Adam Herzig“, č. 91, 55 let (144-5 snímek 243), a 7. 8. 1788 Apollonia, vdova po † Adamu Herzigovi, č. 39, 68 let (snímek 246). Je to kandidát na otce Susanny, ale čísla domů (91/39) neodpovídají domům 47/48 a v obci žilo více Herzigů (např. Christoph Herzig). Proto zatím jen zde. Kolo E: Karl (křest 11/1768) a Susanna Herzig (křest 8. 2. 1767) jsou zapsáni do mapy. V dotazu zůstává kandidátní úmrtí Adama Herziga 1786 (vdova Apollonia ≠ matka Maria) a úmrtí Karla 1817 (č. 71).",
+      "details": "Franziska Dörner *8. 6. 1838 Sedloňov č. 39 doložena (144-3937 snímek 8); její děd Karl Dörner (Sedloňov 47) × Susanna Herzig přidáni; sňatek 20. 11. 1792 (144-5 snímek 96) a narození Johanna 12. 9. 1800 (144-2 snímek 110) doloženy. Rozpor: zápis 1838 jmenuje otcem Susanny Antona Herziga, chalupníka č. 114, ale zápisy 1792 a 1800 shodně † Adama Herziga; Anton Herzig, syn po † Adamovi, se ženil 29. 1. 1793 (144-5 snímek 96, dům 48) — byl to tedy její bratr. V mapě je otcem Adam. Křest Karla Dörnera: index 144-6 snímek 7 má Karly 5. 4. 1763 (s. 1), 1766 (s. 28, 144-2 snímek 19 — syn Johanna a Anny Dorothey, ne Christopha) a 11/1768 (s. 40, 144-2 snímek 25 — syn Johanna Christopha Dörnera a Susanny). Kandidát 1768 nesedí přesně s věkem 25 v roce 1792; nezapsáno. Karl 5. 4. 1763 (144-2 snímek 5) je syn Melchiora Dörnera a Dorothey — vyloučen (výřez vypisy/_sheets/144-2/z144-2-s5-1763-04-karl-dorner-syn-melchiora.jpg). Jediným kandidátem se jménem otce Christoph tak zůstává Karl 11/1768. Nejisté: rodné příjmení Marie Dörnerové — 1838 dcera Franze „Czwentaczka(?)“, chalupníka v Janově č. 26, a Marie, dcery Antona „Ulrich(?)“ z Janova č. 28 (panství Opočno); 1858 čteno „Czerlaika / Lwotaika“. Proß: Anton st. *kolem 1828 v sedloňovském indexu 1825–1838 (144-3, snímek 90, písmeno P) NENÍ — narodil se jinde. Obec otce Josefa (č. 6) čtena „Bauratal / Banatal(?)“, matka Agathe roz. „Beik / Leik(?)“ z „Klein-Aurim“ č. 2, Bezirksamt čten „Aicheneu / Auscherau(?)“ — neidentifikováno; možná Malá Úpa (Klein-Aupa) a okres Maršov, ověřit. Další krok: Janov u Sedloňova — fara Sedloňov? (Janov patří k Opočnu, fara pravděpodobně Bystré / Olešnice); identifikace obce Proßů. Kolo 25. 11. 2026 (noc): sňatek Johann Dörner × Maria v Bystrém NENÍ — Janov 1811–1826 (14-4 snímky 55–56, 69–73) bez Dörnera; index sňatků 14-5 písmeno D 1829–1849 (snímek 198) bez Dörnera („Dinter Johann“ 1840 je jiná osoba). Svatba byla nejspíš ve farnosti ženicha (Sedloňov?) nebo jinde. Kolo 25. 11. 2026 (ráno): sňatek Johann Dörner × Maria NENÍ ani v sedloňovském indexu oddaných 144-7 (snímky 7 R–8 L, ženichové Dörner 1795–1880): Johannové 1827 × Theresia Feiner(?), 1830 × Theresia Walsch, 1836 × Theresia Fabel, 5. 11. 1840 × Maria Dörner (tělo 144-3943 snímek 48: Johann, syn Josefa ze Sedloňova č. 50, 31 let × Maria z č. 69 — jiný pár). Svatba Johanna × Marie (Janov č. 26) byla tedy mimo Sedloňov i Bystré. Kolo C (25. 11. 2026): Index zemřelých Sedloňov 144-3946 (snímek 186, oddíl D, 1795–1863) uvádí mezi lety 1800–1838 jediného dospělého Karla Dörnera: str. 52, tj. snímek 31 — 1817, „Carl Dörner, Feldgärtner“, Sedloňov č. 71, 48 let (tj. narozen kolem 1768/69). Jinak je v indexu jen Carl, syn Johanna, 1802 (1 den). Věk 48 podporuje kandidátní křest z listopadu 1768 (144-2 snímek 25), ale dům č. 71 a povolání zahradník se liší od „Weber, č. 47“ (1800), takže zatím nejde o jistou shodu. Christoph Dörner zemřelý 16. 8. 1796 (č. 66) v indexu je jiná osoba, protože otec Karla byl už 1792 nebožtík. Kolo D (25. 11. 2026): Úmrtí Johanna Christopha Dörnera 13. 3. 1791 (Sedloňov č. 47, 79 let; 144-5 snímek 248) je zapsané do mapy. Jméno Johann Christoph a dům 47 dále podporují, že kandidátní křest Carolus z listopadu 1768 (otec Johann Christoph Dörner × Susanna) je náš Karl. Karl je proto silný kandidát; datum narození ale zatím nezapisuji, dokud nebude vyloučen jiný Carolus Dörner z let 1766–1768. Adam Herzig: v Sedloňově je úmrtí 8. 12. 1786, „Adam Herzig“, č. 91, 55 let (144-5 snímek 243), a 7. 8. 1788 Apollonia, vdova po † Adamu Herzigovi, č. 39, 68 let (snímek 246). Je to kandidát na otce Susanny, ale čísla domů (91/39) neodpovídají domům 47/48 a v obci žilo více Herzigů (např. Christoph Herzig). Proto zatím jen zde. Kolo E: Karl (křest 11/1768) a Susanna Herzig (křest 8. 2. 1767) jsou zapsáni do mapy. V dotazu zůstává kandidátní úmrtí Adama Herziga 1786 (vdova Apollonia ≠ matka Maria) a úmrtí Karla 1817 (č. 71). Kolo G2: Janov patří k faře Bystré. Oddací Janov 2/1827–1834 (14-5 snímky 70–71: 26. 2. 1827, 24. 11. 1828, 22. 9. 1831, 5. 11. 1833, 21. 8. 1834) – Dörner není; 21. 8. 1834 se z Janova č. 26 vdává Franziska, dcera Wenzela „Luzar(?)“ – jiná rodina. „Dinter Johann“ 1840 v indexu 14-5 je z Janova č. 4, ne č. 26. Sňatek Johann Dörner × Maria tedy v Bystrém 1811–1849 ani v Sedloňově není.",
       "related_ids": [
         "anton-pross-1828",
         "josef-pross",
@@ -7376,7 +7860,7 @@
       "id": "q-mader-knopp-walsch",
       "title": "Mader, Knopp, Walsch — rodná příjmení a další generace",
       "summary": "Linie Mader je doložena do Ignaze Madera st. × Margarethy Matzner (sňatek syna 10. 2. 1825, 144-3943 snímek 25; narození vnuka 13. 1. 1833, 144-3 snímek 29).",
-      "details": "Vyřešeno 25. 11. 2026: Ignaz Mader ml. *9. 11. 1799 Polom č. 58 (144-2 snímek 195); Johanna Walsch *29. 9. 1801 Sedloňov č. 70 (144-2 snímek 112); sňatek Ignaz Mader st. × Margaretha vdova Zeiner(?) roz. Matzner 4. 1. 1799 (144-3943 snímek 118). Stále nejisté: rodné příjmení Johanny Walschové st. (1801: dcera Adalberta „Zeug / Zautz“, matka Maria dcera Franze Littnera z Martína/Marzdorfu(?) v Kladsku; 1825: „Zeug“ — dvě shodná, ale nejistá čtení); obec Antona Madera (1799, snad Kounov / Kaunay); příjmení prvního manžela Margarethy (Zeiner?); rodné příjmení Klary (dříve čteno Anna) Knoppové z Olešnice č. 161. Další krok: sňatek Ignaz Walsch × Johanna (před 1795, 144-5 bez indexu); narození Ignaze Madera st. *kolem 1780 (podle obce otce); narození Franzisky Knopp *kolem 1837 (fara Olešnice v O. h.). Kolo 25. 11. 2026 (večer): sňatek Ignaz Walsch × Johanna NENÍ v sedloňovské oddací knize 9/1784–11/1794 (144-5, snímky 89–97, prošlo se po zápisech) — svatba byla buď před 9/1784, nebo jinde (nevěsta z Kladska?). Ignaz Mader *1776–1784 NENÍ v sedloňovském indexu narozených (144-6 snímek 24) — Ignaz Mader st. se narodil mimo Sedloňov; obec otce Antona (1799) čtena „D?auschy / Hauschy(?)“, nejisté. Kolo 25. 11. 2026 (noc): Walsch × Johanna NENÍ ani v 144-5 1774–9/1784 (snímky 78–88) — sedloňovská oddací kniha je tak negativní 1774–1794 a v indexu 144-7 od 1795; svatba nejspíš ve farnosti nevěsty (Kladsko?). V indexu narozených 144-6 snímek 35 je Ignatz Walsch *1778 (otec neuveden, nezapsáno). Obec Antona Madera ve sňatku 4. 1. 1799 (144-3943 snímek 118) přečtena znovu jako „aus Dlauhey“ = Dlouhé (něm. Dlauhey); fara neurčena (není v geo vazbách knih Bystré, Olešnice, Sedloňov, Deštné, Rokytnice, Dobruška, Kunvald, Liberk, Solnice; Dlouhá Ves u Rychnova je jiná obec). Výřez vypisy/_sheets/144-3943/z144-3943-s118-1799-01-04-ignaz-mader-aus-dlauhey.jpg. VYŘEŠENO 25. 11. 2026 (ráno): Dlauhey = Dlouhé, fara Nový Hrádek; Ignaz Mader st. *31. 7. 1780 Dlouhé č. 25, rodiče Anton Mader a Anna Rosina (117-2 snímek 68). Otevřené: rodné příjmení Anny Rosiny a sňatek Antona (v indexech oddaných Nový Hrádek 1721–1787 není). Kolo C (25. 11. 2026): V indexu narozených Nový Hrádek 1721–1771 (117-13, snímek 24) je jediný Antonius Madr: „Madr Antonius, Rzy, 130“. Zápis 117-1 snímek 137 (fol. 131) uvádí 6. 8. 1759 Antonína, syna Františka Madera a Doroty z Rzů. Totožnost s Antonem Maderem z Dlouhého č. 25 (otec Ignaze *1780) není prokázaná, proto jde jen o kandidáta. Sňatek Antona s Annou Rosinou v knihách Nového Hrádku 1721–1787 není; okolní fary zatím neprohledány. Kolo F (25. 11. 2026): Franziska Knopp se narodila 14. 7. 1837 v Olešnici č. 160 (119-2 snímek 111, index 119-8 snímek 35). Josefovi rodiče Anton Knopp a Anna Maria roz. Urban jsou zapsáni v mapě. Matka (správně Klara, ne Anna) je v zápisu dcerou Augustina, zahradníka v č. 161; jeho příjmení čtu jen opatrně jako „Rignatschka / Wignatschka(?)“ (dříve čteno Corsnika / Lantnika). Matka Klary je čtena „Anna geb. Thim(?) von Blaschen(?)“. Obojí zůstává nejisté. Další krok: tělo sňatku 1829 v 119-1 a narození Klary. Index oddaných 119-9 (snímek 16): Josef Knopp × Klara 25. 10. 1829 (pag. 96) a Anton Knopp × Anna Urban(ová) 6. 2. 1795. Těla obou zápisů jsou v 119-1 (Olešnice O 10/1784–11/1835), ještě nenalezená. V indexu je i dřívější sňatek Josefa Knoppa × Theresie Klar(ové) 27. 6. 1826 (pag. 86); zda jde o téhož muže (vdovce), není ověřeno. Kolo G (25. 11. 2026): Zápis sňatku 25. 10. 1829 nalezen (119-1 snímek 111): Joseph Knopp 24 let × Klara 20 let, dcera Augustina, zahradníka z Olešnice č. 161, a Anny roz. ?; příjmení otce nevěsty čtu „Nowatschka / Newatschka(?)“, jméno a původ matky „Thim(?) v. Slauhey(?)“ – obojí nejisté, proto nezapsáno. Klara *asi 1809 NENÍ pod písmenem N v indexu narozených 119-8 (snímek 43): jediná Clara je Netikin *12. 9. 1798 č. 208, otec Adam – nehodí se. Další krok: projít narození 119-1 snímky ~265–275 (10/1808–10/1809) a hledat č. 161 / otce Augustina. Sňatek Anton Knopp × Anna Urban v únoru 1795 nalezen (119-1 snímek 71); den v matrice čten spíš 9., v indexu 6. Josef Knopp *11. 9. 1805 Olešnice č. 160 (119-1 snímek 255). Narození 119-1 snímky 266–272 (5/1808–11/1809) prošla: Klara z č. 161 tam NENÍ; je tam jen Katharina *15. 7. 1808 č. 161, otec Augustin „Nowatschka(?)“, zahradník, matka Anna dcera Johanna „Grim…(?)“ „von Dlauhey(?)“ (119-1 snímek 267) – zřejmě Klařina sestra; potvrzuje dům 161 a otce Augustina, příjmení stále nejisté. Klara se tedy nejspíš narodila 1810–1811 (věk 20 v r. 1829 je přibližný); dále projít 119-1 snímky ~273–285.",
+      "details": "Vyřešeno 25. 11. 2026: Ignaz Mader ml. *9. 11. 1799 Polom č. 58 (144-2 snímek 195); Johanna Walsch *29. 9. 1801 Sedloňov č. 70 (144-2 snímek 112); sňatek Ignaz Mader st. × Margaretha vdova Zeiner(?) roz. Matzner 4. 1. 1799 (144-3943 snímek 118). Stále nejisté: rodné příjmení Johanny Walschové st. (1801: dcera Adalberta „Zeug / Zautz“, matka Maria dcera Franze Littnera z Martína/Marzdorfu(?) v Kladsku; 1825: „Zeug“ — dvě shodná, ale nejistá čtení); obec Antona Madera (1799, snad Kounov / Kaunay); příjmení prvního manžela Margarethy (Zeiner?); rodné příjmení Klary (dříve čteno Anna) Knoppové z Olešnice č. 161. Další krok: sňatek Ignaz Walsch × Johanna (před 1795, 144-5 bez indexu); narození Ignaze Madera st. *kolem 1780 (podle obce otce); narození Franzisky Knopp *kolem 1837 (fara Olešnice v O. h.). Kolo 25. 11. 2026 (večer): sňatek Ignaz Walsch × Johanna NENÍ v sedloňovské oddací knize 9/1784–11/1794 (144-5, snímky 89–97, prošlo se po zápisech) — svatba byla buď před 9/1784, nebo jinde (nevěsta z Kladska?). Ignaz Mader *1776–1784 NENÍ v sedloňovském indexu narozených (144-6 snímek 24) — Ignaz Mader st. se narodil mimo Sedloňov; obec otce Antona (1799) čtena „D?auschy / Hauschy(?)“, nejisté. Kolo 25. 11. 2026 (noc): Walsch × Johanna NENÍ ani v 144-5 1774–9/1784 (snímky 78–88) — sedloňovská oddací kniha je tak negativní 1774–1794 a v indexu 144-7 od 1795; svatba nejspíš ve farnosti nevěsty (Kladsko?). V indexu narozených 144-6 snímek 35 je Ignatz Walsch *1778 (otec neuveden, nezapsáno). Obec Antona Madera ve sňatku 4. 1. 1799 (144-3943 snímek 118) přečtena znovu jako „aus Dlauhey“ = Dlouhé (něm. Dlauhey); fara neurčena (není v geo vazbách knih Bystré, Olešnice, Sedloňov, Deštné, Rokytnice, Dobruška, Kunvald, Liberk, Solnice; Dlouhá Ves u Rychnova je jiná obec). Výřez vypisy/_sheets/144-3943/z144-3943-s118-1799-01-04-ignaz-mader-aus-dlauhey.jpg. VYŘEŠENO 25. 11. 2026 (ráno): Dlauhey = Dlouhé, fara Nový Hrádek; Ignaz Mader st. *31. 7. 1780 Dlouhé č. 25, rodiče Anton Mader a Anna Rosina (117-2 snímek 68). Otevřené: rodné příjmení Anny Rosiny a sňatek Antona (v indexech oddaných Nový Hrádek 1721–1787 není). Kolo C (25. 11. 2026): V indexu narozených Nový Hrádek 1721–1771 (117-13, snímek 24) je jediný Antonius Madr: „Madr Antonius, Rzy, 130“. Zápis 117-1 snímek 137 (fol. 131) uvádí 6. 8. 1759 Antonína, syna Františka Madera a Doroty z Rzů. Totožnost s Antonem Maderem z Dlouhého č. 25 (otec Ignaze *1780) není prokázaná, proto jde jen o kandidáta. Sňatek Antona s Annou Rosinou v knihách Nového Hrádku 1721–1787 není; okolní fary zatím neprohledány. Kolo F (25. 11. 2026): Franziska Knopp se narodila 14. 7. 1837 v Olešnici č. 160 (119-2 snímek 111, index 119-8 snímek 35). Josefovi rodiče Anton Knopp a Anna Maria roz. Urban jsou zapsáni v mapě. Matka (správně Klara, ne Anna) je v zápisu dcerou Augustina, zahradníka v č. 161; jeho příjmení čtu jen opatrně jako „Rignatschka / Wignatschka(?)“ (dříve čteno Corsnika / Lantnika). Matka Klary je čtena „Anna geb. Thim(?) von Blaschen(?)“. Obojí zůstává nejisté. Další krok: tělo sňatku 1829 v 119-1 a narození Klary. Index oddaných 119-9 (snímek 16): Josef Knopp × Klara 25. 10. 1829 (pag. 96) a Anton Knopp × Anna Urban(ová) 6. 2. 1795. Těla obou zápisů jsou v 119-1 (Olešnice O 10/1784–11/1835), ještě nenalezená. V indexu je i dřívější sňatek Josefa Knoppa × Theresie Klar(ové) 27. 6. 1826 (pag. 86); zda jde o téhož muže (vdovce), není ověřeno. Kolo G (25. 11. 2026): Zápis sňatku 25. 10. 1829 nalezen (119-1 snímek 111): Joseph Knopp 24 let × Klara 20 let, dcera Augustina, zahradníka z Olešnice č. 161, a Anny roz. ?; příjmení otce nevěsty čtu „Nowatschka / Newatschka(?)“, jméno a původ matky „Thim(?) v. Slauhey(?)“ – obojí nejisté, proto nezapsáno. Klara *asi 1809 NENÍ pod písmenem N v indexu narozených 119-8 (snímek 43): jediná Clara je Netikin *12. 9. 1798 č. 208, otec Adam – nehodí se. Další krok: projít narození 119-1 snímky ~265–275 (10/1808–10/1809) a hledat č. 161 / otce Augustina. Sňatek Anton Knopp × Anna Urban v únoru 1795 nalezen (119-1 snímek 71); den v matrice čten spíš 9., v indexu 6. Josef Knopp *11. 9. 1805 Olešnice č. 160 (119-1 snímek 255). Narození 119-1 snímky 266–272 (5/1808–11/1809) prošla: Klara z č. 161 tam NENÍ; je tam jen Katharina *15. 7. 1808 č. 161, otec Augustin „Nowatschka(?)“, zahradník, matka Anna dcera Johanna „Grim…(?)“ „von Dlauhey(?)“ (119-1 snímek 267) – zřejmě Klařina sestra; potvrzuje dům 161 a otce Augustina, příjmení stále nejisté. Klara se tedy nejspíš narodila 1810–1811 (věk 20 v r. 1829 je přibližný); dále projít 119-1 snímky ~273–285. Kolo G2: narození 119-1 snímky 273–278 (11/1809–1/1811) prošla – Klara z č. 161 tam není (jen Klara *3. 9. 1810 č. 122 a Klara *20. 12. 1810 č. 158, jiní otcové). Příjmení Augustina zřejmě nezačíná na N (v indexu 119-8 pod N chybí i Katharina 1808); zkusit index 119-8 pod K/H (např. „Klara … 1806 p. 173“ v Lit. K) a věk 20 brát volněji.",
       "related_ids": [
         "ignaz-mader-st",
         "anna-knopp",
@@ -7433,7 +7917,7 @@
       "id": "q-klimes-snatek",
       "title": "Sňatek Jana Klimeše a Anny Špačkové",
       "summary": "Rodiče Františka Klimeše *14. 8. 1857 (Vysoká Srbská č. 9), Jan Klimeš a Anna roz. Špačková z Vysoké Srbské č. 29, zatím nemají nalezený sňatek.",
-      "details": "Negativní: Hronov O 1834–1870 (53-53) a Machov město O 8. 1836–11. 1862 (96-16, snímky 20–41 čteny jen v přehledu jmen ženichů, Jan Klimeš nenalezen; čtení není úplné). Zbývá: Police nad Metují — index oddaných 130-47 (oddíl K, snímky 32–36: hlavně německé vsi, zatím neprojitý řádek po řádku), Velké Petrovice a Žďár nad Metují.",
+      "details": "Negativní: Hronov O 1834–1870 (53-53) a Machov město O 8. 1836–11. 1862 (96-16, snímky 20–41 čteny jen v přehledu jmen ženichů, Jan Klimeš nenalezen; čtení není úplné). Zbývá: Police nad Metují — index oddaných 130-47 (oddíl K, snímky 32–36: hlavně německé vsi, zatím neprojitý řádek po řádku), Velké Petrovice a Žďár nad Metují. Kolo G2: Anna Špačková *18. 1. 1823 VS č. 29 (53-19 snímek 69) – sňatek tedy asi 1843–1857. O VS 53-53 snímky 20–24 (1840–1845) v náhledu nečitelné, nedočteno.",
       "related_ids": [
         "jan-klimes-vymenkar",
         "anna-spackova"
@@ -8348,414 +8832,11 @@
       ]
     },
     {
-      "id": "ub-maroul-71",
-      "title": "Maroulové z Nízké Srbské č. 71 (Tobiáš, Jan, Josef *1850, Hrubá) a Václav *1878",
-      "reason": "Tato linie (dům 71) není sloučena s potvrzenou linií č. 54, z níž jde spojení na Františku Maroulovou *1878 a na Štěpána. Václav *1878 (Tobiáš č. 77) čeká na doložení sourozenectví; proto je tu mimo hlavní graf.",
-      "reattach": "Po důkazu totožnosti 71=54 nebo rodičovství stačí přidat příslušný jistý svazek a přesunout tento oddíl zpět do people/unions. Václava *1878 lze připojit jedním řádkem do children svazku Tobiáše, až to tělo potvrdí.",
+      "id": "ub-vaclav-maroul-1878",
+      "title": "Václav Maroul (sňatek 17. 1. 1878, Machov č. 86)",
+      "reason": "Rodiče Tobiáš Maroul (NS č. 77) a Marie roz. Šimcová z Bělic č. 23 se jménem shodují s rodiči Jana Maroula z č. 71, ale dům 77 vs. 71 není vyřešen; sourozenectví není doloženo.",
+      "reattach": "Až bude doloženo, přidat vaclav-maroul-1878 do children svazku u-tobias-simcova a přesunout osobu do people.",
       "people": [
-        {
-          "id": "anna-maslo-ns71",
-          "name": "Anna Maroulová",
-          "maiden": "Máslo",
-          "birth": {
-            "display": "kolem 1825",
-            "precision": "circa",
-            "date": "1825",
-            "note": "Stáří 19 let při sňatku 23. 1. 1844 (96-4228, snímek 6)."
-          },
-          "baptism": null,
-          "death": null,
-          "occupation": "Výměnkářka, Nízká Srbská č. 39 (1874).",
-          "places": [
-            "Nízká Srbská č. 71 (manžel)",
-            "Nízká Srbská č. 39 (1874, výměnkářka)"
-          ],
-          "branch": "maslo",
-          "certainty": "potvrzeno",
-          "living": false,
-          "sources": [
-            {
-              "label": "ARON",
-              "signatura": "96-15",
-              "detail": "snímky 32 a 47"
-            },
-            {
-              "label": "ARON",
-              "signatura": "130-7417",
-              "detail": "snímek 43"
-            },
-            {
-              "label": "ARON, sňatek 23. 1. 1844",
-              "signatura": "96-4228",
-              "detail": "snímek 6, folio 3",
-              "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
-            }
-          ],
-          "notes": [
-            "Dcera †Jana Másla, výměnkáře z NS č. 30 (1846) / č. 39 (1850), a Veroniky roz. Němečkové z NS č. 34.",
-            "Dřívější opatrné čtení babičky „Šimůnková / Šimánková“ se po zápisu 1850 opravuje na Veroniku Němečkovou.",
-            "Sňatek 23. 1. 1844: Anna Maslo, ehel. Tochter des verstorbenen Johann Maslo, Ausgedinger aus Niedersrbská N. 39, und dessen Eheweib Veronika geborenen Němeček aus Niedersrbská N. 34. Katolička, svobodná, stáří 19. Otec byl k tomuto datu již mrtev."
-          ],
-          "interesting": []
-        },
-        {
-          "id": "antonin-simec",
-          "name": "Antonín Šimec",
-          "maiden": null,
-          "birth": null,
-          "baptism": null,
-          "death": null,
-          "occupation": "Rolník, Bělic č. 23 (1878).",
-          "places": [
-            "Bělic č. 23"
-          ],
-          "branch": "maroul",
-          "certainty": "potvrzeno",
-          "living": false,
-          "sources": [
-            {
-              "label": "ARON",
-              "signatura": "96-4228",
-              "detail": "snímek 75"
-            }
-          ],
-          "notes": [],
-          "interesting": []
-        },
-        {
-          "id": "frantisek-maroul-1846",
-          "name": "František Maroul",
-          "maiden": null,
-          "birth": {
-            "display": "3. 7. 1846",
-            "precision": "exact",
-            "date": "1846-07-03",
-            "place": "Nízká Srbská č. 71"
-          },
-          "baptism": {
-            "display": "4. 7. 1846",
-            "precision": "exact",
-            "date": "1846-07-04"
-          },
-          "death": null,
-          "occupation": null,
-          "places": [],
-          "branch": "maroul",
-          "certainty": "potvrzeno",
-          "living": false,
-          "sources": [
-            {
-              "label": "ARON",
-              "signatura": "96-15",
-              "detail": "snímek 32"
-            }
-          ],
-          "notes": [
-            "Syn Jana Maroula a Anny Máslo z NS č. 71. Pokud je Jan × Anna týž pár jako u Františky *1878, je František pravděpodobný starší bratr Josefa, otce Františky — to zůstává ve výhradě ztotožnění domu."
-          ],
-          "interesting": []
-        },
-        {
-          "id": "frantiska-hruba-c1855",
-          "name": "Františka Hrubá",
-          "maiden": "Hrubá",
-          "birth": {
-            "display": "cca 1855",
-            "precision": "circa",
-            "note": "19 let k 27. 10. 1874."
-          },
-          "baptism": null,
-          "death": null,
-          "occupation": null,
-          "places": [
-            "Ledhuje č. 52"
-          ],
-          "branch": "maroul",
-          "certainty": "potvrzeno",
-          "living": false,
-          "sources": [
-            {
-              "label": "ARON, index",
-              "signatura": "130-7420",
-              "detail": "snímek 44"
-            },
-            {
-              "label": "ARON, tělo",
-              "signatura": "130-7417",
-              "detail": "snímek 43"
-            },
-            {
-              "label": "ARON, index narození Police (negativní k *cca 1855 / č. 52)",
-              "signatura": "130-45",
-              "detail": "snímky 26–29, písmeno H; u snímku 27 Hruby Franziska 9. 3. 1864, č. 57 — neslučovat",
-              "apu": "https://aron.vychodoceskearchivy.cz/apu/3a441afd-7c3e-4532-8098-48b8d7bd11d5"
-            }
-          ],
-          "notes": [
-            "Ledigá dcera Jana Hrubého, inwohnere v Ledhuji č. 52, a manželky rozené Špinka (příjmení matky čtené opatrně).",
-            "U nevěsty je zmíněna dispens / souhlas pro nezletilost (plnoletost 24 let).",
-            "Neslučovat s Františkou Skuhrovou, matkou Františky Maroulové *1878.",
-            "V indexu narozených fary Police 130-45 (1834–1864, včetně Velké i Malé Ledhuje) pod Hrubý/Hruby není Františka / Francisca *cca 1855 v Ledhuji č. 52. Nejbližší jmenný zásah: Hruby Franziska, 9. 3. 1864, č. 57, otec Johann, Häusler, matka Maria (příjmení čtené opatrně), 130-45 snímek 27 — dům 57 ≠ 52 a rok 1864 nesedí na 19 let k 27. 10. 1874; neslučovat. Tělo 130-4323 v tomto kroku nebylo staženo."
-          ],
-          "interesting": []
-        },
-        {
-          "id": "jan-hruby",
-          "name": "Jan Hrubý",
-          "maiden": null,
-          "birth": null,
-          "baptism": null,
-          "death": null,
-          "occupation": "Inwohner, Ledhuje č. 52 (1874).",
-          "places": [
-            "Ledhuje č. 52"
-          ],
-          "branch": "maroul",
-          "certainty": "potvrzeno",
-          "living": false,
-          "sources": [
-            {
-              "label": "ARON",
-              "signatura": "130-7417",
-              "detail": "snímek 43"
-            }
-          ],
-          "notes": [],
-          "interesting": []
-        },
-        {
-          "id": "jan-maroul-ns71",
-          "name": "Jan Maroul",
-          "maiden": null,
-          "birth": {
-            "display": "kolem 1820",
-            "precision": "circa",
-            "date": "1820",
-            "note": "Stáří 24 let při sňatku 23. 1. 1844 (96-4228, snímek 6)."
-          },
-          "baptism": null,
-          "death": null,
-          "occupation": "Podruh, Nízká Srbská č. 71 (1846, 1850); chalupník, Nízká Srbská č. 71 (1874).",
-          "places": [
-            "Nízká Srbská č. 71"
-          ],
-          "branch": "maroul",
-          "certainty": "potvrzeno",
-          "living": false,
-          "sources": [
-            {
-              "label": "ARON",
-              "signatura": "96-15",
-              "detail": "snímky 32 a 47"
-            },
-            {
-              "label": "ARON",
-              "signatura": "130-7417",
-              "detail": "snímek 43"
-            },
-            {
-              "label": "ARON, sňatek 23. 1. 1844",
-              "signatura": "96-4228",
-              "detail": "snímek 6, folio 3",
-              "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
-            }
-          ],
-          "notes": [
-            "Syn Tobiáše Maroula, chalupníka z NS č. 71, a Marie roz. Šimcové z Bělic č. 23.",
-            "Ztotožnění s Janem, chalupníkem NS č. 54, z narození Františky *1878 zůstává otevřeným dotazem (q-jan-maroul-71-54); dům 71 a 54 se neslučují potichu.",
-            "Sňatek 23. 1. 1844 v Nízké Srbské č. 71: Johann Maraul, ehel. Sohn des Tobias Maraul, Chalupner aus Niedersrbská N. 71, und dessen Eheweib Maria geborenen Šimel (pravděpodobně Šimec) aus Groß-Jenzí N. 22 (čtení místa opatrné). Katolík, svobodný, stáří 24. Ohlášky 7., 14. a 21. ledna, politický souhlas 5. ledna; oddával (čtení) Joseph Kramm. Svědci: Joseph (příjmení čtení nejisté), sedlák z NS č. 39, a Johann Maraul, sedlák z NS č. 3 (svědek se jako uzel nepřidává)."
-          ],
-          "interesting": []
-        },
-        {
-          "id": "jan-maslo-ns71-otec",
-          "name": "Jan Máslo",
-          "maiden": null,
-          "birth": null,
-          "baptism": null,
-          "death": {
-            "display": "před 23. 1. 1844",
-            "precision": "before",
-            "note": "V oddacím zápisu dcery Anny (96-4228, snímek 6) je uveden jako verstorben / již zemřelý, výměnkář (Ausgedinger) v NS č. 39."
-          },
-          "occupation": "Výměnkář, Nízká Srbská č. 30 (1846); výměnkář, Nízká Srbská č. 39 (1850).",
-          "places": [
-            "Nízká Srbská č. 30 (1846)",
-            "Nízká Srbská č. 39 (1850)",
-            "Nízká Srbská č. 39 (1844, † výměnkář)"
-          ],
-          "branch": "maslo",
-          "certainty": "potvrzeno",
-          "living": false,
-          "sources": [
-            {
-              "label": "ARON",
-              "signatura": "96-15",
-              "detail": "snímky 32 a 47"
-            },
-            {
-              "label": "ARON, sňatek 23. 1. 1844",
-              "signatura": "96-4228",
-              "detail": "snímek 6, folio 3",
-              "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
-            }
-          ],
-          "notes": [
-            "Obě čísla domu ponechat. Velmi pravděpodobně týž muž jako výměnkář NS č. 39 z narození Františky *1878.",
-            "K 23. 1. 1844 již zemřelý výměnkář v NS č. 39. Čísla domu 30 (1846) a 39 (1844, 1850) se neslučují potichu."
-          ],
-          "interesting": []
-        },
-        {
-          "id": "josef-maroul-1850",
-          "name": "Josef Maroul",
-          "maiden": null,
-          "birth": {
-            "display": "1. 10. 1850",
-            "precision": "exact",
-            "date": "1850-10-01",
-            "place": "Nízká Srbská č. 71"
-          },
-          "baptism": {
-            "display": "2. 10. 1850",
-            "precision": "exact",
-            "date": "1850-10-02",
-            "note": "Kněz Placida Středa, ord. S. B."
-          },
-          "death": null,
-          "occupation": "Syn podruha, NS č. 71 (1850); chalupník, NS č. 71 (1874).",
-          "places": [
-            "Nízká Srbská č. 71"
-          ],
-          "branch": "maroul",
-          "certainty": "potvrzeno",
-          "living": false,
-          "sources": [
-            {
-              "label": "ARON, narození",
-              "signatura": "96-15",
-              "detail": "snímek 47"
-            },
-            {
-              "label": "ARON, sňatek 27. 10. 1874",
-              "signatura": "130-7417",
-              "detail": "snímek 43, folio 40; index 130-7420 snímek 44, sv. VIII str. 39",
-              "apu": "https://aron.vychodoceskearchivy.cz/apu/569f993d-39f6-4aae-b562-28b26c65c1a6"
-            }
-          ],
-          "notes": [
-            "Syn Jana Maroula, podruha, a Anny, dcery †Jana Másla a Veroniky roz. Němečkové.",
-            "27. 10. 1874 se oženil s Františkou Hrubou z Ledhují č. 52. Věk 24 let a rodiče potvrzují totožnost s tímto Josefem.",
-            "Neslučovat s Josefem, chalupníkem NS č. 54, manželem Františky Skuhrové (otec Františky *30. 8. 1878). Nové manželství se nevymýšlí.",
-            "Poznámka u narození: přistoupil k Církvi československé 30. 4. 1920, čj. 12137. Přípisky 17. 10. 1944 č. 445 a 28. 6. 1945 č. 281 se nečtou jako potvrzené úmrtí."
-          ],
-          "interesting": [
-            "Přestup k CČS 30. 4. 1920, čj. 12137."
-          ]
-        },
-        {
-          "id": "marie-simcova",
-          "name": "Marie Maroulová",
-          "maiden": "Šimcová",
-          "birth": null,
-          "baptism": null,
-          "death": null,
-          "occupation": null,
-          "places": [
-            "Bělic č. 23",
-            "Groß-Jenzí č. 22 (1844, čtení místa opatrné)"
-          ],
-          "branch": "maroul",
-          "certainty": "potvrzeno",
-          "living": false,
-          "sources": [
-            {
-              "label": "ARON",
-              "signatura": "96-15",
-              "detail": "snímek 32"
-            },
-            {
-              "label": "ARON",
-              "signatura": "96-4228",
-              "detail": "snímek 75"
-            },
-            {
-              "label": "ARON, sňatek 23. 1. 1844",
-              "signatura": "96-4228",
-              "detail": "snímek 6, folio 3",
-              "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
-            }
-          ],
-          "notes": [
-            "Dcera Antonína Šimce, rolníka v Bělici č. 23.",
-            "V oddacím zápisu syna Jana 23. 1. 1844: „Maria geborenen Šimel aus Groß-Jenzí N. 22“ (příjmení pravděpodobně totéž jako Šimec; místo Groß-Jenzí č. 22 se neslučuje s Bělicí č. 23 z pozdějších zápisů)."
-          ],
-          "interesting": []
-        },
-        {
-          "id": "matka-hruba-spinka",
-          "name": "manželka Jana Hrubého, roz. Špinka",
-          "maiden": null,
-          "birth": null,
-          "baptism": null,
-          "death": null,
-          "occupation": "V zápisu 1874 dále výměnkářka? v Ledhuji č. 75 (čtení stavu opatrné).",
-          "places": [
-            "Ledhuje č. 75 (1874, opatrně)"
-          ],
-          "branch": "maroul",
-          "certainty": "potvrzeno",
-          "living": false,
-          "sources": [
-            {
-              "label": "ARON",
-              "signatura": "130-7417",
-              "detail": "snímek 43"
-            }
-          ],
-          "notes": [
-            "Příjmení Špinka čtené opatrně. Křestní jméno není čteno natolik jistě, aby se zapisovalo jako potvrzené."
-          ],
-          "interesting": []
-        },
-        {
-          "id": "tobias-maroul",
-          "name": "Tobiáš Maroul",
-          "maiden": null,
-          "birth": null,
-          "baptism": null,
-          "death": null,
-          "occupation": "Chalupník, Nízká Srbská č. 71 (1846); chalupník, Nízká Srbská č. 77 (1878, zápis syna Václava).",
-          "places": [
-            "Nízká Srbská č. 71 (1846)",
-            "Nízká Srbská č. 77 (1878)"
-          ],
-          "branch": "maroul",
-          "certainty": "potvrzeno",
-          "living": false,
-          "sources": [
-            {
-              "label": "ARON",
-              "signatura": "96-15",
-              "detail": "snímek 32"
-            },
-            {
-              "label": "ARON",
-              "signatura": "96-4228",
-              "detail": "snímek 75"
-            },
-            {
-              "label": "ARON, sňatek 23. 1. 1844",
-              "signatura": "96-4228",
-              "detail": "snímek 6, folio 3",
-              "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
-            }
-          ],
-          "notes": [
-            "Manželka Marie, dcera Antonína Šimce, rolníka v Bělici č. 23 — jméno a Bělic 23 se v zápisech 1846 a 1878 shodují. Čísla domu 71 a 77 se neslučují potichu."
-          ],
-          "interesting": []
-        },
         {
           "id": "vaclav-maroul-1878",
           "name": "Václav Maroul",
@@ -8784,184 +8865,9 @@
             "Kmotr Františky *1878 „Václav Maroul, chalupník NS 84“ a tento ženich (Machov 86) se neslučují potichu."
           ],
           "interesting": []
-        },
-        {
-          "id": "veronika-nemeckova",
-          "name": "Veronika Máslo",
-          "maiden": "Němečková",
-          "birth": null,
-          "baptism": null,
-          "death": null,
-          "occupation": null,
-          "places": [
-            "Nízká Srbská č. 34"
-          ],
-          "branch": "maslo",
-          "certainty": "potvrzeno",
-          "living": false,
-          "sources": [
-            {
-              "label": "ARON",
-              "signatura": "96-15",
-              "detail": "snímky 32 a 47"
-            },
-            {
-              "label": "ARON, sňatek 23. 1. 1844",
-              "signatura": "96-4228",
-              "detail": "snímek 6, folio 3",
-              "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
-            }
-          ],
-          "notes": [
-            "Jasně v zápisu vnuka Josefa *1850; stejně čitelné i v zápisu 1846 po srovnání. Dřívější opatrné čtení „Šimůnková / Šimánková“ je opraveno.",
-            "V oddacím zápisu dcery Anny 23. 1. 1844 znovu „Veronika geborenen Němeček aus Niedersrbská N. 34“."
-          ],
-          "interesting": []
         }
       ],
-      "unions": [
-        {
-          "id": "u-jan71-anna71",
-          "partners": [
-            "jan-maroul-ns71",
-            "anna-maslo-ns71"
-          ],
-          "children": [
-            "frantisek-maroul-1846",
-            "josef-maroul-1850"
-          ],
-          "certainty": "potvrzeno",
-          "sources": [
-            {
-              "label": "ARON",
-              "signatura": "96-15",
-              "detail": "snímky 32 a 47"
-            },
-            {
-              "label": "ARON, sňatek 23. 1. 1844",
-              "signatura": "96-4228",
-              "detail": "snímek 6, folio 3",
-              "apu": "https://aron.vychodoceskearchivy.cz/apu/64b80a94-d019-4fb3-a4bd-05d3c3a3ddbd"
-            }
-          ],
-          "date": {
-            "display": "23. 1. 1844",
-            "precision": "exact",
-            "date": "1844-01-23",
-            "place": "Nízká Srbská č. 71"
-          },
-          "notes": [
-            "Tělo zápisu 96-4228 snímek 6, folio 3: ženich Johann Maraul (24) z č. 71, nevěsta Anna Maslo (19), dcera †Jana Másla, výměnkáře č. 39, a Veroniky roz. Němečkové z č. 34. Tento sňatek patří větvi č. 71, ne linii č. 54."
-          ]
-        },
-        {
-          "id": "u-josef1850-hruba",
-          "partners": [
-            "josef-maroul-1850",
-            "frantiska-hruba-c1855"
-          ],
-          "married": {
-            "display": "27. 10. 1874",
-            "date": "1874-10-27",
-            "place": "Ledhuje (fara Police nad Metují)",
-            "note": "Ohlášky 4., 11. a 18. října 1874, mimo jiné v Machově. Index: sv. VIII str. 39; tělo folio 40."
-          },
-          "children": [],
-          "certainty": "potvrzeno",
-          "sources": [
-            {
-              "label": "ARON",
-              "signatura": "130-7420",
-              "detail": "snímek 44"
-            },
-            {
-              "label": "ARON",
-              "signatura": "130-7417",
-              "detail": "snímek 43"
-            }
-          ]
-        },
-        {
-          "id": "u-tobias-simcova",
-          "partners": [
-            "tobias-maroul",
-            "marie-simcova"
-          ],
-          "children": [
-            "jan-maroul-ns71"
-          ],
-          "certainty": "potvrzeno",
-          "sources": [
-            {
-              "label": "ARON",
-              "signatura": "96-15",
-              "detail": "snímek 32"
-            },
-            {
-              "label": "ARON",
-              "signatura": "96-4228",
-              "detail": "snímek 75"
-            }
-          ],
-          "notes": [
-            "Jan linie 71 je potvrzený syn Tobiáše × Marie z NS č. 71 (96-15, 1846).",
-            "Václav *1878, syn Tobiáše z NS č. 77 a Marie z Bělic 23, není v tomto svazku; sourozenectví a slučování domů 71 a 77 je otevřený dotaz."
-          ]
-        },
-        {
-          "id": "u-antonin-simec",
-          "partners": [
-            "antonin-simec"
-          ],
-          "children": [
-            "marie-simcova"
-          ],
-          "certainty": "potvrzeno",
-          "sources": [
-            {
-              "label": "ARON",
-              "signatura": "96-4228",
-              "detail": "snímek 75"
-            }
-          ]
-        },
-        {
-          "id": "u-jan-maslo-veronika",
-          "partners": [
-            "jan-maslo-ns71-otec",
-            "veronika-nemeckova"
-          ],
-          "children": [
-            "anna-maslo-ns71"
-          ],
-          "certainty": "potvrzeno",
-          "sources": [
-            {
-              "label": "ARON",
-              "signatura": "96-15",
-              "detail": "snímky 32 a 47"
-            }
-          ]
-        },
-        {
-          "id": "u-hruby-spinka",
-          "partners": [
-            "jan-hruby",
-            "matka-hruba-spinka"
-          ],
-          "children": [
-            "frantiska-hruba-c1855"
-          ],
-          "certainty": "potvrzeno",
-          "sources": [
-            {
-              "label": "ARON",
-              "signatura": "130-7417",
-              "detail": "snímek 43"
-            }
-          ]
-        }
-      ]
+      "unions": []
     }
   ]
 }
