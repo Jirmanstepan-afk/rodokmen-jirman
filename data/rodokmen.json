@@ -3442,7 +3442,13 @@
       "id": "maria-knittel",
       "name": "Maria Ringel(ová)",
       "maiden": "Knittel",
-      "birth": null,
+      "birth": {
+        "display": "19. 11. 1746",
+        "precision": "exact",
+        "date": "1746-11-19",
+        "place": "Ruprechtice (Ruppersdorf)",
+        "note": "Narozena 19. 11. 1746 odpoledne, pokřtěna 20. 11. 1746 v kostele sv. Jakuba v Ruprechticích jako Anna Maria; otec Heinrich Knittel, sedlák (Bauer) z Ruprechtic, matka Regina. Kmotři Anton Scholtz(?), kovář, a Maria, manželka Daniela Schnabla(?), oba z Ruprechtic."
+      },
       "baptism": null,
       "death": null,
       "occupation": null,
@@ -3462,10 +3468,23 @@
           "label": "ARON, narození 16. 6. 1774",
           "signatura": "141-7599",
           "detail": "snímek 291, Pag. 502, 16. 6. 1774, Ruprechtice č. 34"
+        },
+        {
+          "label": "ARON, narození 19. 11. 1746",
+          "signatura": "141-7599",
+          "detail": "snímek 111, levá strana, fol. 148, 2. zápis, Ruprechtice; výřez vypisy/141-7599/z141-7599-s111-1746-11-19-anna-maria-knittel.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/9995e7e5-6aa8-4128-aab0-5d5a7864e172"
+        },
+        {
+          "label": "ARON, index narozených Ruprechtice, lit. K",
+          "signatura": "141-4251",
+          "detail": "snímek 52, levá strana, 1746: Knittel A. Maria, otec Heinrich, sedlák, fol. 148; výřez vypisy/141-4251/z141-4251-s52-index-k-1746-anna-maria-knittel.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/b628c27c-a629-44c8-a008-e4d017646195/dao/b628c27c-a629-44c8-a008-e4d017646195/file/c85c1b1a-8156-4792-b26e-97f2d3006e2e"
         }
       ],
       "notes": [
-        "Sňatek 27. 11. 1770 (141-7599, snímek 448, Pag. 128): „Anton Ringel ein Wittiber in Ruppersdorf und Jungfrau Maria, Heinrich Knittels ehel. Tochter alldo“; svědci Anton Kahl(?), rychtář v Ruprechticích, Friedrich Braun(?), mlynář, Anton Kasler(?), chalupník, a Wenzel Fau…(?), sedlák; ohlášky 11., 18. a 25. 11. Matka Barbary Dauerové podle křtu 16. 6. 1774. Otec Heinrich Knittel zatím není v mapě (jen jméno ze sňatku, bez dalšího zápisu)."
+        "Sňatek 27. 11. 1770 (141-7599, snímek 448, Pag. 128): „Anton Ringel ein Wittiber in Ruppersdorf und Jungfrau Maria, Heinrich Knittels ehel. Tochter alldo“; svědci Anton Kahl(?), rychtář v Ruprechticích, Friedrich Braun(?), mlynář, Anton Kasler(?), chalupník, a Wenzel Fau…(?), sedlák; ohlášky 11., 18. a 25. 11. Matka Barbary Dauerové podle křtu 16. 6. 1774.",
+        "Ztotožnění s křtem 1746: v ruprechtickém indexu narozených (141-4251, lit. K, 1726–1780) je jediná Maria s otcem Heinrichem Knittelem (Heinrichovy děti: Rosina 1735, Anna Maria 1746). Ostatní Marie Knittel(ové) 1726, 1728 a 1730 mají otce Michaela nebo Melchiora. Při sňatku 1770 jí tedy bylo 24 let, při narození Barbary 1774 27 let."
       ],
       "interesting": []
     },
@@ -5713,6 +5732,71 @@
         "Otec Kateřiny; uveden při jejím sňatku 29. 10. 1764 (2104 snímek 169). Manželka neznámá."
       ],
       "interesting": []
+    },
+    {
+      "id": "heinrich-knittel",
+      "name": "Heinrich Knittel",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Sedlák (Bauer) v Ruprechticích (1746).",
+      "places": [
+        "Ruprechtice (Ruppersdorf)"
+      ],
+      "branch": "meier",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 19. 11. 1746",
+          "signatura": "141-7599",
+          "detail": "snímek 111, levá strana, fol. 148, 2. zápis, Ruprechtice; výřez vypisy/141-7599/z141-7599-s111-1746-11-19-anna-maria-knittel.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/9995e7e5-6aa8-4128-aab0-5d5a7864e172"
+        },
+        {
+          "label": "ARON, index narozených Ruprechtice, lit. K",
+          "signatura": "141-4251",
+          "detail": "snímek 52, levá strana, 1746: Knittel A. Maria, otec Heinrich, sedlák, fol. 148; výřez vypisy/141-4251/z141-4251-s52-index-k-1746-anna-maria-knittel.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/b628c27c-a629-44c8-a008-e4d017646195/dao/b628c27c-a629-44c8-a008-e4d017646195/file/c85c1b1a-8156-4792-b26e-97f2d3006e2e"
+        },
+        {
+          "label": "ARON, sňatek dcery 27. 11. 1770",
+          "signatura": "141-7599",
+          "detail": "snímek 448, Pag. 128, 27. 11. 1770, Ruprechtice"
+        }
+      ],
+      "notes": [
+        "Otec Marie Ringel(ové): při jejím křtu 20. 11. 1746 „Heinrich Knitteln dem Bauer von Ruppersdorf“, při jejím sňatku 27. 11. 1770 „Heinrich Knittels ehel. Tochter“. Jeho vlastní sňatek a původ nejsou doloženy – viz otevřený dotaz q-knittel-heinrich."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "regina-knittel",
+      "name": "Regina Knittel(ová)",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Ruprechtice (Ruppersdorf)"
+      ],
+      "branch": "meier",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 19. 11. 1746",
+          "signatura": "141-7599",
+          "detail": "snímek 111, levá strana, fol. 148, 2. zápis, Ruprechtice; výřez vypisy/141-7599/z141-7599-s111-1746-11-19-anna-maria-knittel.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/9995e7e5-6aa8-4128-aab0-5d5a7864e172"
+        }
+      ],
+      "notes": [
+        "Manželka Heinricha Knittela, matka Anny Marie *19. 11. 1746. Rodné příjmení v křestním zápisu neuvedeno."
+      ],
+      "interesting": []
     }
   ],
   "unions": [
@@ -7775,6 +7859,28 @@
       "notes": [
         "Matka Kateřiny zatím nezjištěna."
       ]
+    },
+    {
+      "id": "u-heinrich-knittel",
+      "partners": [
+        "heinrich-knittel",
+        "regina-knittel"
+      ],
+      "children": [
+        "maria-knittel"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, narození 19. 11. 1746",
+          "signatura": "141-7599",
+          "detail": "snímek 111, levá strana, fol. 148, 2. zápis, Ruprechtice; výřez vypisy/141-7599/z141-7599-s111-1746-11-19-anna-maria-knittel.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/9995e7e5-6aa8-4128-aab0-5d5a7864e172"
+        }
+      ],
+      "notes": [
+        "Rodiče Anny Marie podle křtu 20. 11. 1746 (141-7599, fol. 148). Sňatek nenalezen."
+      ]
     }
   ],
   "identifications": [],
@@ -8018,7 +8124,7 @@
       "id": "q-georg-dauer-jmeno-1841",
       "title": "Křestní jméno otce Theresie Dauerové v zápisu 22. 11. 1841",
       "summary": "V tělech 1845, 1846 a 1873 je otec Theresie důsledně Georg Dauer, č. 117. Oddací zápis 22. 11. 1841 má téhož Dauera z č. 117 a manželku Barbaru z č. 53; křestní jméno v tom zápisu je třeba při další četbě ještě jednou srovnat.",
-      "details": "V mapě zůstává jméno Georg z trojího shodného čtení. Kdyby 1841 četlo jinak, jména se neslučují potichu. Doplněk 24. 11. 2026: rodné zápisy dcer 22. 11. 1799 a 22. 9. 1808 (141-1, snímky 52 a 88, dům 74) mají otce Georga Dauera a matku Barbaru, dceru Antona Ringela. Jméno Georg je tím doloženo nezávisle na zápisu 1841.",
+      "details": "V mapě zůstává jméno Georg z trojího shodného čtení. Kdyby 1841 četlo jinak, jména se neslučují potichu. Doplněk 24. 11. 2026: rodné zápisy dcer 22. 11. 1799 a 22. 9. 1808 (141-1, snímky 52 a 88, dům 74) mají otce Georga Dauera a matku Barbaru, dceru Antona Ringela. Jméno Georg je tím doloženo nezávisle na zápisu 1841. Kolo Q (25. 11. 2026): křest Georga Dauera (*kolem 1751–1754) v Ruprechticích není – index narozených 141-4251 lit. D (snímek 18, výřez vypisy/141-4251/z141-4251-s18-index-d-1735-1756-bez-dauera.jpg, https://aron.vychodoceskearchivy.cz/apu/b628c27c-a629-44c8-a008-e4d017646195/dao/b628c27c-a629-44c8-a008-e4d017646195/file/990d72d3-0dc2-4ef8-9ca2-12196574027c) má 1735–1756 jen Dinter a Dröschel. Georg je tedy nejspíš přistěhovalý (index pokrývá jen Ruppersdorf; Jetřichov 141-4252 a Hynčice 141-4253 zbývají).",
       "related_ids": [
         "georg-dauer",
         "theresia-dauer",
@@ -8107,7 +8213,7 @@
       "id": "q-rosenberg-1800",
       "title": "Joseph Rosenberg, sňatek 12. 8. 1800 v Ruprechticích č. 73",
       "summary": "Benedikt *7. 10. 1799 (č. 73) je syn Josepha Rosenberga, podruha, a Barbary, dcery Antona Ringela, podruha z Vižňova č. 58. V 141-3 je 12. 8. 1800 sňatek Joseph Rosenberg, č. 73, 33 let, s Barbarou, dcerou Antona (Herzog?), chalupníka v Ruprechticích č. 134; svědci Joseph Rosenberg a Anton Herzog.",
-      "details": "Není jisté, zda jde o rodiče Benedikta (legitimace po narození) nebo o jiný pár z téhož domu. Popis otce nevěsty (podruh z Vižňova č. 58 vs. chalupník z Ruprechtic č. 134) se liší. Sňatek se proto k páru Joseph × Barbara nepřipisuje. Doplněk 2026-11-24: matka Benedikta je podle zápisu 1799 dcera Antona Ringela z Vižňova č. 58 — nevěsta 1800 (dcera Antona Herzoga, Ruprechtice č. 134) je tedy jiná žena.",
+      "details": "Není jisté, zda jde o rodiče Benedikta (legitimace po narození) nebo o jiný pár z téhož domu. Popis otce nevěsty (podruh z Vižňova č. 58 vs. chalupník z Ruprechtic č. 134) se liší. Sňatek se proto k páru Joseph × Barbara nepřipisuje. Doplněk 2026-11-24: matka Benedikta je podle zápisu 1799 dcera Antona Ringela z Vižňova č. 58 — nevěsta 1800 (dcera Antona Herzoga, Ruprechtice č. 134) je tedy jiná žena. Kolo Q (25. 11. 2026): index narozených 141-4251 lit. R (snímky 75–76) má v letech 1749–1774 několik Josefů Rosenbergů s různými otci; bez věku Josepha (otce Benedikta) nelze vybrat, nic se nepřipisuje.",
       "related_ids": [
         "joseph-rosenberg-1799",
         "barbara-rosenberg-1799",
@@ -8644,6 +8750,25 @@
           "label": "ARON 130-18 snímek 5",
           "signatura": "130-18",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/edb33e21-d6d1-483b-9ed6-a6fa3eab9560"
+        }
+      ]
+    },
+    {
+      "id": "q-knittel-heinrich",
+      "title": "Heinrich Knittel z Ruprechtic – sňatek s Reginou a původ",
+      "summary": "Heinrich Knittel, sedlák v Ruprechticích, a manželka Regina jsou rodiče Marie *19. 11. 1746 (v mapě). Jejich sňatek a Heinrichův původ zatím doloženy nejsou.",
+      "details": "Kolo Q (25. 11. 2026): Strojopisný index oddaných 174-23 (Ruppersdorf–Heinzendorf–Dittersbach 1660–1785, snímek 18, výřezy vypisy/174-23/z174-23-s18-index-o-knittel-1673-1784.jpg a z174-23-s18-index-o-knittel-1753-1784.jpg, https://aron.vychodoceskearchivy.cz/apu/00eeb33c-e30f-45ef-8ef1-79a16a97ffef/dao/00eeb33c-e30f-45ef-8ef1-79a16a97ffef/file/d73c8703-298f-4429-bf08-715ce6ebc879) nemá sňatek Heinrich Knittel × Regina v letech 1726–1745 (Heinrichovy děti v Ruprechticích od 1735). Heinrichové jsou v indexu jen: 7. 2. 1702 Heinrich Knittel z Rožmitálu × Maria Hoffmann(ová), Ruppersdorf (kniha I, s. 9?) – o generaci starší, možná otec; a 19. 10. 1755 Heinrich Knittel, vdovec, Dittersbach × Anna Maria (kniha II, s. 79) – mohl by to být náš Heinrich po smrti Reginy, ale obec (Dittersbach) se liší. Nic z toho nepřipisuji. Sňatek s Reginou byl nejspíš mimo tuto farnost (Broumov, Rožmitál?). Další krok: úmrtí Reginy Knittel(ové) 1746–1755 v 141-7599 (Z), tělo sňatku 1755 (II s. 79), křest Heinricha (index 141-4251 lit. K, kolem 1700–1712).",
+      "related_ids": [
+        "heinrich-knittel",
+        "regina-knittel",
+        "maria-knittel"
+      ],
+      "sources": [
+        {
+          "label": "ARON, index oddaných 1660–1785, Knittel",
+          "signatura": "174-23",
+          "detail": "snímek 18",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/00eeb33c-e30f-45ef-8ef1-79a16a97ffef/dao/00eeb33c-e30f-45ef-8ef1-79a16a97ffef/file/d73c8703-298f-4429-bf08-715ce6ebc879"
         }
       ]
     }

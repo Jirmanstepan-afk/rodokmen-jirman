@@ -538,6 +538,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 130-46 (poř.č. 8795), 1755-1800",
    "popis": "římskokatolický index ODDANÝCH, farnost (Bukovice, Česká Metuje, Dědov, Hlavňov, Hony, Malá Ledhuje, Maršov nad Metují, Nízký Dřevíč, Pěkov, Petrovice, Police nad metují, Radešov, Slavný, Suchý Důl, Velká Ledhuje, Žďár nad Metují) + lokality farního obvodu Machov (Bělý, Machovská Lhota, Machov, Nízká Srbská, Nouzín, Řeřišný) + lokality z okolí (Stárkov, Javor, Velký Dřevíč, Rokytník, Lachov, Bezděkov nad Metují, Pasterkov (PL), Kamienna Gora (Landeshut, PL), Náchod, Jetřichov (Dittersbach))",
    "url": "https://aron.vychodoceskearchivy.cz/apu/a956bc3c-29af-4ba6-9ab2-bc2289e37188"
+  },
+  "174-23": {
+   "apu": "00eeb33c-e30f-45ef-8ef1-79a16a97ffef",
+   "dao": "00eeb33c-e30f-45ef-8ef1-79a16a97ffef",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 174-23 (poř.č. 9748), 1660-1785",
+   "popis": "římskokatolický index ODDANÝCH, farnost (Hynčice, Jetřichov, Ruprechtice)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/00eeb33c-e30f-45ef-8ef1-79a16a97ffef"
   }
  },
  "aliasy": {
@@ -1124,6 +1131,24 @@
    "nahled": "img/zdroje/141-4240_s025.jpg",
    "velky": "img/zdroje/141-4240_s025_velky.jpg"
   },
+  "141-4251|18": {
+   "signatura": "141-4251",
+   "snimek": 18,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/b628c27c-a629-44c8-a008-e4d017646195/dao/b628c27c-a629-44c8-a008-e4d017646195/file/990d72d3-0dc2-4ef8-9ca2-12196574027c",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-4251_s018.jpg",
+   "velky": "img/zdroje/141-4251_s018_velky.jpg",
+   "vyrez_soubor": "z141-4251-s18-index-d-1735-1756-bez-dauera.jpg"
+  },
+  "141-4251|52": {
+   "signatura": "141-4251",
+   "snimek": 52,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/b628c27c-a629-44c8-a008-e4d017646195/dao/b628c27c-a629-44c8-a008-e4d017646195/file/c85c1b1a-8156-4792-b26e-97f2d3006e2e",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-4251_s052.jpg",
+   "velky": "img/zdroje/141-4251_s052_velky.jpg",
+   "vyrez_soubor": "z141-4251-s52-index-k-1746-anna-maria-knittel.jpg"
+  },
   "141-4251|61": {
    "signatura": "141-4251",
    "snimek": 61,
@@ -1188,6 +1213,15 @@
    "nahled": "img/zdroje/141-6_s032.jpg",
    "velky": "img/zdroje/141-6_s032_velky.jpg",
    "vyrez_soubor": "z141-6-s32-1838-07-03-georg-dauer.jpg"
+  },
+  "141-7599|111": {
+   "signatura": "141-7599",
+   "snimek": 111,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/9995e7e5-6aa8-4128-aab0-5d5a7864e172",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-7599_s111.jpg",
+   "velky": "img/zdroje/141-7599_s111_velky.jpg",
+   "vyrez_soubor": "z141-7599-s111-1746-11-19-anna-maria-knittel.jpg"
   },
   "141-7599|271": {
    "signatura": "141-7599",
@@ -1757,6 +1791,15 @@
    "vyrez": "celá strana",
    "nahled": "img/zdroje/174-21_s009.jpg",
    "velky": "img/zdroje/174-21_s009_velky.jpg"
+  },
+  "174-23|18": {
+   "signatura": "174-23",
+   "snimek": 18,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/00eeb33c-e30f-45ef-8ef1-79a16a97ffef/dao/00eeb33c-e30f-45ef-8ef1-79a16a97ffef/file/d73c8703-298f-4429-bf08-715ce6ebc879",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/174-23_s018.jpg",
+   "velky": "img/zdroje/174-23_s018_velky.jpg",
+   "vyrez_soubor": "z174-23-s18-index-o-knittel-1673-1784.jpg"
   },
   "174-2|94": {
    "signatura": "174-2",
