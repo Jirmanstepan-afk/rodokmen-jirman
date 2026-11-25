@@ -1490,6 +1490,24 @@
    "nahled": "img/zdroje/141-4251_s061.jpg",
    "velky": "img/zdroje/141-4251_s061_velky.jpg"
   },
+  "141-4251|66": {
+   "signatura": "141-4251",
+   "snimek": 66,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/b628c27c-a629-44c8-a008-e4d017646195/dao/b628c27c-a629-44c8-a008-e4d017646195/file/94f377fb-53a0-4f8a-9020-37b937eff9a1",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-4251_s066.jpg",
+   "velky": "img/zdroje/141-4251_s066_velky.jpg",
+   "vyrez_soubor": "z141-4251-s66-index-n-lit-o-1727-1758-opitz-a-elisabeth-1739-40-otec-anton-chalupnik.jpg"
+  },
+  "141-4251|75": {
+   "signatura": "141-4251",
+   "snimek": 75,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/b628c27c-a629-44c8-a008-e4d017646195/dao/b628c27c-a629-44c8-a008-e4d017646195/file/3014aeac-f92c-4405-a50b-1e83f8db61dc",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-4251_s075.jpg",
+   "velky": "img/zdroje/141-4251_s075_velky.jpg",
+   "vyrez_soubor": "z141-4251-s75-index-n-lit-r-1739-1762-rosenberger-jos-joseph-1743-otec-johann-adalbert.jpg"
+  },
   "141-4251|76": {
    "signatura": "141-4251",
    "snimek": 76,
@@ -1600,7 +1618,7 @@
    "vyrez": "zápis",
    "nahled": "img/zdroje/141-5_s024.jpg",
    "velky": "img/zdroje/141-5_s024_velky.jpg",
-   "vyrez_soubor": "z141-5-s24-1803-01-27-joseph-rosenberg-chalupnik-61-let.jpg"
+   "vyrez_soubor": "z141-5-s24-pag42-1803-01-27-joseph-rosenberg-chalupnik-c30-61-let.jpg"
   },
   "141-5|29": {
    "signatura": "141-5",
@@ -1753,6 +1771,24 @@
    "nahled": "img/zdroje/141-7599_s602.jpg",
    "velky": "img/zdroje/141-7599_s602_velky.jpg",
    "vyrez_soubor": "z141-7599-s602-1767-01-25-anton-ringel-ausgedinger.jpg"
+  },
+  "141-7599|82": {
+   "signatura": "141-7599",
+   "snimek": 82,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/c0e9c40c-9e89-47f8-8587-8d7d4e6bf435",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-7599_s082.jpg",
+   "velky": "img/zdroje/141-7599_s082_velky.jpg",
+   "vyrez_soubor": "z141-7599-s82-fol90-1740-09-19-anna-elisabetha-dcera-antona-opitze-ober-hausler-ruprechtice-a-rosiny.jpg"
+  },
+  "141-7599|93": {
+   "signatura": "141-7599",
+   "snimek": 93,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/0748c5ed-8b7e-4687-931b-287eebfe9cc5",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-7599_s093.jpg",
+   "velky": "img/zdroje/141-7599_s093_velky.jpg",
+   "vyrez_soubor": "z141-7599-s93-fol113-1743-03-01-johann-josephus-syn-johanna-adalberta-rosenberga-a-anny-marie.jpg"
   },
   "144-2|110": {
    "signatura": "144-2",
