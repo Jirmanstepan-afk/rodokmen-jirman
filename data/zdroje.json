@@ -965,6 +965,24 @@
    "velky": "img/zdroje/144-3_s029_velky.jpg",
    "vyrez_soubor": "z144-3-s29-1833-01-13-johann-mader.jpg"
   },
+  "144-5|243": {
+   "signatura": "144-5",
+   "snimek": 243,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1/dao/52a94bca-6a12-4e51-a187-7c54a202b3c1/file/a83d5f0a-3297-4cf8-ac47-91904420bb29",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/144-5_s243.jpg",
+   "velky": "img/zdroje/144-5_s243_velky.jpg",
+   "vyrez_soubor": "z144-5-s243-1786-12-08-adam-herzig.jpg"
+  },
+  "144-5|248": {
+   "signatura": "144-5",
+   "snimek": 248,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1/dao/52a94bca-6a12-4e51-a187-7c54a202b3c1/file/f751d921-f535-4704-8e2a-8b92e756338a",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/144-5_s248.jpg",
+   "velky": "img/zdroje/144-5_s248_velky.jpg",
+   "vyrez_soubor": "z144-5-s248-1791-03-13-joh-christoph-doerner.jpg"
+  },
   "144-5|78": {
    "signatura": "144-5",
    "snimek": 78,
