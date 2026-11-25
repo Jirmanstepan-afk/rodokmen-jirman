@@ -750,6 +750,15 @@
    "velky": "img/zdroje/144-2_s025_velky.jpg",
    "vyrez_soubor": "z144-2-s25-1768-11-karl-dorner-kandidat.jpg"
   },
+  "144-2|5": {
+   "signatura": "144-2",
+   "snimek": 5,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/1ad1e98c-0f25-416d-bbe8-afed3d099515/dao/1ad1e98c-0f25-416d-bbe8-afed3d099515/file/b900251e-c855-4d1f-a14a-c3f13b68f9f5",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/144-2_s005.jpg",
+   "velky": "img/zdroje/144-2_s005_velky.jpg",
+   "vyrez_soubor": "z144-2-s5-1763-04-karl-dorner-syn-melchiora.jpg"
+  },
   "144-3937|8": {
    "signatura": "144-3937",
    "snimek": 8,
@@ -838,6 +847,94 @@
    "nahled": "img/zdroje/144-3_s029.jpg",
    "velky": "img/zdroje/144-3_s029_velky.jpg",
    "vyrez_soubor": "z144-3-s29-1833-01-13-johann-mader.jpg"
+  },
+  "144-5|78": {
+   "signatura": "144-5",
+   "snimek": 78,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1/dao/52a94bca-6a12-4e51-a187-7c54a202b3c1/file/20ef7f32-c292-43e4-aada-1f9142927efe",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/144-5_s078.jpg",
+   "velky": "img/zdroje/144-5_s078_velky.jpg"
+  },
+  "144-5|79": {
+   "signatura": "144-5",
+   "snimek": 79,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1/dao/52a94bca-6a12-4e51-a187-7c54a202b3c1/file/1b8a6be6-677d-4540-b444-e08cd4834818",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/144-5_s079.jpg",
+   "velky": "img/zdroje/144-5_s079_velky.jpg"
+  },
+  "144-5|80": {
+   "signatura": "144-5",
+   "snimek": 80,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1/dao/52a94bca-6a12-4e51-a187-7c54a202b3c1/file/77ec4d38-ddec-41de-bee3-ebf37ca27d47",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/144-5_s080.jpg",
+   "velky": "img/zdroje/144-5_s080_velky.jpg"
+  },
+  "144-5|81": {
+   "signatura": "144-5",
+   "snimek": 81,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1/dao/52a94bca-6a12-4e51-a187-7c54a202b3c1/file/521a0c10-232e-48de-84d1-6b313d1803aa",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/144-5_s081.jpg",
+   "velky": "img/zdroje/144-5_s081_velky.jpg"
+  },
+  "144-5|82": {
+   "signatura": "144-5",
+   "snimek": 82,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1/dao/52a94bca-6a12-4e51-a187-7c54a202b3c1/file/77081df3-c4a4-4a73-9762-fcf74f866905",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/144-5_s082.jpg",
+   "velky": "img/zdroje/144-5_s082_velky.jpg"
+  },
+  "144-5|83": {
+   "signatura": "144-5",
+   "snimek": 83,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1/dao/52a94bca-6a12-4e51-a187-7c54a202b3c1/file/9ca3640f-85ad-4aa4-b76f-c10dbfeeecf1",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/144-5_s083.jpg",
+   "velky": "img/zdroje/144-5_s083_velky.jpg"
+  },
+  "144-5|84": {
+   "signatura": "144-5",
+   "snimek": 84,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1/dao/52a94bca-6a12-4e51-a187-7c54a202b3c1/file/75ad2951-0142-4d30-89ac-ededf2949e2e",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/144-5_s084.jpg",
+   "velky": "img/zdroje/144-5_s084_velky.jpg"
+  },
+  "144-5|85": {
+   "signatura": "144-5",
+   "snimek": 85,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1/dao/52a94bca-6a12-4e51-a187-7c54a202b3c1/file/efc95784-c4cb-4c5e-a485-5f510d3bd9f4",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/144-5_s085.jpg",
+   "velky": "img/zdroje/144-5_s085_velky.jpg"
+  },
+  "144-5|86": {
+   "signatura": "144-5",
+   "snimek": 86,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1/dao/52a94bca-6a12-4e51-a187-7c54a202b3c1/file/2b774091-ae86-4e68-a47e-f0090e2b8eb7",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/144-5_s086.jpg",
+   "velky": "img/zdroje/144-5_s086_velky.jpg"
+  },
+  "144-5|87": {
+   "signatura": "144-5",
+   "snimek": 87,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1/dao/52a94bca-6a12-4e51-a187-7c54a202b3c1/file/9b03decb-3926-4bad-aa98-cc18927ab362",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/144-5_s087.jpg",
+   "velky": "img/zdroje/144-5_s087_velky.jpg"
+  },
+  "144-5|88": {
+   "signatura": "144-5",
+   "snimek": 88,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1/dao/52a94bca-6a12-4e51-a187-7c54a202b3c1/file/cdd05ee5-2fac-4e17-9d82-44536545d10b",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/144-5_s088.jpg",
+   "velky": "img/zdroje/144-5_s088_velky.jpg"
   },
   "144-5|89": {
    "signatura": "144-5",
