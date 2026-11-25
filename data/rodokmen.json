@@ -1752,8 +1752,11 @@
       "name": "Josef Syrový",
       "maiden": null,
       "birth": {
-        "display": "kolem 1781 (21 let v září 1802)",
-        "precision": "range"
+        "display": "20. 3. 1780",
+        "precision": "exact",
+        "date": "1780-03-20",
+        "place": "Choceň č. 13",
+        "note": "Datum křtu (pokřtil kaplan P. Josef Kopecký); den narození v zápisu není."
       },
       "baptism": null,
       "death": {
@@ -1784,10 +1787,23 @@
           "signatura": "2100",
           "detail": "snímek 10 (pag. 6), Choceň č. 25",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/ccc8521b-c736-49f5-82cd-66817468facb/dao/ccc8521b-c736-49f5-82cd-66817468facb/file/71c2028a-d901-4f58-a385-6820df7d3cc6"
+        },
+        {
+          "label": "ARON, křest 20. 3. 1780",
+          "signatura": "2095",
+          "detail": "snímek 502, pravá strana, pag. 979, Choceň č. 13",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1a6d0b5c-5f05-41fe-8bc6-27540ddbae5c/dao/1a6d0b5c-5f05-41fe-8bc6-27540ddbae5c/file/f4b4261b-03ae-407a-9909-f2eb201be39f"
+        },
+        {
+          "label": "ARON, index narozených S 1778–1782",
+          "signatura": "2119",
+          "detail": "snímek 128 (a 129)",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/16a8d512-c944-432b-892c-e9e052070427/dao/16a8d512-c944-432b-892c-e9e052070427/file/770c6baa-56c4-4ffa-9de0-09568aebd205"
         }
       ],
       "notes": [
-        "Syn Vojtěcha Syrového (sňatek 21. 9. 1802). Roku 1811 otec dcery v Chocni č. 25, povolání čteno jako „šewc“ (obuvník)."
+        "Syn Vojtěcha Syrového (sňatek 21. 9. 1802). Roku 1811 otec dcery v Chocni č. 25, povolání čteno jako „šewc“ (obuvník).",
+        "Křest 20. 3. 1780 v Chocni č. 13 (2095, snímek 502, pag. 979): Josef, syn Vojtěcha (Adalbertus) Syrového a Kateřiny. Ztotožnění: v indexu S 1778–1782 (2119, snímky 128–129) je to jediný Josef Syrový s otcem Vojtěchem; Josef z 5. 2. 1781 je syn Jana a Anny. Věk 21 u sňatku 9/1802 je o rok menší. V Chocni žil tehdy i druhý Vojtěch Syrový (manželka Anna, č. 136, syn František 31. 3. 1780), Josefovým otcem je ale podle křtu Vojtěch × Kateřina z č. 13."
       ],
       "interesting": []
     },
@@ -1796,8 +1812,11 @@
       "name": "Ludmila Syrová",
       "maiden": "Kumpoštová",
       "birth": {
-        "display": "kolem 1782 (20 let v září 1802)",
-        "precision": "range"
+        "display": "20. 11. 1781",
+        "precision": "exact",
+        "date": "1781-11-20",
+        "place": "Choceň č. 51",
+        "note": "Datum křtu (pokřtil P. Jan Černý)."
       },
       "baptism": null,
       "death": null,
@@ -1825,10 +1844,23 @@
           "signatura": "2100",
           "detail": "snímek 10 (pag. 6), Choceň č. 25",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/ccc8521b-c736-49f5-82cd-66817468facb/dao/ccc8521b-c736-49f5-82cd-66817468facb/file/71c2028a-d901-4f58-a385-6820df7d3cc6"
+        },
+        {
+          "label": "ARON, křest 20. 11. 1781",
+          "signatura": "2095",
+          "detail": "snímek 519, levá strana, pag. 1010, 1. zápis, Choceň č. 51",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1a6d0b5c-5f05-41fe-8bc6-27540ddbae5c/dao/1a6d0b5c-5f05-41fe-8bc6-27540ddbae5c/file/67f9543e-5f98-48c8-9219-6ffbb9daa3cb"
+        },
+        {
+          "label": "ARON, index narozených K 1781–1782",
+          "signatura": "2119",
+          "detail": "snímek 65 (a 66)",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/16a8d512-c944-432b-892c-e9e052070427/dao/16a8d512-c944-432b-892c-e9e052070427/file/04679959-0042-45fe-bb2b-11f1a17c4d71"
         }
       ],
       "notes": [
-        "Dcera Františka Kumpošta z Chocně č. 51 (sňatek 21. 9. 1802)."
+        "Dcera Františka Kumpošta z Chocně č. 51 (sňatek 21. 9. 1802).",
+        "Křest 20. 11. 1781 v Chocni č. 51 (2095, snímek 519, pag. 1010): Ludmila, dcera Františka Kumpošta a Rozálie; kmotr Matěj Kumpošt. Dům č. 51 souhlasí se sňatkem 1802. V indexu K 1781–1782 (2119, snímky 65–66) je jediná další Ludmila Kumpoštová *14. 6. 1782, dcera Vojtěcha a Anny, tedy jiná."
       ],
       "interesting": []
     },
@@ -3796,8 +3828,11 @@
       "name": "Franziska Maderová",
       "maiden": "Knopp",
       "birth": {
-        "display": "kolem 1837 (21 let v listopadu 1858)",
-        "precision": "range"
+        "display": "14. 7. 1837",
+        "precision": "exact",
+        "date": "1837-07-14",
+        "place": "Olešnice v Orlických horách č. 160",
+        "note": "Pokřtěna 15. 7. 1837."
       },
       "baptism": null,
       "death": null,
@@ -3826,11 +3861,24 @@
           "signatura": "144-3938",
           "detail": "snímek 195, folio 187, 3. zápis, Sedloňov č. 88",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        },
+        {
+          "label": "ARON, narození 14. 7. 1837",
+          "signatura": "119-2",
+          "detail": "snímek 111, pravá strana, pag. 215, 1. zápis, Olešnice (Gießhübel) č. 160",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/4c1f6fdd-bfab-42ee-b58c-d91ebd9ba416/dao/4c1f6fdd-bfab-42ee-b58c-d91ebd9ba416/file/cf6c4578-121b-405f-a642-bcb5fbafab91"
+        },
+        {
+          "label": "ARON, index narozených Olešnice, Lit. K",
+          "signatura": "119-8",
+          "detail": "snímek 35, pravá strana",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/eebb0f48-7ed4-450d-b86e-c2729d899cad/dao/eebb0f48-7ed4-450d-b86e-c2729d899cad/file/99a31865-9bd7-450a-949a-5282a6aa6e37"
         }
       ],
       "notes": [
-        "Sňatek 9. 11. 1858: „Franziska, eheliche hinterbliebene Tochter des Josef Knopp, Weber zu Gießhübel N. 160, und dessen Ehegattin Anna geborene [příjmení čteno opatrně] von Gießhübel N. 161, Amtsbezirk Neustadt“, 21 let; jako nezletilá měla poručenské svolení okresního soudu v Novém Městě z 9. 10. 1858.",
-        "Gießhübel = Olešnice v Orlických horách."
+        "Sňatek 9. 11. 1858: „Franziska, eheliche hinterbliebene Tochter des Josef Knopp, Weber zu Gießhübel N. 160, und dessen Ehegattin Klara geborene [příjmení čteno opatrně] von Gießhübel N. 161, Amtsbezirk Neustadt“, 21 let; jako nezletilá měla poručenské svolení okresního soudu v Novém Městě z 9. 10. 1858.",
+        "Gießhübel = Olešnice v Orlických horách.",
+        "Narození 14. 7. 1837, křest 15. 7. (119-2, snímek 111, pag. 215), Olešnice (Gießhübel) č. 160: otec Josef Knopp, tkadlec; matka Klara z č. 161. V indexu 119-8 (snímek 35) je to jediná Franziska Knopp z let 1836–1838."
       ],
       "interesting": []
     },
@@ -3863,16 +3911,23 @@
           "signatura": "144-3938",
           "detail": "snímek 41, folio 35, 4. zápis, Sedloňov č. 120",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        },
+        {
+          "label": "ARON, narození 14. 7. 1837",
+          "signatura": "119-2",
+          "detail": "snímek 111, pravá strana, pag. 215, 1. zápis, Olešnice (Gießhübel) č. 160",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/4c1f6fdd-bfab-42ee-b58c-d91ebd9ba416/dao/4c1f6fdd-bfab-42ee-b58c-d91ebd9ba416/file/cf6c4578-121b-405f-a642-bcb5fbafab91"
         }
       ],
       "notes": [
-        "Tkadlec v Olešnici v Orl. horách (Gießhübel) č. 160. V listopadu 1858 už nežil (dcera „hinterbliebene“, 1863 „† Josef Knopp“)."
+        "Tkadlec v Olešnici v Orl. horách (Gießhübel) č. 160. V listopadu 1858 už nežil (dcera „hinterbliebene“, 1863 „† Josef Knopp“).",
+        "Podle křtu dcery Franzisky 14. 7. 1837 (119-2, snímek 111): manželský syn † Antona Knoppa, zahradníka (Feldgärtner) v Olešnici č. 160, a Anny Marie roz. Urban(ové) z Olešnice č. 134."
       ],
       "interesting": []
     },
     {
       "id": "anna-knopp",
-      "name": "Anna Knoppová",
+      "name": "Klara Knoppová",
       "maiden": null,
       "birth": null,
       "baptism": null,
@@ -3896,10 +3951,23 @@
           "signatura": "144-3938",
           "detail": "snímek 41, folio 35, 4. zápis, Sedloňov č. 120",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        },
+        {
+          "label": "ARON, narození 14. 7. 1837",
+          "signatura": "119-2",
+          "detail": "snímek 111, pravá strana, pag. 215, 1. zápis, Olešnice (Gießhübel) č. 160",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/4c1f6fdd-bfab-42ee-b58c-d91ebd9ba416/dao/4c1f6fdd-bfab-42ee-b58c-d91ebd9ba416/file/cf6c4578-121b-405f-a642-bcb5fbafab91"
+        },
+        {
+          "label": "ARON, index oddaných Olešnice, Lit. K",
+          "signatura": "119-9",
+          "detail": "snímek 16, pravá strana",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/f0f98951-d61a-48b4-a82c-b3e254211c2c/dao/f0f98951-d61a-48b4-a82c-b3e254211c2c/file/22c6461e-d2ed-4094-bfa0-95e58b8ef23c"
         }
       ],
       "notes": [
-        "Manželka Josefa Knoppa, z Olešnice (Gießhübel) č. 161. Rodné příjmení se čte opatrně (Corsnika / Lantnika / podobně) — neuvádí se, viz q-mader-knopp-walsch."
+        "Manželka Josefa Knoppa, z Olešnice (Gießhübel) č. 161. Křestní jméno je Klara: tak ji uvádí křest dcery Franzisky 14. 7. 1837 (119-2, snímek 111) a index oddaných 119-9 (snímek 16, sňatek 25. 10. 1829). Při novém čtení zápisu z 9. 11. 1858 (144-3943, snímek 79) stojí také „Ehegattin Klara“; dřívější čtení „Anna“ bylo chybné. (Id záznamu anna-knopp zůstalo kvůli odkazům.)",
+        "Podle křtu 1837 je to manželská dcera Augustina, zahradníka v Olešnici č. 161, a Anny. Rodné příjmení je čteno různě: 1858 „Cortnika / Wortnika(?)“, 1837 „Rignatschka / Wignatschka(?)“, index 1829 „Wortnitschka(?)“. Do mapy proto nejde, viz q-mader-knopp-walsch."
       ],
       "interesting": []
     },
@@ -4502,7 +4570,7 @@
       "death": null,
       "occupation": null,
       "places": [
-        "Choceň"
+        "Choceň č. 13 (1780)"
       ],
       "branch": "syrovy",
       "certainty": "potvrzeno",
@@ -4513,6 +4581,12 @@
           "signatura": "2105",
           "detail": "snímek 24, pag. 22, poslední zápis, Choceň č. 14",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/dao/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/file/c8f754e8-1e76-48a0-b133-fb46eda79824"
+        },
+        {
+          "label": "ARON, křest 20. 3. 1780",
+          "signatura": "2095",
+          "detail": "snímek 502, pravá strana, pag. 979, Choceň č. 13",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1a6d0b5c-5f05-41fe-8bc6-27540ddbae5c/dao/1a6d0b5c-5f05-41fe-8bc6-27540ddbae5c/file/f4b4261b-03ae-407a-9909-f2eb201be39f"
         }
       ],
       "notes": [
@@ -4540,10 +4614,127 @@
           "signatura": "2105",
           "detail": "snímek 24, pag. 22, poslední zápis, Choceň č. 14",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/dao/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/file/c8f754e8-1e76-48a0-b133-fb46eda79824"
+        },
+        {
+          "label": "ARON, křest 20. 11. 1781",
+          "signatura": "2095",
+          "detail": "snímek 519, levá strana, pag. 1010, 1. zápis, Choceň č. 51",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1a6d0b5c-5f05-41fe-8bc6-27540ddbae5c/dao/1a6d0b5c-5f05-41fe-8bc6-27540ddbae5c/file/67f9543e-5f98-48c8-9219-6ffbb9daa3cb"
         }
       ],
       "notes": [
         "Uveden jako otec snoubence ve sňatku 21. 9. 1802 (2105, snímek 24)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "katerina-syrova-1780",
+      "name": "Kateřina Syrová",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Choceň"
+      ],
+      "branch": "syrovy",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, křest 20. 3. 1780",
+          "signatura": "2095",
+          "detail": "snímek 502, pravá strana, pag. 979, Choceň č. 13",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1a6d0b5c-5f05-41fe-8bc6-27540ddbae5c/dao/1a6d0b5c-5f05-41fe-8bc6-27540ddbae5c/file/f4b4261b-03ae-407a-9909-f2eb201be39f"
+        }
+      ],
+      "notes": [
+        "Rodné příjmení v zápisu křtu není uvedeno."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "rozalie-kumpostova-1781",
+      "name": "Rozálie Kumpoštová",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Choceň"
+      ],
+      "branch": "syrovy",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, křest 20. 11. 1781",
+          "signatura": "2095",
+          "detail": "snímek 519, levá strana, pag. 1010, 1. zápis, Choceň č. 51",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1a6d0b5c-5f05-41fe-8bc6-27540ddbae5c/dao/1a6d0b5c-5f05-41fe-8bc6-27540ddbae5c/file/67f9543e-5f98-48c8-9219-6ffbb9daa3cb"
+        }
+      ],
+      "notes": [
+        "Rodné příjmení v zápisu křtu není uvedeno."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "anton-knopp",
+      "name": "Anton Knopp",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 14. 7. 1837",
+        "precision": "range"
+      },
+      "occupation": "Zahradník (Feldgärtner), Olešnice v Orl. horách č. 160.",
+      "places": [
+        "Olešnice v Orlických horách č. 160"
+      ],
+      "branch": "mader",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 14. 7. 1837",
+          "signatura": "119-2",
+          "detail": "snímek 111, pravá strana, pag. 215, 1. zápis, Olešnice (Gießhübel) č. 160",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/4c1f6fdd-bfab-42ee-b58c-d91ebd9ba416/dao/4c1f6fdd-bfab-42ee-b58c-d91ebd9ba416/file/cf6c4578-121b-405f-a642-bcb5fbafab91"
+        }
+      ],
+      "notes": [
+        "V červenci 1837 už nežil („des verstorbenen Anton Knopp“, 119-2 snímek 111)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "anna-maria-urban",
+      "name": "Anna Maria Knoppová",
+      "maiden": "Urban",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Olešnice v Orlických horách č. 134"
+      ],
+      "branch": "mader",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 14. 7. 1837",
+          "signatura": "119-2",
+          "detail": "snímek 111, pravá strana, pag. 215, 1. zápis, Olešnice (Gießhübel) č. 160",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/4c1f6fdd-bfab-42ee-b58c-d91ebd9ba416/dao/4c1f6fdd-bfab-42ee-b58c-d91ebd9ba416/file/cf6c4578-121b-405f-a642-bcb5fbafab91"
+        }
+      ],
+      "notes": [
+        "Rodné příjmení Urban a dům č. 134 podle křtu vnučky Franzisky 14. 7. 1837 (119-2, snímek 111)."
       ],
       "interesting": []
     }
@@ -5874,8 +6065,20 @@
           "signatura": "144-3938",
           "detail": "snímek 41, folio 35, 4. zápis, Sedloňov č. 120",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/10bcd777-22d9-4770-a9b1-b5cc3bc3d078"
+        },
+        {
+          "label": "ARON, index oddaných Olešnice, Lit. K",
+          "signatura": "119-9",
+          "detail": "snímek 16, pravá strana",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/f0f98951-d61a-48b4-a82c-b3e254211c2c/dao/f0f98951-d61a-48b4-a82c-b3e254211c2c/file/22c6461e-d2ed-4094-bfa0-95e58b8ef23c"
         }
-      ]
+      ],
+      "married": {
+        "display": "25. 10. 1829",
+        "date": "1829-10-25",
+        "place": "Olešnice v Orlických horách",
+        "note": "Podle indexu oddaných 119-9 (snímek 16, „Knopp Joseph u. Klara …“, pag. 96). Zápis v matrice jsem nedohledal."
+      }
     },
     {
       "id": "u-ignaz-mader-walsch",
@@ -6117,9 +6320,10 @@
       ]
     },
     {
-      "id": "u-vojtech-syrovy-alone",
+      "id": "u-vojtech-syrovy-katerina",
       "partners": [
-        "vojtech-syrovy"
+        "vojtech-syrovy",
+        "katerina-syrova-1780"
       ],
       "children": [
         "josef-syrovy-obuvnik"
@@ -6131,16 +6335,21 @@
           "signatura": "2105",
           "detail": "snímek 24, pag. 22, poslední zápis, Choceň č. 14",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/dao/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/file/c8f754e8-1e76-48a0-b133-fb46eda79824"
+        },
+        {
+          "label": "ARON, křest 20. 3. 1780",
+          "signatura": "2095",
+          "detail": "snímek 502, pravá strana, pag. 979, Choceň č. 13",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1a6d0b5c-5f05-41fe-8bc6-27540ddbae5c/dao/1a6d0b5c-5f05-41fe-8bc6-27540ddbae5c/file/f4b4261b-03ae-407a-9909-f2eb201be39f"
         }
       ],
-      "notes": [
-        "Manželka Vojtěcha Syrového v zápisu 1802 není jmenována."
-      ]
+      "notes": []
     },
     {
-      "id": "u-frantisek-kumpost-alone",
+      "id": "u-frantisek-kumpost-rozalie",
       "partners": [
-        "frantisek-kumpost"
+        "frantisek-kumpost",
+        "rozalie-kumpostova-1781"
       ],
       "children": [
         "ludmila-kumpostova"
@@ -6152,11 +6361,46 @@
           "signatura": "2105",
           "detail": "snímek 24, pag. 22, poslední zápis, Choceň č. 14",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/dao/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/file/c8f754e8-1e76-48a0-b133-fb46eda79824"
+        },
+        {
+          "label": "ARON, křest 20. 11. 1781",
+          "signatura": "2095",
+          "detail": "snímek 519, levá strana, pag. 1010, 1. zápis, Choceň č. 51",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1a6d0b5c-5f05-41fe-8bc6-27540ddbae5c/dao/1a6d0b5c-5f05-41fe-8bc6-27540ddbae5c/file/67f9543e-5f98-48c8-9219-6ffbb9daa3cb"
         }
       ],
-      "notes": [
-        "Manželka Františka Kumpošta v zápisu 1802 není jmenována."
-      ]
+      "notes": []
+    },
+    {
+      "id": "u-anton-knopp-urban",
+      "partners": [
+        "anton-knopp",
+        "anna-maria-urban"
+      ],
+      "children": [
+        "josef-knopp"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, narození 14. 7. 1837",
+          "signatura": "119-2",
+          "detail": "snímek 111, pravá strana, pag. 215, 1. zápis, Olešnice (Gießhübel) č. 160",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/4c1f6fdd-bfab-42ee-b58c-d91ebd9ba416/dao/4c1f6fdd-bfab-42ee-b58c-d91ebd9ba416/file/cf6c4578-121b-405f-a642-bcb5fbafab91"
+        },
+        {
+          "label": "ARON, index oddaných Olešnice, Lit. K",
+          "signatura": "119-9",
+          "detail": "snímek 16, pravá strana",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/f0f98951-d61a-48b4-a82c-b3e254211c2c/dao/f0f98951-d61a-48b4-a82c-b3e254211c2c/file/22c6461e-d2ed-4094-bfa0-95e58b8ef23c"
+        }
+      ],
+      "married": {
+        "display": "6. 2. 1795",
+        "date": "1795-02-06",
+        "place": "Olešnice v Orlických horách",
+        "note": "Podle indexu oddaných 119-9 (snímek 16): „Knopp Anton und Anna Urbanin den 6ten Hornung 1795“. Zápis v matrice jsem nedohledal."
+      }
     }
   ],
   "identifications": [],
@@ -6894,7 +7138,7 @@
       "id": "q-mader-knopp-walsch",
       "title": "Mader, Knopp, Walsch — rodná příjmení a další generace",
       "summary": "Linie Mader je doložena do Ignaze Madera st. × Margarethy Matzner (sňatek syna 10. 2. 1825, 144-3943 snímek 25; narození vnuka 13. 1. 1833, 144-3 snímek 29).",
-      "details": "Vyřešeno 25. 11. 2026: Ignaz Mader ml. *9. 11. 1799 Polom č. 58 (144-2 snímek 195); Johanna Walsch *29. 9. 1801 Sedloňov č. 70 (144-2 snímek 112); sňatek Ignaz Mader st. × Margaretha vdova Zeiner(?) roz. Matzner 4. 1. 1799 (144-3943 snímek 118). Stále nejisté: rodné příjmení Johanny Walschové st. (1801: dcera Adalberta „Zeug / Zautz“, matka Maria dcera Franze Littnera z Martína/Marzdorfu(?) v Kladsku; 1825: „Zeug“ — dvě shodná, ale nejistá čtení); obec Antona Madera (1799, snad Kounov / Kaunay); příjmení prvního manžela Margarethy (Zeiner?); rodné příjmení Anny Knoppové z Olešnice č. 161. Další krok: sňatek Ignaz Walsch × Johanna (před 1795, 144-5 bez indexu); narození Ignaze Madera st. *kolem 1780 (podle obce otce); narození Franzisky Knopp *kolem 1837 (fara Olešnice v O. h.). Kolo 25. 11. 2026 (večer): sňatek Ignaz Walsch × Johanna NENÍ v sedloňovské oddací knize 9/1784–11/1794 (144-5, snímky 89–97, prošlo se po zápisech) — svatba byla buď před 9/1784, nebo jinde (nevěsta z Kladska?). Ignaz Mader *1776–1784 NENÍ v sedloňovském indexu narozených (144-6 snímek 24) — Ignaz Mader st. se narodil mimo Sedloňov; obec otce Antona (1799) čtena „D?auschy / Hauschy(?)“, nejisté. Kolo 25. 11. 2026 (noc): Walsch × Johanna NENÍ ani v 144-5 1774–9/1784 (snímky 78–88) — sedloňovská oddací kniha je tak negativní 1774–1794 a v indexu 144-7 od 1795; svatba nejspíš ve farnosti nevěsty (Kladsko?). V indexu narozených 144-6 snímek 35 je Ignatz Walsch *1778 (otec neuveden, nezapsáno). Obec Antona Madera ve sňatku 4. 1. 1799 (144-3943 snímek 118) přečtena znovu jako „aus Dlauhey“ = Dlouhé (něm. Dlauhey); fara neurčena (není v geo vazbách knih Bystré, Olešnice, Sedloňov, Deštné, Rokytnice, Dobruška, Kunvald, Liberk, Solnice; Dlouhá Ves u Rychnova je jiná obec). Výřez vypisy/_sheets/144-3943/z144-3943-s118-1799-01-04-ignaz-mader-aus-dlauhey.jpg. VYŘEŠENO 25. 11. 2026 (ráno): Dlauhey = Dlouhé, fara Nový Hrádek; Ignaz Mader st. *31. 7. 1780 Dlouhé č. 25, rodiče Anton Mader a Anna Rosina (117-2 snímek 68). Otevřené: rodné příjmení Anny Rosiny a sňatek Antona (v indexech oddaných Nový Hrádek 1721–1787 není). Kolo C (25. 11. 2026): V indexu narozených Nový Hrádek 1721–1771 (117-13, snímek 24) je jediný Antonius Madr: „Madr Antonius, Rzy, 130“. Zápis 117-1 snímek 137 (fol. 131) uvádí 6. 8. 1759 Antonína, syna Františka Madera a Doroty z Rzů. Totožnost s Antonem Maderem z Dlouhého č. 25 (otec Ignaze *1780) není prokázaná, proto jde jen o kandidáta. Sňatek Antona s Annou Rosinou v knihách Nového Hrádku 1721–1787 není; okolní fary zatím neprohledány.",
+      "details": "Vyřešeno 25. 11. 2026: Ignaz Mader ml. *9. 11. 1799 Polom č. 58 (144-2 snímek 195); Johanna Walsch *29. 9. 1801 Sedloňov č. 70 (144-2 snímek 112); sňatek Ignaz Mader st. × Margaretha vdova Zeiner(?) roz. Matzner 4. 1. 1799 (144-3943 snímek 118). Stále nejisté: rodné příjmení Johanny Walschové st. (1801: dcera Adalberta „Zeug / Zautz“, matka Maria dcera Franze Littnera z Martína/Marzdorfu(?) v Kladsku; 1825: „Zeug“ — dvě shodná, ale nejistá čtení); obec Antona Madera (1799, snad Kounov / Kaunay); příjmení prvního manžela Margarethy (Zeiner?); rodné příjmení Klary (dříve čteno Anna) Knoppové z Olešnice č. 161. Další krok: sňatek Ignaz Walsch × Johanna (před 1795, 144-5 bez indexu); narození Ignaze Madera st. *kolem 1780 (podle obce otce); narození Franzisky Knopp *kolem 1837 (fara Olešnice v O. h.). Kolo 25. 11. 2026 (večer): sňatek Ignaz Walsch × Johanna NENÍ v sedloňovské oddací knize 9/1784–11/1794 (144-5, snímky 89–97, prošlo se po zápisech) — svatba byla buď před 9/1784, nebo jinde (nevěsta z Kladska?). Ignaz Mader *1776–1784 NENÍ v sedloňovském indexu narozených (144-6 snímek 24) — Ignaz Mader st. se narodil mimo Sedloňov; obec otce Antona (1799) čtena „D?auschy / Hauschy(?)“, nejisté. Kolo 25. 11. 2026 (noc): Walsch × Johanna NENÍ ani v 144-5 1774–9/1784 (snímky 78–88) — sedloňovská oddací kniha je tak negativní 1774–1794 a v indexu 144-7 od 1795; svatba nejspíš ve farnosti nevěsty (Kladsko?). V indexu narozených 144-6 snímek 35 je Ignatz Walsch *1778 (otec neuveden, nezapsáno). Obec Antona Madera ve sňatku 4. 1. 1799 (144-3943 snímek 118) přečtena znovu jako „aus Dlauhey“ = Dlouhé (něm. Dlauhey); fara neurčena (není v geo vazbách knih Bystré, Olešnice, Sedloňov, Deštné, Rokytnice, Dobruška, Kunvald, Liberk, Solnice; Dlouhá Ves u Rychnova je jiná obec). Výřez vypisy/_sheets/144-3943/z144-3943-s118-1799-01-04-ignaz-mader-aus-dlauhey.jpg. VYŘEŠENO 25. 11. 2026 (ráno): Dlauhey = Dlouhé, fara Nový Hrádek; Ignaz Mader st. *31. 7. 1780 Dlouhé č. 25, rodiče Anton Mader a Anna Rosina (117-2 snímek 68). Otevřené: rodné příjmení Anny Rosiny a sňatek Antona (v indexech oddaných Nový Hrádek 1721–1787 není). Kolo C (25. 11. 2026): V indexu narozených Nový Hrádek 1721–1771 (117-13, snímek 24) je jediný Antonius Madr: „Madr Antonius, Rzy, 130“. Zápis 117-1 snímek 137 (fol. 131) uvádí 6. 8. 1759 Antonína, syna Františka Madera a Doroty z Rzů. Totožnost s Antonem Maderem z Dlouhého č. 25 (otec Ignaze *1780) není prokázaná, proto jde jen o kandidáta. Sňatek Antona s Annou Rosinou v knihách Nového Hrádku 1721–1787 není; okolní fary zatím neprohledány. Kolo F (25. 11. 2026): Franziska Knopp se narodila 14. 7. 1837 v Olešnici č. 160 (119-2 snímek 111, index 119-8 snímek 35). Josefovi rodiče Anton Knopp a Anna Maria roz. Urban jsou zapsáni v mapě. Matka (správně Klara, ne Anna) je v zápisu dcerou Augustina, zahradníka v č. 161; jeho příjmení čtu jen opatrně jako „Rignatschka / Wignatschka(?)“ (dříve čteno Corsnika / Lantnika). Matka Klary je čtena „Anna geb. Thim(?) von Blaschen(?)“. Obojí zůstává nejisté. Další krok: tělo sňatku 1829 v 119-1 a narození Klary. Index oddaných 119-9 (snímek 16): Josef Knopp × Klara 25. 10. 1829 (pag. 96) a Anton Knopp × Anna Urban(ová) 6. 2. 1795. Těla obou zápisů jsou v 119-1 (Olešnice O 10/1784–11/1835), ještě nenalezená. V indexu je i dřívější sňatek Josefa Knoppa × Theresie Klar(ové) 27. 6. 1826 (pag. 86); zda jde o téhož muže (vdovce), není ověřeno.",
       "related_ids": [
         "ignaz-mader-st",
         "anna-knopp",
