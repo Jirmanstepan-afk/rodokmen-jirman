@@ -580,6 +580,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 13-31 (poř.č. 590), 1760-4.1784",
    "popis": "římskokatolická matrika ODDANÝCH, římskokatolický index ODDANÝCH, farnost (Broumov, Broumov - Dolní předměstí, Broumov - Horní předměstí, Broumov - Prostřední předměstí, Hejtmánkovice, Křinice, Olivětín, Rožmitál, Velká Ves)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/fea1107a-15d0-4e1d-a570-61255668df2f"
+  },
+  "13-53": {
+   "apu": "ee4f3422-2409-4fde-b9fb-d8116ce8052b",
+   "dao": "ee4f3422-2409-4fde-b9fb-d8116ce8052b",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 13-53 (poř.č. 637), 1632-1766",
+   "popis": "římskokatolický index NAROZENÝCH, farnost (Broumov, Broumov - Dolní předměstí, Broumov - Horní předměstí, Broumov - Prostřední předměstí, Hejtmánkovice, Křinice, Olivětín, Rožmitál, Velká Ves)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ee4f3422-2409-4fde-b9fb-d8116ce8052b"
   }
  },
  "aliasy": {
@@ -758,6 +765,15 @@
    "velky": "img/zdroje/13-31_s106_velky.jpg",
    "vyrez_soubor": "z13-31-s106-1780-01-anton-hausdorf-barbara-grossdorf.jpg"
   },
+  "13-31|114": {
+   "signatura": "13-31",
+   "snimek": 114,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fea1107a-15d0-4e1d-a570-61255668df2f/dao/fea1107a-15d0-4e1d-a570-61255668df2f/file/907527f3-90a2-4797-bb13-02eea1fdd83d",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/13-31_s114.jpg",
+   "velky": "img/zdroje/13-31_s114_velky.jpg",
+   "vyrez_soubor": "z13-31-s114-1781-10-08-anton-hausdorf-rosenthal-maria-welcke.jpg"
+  },
   "13-32|70": {
    "signatura": "13-32",
    "snimek": 70,
@@ -765,7 +781,7 @@
    "vyrez": "zápis",
    "nahled": "img/zdroje/13-32_s070.jpg",
    "velky": "img/zdroje/13-32_s070_velky.jpg",
-   "vyrez_soubor": "s070L-1790-09-27-hausdorf-lux.jpg"
+   "vyrez_soubor": "z13-32-s70-1790-09-27-hausdorf-zenich-rodice.jpg"
   },
   "13-32|72": {
    "signatura": "13-32",
@@ -793,6 +809,24 @@
    "nahled": "img/zdroje/13-3_s582.jpg",
    "velky": "img/zdroje/13-3_s582_velky.jpg",
    "vyrez_soubor": "13-3-s582L-1765-08-28-lux-graben.jpg"
+  },
+  "13-53|71": {
+   "signatura": "13-53",
+   "snimek": 71,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ee4f3422-2409-4fde-b9fb-d8116ce8052b/dao/ee4f3422-2409-4fde-b9fb-d8116ce8052b/file/6898c121-e1e9-4394-8759-966154d05eaa",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/13-53_s071.jpg",
+   "velky": "img/zdroje/13-53_s071_velky.jpg",
+   "vyrez_soubor": "z13-53-s71-index-n-1755-hausdorf-johann-anton-jg-x-anna-barbara.jpg"
+  },
+  "13-53|72": {
+   "signatura": "13-53",
+   "snimek": 72,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ee4f3422-2409-4fde-b9fb-d8116ce8052b/dao/ee4f3422-2409-4fde-b9fb-d8116ce8052b/file/93962e67-e9f3-4ca9-a932-64a21e97b6e4",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/13-53_s072.jpg",
+   "velky": "img/zdroje/13-53_s072_velky.jpg",
+   "vyrez_soubor": "z13-53-s72-index-n-1756-12-15-hausdorf-johann-anton-anton-x-anna-regina.jpg"
   },
   "13-56|29": {
    "signatura": "13-56",
@@ -1218,7 +1252,7 @@
    "vyrez": "zápis",
    "nahled": "img/zdroje/141-4251_s052.jpg",
    "velky": "img/zdroje/141-4251_s052_velky.jpg",
-   "vyrez_soubor": "z141-4251-s52-index-k-1746-anna-maria-knittel.jpg"
+   "vyrez_soubor": "z141-4251-s52-index-k-1735-1752-knittel.jpg"
   },
   "141-4251|61": {
    "signatura": "141-4251",
@@ -1227,6 +1261,24 @@
    "vyrez": "celá strana",
    "nahled": "img/zdroje/141-4251_s061.jpg",
    "velky": "img/zdroje/141-4251_s061_velky.jpg"
+  },
+  "141-4252|35": {
+   "signatura": "141-4252",
+   "snimek": 35,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/72c08627-2329-4d2a-9227-ea95df35ede6/dao/72c08627-2329-4d2a-9227-ea95df35ede6/file/fa88ce16-972f-4882-ae37-490060c01593",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-4252_s035.jpg",
+   "velky": "img/zdroje/141-4252_s035_velky.jpg",
+   "vyrez_soubor": "z141-4252-s35-index-k-1741-1749-knittel-dittersbach.jpg"
+  },
+  "141-4252|36": {
+   "signatura": "141-4252",
+   "snimek": 36,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/72c08627-2329-4d2a-9227-ea95df35ede6/dao/72c08627-2329-4d2a-9227-ea95df35ede6/file/e985e5c3-b1ef-4a4b-abeb-7efe374d16c1",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-4252_s036.jpg",
+   "velky": "img/zdroje/141-4252_s036_velky.jpg",
+   "vyrez_soubor": "z141-4252-s36-index-k-1749-1760-heinrich-knittel-x-anna.jpg"
   },
   "141-4252|9": {
    "signatura": "141-4252",
@@ -1356,6 +1408,15 @@
    "nahled": "img/zdroje/141-7599_s413.jpg",
    "velky": "img/zdroje/141-7599_s413_velky.jpg",
    "vyrez_soubor": "o141-7599-s413L-1750-05-12-ringel-schroll.jpg"
+  },
+  "141-7599|423": {
+   "signatura": "141-7599",
+   "snimek": 423,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/ed613f08-e1f8-4768-b3aa-5550452e2664",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-7599_s423.jpg",
+   "velky": "img/zdroje/141-7599_s423_velky.jpg",
+   "vyrez_soubor": "z141-7599-s423-1755-10-19-heinrich-knittel-vdovec-dittersbach-anna-maria.jpg"
   },
   "141-7599|448": {
    "signatura": "141-7599",
