@@ -6612,9 +6612,14 @@
           "detail": "snímek 5"
         },
         {
-          "label": "ARON (negativní)",
-          "signatura": "14-4 / 14-5",
-          "detail": "14-4 snímky 55–56, 69–73; 14-5 snímek 198"
+          "label": "ARON (negativní, Janov 1811–1826)",
+          "signatura": "14-4",
+          "detail": "snímky 55–56, 69–73"
+        },
+        {
+          "label": "ARON (negativní, index O písmeno D 1829–1849)",
+          "signatura": "14-5",
+          "detail": "snímek 198"
         }
       ]
     },

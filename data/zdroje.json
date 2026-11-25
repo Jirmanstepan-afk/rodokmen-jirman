@@ -348,6 +348,20 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 96-14 (poř.č. 6801), 1810-1853",
    "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, Nízká Srbská\nN 11.1810-1835, O 1815-6.1841, Z od 5.1814",
    "url": "https://aron.vychodoceskearchivy.cz/apu/fd41faee-39b9-4778-85aa-e390771f02c0"
+  },
+  "14-4": {
+   "apu": "f9ac826b-d61c-4270-b416-f20a88bb1417",
+   "dao": "f9ac826b-d61c-4270-b416-f20a88bb1417",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 14-4 (poř.č. 714), 1785-1826",
+   "popis": "římskokatolická matrika ODDANÝCH, Bystré (do 11.1826), Bačetín (do 11.1826), Janov (do 11.1826), Kounov (1787-11.1826), Sudín (od 4.1785), Ohnišov (do 11.1826)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/f9ac826b-d61c-4270-b416-f20a88bb1417"
+  },
+  "14-5": {
+   "apu": "f4c13ecb-0126-4450-a88d-c4c173050eca",
+   "dao": "f4c13ecb-0126-4450-a88d-c4c173050eca",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 14-5 (poř.č. 715), 1827-1862",
+   "popis": "římskokatolická matrika ODDANÝCH, římskokatolický index ODDANÝCH, Bystré (do 11.1862), Bačetín (11.1827-2.1849), Janov (2.1827-7.1857), Kounov (2.1827-1.1845), Sudín (11.1827-9.1862), Ohnišov (2.1827-11.1854)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/f4c13ecb-0126-4450-a88d-c4c173050eca"
   }
  },
  "aliasy": {
@@ -508,6 +522,30 @@
    "nahled": "img/zdroje/130-7420_s044.jpg",
    "velky": "img/zdroje/130-7420_s044_velky.jpg",
    "vyrez_soubor": "maroul-josef-1874-index-130-7420-s44.jpg"
+  },
+  "14-4|55": {
+   "signatura": "14-4",
+   "snimek": 55,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/f9ac826b-d61c-4270-b416-f20a88bb1417/dao/f9ac826b-d61c-4270-b416-f20a88bb1417/file/c87d1aca-9adf-46bc-b754-b6497736bdaa",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/14-4_s055.jpg",
+   "velky": "img/zdroje/14-4_s055_velky.jpg"
+  },
+  "14-4|56": {
+   "signatura": "14-4",
+   "snimek": 56,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/f9ac826b-d61c-4270-b416-f20a88bb1417/dao/f9ac826b-d61c-4270-b416-f20a88bb1417/file/0987f9dd-f6c8-412b-9400-740fca8de235",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/14-4_s056.jpg",
+   "velky": "img/zdroje/14-4_s056_velky.jpg"
+  },
+  "14-5|198": {
+   "signatura": "14-5",
+   "snimek": 198,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/f4c13ecb-0126-4450-a88d-c4c173050eca/dao/f4c13ecb-0126-4450-a88d-c4c173050eca/file/548e189e-b356-4a3c-bebf-6719ff072982",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/14-5_s198.jpg",
+   "velky": "img/zdroje/14-5_s198_velky.jpg"
   },
   "141-1|51": {
    "signatura": "141-1",
