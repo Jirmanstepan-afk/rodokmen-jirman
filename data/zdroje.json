@@ -664,6 +664,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 53-1 (poř.č. 3643), 1751-1784",
    "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, římskokatolický index NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, farnost (Hronov, Sedmákovice, Slavíkov, Velké Poříčí, Velký Dřevíč, Vysoká Srbská, Zbečník, Zlíčko, Žabokrky, Žďárky od 8.1780)\nN 2.1751-4.1784, O 1.1751-4.1784, Z 1.1751-4.1784, fol. 2 zřízení lokalie v Hronově 1780, přifaření Žďárek k Hronovu 1780, přifaření Malé Čermné, Nízkého Dřevíče a Rokytníka k Hronovu po 1785",
    "url": "https://aron.vychodoceskearchivy.cz/apu/fdbcf250-e756-4b60-a6e7-0a5c15a4c50e"
+  },
+  "96-13": {
+   "apu": "7b7474d9-7487-45d6-b6c1-c0af58dc1dc7",
+   "dao": "7b7474d9-7487-45d6-b6c1-c0af58dc1dc7",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 96-13 (poř.č. 6800), 1784-1814",
+   "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, Nízká Srbská\nN 5.1784-11.1810, O 5.1784-10.1814, Z 5.1784-3.1814",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7"
   }
  },
  "aliasy": {
@@ -2815,6 +2822,24 @@
    "velky": "img/zdroje/53-19_s084_velky.jpg",
    "vyrez_soubor": "z53-19-s84-index-k-1818-1822-klimes.jpg"
   },
+  "53-19|88": {
+   "signatura": "53-19",
+   "snimek": 88,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/00d1283e-c929-48d6-9a14-9833caed74d3",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-19_s088.jpg",
+   "velky": "img/zdroje/53-19_s088_velky.jpg",
+   "vyrez_soubor": "z53-19-s88-index-n-vysoka-srbska-lit-p-1784-1797-pitasova-katharina-pag10.jpg"
+  },
+  "53-19|9": {
+   "signatura": "53-19",
+   "snimek": 9,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/e49fdef3-503d-4545-834d-a1299f45994c",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-19_s009.jpg",
+   "velky": "img/zdroje/53-19_s009_velky.jpg",
+   "vyrez_soubor": "z53-19-s9-pag10-1787-10-31-catharina-pitasova-vysoka-srbska-c38-otec-georg-pitas-kandidatka.jpg"
+  },
   "53-19|90": {
    "signatura": "53-19",
    "snimek": 90,
@@ -2939,6 +2964,15 @@
    "velky": "img/zdroje/53-4184_s069_velky.jpg",
    "vyrez_soubor": "z53-4184-s69-index-z-lit-s-1835-spacek-franz-hochsichel-iii-6.jpg"
   },
+  "53-52|12": {
+   "signatura": "53-52",
+   "snimek": 12,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/6edf02b6-2891-4878-b805-94356ad4d3b4/dao/6edf02b6-2891-4878-b805-94356ad4d3b4/file/3e913711-a70c-4695-b116-cf1e48bcbab4",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-52_s012.jpg",
+   "velky": "img/zdroje/53-52_s012_velky.jpg",
+   "vyrez_soubor": "z53-52-s12-pag18-1809-02-13-franz-klimes-syn-martina-zlicko-c31-x-katharina-pilasova-dcera-georga-vysoka-srbska-c28.jpg"
+  },
   "53-52|15": {
    "signatura": "53-52",
    "snimek": 15,
@@ -2947,6 +2981,15 @@
    "nahled": "img/zdroje/53-52_s015.jpg",
    "velky": "img/zdroje/53-52_s015_velky.jpg",
    "vyrez_soubor": "z53-52-s15-pag25-1817-01-07-franz-spacek-syn-josepha-podruha-hronov-c88-x-dorothea-faltova-dcera-georga-slatina-c39.jpg"
+  },
+  "53-52|26": {
+   "signatura": "53-52",
+   "snimek": 26,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/6edf02b6-2891-4878-b805-94356ad4d3b4/dao/6edf02b6-2891-4878-b805-94356ad4d3b4/file/bf8b8128-082c-4784-a69c-2fc9a876d04a",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-52_s026.jpg",
+   "velky": "img/zdroje/53-52_s026_velky.jpg",
+   "vyrez_soubor": "z53-52-s26-index-o-vysoka-srbska-lit-k-1805-1825-klimes-franz-1809-p18.jpg"
   },
   "53-53|15": {
    "signatura": "53-53",
@@ -3047,6 +3090,15 @@
    "velky": "img/zdroje/6489_s020_velky.jpg",
    "vyrez_soubor": "syrovy-satek-1887-folio17-L.jpg"
   },
+  "96-13|22": {
+   "signatura": "96-13",
+   "snimek": 22,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/858484d5-ed97-45ee-b62f-37cf306bbbbc",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-13_s022.jpg",
+   "velky": "img/zdroje/96-13_s022_velky.jpg",
+   "vyrez_soubor": "z96-13-s22-pag42-1789-08-25-tobias-syn-vaclava-maroula-a-alzbety-nizka-srbska-c2-kandidat.jpg"
+  },
   "96-14|4": {
    "signatura": "96-14",
    "snimek": 4,
@@ -3054,7 +3106,7 @@
    "vyrez": "zápis",
    "nahled": "img/zdroje/96-14_s004.jpg",
    "velky": "img/zdroje/96-14_s004_velky.jpg",
-   "vyrez_soubor": "z96-14-s4-1815-01-17-tobias-maroul-marie-simek.jpg"
+   "vyrez_soubor": "z96-14-s4-pag1-1815-01-17-tobias-maroul-chalupnik-nizka-srbska-x-marie-dcera-antonina-simka-c23.jpg"
   },
   "96-15|32": {
    "signatura": "96-15",
