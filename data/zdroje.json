@@ -362,6 +362,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 14-5 (poř.č. 715), 1827-1862",
    "popis": "římskokatolická matrika ODDANÝCH, římskokatolický index ODDANÝCH, Bystré (do 11.1862), Bačetín (11.1827-2.1849), Janov (2.1827-7.1857), Kounov (2.1827-1.1845), Sudín (11.1827-9.1862), Ohnišov (2.1827-11.1854)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/f4c13ecb-0126-4450-a88d-c4c173050eca"
+  },
+  "117-2": {
+   "apu": "8964843b-907d-4651-a5c7-9f15b886fc49",
+   "dao": "8964843b-907d-4651-a5c7-9f15b886fc49",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 117-2 (poř.č. 8087), 1771-1787",
+   "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, farnost Nový Hrádek (Borová, Dlouhé, Nový Hrádek, Rzy, Sněžné, Tis) + filiální obvod Slavoňov (Blažkov, Bohdašín, Jestřebí, Libchyně, Mezilesí, Sendraž, Slavoňov, Studénky, Vanovka, Zákraví) NZ 4.1771-9.1784, O 4.1771-6.1784; Blažkov (N 3-9.1785, O 9.1785, Z 10.1784-4.1785), Bohdašín (N 11.1784-10.1787, O 7.1785-10.1786, Z 10.1784-1.1787), Borová (NZ od 10.1784, O 1785-9.1787), Dlouhé (N 10.1784-11.1787, O 10.1784-5.1787, Z od 10.1784), Jestřebí (pouze N 12.1784-10.1786, Z 3-6.1786), Libchyně (N 2.1785-9.1786, O 11.1786-1.1787, Z 5.1785-10.1786), Mezilesí (N 10.1784-1786, O 1.1785-2.1786, Z 9.1784-1786), Nový Hrádek (NZ od 10.1784, O 10.1784-11.1787), Rzy (N 11.1784-9.1787, O 11.1785-9.1787, Z 2.1785-11.1786), Sendraž (N 11.1784-1.1787, O 6-10.1785, Z 11.1784-4.1786), Slavoňov (NZ 10.1784-1.1787, O 2.1785-2.1786), Sněžné (NZ od 10.1784, O 10.1784-2.1787), Tis (N 11.1784-11.1787, O 1.1786-11.1787, Z 9.1784-8.1787), Vanovka (pouze N 10.1784-7.1786, Z 10.1784-9.1786), Zákraví (N 12.1784-1.1787, O 5.1786, Z 10.1784-10.1786)\nfol. 135-137 nemanželské děti 1776-1782, fol. 137-138 mrtvě narození 1771-1782, fol. 271 úmrtí nemanželských dětí 1777-1778",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8964843b-907d-4651-a5c7-9f15b886fc49"
   }
  },
  "aliasy": {
@@ -370,6 +377,23 @@
   "13-7528|s. 106": 117
  },
  "snimky": {
+  "117-2|14": {
+   "signatura": "117-2",
+   "snimek": 14,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8964843b-907d-4651-a5c7-9f15b886fc49/dao/8964843b-907d-4651-a5c7-9f15b886fc49/file/6f80ffef-3fc5-4158-b4ad-bc25977cfade",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/117-2_s014.jpg",
+   "velky": "img/zdroje/117-2_s014_velky.jpg"
+  },
+  "117-2|68": {
+   "signatura": "117-2",
+   "snimek": 68,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8964843b-907d-4651-a5c7-9f15b886fc49/dao/8964843b-907d-4651-a5c7-9f15b886fc49/file/4dac3c69-6022-4ffb-9789-5afeda819da4",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/117-2_s068.jpg",
+   "velky": "img/zdroje/117-2_s068_velky.jpg",
+   "vyrez_soubor": "z117-2-s68-1780-07-31-ignatius-mader-dlauhey.jpg"
+  },
   "13-32|70": {
    "signatura": "13-32",
    "snimek": 70,
@@ -1055,6 +1079,22 @@
    "nahled": "img/zdroje/144-7_s026.jpg",
    "velky": "img/zdroje/144-7_s026_velky.jpg",
    "vyrez_soubor": "pross-anton-mader-1890-index-144-7.jpg"
+  },
+  "144-7|7": {
+   "signatura": "144-7",
+   "snimek": 7,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/392f1f89-0649-4538-8c4a-2749c138fc20/dao/392f1f89-0649-4538-8c4a-2749c138fc20/file/45b9f4c2-9f1a-4cba-bbdd-aebf186591f2",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/144-7_s007.jpg",
+   "velky": "img/zdroje/144-7_s007_velky.jpg"
+  },
+  "144-7|8": {
+   "signatura": "144-7",
+   "snimek": 8,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/392f1f89-0649-4538-8c4a-2749c138fc20/dao/392f1f89-0649-4538-8c4a-2749c138fc20/file/6642345d-b316-4f96-8479-d2764a1f693e",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/144-7_s008.jpg",
+   "velky": "img/zdroje/144-7_s008_velky.jpg"
   },
   "144-8637|31": {
    "signatura": "144-8637",
