@@ -587,6 +587,20 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 13-53 (poř.č. 637), 1632-1766",
    "popis": "římskokatolický index NAROZENÝCH, farnost (Broumov, Broumov - Dolní předměstí, Broumov - Horní předměstí, Broumov - Prostřední předměstí, Hejtmánkovice, Křinice, Olivětín, Rožmitál, Velká Ves)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/ee4f3422-2409-4fde-b9fb-d8116ce8052b"
+  },
+  "13-59": {
+   "apu": "b08b2415-7935-4b02-9944-9835621667e3",
+   "dao": "b08b2415-7935-4b02-9944-9835621667e3",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 13-59 (poř.č. 643), 1784-1859",
+   "popis": "římskokatolický index ZEMŘELÝCH, farnost (Broumov, Broumov - Dolní předměstí, Broumov - Horní předměstí, Broumov - Prostřední předměstí, Hejtmánkovice, Křinice, Olivětín, Rožmitál, Velká Ves)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/b08b2415-7935-4b02-9944-9835621667e3"
+  },
+  "13-44": {
+   "apu": "67cc362a-bb02-4c90-8b33-6b6c254ac6d5",
+   "dao": "67cc362a-bb02-4c90-8b33-6b6c254ac6d5",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 13-44 (poř.č. 617), 1784-1832",
+   "popis": "římskokatolická matrika ZEMŘELÝCH, Broumov (5.1784-12.1794), Velká Ves (5.1784-12.1832), Olivětín (5.1784.-2.1832), Hejtmánkovice (5.1784-11.1820), Rožmitál (5.1784-12.1822), Křinice (5.1784-8.1807)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/67cc362a-bb02-4c90-8b33-6b6c254ac6d5"
   }
  },
  "aliasy": {
@@ -799,7 +813,7 @@
    "vyrez": "zápis",
    "nahled": "img/zdroje/13-3_s423.jpg",
    "velky": "img/zdroje/13-3_s423_velky.jpg",
-   "vyrez_soubor": "i13-3-s423R-1756-12-15-johann-anton-haeusler-oelberg.jpg"
+   "vyrez_soubor": "z13-3-s423-1756-12-15-johann-anton-hausdorf-olberg.jpg"
   },
   "13-3|582": {
    "signatura": "13-3",
@@ -809,6 +823,42 @@
    "nahled": "img/zdroje/13-3_s582.jpg",
    "velky": "img/zdroje/13-3_s582_velky.jpg",
    "vyrez_soubor": "13-3-s582L-1765-08-28-lux-graben.jpg"
+  },
+  "13-44|100": {
+   "signatura": "13-44",
+   "snimek": 100,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/67cc362a-bb02-4c90-8b33-6b6c254ac6d5/dao/67cc362a-bb02-4c90-8b33-6b6c254ac6d5/file/7b6ebbea-699c-4fc5-9818-8e7cd8f3ffdf",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/13-44_s100.jpg",
+   "velky": "img/zdroje/13-44_s100_velky.jpg",
+   "vyrez_soubor": "z13-44-s100-olberg-1787-1789-hausdorf-regina-anton-anna-maria.jpg"
+  },
+  "13-44|103": {
+   "signatura": "13-44",
+   "snimek": 103,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/67cc362a-bb02-4c90-8b33-6b6c254ac6d5/dao/67cc362a-bb02-4c90-8b33-6b6c254ac6d5/file/aebbf0d3-6bc9-4c35-b3b9-5cd7ea725882",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/13-44_s103.jpg",
+   "velky": "img/zdroje/13-44_s103_velky.jpg",
+   "vyrez_soubor": "z13-44-s103-olberg-1802-06-02-barbara-hausdorf.jpg"
+  },
+  "13-44|106": {
+   "signatura": "13-44",
+   "snimek": 106,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/67cc362a-bb02-4c90-8b33-6b6c254ac6d5/dao/67cc362a-bb02-4c90-8b33-6b6c254ac6d5/file/589f54f0-9f49-4e56-91bb-ce6353696111",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/13-44_s106.jpg",
+   "velky": "img/zdroje/13-44_s106_velky.jpg",
+   "vyrez_soubor": "z13-44-s106-olberg-1822-12-12-anton-hausdorf.jpg"
+  },
+  "13-53|70": {
+   "signatura": "13-53",
+   "snimek": 70,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ee4f3422-2409-4fde-b9fb-d8116ce8052b/dao/ee4f3422-2409-4fde-b9fb-d8116ce8052b/file/57d6d8f5-640d-4c05-9deb-affc5cbc6259",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/13-53_s070.jpg",
+   "velky": "img/zdroje/13-53_s070_velky.jpg",
+   "vyrez_soubor": "z13-53-s70-index-n-hausdorf-anton-x-regina-1745-1748.jpg"
   },
   "13-53|71": {
    "signatura": "13-53",
@@ -845,6 +895,15 @@
    "nahled": "img/zdroje/13-57_s109.jpg",
    "velky": "img/zdroje/13-57_s109_velky.jpg",
    "vyrez_soubor": "p109R-mid.jpg"
+  },
+  "13-59|45": {
+   "signatura": "13-59",
+   "snimek": 45,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/b08b2415-7935-4b02-9944-9835621667e3/dao/b08b2415-7935-4b02-9944-9835621667e3/file/92fc3554-341a-4f0c-a6cd-e80c4d0104fb",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/13-59_s045.jpg",
+   "velky": "img/zdroje/13-59_s045_velky.jpg",
+   "vyrez_soubor": "z13-59-s45-index-z-olberg-hausdorf.jpg"
   },
   "13-5|110": {
    "signatura": "13-5",
