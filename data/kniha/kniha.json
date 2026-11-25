@@ -1,0 +1,110 @@
+{
+  "title": "Kde jsme žili",
+  "subtitle": "Rodinná kronika Jirmanů, Klimešů, Syrových, Rosenbergerů a dalších – podle matrik vypráví Štěpán Jirman",
+  "author": "Štěpán Jirman",
+  "updated": "26. 11. 2026",
+  "_navod": "Struktura knihy. Text kapitol je v souborech *.md ve stejné složce; značky viz README.md. Pole people = osoby, ze kterých se počítá generace a mapka kapitoly (doplňují se i osoby odkázané v textu).",
+  "parts": [
+    {
+      "id": "uvod", "label": "", "title": "Úvodem",
+      "chapters": [
+        { "id": "uvod", "file": "00-uvod.md", "title": "Proč jsem začal hledat", "no_label": "Úvod", "numbered": false,
+          "lead": "Kdo jsem, jak se čte matrika a jak je tahle kniha uspořádaná.",
+          "rody": "všechny větve", "obdobi": "1688–dnes", "people_all": true, "vztah": "celý rod" }
+      ]
+    },
+    {
+      "id": "otec", "label": "Díl I", "title": "Otcova strana: Jirmanové a Klimešové",
+      "intro": "Hronovsko, Machovsko a Policko – vesnice, ve kterých se rodina tátovy babičky Blaženy pohybovala celé 19. století.",
+      "chapters": [
+        { "id": "jirmanove", "file": "01-jirmanove.md", "title": "Jirmanové z Nízké Srbské",
+          "rody": "Jirman", "obdobi": "1908–dnes (stopa až 1825)",
+          "lead": "Můj praděda Ludvík, jeho děti a velká otázka, kdo byli jeho rodiče.",
+          "people": ["ludvik-jirman-1908", "blazena-klimesova-1911", "kveta-jirmanova-1941"] },
+        { "id": "klimesove", "file": "02-klimesove.md", "title": "Klimešové ze Zlíčka a Vysoké Srbské",
+          "rody": "Klimeš", "obdobi": "kolem 1781–1963",
+          "lead": "Tesař, který žil 48 let v jednom domě, dva bratři jménem František a svatba, kterou musel povolit soud.",
+          "people": ["frantisek-klimes-tesar", "jan-klimes-vymenkar", "frantisek-klimes-1856", "frantisek-klimes-1857", "frantisek-klimes-1878", "frantiska-maroulova-1878"] },
+        { "id": "pitasove", "file": "03-pitasove.md", "title": "Pitašové – pět domů v jedné vsi",
+          "rody": "Pitaš", "obdobi": "1784–1816",
+          "lead": "Chalupník Jiří Pitaš a jeho rodina, která se stěhovala po Vysoké Srbské s každým dítětem.",
+          "people": ["jiri-pitas", "katerina-ruzickova"] },
+        { "id": "spackove", "file": "04-spackove.md", "title": "Špačkové z Hronova a Faltovi ze Slatiny",
+          "rody": "Špaček, Falta", "obdobi": "1795–1844",
+          "lead": "Podruh z Hronova č. 88, dům č. 29 ve Vysoké Srbské a dívka ze Slatiny.",
+          "people": ["joseph-spacek-hronov", "frantisek-spacek", "dorota-justova", "jiri-falta-slatina", "anna-spackova"] },
+        { "id": "soumarove", "file": "05-soumarove.md", "title": "Soumarové ze Závrch a Švejdarové",
+          "rody": "Soumar, Švejdar, Uhl", "obdobi": "do 1880",
+          "lead": "Dvě sousední chalupy v Závrchách a selská dcera z Malých Petrovic.",
+          "people": ["josef-soumar", "marie-uhl", "jan-soumar", "anna-svejdarova-soumar", "frantiska-svejdarova-petrovice", "anezka-soumarova-1857"] },
+        { "id": "maroulove", "file": "06-maroulove.md", "title": "Maroulové, Šimcové a Máslovi z Nízké Srbské",
+          "rody": "Maroul, Šimec, Máslo, Němeček", "obdobi": "1815–1920",
+          "lead": "Tři svatby, ze kterých se poskládal příběh rodiny mé praprababičky Františky.",
+          "people": ["tobias-maroul", "marie-simcova", "antonin-simec", "jan-maroul-ns71", "anna-maslo-ns71", "jan-maslo-ns71-otec", "veronika-nemeckova", "josef-maroul-1850", "frantiska-maroulova-1878"] },
+        { "id": "hrubi", "file": "07-hrubi-ventrove.md", "title": "Hrubí a Ventrové z Ledhuj",
+          "rody": "Hrubý, Winter (Ventr)", "obdobi": "1794–1874",
+          "lead": "Dvě ledhujské rodiny, které se znaly o generaci dřív, než se spojily.",
+          "people": ["frantisek-hruby-ledhuje", "jan-hruby-st", "anna-hruba-st", "vaclav-ventr-ledhuje", "frantisek-ventr", "rozina-ventrova", "jan-hruby", "matka-hruba-spinka", "frantiska-hruba-c1855"] }
+      ]
+    },
+    {
+      "id": "babicka", "label": "Díl II", "title": "Babiččina strana: Syroví a Proßovi",
+      "intro": "Babička Gerda, rozená Syrová, měla předky v Chocni, v Orlických horách i na Broumovsku. Tady se z vesnických řemeslníků stávají tovární dělníci.",
+      "chapters": [
+        { "id": "syrovi", "file": "08-syrovi.md", "title": "Syroví z Chocně",
+          "rody": "Syrový, Závodný, Kumpošt", "obdobi": "1764–1933",
+          "lead": "Od choceňského měšťana přes ševce a vochláře až k tkalci v Hejtmánkovicích.",
+          "people": ["vaclav-syrovy-chocen", "vojtech-syrovy", "katerina-syrova-1780", "josef-syrovy-obuvnik", "ludmila-kumpostova", "frantiska-syrova", "frantisek-syrovy-c1848", "josef-syrovy-1888"] },
+        { "id": "tschinkel", "file": "09-tschinkel-muller.md", "title": "Tschinkelové a Müllerové",
+          "rody": "Tschinkel, Diener, Müller, Nagel", "obdobi": "19. století – 1916",
+          "lead": "Dvě ženy, díky kterým rodokmen sahá do Orlických hor a na Moravu.",
+          "people": ["anna-tschinkelova-smidova", "aloisie-tschinkelova", "josef-tschinkel", "anna-diener", "marie-mullerova-1896", "leopold-muller", "marie-nagelova", "franz-nagel"] },
+        { "id": "pross", "file": "10-prossovi-dornerove.md", "title": "Proßovi a Dörnerové ze Sedloňova",
+          "rody": "Proß, Dörner, Herzig", "obdobi": "kolem 1712–1925",
+          "lead": "Tři křížky místo podpisu, mlynářský tovaryš a cesta z Orlických hor do Martínkovic.",
+          "people": ["christoph-dorner", "karl-dorner", "susanna-herzig", "adam-herzig", "johann-dorner", "franziska-dorner", "anton-pross-1828", "josef-pross", "agathe-pross", "anton-pross", "jan-pross-1902"] },
+        { "id": "mader", "file": "11-maderove-knoppove.md", "title": "Maderové, Walschové a Knoppové",
+          "rody": "Mader, Matzner, Walsch, Knopp, Urban", "obdobi": "1780–1863",
+          "lead": "Tkadlci a chalupníci z Dlouhého, Polomi, Sedloňova a Olešnice v Orlických horách.",
+          "people": ["anton-mader", "ignaz-mader-st", "margaretha-matzner", "ignaz-mader-ml", "johanna-walsch", "ignaz-walsch", "johann-mader-1833", "anton-knopp", "anna-maria-urban", "wenzel-urban", "josef-knopp", "anna-knopp", "franziska-knopp", "johanna-mader"] }
+      ]
+    },
+    {
+      "id": "broumovsko", "label": "Díl III", "title": "Broumovsko: Rosenbergerové a Ringelové",
+      "intro": "Ruprechtice, Vižňov, Olivětín a Vernéřovice. Nejstarší zápisy celé knihy, sahající až do roku 1688.",
+      "chapters": [
+        { "id": "rosenberger", "file": "12-rosenbergerove.md", "title": "Rosenbergerové z Ruprechtic",
+          "rody": "Rosenberg(er), Obitz (Opitz)", "obdobi": "1736–1925",
+          "lead": "Pět generací podruhů a chalupníků, krejčí z Vernéřovic a Emma ze Starostína.",
+          "people": ["johannes-rosenberg-ruprechtice", "anna-maria-rosenberg-ruprechtice", "joseph-rosenberger-1767-otec", "anna-elisabetha-obitz", "anton-obitz-ruprechtice", "joseph-rosenberg-1799", "benedikt-rosenberger", "franz-rosenberger", "anna-rosenberger-1879", "emma-rosenberger-1902"] },
+        { "id": "ringel-viznov", "file": "13-ringelove-viznov.md", "title": "Ringelové z Vižňova",
+          "rody": "Ringel, Drüsin, Hofman, Bircke", "obdobi": "1688–1805",
+          "lead": "Žena se dvěma příjmeními, „horní“ Tobiáš a nejstarší zápis v knize.",
+          "people": ["lorenz-ringel-viznov", "tobias-ringel-viznov", "dorothea-ringel-viznov", "daniel-ringel-viznov", "anna-maria-ringel-viznov", "anton-hofman-viznov", "anton-ringel-viznov", "anna-drasen-viznov", "barbara-rosenberg-1799"] },
+        { "id": "hausdorf", "file": "14-hausdorfove.md", "title": "Hausdorfové z Olivětína",
+          "rody": "Hausdorf, Lux", "obdobi": "1789–1830",
+          "lead": "Příjmení, které každý farář napsal jinak, a vdovec Anton.",
+          "people": ["anton-otec-anny-1798", "anna-maria-hausdorf-1789", "barbara-matka-anny-1798", "anna-hawel"] },
+        { "id": "meier", "file": "15-meier-dauer-knittel.md", "title": "Meierové, Dauerové a Knittelové",
+          "rody": "Ringel (Ruprechtice), Knittel, Dauer, Mayer (Meier)", "obdobi": "1746–1873",
+          "lead": "Dva Antonové Ringelové, dvě Barbary a jedna svatba ve Vernéřovicích.",
+          "people": ["heinrich-knittel", "regina-knittel", "maria-knittel", "anton-ringel", "barbara-pitz", "georg-dauer", "elisabeth-dauer-1799", "theresia-dauer", "andreas-mayer", "benedikt-meier", "genovefa-meier"] }
+      ]
+    },
+    {
+      "id": "mama", "label": "Díl IV", "title": "Mámina strana",
+      "intro": "Zatím jen z rodinné paměti.",
+      "chapters": [
+        { "id": "spadt", "file": "16-mamina-strana.md", "title": "Špadtové", "rody": "Špadt, Fléglová", "obdobi": "20. století",
+          "lead": "Děda Tadej, babička Libuše a máma Romana.", "people": ["romana-spadtova-1971", "tadej-spadt", "libuse-spadtova"], "map": false }
+      ]
+    },
+    {
+      "id": "zaver", "label": "", "title": "Na závěr",
+      "chapters": [
+        { "id": "zaver", "file": "99-zaver.md", "title": "Co ještě nevím", "no_label": "Doslov", "numbered": false, "map": false,
+          "lead": "Otevřené otázky a jak bude kniha dál růst." }
+      ]
+    }
+  ]
+}

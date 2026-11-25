@@ -172,3 +172,7 @@ Kromě stromu jsou na webu dvě další stránky, které čtou stejný `data/rod
 - `povolani.html` — statistika živností. Kategorie a české vysvětlení jsou v `data/povolani-kategorie.json`. Původní formulace z matriky se nemění.
 
 U žijících osob mapa ukazuje jen obec, nikdy číslo domu. Události a povolání se skládají v prohlížeči z dat, takže nová osoba v `rodokmen.json` se na obou stránkách objeví sama, pokud její obec už je v `mista.json`.
+
+## Kniha (`kniha.html`)
+
+`kniha.html` je rodinná kronika v první osobě (vypravěč Štěpán). Text kapitol je v `data/kniha/NN-nazev.md`, struktura v `data/kniha/kniha.json`. Značky a postup jsou popsané v `data/kniha/README.md`. Po každém kole hledání stačí dopsat odstavec do příslušné kapitoly (fakta s poznámkou `[^sig/snímek: …]`, domněnky jako `> Domněnka: …`) a spustit `python3 scripts/kniha-kontrola.py`. Rámečky kapitol, generace, retro mapky (II. vojenské mapování) a otevřené otázky se počítají z dat samy.

@@ -485,7 +485,8 @@
     const items = [
       { href: "./index.html", id: "rodokmen", label: "Rodokmen" },
       { href: "./mapa.html", id: "mapa", label: "Mapa míst" },
-      { href: "./povolani.html", id: "povolani", label: "Povolání" }
+      { href: "./povolani.html", id: "povolani", label: "Povolání" },
+      { href: "./kniha.html", id: "kniha", label: "Kniha" }
     ];
     return `<nav class="sitenav" aria-label="Sekce webu">${items.map((it) =>
       `<a href="${it.href}"${it.id === active ? ' class="is-active" aria-current="page"' : ""}>${esc(it.label)}</a>`

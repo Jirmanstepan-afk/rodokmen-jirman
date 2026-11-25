@@ -299,6 +299,8 @@
     renderMarkers();
     fitCore();
     bindSearch();
+    openPlaceFromHash();
+    window.addEventListener("hashchange", openPlaceFromHash);
 
     $("#fit").addEventListener("click", fitCore);
     $("#filters-btn").addEventListener("click", () => {
@@ -313,6 +315,16 @@
     document.addEventListener("keydown", (e) => {
       if (e.key === "Escape") closePanel();
     });
+  }
+
+  /* odkaz z knihy: mapa.html#misto=<id z mista.json> */
+  function openPlaceFromHash() {
+    const m = (location.hash || "").match(/misto=([a-z0-9-]+)/);
+    if (!m) return;
+    const hit = (state.markers || []).find((x) => x.group.id === m[1]);
+    if (!hit) return;
+    state.map.setView([hit.group.lat, hit.group.lon], 13);
+    openPlace(hit.group);
   }
 
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", main);

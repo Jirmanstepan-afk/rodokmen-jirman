@@ -1,0 +1,101 @@
+/* Rodinná kronika – čtecí typografie a retro mapy */
+body.page-book { background:
+  radial-gradient(1200px 700px at 15% -10%, rgba(255,255,255,.6), transparent 60%),
+  repeating-linear-gradient(0deg, rgba(120,90,40,.018) 0 2px, transparent 2px 4px),
+  #f1e7d6; }
+.book { max-width: 760px; margin: 0 auto; padding: calc(var(--header-h) + 28px) 22px 80px; }
+.kn-titlepage { text-align: center; padding: 34px 10px 30px; border: 1px solid #c9b58f; outline: 1px solid #c9b58f; outline-offset: 5px;
+  background: rgba(255,250,240,.65); border-radius: 4px; margin: 6px 6px 34px; }
+.kn-titlepage .kn-orn-top { font-size: 1.6rem; color: #8a6a2f; letter-spacing: .4em; }
+.kn-titlepage h1 { font-family: var(--font-name); font-size: clamp(1.9rem, 5vw, 2.7rem); margin: 10px 0 6px; font-weight: 600; letter-spacing: .01em; }
+.kn-titlepage p { margin: 4px 0; color: var(--ink-soft); font-family: var(--font-name); font-style: italic; }
+.kn-titlepage .kn-meta { font-family: var(--font-ui); font-style: normal; font-size: .8rem; margin-top: 14px; }
+.kn-toc { background: rgba(255,250,240,.7); border: 1px solid #ddd0b6; border-radius: 6px; padding: 18px 22px; margin: 0 0 40px; }
+.kn-toc h2 { font-family: var(--font-name); font-weight: 600; margin: 0 0 8px; font-size: 1.3rem; }
+.kn-toc ol { list-style: none; margin: 0; padding: 0; }
+.kn-toc ol ol { margin: 4px 0 12px 0; padding-left: 14px; border-left: 2px solid #e2d4b8; }
+.kn-toc-part > a { font-family: var(--font-name); font-weight: 650; color: var(--ink); text-decoration: none; display: block; margin-top: 8px; }
+.kn-toc li li a { font-family: var(--font-name); color: #2c4a52; text-decoration: none; line-height: 1.75; }
+.kn-toc li li a:hover { text-decoration: underline; }
+.kn-toc-no { display: inline-block; min-width: 1.7em; color: #8a6a2f; font-variant-numeric: oldstyle-nums; }
+.kn-part { text-align: center; margin: 70px 0 30px; padding: 26px 10px; border-top: 1px solid #c9b58f; border-bottom: 1px solid #c9b58f; }
+.kn-part-no { text-transform: uppercase; letter-spacing: .25em; font-size: .75rem; color: #8a6a2f; margin: 0; }
+.kn-part h2 { font-family: var(--font-name); font-size: 1.9rem; font-weight: 600; margin: 6px 0; }
+.kn-part p { font-family: var(--font-name); font-style: italic; color: var(--ink-soft); margin: 6px auto 0; max-width: 560px; line-height: 1.55; }
+.kn-chapter { margin: 0 0 64px; scroll-margin-top: calc(var(--header-h) + 10px); }
+.kn-part { scroll-margin-top: calc(var(--header-h) + 10px); }
+.kn-ch-head { text-align: center; margin-bottom: 18px; }
+.kn-ch-no { font-variant: small-caps; letter-spacing: .12em; color: #8a6a2f; margin: 0; font-family: var(--font-name); }
+.kn-ch-head h2 { font-family: var(--font-name); font-size: clamp(1.5rem, 4vw, 2rem); font-weight: 600; margin: 4px 0 10px; line-height: 1.2; }
+.kn-lead { font-family: var(--font-name); font-style: italic; font-size: 1.05rem; color: #4a4338; max-width: 600px; margin: 0 auto 14px; line-height: 1.55; }
+.kn-facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 6px 18px; text-align: left;
+  background: rgba(255,250,240,.75); border: 1px solid #ddd0b6; border-radius: 6px; padding: 10px 14px; margin: 0; }
+.kn-facts dt { font-size: .68rem; letter-spacing: .1em; text-transform: uppercase; color: #8a6a2f; }
+.kn-facts dd { margin: 0; font-size: .88rem; line-height: 1.35; }
+.kn-text { font-family: var(--font-name); font-size: 1.12rem; line-height: 1.72; color: #221d16; hyphens: auto; -webkit-hyphens: auto; }
+.kn-text p { margin: 0 0 1em; text-align: justify; }
+.kn-text > p:first-child::first-letter { float: left; font-size: 3.2em; line-height: .9; padding: 4px 8px 0 0; color: #7a4a22; font-weight: 600; }
+.kn-sub { font-family: var(--font-name); font-weight: 600; font-size: 1.22rem; margin: 1.6em 0 .5em; color: #2c2418; }
+h4.kn-sub { font-size: 1.05rem; font-style: italic; }
+.kn-text ul { margin: 0 0 1em 1.1em; padding: 0; }
+.kn-text li { margin: .2em 0; }
+a.kn-person { color: #1f4e5c; text-decoration: none; border-bottom: 1px dotted rgba(31,78,92,.5); }
+a.kn-person:hover { border-bottom-style: solid; }
+a.kn-q { font-family: var(--font-ui); font-size: .72em; text-transform: uppercase; letter-spacing: .06em; color: #7a3045; text-decoration: none;
+  border: 1px solid rgba(122,48,69,.35); border-radius: 999px; padding: 0 6px; white-space: nowrap; vertical-align: 1px; }
+sup.kn-fn { font-family: var(--font-ui); font-size: .62em; line-height: 0; }
+sup.kn-fn a { text-decoration: none; color: #8a6a2f; padding: 0 1px; }
+.kn-guess { position: relative; margin: 1.2em 0 1.4em; padding: 12px 16px 6px 18px; background: rgba(214,196,160,.22);
+  border-left: 3px double #a07a3a; border-radius: 0 6px 6px 0; font-style: italic; color: #4a4033; font-size: 1.02rem; }
+.kn-guess p { text-align: left !important; margin: 0 0 .6em; }
+.kn-guess-tag { display: inline-block; font-family: var(--font-ui); font-style: normal; font-size: .64rem; letter-spacing: .14em; text-transform: uppercase;
+  color: #fff; background: #a07a3a; border-radius: 3px; padding: 1px 7px; margin-bottom: 6px; }
+@media (min-width: 1180px) {
+  .kn-guess { margin-right: -230px; margin-left: 0; float: right; clear: right; width: 230px; font-size: .9rem; padding: 10px 12px 4px; margin-top: .2em;
+    border-left: 0; border-top: 3px double #a07a3a; border-radius: 0 0 6px 6px; }
+  .kn-text { position: relative; }
+}
+.kn-orn { text-align: center; color: #a07a3a; margin: 1.2em 0; font-size: 1.2rem; letter-spacing: 1em; }
+.kn-fig { margin: 1.4em 0; padding: 10px; background: #fbf5e9; border: 1px solid #d8c7a5; box-shadow: 0 6px 16px rgba(60,40,10,.12); }
+.kn-fig img { display: block; width: 100%; height: auto; max-height: 460px; object-fit: contain; background: #efe5d2; filter: sepia(.15); }
+.kn-fig figcaption { font-family: var(--font-ui); font-size: .84rem; color: #4a4338; margin-top: 8px; line-height: 1.4; }
+.kn-fig-no { font-weight: 700; color: #7a4a22; margin-right: 4px; }
+.kn-fig-src { display: block; color: var(--ink-soft); font-size: .76rem; margin-top: 3px; }
+.kn-notes, .kn-open { font-family: var(--font-ui); font-size: .84rem; color: #4a4338; border-top: 1px solid #d8c7a5; margin-top: 22px; padding-top: 10px; }
+.kn-notes h3, .kn-open h3 { font-size: .7rem; letter-spacing: .12em; text-transform: uppercase; color: #8a6a2f; margin: 0 0 6px; }
+.kn-notes ol { padding-left: 1.6em; margin: 0; }
+.kn-notes li, .kn-open li { margin: 3px 0; line-height: 1.45; scroll-margin-top: calc(var(--header-h) + 20px); }
+.kn-notes li:target, .kn-open li:target { background: #f6e7bf; }
+.kn-open ul { padding-left: 1.2em; margin: 0; }
+.kn-top { text-align: right; font-family: var(--font-ui); font-size: .78rem; margin: 10px 0 0; }
+.kn-top a { color: var(--ink-soft); }
+/* retro mapa */
+.kn-mapbox { margin: 18px 0 26px; padding: 8px; background: #efe2c6; border: 1px solid #b89a63; outline: 3px double #b89a63; outline-offset: 3px;
+  box-shadow: 0 8px 22px rgba(60,40,10,.18); position: relative; }
+.kn-map { height: 340px; background: #e8dcc0; position: relative; }
+.kn-map .leaflet-tile-pane { filter: sepia(.28) saturate(.9) contrast(.96); }
+.kn-map.kn-map-fallback .leaflet-tile-pane { filter: sepia(.75) saturate(.55) hue-rotate(-8deg) contrast(.92) brightness(1.02); }
+.kn-map::after { content: ""; position: absolute; inset: 0; pointer-events: none; z-index: 450;
+  box-shadow: inset 0 0 60px rgba(90,60,20,.35); }
+.kn-map-cap { display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; font-family: var(--font-name); font-style: italic; font-size: .82rem;
+  color: #5a4a2c; padding: 6px 2px 0; }
+.kn-map-cap a { color: #5a4a2c; }
+.kn-pin-wrap { background: none; border: 0; }
+.kn-pin { display: block; width: 14px; height: 14px; border-radius: 50%; background: #7a2e1f; border: 2px solid #fbf2dc; box-shadow: 0 0 0 1px #3b2a12, 0 2px 4px rgba(0,0,0,.35); }
+.leaflet-tooltip.kn-label { background: rgba(251,244,226,.88); border: 1px solid #b89a63; border-radius: 2px; box-shadow: none; color: #2c2418;
+  font-family: var(--font-name); font-style: italic; font-size: 12px; padding: 0 5px; }
+.leaflet-tooltip.kn-label::before { display: none; }
+.kn-pop ul { margin: 4px 0 6px; padding-left: 1.1em; font-size: .82rem; }
+.kn-pop strong { font-family: var(--font-name); font-size: 1rem; }
+.kn-mapbox .leaflet-control-attribution { font-size: 9px; max-width: 70%; white-space: normal; line-height: 1.25; background: rgba(251,244,226,.85); }
+@media (max-width: 720px) {
+  .book { padding: calc(var(--header-h) + 14px) 14px 60px; }
+  .kn-text { font-size: 1.04rem; line-height: 1.66; }
+  .kn-text p { text-align: left; }
+  .kn-map { height: 270px; }
+  .kn-titlepage { margin: 6px 4px 26px; }
+}
+@media print {
+  .topbar, .subnav-wrap, .kn-mapbox, .kn-top { display: none !important; }
+  .book { padding-top: 0; }
+}
