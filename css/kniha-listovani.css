@@ -213,3 +213,4 @@ sup.kn-fn a { text-decoration: none; color: #8a5a1f; padding: 0 1px; }
   .fb-bar .fb-fs { display: none; }
   .fb-inner { padding: 6% 7% 4%; }
 }
+.fb-content .kn-notes a, .fb-content .kn-open a, .fb-colophon a { color: #6a3f1a; }
