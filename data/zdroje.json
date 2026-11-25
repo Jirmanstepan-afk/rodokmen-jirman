@@ -1611,6 +1611,15 @@
    "velky": "img/zdroje/141-5_s029_velky.jpg",
    "vyrez_soubor": "z141-5-s29-pag52-1806-11-08-elisabeth-vdova-po-johannu-rosenbergovi-c53-43-let.jpg"
   },
+  "141-6|10": {
+   "signatura": "141-6",
+   "snimek": 10,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/358d4f5b-1b37-453d-b1a9-3f5b308626da/dao/358d4f5b-1b37-453d-b1a9-3f5b308626da/file/e80ae998-254b-4ad8-9316-3a420b064774",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-6_s010.jpg",
+   "velky": "img/zdroje/141-6_s010_velky.jpg",
+   "vyrez_soubor": "z141-6-s10-fol12-1818-11-03-elisabeth-vdova-po-josephu-rosenbergovi-chalupnikovi-c56-80-let.jpg"
+  },
   "141-6|23": {
    "signatura": "141-6",
    "snimek": 23,
@@ -1700,6 +1709,15 @@
    "nahled": "img/zdroje/141-7599_s423.jpg",
    "velky": "img/zdroje/141-7599_s423_velky.jpg",
    "vyrez_soubor": "z141-7599-s423-1755-10-19-heinrich-knittel-vdovec-dittersbach-anna-maria.jpg"
+  },
+  "141-7599|437": {
+   "signatura": "141-7599",
+   "snimek": 437,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/6b010eb3-9bc0-407f-a102-4a249f3915a3",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-7599_s437.jpg",
+   "velky": "img/zdroje/141-7599_s437_velky.jpg",
+   "vyrez_soubor": "z141-7599-s437-fol105-1764-11-19-johann-joseph-rosenberg-x-anna-elisabetha-obitz.jpg"
   },
   "141-7599|448": {
    "signatura": "141-7599",
@@ -2616,6 +2634,15 @@
    "velky": "img/zdroje/3141_s151_velky.jpg",
    "vyrez_soubor": "syrovy-josef-1888-narozeni-chocen-3141-p151.jpg"
   },
+  "53-19|47": {
+   "signatura": "53-19",
+   "snimek": 47,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/679294cd-9305-4fb8-8ee6-bd532c7ad07a",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-19_s047.jpg",
+   "velky": "img/zdroje/53-19_s047_velky.jpg",
+   "vyrez_soubor": "z53-19-s47-pag86-1809-12-16-joseph-spacek-nemanz-matka-ludmila-dcera-josepha-spacka-podruha.jpg"
+  },
   "53-19|58": {
    "signatura": "53-19",
    "snimek": 58,
@@ -2721,6 +2748,15 @@
    "nahled": "img/zdroje/53-4184_s069.jpg",
    "velky": "img/zdroje/53-4184_s069_velky.jpg",
    "vyrez_soubor": "z53-4184-s69-index-z-lit-s-1835-spacek-franz-hochsichel-iii-6.jpg"
+  },
+  "53-53|15": {
+   "signatura": "53-53",
+   "snimek": 15,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/dao/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/file/d0240aee-c6d7-4780-b949-5ac49b03745d",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-53_s015.jpg",
+   "velky": "img/zdroje/53-53_s015_velky.jpg",
+   "vyrez_soubor": "z53-53-s15-fol13-1839-11-19-joseph-spacek-c29-syn-franze-a-doroty-faltove-x-franziska.jpg"
   },
   "53-53|25": {
    "signatura": "53-53",
