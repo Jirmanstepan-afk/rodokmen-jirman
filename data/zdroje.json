@@ -2820,6 +2820,15 @@
    "velky": "img/zdroje/53-19_s014_velky.jpg",
    "vyrez_soubor": "z53-19-s14-pag21-1791-anna-maria-pitasova-vysoka-srbska-c28-otec-georg-pitas-chalupnik.jpg"
   },
+  "53-19|18": {
+   "signatura": "53-19",
+   "snimek": 18,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/687b34fe-cb15-4d2d-8fad-e40a5ae838af",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-19_s018.jpg",
+   "velky": "img/zdroje/53-19_s018_velky.jpg",
+   "vyrez_soubor": "z53-19-s18-pag28-1793-12-09-maria-pitasova-vysoka-srbska-c28-matka-catharina-rozena-wrschurz.jpg"
+  },
   "53-19|47": {
    "signatura": "53-19",
    "snimek": 47,
@@ -2837,6 +2846,15 @@
    "nahled": "img/zdroje/53-19_s058.jpg",
    "velky": "img/zdroje/53-19_s058_velky.jpg",
    "vyrez_soubor": "z53-19-s58-1817-04-ludmila-spackova-c29-otec-joseph-spacek-podruh.jpg"
+  },
+  "53-19|6": {
+   "signatura": "53-19",
+   "snimek": 6,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/88b43e04-9d89-4107-8272-791d9389a7f3/dao/88b43e04-9d89-4107-8272-791d9389a7f3/file/e3005771-1608-4eca-8e17-d00fd554aebc",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-19_s006.jpg",
+   "velky": "img/zdroje/53-19_s006_velky.jpg",
+   "vyrez_soubor": "z53-19-s6-pag5-1785-vaclav-pitas-vysoka-srbska-c30-otec-georg-matka-catharina.jpg"
   },
   "53-19|60": {
    "signatura": "53-19",
@@ -2909,6 +2927,42 @@
    "nahled": "img/zdroje/53-1_s118.jpg",
    "velky": "img/zdroje/53-1_s118_velky.jpg",
    "vyrez_soubor": "z53-1-s118-pag89-1782-08-13-joseph-spacek-syn-georga-zbecnik-x-maria-dcera-tobiase-jurny-hronov.jpg"
+  },
+  "53-1|236": {
+   "signatura": "53-1",
+   "snimek": 236,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fdbcf250-e756-4b60-a6e7-0a5c15a4c50e/dao/fdbcf250-e756-4b60-a6e7-0a5c15a4c50e/file/2daf645c-f5ef-4b83-bf9f-01a525cd173c",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-1_s236.jpg",
+   "velky": "img/zdroje/53-1_s236_velky.jpg",
+   "vyrez_soubor": "z53-1-s236-pag1-krty-hronov-liber-ii-10-11-1780-bez-frantiska-klimese-zlicko.jpg"
+  },
+  "53-1|237": {
+   "signatura": "53-1",
+   "snimek": 237,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fdbcf250-e756-4b60-a6e7-0a5c15a4c50e/dao/fdbcf250-e756-4b60-a6e7-0a5c15a4c50e/file/1cfd974a-8cc9-4b11-8f11-c66178a0633e",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-1_s237.jpg",
+   "velky": "img/zdroje/53-1_s237_velky.jpg",
+   "vyrez_soubor": "z53-1-s237-pag2-3-krty-hronov-11-12-1780-bez-frantiska-klimese-zlicko.jpg"
+  },
+  "53-1|238": {
+   "signatura": "53-1",
+   "snimek": 238,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fdbcf250-e756-4b60-a6e7-0a5c15a4c50e/dao/fdbcf250-e756-4b60-a6e7-0a5c15a4c50e/file/5969ae11-a7c5-4f69-833c-b5b96e55c462",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-1_s238.jpg",
+   "velky": "img/zdroje/53-1_s238_velky.jpg",
+   "vyrez_soubor": "z53-1-s238-pag4-5-krty-hronov-12-1780-1-1781-bez-frantiska-klimese-zlicko.jpg"
+  },
+  "53-1|239": {
+   "signatura": "53-1",
+   "snimek": 239,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fdbcf250-e756-4b60-a6e7-0a5c15a4c50e/dao/fdbcf250-e756-4b60-a6e7-0a5c15a4c50e/file/469e96ed-b039-4f3a-9936-394d56921351",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-1_s239.jpg",
+   "velky": "img/zdroje/53-1_s239_velky.jpg",
+   "vyrez_soubor": "z53-1-s239-pag6-7-krty-hronov-1-2-1781-bez-frantiska-klimese-zlicko.jpg"
   },
   "53-1|71": {
    "signatura": "53-1",
@@ -3205,6 +3259,15 @@
    "velky": "img/zdroje/6489_s020_velky.jpg",
    "vyrez_soubor": "syrovy-satek-1887-folio17-L.jpg"
   },
+  "96-13|18": {
+   "signatura": "96-13",
+   "snimek": 18,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/8439a36a-e9d6-429c-b619-4936220dbc7b",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-13_s018.jpg",
+   "velky": "img/zdroje/96-13_s018_velky.jpg",
+   "vyrez_soubor": "z96-13-s18-1786-12-15-frantisek-syn-vaclava-maroula-a-alzbety-nizka-srbska-c2.jpg"
+  },
   "96-13|22": {
    "signatura": "96-13",
    "snimek": 22,
@@ -3213,6 +3276,15 @@
    "nahled": "img/zdroje/96-13_s022.jpg",
    "velky": "img/zdroje/96-13_s022_velky.jpg",
    "vyrez_soubor": "z96-13-s22-pag42-1789-08-25-tobias-syn-vaclava-maroula-a-alzbety-nizka-srbska-c2-kandidat.jpg"
+  },
+  "96-13|24": {
+   "signatura": "96-13",
+   "snimek": 24,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/e33996d3-d232-4e37-9f31-dfd5bfdf4b09",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-13_s024.jpg",
+   "velky": "img/zdroje/96-13_s024_velky.jpg",
+   "vyrez_soubor": "z96-13-s24-1791-krty-nizka-srbska-tobias-c17-a-c15-jine-rodiny.jpg"
   },
   "96-14|4": {
    "signatura": "96-14",
