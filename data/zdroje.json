@@ -2910,6 +2910,42 @@
    "velky": "img/zdroje/53-1_s118_velky.jpg",
    "vyrez_soubor": "z53-1-s118-pag89-1782-08-13-joseph-spacek-syn-georga-zbecnik-x-maria-dcera-tobiase-jurny-hronov.jpg"
   },
+  "53-1|71": {
+   "signatura": "53-1",
+   "snimek": 71,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fdbcf250-e756-4b60-a6e7-0a5c15a4c50e/dao/fdbcf250-e756-4b60-a6e7-0a5c15a4c50e/file/c2f91b8d-11f7-4546-b50e-63e32e909ee0",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-1_s071.jpg",
+   "velky": "img/zdroje/53-1_s071_velky.jpg",
+   "vyrez_soubor": "z53-1-s71-pag134-135-krty-hronov-1-5-1780-bez-frantiska-klimese.jpg"
+  },
+  "53-1|72": {
+   "signatura": "53-1",
+   "snimek": 72,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fdbcf250-e756-4b60-a6e7-0a5c15a4c50e/dao/fdbcf250-e756-4b60-a6e7-0a5c15a4c50e/file/b5482b33-05d7-482a-af24-ce64af00c059",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-1_s072.jpg",
+   "velky": "img/zdroje/53-1_s072_velky.jpg",
+   "vyrez_soubor": "z53-1-s72-pag136-137-krty-hronov-5-8-1780-bez-frantiska-klimese.jpg"
+  },
+  "53-1|73": {
+   "signatura": "53-1",
+   "snimek": 73,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fdbcf250-e756-4b60-a6e7-0a5c15a4c50e/dao/fdbcf250-e756-4b60-a6e7-0a5c15a4c50e/file/f79e5cbd-8f54-40c7-9be8-125f741ad68b",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-1_s073.jpg",
+   "velky": "img/zdroje/53-1_s073_velky.jpg",
+   "vyrez_soubor": "z53-1-s73-pag138-139-krty-hronov-8-9-1780-bez-frantiska-klimese.jpg"
+  },
+  "53-1|74": {
+   "signatura": "53-1",
+   "snimek": 74,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fdbcf250-e756-4b60-a6e7-0a5c15a4c50e/dao/fdbcf250-e756-4b60-a6e7-0a5c15a4c50e/file/f053e01b-e821-473f-a5ae-c13a4b652c07",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-1_s074.jpg",
+   "velky": "img/zdroje/53-1_s074_velky.jpg",
+   "vyrez_soubor": "z53-1-s74-pag140-krty-hronov-9-10-1780-konec-liber-i-bez-frantiska-klimese.jpg"
+  },
   "53-20|179": {
    "signatura": "53-20",
    "snimek": 179,
@@ -3051,6 +3087,24 @@
    "nahled": "img/zdroje/53-52_s026.jpg",
    "velky": "img/zdroje/53-52_s026_velky.jpg",
    "vyrez_soubor": "z53-52-s26-index-o-vysoka-srbska-lit-k-1805-1825-klimes-franz-1809-p18.jpg"
+  },
+  "53-52|27": {
+   "signatura": "53-52",
+   "snimek": 27,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/6edf02b6-2891-4878-b805-94356ad4d3b4/dao/6edf02b6-2891-4878-b805-94356ad4d3b4/file/f00d63e8-ea17-4bd2-8222-4ce380af1512",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-52_s027.jpg",
+   "velky": "img/zdroje/53-52_s027_velky.jpg",
+   "vyrez_soubor": "z53-52-s27-index-o-vysoka-srbska-lit-p-1784-pitasch-georg-pag1.jpg"
+  },
+  "53-52|3": {
+   "signatura": "53-52",
+   "snimek": 3,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/6edf02b6-2891-4878-b805-94356ad4d3b4/dao/6edf02b6-2891-4878-b805-94356ad4d3b4/file/82fbed57-6937-408c-9d98-31e852010fa3",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-52_s003.jpg",
+   "velky": "img/zdroje/53-52_s003_velky.jpg",
+   "vyrez_soubor": "z53-52-s3-pag1-1784-07-18-georg-pitas-x-catharina-pleschkin-vysoka-srbska-c38.jpg"
   },
   "53-53|15": {
    "signatura": "53-53",
