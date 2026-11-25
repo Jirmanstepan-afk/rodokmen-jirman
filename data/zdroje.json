@@ -496,6 +496,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 130-44 (poř.č. 8791), 1785-1833",
    "popis": "římskokatolický index NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, farnost (Bukovice, Česká Metuje, Dědov, Hlavňov, Hony, Malá Ledhuje, Maršov nad Metují, Pěkov, Petrovice, Police nad Metují, Radešov, Slavný Suchý Důl, Velká Ledhuje, Žďár nad Metují)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/abd89fc7-6a72-41a5-8a89-fa7355bf4574"
+  },
+  "12-7": {
+   "apu": "3688be9d-2fd0-4a9d-a333-5d22d581c29f",
+   "dao": "3688be9d-2fd0-4a9d-a333-5d22d581c29f",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 12-7 (poř.č. 463), 1784-1847",
+   "popis": "římskokatolický index NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, farnost (Boušín, Mečov, Slatina nad Úpou)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/3688be9d-2fd0-4a9d-a333-5d22d581c29f"
   }
  },
  "aliasy": {
@@ -548,6 +555,15 @@
    "velky": "img/zdroje/119-1_s255_velky.jpg",
    "vyrez_soubor": "z119-1-s255-1805-09-11-josef-knopp.jpg"
   },
+  "119-1|279": {
+   "signatura": "119-1",
+   "snimek": 279,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/c942febb-f341-4f4a-8e83-d80c422e5040/dao/c942febb-f341-4f4a-8e83-d80c422e5040/file/d9c896fa-836f-493a-9068-578aef391fc1",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/119-1_s279.jpg",
+   "velky": "img/zdroje/119-1_s279_velky.jpg",
+   "vyrez_soubor": "z119-1-s279-1811-02-11-anton-augustin-c161.jpg"
+  },
   "119-1|71": {
    "signatura": "119-1",
    "snimek": 71,
@@ -592,6 +608,15 @@
    "nahled": "img/zdroje/12-2_s026.jpg",
    "velky": "img/zdroje/12-2_s026_velky.jpg",
    "vyrez_soubor": "z12-2-s26-1792-03-12-dorota-marie-faltova-kandidat.jpg"
+  },
+  "12-7|11": {
+   "signatura": "12-7",
+   "snimek": 11,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/3688be9d-2fd0-4a9d-a333-5d22d581c29f/dao/3688be9d-2fd0-4a9d-a333-5d22d581c29f/file/9e771c24-ebff-4c01-8ee6-e2fad5c31dfa",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/12-7_s011.jpg",
+   "velky": "img/zdroje/12-7_s011_velky.jpg",
+   "vyrez_soubor": "z12-7-s11-index-f-falta-1785-1804-dorota-1792.jpg"
   },
   "13-32|70": {
    "signatura": "13-32",
@@ -705,6 +730,15 @@
    "nahled": "img/zdroje/130-17_s005.jpg",
    "velky": "img/zdroje/130-17_s005_velky.jpg",
    "vyrez_soubor": "z130-17-s05-1793-06-11-snatek-vaclav-winter-rosina-kandidat.jpg"
+  },
+  "130-18|22": {
+   "signatura": "130-18",
+   "snimek": 22,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/e1ffbce8-42c4-4ecd-bbd1-c22f0a6ce27c",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-18_s022.jpg",
+   "velky": "img/zdroje/130-18_s022_velky.jpg",
+   "vyrez_soubor": "z130-18-s22-1820-04-17-jan-frantisek-klimes-odmitnuto.jpg"
   },
   "130-18|23": {
    "signatura": "130-18",
@@ -1757,6 +1791,15 @@
    "vyrez_soubor": "z2100-s10-1811-12-01-syrova-otec-josef-matka-ludmila-kumpostova.jpg",
    "url": "https://aron.vychodoceskearchivy.cz/apu/ccc8521b-c736-49f5-82cd-66817468facb/dao/ccc8521b-c736-49f5-82cd-66817468facb/file/71c2028a-d901-4f58-a385-6820df7d3cc6"
   },
+  "2104|169": {
+   "signatura": "2104",
+   "snimek": 169,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/f216e5ed-8619-44d6-9443-605455762eb2/dao/f216e5ed-8619-44d6-9443-605455762eb2/file/4c569020-edfb-411b-8a73-b73256d47d1c",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/2104_s169.jpg",
+   "velky": "img/zdroje/2104_s169_velky.jpg",
+   "vyrez_soubor": "z2104-s169-1764-10-29-vojtech-syrovy-katerina-zavodna.jpg"
+  },
   "2104|238": {
    "signatura": "2104",
    "snimek": 238,
@@ -1783,6 +1826,33 @@
    "nahled": "img/zdroje/2105_s024.jpg",
    "velky": "img/zdroje/2105_s024_velky.jpg",
    "vyrez_soubor": "z2105-s24-1802-09-21-syrovy-kumpostova.jpg"
+  },
+  "2119|123": {
+   "signatura": "2119",
+   "snimek": 123,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/16a8d512-c944-432b-892c-e9e052070427/dao/16a8d512-c944-432b-892c-e9e052070427/file/083642b8-dd26-4077-b7e7-7d740c5bc58e",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/2119_s123.jpg",
+   "velky": "img/zdroje/2119_s123_velky.jpg",
+   "vyrez_soubor": "z2119-s123-index-S-1765-08-02-anna-vojtech-katerina.jpg"
+  },
+  "2119|124": {
+   "signatura": "2119",
+   "snimek": 124,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/16a8d512-c944-432b-892c-e9e052070427/dao/16a8d512-c944-432b-892c-e9e052070427/file/319a6603-51cf-4da8-9350-21249edc79b8",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/2119_s124.jpg",
+   "velky": "img/zdroje/2119_s124_velky.jpg",
+   "vyrez_soubor": "z2119-s124-index-S-1767-08-28-rozalie-vojtech-katerina.jpg"
+  },
+  "2119|125": {
+   "signatura": "2119",
+   "snimek": 125,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/16a8d512-c944-432b-892c-e9e052070427/dao/16a8d512-c944-432b-892c-e9e052070427/file/bf84fb17-bc65-47a9-aacc-5d36a8982290",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/2119_s125.jpg",
+   "velky": "img/zdroje/2119_s125_velky.jpg",
+   "vyrez_soubor": "z2119-s125-index-S-1771-04-24-marie-vojtech-katerina.jpg"
   },
   "2119|128": {
    "signatura": "2119",
