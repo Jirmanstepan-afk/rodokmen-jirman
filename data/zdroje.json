@@ -615,6 +615,27 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 12-4 (poř.č. 457), 6.1784-6.1853",
    "popis": "římskokatolická matrika ODDANÝCH, římskokatolický index ODDANÝCH, Slatina nad Úpou",
    "url": "https://aron.vychodoceskearchivy.cz/apu/816b61d4-3bc4-4c30-bf85-e65a7ae148f8"
+  },
+  "53-73": {
+   "apu": "97156f2f-6d36-4241-9f0b-799d82a7a4f0",
+   "dao": "97156f2f-6d36-4241-9f0b-799d82a7a4f0",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 53-73 (poř.č. 3773), 1833-1848",
+   "popis": "římskokatolická matrika ZEMŘELÝCH, římskokatolický index ZEMŘELÝCH, Vysoká Srbská\nindex pouze 1833-1834",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/97156f2f-6d36-4241-9f0b-799d82a7a4f0"
+  },
+  "53-4184": {
+   "apu": "29d538a6-cb32-4373-937b-732566ff46e0",
+   "dao": "29d538a6-cb32-4373-937b-732566ff46e0",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 53-4184 (poř.č. 3801), 1835-1872",
+   "popis": "římskokatolický index ZEMŘELÝCH, farnost (Hronov, Kozínek, Malá Čermná, Nízký Dřevíč, Rokytník, Sedmákovice, Slavíkov, Střezina, Velké Poříčí, Velký Dřevíč, Vysoká Srbská, Závrchy, Zbečník, Zlíčko, Žabokrky, Žďárky)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/29d538a6-cb32-4373-937b-732566ff46e0"
+  },
+  "53-72": {
+   "apu": "ec74965f-eea9-4f75-8c12-72957f62fd0e",
+   "dao": "ec74965f-eea9-4f75-8c12-72957f62fd0e",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 53-72 (poř.č. 3772), 1784-1832",
+   "popis": "římskokatolická matrika ZEMŘELÝCH, římskokatolický index ZEMŘELÝCH, Vysoká Srbská (5.1784-1832)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ec74965f-eea9-4f75-8c12-72957f62fd0e"
   }
  },
  "aliasy": {
@@ -1360,6 +1381,39 @@
    "velky": "img/zdroje/141-3_s016_velky.jpg",
    "vyrez_soubor": "z141-3-s16-1800-08-12-joseph-rosenberg-c73-33-vdovec.jpg"
   },
+  "141-3|4": {
+   "signatura": "141-3",
+   "snimek": 4,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/41ee5d74-aaef-4eee-8599-da0678470f8b/dao/41ee5d74-aaef-4eee-8599-da0678470f8b/file/a980bcca-1121-4d9c-8244-7d2b95dc26f2",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/141-3_s004.jpg",
+   "velky": "img/zdroje/141-3_s004_velky.jpg"
+  },
+  "141-3|5": {
+   "signatura": "141-3",
+   "snimek": 5,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/41ee5d74-aaef-4eee-8599-da0678470f8b/dao/41ee5d74-aaef-4eee-8599-da0678470f8b/file/5c53ee3a-7de3-443e-8723-0ead7c69e6fd",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/141-3_s005.jpg",
+   "velky": "img/zdroje/141-3_s005_velky.jpg"
+  },
+  "141-3|6": {
+   "signatura": "141-3",
+   "snimek": 6,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/41ee5d74-aaef-4eee-8599-da0678470f8b/dao/41ee5d74-aaef-4eee-8599-da0678470f8b/file/e9e1af7a-6e28-4594-b464-ea933b4bf4e4",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-3_s006.jpg",
+   "velky": "img/zdroje/141-3_s006_velky.jpg",
+   "vyrez_soubor": "z141-3-s6-pag6-1786-11-07-johann-georg-rosenberg-c73-x-elisabeth-jacob.jpg"
+  },
+  "141-3|7": {
+   "signatura": "141-3",
+   "snimek": 7,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/41ee5d74-aaef-4eee-8599-da0678470f8b/dao/41ee5d74-aaef-4eee-8599-da0678470f8b/file/54150a29-c6f5-4d7f-aadf-1e99c7227aa6",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/141-3_s007.jpg",
+   "velky": "img/zdroje/141-3_s007_velky.jpg"
+  },
   "141-3|8": {
    "signatura": "141-3",
    "snimek": 8,
@@ -1479,7 +1533,7 @@
    "vyrez": "zápis",
    "nahled": "img/zdroje/141-4254_s031.jpg",
    "velky": "img/zdroje/141-4254_s031_velky.jpg",
-   "vyrez_soubor": "z141-4254-s31-index-z-lit-r-1784-1821-rosenberg-barbara-1800-joseph-1803.jpg"
+   "vyrez_soubor": "z141-4254-s31-index-z-lit-r-1784-1821-rosenberg-elisabeth-1791-1806-1818.jpg"
   },
   "141-4254|7": {
    "signatura": "141-4254",
@@ -1529,6 +1583,15 @@
    "nahled": "img/zdroje/141-5_s024.jpg",
    "velky": "img/zdroje/141-5_s024_velky.jpg",
    "vyrez_soubor": "z141-5-s24-1803-01-27-joseph-rosenberg-chalupnik-61-let.jpg"
+  },
+  "141-5|29": {
+   "signatura": "141-5",
+   "snimek": 29,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/592f4aa6-7311-43a6-8dce-fdc2710ba34c/dao/592f4aa6-7311-43a6-8dce-fdc2710ba34c/file/ca164424-1910-4980-9422-520ef25f5af8",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-5_s029.jpg",
+   "velky": "img/zdroje/141-5_s029_velky.jpg",
+   "vyrez_soubor": "z141-5-s29-pag52-1806-11-08-elisabeth-vdova-po-johannu-rosenbergovi-c53-43-let.jpg"
   },
   "141-6|23": {
    "signatura": "141-6",
@@ -2060,6 +2123,15 @@
    "nahled": "img/zdroje/174-12_s032.jpg",
    "velky": "img/zdroje/174-12_s032_velky.jpg",
    "vyrez_soubor": "o174-12-s32-1766-11-04-anton-ringel-anna.jpg"
+  },
+  "174-12|63": {
+   "signatura": "174-12",
+   "snimek": 63,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/13df5c47-98f1-4cac-9b25-0e3a9566046a/dao/13df5c47-98f1-4cac-9b25-0e3a9566046a/file/6fbf659f-b568-4e66-8439-6dc0f59ec830",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/174-12_s063.jpg",
+   "velky": "img/zdroje/174-12_s063_velky.jpg",
+   "vyrez_soubor": "z174-12-s63-fol119-1787-08-13-johann-joseph-rosenberg-20-let-x-barbara-drusner-18-let.jpg"
   },
   "174-12|65": {
    "signatura": "174-12",
@@ -2623,6 +2695,15 @@
    "nahled": "img/zdroje/53-4181_s036.jpg",
    "velky": "img/zdroje/53-4181_s036_velky.jpg"
   },
+  "53-4184|69": {
+   "signatura": "53-4184",
+   "snimek": 69,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/29d538a6-cb32-4373-937b-732566ff46e0/dao/29d538a6-cb32-4373-937b-732566ff46e0/file/ef554e07-7b5a-4e03-a077-046d0d689b62",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-4184_s069.jpg",
+   "velky": "img/zdroje/53-4184_s069_velky.jpg",
+   "vyrez_soubor": "z53-4184-s69-index-z-lit-s-1835-spacek-franz-hochsichel-iii-6.jpg"
+  },
   "53-53|25": {
    "signatura": "53-53",
    "snimek": 25,
@@ -2632,6 +2713,24 @@
    "velky": "img/zdroje/53-53_s025_velky.jpg",
    "vyrez_soubor": "z53-53-s25-1844-11-19-snatek-jan-klimes-anna-spackova.jpg"
   },
+  "53-72|24": {
+   "signatura": "53-72",
+   "snimek": 24,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ec74965f-eea9-4f75-8c12-72957f62fd0e/dao/ec74965f-eea9-4f75-8c12-72957f62fd0e/file/c16c49a3-58ef-407e-b5de-cc104217f544",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-72_s024.jpg",
+   "velky": "img/zdroje/53-72_s024_velky.jpg",
+   "vyrez_soubor": "z53-72-s24-pag42-1813-02-25-joseph-spacek-syn-ludmily-spackove-c29.jpg"
+  },
+  "53-72|45": {
+   "signatura": "53-72",
+   "snimek": 45,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ec74965f-eea9-4f75-8c12-72957f62fd0e/dao/ec74965f-eea9-4f75-8c12-72957f62fd0e/file/9a030f71-d7c9-4687-a5ff-ed9da65060cd",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-72_s045.jpg",
+   "velky": "img/zdroje/53-72_s045_velky.jpg",
+   "vyrez_soubor": "z53-72-s45-index-z-lit-s-1784-1832-spackovi-1813-1817-1818-1822-1828.jpg"
+  },
   "53-7386|12": {
    "signatura": "53-7386",
    "snimek": 12,
@@ -2640,6 +2739,15 @@
    "nahled": "img/zdroje/53-7386_s012.jpg",
    "velky": "img/zdroje/53-7386_s012_velky.jpg",
    "vyrez_soubor": "klimes-frantisek-1878-spread.jpg"
+  },
+  "53-73|7": {
+   "signatura": "53-73",
+   "snimek": 7,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/97156f2f-6d36-4241-9f0b-799d82a7a4f0/dao/97156f2f-6d36-4241-9f0b-799d82a7a4f0/file/5b07bb16-248e-4e0c-b8ba-9f33b127085f",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-73_s007.jpg",
+   "velky": "img/zdroje/53-73_s007_velky.jpg",
+   "vyrez_soubor": "z53-73-s7-pag6-1835-04-26-franz-spacek-chalupnik-c29-40-let.jpg"
   },
   "53-9391|10": {
    "signatura": "53-9391",
