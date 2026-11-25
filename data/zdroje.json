@@ -369,6 +369,34 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 117-2 (poř.č. 8087), 1771-1787",
    "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, farnost Nový Hrádek (Borová, Dlouhé, Nový Hrádek, Rzy, Sněžné, Tis) + filiální obvod Slavoňov (Blažkov, Bohdašín, Jestřebí, Libchyně, Mezilesí, Sendraž, Slavoňov, Studénky, Vanovka, Zákraví) NZ 4.1771-9.1784, O 4.1771-6.1784; Blažkov (N 3-9.1785, O 9.1785, Z 10.1784-4.1785), Bohdašín (N 11.1784-10.1787, O 7.1785-10.1786, Z 10.1784-1.1787), Borová (NZ od 10.1784, O 1785-9.1787), Dlouhé (N 10.1784-11.1787, O 10.1784-5.1787, Z od 10.1784), Jestřebí (pouze N 12.1784-10.1786, Z 3-6.1786), Libchyně (N 2.1785-9.1786, O 11.1786-1.1787, Z 5.1785-10.1786), Mezilesí (N 10.1784-1786, O 1.1785-2.1786, Z 9.1784-1786), Nový Hrádek (NZ od 10.1784, O 10.1784-11.1787), Rzy (N 11.1784-9.1787, O 11.1785-9.1787, Z 2.1785-11.1786), Sendraž (N 11.1784-1.1787, O 6-10.1785, Z 11.1784-4.1786), Slavoňov (NZ 10.1784-1.1787, O 2.1785-2.1786), Sněžné (NZ od 10.1784, O 10.1784-2.1787), Tis (N 11.1784-11.1787, O 1.1786-11.1787, Z 9.1784-8.1787), Vanovka (pouze N 10.1784-7.1786, Z 10.1784-9.1786), Zákraví (N 12.1784-1.1787, O 5.1786, Z 10.1784-10.1786)\nfol. 135-137 nemanželské děti 1776-1782, fol. 137-138 mrtvě narození 1771-1782, fol. 271 úmrtí nemanželských dětí 1777-1778",
    "url": "https://aron.vychodoceskearchivy.cz/apu/8964843b-907d-4651-a5c7-9f15b886fc49"
+  },
+  "2105": {
+   "apu": "ab4a4121-890d-4a8e-9aa5-7e668e4a145c",
+   "dao": "ab4a4121-890d-4a8e-9aa5-7e668e4a145c",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 2105 (poř.č. 3898), 1785-1810",
+   "popis": "římskokatolická matrika ODDANÝCH, Choceň (5.1785-1810), Zářecká Lhota (10.1786-1810), Sudličkova Lhota (9.1787-1808), Hemže (2.1786-1810), Kosořín (7.1786-1808), Březenice (10.1786-1799), farnost - vojenské zápisy (4.1785-1810)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ab4a4121-890d-4a8e-9aa5-7e668e4a145c"
+  },
+  "144-3946": {
+   "apu": "272385dc-f0a2-4e96-b4c0-ff262622d31d",
+   "dao": "272385dc-f0a2-4e96-b4c0-ff262622d31d",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 144-3946 (poř.č. 10021), 1795-1888",
+   "popis": "římskokatolická matrika ZEMŘELÝCH, římskokatolický index ZEMŘELÝCH, Ošerov + Sedloňov + Šerlich, Polom\nindex pouze do 1863",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/272385dc-f0a2-4e96-b4c0-ff262622d31d"
+  },
+  "117-1": {
+   "apu": "8df4dc98-f935-4dda-87d2-15cfcb26dd4a",
+   "dao": "8df4dc98-f935-4dda-87d2-15cfcb26dd4a",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 117-1 (poř.č. 8086), 1721-1771",
+   "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, farnost Nový Hrádek (Borová, Bydlo, Dlouhé, Frymburk, Krahulčí, Nový Hrádek, Rzy, Sněžné, Tis) + filiální obvod Slavoňov (Blažkov, Bohdašín, Jestřebí, Libchyně, Mezilesí, Sendraž, Slavoňov, Studénky, Vanovka, Zákraví)\nNZ 5.1721-4.1771, O 5.1721-2.1771",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8df4dc98-f935-4dda-87d2-15cfcb26dd4a"
+  },
+  "96-16": {
+   "apu": "cb90c1cf-803f-4391-b456-d5983c3f388f",
+   "dao": "cb90c1cf-803f-4391-b456-d5983c3f388f",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 96-16 (poř.č. 6811), 8.1836-11.1862",
+   "popis": "římskokatolická matrika ODDANÝCH, Machov",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f"
   }
  },
  "aliasy": {
@@ -377,6 +405,15 @@
   "13-7528|s. 106": 117
  },
  "snimky": {
+  "117-1|137": {
+   "signatura": "117-1",
+   "snimek": 137,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8df4dc98-f935-4dda-87d2-15cfcb26dd4a/dao/8df4dc98-f935-4dda-87d2-15cfcb26dd4a/file/e77a3be0-3d85-4ccf-babd-1a843bad1ff6",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/117-1_s137.jpg",
+   "velky": "img/zdroje/117-1_s137_velky.jpg",
+   "vyrez_soubor": "z117-1-s137-1759-08-06-antonius-mader-rzy-kandidat.jpg"
+  },
   "117-2|14": {
    "signatura": "117-2",
    "snimek": 14,
@@ -901,6 +938,24 @@
    "velky": "img/zdroje/144-3943_s079_velky.jpg",
    "vyrez_soubor": "z144-3943-s79-1858-11-09-johann-mader-franziska-knopp.jpg"
   },
+  "144-3946|186": {
+   "signatura": "144-3946",
+   "snimek": 186,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/272385dc-f0a2-4e96-b4c0-ff262622d31d/dao/272385dc-f0a2-4e96-b4c0-ff262622d31d/file/6222bb6a-5987-4202-a32a-968995b06189",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/144-3946_s186.jpg",
+   "velky": "img/zdroje/144-3946_s186_velky.jpg",
+   "vyrez_soubor": "z144-3946-s186-index-dorner.jpg"
+  },
+  "144-3946|31": {
+   "signatura": "144-3946",
+   "snimek": 31,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/272385dc-f0a2-4e96-b4c0-ff262622d31d/dao/272385dc-f0a2-4e96-b4c0-ff262622d31d/file/45432982-89dd-4108-ab41-092e88f0a788",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/144-3946_s031.jpg",
+   "velky": "img/zdroje/144-3946_s031_velky.jpg",
+   "vyrez_soubor": "z144-3946-s31-1817-karl-dorner-feldgaertner-48.jpg"
+  },
   "144-3|29": {
    "signatura": "144-3",
    "snimek": 29,
@@ -1397,6 +1452,15 @@
    "nahled": "img/zdroje/174-8684_s025.jpg",
    "velky": "img/zdroje/174-8684_s025_velky.jpg"
   },
+  "2105|24": {
+   "signatura": "2105",
+   "snimek": 24,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/dao/ab4a4121-890d-4a8e-9aa5-7e668e4a145c/file/c8f754e8-1e76-48a0-b133-fb46eda79824",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/2105_s024.jpg",
+   "velky": "img/zdroje/2105_s024_velky.jpg",
+   "vyrez_soubor": "z2105-s24-1802-09-21-syrovy-kumpostova.jpg"
+  },
   "24-9|25": {
    "signatura": "24-9",
    "snimek": 25,
@@ -1485,6 +1549,182 @@
    "nahled": "img/zdroje/96-15_s047.jpg",
    "velky": "img/zdroje/96-15_s047_velky.jpg",
    "vyrez_soubor": "maroul-josef-1850-narozeni-96-15-s47.jpg"
+  },
+  "96-16|20": {
+   "signatura": "96-16",
+   "snimek": 20,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/fddf6868-27b7-460b-a862-2a71c7b8c765",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-16_s020.jpg",
+   "velky": "img/zdroje/96-16_s020_velky.jpg"
+  },
+  "96-16|21": {
+   "signatura": "96-16",
+   "snimek": 21,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/531cc25c-265d-45e6-a08b-122ef86b1a54",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-16_s021.jpg",
+   "velky": "img/zdroje/96-16_s021_velky.jpg"
+  },
+  "96-16|22": {
+   "signatura": "96-16",
+   "snimek": 22,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/62c3434c-9a15-414b-980d-0e2e1a266011",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-16_s022.jpg",
+   "velky": "img/zdroje/96-16_s022_velky.jpg"
+  },
+  "96-16|23": {
+   "signatura": "96-16",
+   "snimek": 23,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/64012594-7603-4e8a-ba90-a92d077e3310",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-16_s023.jpg",
+   "velky": "img/zdroje/96-16_s023_velky.jpg"
+  },
+  "96-16|24": {
+   "signatura": "96-16",
+   "snimek": 24,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/6a5055fd-7393-4783-9478-105f6b1fcdc4",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-16_s024.jpg",
+   "velky": "img/zdroje/96-16_s024_velky.jpg"
+  },
+  "96-16|25": {
+   "signatura": "96-16",
+   "snimek": 25,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/0dbbd9ac-935e-4846-b088-f63aeae6457f",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-16_s025.jpg",
+   "velky": "img/zdroje/96-16_s025_velky.jpg"
+  },
+  "96-16|26": {
+   "signatura": "96-16",
+   "snimek": 26,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/05ccdc43-1fe9-46eb-b350-9d9bd94abe0a",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-16_s026.jpg",
+   "velky": "img/zdroje/96-16_s026_velky.jpg"
+  },
+  "96-16|27": {
+   "signatura": "96-16",
+   "snimek": 27,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/b732b5c5-c98f-4ea5-9670-75eeab40717f",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-16_s027.jpg",
+   "velky": "img/zdroje/96-16_s027_velky.jpg"
+  },
+  "96-16|28": {
+   "signatura": "96-16",
+   "snimek": 28,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/9ffce1c3-d180-46f9-9fd0-e987233418fc",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-16_s028.jpg",
+   "velky": "img/zdroje/96-16_s028_velky.jpg"
+  },
+  "96-16|29": {
+   "signatura": "96-16",
+   "snimek": 29,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/6a343fdf-9f3a-42d3-ac2d-78568e687314",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-16_s029.jpg",
+   "velky": "img/zdroje/96-16_s029_velky.jpg"
+  },
+  "96-16|30": {
+   "signatura": "96-16",
+   "snimek": 30,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/08a763f5-3379-41ff-9c09-4f7fb888a801",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-16_s030.jpg",
+   "velky": "img/zdroje/96-16_s030_velky.jpg"
+  },
+  "96-16|31": {
+   "signatura": "96-16",
+   "snimek": 31,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/c6d7d073-3380-4a2e-8d29-97a734b17720",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-16_s031.jpg",
+   "velky": "img/zdroje/96-16_s031_velky.jpg"
+  },
+  "96-16|32": {
+   "signatura": "96-16",
+   "snimek": 32,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/3bca13af-546e-4f07-947e-d2a03c82a610",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-16_s032.jpg",
+   "velky": "img/zdroje/96-16_s032_velky.jpg"
+  },
+  "96-16|33": {
+   "signatura": "96-16",
+   "snimek": 33,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/20f106a3-efa5-4711-b22e-4d5610b837eb",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-16_s033.jpg",
+   "velky": "img/zdroje/96-16_s033_velky.jpg"
+  },
+  "96-16|34": {
+   "signatura": "96-16",
+   "snimek": 34,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/3025fefd-90b5-43ae-aaf9-d033fae1da7c",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-16_s034.jpg",
+   "velky": "img/zdroje/96-16_s034_velky.jpg"
+  },
+  "96-16|35": {
+   "signatura": "96-16",
+   "snimek": 35,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/8676efab-4a20-4ee8-a5f5-1d65b139cbde",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-16_s035.jpg",
+   "velky": "img/zdroje/96-16_s035_velky.jpg"
+  },
+  "96-16|36": {
+   "signatura": "96-16",
+   "snimek": 36,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/c5b4d5e9-caaa-4de8-99a2-692d3a0086b1",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-16_s036.jpg",
+   "velky": "img/zdroje/96-16_s036_velky.jpg"
+  },
+  "96-16|37": {
+   "signatura": "96-16",
+   "snimek": 37,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/2d5fb41c-95cb-4ff1-a405-a0a4f66b306d",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-16_s037.jpg",
+   "velky": "img/zdroje/96-16_s037_velky.jpg"
+  },
+  "96-16|38": {
+   "signatura": "96-16",
+   "snimek": 38,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/e423ba14-49c4-4fb1-b3cf-4dde253465a7",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-16_s038.jpg",
+   "velky": "img/zdroje/96-16_s038_velky.jpg"
+  },
+  "96-16|39": {
+   "signatura": "96-16",
+   "snimek": 39,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/2188f510-8f19-471e-a526-7f75e20aa207",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-16_s039.jpg",
+   "velky": "img/zdroje/96-16_s039_velky.jpg"
+  },
+  "96-16|40": {
+   "signatura": "96-16",
+   "snimek": 40,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/cbb4d648-c702-478f-978b-2945055a41ca",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-16_s040.jpg",
+   "velky": "img/zdroje/96-16_s040_velky.jpg"
+  },
+  "96-16|41": {
+   "signatura": "96-16",
+   "snimek": 41,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/cd192dc7-fd24-44fa-95fe-e558ef5b2300",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-16_s041.jpg",
+   "velky": "img/zdroje/96-16_s041_velky.jpg"
   },
   "96-3|94": {
    "signatura": "96-3",
