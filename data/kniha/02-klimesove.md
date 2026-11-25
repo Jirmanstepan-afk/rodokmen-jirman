@@ -20,7 +20,15 @@ Jan s Annou bydleli ve Vysoké Srbské č. 9, kde byl Jan chalupníkem. Tady jse
 
 Dávat dalšímu dítěti jméno po zemřelém sourozenci bylo tehdy běžné. Já jen vím, že tenhle druhý František je můj praprapraděda.
 
+Z Vysoké Srbské se rodina přestěhovala do Machova. Tam jsem v knize zemřelých našel další smutný zápis. Dne 7. března 1868 zemřela v Machově č. 75 [[anna-klimesova-1868|Anna]], vlastní dcera Jana Klimeše, chalupníka. Bylo jí sedmnáct let a podle zápisu zemřela na zánět jater.[^96-4231/50: úmrtí Anny Klimešové 7. 3. 1868, Machov č. 75] Matku zápis nejmenuje, ale je to týž dům, ve kterém Jan později dožil na výměnku.
+
+![96-4231/50] Úmrtí Anny Klimešové v Machově 7. března 1868.
+
 Jan se v roce 1880 objevuje už jako výměnkář v Machově č. 75 a u svatby syna se vlastnoručně podepsal.[^53-9391/10: oddací zápis 11. 5. 1880]
+
+Otce Jana, tesaře Františka ze Zlíčka, jsem v machovské knize zemřelých za roky 1857–1878 nenašel [?q-klimes-snatek]. V téže knize ale v roce 1878 zemřela Františka Klimšová, rozená asi Špačková, manželka Václava Klimeše, chalupníka v Machově č. 86.[^96-4231/69: úmrtí Františky Klimšové 24. 1. 1878, Machov č. 86]
+
+> Domněnka: Možná byl Václav Janův bratr a Františka sestra Anny Špačkové. Bratři by si pak vzali dvě sestry. Zatím pro to ale nemám žádný doklad.
 
 ## Svatba, na kterou bylo potřeba soudu
 

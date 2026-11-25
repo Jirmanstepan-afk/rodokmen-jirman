@@ -12,6 +12,12 @@ Vojtěch s Kateřinou žili v Chocni v domě č. 13. Tam 20. března 1780 pokřt
 
 Vojtěchův vlastní křest jsem zatím nenašel. V chocenských knihách z let 1717–1739 není [?q-syrovy-kumpost-1779].
 
+Hledal jsem proto svatbu Václava Syrového. Prošel jsem choceňskou knihu oddaných od roku 1735 zhruba do roku 1745 a svatbu Václava Syrového s Annou jsem v ní nenašel. Narazil jsem ale na dva jiné zápisy. V roce 1735 si Václav, syn Jiřího z Chocně, vzal Annu, dceru Václava Syrového z Chocně.[^2104/59: oddací zápis 1735, Anna dcera Václava Syrového] A 14. října 1742 se oženil Václav, vlastní syn Jakuba Syrového, s Kateřinou, také z Chocně.[^2104/97: oddací zápis 14. 10. 1742, Václav syn Jakuba Syrového × Kateřina] Kolem roku 1740 tedy v Chocni žilo nejméně několik mužů jménem Václav Syrový. Proto zatím nevím, který z nich byl Vojtěchův otec.
+
+![2104/97] Svatba Václava, syna Jakuba Syrového, a Kateřiny v Chocni 14. října 1742.
+
+> Domněnka: V choceňské knize narozených je 12. dubna 1744 pokřtěn Vojtěch, syn Václava Syrového a Anny. Možná je to můj Vojtěch. Při úmrtí v roce 1813 mu ale zapsali 79 let, a podle tohoto křtu by mu bylo jen 69. Dokud nenajdu svatbu Václava s Annou nebo Václavovo úmrtí, nechávám tento křest jen jako stopu [?q-syrovy-kumpost-1779].
+
 ## Obuvník Josef a Ludmila Kumpoštová
 
 Josef se 21. září 1802 oženil s [[ludmila-kumpostova|Ludmilou Kumpoštovou]] z Chocně č. 51.[^2105/24: oddací zápis 21. 9. 1802, Choceň] Ludmila byla pokřtěná 20. listopadu 1781 a jejím otcem byl [[frantisek-kumpost|František Kumpošt]].[^2095/519: křest Ludmily Kumpoštové 20. 11. 1781, Choceň č. 51] Josef byl obuvník, v roce 1811 je v zápisu narození dcery v nářečí jako „šewc“.[^2100/10: narození dcery 1. 12. 1811, Choceň č. 25] Později žil v Chocni č. 364.

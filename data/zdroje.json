@@ -685,6 +685,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 53-4174 (poř.č. 3774), 1849-1891",
    "popis": "římskokatolická matrika ZEMŘELÝCH, Vysoká Srbská",
    "url": "https://aron.vychodoceskearchivy.cz/apu/220519f7-c500-40eb-9741-0ef76e87afdb"
+  },
+  "96-4231": {
+   "apu": "7c44e04e-de76-41fa-a7e5-ac911d760e58",
+   "dao": "7c44e04e-de76-41fa-a7e5-ac911d760e58",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 96-4231 (poř.č. 6820), 1847-5.1897",
+   "popis": "římskokatolická matrika ZEMŘELÝCH, Machov",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/7c44e04e-de76-41fa-a7e5-ac911d760e58"
   }
  },
  "aliasy": {
@@ -2783,6 +2790,15 @@
    "velky": "img/zdroje/2104_s005_velky.jpg",
    "vyrez_soubor": "z2104-s5-oddani-choceni-1725-1726-bez-vaclava-syroveho.jpg"
   },
+  "2104|59": {
+   "signatura": "2104",
+   "snimek": 59,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/f216e5ed-8619-44d6-9443-605455762eb2/dao/f216e5ed-8619-44d6-9443-605455762eb2/file/f1856ea7-d34c-4540-81ed-3405aaac084c",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/2104_s059.jpg",
+   "velky": "img/zdroje/2104_s059_velky.jpg",
+   "vyrez_soubor": "o2104-s59-1735-vaclav-syn-jiriho-x-anna-dcera-vaclava-syroveho-chocen-leva-strana.jpg"
+  },
   "2104|6": {
    "signatura": "2104",
    "snimek": 6,
@@ -2818,6 +2834,15 @@
    "nahled": "img/zdroje/2104_s009.jpg",
    "velky": "img/zdroje/2104_s009_velky.jpg",
    "vyrez_soubor": "z2104-s9-oddani-choceni-1725-1726-bez-vaclava-syroveho.jpg"
+  },
+  "2104|97": {
+   "signatura": "2104",
+   "snimek": 97,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/f216e5ed-8619-44d6-9443-605455762eb2/dao/f216e5ed-8619-44d6-9443-605455762eb2/file/052ca245-8dbf-4d2b-8acf-fce97ec242eb",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/2104_s097.jpg",
+   "velky": "img/zdroje/2104_s097_velky.jpg",
+   "vyrez_soubor": "o2104-s97-pag185-1742-10-14-vaclav-syn-jakuba-syroveho-x-katerina-chocen.jpg"
   },
   "2105|24": {
    "signatura": "2105",
@@ -3904,6 +3929,24 @@
    "vyrez": "celá strana",
    "nahled": "img/zdroje/96-4228_s075.jpg",
    "velky": "img/zdroje/96-4228_s075_velky.jpg"
+  },
+  "96-4231|50": {
+   "signatura": "96-4231",
+   "snimek": 50,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/7c44e04e-de76-41fa-a7e5-ac911d760e58/dao/7c44e04e-de76-41fa-a7e5-ac911d760e58/file/47760290-9a9f-46c4-b5b3-6d309cf3a1ac",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-4231_s050.jpg",
+   "velky": "img/zdroje/96-4231_s050_velky.jpg",
+   "vyrez_soubor": "z96-4231-s50-pag92-1868-zemreli-machov-cela-strana.jpg"
+  },
+  "96-4231|69": {
+   "signatura": "96-4231",
+   "snimek": 69,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/7c44e04e-de76-41fa-a7e5-ac911d760e58/dao/7c44e04e-de76-41fa-a7e5-ac911d760e58/file/2087febd-c10f-4509-918b-e28dd47ad55e",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-4231_s069.jpg",
+   "velky": "img/zdroje/96-4231_s069_velky.jpg",
+   "vyrez_soubor": "z96-4231-s69-pag131-1878-01-24-frantiska-klimsova-roz-spackova-manzelka-vaclava-klimese-chalupnika-machov-c86-48-let.jpg"
   },
   "96-4|77": {
    "signatura": "96-4",
