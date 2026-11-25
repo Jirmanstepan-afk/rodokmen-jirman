@@ -517,6 +517,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 130-5 (poř.č. 8716), 1755-1784",
    "popis": "římskokatolická matrika NAROZENÝCH, ODDANÝCH, farnost (Bukovice, Česká Metuje, Dědov, Hlavňov, Hony, Malá Ledhuje, Maršov nad Metují, Nízký Dřevíč, Ostaš, Pěkov, Petrovice, Petrovičky, Police nad Metují, Radešov, Slavný, Suchý Důl, Velká Ledhuje, Žďár nad Metují) + lokality z farního obvodu Machov (Bělý, Nízká Srbská, Machovská Lhota, Machov, Řeřišný, Nouzín) + lokality z okolí (Javor, Velký Dřevíč, Lachov, Bezděkov nad Metují, Zbečník, Pasterka (PL))",
    "url": "https://aron.vychodoceskearchivy.cz/apu/f895f8aa-2abe-4ebb-8520-fd9ad10ac8f0"
+  },
+  "2112": {
+   "apu": "b156902e-891e-4932-8f96-4696953e68f5",
+   "dao": "b156902e-891e-4932-8f96-4696953e68f5",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 2112 (poř.č. 3910), 1785-1810",
+   "popis": "římskokatolická matrika ZEMŘELÝCH, Choceň (3.1785-1810), Kosořín (4.1786-1810), Zářecká Lhota (10.1785-1810), Sudličkova Lhota (3.1785-1810), Hemže (8.1785-1810), Březenice (1793-1810), farnost - vojenské zápisy (5.1785-1802)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/b156902e-891e-4932-8f96-4696953e68f5"
   }
  },
  "aliasy": {
@@ -736,6 +743,15 @@
    "velky": "img/zdroje/130-17_s010_velky.jpg",
    "vyrez_soubor": "z130-17-s10-1813-02-15-snatek-jan-hruby-anna.jpg"
   },
+  "130-17|20": {
+   "signatura": "130-17",
+   "snimek": 20,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8558b085-893d-4cad-8d5d-c2326e394a0c/dao/8558b085-893d-4cad-8d5d-c2326e394a0c/file/72c5eba7-7851-4599-8c79-d085ab60732b",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-17_s020.jpg",
+   "velky": "img/zdroje/130-17_s020_velky.jpg",
+   "vyrez_soubor": "z130-17-s20-1787-06-03-johann-wenzl-hruby-c30-kandidat.jpg"
+  },
   "130-17|28": {
    "signatura": "130-17",
    "snimek": 28,
@@ -799,6 +815,33 @@
    "velky": "img/zdroje/130-18_s005_velky.jpg",
    "vyrez_soubor": "z130-18-s05-1824-02-03-snatek-jan-hruby-katerina-kandidat.jpg"
   },
+  "130-18|58": {
+   "signatura": "130-18",
+   "snimek": 58,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/76d857e1-7f88-4b52-b82c-4660b1cd8f77",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-18_s058.jpg",
+   "velky": "img/zdroje/130-18_s058_velky.jpg",
+   "vyrez_soubor": "z130-18-s58-1819-12-veronica-wintra-c45.jpg"
+  },
+  "130-18|60": {
+   "signatura": "130-18",
+   "snimek": 60,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/4e928757-84d5-4997-9126-b8748036d320",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-18_s060.jpg",
+   "velky": "img/zdroje/130-18_s060_velky.jpg",
+   "vyrez_soubor": "z130-18-s60-1826-09-marie-josefa-wintra-c45.jpg"
+  },
+  "130-18|63": {
+   "signatura": "130-18",
+   "snimek": 63,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/6f4582f5-0f4a-4c10-b7b6-ac9248e28170",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-18_s063.jpg",
+   "velky": "img/zdroje/130-18_s063_velky.jpg",
+   "vyrez_soubor": "z130-18-s63-1833-01-anton-winter-c49.jpg"
+  },
   "130-42|173": {
    "signatura": "130-42",
    "snimek": 173,
@@ -816,6 +859,15 @@
    "nahled": "img/zdroje/130-4326_s015.jpg",
    "velky": "img/zdroje/130-4326_s015_velky.jpg",
    "vyrez_soubor": "jirman-jan-frantiska-1851-row.jpg"
+  },
+  "130-44|15": {
+   "signatura": "130-44",
+   "snimek": 15,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/abd89fc7-6a72-41a5-8a89-fa7355bf4574/dao/abd89fc7-6a72-41a5-8a89-fa7355bf4574/file/6a789644-d1a8-4ef1-9479-a7a0a477613a",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-44_s015.jpg",
+   "velky": "img/zdroje/130-44_s015_velky.jpg",
+   "vyrez_soubor": "z130-44-s15-index-h-ledhuje-1785-hruby.jpg"
   },
   "130-44|36": {
    "signatura": "130-44",
@@ -1867,6 +1919,15 @@
    "nahled": "img/zdroje/2105_s024.jpg",
    "velky": "img/zdroje/2105_s024_velky.jpg",
    "vyrez_soubor": "z2105-s24-1802-09-21-syrovy-kumpostova.jpg"
+  },
+  "2112|25": {
+   "signatura": "2112",
+   "snimek": 25,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/b156902e-891e-4932-8f96-4696953e68f5/dao/b156902e-891e-4932-8f96-4696953e68f5/file/fccbf086-e809-475f-9501-472294f7f5cf",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/2112_s025.jpg",
+   "velky": "img/zdroje/2112_s025_velky.jpg",
+   "vyrez_soubor": "z2112-s25-1800-07-31-katerina-manzelka-vojtecha-syroveho-c13.jpg"
   },
   "2119|123": {
    "signatura": "2119",
