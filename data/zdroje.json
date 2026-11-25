@@ -334,6 +334,20 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 144-3937 (poř.č. 10016), 1838-1858",
    "popis": "římskokatolická matrika NAROZENÝCH, římskokatolický index NAROZENÝCH, Ošerov + Sedloňov + Šerlich (do 2.1858), Polom (do 4.1858)\nfol. 144 mrtvě narození 1840-1857",
    "url": "https://aron.vychodoceskearchivy.cz/apu/6d99619e-ad51-46f8-8afb-e0d249861d42"
+  },
+  "144-5": {
+   "apu": "52a94bca-6a12-4e51-a187-7c54a202b3c1",
+   "dao": "52a94bca-6a12-4e51-a187-7c54a202b3c1",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 144-5 (poř.č. 10018), 1705-1794",
+   "popis": "římskokatolická matrika ZEMŘELÝCH, ODDANÝCH, farnost Sedloňov (Ošerov, Polom, Sedloňov, Šerlich) OZ do 7.1784; filiální obvod Olešnice v Orlických horách (Lužany, Olešnice v Orlických horách, Polom) O do 11.1766, Z do 1766; filiální obvod Dobřany (Dobřany, Hluky, Kounov, Nedvězí, Plasnice, Rozkoš, Šediviny) O do 11.1765, Z do 1765; Ošerov + Sedloňov + Šerlich (O 9.1784-11.1794, Z od 7.1784), Polom (O 1785-2.1793, Z 10.1784-10.1794)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1"
+  },
+  "96-14": {
+   "apu": "fd41faee-39b9-4778-85aa-e390771f02c0",
+   "dao": "fd41faee-39b9-4778-85aa-e390771f02c0",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 96-14 (poř.č. 6801), 1810-1853",
+   "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, Nízká Srbská\nN 11.1810-1835, O 1815-6.1841, Z od 5.1814",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fd41faee-39b9-4778-85aa-e390771f02c0"
   }
  },
  "aliasy": {
@@ -692,6 +706,15 @@
    "velky": "img/zdroje/141-7599_s602_velky.jpg",
    "vyrez_soubor": "z141-7599-s602-1767-01-25-anton-ringel-ausgedinger.jpg"
   },
+  "144-2|110": {
+   "signatura": "144-2",
+   "snimek": 110,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/1ad1e98c-0f25-416d-bbe8-afed3d099515/dao/1ad1e98c-0f25-416d-bbe8-afed3d099515/file/603b1a95-bdda-4a9f-8ad9-ad3bf3b3f05e",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/144-2_s110.jpg",
+   "velky": "img/zdroje/144-2_s110_velky.jpg",
+   "vyrez_soubor": "z144-2-s110-1800-09-12-johann-dorner.jpg"
+  },
   "144-2|112": {
    "signatura": "144-2",
    "snimek": 112,
@@ -701,6 +724,14 @@
    "velky": "img/zdroje/144-2_s112_velky.jpg",
    "vyrez_soubor": "z144-2-s112-1801-09-29-johanna-walsch-sedlonov70.jpg"
   },
+  "144-2|19": {
+   "signatura": "144-2",
+   "snimek": 19,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/1ad1e98c-0f25-416d-bbe8-afed3d099515/dao/1ad1e98c-0f25-416d-bbe8-afed3d099515/file/5df1067d-4a7e-49f3-a128-0586150d6d4c",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/144-2_s019.jpg",
+   "velky": "img/zdroje/144-2_s019_velky.jpg"
+  },
   "144-2|195": {
    "signatura": "144-2",
    "snimek": 195,
@@ -709,6 +740,15 @@
    "nahled": "img/zdroje/144-2_s195.jpg",
    "velky": "img/zdroje/144-2_s195_velky.jpg",
    "vyrez_soubor": "z144-2-s195-1799-11-09-ignaz-mader-polom58.jpg"
+  },
+  "144-2|25": {
+   "signatura": "144-2",
+   "snimek": 25,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/1ad1e98c-0f25-416d-bbe8-afed3d099515/dao/1ad1e98c-0f25-416d-bbe8-afed3d099515/file/aa024a09-ac3a-4a1c-9780-a5dff8a27d70",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/144-2_s025.jpg",
+   "velky": "img/zdroje/144-2_s025_velky.jpg",
+   "vyrez_soubor": "z144-2-s25-1768-11-karl-dorner-kandidat.jpg"
   },
   "144-3937|8": {
    "signatura": "144-3937",
@@ -798,6 +838,79 @@
    "nahled": "img/zdroje/144-3_s029.jpg",
    "velky": "img/zdroje/144-3_s029_velky.jpg",
    "vyrez_soubor": "z144-3-s29-1833-01-13-johann-mader.jpg"
+  },
+  "144-5|89": {
+   "signatura": "144-5",
+   "snimek": 89,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1/dao/52a94bca-6a12-4e51-a187-7c54a202b3c1/file/deef9439-ad7f-449b-bffa-ad3e08a20b36",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/144-5_s089.jpg",
+   "velky": "img/zdroje/144-5_s089_velky.jpg"
+  },
+  "144-5|90": {
+   "signatura": "144-5",
+   "snimek": 90,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1/dao/52a94bca-6a12-4e51-a187-7c54a202b3c1/file/1fd6264c-a2a7-4547-b795-e80ebd27a1f8",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/144-5_s090.jpg",
+   "velky": "img/zdroje/144-5_s090_velky.jpg"
+  },
+  "144-5|91": {
+   "signatura": "144-5",
+   "snimek": 91,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1/dao/52a94bca-6a12-4e51-a187-7c54a202b3c1/file/208af1f8-06f7-462c-8f61-fdfe88d3e311",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/144-5_s091.jpg",
+   "velky": "img/zdroje/144-5_s091_velky.jpg"
+  },
+  "144-5|92": {
+   "signatura": "144-5",
+   "snimek": 92,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1/dao/52a94bca-6a12-4e51-a187-7c54a202b3c1/file/6f62b7af-7bf3-49f2-9f96-966d16d0cceb",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/144-5_s092.jpg",
+   "velky": "img/zdroje/144-5_s092_velky.jpg"
+  },
+  "144-5|93": {
+   "signatura": "144-5",
+   "snimek": 93,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1/dao/52a94bca-6a12-4e51-a187-7c54a202b3c1/file/0a3570c3-d98c-4e57-a7eb-e4fbed96133b",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/144-5_s093.jpg",
+   "velky": "img/zdroje/144-5_s093_velky.jpg"
+  },
+  "144-5|94": {
+   "signatura": "144-5",
+   "snimek": 94,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1/dao/52a94bca-6a12-4e51-a187-7c54a202b3c1/file/b16892a8-7906-4ef3-bd0c-095fe1a1c450",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/144-5_s094.jpg",
+   "velky": "img/zdroje/144-5_s094_velky.jpg"
+  },
+  "144-5|95": {
+   "signatura": "144-5",
+   "snimek": 95,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1/dao/52a94bca-6a12-4e51-a187-7c54a202b3c1/file/caa3eb21-2abb-4d75-aadf-08b5a676e8af",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/144-5_s095.jpg",
+   "velky": "img/zdroje/144-5_s095_velky.jpg"
+  },
+  "144-5|96": {
+   "signatura": "144-5",
+   "snimek": 96,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1/dao/52a94bca-6a12-4e51-a187-7c54a202b3c1/file/49342c6b-222e-40b1-83c3-eba378bc31b4",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/144-5_s096.jpg",
+   "velky": "img/zdroje/144-5_s096_velky.jpg",
+   "vyrez_soubor": "z144-5-s96-1792-11-20-karl-dorner-susanna-herzig.jpg"
+  },
+  "144-5|97": {
+   "signatura": "144-5",
+   "snimek": 97,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1/dao/52a94bca-6a12-4e51-a187-7c54a202b3c1/file/a3fca512-cdf0-47d1-9be3-6ecd83fa93ea",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/144-5_s097.jpg",
+   "velky": "img/zdroje/144-5_s097_velky.jpg"
   },
   "144-7|26": {
    "signatura": "144-7",
@@ -1170,6 +1283,15 @@
    "nahled": "img/zdroje/6489_s020.jpg",
    "velky": "img/zdroje/6489_s020_velky.jpg",
    "vyrez_soubor": "syrovy-satek-1887-folio17-L.jpg"
+  },
+  "96-14|4": {
+   "signatura": "96-14",
+   "snimek": 4,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fd41faee-39b9-4778-85aa-e390771f02c0/dao/fd41faee-39b9-4778-85aa-e390771f02c0/file/38921832-0207-4d5a-a38c-1bc1fd66b270",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-14_s004.jpg",
+   "velky": "img/zdroje/96-14_s004_velky.jpg",
+   "vyrez_soubor": "z96-14-s4-1815-01-17-tobias-maroul-marie-simek.jpg"
   },
   "96-15|32": {
    "signatura": "96-15",

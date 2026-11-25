@@ -3616,7 +3616,12 @@
       "id": "johann-dorner",
       "name": "Johann Dörner",
       "maiden": null,
-      "birth": null,
+      "birth": {
+        "display": "12. 9. 1800",
+        "precision": "exact",
+        "date": "1800-09-12",
+        "place": "Sedloňov č. 47"
+      },
       "baptism": null,
       "death": null,
       "occupation": "Podruh (Inwohner), Sedloňov č. 32.",
@@ -3628,6 +3633,12 @@
       "certainty": "potvrzeno",
       "living": false,
       "sources": [
+        {
+          "label": "ARON, narození 12. 9. 1800",
+          "signatura": "144-2",
+          "detail": "snímek 110, levá strana, pag. 81, Sedloňov č. 47",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1ad1e98c-0f25-416d-bbe8-afed3d099515"
+        },
         {
           "label": "ARON, sňatek 15. 6. 1858",
           "signatura": "144-3943",
@@ -3649,7 +3660,8 @@
       ],
       "notes": [
         "Podruh (Inwohner), Sedloňov č. 32. Žil ještě 15. 6. 1858 (svolil ke sňatku nezletilé dcery, podpis křížky).",
-        "Podle křtu dcery 1838: podruh v Sedloňově č. 39, manželský syn † Karla Dörnera, podruha ze Sedloňova č. 47, a Susanny, dcery Antona Herziga, chalupníka ze Sedloňova č. 114."
+        "Podle křtu dcery 1838: podruh v Sedloňově č. 39, manželský syn † Karla Dörnera, podruha ze Sedloňova č. 47, a Susanny, dcery Antona Herziga, chalupníka ze Sedloňova č. 114.",
+        "Narození 12. 9. 1800 (144-2, snímek 110, pag. 81; index 144-6 snímek 8): Johann, Sedloňov č. 47, otec Karl Dörner, tkadlec, matka Susanna, dcera † Adama Herziga ze Sedloňova; kmotr Joseph Zeiner(?), chalupník z Polomi, a Johanna, manželka Antona Dörnera, sedláka ze Sedloňova."
       ],
       "interesting": []
     },
@@ -4195,13 +4207,16 @@
       "id": "karl-dorner",
       "name": "Karl Dörner",
       "maiden": null,
-      "birth": null,
+      "birth": {
+        "display": "kolem 1767 (25 let v listopadu 1792)",
+        "precision": "range"
+      },
       "baptism": null,
       "death": {
         "display": "před 8. 6. 1838",
         "precision": "range"
       },
-      "occupation": "Podruh, Sedloňov č. 47.",
+      "occupation": "Tkadlec (Weber), podruh, Sedloňov č. 47.",
       "places": [
         "Sedloňov č. 47"
       ],
@@ -4210,6 +4225,18 @@
       "living": false,
       "sources": [
         {
+          "label": "ARON, sňatek 20. 11. 1792",
+          "signatura": "144-5",
+          "detail": "snímek 96, levá strana (Sattel Trauungsbuch fol. 14), 1. zápis, Sedloňov č. 47",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1"
+        },
+        {
+          "label": "ARON, narození 12. 9. 1800",
+          "signatura": "144-2",
+          "detail": "snímek 110, levá strana, pag. 81, Sedloňov č. 47",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1ad1e98c-0f25-416d-bbe8-afed3d099515"
+        },
+        {
           "label": "ARON, narození 8. 6. 1838",
           "signatura": "144-3937",
           "detail": "snímek 8, pag. 4, 2. zápis, Sedloňov č. 39",
@@ -4217,7 +4244,9 @@
         }
       ],
       "notes": [
-        "Podruh (Inwohner) v Sedloňově č. 47; v červnu 1838 už nežil („nach dem † Karl Dörner“)."
+        "Sňatek 20. 11. 1792 v Sedloňově (144-5, snímek 96, fol. 14), dům č. 47: Karl, syn po † Christofu Dörnerovi ze Sedloňova (Sattel), 25 let, svobodný; nevěsta Susanna, dcera po † Adamu Herzigovi ze Sedloňova, 24 let. Oddával farář Karl Hartmann; svědek mj. Adam Dörner, sedlák ze Sedloňova.",
+        "Při narození syna Johanna 12. 9. 1800 (Sedloňov č. 47) uveden jako tkadlec (Weber); v č. 47 se páru narodily i děti Susanna (1793), Franz Karl (1794) a Anton (17. 3. 1796, 144-2 snímek 99).",
+        "V červnu 1838 už nežil („nach dem † Karl Dörner“, podruh ze Sedloňova č. 47)."
       ],
       "interesting": []
     },
@@ -4225,15 +4254,38 @@
       "id": "susanna-herzig",
       "name": "Susanna Dörnerová",
       "maiden": "Herzig",
-      "birth": null,
+      "birth": {
+        "display": "kolem 1768 (24 let v listopadu 1792)",
+        "precision": "range"
+      },
       "baptism": null,
       "death": null,
       "occupation": null,
-      "places": [],
+      "places": [
+        "Sedloňov č. 47"
+      ],
       "branch": "pross",
       "certainty": "potvrzeno",
       "living": false,
       "sources": [
+        {
+          "label": "ARON, sňatek 20. 11. 1792",
+          "signatura": "144-5",
+          "detail": "snímek 96, levá strana (Sattel Trauungsbuch fol. 14), 1. zápis, Sedloňov č. 47",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1"
+        },
+        {
+          "label": "ARON, narození 12. 9. 1800",
+          "signatura": "144-2",
+          "detail": "snímek 110, levá strana, pag. 81, Sedloňov č. 47",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1ad1e98c-0f25-416d-bbe8-afed3d099515"
+        },
+        {
+          "label": "ARON, sňatek bratra Antona 29. 1. 1793",
+          "signatura": "144-5",
+          "detail": "snímek 96, levá strana, Sedloňov č. 48",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1"
+        },
         {
           "label": "ARON, narození 8. 6. 1838",
           "signatura": "144-3937",
@@ -4242,34 +4294,82 @@
         }
       ],
       "notes": [
-        "Manželka Karla Dörnera, dcera Antona Herziga, chalupníka ze Sedloňova č. 114 (křest vnučky 1838)."
+        "Dcera po † Adamu Herzigovi ze Sedloňova (sňatek 20. 11. 1792, 144-5 snímek 96; narození syna Johanna 12. 9. 1800, 144-2 snímek 110: „Susanna Tochter nach dem sel. Adam Herzig aus Sattel“).",
+        "Křest vnučky 1838 (144-3937 snímek 8) ji uvádí jako dceru Antona Herziga, chalupníka v č. 114 — to je nejspíš záměna: Anton Herzig, syn po † Adamu Herzigovi, byl její bratr (sňatek 29. 1. 1793, 144-5 snímek 96, dům 48). Viz otevřený dotaz q-pross-dorner-puvod."
       ],
       "interesting": []
     },
     {
-      "id": "anton-herzig",
-      "name": "Anton Herzig",
+      "id": "adam-herzig",
+      "name": "Adam Herzig",
       "maiden": null,
       "birth": null,
       "baptism": null,
-      "death": null,
-      "occupation": "Chalupník, Sedloňov č. 114.",
+      "death": {
+        "display": "před 20. 11. 1792",
+        "precision": "range"
+      },
+      "occupation": null,
       "places": [
-        "Sedloňov č. 114"
+        "Sedloňov"
       ],
       "branch": "pross",
       "certainty": "potvrzeno",
       "living": false,
       "sources": [
         {
-          "label": "ARON, narození 8. 6. 1838",
-          "signatura": "144-3937",
-          "detail": "snímek 8, pag. 4, 2. zápis, Sedloňov č. 39",
-          "apu": "https://aron.vychodoceskearchivy.cz/apu/6d99619e-ad51-46f8-8afb-e0d249861d42"
+          "label": "ARON, sňatek 20. 11. 1792",
+          "signatura": "144-5",
+          "detail": "snímek 96, levá strana (Sattel Trauungsbuch fol. 14), 1. zápis, Sedloňov č. 47",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1"
+        },
+        {
+          "label": "ARON, narození 12. 9. 1800",
+          "signatura": "144-2",
+          "detail": "snímek 110, levá strana, pag. 81, Sedloňov č. 47",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1ad1e98c-0f25-416d-bbe8-afed3d099515"
+        },
+        {
+          "label": "ARON, sňatek bratra Antona 29. 1. 1793",
+          "signatura": "144-5",
+          "detail": "snímek 96, levá strana, Sedloňov č. 48",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1"
         }
       ],
       "notes": [
-        "Chalupník (Häusler) v Sedloňově č. 114; otec Susanny Dörnerové (křest pravnučky 1838)."
+        "Otec Susanny Dörnerové; v listopadu 1792 už nežil („nach dem sel. Adam Herzig von Sattel“, 144-5 snímek 96). Totéž uvádí zápis narození vnuka Johanna 12. 9. 1800 (144-2 snímek 110).",
+        "Jeho syn Anton Herzig (24 let) se ženil 29. 1. 1793 v Sedloňově č. 48 (144-5 snímek 96). Křest pravnučky 1838 jmenuje jako otce Susanny omylem(?) Antona Herziga, chalupníka č. 114 — v mapě je otcem Adam podle dvou starších a bližších zápisů."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "christoph-dorner",
+      "name": "Christoph Dörner",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 20. 11. 1792",
+        "precision": "range"
+      },
+      "occupation": null,
+      "places": [
+        "Sedloňov"
+      ],
+      "branch": "pross",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 20. 11. 1792",
+          "signatura": "144-5",
+          "detail": "snímek 96, levá strana (Sattel Trauungsbuch fol. 14), 1. zápis, Sedloňov č. 47",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1"
+        }
+      ],
+      "notes": [
+        "Otec Karla Dörnera; v listopadu 1792 už nežil („Sohn nach dem sel. Christof Dörner von Sattel“, 144-5 snímek 96).",
+        "Kandidát na křest Karla: 144-2 snímek 25 (pag. 40, listopad 1768) — Carolus, syn Johanna Christopha Dörnera a Susanny ze Sedloňova. Věk 25 v roce 1792 by ale odpovídal narození kolem 1767, proto není zapsáno jako jisté (viz q-pross-dorner-puvod)."
       ],
       "interesting": []
     }
@@ -5741,23 +5841,17 @@
       "certainty": "potvrzeno",
       "sources": [
         {
-          "label": "ARON, narození 8. 6. 1838",
-          "signatura": "144-3937",
-          "detail": "snímek 8, pag. 4, 2. zápis, Sedloňov č. 39",
-          "apu": "https://aron.vychodoceskearchivy.cz/apu/6d99619e-ad51-46f8-8afb-e0d249861d42"
-        }
-      ]
-    },
-    {
-      "id": "u-anton-herzig-alone",
-      "partners": [
-        "anton-herzig"
-      ],
-      "children": [
-        "susanna-herzig"
-      ],
-      "certainty": "potvrzeno",
-      "sources": [
+          "label": "ARON, sňatek 20. 11. 1792",
+          "signatura": "144-5",
+          "detail": "snímek 96, levá strana (Sattel Trauungsbuch fol. 14), 1. zápis, Sedloňov č. 47",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1"
+        },
+        {
+          "label": "ARON, narození 12. 9. 1800",
+          "signatura": "144-2",
+          "detail": "snímek 110, levá strana, pag. 81, Sedloňov č. 47",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1ad1e98c-0f25-416d-bbe8-afed3d099515"
+        },
         {
           "label": "ARON, narození 8. 6. 1838",
           "signatura": "144-3937",
@@ -5765,8 +5859,59 @@
           "apu": "https://aron.vychodoceskearchivy.cz/apu/6d99619e-ad51-46f8-8afb-e0d249861d42"
         }
       ],
+      "married": {
+        "display": "20. 11. 1792",
+        "date": "1792-11-20",
+        "place": "Sedloňov",
+        "note": "144-5, snímek 96, fol. 14, dům 47; ženich 25, nevěsta 24 let."
+      }
+    },
+    {
+      "id": "u-adam-herzig-alone",
+      "partners": [
+        "adam-herzig"
+      ],
+      "children": [
+        "susanna-herzig"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, sňatek 20. 11. 1792",
+          "signatura": "144-5",
+          "detail": "snímek 96, levá strana (Sattel Trauungsbuch fol. 14), 1. zápis, Sedloňov č. 47",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1"
+        },
+        {
+          "label": "ARON, narození 12. 9. 1800",
+          "signatura": "144-2",
+          "detail": "snímek 110, levá strana, pag. 81, Sedloňov č. 47",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1ad1e98c-0f25-416d-bbe8-afed3d099515"
+        }
+      ],
       "notes": [
-        "Manželka Antona Herziga v zápisu 1838 není jmenována."
+        "Manželka Adama Herziga v zápisech 1792 a 1800 není jmenována."
+      ]
+    },
+    {
+      "id": "u-christoph-dorner-alone",
+      "partners": [
+        "christoph-dorner"
+      ],
+      "children": [
+        "karl-dorner"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, sňatek 20. 11. 1792",
+          "signatura": "144-5",
+          "detail": "snímek 96, levá strana (Sattel Trauungsbuch fol. 14), 1. zápis, Sedloňov č. 47",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/52a94bca-6a12-4e51-a187-7c54a202b3c1"
+        }
+      ],
+      "notes": [
+        "Manželka Christopha Dörnera v zápisu 1792 není jmenována."
       ]
     }
   ],
@@ -6068,7 +6213,7 @@
       "id": "q-tobias-71-77",
       "title": "Tobiáš Maroul č. 71 a č. 77 — je Václav *1878 sourozenec Jana?",
       "summary": "Jan (linie 71) je syn Tobiáše × Marie z NS č. 71 (1846). Václav *1878 je syn Tobiáše z NS č. 77 a Marie z Bělic 23.",
-      "details": "Jméno manželky a Bělic 23 se shodují, čísla 71 a 77 se neslučují potichu. Václav proto v mapě není zapsán jako dítě téhož svazku. Sňatek Tobiáše s Marií Šimcovou v 96-14 (1815–1841) v tomto kroku ještě nebyl souvisle nalezen.",
+      "details": "Jméno manželky a Bělic 23 se shodují, čísla 71 a 77 se neslučují potichu. Václav proto v mapě není zapsán jako dítě téhož svazku. Sňatek Tobiáše s Marií Šimcovou v 96-14 (1815–1841) v tomto kroku ještě nebyl souvisle nalezen. Nález 25. 11. 2026: 96-14, snímek 4, sňatek 17. 1. 1815, Nízká Srbská č. 3 — Tobiáš Maroul, chalupník z Nízké Srbské, 25 let (číslice čtena opatrně), × Marie, dcera Antonína Šimka(?) z Bělic(?) č. 23(?), 21 let; svědci Václav Hejzlar(?) a … z Nízké Srbské. Jméno nevěsty a Bělice souhlasí, ale věk (ženich *kolem 1790, nevěsta *kolem 1794) by u otce dětí narozených kolem 1846/1878 nesouhlasil — spíše jde o starší generaci (otec/děd Tobiáše z č. 71/77). Do mapy nezapsáno.",
       "related_ids": [
         "tobias-maroul",
         "marie-simcova",
@@ -6086,6 +6231,11 @@
           "label": "ARON",
           "signatura": "96-4228",
           "detail": "snímek 75"
+        },
+        {
+          "label": "ARON, sňatek 17. 1. 1815",
+          "signatura": "96-14",
+          "detail": "snímek 4, 1. zápis"
         }
       ]
     },
@@ -6418,7 +6568,7 @@
       "id": "q-pross-dorner-puvod",
       "title": "Proß a Dörner — původ Josefa Proße a rodná příjmení Agathe a Marie",
       "summary": "Sňatek Anton Proß × Franziska Dörner 15. 6. 1858 (144-3943, snímek 77) a narození Antona 13. 7. 1866 (144-3938, snímek 62) jmenují Josefa Proße, zahradníka v č. 6, a Agathe z Malého Uhřínova; Johanna Dörnera ze Sedloňova č. 32 a Marii z Janova č. 26.",
-      "details": "Franziska Dörner *8. 6. 1838 Sedloňov č. 39 doložena (144-3937 snímek 8); její děd Karl Dörner (Sedloňov 47) × Susanna Herzig (dcera Antona Herziga, Sedloňov 114) přidáni. Nejisté: rodné příjmení Marie Dörnerové — 1838 dcera Franze „Czwentaczka(?)“, chalupníka v Janově č. 26, a Marie, dcery Antona „Ulrich(?)“ z Janova č. 28 (panství Opočno); 1858 čteno „Czerlaika / Lwotaika“. Proß: Anton st. *kolem 1828 v sedloňovském indexu 1825–1838 (144-3, snímek 90, písmeno P) NENÍ — narodil se jinde. Obec otce Josefa (č. 6) čtena „Bauratal / Banatal(?)“, matka Agathe roz. „Beik / Leik(?)“ z „Klein-Aurim“ č. 2, Bezirksamt čten „Aicheneu / Auscherau(?)“ — neidentifikováno; možná Malá Úpa (Klein-Aupa) a okres Maršov, ověřit. Další krok: Janov u Sedloňova — fara Sedloňov? (Janov patří k Opočnu, fara pravděpodobně Bystré / Olešnice); identifikace obce Proßů.",
+      "details": "Franziska Dörner *8. 6. 1838 Sedloňov č. 39 doložena (144-3937 snímek 8); její děd Karl Dörner (Sedloňov 47) × Susanna Herzig přidáni; sňatek 20. 11. 1792 (144-5 snímek 96) a narození Johanna 12. 9. 1800 (144-2 snímek 110) doloženy. Rozpor: zápis 1838 jmenuje otcem Susanny Antona Herziga, chalupníka č. 114, ale zápisy 1792 a 1800 shodně † Adama Herziga; Anton Herzig, syn po † Adamovi, se ženil 29. 1. 1793 (144-5 snímek 96, dům 48) — byl to tedy její bratr. V mapě je otcem Adam. Křest Karla Dörnera: index 144-6 snímek 7 má Karly 5. 4. 1763 (s. 1), 1766 (s. 28, 144-2 snímek 19 — syn Johanna a Anny Dorothey, ne Christopha) a 11/1768 (s. 40, 144-2 snímek 25 — syn Johanna Christopha Dörnera a Susanny). Kandidát 1768 nesedí přesně s věkem 25 v roce 1792; nezapsáno. Karl 1763 neověřen. Nejisté: rodné příjmení Marie Dörnerové — 1838 dcera Franze „Czwentaczka(?)“, chalupníka v Janově č. 26, a Marie, dcery Antona „Ulrich(?)“ z Janova č. 28 (panství Opočno); 1858 čteno „Czerlaika / Lwotaika“. Proß: Anton st. *kolem 1828 v sedloňovském indexu 1825–1838 (144-3, snímek 90, písmeno P) NENÍ — narodil se jinde. Obec otce Josefa (č. 6) čtena „Bauratal / Banatal(?)“, matka Agathe roz. „Beik / Leik(?)“ z „Klein-Aurim“ č. 2, Bezirksamt čten „Aicheneu / Auscherau(?)“ — neidentifikováno; možná Malá Úpa (Klein-Aupa) a okres Maršov, ověřit. Další krok: Janov u Sedloňova — fara Sedloňov? (Janov patří k Opočnu, fara pravděpodobně Bystré / Olešnice); identifikace obce Proßů.",
       "related_ids": [
         "anton-pross-1828",
         "josef-pross",
@@ -6427,7 +6577,8 @@
         "franziska-dorner",
         "karl-dorner",
         "susanna-herzig",
-        "anton-herzig"
+        "adam-herzig",
+        "christoph-dorner"
       ],
       "sources": [
         {
@@ -6444,6 +6595,16 @@
           "label": "ARON",
           "signatura": "144-3937",
           "detail": "snímek 8"
+        },
+        {
+          "label": "ARON, sňatek 20. 11. 1792",
+          "signatura": "144-5",
+          "detail": "snímek 96"
+        },
+        {
+          "label": "ARON",
+          "signatura": "144-2",
+          "detail": "snímky 19, 25, 110"
         }
       ]
     },
@@ -6451,7 +6612,7 @@
       "id": "q-mader-knopp-walsch",
       "title": "Mader, Knopp, Walsch — rodná příjmení a další generace",
       "summary": "Linie Mader je doložena do Ignaze Madera st. × Margarethy Matzner (sňatek syna 10. 2. 1825, 144-3943 snímek 25; narození vnuka 13. 1. 1833, 144-3 snímek 29).",
-      "details": "Vyřešeno 25. 11. 2026: Ignaz Mader ml. *9. 11. 1799 Polom č. 58 (144-2 snímek 195); Johanna Walsch *29. 9. 1801 Sedloňov č. 70 (144-2 snímek 112); sňatek Ignaz Mader st. × Margaretha vdova Zeiner(?) roz. Matzner 4. 1. 1799 (144-3943 snímek 118). Stále nejisté: rodné příjmení Johanny Walschové st. (1801: dcera Adalberta „Zeug / Zautz“, matka Maria dcera Franze Littnera z Martína/Marzdorfu(?) v Kladsku; 1825: „Zeug“ — dvě shodná, ale nejistá čtení); obec Antona Madera (1799, snad Kounov / Kaunay); příjmení prvního manžela Margarethy (Zeiner?); rodné příjmení Anny Knoppové z Olešnice č. 161. Další krok: sňatek Ignaz Walsch × Johanna (před 1795, 144-5 bez indexu); narození Ignaze Madera st. *kolem 1780 (podle obce otce); narození Franzisky Knopp *kolem 1837 (fara Olešnice v O. h.).",
+      "details": "Vyřešeno 25. 11. 2026: Ignaz Mader ml. *9. 11. 1799 Polom č. 58 (144-2 snímek 195); Johanna Walsch *29. 9. 1801 Sedloňov č. 70 (144-2 snímek 112); sňatek Ignaz Mader st. × Margaretha vdova Zeiner(?) roz. Matzner 4. 1. 1799 (144-3943 snímek 118). Stále nejisté: rodné příjmení Johanny Walschové st. (1801: dcera Adalberta „Zeug / Zautz“, matka Maria dcera Franze Littnera z Martína/Marzdorfu(?) v Kladsku; 1825: „Zeug“ — dvě shodná, ale nejistá čtení); obec Antona Madera (1799, snad Kounov / Kaunay); příjmení prvního manžela Margarethy (Zeiner?); rodné příjmení Anny Knoppové z Olešnice č. 161. Další krok: sňatek Ignaz Walsch × Johanna (před 1795, 144-5 bez indexu); narození Ignaze Madera st. *kolem 1780 (podle obce otce); narození Franzisky Knopp *kolem 1837 (fara Olešnice v O. h.). Kolo 25. 11. 2026 (večer): sňatek Ignaz Walsch × Johanna NENÍ v sedloňovské oddací knize 9/1784–11/1794 (144-5, snímky 89–97, prošlo se po zápisech) — svatba byla buď před 9/1784, nebo jinde (nevěsta z Kladska?). Ignaz Mader *1776–1784 NENÍ v sedloňovském indexu narozených (144-6 snímek 24) — Ignaz Mader st. se narodil mimo Sedloňov; obec otce Antona (1799) čtena „D?auschy / Hauschy(?)“, nejisté.",
       "related_ids": [
         "ignaz-mader-st",
         "anna-knopp",
@@ -6487,6 +6648,11 @@
           "label": "ARON",
           "signatura": "144-3943",
           "detail": "snímek 118"
+        },
+        {
+          "label": "ARON",
+          "signatura": "144-5",
+          "detail": "snímky 89–97 (negativní)"
         }
       ]
     }
