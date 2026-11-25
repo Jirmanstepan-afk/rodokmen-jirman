@@ -636,6 +636,20 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 53-72 (poř.č. 3772), 1784-1832",
    "popis": "římskokatolická matrika ZEMŘELÝCH, římskokatolický index ZEMŘELÝCH, Vysoká Srbská (5.1784-1832)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/ec74965f-eea9-4f75-8c12-72957f62fd0e"
+  },
+  "53-4178": {
+   "apu": "96204dc9-1e5f-4053-81ba-4a10918504e3",
+   "dao": "96204dc9-1e5f-4053-81ba-4a10918504e3",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 53-4178 (poř.č. 3794), 1742-1834",
+   "popis": "římskokatolický index NAROZENÝCH, farnost (Hronov, Kozínek, Malá Čermná, Nízký Dřevíč, Rokytník, Sedmákovice, Slavíkov, Střezina, Velké Poříčí, Velký Dřevíč, Vysoká Srbská, Závrchy, Zbečník, Zlíčko, Žabokrky, Žďárky)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/96204dc9-1e5f-4053-81ba-4a10918504e3"
+  },
+  "53-2": {
+   "apu": "13eeb8ee-9fdf-4256-8634-dd432d76391f",
+   "dao": "13eeb8ee-9fdf-4256-8634-dd432d76391f",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 53-2 (poř.č. 3644), 1784-1824",
+   "popis": "římskokatolická matrika NAROZENÝCH, římskokatolický index NAROZENÝCH, Hronov (5.1784-1824)\ntéž vojenské zápisy do 9.1792",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/13eeb8ee-9fdf-4256-8634-dd432d76391f"
   }
  },
  "aliasy": {
@@ -1701,6 +1715,24 @@
    "velky": "img/zdroje/141-7599_s291_velky.jpg",
    "vyrez_soubor": "z141-7599-s291-1774-06-16-anna-barbara-margaretha-ringel.jpg"
   },
+  "141-7599|387": {
+   "signatura": "141-7599",
+   "snimek": 387,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/d880acb1-99e7-40fc-afc9-23f2e8c966d9",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-7599_s387.jpg",
+   "velky": "img/zdroje/141-7599_s387_velky.jpg",
+   "vyrez_soubor": "z141-7599-s387-fol7-1734-10-14-anton-opitz-syn-tobiase-x-rosina-dcera-johanna-wernera-jetrichov.jpg"
+  },
+  "141-7599|397": {
+   "signatura": "141-7599",
+   "snimek": 397,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/30e4e508-5255-4f03-bfc5-1eeecc00f634",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-7599_s397.jpg",
+   "velky": "img/zdroje/141-7599_s397_velky.jpg",
+   "vyrez_soubor": "z141-7599-s397-fol26-1739-11-17-joseph-rosenberg-syn-josepha-z-hejtmankovic-x-anna-maria-schnabel-ruprechtice.jpg"
+  },
   "141-7599|409": {
    "signatura": "141-7599",
    "snimek": 409,
@@ -2742,6 +2774,42 @@
    "velky": "img/zdroje/53-20_s179_velky.jpg",
    "vyrez_soubor": "z53-20-s179-1857-matka-anna-spackova-falta.jpg"
   },
+  "53-2|13": {
+   "signatura": "53-2",
+   "snimek": 13,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/13eeb8ee-9fdf-4256-8634-dd432d76391f/dao/13eeb8ee-9fdf-4256-8634-dd432d76391f/file/57223bed-c15c-4b0f-a6ec-d94e8ba620a8",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-2_s013.jpg",
+   "velky": "img/zdroje/53-2_s013_velky.jpg",
+   "vyrez_soubor": "z53-2-s13-pag13-1787-07-28-catharina-spackova-hronov-c22-otec-josef-spacek-matka-maria.jpg"
+  },
+  "53-2|19": {
+   "signatura": "53-2",
+   "snimek": 19,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/13eeb8ee-9fdf-4256-8634-dd432d76391f/dao/13eeb8ee-9fdf-4256-8634-dd432d76391f/file/6d3c7613-6a3c-419c-96a3-cb3df36a7740",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-2_s019.jpg",
+   "velky": "img/zdroje/53-2_s019_velky.jpg",
+   "vyrez_soubor": "z53-2-s19-pag24-1789-12-28-johann-david-spacek-hronov-c35-otec-josef-spacek-matka-maria.jpg"
+  },
+  "53-2|26": {
+   "signatura": "53-2",
+   "snimek": 26,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/13eeb8ee-9fdf-4256-8634-dd432d76391f/dao/13eeb8ee-9fdf-4256-8634-dd432d76391f/file/735bf3f8-6e5a-4803-adc1-25371137b6c3",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-2_s026.jpg",
+   "velky": "img/zdroje/53-2_s026_velky.jpg",
+   "vyrez_soubor": "z53-2-s26-pag39-1792-10-19-joseph-spacek-hronov-c35-otec-joseph-spacek-podruh-matka-maria.jpg"
+  },
+  "53-2|34": {
+   "signatura": "53-2",
+   "snimek": 34,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/13eeb8ee-9fdf-4256-8634-dd432d76391f/dao/13eeb8ee-9fdf-4256-8634-dd432d76391f/file/79545794-c880-477a-baef-2c3843ae3efe",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-2_s034.jpg",
+   "velky": "img/zdroje/53-2_s034_velky.jpg",
+   "vyrez_soubor": "z53-2-s34-pag55-1795-05-23-franz-david-spacek-hronov-c88-otec-joseph-spacek-podruh-matka-maria.jpg"
+  },
   "53-4158|25": {
    "signatura": "53-4158",
    "snimek": 25,
@@ -2750,6 +2818,15 @@
    "nahled": "img/zdroje/53-4158_s025.jpg",
    "velky": "img/zdroje/53-4158_s025_velky.jpg",
    "vyrez_soubor": "soumar-anezka-1857-spread-sm.jpg"
+  },
+  "53-4178|142": {
+   "signatura": "53-4178",
+   "snimek": 142,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/96204dc9-1e5f-4053-81ba-4a10918504e3/dao/96204dc9-1e5f-4053-81ba-4a10918504e3/file/67404a46-e969-4562-9063-921d8132c57b",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-4178_s142.jpg",
+   "velky": "img/zdroje/53-4178_s142_velky.jpg",
+   "vyrez_soubor": "z53-4178-s142-index-n-hronov-lit-s-1795-1796-spacek-franz-david-1795-05-23.jpg"
   },
   "53-4181|34": {
    "signatura": "53-4181",
