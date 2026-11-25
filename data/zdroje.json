@@ -320,6 +320,20 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 144-3 (poř.č. 10015), 1825-1838",
    "popis": "římskokatolická matrika NAROZENÝCH, římskokatolický index NAROZENÝCH, Ošerov + Sedloňov + Šerlich (do 3.1838), Polom (3.1825-2.1838)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/59f58474-4a21-4fd4-9245-a472237aabfa"
+  },
+  "144-2": {
+   "apu": "1ad1e98c-0f25-416d-bbe8-afed3d099515",
+   "dao": "1ad1e98c-0f25-416d-bbe8-afed3d099515",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 144-2 (poř.č. 10014), 1763-1824",
+   "popis": "římskokatolická matrika NAROZENÝCH, římskokatolický index NAROZENÝCH, farnost Sedloňov (Ošerov, Polom, Sedloňov, Šerlich) do 9.1784, filiální obvod Olešnice v Orlických horách (Lužany, Olešnice v Orlických horách, Polom) do 1766, filiální obvod Dobřany (Dobřany, Kounov, Nedvězí, Plasnice, Rozkoš, Šediviny) do 1765, Ošerov + Sedloňov + Šerlich (od 9.1784), Polom (od 10.1784)\nindex pouze od 1793, fol. 216 dodatečný zápis ze Sedloňova 1808",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/1ad1e98c-0f25-416d-bbe8-afed3d099515"
+  },
+  "144-3937": {
+   "apu": "6d99619e-ad51-46f8-8afb-e0d249861d42",
+   "dao": "6d99619e-ad51-46f8-8afb-e0d249861d42",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 144-3937 (poř.č. 10016), 1838-1858",
+   "popis": "římskokatolická matrika NAROZENÝCH, římskokatolický index NAROZENÝCH, Ošerov + Sedloňov + Šerlich (do 2.1858), Polom (do 4.1858)\nfol. 144 mrtvě narození 1840-1857",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/6d99619e-ad51-46f8-8afb-e0d249861d42"
   }
  },
  "aliasy": {
@@ -678,6 +692,33 @@
    "velky": "img/zdroje/141-7599_s602_velky.jpg",
    "vyrez_soubor": "z141-7599-s602-1767-01-25-anton-ringel-ausgedinger.jpg"
   },
+  "144-2|112": {
+   "signatura": "144-2",
+   "snimek": 112,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/1ad1e98c-0f25-416d-bbe8-afed3d099515/dao/1ad1e98c-0f25-416d-bbe8-afed3d099515/file/626e54b2-b418-4c0a-9c7d-589dcfa265e3",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/144-2_s112.jpg",
+   "velky": "img/zdroje/144-2_s112_velky.jpg",
+   "vyrez_soubor": "z144-2-s112-1801-09-29-johanna-walsch-sedlonov70.jpg"
+  },
+  "144-2|195": {
+   "signatura": "144-2",
+   "snimek": 195,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/1ad1e98c-0f25-416d-bbe8-afed3d099515/dao/1ad1e98c-0f25-416d-bbe8-afed3d099515/file/8bc951d4-a2f8-4c13-969e-ca0ab224a732",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/144-2_s195.jpg",
+   "velky": "img/zdroje/144-2_s195_velky.jpg",
+   "vyrez_soubor": "z144-2-s195-1799-11-09-ignaz-mader-polom58.jpg"
+  },
+  "144-3937|8": {
+   "signatura": "144-3937",
+   "snimek": 8,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/6d99619e-ad51-46f8-8afb-e0d249861d42/dao/6d99619e-ad51-46f8-8afb-e0d249861d42/file/1d98c3bc-e189-4c01-9ac4-d4d6f4634a15",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/144-3937_s008.jpg",
+   "velky": "img/zdroje/144-3937_s008_velky.jpg",
+   "vyrez_soubor": "z144-3937-s8-1838-06-08-franziska-dorner.jpg"
+  },
   "144-3938|195": {
    "signatura": "144-3938",
    "snimek": 195,
@@ -712,6 +753,15 @@
    "vyrez": "celá strana",
    "nahled": "img/zdroje/144-3938_s075.jpg",
    "velky": "img/zdroje/144-3938_s075_velky.jpg"
+  },
+  "144-3943|118": {
+   "signatura": "144-3943",
+   "snimek": 118,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/daa8f83b-0855-410f-8490-e01a17274f98/dao/daa8f83b-0855-410f-8490-e01a17274f98/file/6597edaa-ebb1-4517-b2bf-484d22321965",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/144-3943_s118.jpg",
+   "velky": "img/zdroje/144-3943_s118_velky.jpg",
+   "vyrez_soubor": "z144-3943-s118-1799-01-04-ignaz-mader-margaretha-matzner.jpg"
   },
   "144-3943|25": {
    "signatura": "144-3943",

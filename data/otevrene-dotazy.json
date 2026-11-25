@@ -647,13 +647,16 @@
       "id": "q-pross-dorner-puvod",
       "title": "Proß a Dörner — původ Josefa Proße a rodná příjmení Agathe a Marie",
       "summary": "Sňatek Anton Proß × Franziska Dörner 15. 6. 1858 (144-3943, snímek 77) a narození Antona 13. 7. 1866 (144-3938, snímek 62) jmenují Josefa Proße, zahradníka v č. 6, a Agathe z Malého Uhřínova; Johanna Dörnera ze Sedloňova č. 32 a Marii z Janova č. 26.",
-      "details": "Nečteno jistě: název obce Josefa Proße (č. 6, „Lanatal / Banatal“ apod.), rodné příjmení Agathe (Lux / Leik?) a číslo domu v Malém Uhřínově, rodné příjmení Marie Dörnerové (Czerlaika / Lwotaika?). Další krok: narození Antona Proße *kolem 1828 (podle obce otce — pravděpodobně jiná fara, Uhřínov / Nové Město n. M.) a narození Franzisky Dörner *kolem 1838 v Sedloňově (144-3937, index v knize).",
+      "details": "Franziska Dörner *8. 6. 1838 Sedloňov č. 39 doložena (144-3937 snímek 8); její děd Karl Dörner (Sedloňov 47) × Susanna Herzig (dcera Antona Herziga, Sedloňov 114) přidáni. Nejisté: rodné příjmení Marie Dörnerové — 1838 dcera Franze „Czwentaczka(?)“, chalupníka v Janově č. 26, a Marie, dcery Antona „Ulrich(?)“ z Janova č. 28 (panství Opočno); 1858 čteno „Czerlaika / Lwotaika“. Proß: Anton st. *kolem 1828 v sedloňovském indexu 1825–1838 (144-3, snímek 90, písmeno P) NENÍ — narodil se jinde. Obec otce Josefa (č. 6) čtena „Bauratal / Banatal(?)“, matka Agathe roz. „Beik / Leik(?)“ z „Klein-Aurim“ č. 2, Bezirksamt čten „Aicheneu / Auscherau(?)“ — neidentifikováno; možná Malá Úpa (Klein-Aupa) a okres Maršov, ověřit. Další krok: Janov u Sedloňova — fara Sedloňov? (Janov patří k Opočnu, fara pravděpodobně Bystré / Olešnice); identifikace obce Proßů.",
       "related_ids": [
         "anton-pross-1828",
         "josef-pross",
         "agathe-pross",
         "maria-dorner",
-        "franziska-dorner"
+        "franziska-dorner",
+        "karl-dorner",
+        "susanna-herzig",
+        "anton-herzig"
       ],
       "sources": [
         {
@@ -665,6 +668,11 @@
           "label": "ARON, narození 13. 7. 1866",
           "signatura": "144-3938",
           "detail": "snímek 62"
+        },
+        {
+          "label": "ARON",
+          "signatura": "144-3937",
+          "detail": "snímek 8"
         }
       ]
     },
@@ -672,14 +680,16 @@
       "id": "q-mader-knopp-walsch",
       "title": "Mader, Knopp, Walsch — rodná příjmení a další generace",
       "summary": "Linie Mader je doložena do Ignaze Madera st. × Margarethy Matzner (sňatek syna 10. 2. 1825, 144-3943 snímek 25; narození vnuka 13. 1. 1833, 144-3 snímek 29).",
-      "details": "Nečteno jistě: rodné příjmení Anny Knoppové z Olešnice č. 161 (Corsnika / Lantnika?), rodné příjmení Johanny Walschové st. (Zeug / Albert?), bydliště Ignaze Madera st. (1825 a 1833). Další krok: narození Ignaze Madera ml. *kolem 1802 a Johanny Walsch *kolem 1801 v 144-2 (N 1763–1824, index 144-6); narození Franzisky Knopp *kolem 1837 v Olešnici (fara Olešnice v O. h., jiný fond).",
+      "details": "Vyřešeno 25. 11. 2026: Ignaz Mader ml. *9. 11. 1799 Polom č. 58 (144-2 snímek 195); Johanna Walsch *29. 9. 1801 Sedloňov č. 70 (144-2 snímek 112); sňatek Ignaz Mader st. × Margaretha vdova Zeiner(?) roz. Matzner 4. 1. 1799 (144-3943 snímek 118). Stále nejisté: rodné příjmení Johanny Walschové st. (1801: dcera Adalberta „Zeug / Zautz“, matka Maria dcera Franze Littnera z Martína/Marzdorfu(?) v Kladsku; 1825: „Zeug“ — dvě shodná, ale nejistá čtení); obec Antona Madera (1799, snad Kounov / Kaunay); příjmení prvního manžela Margarethy (Zeiner?); rodné příjmení Anny Knoppové z Olešnice č. 161. Další krok: sňatek Ignaz Walsch × Johanna (před 1795, 144-5 bez indexu); narození Ignaze Madera st. *kolem 1780 (podle obce otce); narození Franzisky Knopp *kolem 1837 (fara Olešnice v O. h.).",
       "related_ids": [
         "ignaz-mader-st",
         "anna-knopp",
         "johanna-walsch-matka",
         "ignaz-mader-ml",
         "johanna-walsch",
-        "franziska-knopp"
+        "franziska-knopp",
+        "anton-mader",
+        "karl-matzner"
       ],
       "sources": [
         {
@@ -696,6 +706,16 @@
           "label": "ARON, sňatek 9. 11. 1858",
           "signatura": "144-3943",
           "detail": "snímek 79"
+        },
+        {
+          "label": "ARON",
+          "signatura": "144-2",
+          "detail": "snímky 112, 195"
+        },
+        {
+          "label": "ARON",
+          "signatura": "144-3943",
+          "detail": "snímek 118"
         }
       ]
     }
