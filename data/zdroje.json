@@ -2639,6 +2639,15 @@
    "velky": "img/zdroje/2095_s126_velky.jpg",
    "vyrez_soubor": "z2095-s126-pag230-1734-09-27-frantisek-syn-vaclava-syroveho-a-magdaleny-bestovice.jpg"
   },
+  "2095|237": {
+   "signatura": "2095",
+   "snimek": 237,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/1a6d0b5c-5f05-41fe-8bc6-27540ddbae5c/dao/1a6d0b5c-5f05-41fe-8bc6-27540ddbae5c/file/417a01d8-3117-4b7e-9073-e4889729cf47",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/2095_s237.jpg",
+   "velky": "img/zdroje/2095_s237_velky.jpg",
+   "vyrez_soubor": "z2095-s237-pag452-1744-04-12-vojtech-syn-vaclava-syroveho-a-anny-chocen-kandidat.jpg"
+  },
   "2095|502": {
    "signatura": "2095",
    "snimek": 502,
@@ -2682,7 +2691,7 @@
    "vyrez": "zápis",
    "nahled": "img/zdroje/2104_s169.jpg",
    "velky": "img/zdroje/2104_s169_velky.jpg",
-   "vyrez_soubor": "z2104-s169-1764-10-29-vojtech-syrovy-katerina-zavodna.jpg"
+   "vyrez_soubor": "z2104-s169-pag167-1764-10-29-vojtech-syrovy-superstes-filius-vaclava-civis-chocen-x-katerina-zavodna-plne-rozliseni.jpg"
   },
   "2104|21": {
    "signatura": "2104",
@@ -2872,6 +2881,15 @@
    "nahled": "img/zdroje/2118_s140.jpg",
    "velky": "img/zdroje/2118_s140_velky.jpg",
    "vyrez_soubor": "z2118-s140-index-n-chocen-lit-s-1734-1736-bez-vojtecha-syroveho.jpg"
+  },
+  "2118|141": {
+   "signatura": "2118",
+   "snimek": 141,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/b18d09e5-ebbc-40ce-917b-dc77027a1df9/dao/b18d09e5-ebbc-40ce-917b-dc77027a1df9/file/77e7dd67-ccf8-4b7d-abe8-fd0d25c67989",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/2118_s141.jpg",
+   "velky": "img/zdroje/2118_s141_velky.jpg",
+   "vyrez_soubor": "z2118-s141-index-n-chocen-lit-s-1742-1744-syrovy-vojtech-12-4-1744-vaclav-anna-chocen-fol-452.jpg"
   },
   "2119|123": {
    "signatura": "2119",
@@ -3337,6 +3355,24 @@
    "vyrez": "celá strana",
    "nahled": "img/zdroje/53-4181_s036.jpg",
    "velky": "img/zdroje/53-4181_s036_velky.jpg"
+  },
+  "53-4183|33": {
+   "signatura": "53-4183",
+   "snimek": 33,
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-4183_s033.jpg",
+   "velky": "img/zdroje/53-4183_s033_velky.jpg",
+   "vyrez_soubor": "z53-4183-s33-index-zemreli-hronov-lit-k-1872-1874-bez-frantiska-klimese.jpg",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/136308e7-fe7b-44fd-9627-552e14aba959/dao/136308e7-fe7b-44fd-9627-552e14aba959/file/2e13378c-bb50-4865-a0f6-b11850cdb3c6"
+  },
+  "53-4183|34": {
+   "signatura": "53-4183",
+   "snimek": 34,
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-4183_s034.jpg",
+   "velky": "img/zdroje/53-4183_s034_velky.jpg",
+   "vyrez_soubor": "z53-4183-s34-index-zemreli-hronov-lit-k-1874-1876-bez-frantiska-klimese.jpg",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/136308e7-fe7b-44fd-9627-552e14aba959/dao/136308e7-fe7b-44fd-9627-552e14aba959/file/e423d548-0478-44cf-9617-c8b393f9bd40"
   },
   "53-4184|39": {
    "signatura": "53-4184",
