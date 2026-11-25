@@ -270,6 +270,26 @@ def main() -> int:
     for q in questions:
         check_sources(f"dotaz {q.get('id')}", q.get("sources"))
 
+    mista_path = ROOT / "data" / "mista.json"
+    if mista_path.is_file():
+        mista = json.loads(mista_path.read_text(encoding="utf-8"))
+        seen_places = set()
+        for pl in mista.get("places") or []:
+            pid = pl.get("id")
+            if not pid:
+                errors.append("mista.json: místo bez id")
+                continue
+            if pid in seen_places:
+                errors.append(f"mista.json: duplicitní id {pid}")
+            seen_places.add(pid)
+            if pl.get("lat") is None or pl.get("lon") is None:
+                errors.append(f"mista.json: {pid} nemá souřadnice")
+            if not (pl.get("source") or {}).get("label"):
+                warnings.append(f"mista.json: {pid} nemá uvedený zdroj souřadnic")
+        print(f"Míst v mista.json: {len(seen_places)}")
+    else:
+        warnings.append("Chybí data/mista.json — stránka mapa.html nebude mít souřadnice obcí.")
+
     print(f"Osob v hlavním grafu: {len(people)}  svazků: {len(unions)}  nepřipojených osob: {len(ub_people)}  otevřených dotazů: {len(questions)}")
     if errors:
         print(f"\nChyby ({len(errors)}):")

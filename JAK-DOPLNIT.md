@@ -163,3 +163,12 @@ Skript ověří `data/rodokmen.json`, **nejdřív stáhne a začlení cizí změ
 ## 6. Jak se mapa kreslí (pro úpravy kódu)
 
 `js/layout.js` skládá strom po generacích (řádek 0 = Štěpán, 1 = rodiče, …): manželé vedle sebe s uzlem páru (kroužek se srdcem), z uzlu jedna čára dolů na sběrnici a z ní ke každému dítěti; předci každého partnera nad ním, sourozenci předků s rodinami po straně. Bloky se skládají podle obrysů řádků, takže se karty nepřekrývají a čáry nevedou přes karty (kdyby mezi manžely ležela cizí karta, spojí je „závorka“ pod kartami). Přímá linie Štěpánových předků je zlatá; najetí nebo klik na osobu zvýrazní cestu ke Štěpánovi. Nové osoby stačí přidat do JSON — rozložení se přepočítá samo.
+
+## 7. Mapa míst a statistika povolání
+
+Kromě stromu jsou na webu dvě další stránky, které čtou stejný `data/rodokmen.json` (včetně nepřipojených větví):
+
+- `mapa.html` — zeměpisná mapa událostí (Leaflet + OpenStreetMap). Souřadnice obcí jsou v `data/mista.json`. Novou obec doplňte tam (souřadnice z Wikidata P625 nebo Nominatim, se zdrojem). Nejistá nebo nezamčená místa se na mapu jako bod nedávají.
+- `povolani.html` — statistika živností. Kategorie a české vysvětlení jsou v `data/povolani-kategorie.json`. Původní formulace z matriky se nemění.
+
+U žijících osob mapa ukazuje jen obec, nikdy číslo domu. Události a povolání se skládají v prohlížeči z dat, takže nová osoba v `rodokmen.json` se na obou stránkách objeví sama, pokud její obec už je v `mista.json`.

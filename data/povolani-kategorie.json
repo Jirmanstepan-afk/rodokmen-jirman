@@ -1,0 +1,135 @@
+{
+  "updated": "2026-11-25",
+  "note": "Kategorie se přiřazují jen podle znění pole occupation v datech. Původní formulace z matriky nebo rodinného podkladu se vždy zachovává. Kde povolání chybí, je „neuvedeno“.",
+  "categories": [
+    {
+      "id": "sedlak",
+      "label": "Sedlák / rolník",
+      "explain": "Hospodář na gruntu (něm. Bauer; v jednom zápisu lat. Pradianus). Držel pole a platil poddanské dávky, na rozdíl od chalupníka měl typicky větší výměru.",
+      "patterns": ["sedlák", "sedlak", "rolník", "rolnik", "bauer", "pradianus"]
+    },
+    {
+      "id": "chalupnik",
+      "label": "Chalupník / domkář",
+      "explain": "Držitel malého stavení s kouskem půdy (něm. Häusler, Grundhäusler — gruntovní chalupník, Ober-Häusler — horní chalupník). Domkář je blízký výraz téhož postavení.",
+      "patterns": ["chalupník", "chalupnik", "domkář", "domkar", "häusler", "hausler", "grundhäusler", "grundhausler", "ober-häusler", "ober-hausler"]
+    },
+    {
+      "id": "podruh",
+      "label": "Podruh",
+      "explain": "Člověk bydlící v cizím domě, bez vlastního gruntu (něm. Inwohner / Inmann, Hausgenoss). Často nádeník nebo řemeslník při usedlosti.",
+      "patterns": ["podruh", "inwohner", "inmann", "hausgenoss"]
+    },
+    {
+      "id": "vymenkar",
+      "label": "Výměnkář",
+      "explain": "Bývalý hospodář na výměnku, tedy ve výslužbě na usedlosti, kterou předal nástupci (něm. Ausgedinger, Auszügler).",
+      "patterns": ["výměnkář", "vymenkar", "výměnkářka", "ausgedinger", "auszügler", "auszugler"]
+    },
+    {
+      "id": "tkadlec",
+      "label": "Tkadlec / textil",
+      "explain": "Ruční nebo tovární zpracování textilu: tkadlec (něm. Weber, lat. textor), vochlář (vochluje len nebo konopí) a tkalcovský / textilní dělník (Zeugarbeiter).",
+      "patterns": ["tkadlec", "weber", "textor", "vochlář", "vochlar", "zeugarbeiter", "textilní", "tkalcovský"]
+    },
+    {
+      "id": "krejci",
+      "label": "Krejčí",
+      "explain": "Řemeslo šití oděvů (něm. Schneider, Schneidermeister — mistr krejčí).",
+      "patterns": ["krejčí", "krejci", "schneidermeister", "schneider"]
+    },
+    {
+      "id": "obuvnik",
+      "label": "Obuvník",
+      "explain": "Řemeslo výroby a oprav obuvi. V zápisu se objevuje i mistr obuvi.",
+      "patterns": ["obuvník", "obuvnik", "mistr obuvi"]
+    },
+    {
+      "id": "tesar",
+      "label": "Tesař",
+      "explain": "Stavební řemeslo práce se dřevem na stavbách (něm. Zimmermann).",
+      "patterns": ["tesař", "tesar", "zimmermann"]
+    },
+    {
+      "id": "truhlar",
+      "label": "Truhlář",
+      "explain": "Výroba nábytku a dřevěných výrobků. V tomto rodokmenu je u jedné osoby jen z rodinného podkladu, v matrice neověřeno — původní poznámka se zobrazuje beze změny.",
+      "patterns": ["truhlář", "truhlar"]
+    },
+    {
+      "id": "mlynar",
+      "label": "Mlynářský tovaryš",
+      "explain": "Vyučený pomocník ve mlýně, ještě ne mistr (něm. Müllergesell).",
+      "patterns": ["mlynářský tovaryš", "mlynarsky tovarys", "müllergesell", "muellergesell"]
+    },
+    {
+      "id": "zahradnik",
+      "label": "Zahradník",
+      "explain": "Pěstitel na zahradě nebo malé výměře (něm. Feldgärtner — polní / usedlostní zahradník).",
+      "patterns": ["zahradník", "zahradnik", "feldgärtner", "feldgartner"]
+    },
+    {
+      "id": "nadenik",
+      "label": "Nádeník",
+      "explain": "Denní námezdní práce bez stálého řemesla (něm. Tagelöhner).",
+      "patterns": ["nádeník", "nadenik", "tagelöhner", "tagelohner"]
+    },
+    {
+      "id": "delenik",
+      "label": "Dělník / dělnice",
+      "explain": "Námezdní práce v továrně nebo ve stavebnictví. V zápisech tovární dělník, tovární dělnice, stavební dělník.",
+      "patterns": ["tovární dělnice", "tovarni delnice", "tovární dělník", "tovarni delnik", "stavební dělník", "stavebni delnik"]
+    },
+    {
+      "id": "zeleznicar",
+      "label": "Železničář",
+      "explain": "Práce u dráhy. V datech je průvodčí vlaků (z rodného listu).",
+      "patterns": ["průvodčí vlaků", "pruvodci vlaku"]
+    },
+    {
+      "id": "sluzebna",
+      "label": "Služebná",
+      "explain": "Domácí služba v cizí domácnosti.",
+      "patterns": ["služebná", "sluzebna"]
+    },
+    {
+      "id": "rychtar",
+      "label": "Rychtář",
+      "explain": "Představený vesnice, rychta (něm. Scholtz / Schulze).",
+      "patterns": ["rychtář", "rychtar", "scholtz", "schulze"]
+    },
+    {
+      "id": "mestan",
+      "label": "Měšťan",
+      "explain": "Obyvatel města s měšťanským právem (lat. civis).",
+      "patterns": ["měšťan", "mestan", "civis"]
+    },
+    {
+      "id": "vojak",
+      "label": "Voják / záložník",
+      "explain": "Záložník c. k. armády (v datech u pěšího pluku č. 18). Není to civilní živobytí, ale v zápisu je uvedeno spolu s povoláním.",
+      "patterns": ["záložník", "zaloznik", "pěšího pluku", "pesiho pluku"]
+    },
+    {
+      "id": "status",
+      "label": "Stav, ne řemeslo",
+      "explain": "Označení společenského nebo rodinného stavu, nikoli živnosti (selská dcera — Bauern-Tochter, Jungwirthin — mladá hospodářka, vdova). Původní znění se ukazuje, do grafu řemesel se nezapočítává jako práce.",
+      "patterns": ["selská dcera", "selska dcera", "bauern-tochter", "bauern tochter", "jungwirthin"],
+      "notJob": true
+    },
+    {
+      "id": "rodina",
+      "label": "Jen údaj o rodině",
+      "explain": "V poli povolání je popsán manžel, otec nebo matka, nikoli vlastní práce této osoby. Původní text se zobrazuje; do grafu živností se nezapočítává.",
+      "patterns": [],
+      "notJob": true
+    },
+    {
+      "id": "neuvedeno",
+      "label": "Neuvedeno",
+      "explain": "V datech u této osoby pole povolání chybí.",
+      "patterns": [],
+      "notJob": true
+    }
+  ]
+}

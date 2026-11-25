@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta name="googlebot" content="noindex, nofollow, noarchive">
+  <meta name="description" content="Čím se živili předkové rodiny Jirman. Soukromá stránka, neindexovat.">
+  <title>Povolání — Rodokmen rodiny Jirman</title>
+  <link rel="stylesheet" href="./css/style.css?v=4">
+</head>
+<body class="page-scroll">
+  <header class="topbar">
+    <div class="brand">
+      <h1>Rodokmen rodiny Jirman</h1>
+      <p id="meta-line">Načítání statistiky povolání…</p>
+    </div>
+    <div class="tools">
+      <label class="chk tool-chk"><input type="checkbox" id="unattached" checked> I nepřipojené větve</label>
+    </div>
+  </header>
+  <div class="subnav-wrap">
+    <nav class="sitenav" aria-label="Sekce webu">
+      <a href="./index.html">Rodokmen</a>
+      <a href="./mapa.html">Mapa míst</a>
+      <a href="./povolani.html" class="is-active" aria-current="page">Povolání</a>
+    </nav>
+  </div>
+
+  <main class="doc">
+    <header class="doc-head">
+      <h1>Čím se živili</h1>
+      <p>Přehled vychází jen z pole povolání v datech. U každé osoby zůstává původní formulace z matriky nebo rodinného podkladu a k ní české vysvětlení kategorie. Kde údaj chybí, je to <strong>neuvedeno</strong> — nic se nedoplňuje. Jedna osoba může během života spadat do více kategorií.</p>
+    </header>
+
+    <section class="occ-toolbar">
+      <label>Větev
+        <select id="branch-sel"></select>
+      </label>
+      <label>Století narození
+        <select id="century-sel"></select>
+      </label>
+    </section>
+
+    <section class="occ-chart-wrap" aria-labelledby="chart-title">
+      <h2 id="chart-title">Počet osob podle povolání</h2>
+      <div id="chart"></div>
+    </section>
+
+    <section id="occ-sections" class="occ-sections"></section>
+  </main>
+
+  <script src="./js/spolecne.js?v=4"></script>
+  <script src="./js/povolani.js?v=4"></script>
+</body>
+</html>

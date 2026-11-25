@@ -1,0 +1,876 @@
+{
+  "updated": "2026-11-25",
+  "timezone": "Europe/Helsinki",
+  "note": "Souřadnice obcí a částí obcí, ne čísla domů. Zdroj u každého místa. Nic se nedomýšlí: nezamčená nebo nejistě čtená místa jsou v unplaced_rules a na mapě jen v seznamu bez bodu.",
+  "places": [
+    {
+      "id": "broumov",
+      "name": "Broumov",
+      "aliases": [
+        "Broumov"
+      ],
+      "type": "město",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.58569,
+      "lon": 16.3319,
+      "source": {
+        "label": "Wikidata Q990988 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q990988",
+        "wikidata": "Q990988"
+      },
+      "note": "Včetně formulace Broumov (město). U žijících osob jen obec."
+    },
+    {
+      "id": "olivetin",
+      "name": "Olivětín",
+      "aliases": [
+        "Olivětín",
+        "Ölberg"
+      ],
+      "type": "část obce Broumov",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.6081,
+      "lon": 16.3278,
+      "source": {
+        "label": "Wikidata Q11798066 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q11798066",
+        "wikidata": "Q11798066"
+      },
+      "note": null
+    },
+    {
+      "id": "velka-ves",
+      "name": "Velká Ves",
+      "aliases": [
+        "Velká Ves",
+        "Grossdorf",
+        "Großdorf"
+      ],
+      "type": "část obce Broumov",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.5828,
+      "lon": 16.3442,
+      "source": {
+        "label": "Wikidata Q11878677 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q11878677",
+        "wikidata": "Q11878677"
+      },
+      "note": "V matrice Grossdorf / Velká Ves u Broumova."
+    },
+    {
+      "id": "rozmital",
+      "name": "Rožmitál",
+      "aliases": [
+        "Rožmitál",
+        "Rosenthal"
+      ],
+      "type": "část obce Broumov",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.60398,
+      "lon": 16.3689,
+      "source": {
+        "label": "Wikidata Q9323517 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q9323517",
+        "wikidata": "Q9323517"
+      },
+      "note": "Rožmitál u Broumova, v matrice Rosenthal."
+    },
+    {
+      "id": "ruprechtice",
+      "name": "Ruprechtice",
+      "aliases": [
+        "Ruprechtice",
+        "Ruppersdorf"
+      ],
+      "type": "část obce Meziměstí",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.63759,
+      "lon": 16.26946,
+      "source": {
+        "label": "Wikidata Q9324052 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q9324052",
+        "wikidata": "Q9324052"
+      },
+      "note": null
+    },
+    {
+      "id": "viznov",
+      "name": "Vižňov",
+      "aliases": [
+        "Vižňov",
+        "Wiesen"
+      ],
+      "type": "část obce Meziměstí",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.6481,
+      "lon": 16.2403,
+      "source": {
+        "label": "Wikidata Q11903489 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q11903489",
+        "wikidata": "Q11903489"
+      },
+      "note": null
+    },
+    {
+      "id": "starostin",
+      "name": "Starostín",
+      "aliases": [
+        "Starostín",
+        "Neusorge"
+      ],
+      "type": "část obce Meziměstí",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.6344,
+      "lon": 16.2247,
+      "source": {
+        "label": "Wikidata Q4924892 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q4924892",
+        "wikidata": "Q4924892"
+      },
+      "note": null
+    },
+    {
+      "id": "martinkovice",
+      "name": "Martínkovice",
+      "aliases": [
+        "Martínkovice"
+      ],
+      "type": "obec",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.54756,
+      "lon": 16.34207,
+      "source": {
+        "label": "Wikidata Q1905963 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q1905963",
+        "wikidata": "Q1905963"
+      },
+      "note": null
+    },
+    {
+      "id": "hejtmankovice",
+      "name": "Hejtmánkovice",
+      "aliases": [
+        "Hejtmánkovice"
+      ],
+      "type": "obec",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.59928,
+      "lon": 16.29953,
+      "source": {
+        "label": "Wikidata Q1601631 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q1601631",
+        "wikidata": "Q1601631"
+      },
+      "note": null
+    },
+    {
+      "id": "vernerovice",
+      "name": "Vernéřovice",
+      "aliases": [
+        "Vernéřovice",
+        "Deutsch-Wernersdorf",
+        "Deutsch Wernersdorf",
+        "Wernersdorf"
+      ],
+      "type": "obec",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.61491,
+      "lon": 16.22106,
+      "source": {
+        "label": "Wikidata Q2034259 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q2034259",
+        "wikidata": "Q2034259"
+      },
+      "note": null
+    },
+    {
+      "id": "otovice",
+      "name": "Otovice",
+      "aliases": [
+        "Otovice"
+      ],
+      "type": "obec",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.55718,
+      "lon": 16.38767,
+      "source": {
+        "label": "Wikidata Q2035063 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q2035063",
+        "wikidata": "Q2035063"
+      },
+      "note": "Otovice u Broumova."
+    },
+    {
+      "id": "libna",
+      "name": "Libná",
+      "aliases": [
+        "Libná",
+        "Libein",
+        "Lieben"
+      ],
+      "type": "část obce Adršpach",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.6525,
+      "lon": 16.1175,
+      "source": {
+        "label": "Wikidata Q786304 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q786304",
+        "wikidata": "Q786304"
+      },
+      "note": null
+    },
+    {
+      "id": "hronov",
+      "name": "Hronov",
+      "aliases": [
+        "Hronov"
+      ],
+      "type": "město",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.47972,
+      "lon": 16.18239,
+      "source": {
+        "label": "Wikidata Q1019365 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q1019365",
+        "wikidata": "Q1019365"
+      },
+      "note": null
+    },
+    {
+      "id": "zabokrky",
+      "name": "Žabokrky",
+      "aliases": [
+        "Žabokrky"
+      ],
+      "type": "část města Hronov",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.4942,
+      "lon": 16.195,
+      "source": {
+        "label": "Wikidata Q10269648 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q10269648",
+        "wikidata": "Q10269648"
+      },
+      "note": null
+    },
+    {
+      "id": "zdarky",
+      "name": "Žďárky",
+      "aliases": [
+        "Žďárky"
+      ],
+      "type": "obec",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.46826,
+      "lon": 16.22743,
+      "source": {
+        "label": "Wikidata Q394513 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q394513",
+        "wikidata": "Q394513"
+      },
+      "note": null
+    },
+    {
+      "id": "vysoka-srbska",
+      "name": "Vysoká Srbská",
+      "aliases": [
+        "Vysoká Srbská"
+      ],
+      "type": "obec",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.48774,
+      "lon": 16.22764,
+      "source": {
+        "label": "Wikidata Q729335 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q729335",
+        "wikidata": "Q729335"
+      },
+      "note": null
+    },
+    {
+      "id": "nizka-srbska",
+      "name": "Nízká Srbská",
+      "aliases": [
+        "Nízká Srbská"
+      ],
+      "type": "část městyse Machov",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.49833,
+      "lon": 16.25222,
+      "source": {
+        "label": "Wikidata Q530749 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q530749",
+        "wikidata": "Q530749"
+      },
+      "note": null
+    },
+    {
+      "id": "machov",
+      "name": "Machov",
+      "aliases": [
+        "Machov"
+      ],
+      "type": "městys",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.4993,
+      "lon": 16.27699,
+      "source": {
+        "label": "Wikidata Q1882745 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q1882745",
+        "wikidata": "Q1882745"
+      },
+      "note": null
+    },
+    {
+      "id": "machovske-konciny",
+      "name": "Machovské Končiny",
+      "aliases": [
+        "Machovské Končiny"
+      ],
+      "type": "osada (Machov / hranice s Kladskem)",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.47662,
+      "lon": 16.26822,
+      "source": {
+        "label": "Wikidata Q116033383 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q116033383",
+        "wikidata": "Q116033383"
+      },
+      "note": null
+    },
+    {
+      "id": "zavrchy",
+      "name": "Závrchy",
+      "aliases": [
+        "Závrchy"
+      ],
+      "type": "osada, část Vysoké Srbské",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.4781,
+      "lon": 16.2506,
+      "source": {
+        "label": "Wikidata Q11081987 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q11081987",
+        "wikidata": "Q11081987"
+      },
+      "note": null
+    },
+    {
+      "id": "zlicko",
+      "name": "Zlíčko",
+      "aliases": [
+        "Zlíčko"
+      ],
+      "type": "část obce Vysoká Srbská",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.4844,
+      "lon": 16.2242,
+      "source": {
+        "label": "Wikidata Q10861164 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q10861164",
+        "wikidata": "Q10861164"
+      },
+      "note": null
+    },
+    {
+      "id": "sedmakovice",
+      "name": "Sedmákovice",
+      "aliases": [
+        "Sedmákovice"
+      ],
+      "type": "osada v části Zlíčko, obec Vysoká Srbská",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.48209,
+      "lon": 16.23861,
+      "source": {
+        "label": "OpenStreetMap, uzel 320921561 (Nominatim)",
+        "url": "https://www.openstreetmap.org/node/320921561",
+        "wikidata": null
+      },
+      "note": null
+    },
+    {
+      "id": "bely",
+      "name": "Bělý",
+      "aliases": [
+        "Bělý",
+        "Bělic",
+        "Bielei"
+      ],
+      "type": "část městyse Machov",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.5125,
+      "lon": 16.2711,
+      "source": {
+        "label": "Wikidata Q11706810 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q11706810",
+        "wikidata": "Q11706810"
+      },
+      "note": "V matrice se vyskytuje tvar Bělic; ves u Machova, něm. Bielei."
+    },
+    {
+      "id": "machovska-lhota",
+      "name": "Machovská Lhota",
+      "aliases": [
+        "Machovská Lhota",
+        "Lhota Náchodská",
+        "Náchodská Lhota"
+      ],
+      "type": "část městyse Machov",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.4982,
+      "lon": 16.2895,
+      "source": {
+        "label": "Wikidata Q11765257 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q11765257",
+        "wikidata": "Q11765257"
+      },
+      "note": "Historický název Lhota Náchodská (též Lhota u Police nad Metují); od 1950 Machovská Lhota. Samotné „Lhota“ bez přívlastku se nezaměřuje."
+    },
+    {
+      "id": "slatina",
+      "name": "Slatina nad Úpou",
+      "aliases": [
+        "Slatina nad Úpou",
+        "Slatina"
+      ],
+      "type": "obec",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.45413,
+      "lon": 16.03671,
+      "source": {
+        "label": "Wikidata Q978969 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q978969",
+        "wikidata": "Q978969"
+      },
+      "note": "Slatina nad Úpou na náchodském panství (fara Boušín)."
+    },
+    {
+      "id": "bezdekov",
+      "name": "Bezděkov nad Metují",
+      "aliases": [
+        "Bezděkov nad Metují",
+        "Bezděkov"
+      ],
+      "type": "obec",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.50977,
+      "lon": 16.22933,
+      "source": {
+        "label": "Wikidata Q853474 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q853474",
+        "wikidata": "Q853474"
+      },
+      "note": "Bezděkov nad Metují. V zápisech často jen Bezděkov."
+    },
+    {
+      "id": "horni-radechova",
+      "name": "Horní Radechová",
+      "aliases": [
+        "Horní Radechová"
+      ],
+      "type": "obec",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.46739,
+      "lon": 16.14486,
+      "source": {
+        "label": "Wikidata Q1628753 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q1628753",
+        "wikidata": "Q1628753"
+      },
+      "note": null
+    },
+    {
+      "id": "slavikov",
+      "name": "Slavíkov",
+      "aliases": [
+        "Slavíkov"
+      ],
+      "type": "část obce Horní Radechová",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.46,
+      "lon": 16.1569,
+      "source": {
+        "label": "Wikidata Q12054716 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q12054716",
+        "wikidata": "Q12054716"
+      },
+      "note": "Slavíkov u Náchoda, ne stejnojmenné obce jinde."
+    },
+    {
+      "id": "suchy-dul",
+      "name": "Suchý Důl",
+      "aliases": [
+        "Suchý Důl"
+      ],
+      "type": "obec",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.54011,
+      "lon": 16.26546,
+      "source": {
+        "label": "Wikidata Q1958663 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q1958663",
+        "wikidata": "Q1958663"
+      },
+      "note": null
+    },
+    {
+      "id": "cerveny-kostelec",
+      "name": "Červený Kostelec",
+      "aliases": [
+        "Červený Kostelec"
+      ],
+      "type": "město",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.4763,
+      "lon": 16.09298,
+      "source": {
+        "label": "Wikidata Q158420 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q158420",
+        "wikidata": "Q158420"
+      },
+      "note": null
+    },
+    {
+      "id": "ledhuje",
+      "name": "Ledhuje",
+      "aliases": [
+        "Ledhuje",
+        "Velká Ledhuje"
+      ],
+      "type": "část města Police nad Metují",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.5353,
+      "lon": 16.2414,
+      "source": {
+        "label": "Wikidata Q11878604 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q11878604",
+        "wikidata": "Q11878604"
+      },
+      "note": "V matrice Ledhuje, fara Police nad Metují; bod u Velké Ledhuje."
+    },
+    {
+      "id": "male-petrovice",
+      "name": "Malé Petrovice",
+      "aliases": [
+        "Malé Petrovice"
+      ],
+      "type": "část obce Velké Petrovice (Petrovičky)",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.50972,
+      "lon": 16.19889,
+      "source": {
+        "label": "Wikipedie, Petrovičky (Velké Petrovice); něm. Klein Petrowitz",
+        "url": "https://cs.wikipedia.org/wiki/Petrovičky_(Velké_Petrovice)",
+        "wikidata": null
+      },
+      "note": "V matrice Malé Petrovice. Německý název vesnice Petrovičky je Klein Petrowitz; bod u Petroviček v obci Velké Petrovice."
+    },
+    {
+      "id": "sedlonov",
+      "name": "Sedloňov",
+      "aliases": [
+        "Sedloňov",
+        "Sattel"
+      ],
+      "type": "obec",
+      "admin": "okres Rychnov nad Kněžnou",
+      "country": "CZ",
+      "lat": 50.33833,
+      "lon": 16.31556,
+      "source": {
+        "label": "Wikidata Q1302637 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q1302637",
+        "wikidata": "Q1302637"
+      },
+      "note": null
+    },
+    {
+      "id": "polom",
+      "name": "Polom",
+      "aliases": [
+        "Sedloňov (Polom)",
+        "Polom"
+      ],
+      "type": "část obce Sedloňov",
+      "admin": "okres Rychnov nad Kněžnou",
+      "country": "CZ",
+      "lat": 50.3558,
+      "lon": 16.3242,
+      "source": {
+        "label": "Wikidata Q12046238 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q12046238",
+        "wikidata": "Q12046238"
+      },
+      "note": "Osada Polom u Sedloňova. Zápis „Sedloňov (Polom)“ označuje sňatek v Polomi, zapsaný v sedloňovské matrice."
+    },
+    {
+      "id": "olesnice",
+      "name": "Olešnice v Orlických horách",
+      "aliases": [
+        "Olešnice v Orlických horách",
+        "Gießhübel",
+        "Giesshübel"
+      ],
+      "type": "obec",
+      "admin": "okres Rychnov nad Kněžnou",
+      "country": "CZ",
+      "lat": 50.37319,
+      "lon": 16.30996,
+      "source": {
+        "label": "Wikidata Q1622144 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q1622144",
+        "wikidata": "Q1622144"
+      },
+      "note": null
+    },
+    {
+      "id": "dlouhe",
+      "name": "Dlouhé",
+      "aliases": [
+        "Dlouhé",
+        "Dlauhey"
+      ],
+      "type": "část městyse Nový Hrádek",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.3683,
+      "lon": 16.2669,
+      "source": {
+        "label": "Wikidata Q11812564 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q11812564",
+        "wikidata": "Q11812564"
+      },
+      "note": "Dlouhé u Nového Hrádku, v matrice též Dlauhey, fara Nový Hrádek."
+    },
+    {
+      "id": "janov",
+      "name": "Janov",
+      "aliases": [
+        "Velký Janov",
+        "Velkého Janova",
+        "Janow",
+        "Janov"
+      ],
+      "type": "obec",
+      "admin": "okres Rychnov nad Kněžnou",
+      "country": "CZ",
+      "lat": 50.33234,
+      "lon": 16.25186,
+      "source": {
+        "label": "Wikidata Q1120357 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q1120357",
+        "wikidata": "Q1120357"
+      },
+      "note": "V matrice (Velký) Janov, panství Opočno; obec Janov u Dobrušky (Johanneshöfen), blízko Sedloňova."
+    },
+    {
+      "id": "maly-uhrinov",
+      "name": "Malý Uhřínov",
+      "aliases": [
+        "Malý Uhřínov",
+        "Malého Uhřínova",
+        "Klein-Aurschim",
+        "Klein-Aurim",
+        "Klein Aurschim",
+        "Klein Aurim"
+      ],
+      "type": "část obce Liberk",
+      "admin": "okres Rychnov nad Kněžnou",
+      "country": "CZ",
+      "lat": 50.23866,
+      "lon": 16.33292,
+      "source": {
+        "label": "OpenStreetMap, uzel 358092741 (Nominatim); k. ú. Wikidata Q110148255",
+        "url": "https://www.openstreetmap.org/node/358092741",
+        "wikidata": "Q110148255"
+      },
+      "note": null
+    },
+    {
+      "id": "kout",
+      "name": "Kout u Deštného",
+      "aliases": [
+        "Kout u Deštného v Orlických horách",
+        "Kout u Deštného",
+        "Štiefwinkl",
+        "Stiefwinkl",
+        "Stiefwinkel"
+      ],
+      "type": "osada, část Deštného v Orlických horách",
+      "admin": "okres Rychnov nad Kněžnou",
+      "country": "CZ",
+      "lat": 50.30023,
+      "lon": 16.32638,
+      "source": {
+        "label": "OpenStreetMap, uzel 2349837376 (Nominatim)",
+        "url": "https://www.openstreetmap.org/node/2349837376",
+        "wikidata": null
+      },
+      "note": "V matrice Štiefwinkl, česky Kout u Deštného v Orlických horách."
+    },
+    {
+      "id": "chocen",
+      "name": "Choceň",
+      "aliases": [
+        "Choceň"
+      ],
+      "type": "město",
+      "admin": "okres Ústí nad Orlicí",
+      "country": "CZ",
+      "lat": 50.00164,
+      "lon": 16.22309,
+      "source": {
+        "label": "Wikidata Q1019936 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q1019936",
+        "wikidata": "Q1019936"
+      },
+      "note": null
+    },
+    {
+      "id": "skorenice",
+      "name": "Skořenice",
+      "aliases": [
+        "Skořenice"
+      ],
+      "type": "obec",
+      "admin": "okres Ústí nad Orlicí",
+      "country": "CZ",
+      "lat": 50.03129,
+      "lon": 16.22202,
+      "source": {
+        "label": "Wikidata Q2440623 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q2440623",
+        "wikidata": "Q2440623"
+      },
+      "note": null
+    },
+    {
+      "id": "jilemnice",
+      "name": "Jilemnice",
+      "aliases": [
+        "Jilemnice"
+      ],
+      "type": "město",
+      "admin": "okres Semily",
+      "country": "CZ",
+      "lat": 50.60894,
+      "lon": 15.50663,
+      "source": {
+        "label": "Wikidata Q368796 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q368796",
+        "wikidata": "Q368796"
+      },
+      "note": "V datech jen jako místo zápisu narození, ne jako bydliště rodiny."
+    },
+    {
+      "id": "strouzne",
+      "name": "Stroužné",
+      "aliases": [
+        "Stroužné",
+        "Straußeney",
+        "Strausseney",
+        "Pstrążna"
+      ],
+      "type": "část města Kudowa-Zdrój",
+      "admin": "okres Kłodzko, Polsko (hist. hrabství Kladské)",
+      "country": "PL",
+      "lat": 50.47361,
+      "lon": 16.26778,
+      "source": {
+        "label": "Wikidata Q384814 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q384814",
+        "wikidata": "Q384814"
+      },
+      "note": "Dnes Pstrążna, část Kudowy-Zdroje. Souřadnice z českého Wikidata (stejnojmenná obec ve Slezsku má jiné souřadnice)."
+    },
+    {
+      "id": "berlin",
+      "name": "Berlín",
+      "aliases": [
+        "Berlín",
+        "Berlin"
+      ],
+      "type": "město",
+      "admin": "Německo",
+      "country": "DE",
+      "lat": 52.51667,
+      "lon": 13.38333,
+      "source": {
+        "label": "Wikidata Q64 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q64",
+        "wikidata": "Q64"
+      },
+      "note": null
+    }
+  ],
+  "unplaced_rules": [
+    {
+      "id": "cteni-nejiste",
+      "pattern": "obec čtená jako",
+      "reason": "Čtení místa v zápisu je nejisté, souřadnice se nepřiřazují."
+    },
+    {
+      "id": "nezamceno",
+      "pattern": "není zamčena",
+      "reason": "Obec stejného jména není v datech jednoznačně určená."
+    },
+    {
+      "id": "cteni-opatrne",
+      "pattern": "čtení místa opatrné",
+      "reason": "Čtení místa je v datech označené jako opatrné."
+    },
+    {
+      "id": "broumovsko",
+      "pattern": "asi na Broumovsku",
+      "reason": "Jen širší kraj, ne konkrétní obec."
+    },
+    {
+      "id": "ukrajina",
+      "pattern": "(^|[\\s(])Ukrajina\\b",
+      "reason": "Uvedená je jen země, ne obec."
+    },
+    {
+      "id": "konciny-zlicko",
+      "pattern": "Machovské Končiny.*/\\s*Zlíčko",
+      "reason": "Rodokmen uvádí dva možné údaje, bez jistého výběru."
+    },
+    {
+      "id": "lhota-bez-privlastku",
+      "pattern": "(^|[\\s,;])Lhota(?!\\s*Náchodská)",
+      "reason": "Samotné Lhota bez přívlastku (např. zápis 1825) se nezaměřuje; Lhota Náchodská ano."
+    }
+  ]
+}

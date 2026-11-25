@@ -319,10 +319,17 @@
     return String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   }
 
+  function syncHash(id) {
+    const want = id ? "#" + encodeURIComponent(id) : "";
+    const now = location.hash || "";
+    if (now !== want) history.replaceState(null, "", want ? want : location.pathname + location.search);
+  }
+
   function openPerson(id) {
     const p = findPerson(state.data, id);
     if (!p) return;
     state.active = id;
+    syncHash(id);
     if (!isUnattached(state.data, id)) { focusId(id); highlightPath(id, false); }
     else { clearHighlight(); document.querySelectorAll(".card.active").forEach((n) => n.classList.remove("active")); }
     const panel = $("#panel");
@@ -408,6 +415,7 @@
     $("#panel").classList.remove("open");
     $("#panel").setAttribute("aria-hidden", "true");
     document.querySelectorAll(".card.active").forEach((n) => n.classList.remove("active"));
+    syncHash("");
   }
 
   function bindPanZoom() {
@@ -648,8 +656,17 @@
       (qn ? ` · ${qn} otevřených dotazů` : "");
     $("#meta-line").textContent = counts + " · aktualizace " + (data.meta.updated || "");
     fitAll();
-    // úvodní pohled: Štěpán a rodiče
-    setTimeout(() => initialView(data, L), 50);
+    // úvodní pohled: Štěpán a rodiče, nebo osoba z odkazu #id
+    const hashId = decodeURIComponent((location.hash || "").replace(/^#/, "")).trim();
+    setTimeout(() => {
+      if (hashId && findPerson(data, hashId)) openPerson(hashId);
+      else initialView(data, L);
+    }, 50);
+    window.addEventListener("hashchange", () => {
+      const id = decodeURIComponent((location.hash || "").replace(/^#/, "")).trim();
+      if (id && findPerson(state.data, id)) openPerson(id);
+      else if (!id) closePanel();
+    });
   }
 
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", main);

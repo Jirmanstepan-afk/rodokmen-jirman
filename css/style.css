@@ -13,7 +13,9 @@
   --ok: #2f6b4a;
   --warn: #9a6b16;
   --cand: #7a3045;
-  --header-h: 64px;
+  --topbar-h: 64px;
+  --subnav-h: 40px;
+  --header-h: calc(var(--topbar-h) + var(--subnav-h));
   --radius: 14px;
   --font-ui: "Source Sans 3", "Segoe UI", "Liberation Sans", sans-serif;
   --font-name: "Source Serif 4", "Iowan Old Style", "Palatino Linotype", Palatino, "Times New Roman", serif;
@@ -24,7 +26,7 @@ body { overflow: hidden; }
 a { color: var(--accent); }
 
 .topbar {
-  position: fixed; inset: 0 0 auto 0; height: var(--header-h); z-index: 20;
+  position: fixed; inset: 0 0 auto 0; height: var(--topbar-h); z-index: 20;
   display: flex; align-items: center; gap: 16px;
   padding: 0 16px 0 20px;
   background: linear-gradient(180deg, #fffaf3 0%, #f6efe3 100%);
@@ -252,7 +254,7 @@ a { color: var(--accent); }
   }
   .panel.open { transform: translateY(0); }
   .panel .close { position: absolute; top: 10px; right: 12px; float: none; z-index: 1; }
-  :root { --header-h: 104px; }
+  :root { --topbar-h: 104px; }
   .topbar { gap: 6px 8px; padding: 6px 10px; flex-wrap: wrap; align-content: center; }
   .brand { flex: 1 1 auto; }
   .brand h1 { font-size: 1rem; }
@@ -304,3 +306,145 @@ a { color: var(--accent); }
 }
 .ub-people { margin: 6px 0 0; padding: 0 0 0 18px; }
 .ub-people li { margin: 0 0 3px; font-size: .82rem; }
+
+
+/* ----- společná navigace sekcí ----- */
+.subnav-wrap {
+  position: fixed; left: 0; right: 0; top: var(--topbar-h); z-index: 20;
+  height: var(--subnav-h);
+  display: flex; align-items: center;
+  padding: 0 16px;
+  background: #efe6d4;
+  border-bottom: 1px solid #ddd2be;
+}
+.sitenav { display: flex; gap: 4px; align-items: center; }
+.sitenav a {
+  display: inline-flex; align-items: center; height: 28px;
+  padding: 0 11px; border-radius: 999px;
+  text-decoration: none; color: var(--ink); font-size: .82rem;
+  border: 1px solid transparent;
+}
+.sitenav a:hover { background: #fffaf3; }
+.sitenav a.is-active { background: var(--accent); color: #fff; }
+
+body.page-scroll {
+  overflow: auto; height: auto; min-height: 100%;
+  background:
+    radial-gradient(1200px 600px at 20% -10%, rgba(255,255,255,.55), transparent 60%),
+    var(--paper);
+}
+body.page-scroll .doc {
+  max-width: 860px; margin: 0 auto;
+  padding: calc(var(--header-h) + 24px) 20px 64px;
+}
+.doc-head h1 {
+  font-family: var(--font-name); font-size: 1.8rem; margin: 0 0 8px;
+}
+.doc-head p { margin: 0; color: var(--ink-soft); line-height: 1.5; font-size: .95rem; }
+
+/* ----- mapa událostí ----- */
+.geo-map {
+  position: fixed; inset: var(--header-h) 0 0 0; z-index: 1; background: #d9e4d8;
+}
+.map-filters {
+  position: fixed; z-index: 15; left: 16px; top: calc(var(--header-h) + 12px);
+  width: min(300px, calc(100vw - 32px));
+  max-height: calc(100% - var(--header-h) - 32px);
+  overflow: auto;
+  background: rgba(255,250,243,.95); border: 1px solid #ddd2be; border-radius: var(--radius);
+  padding: 12px 14px; box-shadow: var(--shadow); backdrop-filter: blur(8px);
+}
+.map-filters.collapsed { display: none; }
+.map-filters h2 {
+  margin: 10px 0 6px; font-size: .72rem; letter-spacing: .08em;
+  text-transform: uppercase; color: var(--ink-soft);
+}
+.map-filters h2:first-child { margin-top: 0; }
+.filter-list { display: flex; flex-direction: column; gap: 4px; }
+.chk, .typ-chk {
+  display: flex; align-items: center; gap: 8px;
+  font-size: .82rem; margin: 3px 0; cursor: pointer;
+}
+.typ-chk .ev-dot { flex: none; }
+.ev-dot {
+  width: 10px; height: 10px; border-radius: 50%; display: inline-block;
+  box-shadow: 0 0 0 1px rgba(0,0,0,.12);
+}
+.year-row { display: flex; gap: 8px; }
+.year-row label { font-size: .78rem; color: var(--ink-soft); display: flex; flex-direction: column; gap: 2px; flex: 1; }
+.year-row input[type="number"], .occ-toolbar select {
+  width: 100%; height: 32px; border-radius: 8px; border: 1px solid #cfc3ad;
+  background: #fff; font: inherit; color: var(--ink); padding: 0 8px;
+}
+.year-range { width: 100%; margin: 4px 0 0; accent-color: var(--accent); }
+.bchip[aria-pressed="false"] { opacity: .35; }
+.m-icon { background: none !important; border: 0 !important; }
+.m-pin {
+  width: 28px; height: 28px; border-radius: 50%;
+  background: #fffaf3; border: 2px solid var(--c, var(--accent));
+  box-shadow: 0 4px 10px rgba(40,28,12,.25);
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  color: var(--ink); font: 700 11px var(--font-ui);
+  line-height: 1;
+}
+.m-pin .m-n { font-variant-numeric: tabular-nums; }
+.m-pin .m-dots { display: flex; gap: 1px; margin-top: 1px; height: 4px; overflow: hidden; }
+.ev-list { list-style: none; padding: 0; margin: 0 0 8px; }
+.ev-item { display: flex; gap: 8px; align-items: flex-start; padding: 6px 0; border-top: 1px solid #eee3d1; font-size: .9rem; }
+.ev-item .ev-dot { margin-top: 5px; flex: none; }
+.ev-meta { display: block; font-size: .75rem; color: var(--ink-soft); }
+.unplaced-list { list-style: none; padding: 0; margin: 8px 0 0; }
+.unplaced-list li { margin: 0 0 8px; font-size: .8rem; line-height: 1.35; }
+.unplaced-list strong { display: block; font-weight: 600; }
+
+/* ----- statistika povolání ----- */
+.occ-toolbar {
+  display: flex; flex-wrap: wrap; gap: 12px; margin: 22px 0 8px;
+}
+.occ-toolbar label { font-size: .82rem; color: var(--ink-soft); display: flex; flex-direction: column; gap: 4px; min-width: 180px; }
+.occ-chart-wrap { margin: 18px 0 28px; background: var(--panel); border: 1px solid #ddd2be; border-radius: var(--radius); padding: 14px 16px 10px; box-shadow: var(--shadow); }
+.occ-chart-wrap h2 { margin: 0 0 10px; font-size: .72rem; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-soft); }
+.occ-chart { width: 100%; height: auto; overflow: visible; }
+.occ-chart .occ-lab { font: 13px var(--font-ui); fill: var(--ink); }
+.occ-chart .occ-n { font: 700 12px var(--font-ui); fill: var(--ink-soft); }
+.occ-sec { margin: 0 0 22px; padding: 16px 18px; background: var(--panel); border: 1px solid #ddd2be; border-radius: var(--radius); }
+.occ-sec h2 { font-family: var(--font-name); font-size: 1.25rem; margin: 0 0 6px; }
+.occ-count {
+  display: inline-block; margin-left: 6px; padding: 1px 8px; border-radius: 999px;
+  background: #efe6d4; font-family: var(--font-ui); font-size: .75rem; color: var(--ink-soft); vertical-align: middle;
+}
+.occ-explain { margin: 0 0 12px; font-size: .88rem; color: var(--ink-soft); line-height: 1.45; }
+.occ-people { list-style: none; padding: 0; margin: 0; }
+.occ-people li { padding: 8px 0; border-top: 1px solid #eee3d1; font-size: .92rem; }
+.occ-orig { margin-top: 3px; font-size: .8rem; color: var(--ink-soft); font-style: italic; line-height: 1.4; }
+.tool-chk { font-size: .82rem; }
+
+@media (max-width: 720px) {
+  .subnav-wrap { padding: 0 10px; }
+  .map-filters {
+    display: none; left: 10px; right: 10px; width: auto; max-width: none;
+    top: calc(var(--header-h) + 8px);
+  }
+  .map-filters.open { display: block; }
+  .map-filters.collapsed { display: none; }
+  .occ-chart .occ-lab { font-size: 11px; }
+}
+
+@media (min-width: 721px) {
+  .map-filters { display: block; }
+  .map-filters.collapsed { display: none; }
+}
+
+/* na mapě leaflet nesmí přebít typografii panelu */
+.leaflet-container { font-family: var(--font-ui); background: #d9e4d8; }
+.leaflet-control-attribution { font-size: 10px; }
+
+.bar-row { display: grid; grid-template-columns: minmax(120px, 200px) 1fr 2.2em; gap: 8px; align-items: center; margin: 6px 0; }
+.bar-lab { font-size: .85rem; line-height: 1.2; }
+.bar-track { height: 16px; background: #efe6d4; border-radius: 999px; overflow: hidden; }
+.bar-fill { display: block; height: 100%; border-radius: 999px; min-width: 8px; }
+.bar-n { font-weight: 700; font-size: .82rem; color: var(--ink-soft); text-align: right; font-variant-numeric: tabular-nums; }
+@media (max-width: 720px) {
+  .bar-row { grid-template-columns: 1fr auto; gap: 4px 8px; }
+  .bar-lab { grid-column: 1 / -1; font-size: .82rem; }
+}
