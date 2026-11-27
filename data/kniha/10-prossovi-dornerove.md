@@ -54,6 +54,11 @@ Josefovi rodiče se vzali 23. února 1784 v Benátkách č. 6. [[andreas-pross|A
 
 > Domněnka: Ženich z roku 1743 je náš Franz a Susanna byla jeho druhá žena [?q-pross-susanna].
 
+Oddací knihu od roku 1753 (171-2, snímky 106–116) jsem prošel řádek po řádku. Sňatek Franze se Susannou tam není. 1. června 1756 vystupuje jako svědek Franciscus Proß, zahradník z Gießhüblu — jiná obec než Benátky č. 6.[^171-2/109: Franciscus Proß z Gießhüblu jako svědek 1. 6. 1756] Úmrtí Evy Rosiny Proßové 1743–1752 ani v rejstříku lit. P 1754–1797 jsem nenašel [?q-pross-susanna].
+
+![171-2/109] 1. června 1756: Franciscus Proß, hortulanus z Gießhüblu, jako svědek na svatbě.
+
+
 
 ![171-2/32] Křest Andrease Proße 22. června 1764. Na okraji stojí „Benadek“, tedy Benátky.
  [[katharina-pross|Katharina]] byla dcerou sedláka [[johann-rolecek|Johanna Rolečka]] (příjmení čtu nejistě) z Malého Uhřínova.[^171-2/129: sňatek Andrease Proße a Kathariny 23. 2. 1784, Benátky č. 6] Katharinin křest jistě neznám. Mám jen kandidáta: 9. května 1762 byla v Malém Uhřínově pokřtěna Anna Catharina, dcera Johanna Rolletschka a Apollonie.[^171-2/28: křest Anny Cathariny Rolletschkové 9. 5. 1762, Malý Uhřínov – kandidát] Ztotožnění ale stojí jen na dvou věcech. Je to jediná dcera Johanna Rolletschka v křtech z let 1760–1764 a sedí věk 26 let při jejím druhém sňatku v červnu 1788. Zápis neuvádí číslo domu ani stav otce a Rolletschků bylo v okolí víc. Proto tento křest do mapy nedávám a nechávám ho jako otevřený dotaz. [?q-pross-dorner-puvod]
