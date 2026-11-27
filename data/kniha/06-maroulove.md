@@ -18,6 +18,35 @@ Narodili se jim synové [[frantisek-maroul-1846|František]] (3. července 1846)
 
 ![96-15/47] Narození Josefa Maroula 1. října 1850 v Nízké Srbské č. 71.
 
+## Výměnkář Jan Máslo a jeho pozdní rodina
+
+Annina rodina mě překvapila. Její otec [[jan-maslo-ns71-otec|Jan Máslo]] byl už výměnkář v Nízké Srbské č. 39, tedy hospodář, který předal statek a žil na výminku. Byl vdovec. Dne 20. listopadu 1821 se znovu oženil. Ženich měl podle zápisu 52 let. Nevěsta [[veronika-nemeckova|Veronika]] měla 28 let a byla dcerou zesnulého tkalce Matěje Němečka z Nízké Srbské č. 34. Za svědky šli dva sedláci z vesnice a oba se podepsali křížky.[^96-14/7: oddací zápis 20. 11. 1821, Nízká Srbská, pag. 4]
+
+![96-14/7] Druhá svatba výměnkáře Jana Másla s Veronikou, dcerou tkalce Matěje Němečka, 20. listopadu 1821.
+
+Jen dva měsíce a čtyři dny po svatbě, 24. ledna 1822, se v č. 39 narodila první dcera. Dostala jméno Anna.[^96-14/60: narození Anny Máslové 24. 1. 1822 (starší sestra)] Ta Anna ale není moje předkyně. Zemřela 20. února 1825, necelé tři roky stará, na psotník (*Fraisen*).[^96-14/97: úmrtí Anny Máslové 20. 2. 1825] Týž den, 20. února 1825, se v tomtéž domě narodila další dcera. Pokřtil ji kaplan P. Lambertus Ullrich a dostala jméno po sestře, která právě zemřela. Tohle je [[anna-maslo-ns71|moje Anna]], pozdější žena Jana Maroula. Kmotrou byla Anna, žena mlynáře z Nízké Srbské, a kmotrem sedlák z Machova.[^96-14/63: narození Anny Máslové 20. 2. 1825, Nízká Srbská č. 39]
+
+![96-14/63] Narození mé Anny Máslové 20. února 1825. Na okraji je poznámka o křestním listu pro sirotčí kapitál z ledna 1847.
+
+Další děti Jana a Veroniky umíraly malé. Františka zemřela v únoru 1829 ve 21 dnech, Jan v září 1830 ve čtyřech letech a Josef v lednu 1832 v šesti měsících. Františka a Josef zemřeli na psotník.[^96-14/102: úmrtí Františky Máslové 1829] [^96-14/103: úmrtí Jana Másla 1830] [^96-14/104: úmrtí Josefa Másla 1832] Ze všech dětí, které jsem našel, přežila jen Anna.
+
+Jan Máslo zemřel 26. listopadu 1839 v osm hodin ráno v č. 39. Podle ohledacího listu zemřel na studenou sněť (*kalter Brand*), tedy na gangrénu. Zápis mu dává 85 let. Pohřben byl 28. listopadu. Anně tehdy bylo čtrnáct.[^96-14/118: úmrtí Jana Másla 26. 11. 1839, Nízká Srbská č. 39]
+
+![96-14/118] Úmrtí výměnkáře Jana Másla 26. listopadu 1839 na studenou sněť.
+
+**Zajímavosti – Máslovi z č. 39.**
+- Jan byl při druhé svatbě vdovec a výměnkář. Věk 52 let (1821) a 85 let (1839) spolu nesouhlasí, rozdíl je skoro patnáct let. Jeho rok narození proto nezamykám [?q-maslo-prvni-manzelstvi]. (oddací zápis 1821, úmrtní zápis 1839)
+- Mezi manželi bylo 24 let rozdílu, podle úmrtního zápisu dokonce 39. (zápisy 1821 a 1839)
+- První dítě přišlo na svět dva měsíce po svatbě. Bylo tedy počato před sňatkem. (zápisy 1821 a 1822)
+- Moje Anna se narodila v den, kdy byla zapsána smrt její sestry Anny. (zápisy 1825)
+- Na okraji Annina křtu je poznámka, že v lednu 1847 dostala křestní list kvůli vyzvednutí sirotčího kapitálu (*Waisen Capital*). Byl to její podíl po otci, který do zletilosti nebo sňatku spravoval sirotčí úřad vrchnosti. (zápis 1825)
+- Ve všech zápisech od roku 1821 do 1839 je Jan v č. 39. Číslo 30 z roku 1846 je tak osamocené [?q-jan-maroul-71-54]. (96-14)
+- Kmotři byli z mlýna v Nízké Srbské a ze statku v Machově. Jejich příjmení jsem s jistotou nepřečetl. (zápisy 1822 a 1825)
+
+> Domněnka: Myslím, že se starý výměnkář ženil hlavně proto, aby měl kdo o něj a výminek pečovat, a Veronika jako dcera chudého tkalce tím získala střechu nad hlavou. Zápis o důvodech nic neříká.
+
+> Domněnka: Na podzim 1836 je v nízkosrbské knize zemřelých nápadně mnoho zápisů. Mohla to být epidemie, třeba cholera, ale příčiny jsem neprocházel a pramen pro to zatím nemám.
+
 ## Josef a Františka Hrubá
 
 Josef se oženil 27. října 1874. Bylo mu 24 let a byl chalupník v Nízké Srbské č. 71. Jeho nevěstě [[frantiska-hruba-c1855|Františce Hrubé]] z Ledhuj bylo 19 let, a proto se v zápisu zmiňuje souhlas k sňatku nezletilé.[^130-7417/43: oddací zápis 27. 10. 1874, Ledhuje] O její rodině je další kapitola.

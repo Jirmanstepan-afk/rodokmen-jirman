@@ -3886,6 +3886,15 @@
    "velky": "img/zdroje/96-13_s035_velky.jpg",
    "vyrez_soubor": "z96-13-s35-krty-nizka-srbska-1792-1798-bez-tobiase-maroula.jpg"
   },
+  "96-14|118": {
+   "signatura": "96-14",
+   "snimek": 118,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fd41faee-39b9-4778-85aa-e390771f02c0/dao/fd41faee-39b9-4778-85aa-e390771f02c0/file/83756027-065b-4f30-9314-1d14f747901a",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-14_s118.jpg",
+   "velky": "img/zdroje/96-14_s118_velky.jpg",
+   "vyrez_soubor": "s118-umrti-26-11-1839-NS39-Jan-Maslo-vymenkar-85-let-studena-snet.jpg"
+  },
   "96-14|29": {
    "signatura": "96-14",
    "snimek": 29,
@@ -3912,6 +3921,42 @@
    "nahled": "img/zdroje/96-14_s044.jpg",
    "velky": "img/zdroje/96-14_s044_velky.jpg",
    "vyrez_soubor": "p044-narozeni-25-8-1815-NS23-Veronika-Bittnerova-otec-Jan-Bittner-matka-Alzbeta-dcera-Josefa-Kuhna.jpg"
+  },
+  "96-14|60": {
+   "signatura": "96-14",
+   "snimek": 60,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fd41faee-39b9-4778-85aa-e390771f02c0/dao/fd41faee-39b9-4778-85aa-e390771f02c0/file/ee40da98-8020-43d4-8b68-1294ebf9d6fe",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-14_s060.jpg",
+   "velky": "img/zdroje/96-14_s060_velky.jpg",
+   "vyrez_soubor": "s060-narozeni-24-1-1822-NS39-Anna-Maslo-starsi-sestra-otec-Jan-Maslo-vymenkar-matka-Veronika-Nemeckova.jpg"
+  },
+  "96-14|63": {
+   "signatura": "96-14",
+   "snimek": 63,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fd41faee-39b9-4778-85aa-e390771f02c0/dao/fd41faee-39b9-4778-85aa-e390771f02c0/file/852a07d1-8cbd-40a0-9567-befc32d12629",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-14_s063.jpg",
+   "velky": "img/zdroje/96-14_s063_velky.jpg",
+   "vyrez_soubor": "s063-narozeni-20-2-1825-NS39-Anna-Maslo-otec-Jan-Maslo-vymenkar-matka-Veronika-Nemeckova-NS34-krestni-list-1847-sirotci-kapital.jpg"
+  },
+  "96-14|7": {
+   "signatura": "96-14",
+   "snimek": 7,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fd41faee-39b9-4778-85aa-e390771f02c0/dao/fd41faee-39b9-4778-85aa-e390771f02c0/file/9366c597-3da4-4efe-8a0b-ce3618a75db6",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-14_s007.jpg",
+   "velky": "img/zdroje/96-14_s007_velky.jpg",
+   "vyrez_soubor": "s007-oddani-20-11-1821-NS39-Jan-Maslo-vymenkar-vdovec-52-let-x-Veronika-28-let-dcera-zemreleho-Matese-Nemecka-tkalce-NS34.jpg"
+  },
+  "96-14|97": {
+   "signatura": "96-14",
+   "snimek": 97,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fd41faee-39b9-4778-85aa-e390771f02c0/dao/fd41faee-39b9-4778-85aa-e390771f02c0/file/6bcb3c51-948e-4264-b270-1db84db25e86",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-14_s097.jpg",
+   "velky": "img/zdroje/96-14_s097_velky.jpg",
+   "vyrez_soubor": "s097-umrti-20-2-1825-NS39-Anna-dcera-Jana-Masla-vymenkare-2-roky-psotnik.jpg"
   },
   "96-15|21": {
    "signatura": "96-15",

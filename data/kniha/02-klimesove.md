@@ -12,7 +12,7 @@ Když jsem pak četl další zápisy, všiml jsem si, že se pořád vrací stej
 
 ## Jan a Anna
 
-Syn [[jan-klimes-vymenkar|Jan Klimeš]] se narodil kolem roku 1820. Jeho křest jsem zatím nenašel [?q-klimes-snatek]. Oženil se 19. listopadu 1844 ve Vysoké Srbské. Bylo mu 24 let a byl tkadlec. Nevěsta [[anna-spackova|Anna Špačková]] měla 21 let a byla dcerou zesnulého podruha Františka Špačka z Vysoké Srbské č. 29 a Doroty, rozené Faltové, ze Slatiny. Oddával děkan Joseph Wagner. Ke svatbě bylo potřeba povolení náchodského vrchního úřadu.[^53-53/25: oddací zápis 19. 11. 1844]
+Syn [[jan-klimes-vymenkar|Jan Klimeš]] se narodil kolem roku 1820. Jeho křest jsem zatím nenašel [?q-klimes-snatek]. Prošel jsem pro jistotu i narozené v Nízké Srbské v letech 1819–1821. Několik Klimešů tam je, ale Jan, syn Františka a Kateřiny, mezi nimi není.[^96-14/52: narození Nízká Srbská 1819–1821, Jan Klimeš nenalezen] Oženil se 19. listopadu 1844 ve Vysoké Srbské. Bylo mu 24 let a byl tkadlec. Nevěsta [[anna-spackova|Anna Špačková]] měla 21 let a byla dcerou zesnulého podruha Františka Špačka z Vysoké Srbské č. 29 a Doroty, rozené Faltové, ze Slatiny. Oddával děkan Joseph Wagner. Ke svatbě bylo potřeba povolení náchodského vrchního úřadu.[^53-53/25: oddací zápis 19. 11. 1844]
 
 ![53-53/25] Svatba Jana Klimeše a Anny Špačkové ve Vysoké Srbské 19. listopadu 1844.
 
