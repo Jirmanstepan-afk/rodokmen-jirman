@@ -99,3 +99,8 @@ sup.kn-fn a { text-decoration: none; color: #8a6a2f; padding: 0 1px; }
   .topbar, .subnav-wrap, .kn-mapbox, .kn-top { display: none !important; }
   .book { padding-top: 0; }
 }
+
+.kn-fig-full img { max-height: none; filter: none; background: none; }
+.kn-fig-ann img { max-height: 620px; filter: none; background: #fff; }
+.kn-fig-plyne { display: block; margin-top: 4px; color: #3a2a14; }
+.kn-fig-plyne b { color: #8a2f1c; }

@@ -5,91 +5,145 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="robots" content="noindex, nofollow, noarchive">
   <meta name="googlebot" content="noindex, nofollow, noarchive">
-  <meta name="description" content="Rodokmen rodiny Jirman — interaktivní mapa podle matrik a rodinných podkladů. Soukromá stránka, neindexovat.">
+  <meta name="description" content="Rodokmen rodiny Jirman — předkové Štěpána Jirmana podle matrik a rodinných podkladů. Soukromá stránka, neindexovat.">
+  <meta name="theme-color" content="#2a1d12">
   <title>Rodokmen rodiny Jirman</title>
-  <link rel="stylesheet" href="./css/style.css?v=4">
+  <link rel="stylesheet" href="./fonts/fonts.css?v=1">
+  <link rel="stylesheet" href="./css/hlavicka.css?v=1">
+  <link rel="stylesheet" href="./css/strom.css?v=1">
 </head>
-<body>
-  <header class="topbar">
-    <div class="brand">
-      <h1>Rodokmen rodiny Jirman</h1>
-      <p id="meta-line">Načítání…</p>
-    </div>
-    <div class="search">
-      <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M15.5 14h-.79l-.28-.27A6.47 6.47 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79L20 21.5 21.5 20zM9.5 14C7 14 5 12 5 9.5S7 5 9.5 5 14 7 14 9.5 12 14 9.5 14z"/></svg>
-      <input id="q" type="search" placeholder="Hledat jméno, místo, rok…" autocomplete="off" enterkeyhint="search">
-      <div id="results" class="search-results"></div>
-    </div>
-    <div class="tools">
-      <button type="button" id="fit" title="Zobrazit celek">Celek</button>
-      <button type="button" id="focus" title="Přejít na Štěpána">Štěpán</button>
-      <button type="button" id="legend-btn" aria-pressed="false" title="Legenda">Legenda</button>
-      <button type="button" id="questions-btn" aria-pressed="false" title="Otevřené dotazy">Dotazy</button>
-    </div>
-  </header>
-  <div class="subnav-wrap">
-    <nav class="sitenav" aria-label="Sekce webu">
+<body class="st-body">
+  <header class="hd">
+    <a class="hd-brand" href="./index.html" aria-label="Rodokmen rodiny Jirman – úvod">
+      <span class="hd-mark" aria-hidden="true">
+        <svg viewBox="0 0 32 32"><path d="M16 29V15M16 15c0-5-4-8-9-8 0 5 4 8 9 8zm0 0c0-5 4-8 9-8 0 5-4 8-9 8zM16 10c0-3-2-6-5-7m5 7c0-3 2-6 5-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      </span>
+      <span class="hd-title">Rodokmen rodiny Jirman<small id="meta-line">Načítání…</small></span>
+    </a>
+    <nav class="hd-nav sitenav" aria-label="Sekce webu">
       <a href="./index.html" class="is-active" aria-current="page">Rodokmen</a>
       <a href="./mapa.html">Mapa míst</a>
       <a href="./povolani.html">Povolání</a>
       <a href="./kniha.html">Kniha</a>
     </nav>
+  </header>
+
+  <div class="st-bar">
+    <div class="st-search">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M15.5 14h-.79l-.28-.27A6.47 6.47 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79L20 21.5 21.5 20zM9.5 14C7 14 5 12 5 9.5S7 5 9.5 5 14 7 14 9.5 12 14 9.5 14z"/></svg>
+      <input id="q" type="search" placeholder="Hledat jméno, místo, povolání, rok…" autocomplete="off" enterkeyhint="search" aria-label="Hledat osobu">
+      <div id="results" class="st-results" role="listbox"></div>
+    </div>
+    <div class="st-views" role="tablist" aria-label="Zobrazení">
+      <button type="button" role="tab" data-view="vejir" aria-selected="true">Vějíř</button>
+      <button type="button" role="tab" data-view="strom" aria-selected="false">Strom</button>
+      <button type="button" role="tab" data-view="seznam" aria-selected="false">Seznam</button>
+    </div>
+    <button type="button" class="st-filter-btn" id="filter-btn" aria-expanded="false" aria-controls="filters">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M3 5h18l-7 8v6l-4 2v-8z"/></svg>
+      Filtry <span class="st-badge" id="filter-count" hidden>0</span>
+    </button>
   </div>
 
-  <aside class="legend" id="legend">
-    <h2>Jistota údaje</h2>
-    <div class="row"><span class="swatch potvrzeno"></span><span>Potvrzeno zápisem — matrika, list, nebo potvrzený rodinný podklad</span></div>
-    <div class="row"><span class="swatch pravdepodobne"></span><span>Pravděpodobné — silná souhra, ale zbývá výhrada (dům, jméno, chybějící sňatek)</span></div>
-    <div class="row"><span class="swatch kandidat"></span><span>Kandidát — nedoloženo, zejména vazba Ludvík *1908 → Josef *1857</span></div>
-    <h2 style="margin-top:12px">Větve</h2>
-    <div class="branches" id="branch-chips"></div>
-    <h2 style="margin-top:12px">Spojnice</h2>
-    <div class="row"><svg width="44" height="18" aria-hidden="true"><line x1="0" y1="9" x2="44" y2="9" stroke="#3b342a" stroke-width="2"/><circle cx="22" cy="9" r="7" fill="#fffaf3" stroke="#3b342a" stroke-width="1.6"/></svg><span>Manželé / pár — kroužek je uzel páru</span></div>
-    <div class="row"><svg width="44" height="18" aria-hidden="true"><path d="M8 0 V7 Q8 10 11 10 H33 Q36 10 36 13 V18" fill="none" stroke="#8a7d68" stroke-width="2"/></svg><span>Od páru k dětem</span></div>
-    <div class="row"><svg width="44" height="18" aria-hidden="true"><line x1="0" y1="9" x2="44" y2="9" stroke="#b5832a" stroke-width="3.2"/></svg><span>Přímá linie předků Štěpána</span></div>
-    <p class="legend-note">Najetím nebo klikem na osobu se zvýrazní cesta ke Štěpánovi.</p>
-    <p class="legend-note">Nejisté vazby a čtení nejsou uzly — jsou v panelu <strong>Otevřené dotazy</strong>.</p>
-  </aside>
+  <div class="st-main">
+    <aside class="st-filters" id="filters" aria-label="Filtry">
+      <div class="st-f-head">
+        <h2>Filtry</h2>
+        <button type="button" class="st-link" id="f-reset">Zrušit vše</button>
+        <button type="button" class="st-x" id="f-close" aria-label="Zavřít filtry">×</button>
+      </div>
+      <p class="st-f-count" id="f-match" aria-live="polite"></p>
+      <div class="st-f-group">
+        <h3>Rod</h3>
+        <div class="st-chips" id="f-rod"></div>
+      </div>
+      <div class="st-f-group">
+        <label for="f-povolani"><h3>Povolání</h3></label>
+        <select id="f-povolani"></select>
+      </div>
+      <div class="st-f-group">
+        <label for="f-misto"><h3>Místo</h3></label>
+        <select id="f-misto"></select>
+      </div>
+      <div class="st-f-group">
+        <h3>Generace (Štěpán = 1.)</h3>
+        <div class="st-range">
+          <label>od <select id="f-gen-od"></select></label>
+          <label>do <select id="f-gen-do"></select></label>
+        </div>
+      </div>
+      <div class="st-f-group">
+        <h3>Století narození</h3>
+        <div class="st-chips" id="f-stoleti"></div>
+      </div>
+      <div class="st-f-group">
+        <h3>Doloženo</h3>
+        <div class="st-seg" id="f-doklad">
+          <button type="button" data-v="" aria-pressed="true">Vše</button>
+          <button type="button" data-v="zapis" aria-pressed="false">Zápisem</button>
+          <button type="button" data-v="pamet" aria-pressed="false">Rodinná paměť</button>
+        </div>
+      </div>
+      <div class="st-f-group">
+        <h3>Pohlaví</h3>
+        <div class="st-seg" id="f-pohlavi">
+          <button type="button" data-v="" aria-pressed="true">Vše</button>
+          <button type="button" data-v="m" aria-pressed="false">Muži</button>
+          <button type="button" data-v="f" aria-pressed="false">Ženy</button>
+        </div>
+      </div>
+      <div class="st-f-group">
+        <label class="st-check"><input type="checkbox" id="f-jen-predci" checked> Jen přímí předkové Štěpána</label>
+        <label class="st-check"><input type="checkbox" id="f-nepripojene"> I nepřipojené větve (vazba nedoložena)</label>
+      </div>
+      <p class="st-f-note">Filtr ve vějíři a stromu zvýrazní shodné osoby a ostatní ztlumí. Seznam ukáže jen shodné. Původní <a href="./graf.html">velký graf všech osob</a> zůstává k dispozici.</p>
+      <button type="button" class="st-apply" id="f-apply">Zobrazit <span id="f-apply-n"></span></button>
+    </aside>
 
-  <aside class="questions" id="questions" aria-hidden="true">
-    <div class="questions-head">
-      <h2>Otevřené dotazy</h2>
-      <button type="button" class="close" id="questions-close" aria-label="Zavřít">×</button>
-    </div>
-    <p class="questions-lead">Jen to, co ještě není jisté. Nejsou to osoby v mapě.</p>
-    <div id="questions-body"></div>
-  </aside>
+    <main class="st-stage" id="stage">
+      <div class="st-canvas" id="canvas" aria-label="Rodokmen – posouvejte tažením, přibližujte kolečkem nebo dvěma prsty">
+        <svg id="svg" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Graf předků"><g id="world"></g></svg>
+      </div>
+      <div class="st-list" id="list" hidden></div>
 
-  <div class="viewport" id="viewport" aria-label="Mapa rodokmenu">
-    <div class="world" id="world">
-      <svg class="links" id="links"></svg>
-    </div>
+      <div class="st-zoom" id="zoom" aria-label="Ovládání pohledu">
+        <button type="button" id="z-in" aria-label="Přiblížit">+</button>
+        <button type="button" id="z-out" aria-label="Oddálit">−</button>
+        <button type="button" id="z-fit" aria-label="Zobrazit celé" title="Celé">⤢</button>
+        <button type="button" id="z-home" aria-label="Zpět na Štěpána" title="Štěpán">⌂</button>
+      </div>
+      <div class="st-depth" id="depth-wrap">
+        <div id="depth-ctl"><label for="depth">Generací ve vějíři <output id="depth-out">7</output></label>
+        <input type="range" id="depth" min="3" max="10" value="7"></div>
+        <div id="tree-ctl" class="st-tree-ctl" hidden><button type="button" id="t-all">Rozbalit vše</button><button type="button" id="t-less">Sbalit</button><span>Klik na <b>+N</b> rozbalí předky.</span></div>
+        <span class="st-root" id="root-info"></span>
+      </div>
+      <div class="st-legend" id="legend"></div>
+    </main>
+
+    <aside class="st-drawer" id="drawer" aria-hidden="true" aria-label="Detail osoby">
+      <button type="button" class="st-x st-drawer-x" id="drawer-close" aria-label="Zavřít detail">×</button>
+      <div id="drawer-body"></div>
+    </aside>
   </div>
 
-  <aside class="panel" id="panel" aria-hidden="true">
-    <button type="button" class="close" id="panel-close" aria-label="Zavřít">×</button>
-    <div id="panel-body"></div>
-  </aside>
+  <div class="st-scrim" id="scrim" hidden></div>
 
-  <div class="pathbar" id="pathbar" aria-live="polite"></div>
-
-  <div class="lightbox" id="lightbox" aria-hidden="true" role="dialog" aria-label="Snímek zápisu">
-    <div class="lb-inner">
+  <div class="st-lightbox" id="lightbox" aria-hidden="true" role="dialog" aria-label="Snímek zápisu">
+    <figure>
       <img id="lb-img" alt="Snímek matričního zápisu">
-      <div class="lb-bar">
+      <figcaption>
         <span id="lb-cap"></span>
         <span class="lb-actions">
-          <a id="lb-aron" target="_blank" rel="noopener noreferrer">Otevřít snímek v ARON ↗</a>
-          <a id="lb-full" target="_blank" rel="noopener">Obrázek v plné velikosti</a>
-          <button type="button" class="lb-close" aria-label="Zavřít">Zavřít ×</button>
+          <a id="lb-aron" target="_blank" rel="noopener noreferrer">Otevřít v archivu ↗</a>
+          <a id="lb-full" target="_blank" rel="noopener">Plná velikost</a>
+          <button type="button" id="lb-close">Zavřít ×</button>
         </span>
-      </div>
-    </div>
+      </figcaption>
+    </figure>
   </div>
 
-  <div class="hint">Tažení posouvá, kolečko přibližuje. Najetí na osobu ukáže cestu ke Štěpánovi. / hledá, Esc zavře.</div>
-
-  <script src="./js/layout.js?v=3"></script>
-  <script src="./js/app.js?v=3"></script>
+  <script src="./js/spolecne.js?v=5"></script>
+  <script src="./js/strom.js?v=1"></script>
 </body>
 </html>

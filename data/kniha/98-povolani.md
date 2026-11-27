@@ -118,4 +118,6 @@ Původní znění z matriky nechávám i s německým nebo latinským výrazem v
 
 ## Co z toho plyne
 
+![obr:kniha/povolani-infografika.jpg] Čím se živili moji předkové: počet předků podle povolání a jejich rozložení v generacích. Spočítáno znovu z dat rodokmenu, jen povolání doložená matričním zápisem.
+
 Nejčastější slova v tomto přehledu: chalupník (30×), podruh (29×), tkadlec (17×), výměnkář (9×), zahradník (7×), sedlák (6×), dělník či dělnice (5×), tesař (3×), švec (2×), rolník (2×), krejčí (2×), mlynář (1×). Počítám jen výskyty slova v doloženém povolání, jeden člověk se tak může objevit pod několika slovy (třeba tkadlec a podruh).

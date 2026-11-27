@@ -102,6 +102,16 @@
     if (!sn) return "";
     ctx.figs++;
     const cap = inline(caption || "", ctx);
+    const an = (S.anot || {})[`${sig}|${n}`];
+    if (an) {
+      return `<figure class="kn-fig kn-fig-ann">
+      <a href="./${esc(an.soubor)}" target="_blank" rel="noopener" title="Zvětšit vyznačený zápis">
+        <img src="./${esc(an.soubor)}" alt="Matriční zápis s vyznačenými údaji a překladem: ${esc(caption || sig)}" loading="lazy"></a>
+      <figcaption><span class="kn-fig-no">Obr. ${ctx.chapterNo}.${ctx.figs}</span> ${cap}
+        ${an.plyne ? `<span class="kn-fig-plyne"><b>Co z toho plyne:</b> ${esc(an.plyne)}</span>` : ""}
+        <span class="kn-fig-src">Sign. ${esc(sig)}, snímek ${esc(n)} · <a href="./${esc(sn.velky || sn.nahled)}" target="_blank" rel="noopener">původní snímek</a> · <a href="${esc(sn.url)}" target="_blank" rel="noopener">otevřít v ${String(sn.url).includes("archium.tsdial") ? "ЦДІАЛ" : "ARON"} ↗</a></span></figcaption>
+    </figure>`;
+    }
     return `<figure class="kn-fig">
       <a href="./${esc(sn.velky || sn.nahled)}" target="_blank" rel="noopener" title="Zvětšit snímek zápisu">
         <img src="./${esc(sn.nahled)}" alt="Výřez matričního zápisu: ${esc(caption || sig)}" loading="lazy"></a>
@@ -133,6 +143,11 @@
         flushAll();
         const lvl = m[1].length === 2 ? "h3" : "h4";
         out.push(`<${lvl} class="kn-sub">${inline(m[2], ctx)}</${lvl}>`);
+      } else if ((m = t.match(/^!\[obr:([\w\/.-]+)\]\s*(.*)$/))) {
+        flushAll();
+        ctx.figs++;
+        out.push(`<figure class="kn-fig kn-fig-full"><a href="./img/${esc(m[1])}" target="_blank" rel="noopener" title="Zvětšit"><img src="./img/${esc(m[1])}" alt="${esc(m[2] || "Infografika")}" loading="lazy"></a>
+          <figcaption><span class="kn-fig-no">Obr. ${ctx.chapterNo ? ctx.chapterNo + "." : "P"}${ctx.figs}</span> ${inline(m[2] || "", ctx)}</figcaption></figure>`);
       } else if ((m = t.match(/^!\[([0-9A-Za-z-]+)\/(\d+)\]\s*(.*)$/))) {
         flushAll();
         out.push(figure(m[1], m[2], m[3], ctx));
@@ -313,13 +328,14 @@
   function wordCount(s) { return (s.match(/[\p{L}\p{N}]+/gu) || []).length; }
 
   async function loadBook() {
-    const [data, zdroje, mista, kniha] = await Promise.all([
+    const [data, zdroje, mista, kniha, anot] = await Promise.all([
       fetch("./data/rodokmen.json").then((r) => r.json()),
       fetch("./data/zdroje.json").then((r) => r.json()),
       fetch("./data/mista.json").then((r) => r.json()),
-      fetch("./data/kniha/kniha.json", { cache: "no-cache" }).then((r) => r.json())
+      fetch("./data/kniha/kniha.json", { cache: "no-cache" }).then((r) => r.json()),
+      fetch("./data/anotace.json", { cache: "no-cache" }).then((r) => r.ok ? r.json() : null).catch(() => null)
     ]);
-    Object.assign(S, { data, zdroje, mista, kniha });
+    Object.assign(S, { data, zdroje, mista, kniha, anot: (anot && anot.snimky) || {} });
     for (const p of R.allPeople(data)) S.people.set(p.id, p);
     for (const q of data.open_questions || []) S.questions.set(q.id, q);
     S.events = R.extractEvents(data, mista).events;

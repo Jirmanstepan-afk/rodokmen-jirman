@@ -227,6 +227,8 @@
     const ch = probe.querySelector(".fb-content").clientHeight;
     probe.remove();
     root.style.setProperty("--fig-h", Math.round(ch * (geom.portrait ? 0.3 : 0.34)) + "px");
+    root.style.setProperty("--fig-full-h", Math.round(ch * 0.78) + "px");
+    root.style.setProperty("--fig-ann-h", Math.round(ch * (geom.portrait ? 0.36 : 0.44)) + "px");
     root.style.setProperty("--map-h", Math.round(ch * (geom.portrait ? 0.36 : 0.42)) + "px");
 
     const K = BOOK.kniha;
@@ -377,7 +379,21 @@
     $("#fb-count").textContent = i === 0 ? "Desky" : i >= n - 1 ? "Zadní desky" : nums.length ? `strana ${nums.join("–")} z ${n - 4}` : "Předsádka";
     $(".fb-prev").disabled = i === 0;
     $(".fb-next").disabled = i >= n - 1;
+    const p2 = $("#fb-prev2"), n2 = $("#fb-next2");
+    if (p2) p2.disabled = i === 0;
+    if (n2) n2.disabled = i >= n - 1;
+    updateStack(i, n);
     history.replaceState(null, "", i ? `#s=${Math.max(1, i - 1)}` : location.pathname + location.search);
+  }
+  /* tloušťka bloku stránek: vpravo zbývající listy, vlevo přečtené */
+  function updateStack(i, n) {
+    const shift = $("#fb-shift"); if (!shift || !geom) return;
+    const max = geom.portrait ? 8 : Math.max(10, Math.min(22, Math.round(n / 8)));
+    const prog = n > 1 ? Math.min(1, Math.max(0, i / (n - 1))) : 0;
+    const l = Math.round(max * prog * 10) / 10, r = Math.round(max * (1 - prog) * 10) / 10;
+    shift.style.setProperty("--stk-l", l + "px");
+    shift.style.setProperty("--stk-r", r + "px");
+    shift.dataset.progress = Math.round(prog * 100);
   }
   function initVisibleMaps() {
     for (const x of visibleIdx()) {
@@ -441,6 +457,8 @@
     $("#fb-loading").remove();
     $(".fb-prev").addEventListener("click", () => flip.flipPrev());
     $(".fb-next").addEventListener("click", () => flip.flipNext());
+    $("#fb-prev2").addEventListener("click", () => flip.flipPrev());
+    $("#fb-next2").addEventListener("click", () => flip.flipNext());
     $("#fb-toc").addEventListener("click", () => goToId("obsah"));
     $("#fb-first").addEventListener("click", () => { flip.turnToPage(0); onFlip(); });
     const fsb = $("#fb-fs");

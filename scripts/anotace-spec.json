@@ -1,0 +1,379 @@
+{
+ "_info": "Souřadnice jsou v pixelech velkého snímku (img/zdroje/<sig>_s<NNN>_velky.jpg), odečtené ručně při prohlížení snímku s mřížkou. box = [x0, y0, x1, y1].",
+ "polozky": [
+  {
+   "key": "171-2|32",
+   "src": "img/zdroje/171-2_s032_velky.jpg",
+   "title": "Křest Andrease Proße – Benátky, 22. června 1764",
+   "zdroj": "SOA Zámrsk, sign. 171-2, snímek 32, pravá strana (fol. 27)",
+   "crop": [
+    990,
+    930,
+    1990,
+    1185
+   ],
+   "entry": [
+    1030,
+    1003,
+    1812,
+    1121
+   ],
+   "marks": [
+    {
+     "box": [
+      1030,
+      1008,
+      1180,
+      1042
+     ],
+     "lat": "Die 22. Junii",
+     "cs": "dne 22. června (1764)"
+    },
+    {
+     "box": [
+      1082,
+      1043,
+      1182,
+      1077
+     ],
+     "lat": "Andreas",
+     "cs": "pokřtěn byl Andreas"
+    },
+    {
+     "box": [
+      1184,
+      1039,
+      1424,
+      1077
+     ],
+     "lat": "filius Francisci Proß",
+     "cs": "syn Františka Proße"
+    },
+    {
+     "box": [
+      1425,
+      1039,
+      1582,
+      1075
+     ],
+     "lat": "hortulani",
+     "cs": "zahradníka"
+    },
+    {
+     "box": [
+      1592,
+      1036,
+      1806,
+      1073
+     ],
+     "lat": "Matris Susanna",
+     "cs": "matka Susanna (Zuzana)"
+    },
+    {
+     "box": [
+      1826,
+      1000,
+      1948,
+      1044
+     ],
+     "lat": "Benadek",
+     "cs": "Benátky (obec dítěte, na okraji)"
+    }
+   ],
+   "plyne": "Andreas pokřtěný 22. 6. 1764 v Benátkách je syn zahradníka Franze Proße a jeho ženy Susanny. Franz a Susanna jsou tedy rodiče Andrease, který se v roce 1784 oženil v Benátkách č. 6."
+  },
+  {
+   "key": "174-4247|91",
+   "src": "img/zdroje/174-4247_s091_velky.jpg",
+   "title": "Narození Anny Rosenbergerové – Vernéřovice č. 177, 9. září 1879",
+   "zdroj": "SOA Zámrsk, sign. 174-4247, snímek 91, druhý zápis (sloupce narození, dítě, otec, matka)",
+   "crop": [
+    150,
+    486,
+    1400,
+    672
+   ],
+   "entry": [
+    158,
+    498,
+    1392,
+    664
+   ],
+   "marks": [
+    {
+     "pos": "top",
+     "box": [
+      156,
+      519,
+      216,
+      574
+     ],
+     "lat": "9 | 11 Septbr. 1879",
+     "cs": "narozena 9., pokřtěna 11. září 1879"
+    },
+    {
+     "pos": "top",
+     "box": [
+      313,
+      540,
+      351,
+      580
+     ],
+     "lat": "177",
+     "cs": "dům č. 177 ve Vernéřovicích"
+    },
+    {
+     "pos": "top",
+     "box": [
+      361,
+      540,
+      441,
+      576
+     ],
+     "lat": "Anna",
+     "cs": "dítě: Anna"
+    },
+    {
+     "pos": "top",
+     "box": [
+      [
+       652,
+       503,
+       942,
+       531
+      ],
+      [
+       652,
+       531,
+       778,
+       555
+      ]
+     ],
+     "lat": "Rosenberger Ignatz, katholisch, Häusler u. Schneider in Wernersdorf No 177",
+     "cs": "otec Ignác Rosenberger, katolík, chalupník a krejčí, Vernéřovice č. 177"
+    },
+    {
+     "box": [
+      [
+       668,
+       559,
+       910,
+       589
+      ],
+      [
+       652,
+       589,
+       833,
+       613
+      ]
+     ],
+     "lat": "ehel. Sohn des Benedikt Rosenberger, Inwohners in Ruprechtsdorf",
+     "cs": "manželský syn Benedikta Rosenbergera, podruha v Ruprechticích"
+    },
+    {
+     "box": [
+      [
+       886,
+       589,
+       932,
+       613
+      ],
+      [
+       652,
+       614,
+       870,
+       639
+      ],
+      [
+       652,
+       639,
+       783,
+       662
+      ]
+     ],
+     "lat": "u. dessen Ehg. Anna geb. Anton Hausdorf … aus Ölberg No 6",
+     "cs": "a jeho manželky Anny, dcery Antona Hausdorfa z Olivětína č. 6"
+    },
+    {
+     "box": [
+      [
+       1038,
+       498,
+       1178,
+       527
+      ],
+      [
+       1196,
+       498,
+       1372,
+       527
+      ],
+      [
+       1038,
+       528,
+       1392,
+       551
+      ]
+     ],
+     "lat": "Meier Genovefa, kathol., ehel. Tochter des Benedikt Meier, Inwohners in Ruprechtsdorf No 93",
+     "cs": "matka Genovefa Meierová, manželská dcera Benedikta Meiera, podruha v Ruprechticích č. 93"
+    },
+    {
+     "box": [
+      [
+       1038,
+       552,
+       1352,
+       580
+      ],
+      [
+       1038,
+       588,
+       1135,
+       615
+      ]
+     ],
+     "lat": "u. dessen Ehg. Theresia geb. Georg Dauer, Häusler in Ruprechtsdorf No 117",
+     "cs": "a jeho manželky Terezie, dcery chalupníka Jiřího Dauera z Ruprechtic č. 117"
+    }
+   ],
+   "plyne": "Jediný zápis dokládá tři pokolení najednou: Anna (*1879) je dcera Ignáce Rosenbergera a Genovefy Meierové; Ignác je syn Benedikta Rosenbergera a Anny Hausdorfové, Genovefa je dcera Benedikta Meiera a Terezie Dauerové, dcery Jiřího Dauera.",
+   "skip": [
+    [
+     448,
+     640
+    ],
+    [
+     950,
+     1025
+    ]
+   ]
+  },
+  {
+   "key": "141-7598|48",
+   "src": "img/zdroje/141-7598_s048_velky.jpg",
+   "title": "Sňatek Hanse Rosenbergera a Judith Hertzogové – Ruprechtice, 31. ledna 1702",
+   "zdroj": "SOA Zámrsk, sign. 141-7598, snímek 48, levá strana (pag. 94), první zápis",
+   "crop": [
+    30,
+    96,
+    960,
+    368
+   ],
+   "entry": [
+    45,
+    106,
+    905,
+    362
+   ],
+   "marks": [
+    {
+     "pos": "top",
+     "box": [
+      48,
+      108,
+      300,
+      150
+     ],
+     "lat": "Denn 31. Januarij",
+     "cs": "dne 31. ledna (1702)"
+    },
+    {
+     "pos": "top",
+     "box": [
+      [
+       648,
+       108,
+       900,
+       150
+      ],
+      [
+       58,
+       163,
+       272,
+       203
+      ]
+     ],
+     "lat": "Hanß Rosenberger, ein Junggeselle",
+     "cs": "Hans Rosenberger, mládenec"
+    },
+    {
+     "pos": "top",
+     "box": [
+      [
+       355,
+       163,
+       862,
+       203
+      ],
+      [
+       72,
+       204,
+       345,
+       247
+      ]
+     ],
+     "lat": "Georg Rosenbergers nach gelaßener Ehel. Sohn von Ottendorff",
+     "cs": "pozůstalý manželský syn Jiřího Rosenbergera z Otovic"
+    },
+    {
+     "box": [
+      85,
+      312,
+      228,
+      356
+     ],
+     "lat": "Herr P. Petro",
+     "cs": "oddával P. Petr"
+    },
+    {
+     "box": [
+      [
+       345,
+       204,
+       617,
+       247
+      ]
+     ],
+     "lat": "mit Jungfrau Judith",
+     "cs": "s pannou Juditou"
+    },
+    {
+     "box": [
+      [
+       612,
+       204,
+       882,
+       247
+      ],
+      [
+       58,
+       256,
+       228,
+       300
+      ],
+      [
+       283,
+       256,
+       602,
+       300
+      ]
+     ],
+     "lat": "weyl. Jonas Hertzogs nach gelaßene Ehel. Tochter von Ruprechtsdorff",
+     "cs": "pozůstalou manželskou dcerou zesnulého Jonase Hertzoga z Ruprechtic"
+    },
+    {
+     "box": [
+      488,
+      312,
+      846,
+      360
+     ],
+     "lat": "Caspar Bircke von Dietrichsbach",
+     "cs": "svědek Kašpar Bircke z Jetřichova"
+    }
+   ],
+   "plyne": "Hans Rosenberger z Otovic, syn už zesnulého Jiřího Rosenbergera, si 31. 1. 1702 v Ruprechticích vzal Juditu, dceru zesnulého Jonase Hertzoga. Zápis tak spojuje otovické Rosenbergery s ruprechtickými Hertzogy a jmenuje otce obou snoubenců."
+  }
+ ]
+}

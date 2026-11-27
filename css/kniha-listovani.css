@@ -214,3 +214,28 @@ sup.kn-fn a { text-decoration: none; color: #8a5a1f; padding: 0 1px; }
   .fb-inner { padding: 6% 7% 4%; }
 }
 .fb-content .kn-notes a, .fb-content .kn-open a, .fb-colophon a { color: #6a3f1a; }
+
+/* tloušťka bloku stránek (mění se při listování) */
+.fb-shift { --stk-l: 0px; --stk-r: 14px; }
+.fb-binding { inset: -12px calc(-14px - var(--stk-r)) -12px calc(-14px - var(--stk-l)); }
+.fb-stack { position: absolute; top: 4px; bottom: 4px; pointer-events: none; transition: width .6s ease;
+  background:
+    repeating-linear-gradient(90deg, rgba(110,80,40,.55) 0 1px, rgba(255,250,235,.5) 1px 2px, transparent 2px 3px),
+    linear-gradient(180deg, #f6ecd4, #e7d6b2 50%, #dcc79e);
+  box-shadow: 0 2px 6px rgba(0,0,0,.35); }
+.fb-stack-r { left: 100%; width: var(--stk-r); border-radius: 0 3px 3px 0; }
+.fb-stack-l { right: 100%; width: var(--stk-l); border-radius: 3px 0 0 3px; }
+.fb-stage.is-closed-front .fb-stack-l, .fb-stage.is-closed-back .fb-stack-r { width: 0; }
+.fb-turn { min-width: 74px; font-weight: 600; }
+.fb-turn[disabled] { opacity: .35; cursor: default; }
+@media (max-width: 760px) { .fb-turn span { display: none; } .fb-turn { min-width: 46px; font-size: 1.1rem; } }
+.fb-stage.is-closed-front .fb-binding { inset: -6px calc(-6px - var(--stk-r)) -6px calc(50% - 4px); }
+.fb-stage.is-closed-back .fb-binding { inset: -6px calc(50% - 4px) -6px calc(-6px - var(--stk-l)); }
+.fb-stage.is-portrait .fb-binding { inset: -8px calc(-10px - var(--stk-r)) -8px calc(-8px - var(--stk-l)); }
+
+/* celostránková infografika a vyznačené zápisy */
+.fb-content .kn-fig-full { padding: .3em; }
+.fb-content .kn-fig-full img { height: var(--fig-full-h, 70vh); filter: none; background: none; }
+.fb-content .kn-fig-ann img { height: var(--fig-ann-h, 260px); filter: none; background: #fff; }
+.kn-fig-plyne { display: block; margin-top: .3em; color: #3a2a14; }
+.kn-fig-plyne b { color: #8a2f1c; }

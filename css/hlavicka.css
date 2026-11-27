@@ -1,0 +1,40 @@
+/* Společná hlavička webu (Rodokmen, Mapa míst, Povolání, Velký graf) – tmavá sépie jako Kniha. */
+:root {
+  --hd-bg1: #2f2116; --hd-bg2: #22170e; --hd-ink: #f3e2bd; --hd-soft: #cdb78f; --hd-gold: #e2c27a;
+  --hd-serif: "EB Garamond", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --hd-sc: "Cormorant SC", "EB Garamond", Georgia, serif;
+}
+/* nová hlavička (index) */
+.hd {
+  position: sticky; top: 0; z-index: 60; display: flex; align-items: center; gap: 18px;
+  min-height: 56px; padding: 6px max(14px, env(safe-area-inset-right)) 6px max(14px, env(safe-area-inset-left));
+  background: linear-gradient(180deg, var(--hd-bg1), var(--hd-bg2)); color: var(--hd-ink);
+  box-shadow: 0 2px 14px rgba(20, 10, 2, .35); box-sizing: border-box;
+}
+.hd-brand { display: flex; align-items: center; gap: 10px; color: inherit; text-decoration: none; min-width: 0; }
+.hd-mark { width: 34px; height: 34px; flex: none; display: grid; place-items: center; border-radius: 50%;
+  background: radial-gradient(circle at 35% 30%, #6b4a2a, #3a2716); color: var(--hd-gold); box-shadow: inset 0 0 0 1.5px rgba(226,194,122,.55); }
+.hd-mark svg { width: 22px; height: 22px; }
+.hd-title { font-family: var(--hd-serif); font-size: 1.22rem; line-height: 1.05; white-space: nowrap; display: flex; flex-direction: column; min-width: 0; }
+.hd-title small { font-family: "Source Sans 3", "Segoe UI", system-ui, sans-serif; font-size: .72rem; color: var(--hd-soft); margin-top: 3px; overflow: hidden; text-overflow: ellipsis; }
+.hd-nav { display: flex; gap: 4px; margin-left: auto; overflow-x: auto; scrollbar-width: none; }
+.hd-nav::-webkit-scrollbar { display: none; }
+.hd-nav a { color: #ead7b0; text-decoration: none; font-size: .9rem; padding: 7px 13px; border-radius: 999px; white-space: nowrap; border: 1px solid transparent; }
+.hd-nav a:hover { background: rgba(255,255,255,.08); border-color: rgba(226,194,122,.25); }
+.hd-nav a.is-active { background: #ecd6a4; color: #2a1b0e; font-weight: 600; }
+@media (max-width: 720px) {
+  .hd { flex-wrap: wrap; gap: 6px 10px; padding-top: 8px; padding-bottom: 6px; }
+  .hd-title { font-size: 1.08rem; }
+  .hd-nav { margin-left: 0; width: 100%; }
+  .hd-nav a { padding: 6px 11px; font-size: .86rem; }
+}
+
+/* stará hlavička (mapa, povolání, velký graf) – stejné barvy, stejné rozměry */
+.topbar { background: linear-gradient(180deg, var(--hd-bg1), var(--hd-bg2)) !important; border-bottom: 0 !important; color: var(--hd-ink); box-shadow: 0 2px 14px rgba(20,10,2,.35) !important; }
+.topbar .brand h1 { font-family: var(--hd-serif); color: var(--hd-ink); font-weight: 500; font-size: 1.25rem; }
+.topbar .brand p { color: var(--hd-soft); }
+.topbar .tool-chk, .topbar label { color: var(--hd-ink); }
+.subnav-wrap { background: #3a2a1c !important; border-bottom: 1px solid #1d130b !important; }
+.subnav-wrap .sitenav a { color: #ead7b0; }
+.subnav-wrap .sitenav a:hover { background: rgba(255,255,255,.08); }
+.subnav-wrap .sitenav a.is-active { background: #ecd6a4; color: #2a1b0e; font-weight: 600; }
