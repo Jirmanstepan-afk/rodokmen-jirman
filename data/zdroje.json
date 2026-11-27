@@ -1331,6 +1331,15 @@
    "velky": "img/zdroje/130-18_s063_velky.jpg",
    "vyrez_soubor": "z130-18-s63-1833-01-anton-winter-c49.jpg"
   },
+  "130-42|108": {
+   "signatura": "130-42",
+   "snimek": 108,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/3f1c49a8-8387-45d5-9ed7-5e04e6ba996f/dao/3f1c49a8-8387-45d5-9ed7-5e04e6ba996f/file/946d5444-d7c8-469e-8620-a842893d1173",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-42_s108.jpg",
+   "velky": "img/zdroje/130-42_s108_velky.jpg",
+   "vyrez_soubor": "s108-rejstrik-narozenych-Police-1740-1754-Maslo-jen-1742-1744-zadny-Jan-1750-1754.jpg"
+  },
   "130-42|109": {
    "signatura": "130-42",
    "snimek": 109,
@@ -1425,6 +1434,15 @@
    "nahled": "img/zdroje/130-46_s040.jpg",
    "velky": "img/zdroje/130-46_s040_velky.jpg",
    "vyrez_soubor": "z130-46-s40-index-o-1793-06-11-winter-wenzel-rosina.jpg"
+  },
+  "130-5|116": {
+   "signatura": "130-5",
+   "snimek": 116,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/f895f8aa-2abe-4ebb-8520-fd9ad10ac8f0/dao/f895f8aa-2abe-4ebb-8520-fd9ad10ac8f0/file/9547b400-9258-44fd-bf3f-6ca8fb56aa10",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-5_s116.jpg",
+   "velky": "img/zdroje/130-5_s116_velky.jpg",
+   "vyrez_soubor": "z130-5-s116-pag226-1765-02-15-Pekov-Joannes-Georgius-otec-Georg-Maslo-matka-Marianna-kandidat-Jan-Maslo.jpg"
   },
   "130-5|44": {
    "signatura": "130-5",

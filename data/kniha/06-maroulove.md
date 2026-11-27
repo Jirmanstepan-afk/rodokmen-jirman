@@ -77,6 +77,12 @@ V rejstříku narozených polické farnosti z let 1755–1766 jsem žádného Ja
 - Zápisy z let 1800–1804 jsou už česky. Kurát Robertus Roob píše „z Nížkosrbska“. (96-13)
 - Rejstřík narozených polické farnosti sepsal podle vlastní poznámky v roce 1807 Vincenc Nrnka(?), narozený 16. 12. 1764 v Policích. (130-42 snímek 109)
 
+### Stopa do Pěkova
+
+Odkud Jan Máslo pocházel, zápisy v Nízké Srbské neříkají. V polickém rejstříku narozených se příjmení Maslo v 60. letech 18. století objevuje jen v Pěkově. Dne 15. února 1765 tam byl pokřtěn Joannes Georgius, manželský syn Georga Masla a Marianny.[^130-5/116: narození Joannese Georgia Masla 15. 2. 1765, Pěkov] Ve starší části rejstříku (1740–1754) je Maslo jen v letech 1742 a 1744.[^130-42/108: rejstřík narozených Police 1740–1754, písmeno M]
+
+> Domněnka: Rok 1765 do rozpětí Janových věků (1754–1769) zapadá, ale k jeho věku 29 let při první svatbě v roce 1788 nesedí. Dokud nenajdu zápis, který Jana s Pěkovem spojí, je pěkovský Jan jen kandidát [?q-maslo-prvni-manzelstvi].
+
 ## Josef a Františka Hrubá
 
 Josef se oženil 27. října 1874. Bylo mu 24 let a byl chalupník v Nízké Srbské č. 71. Jeho nevěstě [[frantiska-hruba-c1855|Františce Hrubé]] z Ledhuj bylo 19 let, a proto se v zápisu zmiňuje souhlas k sňatku nezletilé.[^130-7417/43: oddací zápis 27. 10. 1874, Ledhuje] O její rodině je další kapitola.
