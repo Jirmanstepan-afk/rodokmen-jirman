@@ -4834,6 +4834,15 @@
    "velky": "img/zdroje/53-53_s025_velky.jpg",
    "vyrez_soubor": "z53-53-s25-1844-11-19-snatek-jan-klimes-anna-spackova.jpg"
   },
+  "53-53|46": {
+   "signatura": "53-53",
+   "snimek": 46,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/dao/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/file/c8f984ff-a94d-423c-8556-ab45e74f4256",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-53_s046.jpg",
+   "velky": "img/zdroje/53-53_s046_velky.jpg",
+   "vyrez_soubor": "o53-53-s46-fol44-1857-10-13-josef-jirmann-vdovec-vs32-otec-josef-vs39-x-anna-adamova.jpg"
+  },
   "53-72|20": {
    "signatura": "53-72",
    "snimek": 20,
@@ -5512,6 +5521,15 @@
    "nahled": "img/zdroje/96-3_s174.jpg",
    "velky": "img/zdroje/96-3_s174_velky.jpg",
    "vyrez_soubor": "p174-umrti-30-1-1832-Machov51-Anna-vdova-po-Mathiasi-Jirmannovi-chalupnikovi-75-let.jpg"
+  },
+  "96-3|34": {
+   "signatura": "96-3",
+   "snimek": 34,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/8e949995-b267-45f4-b0c6-41279f8ae2c4",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-3_s034.jpg",
+   "velky": "img/zdroje/96-3_s034_velky.jpg",
+   "vyrez_soubor": "o96-3-s34-1836-02-01-joseph-germann-vs4-x-eleonora-kubeckova-machov73.jpg"
   },
   "96-3|71": {
    "signatura": "96-3",

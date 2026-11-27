@@ -17736,6 +17736,36 @@
           "url": "https://eldok.svkhk.cz/out/Broumovsky_zpravodaj/Broumovsky_zpravodaj_2002/Broumovsky_zpravodaj_2002_12.pdf"
         }
       ]
+    },
+    {
+      "id": "q-jirmann-vysoka-srbska",
+      "title": "Jirmannové z Vysoké Srbské (Josef × Eleonora Kubečková) – příbuzní naší linie?",
+      "summary": "Josef Jirmann (*asi 1811–1812, syn †Josefa Jirmanna, chalupníka ve VS č. 4/39, a Anny) se 1. 2. 1836 v Machově oženil s Eleonorou Kubečkovou (27 let), dcerou Jana Kubečka, chalupníka v Machově č. 73, a Veroniky roz. Haudové z NS č. 34. Eleonora † 28. 8. 1856 VS č. 30 (48 let, TBC plic); vdovec se 13. 10. 1857 znovu oženil s Annou Adamovou. Přímí předci to NEJSOU (naše linie v této generaci: Václav *1814 Machov č. 47, syn Václava a Alžběty Lorencové). Otevřené: vzdálené příbuzenství obou rodů.",
+      "details": "Doklady: úmrtí 53-4174 snímek 15, pag. 23 (výřez vypisy/53-4174/z53-4174-s15-pag23-1856-08-28-eleonora-jirmannova-roz-kubeckova-machov73-vs30-48-let.jpg + -anotace.jpg; okrajová poznámka „Todtenschein zur Wiederverehelichung ddo 13 September 1857 Nr. 240“); sňatek 96-3 snímek 34 (1. 2. 1836, dům 73; ženich Joseph Germann, chalupník z Hochsichel No. 4, 24 let, syn †Josepha Germanna, chalupníka tamtéž, a Anny roz. Fyfa(?) z VS č. 4; nevěsta Eleonora, 27 let; svědci Jan Hauda, chalupník NS č. 34, a Joseph Walter(?), chalupník Machov č. 14; výřez vypisy/96-3/o96-3-s34-1836-02-01-joseph-germann-vs4-x-eleonora-kubeckova-machov73.jpg); druhý sňatek 53-53 snímek 46, fol. 44 (13. 10. 1857, Josef Jirmann, tkadlec a podruh VS č. 32, 45 let, vdovec, syn †Josefa Jirmanna, chalupníka VS č. 39, a †Anny; nevěsta Anna, dcera Václava Adama, chalupníka VS č. 49; výřez vypisy/53-53/o53-53-s46-fol44-1857-10-13-josef-jirmann-vdovec-vs32-otec-josef-vs39-x-anna-adamova.jpg). Nalezeno přes hronovský index oddaných 53-4182 (snímek 27: „Jirmann Josef 13 Oktober [1857] Hoch-Sichel III 44“). Křest Eleonory (podle věku 27 v 2/1836 a 48 v 8/1856 asi 2–8/1808) NENALEZEN: Machov N 96-3 snímky 55–61 (9/1805–1810) ani Nízká Srbská N 96-13 snímky 52–53 (1807–1808) – žádná Eleonora/Leonora. Index oddaných VS 53-52 (1784–1833) má Germanny: Georg 1794, Jakob 1801 (pag. 11), Anton 1802, Norbert 1812, Johann 1817, Wenzel 1820 – sňatek Josefa st. × Anny tam není. Domněnka: Jan Kubeček z Machova č. 73 mohl být příbuzný Karla Kubečka z č. 19 (náš předek), ale není to doloženo. Další krok: křest Eleonory v jiné farnosti (Hronov/VS 1807–1809), sňatek Jana Kubečka × Veroniky Haudové, křest Josefa ml. ~1811 ve VS.",
+      "related_ids": [
+        "vaclav-jirmann-ns26",
+        "karel-kubecek-machov19"
+      ],
+      "sources": [
+        {
+          "label": "ARON, sňatek 1. 2. 1836, Machov",
+          "signatura": "96-3",
+          "detail": "snímek 34",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/8e949995-b267-45f4-b0c6-41279f8ae2c4"
+        },
+        {
+          "label": "ARON, úmrtí 28. 8. 1856, Vysoká Srbská",
+          "signatura": "53-4174",
+          "detail": "snímek 15, pag. 23",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/220519f7-c500-40eb-9741-0ef76e87afdb/dao/220519f7-c500-40eb-9741-0ef76e87afdb/file/4960a36a-905b-4a55-92eb-061de65cd3cf"
+        },
+        {
+          "label": "ARON, sňatek 13. 10. 1857, Vysoká Srbská",
+          "signatura": "53-53",
+          "detail": "snímek 46, fol. 44",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/dao/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/file/c8f984ff-a94d-423c-8556-ab45e74f4256"
+        }
+      ]
     }
   ],
   "unattached_branches": [

@@ -945,6 +945,190 @@
     }
    ],
    "plyne": "Rozina ze Žďáru je dcerou Jakuba Klímy a Veroniky – rodiči ani obcí neodpovídá Rozině Klimšové, dceři Jana Klimše z č. 5; vylučuji ji."
+  },
+  {
+   "key": "96-3|34",
+   "src": "img/zdroje/96-3_s034_velky.jpg",
+   "title": "Sňatek Josefa Jirmanna a Eleonory Kubečkové – Machov, 1. 2. 1836",
+   "zdroj": "SOA Zámrsk, sign. 96-3, snímek 34",
+   "crop": [
+    0,
+    0,
+    2000,
+    563
+   ],
+   "entry": [
+    150,
+    65,
+    1995,
+    400
+   ],
+   "marks": [
+    {
+     "box": [
+      160,
+      75,
+      278,
+      385
+     ],
+     "lat": "am 1sten Februar 1836",
+     "cs": "1. února 1836"
+    },
+    {
+     "box": [
+      268,
+      85,
+      315,
+      130
+     ],
+     "lat": "73",
+     "cs": "dům č. 73 (dům nevěsty)"
+    },
+    {
+     "box": [
+      290,
+      72,
+      505,
+      390
+     ],
+     "lat": "Joseph Germann, Chalupner aus Hochsichel No. 4, ehelicher Sohn des verstorbenen Joseph Germann, Chalupner aus Hochsichel No. 4, und dessen Eheweib Anna",
+     "cs": "Josef Jirmann, chalupník z Vysoké Srbské č. 4, syn zemřelého Josefa Jirmanna, chalupníka tamtéž, a Anny"
+    },
+    {
+     "box": [
+      575,
+      112,
+      632,
+      170
+     ],
+     "lat": "24",
+     "cs": "ženichovi 24 let"
+    },
+    {
+     "box": [
+      705,
+      70,
+      945,
+      400
+     ],
+     "lat": "Eleonora, eheliche Tochter des Johann Kubeček, Chalupner aus Machau No. 73, und dessen Eheweib Veronika gebohrne Hauda aus Niedersichl No. 34",
+     "cs": "Eleonora, dcera Jana Kubečka, chalupníka z Machova č. 73, a Veroniky roz. Haudové z Nízké Srbské č. 34"
+    },
+    {
+     "box": [
+      1003,
+      112,
+      1060,
+      170
+     ],
+     "lat": "27",
+     "cs": "nevěstě 27 let"
+    },
+    {
+     "box": [
+      1125,
+      95,
+      1720,
+      275
+     ],
+     "lat": "Jan Hauda, Chalupner aus Niedersichl No. 34; Joseph Walter, Chalupner aus Machau No. 14",
+     "cs": "svědci: Jan Hauda, chalupník z NS č. 34, a Josef Walter(?), chalupník z Machova č. 14",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Josef Jirmann z Vysoké Srbské je synem Josefa a Anny z VS č. 4 – ne Václava a Alžběty z Machova č. 47 – takže on ani Eleonora nejsou přímými předky naší linie."
+  },
+  {
+   "key": "53-53|46",
+   "src": "img/zdroje/53-53_s046_velky.jpg",
+   "title": "Druhý sňatek vdovce Josefa Jirmanna – Vysoká Srbská, 13. 10. 1857",
+   "zdroj": "SOA Zámrsk, sign. 53-53, snímek 46, fol. 44",
+   "crop": [
+    0,
+    0,
+    2000,
+    427
+   ],
+   "entry": [
+    10,
+    60,
+    1995,
+    330
+   ],
+   "marks": [
+    {
+     "box": [
+      15,
+      65,
+      145,
+      215
+     ],
+     "lat": "Getraut am 13ten Oktober 1857",
+     "cs": "oddán 13. října 1857"
+    },
+    {
+     "box": [
+      155,
+      70,
+      205,
+      112
+     ],
+     "lat": "32",
+     "cs": "dům č. 32"
+    },
+    {
+     "box": [
+      205,
+      62,
+      1000,
+      112
+     ],
+     "lat": "Josef Jirmann, Weber und Inmann in Hoch-Sichel No. 32",
+     "cs": "Josef Jirmann, tkadlec a podruh ve Vysoké Srbské č. 32"
+    },
+    {
+     "box": [
+      205,
+      108,
+      1000,
+      188
+     ],
+     "lat": "† Josef Jirmann, Häusler in Hoch-Sichel No. 39",
+     "cs": "syn zemřelého Josefa Jirmanna, chalupníka ve VS č. 39"
+    },
+    {
+     "box": [
+      205,
+      185,
+      1000,
+      238
+     ],
+     "lat": "† Ehegattin Anna … Häusler aus Hoch-Sichel No. 4",
+     "cs": "a zemřelé Anny, dcery chalupníka z VS č. 4",
+     "nejiste": true
+    },
+    {
+     "box": [
+      825,
+      62,
+      885,
+      112
+     ],
+     "lat": "45",
+     "cs": "45 let, vdovec"
+    },
+    {
+     "box": [
+      1060,
+      65,
+      1490,
+      300
+     ],
+     "lat": "Anna, eheliche Tochter … Wenzel Adam, Chalupner in Hoch-Sichel No. 49",
+     "cs": "nevěsta Anna, dcera Václava Adama, chalupníka ve VS č. 49"
+    }
+   ],
+   "plyne": "Rok po Eleonořině smrti se vdovec Josef Jirmann (45) znovu oženil; zápis potvrzuje, že jeho rodiči byli Josef a Anna Jirmannovi z Vysoké Srbské, ne naši předkové z Machova č. 47."
   }
  ]
 }
