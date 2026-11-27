@@ -1474,7 +1474,7 @@
       "id": "q-jan-jirmann-ns24",
       "title": "Kdy zemřel Jan Jirmann *1842 a kde žila Václavova rodina v roce 1921?",
       "summary": "Jan Jirmann je nově doložen: narozen 13. 5. 1842 v NS č. 26, syn Václava Jirmanna a Veroniky Bittnerové, oddán 2. 7. 1872 s Annou Košťálovou. Otevřené zůstává jeho úmrtí (před 1902) a bydliště Václavovy rodiny v roce 1921.",
-      "details": "Úmrtí Jana: matrika zemřelých NS po 1853 a Bělého po 1866 v ARON online není; Machov Z 96-4231 (do 5. 1897) zatím neprohledána. Starší generace: sňatek Václava Jirmanna (NS 26) s Veronikou Bittnerovou (asi 1830–1841, NS O 96-14 do 6. 1841), narození Václava v Machově č. 74 (96-3). V NS 1851 (96-15 snímek 51) je další dítě Václava Jirmanna, chalupníka — Janův sourozenec, zatím nečteno. Sčítání 1921: Ludvík ani Václav nejsou v NS, Machově, Bezděkově, Bělém, Sedmákovicích, Závrchách, Žabokrkách ani Vysoké Srbské; zbývá Police n. M. (poř. č. 65–67) a chybějící čísla (NS č. 1, Machov č. 37 a 111).",
+      "details": "Úmrtí Jana: v machovské matrice zemřelých 96-4231 (1847–5. 1897) není (prohledáno kolo AQ); matrika zemřelých NS po 1853 a Bělého po 1866 v ARON online není. Sňatek rodičů Václava Jirmanna a Veroniky Bittnerové je už doložen (18. 2. 1840, 96-14 snímek 29). Sčítání 1921: Ludvík ani Václav nejsou v NS, Machově, Bezděkově, Bělém, Sedmákovicích, Závrchách, Žabokrkách ani Vysoké Srbské; zbývá Police n. M. (poř. č. 65–67) a chybějící čísla (NS č. 1, Machov č. 37 a 111).",
       "related_ids": [
         "jan-jirmann-ns24",
         "vaclav-jirmann-1874",
@@ -1503,6 +1503,54 @@
           "detail": "snímek 61",
           "apu": "1bdecfdb-3757-4e70-b00e-f88e8024851b",
           "url": "https://aron.vychodoceskearchivy.cz/apu/1bdecfdb-3757-4e70-b00e-f88e8024851b/dao/1bdecfdb-3757-4e70-b00e-f88e8024851b/file/6b3dd221-8100-4419-8572-7601be953585"
+        }
+      ]
+    },
+    {
+      "id": "q-vaclav-jirmann-1790",
+      "title": "Je Wenzl *1. 8. 1790 v Machově č. 47 náš Václav starší a kdo byli jeho rodiče?",
+      "summary": "Václav Jirmann starší (ženich 1811, †1817, oba v Machově č. 47) se nejspíš narodil 1. 8. 1790 v Machově č. 47 jako syn Matthese (Matyáše) Jirmanna a Anny. Shoda jména, domu a věku je silná, ale zápis sňatku 1811 rodiče neuvádí, proto to do stromu zatím nedávám.",
+      "details": "Pro: týž dům č. 47, věk 20 let při sňatku 18. 2. 1811 přesně odpovídá narození 1790, v Machově 1789–1790 jsem jiného Václava Jirmanna nenašel. Proti: při úmrtí 1817 uveden věk 28 let (narození 1790 dává 26). Starší generace (také jen domněnka): Mathias, syn †Tobiase Girmana, si 26. 8. 1777 vzal Annu, dceru Georga Nitsche, tkalce (Machov č. 46); páru Mathias Girman, tkadlec × Anna se v č. 46 narodili Joannes 21. 4. 1782 a Franz 14. 1. 1786. Že je to tentýž Matthes jako v roce 1790 v č. 47, je pravděpodobné, ale není to výslovně doloženo; v Machově žil i jiný Mathias Girman, tkadlec, který se 26. 10. 1775 jako vdovec oženil s Ludmilou Hanušovou (č. 17). Co by to rozhodlo: úmrtí Matthese/Mathiase Jirmanna nebo Anny (96-2 Z 1784–1802, 96-3 Z od 1803) s číslem domu, případně další děti páru v č. 47 a úmrtí dítěte Wenzla 1790–1811. Narození Mathiase (asi 1750–1757) je před začátkem machovských matrik (96-1 začíná 9. 1770).",
+      "related_ids": [
+        "vaclav-jirmann-machov74",
+        "alzbeta-lorenzova",
+        "vaclav-jirmann-ns26"
+      ],
+      "sources": [
+        {
+          "label": "ARON, narození 1. 8. 1790 Wenzl, Machov č. 47, otec Matthes Jirmann, matka Anna",
+          "signatura": "96-2",
+          "detail": "snímek 25",
+          "apu": "4eaee35d-58bc-4bbb-9e9c-0602ff71d2af",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af/dao/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af/file/231eef93-0835-4ffc-b290-021175d36e83"
+        },
+        {
+          "label": "ARON, sňatek 26. 8. 1777 Machov č. 46: Mathias, syn †Tobiase Girmana × Anna, dcera Georga Nitsche, tkalce",
+          "signatura": "96-1",
+          "detail": "snímek 41",
+          "apu": "d4daa4c7-e32d-44eb-8765-e015dc335fb4",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/d4daa4c7-e32d-44eb-8765-e015dc335fb4/dao/d4daa4c7-e32d-44eb-8765-e015dc335fb4/file/b4eefb41-863e-4d25-be2f-419debe1507b"
+        },
+        {
+          "label": "ARON, narození 21. 4. 1782 Joannes, Machov č. 46, otec Mathias Girman, tkadlec, matka Anna",
+          "signatura": "96-1",
+          "detail": "snímek 28",
+          "apu": "d4daa4c7-e32d-44eb-8765-e015dc335fb4",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/d4daa4c7-e32d-44eb-8765-e015dc335fb4/dao/d4daa4c7-e32d-44eb-8765-e015dc335fb4/file/cfcbc92e-8879-4c6e-ba30-0878db0c7723"
+        },
+        {
+          "label": "ARON, narození 14. 1. 1786 Franz, Machov č. 46, otec Matthias Jirman, tkadlec, matka Anna",
+          "signatura": "96-2",
+          "detail": "snímek 17",
+          "apu": "4eaee35d-58bc-4bbb-9e9c-0602ff71d2af",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af/dao/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af/file/e2dd3aed-14dc-44ba-9224-da39d5a2b2c2"
+        },
+        {
+          "label": "ARON, sňatek 26. 10. 1775 Machov č. 17: vdovec Mathias Girman, tkadlec × Ludmila, dcera Josefa Hanuše",
+          "signatura": "96-1",
+          "detail": "snímek 39",
+          "apu": "d4daa4c7-e32d-44eb-8765-e015dc335fb4",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/d4daa4c7-e32d-44eb-8765-e015dc335fb4/dao/d4daa4c7-e32d-44eb-8765-e015dc335fb4/file/29d01cc4-709d-4ed2-81e3-c2ad2114b28c"
         }
       ]
     }

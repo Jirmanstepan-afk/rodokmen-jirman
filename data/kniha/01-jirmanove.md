@@ -28,7 +28,7 @@ Václavův křest jsem pak našel v knize narozených pro Bělý. Narodil se 25.
 
 ![96-4234/61] Křestní zápis Václava Jermanna z 25. září 1874. Vpravo jsou jeho rodiče Jan a Anna i oba dědové.
 
-Václavův otec [[jan-jirmann-ns24|Jan Jirmann]] se narodil 13. května 1842 v Nízké Srbské č. 26 a pokřtili ho německy jako Johanna Georga.[^96-15/21: narození Johanna Georga (Jana) Jermanna 13. 5. 1842] Jeho otec [[vaclav-jirmann-ns26|Václav]] byl chalupník v čísle 26. Matka [[veronika-bittnerova|Veronika]] byla dcerou výměnkáře Jana Bittnera ze stejného domu. Zápis jde ještě o generaci dál. Václav starší byl synem zesnulého [[vaclav-jirmann-machov74|Václava Jirmanna]], chalupníka v Machově č. 74, a [[alzbeta-lorenzova|Alžběty, rozené Lorenzové]], z Nízké Srbské č. 60.
+Václavův otec [[jan-jirmann-ns24|Jan Jirmann]] se narodil 13. května 1842 v Nízké Srbské č. 26 a pokřtili ho německy jako Johanna Georga.[^96-15/21: narození Johanna Georga (Jana) Jermanna 13. 5. 1842] Jeho otec [[vaclav-jirmann-ns26|Václav]] byl chalupník v čísle 26. Matka [[veronika-bittnerova|Veronika]] byla dcerou výměnkáře Jana Bittnera ze stejného domu. Zápis jde ještě o generaci dál. Václav starší byl synem zesnulého [[vaclav-jirmann-machov74|Václava Jirmanna]], chalupníka v Machově, a [[alzbeta-lorenzova|Alžběty, rozené Lorenzové]], z Nízké Srbské. Čísla domů se v zápisech rozcházejí. Křest z roku 1842 uvádí Machov č. 74 a Nízkou Srbskou č. 60, starší zápisy mají Machov č. 47 a Nízkou Srbskou č. 69.
 
 Jan se oženil 2. července 1872 v Machově. Bylo mu třicet a byl tkadlcem v Machově č. 74, tedy v domě, odkud pocházel jeho děd. Vzal si [[anna-kostalova|Annu Košťálovou]], dceru chalupníka [[hynek-kostal|Hynka Košťála]] z Bělého č. 43. Nevěsta byla nezletilá a otec jí svatbu povolil vlastním podpisem.[^96-4233/28: sňatek Jana Jirmanna a Anny Košťálové 2. 7. 1872] Annina matka [[anna-bittnerova-kostalova|Anna]] byla také rozená Bittnerová, dcera Jana Bittnera z Nízké Srbské č. 5. Obě Václavovy babičky tak byly Bittnerovy.
 
@@ -36,7 +36,23 @@ Jan se oženil 2. července 1872 v Machově. Bylo mu třicet a byl tkadlcem v Ma
 
 > Domněnka: Jan Bittner z čísla 26 a Jan Bittner z čísla 5 mohou být příbuzní, třeba otec a syn. Pak by Jan a Anna byli bratranec a sestřenice. Zápis to ale neříká a sňatek nemá poznámku o dispenzi pro příbuzenství, takže to beru jen jako možnost.
 
-Kdy Jan zemřel, zatím nevím. V roce 1902 už nežil a mezitím se stal chalupníkem v Nízké Srbské č. 24. Matrika zemřelých Nízké Srbské z té doby v ARONu není [?q-jan-jirmann-ns24].
+Kdy Jan zemřel, zatím nevím. V roce 1902 už nežil a mezitím se stal chalupníkem v Nízké Srbské č. 24. Matrika zemřelých Nízké Srbské z té doby v ARONu není [?q-jan-jirmann-ns24]. V machovské knize zemřelých do května 1897 jsem ho nenašel.
+
+## Václav z čísla 47 a Lorencovi
+
+Svatbu Janových rodičů jsem našel v nízkosrbské knize oddaných. [[vaclav-jirmann-ns26|Václav Jirmann]] si 18. února 1840 vzal [[veronika-bittnerova|Veroniku Bittnerovou]]. Jemu bylo pětadvacet a byl chalupníkem v Nízké Srbské č. 26. Jí bylo čtyřiadvacet a byla dcerou výměnkáře Jana Bittnera ze stejného domu. Václav byl podle zápisu synem zesnulého Václava Jirmanna, chalupníka v Machově č. 47, a Alžběty, rozené Lorenzové, z Nízké Srbské č. 69.[^96-14/29: sňatek Václava Jirmanna a Veroniky Bittnerové 18. 2. 1840]
+
+![96-14/29] Svatba Václava Jirmanna a Veroniky Bittnerové 18. února 1840.
+
+Václav se narodil 1. listopadu 1814 v Machově č. 47.[^96-3/71: narození Václava Jirmanna 1. 11. 1814, Machov č. 47] Jeho rodiče se vzali v Machově 18. února 1811. Ženichovi [[vaclav-jirmann-machov74|Václavu Jirmanovi]] z čísla 47 bylo dvacet let. Nevěsta [[alzbeta-lorenzova|Alžběta]] byla dcerou zesnulého [[vaclav-lorenc-ns69|Václava Lorence]], chalupníka v Nízké Srbské č. 69. Příjmení se v tomto zápisu čte těžko, ale pozdější zápisy píší jasně Lorenz.[^96-3/15: sňatek Václava Jirmana a Alžběty Lorencové 18. 2. 1811]
+
+Manželství netrvalo dlouho. Václav starší zemřel 16. dubna 1817 v čísle 47 jako chalupník. Bylo mu osmadvacet. Na téže stránce jsou zapsané i jeho dvě dcery. Anna zemřela měsíc před ním a čtyřletá Veronika necelý měsíc po něm.[^96-3/157: úmrtí Václava Jirmanna 16. 4. 1817, Machov č. 47] Alžběta tak během dvou měsíců přišla o muže a dvě děti a zůstala sama s dvouletým Václavem. Kdy zemřela, jsem nezjistil. V machovské knize zemřelých z let 1851–1897 není.
+
+> Domněnka: Porodní bába Alžběta Jirmanová z Machova č. 74, která v letech 1842 a 1851 pomáhala u porodů v Nízké Srbské, byla nejspíš právě tahle vdova. Proto možná křest z roku 1842 uvádí u Václavova otce číslo 74, kde v té době bydlela, a ne 47.
+
+Hledal jsem dál i Václavovo narození. Dne 1. srpna 1790 se v Machově č. 47 narodil Wenzl, syn Matthese Jirmanna a Anny.[^96-2/25: narození Wenzla Jirmanna 1. 8. 1790, Machov č. 47] Sedí jméno i dům a v roce 1811 by mu bylo přesně dvacet. Při úmrtí mu ale zapsali osmadvacet let, což by ukazovalo spíš na rok 1789. Zápis svatby rodiče ženicha neuvádí, takže to do stromu nedávám [?q-vaclav-jirmann-1790].
+
+> Domněnka: Matthes Jirmann z roku 1790 je nejspíš Mathias Girman, tkadlec, který se 26. srpna 1777 v Machově č. 46 oženil s Annou, dcerou tkalce Georga Nitsche. Sám byl synem zesnulého Tobiase Girmana.[^96-1/41: sňatek Mathiase Girmana a Anny Nitschové 26. 8. 1777] Páru Mathias a Anna se v čísle 46 narodili Joannes 1782 a Franz 1786.[^96-1/28: narození Joanna Girmana 21. 4. 1782][^96-2/17: narození Franze Jirmana 14. 1. 1786] Nejpozději v roce 1790 by se rodina přestěhovala do sousedního čísla 47. Jistota to ale není. Ve stejné době žil v Machově i jiný Mathias Girman, tkadlec a vdovec, který se v roce 1775 oženil s Ludmilou Hanušovou.[^96-1/39: sňatek vdovce Mathiase Girmana a Ludmily Hanušové 26. 10. 1775] Tobias by pak byl nejstarší Jirman, ke kterému jsem se v machovských matrikách dostal. Jeho úmrtí a Mathiasovo narození spadají před rok 1770, kdy machovské knihy v ARONu začínají.
 
 ## Barčákovi
 

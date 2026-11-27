@@ -144,6 +144,7 @@
    "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
    "dao": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 96-3 (poř.č. 6793), 1784-1846",
+   "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, Machov\nN 5.1784-3.1786, 11.1801-11.1838 (5.1784-3.1786 duplicitní se sign. 96-2), O 6.1784-6.1794, 1803-6.1836 (6.1784-6.1794 duplicitní se sign. 96-2), Z od 1803",
    "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373"
   },
   "13-7528": {
@@ -745,6 +746,20 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 96-4230 (poř.č. 6812), 4.1863-10.1894",
    "popis": "římskokatolická matrika ODDANÝCH, Machov",
    "url": "https://aron.vychodoceskearchivy.cz/apu/ac869ed4-a60c-41de-8c26-219845ec09a3"
+  },
+  "96-1": {
+   "apu": "d4daa4c7-e32d-44eb-8765-e015dc335fb4",
+   "dao": "d4daa4c7-e32d-44eb-8765-e015dc335fb4",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 96-1 (poř.č. 6787), 9.1770-4.1784",
+   "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, farnost (Bělý, Machov, Náchodská Lhota, Nízká Srbská, Polická Lhota)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/d4daa4c7-e32d-44eb-8765-e015dc335fb4"
+  },
+  "96-2": {
+   "apu": "4eaee35d-58bc-4bbb-9e9c-0602ff71d2af",
+   "dao": "4eaee35d-58bc-4bbb-9e9c-0602ff71d2af",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 96-2 (poř.č. 6792), 1784-1802",
+   "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, Machov\nN 5.1784-10.1801, O 5.1784-2.1802, Z od 5.1784",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af"
   }
  },
  "aliasy": {
@@ -3758,6 +3773,15 @@
    "velky": "img/zdroje/96-13_s035_velky.jpg",
    "vyrez_soubor": "z96-13-s35-krty-nizka-srbska-1792-1798-bez-tobiase-maroula.jpg"
   },
+  "96-14|29": {
+   "signatura": "96-14",
+   "snimek": 29,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fd41faee-39b9-4778-85aa-e390771f02c0/dao/fd41faee-39b9-4778-85aa-e390771f02c0/file/2404ce86-a455-49f2-991e-efe77d5ca671",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-14_s029.jpg",
+   "velky": "img/zdroje/96-14_s029_velky.jpg",
+   "vyrez_soubor": "p029-oddani-18-2-1840-NS26-Wenzel-Jermann-chalupnik-NS26-25-let-syn-zemreleho-Wenzela-Jermanna-chalupnika-Machov47-a-Elisabeth-Lorenz-NS69-nevesta-Veronika-Bittner-24-dcera-Johanna-Bittnera-vymenkare-NS26-a-Ludmily-Langer-Hlay32.jpg"
+  },
   "96-14|4": {
    "signatura": "96-14",
    "snimek": 4,
@@ -3978,6 +4002,78 @@
    "vyrez": "celá strana",
    "nahled": "img/zdroje/96-16_s041.jpg",
    "velky": "img/zdroje/96-16_s041_velky.jpg"
+  },
+  "96-1|28": {
+   "signatura": "96-1",
+   "snimek": 28,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/d4daa4c7-e32d-44eb-8765-e015dc335fb4/dao/d4daa4c7-e32d-44eb-8765-e015dc335fb4/file/027f0ad7-0bef-402c-ab2c-a5f741ce22e5",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-1_s028.jpg",
+   "velky": "img/zdroje/96-1_s028_velky.jpg",
+   "vyrez_soubor": "p028-narozeni-21-4-1782-Machov46-Joannes-otec-Mathias-Girman-tkadlec-matka-Anna.jpg"
+  },
+  "96-1|39": {
+   "signatura": "96-1",
+   "snimek": 39,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/d4daa4c7-e32d-44eb-8765-e015dc335fb4/dao/d4daa4c7-e32d-44eb-8765-e015dc335fb4/file/148c81c1-6777-4faa-ace5-9fb61a508162",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-1_s039.jpg",
+   "velky": "img/zdroje/96-1_s039_velky.jpg",
+   "vyrez_soubor": "p039-oddani-26-10-1775-Machov17-vdovec-Mathias-Girman-tkadlec-nevesta-Ludmila-dcera-Josefa-Hanuse.jpg"
+  },
+  "96-1|41": {
+   "signatura": "96-1",
+   "snimek": 41,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/d4daa4c7-e32d-44eb-8765-e015dc335fb4/dao/d4daa4c7-e32d-44eb-8765-e015dc335fb4/file/730a92c2-c524-4130-bf5e-8576f8d45a2d",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-1_s041.jpg",
+   "velky": "img/zdroje/96-1_s041_velky.jpg",
+   "vyrez_soubor": "p041-oddani-26-8-1777-Machov46-Mathias-syn-zemreleho-Tobiase-Girmana-nevesta-Anna-dcera-Georga-Nitsche-tkalce.jpg"
+  },
+  "96-2|17": {
+   "signatura": "96-2",
+   "snimek": 17,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af/dao/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af/file/47719021-3b65-4c93-b083-5b769bc58d03",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-2_s017.jpg",
+   "velky": "img/zdroje/96-2_s017_velky.jpg",
+   "vyrez_soubor": "p017-narozeni-14-1-1786-Machov46-Franz-otec-Matthias-Jirman-tkadlec-matka-Anna.jpg"
+  },
+  "96-2|25": {
+   "signatura": "96-2",
+   "snimek": 25,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af/dao/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af/file/8b223b1b-58ed-4d9b-a444-674db5b28bf4",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-2_s025.jpg",
+   "velky": "img/zdroje/96-2_s025_velky.jpg",
+   "vyrez_soubor": "p025-narozeni-1-8-1790-Machov47-Wenzl-otec-Matthes-Jirmann-matka-Anna.jpg"
+  },
+  "96-3|15": {
+   "signatura": "96-3",
+   "snimek": 15,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/45202777-3c33-49a7-8b2d-9a9fbb690801",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-3_s015.jpg",
+   "velky": "img/zdroje/96-3_s015_velky.jpg",
+   "vyrez_soubor": "p015-oddani-18-2-1811-Machov-Waclaw-Jirman-Machov47-20-let-nevesta-Alzbeta-dcera-zemreleho-Waclawa-Lorence-chalupnika-NS69.jpg"
+  },
+  "96-3|157": {
+   "signatura": "96-3",
+   "snimek": 157,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/e01a5127-1e1d-4cf1-b94e-22bc55c60b40",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-3_s157.jpg",
+   "velky": "img/zdroje/96-3_s157_velky.jpg",
+   "vyrez_soubor": "p157-umrti-16-4-1817-Machov47-Waclaw-Germann-chalupnik-28-let-a-dcery-Anna-20-3-1817-a-Weronika-9-5-1817.jpg"
+  },
+  "96-3|71": {
+   "signatura": "96-3",
+   "snimek": 71,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/59ee8ee7-b0ee-44a3-8b9d-2ffa8b853b6c",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-3_s071.jpg",
+   "velky": "img/zdroje/96-3_s071_velky.jpg",
+   "vyrez_soubor": "p071-narozeni-1-11-1814-Machov47-Waclaw-Germann-otec-Waclaw-Germann-Machov-matka-Alzbeta-dcera-Lorence-z-Nizke-Srbske.jpg"
   },
   "96-3|94": {
    "signatura": "96-3",

@@ -7065,12 +7065,18 @@
       "id": "vaclav-jirmann-ns26",
       "name": "Václav Jirmann",
       "maiden": null,
-      "birth": null,
+      "birth": {
+        "display": "1. 11. 1814",
+        "precision": "exact",
+        "date": "1814-11-01",
+        "place": "Machov č. 47"
+      },
       "baptism": null,
       "death": null,
       "occupation": "chalupník",
       "places": [
-        "Nízká Srbská č. 26"
+        "Machov č. 47 (narození 1814)",
+        "Nízká Srbská č. 26 (chalupník, 1840–1842)"
       ],
       "branch": "jirman",
       "certainty": "potvrzeno",
@@ -7096,10 +7102,24 @@
           "detail": "snímek 61",
           "apu": "1bdecfdb-3757-4e70-b00e-f88e8024851b",
           "url": "https://aron.vychodoceskearchivy.cz/apu/1bdecfdb-3757-4e70-b00e-f88e8024851b/dao/1bdecfdb-3757-4e70-b00e-f88e8024851b/file/6b3dd221-8100-4419-8572-7601be953585"
+        },
+        {
+          "label": "ARON, narození 1. 11. 1814 Václav Germann (Jirmann), Machov č. 47",
+          "signatura": "96-3",
+          "detail": "snímek 71",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/b5e212d8-d09b-4d7c-90ab-a26de30e2e9a"
+        },
+        {
+          "label": "ARON, sňatek 18. 2. 1840 Nízká Srbská: Václav Jermann × Veronika Bittnerová",
+          "signatura": "96-14",
+          "detail": "snímek 29",
+          "apu": "fd41faee-39b9-4778-85aa-e390771f02c0",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/fd41faee-39b9-4778-85aa-e390771f02c0/dao/fd41faee-39b9-4778-85aa-e390771f02c0/file/2676df50-5727-49be-9282-2c50db6a4af5"
         }
       ],
       "notes": [
-        "Otec Jana *1842. V roce 1842 chalupník v NS č. 26, syn †Václava Jermanna, chalupníka v Machově č. 74, a Alžběty roz. Lorenzové z NS č. 60. V roce 1872 už nežil (†).",
+        "Otec Jana *1842. Narozen 1. 11. 1814 v Machově č. 47 (96-3 snímek 71): otec Václav Germann (Jirmann), Machov; matka Alžběta, dcera Lorence(?) z Nízké Srbské. V roce 1840 chalupník v NS č. 26, 25 let, syn †Václava, chalupníka v Machově č. 47, a Alžběty roz. Lorenzové z NS č. 69 (96-14 snímek 29); zápis 1842 uvádí Machov č. 74 a NS č. 60. V roce 1872 už nežil (†).",
         "Neslučovat s jinými Václavy Jirmanny z Machova bez zápisu."
       ],
       "interesting": []
@@ -7142,7 +7162,8 @@
         }
       ],
       "notes": [
-        "Dcera Johanna (Jana) Bittnera, výměnkáře v NS č. 26, a Ludmily (rodné příjmení čteno Langer?, nejisté). V roce 1872 už nežila (†)."
+        "Dcera Johanna (Jana) Bittnera, výměnkáře v NS č. 26, a Ludmily (rodné příjmení čteno Langer?, nejisté). V roce 1872 už nežila (†).",
+        "Nevěsta 18. 2. 1840 (96-14 snímek 29): Veronika Bittner, 24 let, dcera Johanna Bittnera, výměnkáře v NS č. 26, a Ludmily (Langer?) — narozena tedy asi 1815–1816; křest zatím nehledán."
       ],
       "interesting": []
     },
@@ -7150,12 +7171,22 @@
       "id": "vaclav-jirmann-machov74",
       "name": "Václav Jirmann",
       "maiden": null,
-      "birth": null,
+      "birth": {
+        "display": "asi 1789–1791",
+        "precision": "about",
+        "note": "Při sňatku 18. 2. 1811 uveden věk 20 let, při úmrtí 16. 4. 1817 věk 28 let."
+      },
       "baptism": null,
-      "death": null,
+      "death": {
+        "display": "16. 4. 1817",
+        "precision": "exact",
+        "date": "1817-04-16",
+        "place": "Machov č. 47"
+      },
       "occupation": "chalupník",
       "places": [
-        "Machov č. 74"
+        "Machov č. 47 (1811, 1814, 1817)",
+        "Machov č. 74 (uvedeno zpětně v zápisu 1842)"
       ],
       "branch": "jirman",
       "certainty": "potvrzeno",
@@ -7167,10 +7198,42 @@
           "detail": "snímek 21",
           "apu": "89e9015b-d31a-4b96-8437-085cfa61151f",
           "url": "https://aron.vychodoceskearchivy.cz/apu/89e9015b-d31a-4b96-8437-085cfa61151f/dao/89e9015b-d31a-4b96-8437-085cfa61151f/file/787c702a-5c84-46be-9344-9725d8472665"
+        },
+        {
+          "label": "ARON, sňatek 18. 2. 1811 Machov: Václav Jirman × Alžběta Lorencová",
+          "signatura": "96-3",
+          "detail": "snímek 15",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/e7e72aca-7655-4f4a-b93b-f18dc23436fb"
+        },
+        {
+          "label": "ARON, úmrtí 16. 4. 1817 Václav Germann (Jirmann), chalupník, Machov č. 47",
+          "signatura": "96-3",
+          "detail": "snímek 157",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/ebfbf81f-ffe9-48ce-897e-86dc24281137"
+        },
+        {
+          "label": "ARON, narození 1. 11. 1814 Václav Germann (Jirmann), Machov č. 47",
+          "signatura": "96-3",
+          "detail": "snímek 71",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/b5e212d8-d09b-4d7c-90ab-a26de30e2e9a"
+        },
+        {
+          "label": "ARON, sňatek 18. 2. 1840 Nízká Srbská: Václav Jermann × Veronika Bittnerová",
+          "signatura": "96-14",
+          "detail": "snímek 29",
+          "apu": "fd41faee-39b9-4778-85aa-e390771f02c0",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/fd41faee-39b9-4778-85aa-e390771f02c0/dao/fd41faee-39b9-4778-85aa-e390771f02c0/file/2676df50-5727-49be-9282-2c50db6a4af5"
         }
       ],
       "notes": [
-        "Děd Jana *1842: v zápisu 1842 „†Wenzel Jermann, chalupník v Machově č. 74“. V roce 1842 už nežil."
+        "Ženich 18. 2. 1811 v Machově: Václav Jirman, chalupník(?) z Machova č. 47, 20 let, svobodný (96-3 snímek 15). Rodiče ženicha zápis neuvádí.",
+        "Zemřel 16. 4. 1817 v Machově č. 47 jako chalupník, 28 let (96-3 snímek 157). Ztotožnění: stejné jméno, dům č. 47, povolání a věk; syn Václav *1814 se narodil v č. 47 a v roce 1840 je uveden jako syn †Václava, chalupníka v Machově č. 47.",
+        "Na téže stránce zemřely 20. 3. 1817 Anna, dcera Václava Germanna, chalupníka z č. 47, a 9. 5. 1817 Veronika (4 roky), dcera †Václava Germanna — tedy Václavovy dcery a sestry Václava *1814; do grafu je zatím nepřidávám.",
+        "Zápis 1842 (96-15 snímek 21) uvádí Machov č. 74; ID osoby ponecháno kvůli odkazům.",
+        "Kandidát na narození (do stromu nedávám, viz otázka q-vaclav-jirmann-1790): 1. 8. 1790 se v Machově č. 47 narodil Wenzl, syn Matthese Jirmanna a Anny (96-2 snímek 25). Sedí jméno, dům č. 47 i věk 20 let při sňatku 1811; zápis sňatku 1811 ale rodiče ženicha neuvádí a věk 28 let při úmrtí 1817 o dva roky nesedí."
       ],
       "interesting": []
     },
@@ -7183,7 +7246,10 @@
       "death": null,
       "occupation": null,
       "places": [
-        "Nízká Srbská č. 60 (původ)"
+        "Nízká Srbská č. 69 (původ; 1811, 1840)",
+        "Nízká Srbská č. 60 (uvedeno 1842)",
+        "Machov č. 47 (1814–1817)",
+        "Machov č. 74 (porodní bába, 1842 a 1851)"
       ],
       "branch": "jirman",
       "certainty": "potvrzeno",
@@ -7195,10 +7261,34 @@
           "detail": "snímek 21",
           "apu": "89e9015b-d31a-4b96-8437-085cfa61151f",
           "url": "https://aron.vychodoceskearchivy.cz/apu/89e9015b-d31a-4b96-8437-085cfa61151f/dao/89e9015b-d31a-4b96-8437-085cfa61151f/file/787c702a-5c84-46be-9344-9725d8472665"
+        },
+        {
+          "label": "ARON, sňatek 18. 2. 1811 Machov: Václav Jirman × Alžběta Lorencová",
+          "signatura": "96-3",
+          "detail": "snímek 15",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/e7e72aca-7655-4f4a-b93b-f18dc23436fb"
+        },
+        {
+          "label": "ARON, narození 1. 11. 1814 Václav Germann (Jirmann), Machov č. 47",
+          "signatura": "96-3",
+          "detail": "snímek 71",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/b5e212d8-d09b-4d7c-90ab-a26de30e2e9a"
+        },
+        {
+          "label": "ARON, sňatek 18. 2. 1840 Nízká Srbská: Václav Jermann × Veronika Bittnerová",
+          "signatura": "96-14",
+          "detail": "snímek 29",
+          "apu": "fd41faee-39b9-4778-85aa-e390771f02c0",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/fd41faee-39b9-4778-85aa-e390771f02c0/dao/fd41faee-39b9-4778-85aa-e390771f02c0/file/2676df50-5727-49be-9282-2c50db6a4af5"
         }
       ],
       "notes": [
-        "Manželka Václava Jirmanna z Machova č. 74, „Elisabeth geborene Lorenz aus Niedersichel N. 60“ (96-15 snímek 21)."
+        "Nevěsta 18. 2. 1811 v Machově: Alžběta, dcera †Václava Lorence(?), chalupníka v Nízké Srbské č. 69, panství Police (96-3 snímek 15). Čtení příjmení „Lorencowi“ je těžké, ale sedí se zápisy 1840 a 1842 („Lorenz“).",
+        "V zápisu 1840 „Elisabeth geborene Lorenz aus Niedersichl N. 69“, v roce 1842 „N. 60“. Ovdověla 16. 4. 1817.",
+        "Porodní bába Alžběta Jirmanová z Machova č. 74 je uvedena v letech 1842 a 1851 (96-15 snímky 21 a 50); jde nejspíš o ni (Domněnka, ne do grafu).",
+        "Úmrtí nenalezeno: Machov Z 96-4231 (asi 1851–5. 1897, snímky 10–100) prohledána po jménech bez nálezu vdovy Alžběty Jirmannové narozené kolem 1790. Mohla zemřít v Nízké Srbské (NS Z po 1853 v ARON online není) nebo mimo farnost. Neprohledáno: 96-3 Z 1842–1846 a 96-4231 snímky 1–9 (1847–1851)."
       ],
       "interesting": []
     },
@@ -7459,6 +7549,37 @@
       ],
       "notes": [
         "Dcera Karla Žida, chalupníka v Machově č. 11 (96-4230 snímek 38; 96-4232 snímek 76)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "vaclav-lorenc-ns69",
+      "name": "Václav Lorenc",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 18. 2. 1811",
+        "precision": "before"
+      },
+      "occupation": "chalupník",
+      "places": [
+        "Nízká Srbská č. 69"
+      ],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 18. 2. 1811 Machov: Václav Jirman × Alžběta Lorencová",
+          "signatura": "96-3",
+          "detail": "snímek 15",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/e7e72aca-7655-4f4a-b93b-f18dc23436fb"
+        }
+      ],
+      "notes": [
+        "Otec Alžběty: v zápisu sňatku 18. 2. 1811 „dcera po † Wáclawowi Lorencowi(?), chalupníkovi z Nížkosrbska z N. 69“ (96-3 snímek 15). Čtení příjmení těžké, potvrzují ho zápisy 1840 a 1842 (Lorenz)."
       ],
       "interesting": []
     }
@@ -9946,7 +10067,11 @@
         "vaclav-jirmann-ns26",
         "veronika-bittnerova"
       ],
-      "married": null,
+      "married": {
+        "display": "18. 2. 1840",
+        "date": "1840-02-18",
+        "place": "Nízká Srbská (matrika NS, fara Machov)"
+      },
       "children": [
         "jan-jirmann-ns24"
       ],
@@ -9965,10 +10090,17 @@
           "detail": "snímek 28",
           "apu": "8ab277de-c287-47b8-8ffb-e704ce54e8e3",
           "url": "https://aron.vychodoceskearchivy.cz/apu/8ab277de-c287-47b8-8ffb-e704ce54e8e3/dao/8ab277de-c287-47b8-8ffb-e704ce54e8e3/file/fdd9ef11-255c-497c-8271-c8137311f203"
+        },
+        {
+          "label": "ARON, sňatek 18. 2. 1840 Nízká Srbská: Václav Jermann × Veronika Bittnerová",
+          "signatura": "96-14",
+          "detail": "snímek 29",
+          "apu": "fd41faee-39b9-4778-85aa-e390771f02c0",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/fd41faee-39b9-4778-85aa-e390771f02c0/dao/fd41faee-39b9-4778-85aa-e390771f02c0/file/2676df50-5727-49be-9282-2c50db6a4af5"
         }
       ],
       "notes": [
-        "Rodiče Jana *1842 (96-15 snímek 21; 96-4233 snímek 28). Sňatek zatím nehledán."
+        "Sňatek 18. 2. 1840 (96-14 snímek 29): ženich Václav Jermann, chalupník v NS č. 26, 25 let, syn †Václava Jermanna, chalupníka v Machově č. 47, a Alžběty roz. Lorenzové z NS č. 69; nevěsta Veronika Bittnerová, 24 let, dcera Johanna Bittnera, výměnkáře v NS č. 26, a Ludmily roz. Langer(?) z „Hlay“(?) č. 32. Svědci Václav Fogler(?), sedlák v Machově č. 48, a Johann Lorenz(?), kolář z „Hlay“ č. 7 (čtení nejistá)."
       ]
     },
     {
@@ -9977,7 +10109,11 @@
         "vaclav-jirmann-machov74",
         "alzbeta-lorenzova"
       ],
-      "married": null,
+      "married": {
+        "display": "18. 2. 1811",
+        "date": "1811-02-18",
+        "place": "Machov"
+      },
       "children": [
         "vaclav-jirmann-ns26"
       ],
@@ -9989,10 +10125,24 @@
           "detail": "snímek 21",
           "apu": "89e9015b-d31a-4b96-8437-085cfa61151f",
           "url": "https://aron.vychodoceskearchivy.cz/apu/89e9015b-d31a-4b96-8437-085cfa61151f/dao/89e9015b-d31a-4b96-8437-085cfa61151f/file/787c702a-5c84-46be-9344-9725d8472665"
+        },
+        {
+          "label": "ARON, sňatek 18. 2. 1811 Machov: Václav Jirman × Alžběta Lorencová",
+          "signatura": "96-3",
+          "detail": "snímek 15",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/e7e72aca-7655-4f4a-b93b-f18dc23436fb"
+        },
+        {
+          "label": "ARON, narození 1. 11. 1814 Václav Germann (Jirmann), Machov č. 47",
+          "signatura": "96-3",
+          "detail": "snímek 71",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/b5e212d8-d09b-4d7c-90ab-a26de30e2e9a"
         }
       ],
       "notes": [
-        "Rodiče Václava z NS č. 26 podle zápisu 1842."
+        "Sňatek 18. 2. 1811 v Machově (96-3 snímek 15). Syn Václav *1. 11. 1814 v Machově č. 47 (96-3 snímek 71)."
       ]
     },
     {
@@ -10109,6 +10259,29 @@
       ],
       "notes": [
         "Rodiče Marie Kubečkové."
+      ]
+    },
+    {
+      "id": "u-vaclav-lorenc-ns69",
+      "partners": [
+        "vaclav-lorenc-ns69"
+      ],
+      "married": null,
+      "children": [
+        "alzbeta-lorenzova"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, sňatek 18. 2. 1811 Machov: Václav Jirman × Alžběta Lorencová",
+          "signatura": "96-3",
+          "detail": "snímek 15",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/e7e72aca-7655-4f4a-b93b-f18dc23436fb"
+        }
+      ],
+      "notes": [
+        "Manželka neznámá."
       ]
     }
   ],
@@ -11587,7 +11760,7 @@
       "id": "q-jan-jirmann-ns24",
       "title": "Kdy zemřel Jan Jirmann *1842 a kde žila Václavova rodina v roce 1921?",
       "summary": "Jan Jirmann je nově doložen: narozen 13. 5. 1842 v NS č. 26, syn Václava Jirmanna a Veroniky Bittnerové, oddán 2. 7. 1872 s Annou Košťálovou. Otevřené zůstává jeho úmrtí (před 1902) a bydliště Václavovy rodiny v roce 1921.",
-      "details": "Úmrtí Jana: matrika zemřelých NS po 1853 a Bělého po 1866 v ARON online není; Machov Z 96-4231 (do 5. 1897) zatím neprohledána. Starší generace: sňatek Václava Jirmanna (NS 26) s Veronikou Bittnerovou (asi 1830–1841, NS O 96-14 do 6. 1841), narození Václava v Machově č. 74 (96-3). V NS 1851 (96-15 snímek 51) je další dítě Václava Jirmanna, chalupníka — Janův sourozenec, zatím nečteno. Sčítání 1921: Ludvík ani Václav nejsou v NS, Machově, Bezděkově, Bělém, Sedmákovicích, Závrchách, Žabokrkách ani Vysoké Srbské; zbývá Police n. M. (poř. č. 65–67) a chybějící čísla (NS č. 1, Machov č. 37 a 111).",
+      "details": "Úmrtí Jana: v machovské matrice zemřelých 96-4231 (1847–5. 1897) není (prohledáno kolo AQ); matrika zemřelých NS po 1853 a Bělého po 1866 v ARON online není. Sňatek rodičů Václava Jirmanna a Veroniky Bittnerové je už doložen (18. 2. 1840, 96-14 snímek 29). Sčítání 1921: Ludvík ani Václav nejsou v NS, Machově, Bezděkově, Bělém, Sedmákovicích, Závrchách, Žabokrkách ani Vysoké Srbské; zbývá Police n. M. (poř. č. 65–67) a chybějící čísla (NS č. 1, Machov č. 37 a 111).",
       "related_ids": [
         "jan-jirmann-ns24",
         "vaclav-jirmann-1874",
@@ -11616,6 +11789,54 @@
           "detail": "snímek 61",
           "apu": "1bdecfdb-3757-4e70-b00e-f88e8024851b",
           "url": "https://aron.vychodoceskearchivy.cz/apu/1bdecfdb-3757-4e70-b00e-f88e8024851b/dao/1bdecfdb-3757-4e70-b00e-f88e8024851b/file/6b3dd221-8100-4419-8572-7601be953585"
+        }
+      ]
+    },
+    {
+      "id": "q-vaclav-jirmann-1790",
+      "title": "Je Wenzl *1. 8. 1790 v Machově č. 47 náš Václav starší a kdo byli jeho rodiče?",
+      "summary": "Václav Jirmann starší (ženich 1811, †1817, oba v Machově č. 47) se nejspíš narodil 1. 8. 1790 v Machově č. 47 jako syn Matthese (Matyáše) Jirmanna a Anny. Shoda jména, domu a věku je silná, ale zápis sňatku 1811 rodiče neuvádí, proto to do stromu zatím nedávám.",
+      "details": "Pro: týž dům č. 47, věk 20 let při sňatku 18. 2. 1811 přesně odpovídá narození 1790, v Machově 1789–1790 jsem jiného Václava Jirmanna nenašel. Proti: při úmrtí 1817 uveden věk 28 let (narození 1790 dává 26). Starší generace (také jen domněnka): Mathias, syn †Tobiase Girmana, si 26. 8. 1777 vzal Annu, dceru Georga Nitsche, tkalce (Machov č. 46); páru Mathias Girman, tkadlec × Anna se v č. 46 narodili Joannes 21. 4. 1782 a Franz 14. 1. 1786. Že je to tentýž Matthes jako v roce 1790 v č. 47, je pravděpodobné, ale není to výslovně doloženo; v Machově žil i jiný Mathias Girman, tkadlec, který se 26. 10. 1775 jako vdovec oženil s Ludmilou Hanušovou (č. 17). Co by to rozhodlo: úmrtí Matthese/Mathiase Jirmanna nebo Anny (96-2 Z 1784–1802, 96-3 Z od 1803) s číslem domu, případně další děti páru v č. 47 a úmrtí dítěte Wenzla 1790–1811. Narození Mathiase (asi 1750–1757) je před začátkem machovských matrik (96-1 začíná 9. 1770).",
+      "related_ids": [
+        "vaclav-jirmann-machov74",
+        "alzbeta-lorenzova",
+        "vaclav-jirmann-ns26"
+      ],
+      "sources": [
+        {
+          "label": "ARON, narození 1. 8. 1790 Wenzl, Machov č. 47, otec Matthes Jirmann, matka Anna",
+          "signatura": "96-2",
+          "detail": "snímek 25",
+          "apu": "4eaee35d-58bc-4bbb-9e9c-0602ff71d2af",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af/dao/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af/file/231eef93-0835-4ffc-b290-021175d36e83"
+        },
+        {
+          "label": "ARON, sňatek 26. 8. 1777 Machov č. 46: Mathias, syn †Tobiase Girmana × Anna, dcera Georga Nitsche, tkalce",
+          "signatura": "96-1",
+          "detail": "snímek 41",
+          "apu": "d4daa4c7-e32d-44eb-8765-e015dc335fb4",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/d4daa4c7-e32d-44eb-8765-e015dc335fb4/dao/d4daa4c7-e32d-44eb-8765-e015dc335fb4/file/b4eefb41-863e-4d25-be2f-419debe1507b"
+        },
+        {
+          "label": "ARON, narození 21. 4. 1782 Joannes, Machov č. 46, otec Mathias Girman, tkadlec, matka Anna",
+          "signatura": "96-1",
+          "detail": "snímek 28",
+          "apu": "d4daa4c7-e32d-44eb-8765-e015dc335fb4",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/d4daa4c7-e32d-44eb-8765-e015dc335fb4/dao/d4daa4c7-e32d-44eb-8765-e015dc335fb4/file/cfcbc92e-8879-4c6e-ba30-0878db0c7723"
+        },
+        {
+          "label": "ARON, narození 14. 1. 1786 Franz, Machov č. 46, otec Matthias Jirman, tkadlec, matka Anna",
+          "signatura": "96-2",
+          "detail": "snímek 17",
+          "apu": "4eaee35d-58bc-4bbb-9e9c-0602ff71d2af",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af/dao/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af/file/e2dd3aed-14dc-44ba-9224-da39d5a2b2c2"
+        },
+        {
+          "label": "ARON, sňatek 26. 10. 1775 Machov č. 17: vdovec Mathias Girman, tkadlec × Ludmila, dcera Josefa Hanuše",
+          "signatura": "96-1",
+          "detail": "snímek 39",
+          "apu": "d4daa4c7-e32d-44eb-8765-e015dc335fb4",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/d4daa4c7-e32d-44eb-8765-e015dc335fb4/dao/d4daa4c7-e32d-44eb-8765-e015dc335fb4/file/29d01cc4-709d-4ed2-81e3-c2ad2114b28c"
         }
       ]
     }
