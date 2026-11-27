@@ -1073,6 +1073,15 @@
    "velky": "img/zdroje/13-31_s114_velky.jpg",
    "vyrez_soubor": "z13-31-s114-1781-10-08-anton-hausdorf-rosenthal-maria-welcke.jpg"
   },
+  "13-31|124": {
+   "signatura": "13-31",
+   "snimek": 124,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fea1107a-15d0-4e1d-a570-61255668df2f/dao/fea1107a-15d0-4e1d-a570-61255668df2f/file/57fb662f-e9ee-4b0d-a3e2-4d37d62d4c1d",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/13-31_s124.jpg",
+   "velky": "img/zdroje/13-31_s124_velky.jpg",
+   "vyrez_soubor": "z13-31-s124-oddani-Broumov-5-9-1783-pag-234-235-bez-dauera.jpg"
+  },
   "13-32|70": {
    "signatura": "13-32",
    "snimek": 70,
@@ -2581,6 +2590,24 @@
    "velky": "img/zdroje/171-10_s024_velky.jpg",
    "vyrez_soubor": "s024-index-narozenych-lit-B-1753-1796-Bek-vice-Ignazu-1753-1761.jpg"
   },
+  "171-10|39": {
+   "signatura": "171-10",
+   "snimek": 39,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/99630e87-b1e2-4ff1-bca5-b8e3de72419d/dao/99630e87-b1e2-4ff1-bca5-b8e3de72419d/file/4b54eeec-2787-4ec3-b968-a25c3fb4be5b",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-10_s039.jpg",
+   "velky": "img/zdroje/171-10_s039_velky.jpg",
+   "vyrez_soubor": "s039-index-zemrelych-lit-B-1754-1778-Bek-Ignatz-1771-Joseph-1775.jpg"
+  },
+  "171-10|40": {
+   "signatura": "171-10",
+   "snimek": 40,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/99630e87-b1e2-4ff1-bca5-b8e3de72419d/dao/99630e87-b1e2-4ff1-bca5-b8e3de72419d/file/2f32ea15-759f-4bea-b3d2-4fc1cf3dc8f2",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-10_s040.jpg",
+   "velky": "img/zdroje/171-10_s040_velky.jpg",
+   "vyrez_soubor": "s040-index-zemrelych-lit-B-1778-1799-Bek-Joseph-1787-Ignatz-1791-1798.jpg"
+  },
   "171-10|46": {
    "signatura": "171-10",
    "snimek": 46,
@@ -2617,6 +2644,15 @@
    "velky": "img/zdroje/171-2_s129_velky.jpg",
    "vyrez_soubor": "s129-oddani-23-2-1784-Benatky6-Andreas-syn-zemr-Franze-Prosse-zahradnika-x-Katharina-dcera-Johanna-Rolecka-sedlaka-Maly-Uhrinov.jpg"
   },
+  "171-2|16": {
+   "signatura": "171-2",
+   "snimek": 16,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922/dao/ae8057d2-4543-4429-836f-2da5eee0f922/file/bafeadd5-121d-4987-a2f3-f5814c3b7cb4",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-2_s016.jpg",
+   "velky": "img/zdroje/171-2_s016_velky.jpg",
+   "vyrez_soubor": "s016-krest-12-7-1757-Bukovy-Ignatius-Jagner-ne-Katharina-Seibert-kmotr-Georg-Seibert-Benatky.jpg"
+  },
   "171-2|172": {
    "signatura": "171-2",
    "snimek": 172,
@@ -2625,6 +2661,33 @@
    "nahled": "img/zdroje/171-2_s172.jpg",
    "velky": "img/zdroje/171-2_s172_velky.jpg",
    "vyrez_soubor": "s172-umrti-30-10-1775-Maly-Uhrinov34-Ludmila-manzelka-Josepha-Beka-zahradnika-53-let.jpg"
+  },
+  "171-2|173": {
+   "signatura": "171-2",
+   "snimek": 173,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922/dao/ae8057d2-4543-4429-836f-2da5eee0f922/file/3ae0f270-3ca2-4da2-9c30-26717b402f2a",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-2_s173.jpg",
+   "velky": "img/zdroje/171-2_s173_velky.jpg",
+   "vyrez_soubor": "s173-umrti-13-a-16-11-1775-Maly-Uhrinov34-Magdalena-18-a-Joseph-26-deti-Josepha-Beka.jpg"
+  },
+  "171-2|180": {
+   "signatura": "171-2",
+   "snimek": 180,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922/dao/ae8057d2-4543-4429-836f-2da5eee0f922/file/8d4f7fb7-d259-48c2-a4f0-dc7acc28918a",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-2_s180.jpg",
+   "velky": "img/zdroje/171-2_s180_velky.jpg",
+   "vyrez_soubor": "s180-umrti-8-5-1781-Benatky6-Franciscus-Pross-zahradnik-70-let.jpg"
+  },
+  "171-2|182": {
+   "signatura": "171-2",
+   "snimek": 182,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922/dao/ae8057d2-4543-4429-836f-2da5eee0f922/file/93b7dc56-2a15-4cfb-98de-97b276620e2b",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-2_s182.jpg",
+   "velky": "img/zdroje/171-2_s182_velky.jpg",
+   "vyrez_soubor": "s182-umrti-3-4-1782-Bukovy1-Joannes-Christophorus-Rolecek-zahradnik-54-a-22-6-1782-Georg-Rolecek-Benatky3-pad-ze-stromu.jpg"
   },
   "171-2|23": {
    "signatura": "171-2",
@@ -2706,6 +2769,24 @@
    "nahled": "img/zdroje/171-4_s005.jpg",
    "velky": "img/zdroje/171-4_s005_velky.jpg",
    "vyrez_soubor": "s005-oddani-5-8-1823-Benatky6-Josef-Pross-zahradnik-vdovec-37-x-Agatha-vdova-po-Josefu-Pibrt-mlynari-35.jpg"
+  },
+  "171-9|37": {
+   "signatura": "171-9",
+   "snimek": 37,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a56cfc73-d272-4f88-aef6-feafbf1fa353/dao/a56cfc73-d272-4f88-aef6-feafbf1fa353/file/9d679209-2403-4c5c-92cb-691aa876ae28",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-9_s037.jpg",
+   "velky": "img/zdroje/171-9_s037_velky.jpg",
+   "vyrez_soubor": "s037-umrti-17-3-1787-Maly-Uhrinov34-Joseph-Beck-75-let.jpg"
+  },
+  "171-9|38": {
+   "signatura": "171-9",
+   "snimek": 38,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a56cfc73-d272-4f88-aef6-feafbf1fa353/dao/a56cfc73-d272-4f88-aef6-feafbf1fa353/file/a7fb7650-7904-4660-af07-a0f326d61f3a",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-9_s038.jpg",
+   "velky": "img/zdroje/171-9_s038_velky.jpg",
+   "vyrez_soubor": "s038-umrti-10-9-1791-Maly-Uhrinov34-Ignatz-syn-Ignatze-Becka-2-roky-Frass.jpg"
   },
   "171-9|41": {
    "signatura": "171-9",
