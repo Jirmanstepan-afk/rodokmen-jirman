@@ -34,7 +34,11 @@ V knize zemřelých jsem pak našel, že 16. srpna 1792 zemřela ve stejném dom
 
 V č. 74 se Georgovi narodily děti už dávno předtím. Dne 12. prosince 1780 byl pokřtěn Johann Joseph, matkou byla Elisabeth Mäyerin a kmotrem Joseph Rosenberg, chalupník z Vižňova.[^141-7599/342: narození Johanna Josepha Dauße 12. 12. 1780, č. 74] Dne 27. října 1785 se narodil Joseph a matkou tu je A. Maria Meyßnerin.[^141-1/10: narození Josepha Dauße 27. 10. 1785, č. 74] Index narozených přidává ještě A. Marii (1781 a 1784) a Johanna Georga (1787).[^141-4251/19: index narozených lit. D, děti Georga Dauera č. 74]
 
-> Domněnka: Vychází mi z toho, že Barbara byla Georgova třetí žena: nejdřív Elisabeth Mayerová, pak A. Maria Meißnerová, která zemřela v srpnu 1792, a nakonec Barbara. Opatrný ale musím být kvůli tomu, že v sousedním č. 35 žil Anton Dauer s manželkou Elisabeth Meyerovou, a písař mohl matky v letech 1780–1781 zaměnit. Jistě vím jen to, že Georg byl v roce 1792 vdovec.
+Pro rok 1783 jsem pak v knize zemřelých našel dva zápisy z č. 74 krátce po sobě. Dne 24. dubna 1783 zemřelo „George Daußers nothgetauftes Kind“, tedy dítě, které porodní bába stihla jen nouzově pokřtít. O měsíc později, 26. května 1783, zemřela „George Daußers des Häuslers Ehewirthin Elisabeth“. Bylo jí 30 let.[^141-7599/657: úmrtí dítěte 24. 4. 1783 a Elisabeth, manželky George Daußera, 26. 5. 1783, Ruprechtice č. 74] Tím je jisté, že Barbara byla Georgova třetí žena. První byla Elisabeth Mayerová, druhá A. Maria Meißnerová, která zemřela v srpnu 1792.
+
+![141-7599/657] Zemřelí v Ruprechticích na jaře 1783: nouzově pokřtěné dítě a o měsíc později Elisabeth, žena chalupníka George Daußera z č. 74.
+
+> Domněnka: Elisabeth zemřela měsíc po porodu dítěte, které nepřežilo. Myslím, že zemřela na následky porodu, ale zápis uvádí jen věk, ne příčinu. Druhou svatbu (s A. Marií Meißnerovou) jsem v Ruprechticích nenašel, nejspíš proběhla ve farnosti nevěsty.
 
 ### Zajímavosti
 

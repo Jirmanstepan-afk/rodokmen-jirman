@@ -42,13 +42,23 @@ Proč byli oba ovdovělí, ukázala kniha zemřelých. Mlynář Josef Pibrt zem�
 
 > Domněnka: Vdovec se čtyřletou zkušeností se smrtí dětí a vdova po mlynáři ze sousedního domu se vzali necelý rok po obou pohřbech. Myslím, že v malé osadě to byla spíš nutnost než romance: hospodářství s malými dětmi bez ženy i vdova bez muže se těžko udržely. Je to ale můj výklad.
 
+## Kořeny v Benátkách a v Malém Uhřínově
+
+[[josef-pross|Josef Proß]] se narodil 22. července 1786 v Benátkách č. 6 a byl pokřtěn jako Franz Joseph. Jeho rodiče byli zahradník [[andreas-pross|Andreas Proß]] a [[katharina-pross|Katharina]].[^171-3/78: narození Franz Josepha Proße 22. 7. 1786, Benátky č. 6] Že jde o něj, vím z jeho prvního sňatku v roce 1808. Tam stojí „Joseph Proß, Sohn des verstorbenen Andreas Proß, Gärtners aus N. 6“. Věk 37 let v roce 1823 sedí přesně a jiný Joseph se Andreasovi v Benátkách nenarodil. Otec Andreas v roce 1808 už nežil.[^171-4/5: první sňatek Josefa Proße 17. 2. 1808, „syn zemřelého Andrease Proße, zahradníka z č. 6“]
+
+![171-3/78] Křty v Benátkách 1784–1787. Dne 22. července 1786 v č. 6 Franz Joseph, syn Andrease Proße a Kathariny.
+
+[[agathe-pross|Agatha]] se narodila 4. února 1788 v Malém Uhřínově (Kleinaurim) č. 34. Byla dcerou [[ignaz-leik|Ignaze Leika]] a [[katharina-leik|Kathariny]]. Pokřtil ji kurát Gallus Hawel.[^171-3/51: narození Agathy Leikové 4. 2. 1788, Malý Uhřínov č. 34] Příjmení Leik je stejné jako ve svatebním zápisu jejího syna z roku 1858. Čitelně ho napsal farář i u jejího staršího bratra Antona, narozeného 1. září 1785.[^171-3/50: narození Antona Leika 1. 9. 1785, Malý Uhřínov č. 34]
+
+![171-3/51] Křest Agathy, dcery Ignaze Leika, v Malém Uhřínově 4. února 1788.
+
 ### Zajímavosti
 
 - Josef Proß se poprvé ženil už 17. února 1808, ve 20 letech, opět v č. 6. Jako ženich je zapsán „syn †Andrease(?) Proße“ a nevěsta byla Barbara(?), dcera Josefa Pibrta(?). Jména čtu nejistě, proto jsou jen v dotazu.[^171-4/5: první sňatek Josefa Proße 17. 2. 1808]
 - V knize narozených Benátek 1784–1787 je 22. července 1786 v č. 6 pokřtěn Franz Joseph, syn Andrease Proße a Kathariny. Věkem by to mohl být náš Josef.[^171-3/78: narození Benátky 1784–1787, Franz Joseph 22. 7. 1786 č. 6] [?q-pross-dorner-puvod]
 - Proßů bylo v Benátkách víc: Christoph v č. 3, Ignaz v č. 2, Franz v č. 3. V roce 1818 si Margaretha, dcera zemřelého Christopha, vzala Franze, syna obchodníka(?) Karla Proße z Langenbrücku(?) v Kladsku. Je to první stopa, že Proßové mohli mít příbuzné za tehdejší hranicí v Kladsku.
 
-> Domněnka: Rodné příjmení Agathy znám jen z roku 1858 („Leik?“ z Malého Uhřínova). V roce 1814 se v Benátkách č. 4 oženil mlynář-vdovec Franz Joseph Pibrt(?), 55 let, s šestadvacetiletou Gertrudou, dcerou zahradníka Ignaze Lenka(?) z Malého Uhřínova. Věk i původ by na Agathu seděly, ale křestní jméno ne. Proto to nechávám jako otevřený dotaz.[^171-4/5: sňatek 8. 2. 1814 Pibrt × Gertruda Lenk(?)]
+> Domněnka: Agatha se narodila 4. února 1788. Dne 8. února 1814, tedy přesně v jejích 26 letech, se v Benátkách č. 4 oženil mlynář-vdovec Franz Joseph Pibrt(?), 55 let, s šestadvacetiletou Gertrudou, dcerou zahradníka Ignaze L…(?) z Malého Uhřínova. Jinou Gertrudu jsem v Malém Uhřínově v letech 1787–1788 nenašel. V roce 1814 se v Benátkách č. 4 oženil mlynář-vdovec Franz Joseph Pibrt(?), 55 let, s šestadvacetiletou Gertrudou, dcerou zahradníka Ignaze Lenka(?) z Malého Uhřínova. Věk, otec i obec na Agathu sedí, křestní jméno ne. Proto to nechávám jako otevřený dotaz.[^171-4/5: sňatek 8. 2. 1814 Pibrt × Gertruda Lenk(?)]
 
 ## Ze Sedloňova do Martínkovic
 

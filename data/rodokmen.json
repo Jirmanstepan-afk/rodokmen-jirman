@@ -2929,11 +2929,12 @@
         "Jméno Georg je shodně ve sňatku vnučky 1873 a v rodných zápisech 1845 a 1846. V oddacím zápisu dcery 22. 11. 1841 je otec Dauer z č. 117; kdyby se křestní jméno v tom zápisu četlo jinak, neslučovat potichu — viz otevřené dotazy.",
         "Při sňatku s Barbarou Ringelovou 9. 10. 1792 (141-3 snímek 10, Pag. 14) má ženich jedničku ve sloupci „Witwer“ (vdovec), ne „Unverehelicht“ – čteno podle polohy ve sloupcích (srovnáno s dalšími ženichy na téže straně); nevěsta má jedničku ve sloupci „Unverehelicht“ (svobodná).",
         "16. 8. 1792 zemřela v Ruprechticích č. 74 „A. Maria Daußin“, 34 let, na úbytě (Abzehrung); pohřbil farář Heinrich Tauchmann (141-5 snímek 14, Pag. 22; index 141-4254 snímek 7). Manžel v zápisu uveden není, dům i čas ale sedí → q-georg-dauer-predchozi-manzelky.",
-        "V č. 74 se Georgu (George) Daußovi, chalupníkovi, narodily děti už před rokem 1792: Johann Joseph 12. 12. 1780, matka Elisabeth Mäyerin (141-7599 snímek 342, Pag. 604; kmotr Joseph Rosenberg, chalupník z Vižňova); A. Maria 23. 12. 1781, matka Elisab. Meyerin; A. Maria 1784, Joseph 27. 10. 1785 (141-1 snímek 10, Pag. 14) a Joh. Georg 1787, matka A. Maria Meyßnerin/Meißnerin (index 141-4251 snímek 19). Děti z dřívějších manželství jen v poznámce, do stromu nejdou."
+        "V č. 74 se Georgu (George) Daußovi, chalupníkovi, narodily děti už před rokem 1792: Johann Joseph 12. 12. 1780, matka Elisabeth Mäyerin (141-7599 snímek 342, Pag. 604; kmotr Joseph Rosenberg, chalupník z Vižňova); A. Maria 23. 12. 1781, matka Elisab. Meyerin; A. Maria 1784, Joseph 27. 10. 1785 (141-1 snímek 10, Pag. 14) a Joh. Georg 1787, matka A. Maria Meyßnerin/Meißnerin (index 141-4251 snímek 19). Děti z dřívějších manželství jen v poznámce, do stromu nejdou.",
+        "Úmrtí 1783 (141-7599 snímek 657): 24. 4. 1783 „George Daußers Nothgetauftes Kind“, č. 74 (dítě nouzově pokřtěné, zemřelo hned po porodu); 26. 5. 1783 „George Daußers des Häuslers Ehewirthin Elisabeth“, č. 74, 30 let. Tím je jisté, že Elisabeth (Mayer/Meyer) byla Georgova manželka a zemřela; matka dětí od 1784 je A. Maria Meißner(ová), † 16. 8. 1792. Barbara Ringelová byla tedy jeho třetí ženou."
       ],
       "interesting": [
         "Barbaru Ringelovou si vzal 54 dní po pohřbu předchozí ženy: A. Maria Daußin z č. 74 zemřela 16. 8. 1792, svatba byla 9. 10. 1792 (141-5 snímek 14; 141-3 snímek 10). Domácnost s malými dětmi (Joseph *1785, Joh. Georg *1787) potřebovala hospodyni.",
-        "Podle matrik měl Georg nejspíš tři manželky: v letech 1780–1781 je matkou jeho dětí Elisabeth Mayer(ová), 1784–1787 A. Maria Meißner(ová) a od 1792 Barbara Ringelová. Že jde o dvě různé předchozí ženy, a ne o písařovu záměnu, zatím nevím jistě (q-georg-dauer-predchozi-manzelky).",
+        "Georg měl tři manželky: Elisabeth Mayer(ová) (děti 1780, 1781, nouzově pokřtěné dítě † 24. 4. 1783; ona † 26. 5. 1783 ve 30 letech, měsíc po porodu), A. Maria Meißner(ová) (děti 1784–1787; † 16. 8. 1792, 34 let) a od 9. 10. 1792 Barbara Ringelová (141-7599 snímky 342, 657; 141-1 snímek 10; 141-5 snímek 14).",
         "Týden po svatbě, 16. 10. 1792, prošel matriku při kanonické vizitaci biskupský vikář („Vidi in Visitatione Canonica… Franc. Boskowsky(?)“) a připsal to hned pod Georgův zápis (141-3 snímek 10).",
         "Kmotrem Georgova syna v roce 1780 byl Joseph Rosenberg, chalupník z Vižňova (Wiesen) – příjmení, které se v rodokmenu objevuje i v jiné větvi; o jakého Josepha jde, nevím (141-7599 snímek 342)."
       ],
@@ -3017,6 +3018,12 @@
           "signatura": "141-4254",
           "detail": "snímek 7, Seite 22 (1792)",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/a7ba0d4e-7eba-4c6c-93b8-c6075466b1f3/dao/a7ba0d4e-7eba-4c6c-93b8-c6075466b1f3/file/db57ebd9-92c2-4958-a79c-b02f7c604f1c"
+        },
+        {
+          "label": "ARON, úmrtí 24. 4. a 26. 5. 1783",
+          "signatura": "141-7599",
+          "detail": "snímek 657, Ruprechtice č. 74",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/9158442c-71b3-4363-b176-9991a80cf92d"
         }
       ]
     },
@@ -4028,9 +4035,11 @@
       "name": "Josef Proß",
       "maiden": null,
       "birth": {
-        "display": "kolem 1786",
-        "precision": "circa",
-        "note": "37 let při 2. sňatku 5. 8. 1823 (171-4 snímek 5); 20 let při 1. sňatku 17. 2. 1808. Kandidátní křest 22. 7. 1786 viz q-pross-dorner-puvod."
+        "display": "22. 7. 1786, Benátky č. 6",
+        "precision": "exact",
+        "date": "1786-07-22",
+        "place": "Benátky č. 6",
+        "note": "Pokřtěn jako „Franz Joseph“, syn Andrease Proße a Kathariny (171-3 snímek 78). Ztotožnění: v 1. sňatku 17. 2. 1808 je ženich „Joseph Proß, Sohn des verstorbenen Andreas Proß, Gärtners aus N. 6“ (171-4 snímek 5, znovu přečteno); věk 37 v srpnu 1823 sedí přesně; jiný Joseph syn Andrease v Benátkách 1784–1788 není (Andreasovi se tu rodí Martha 1785, Franz Joseph 1786, Andreas 1788)."
       },
       "baptism": null,
       "death": null,
@@ -4071,27 +4080,43 @@
           "signatura": "171-4",
           "detail": "snímek 25, pag. 3",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/917979c4-1830-4d14-b063-7753fc188b14/dao/917979c4-1830-4d14-b063-7753fc188b14/file/5f45d0f0-604a-446c-b2ab-3492565b4bdf"
+        },
+        {
+          "label": "ARON, narození 22. 7. 1786",
+          "signatura": "171-3",
+          "detail": "snímek 78, Benátky pag. 1, dům 6",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/dao/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/file/c5827436-ba28-440e-b64d-17def8d2635f"
+        },
+        {
+          "label": "ARON, sňatek 17. 2. 1808",
+          "signatura": "171-4",
+          "detail": "snímek 5, oddaní Benátky, dům 6",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/917979c4-1830-4d14-b063-7753fc188b14/dao/917979c4-1830-4d14-b063-7753fc188b14/file/554d95c9-9e8a-43f6-a0e7-3a453624f012"
         }
       ],
       "notes": [
         "Feldgärtner v Benátkách (Benatek) č. 6 – ve sňatku syna 1858 (144-3943 snímek 77) obec dříve čtena „Bauratal / Lanatal“; Bezirksamt Reichenau (Rychnov n. Kn.).",
         "Sňatek 5. 8. 1823 Benátky č. 6 (171-4 snímek 5): Joseph Proß, zahradník, vdovec, 37 let × Agatha, vdova po †Josefu Pibrtovi(?), mlynáři, 35 let; svědci Franz Pibrt(?), mlynář v Benátkách, a Anna, žena Franze Pibrta(?), resp. Ignaz Lenk(?), domkář; oddával farář Joseph Urner(?).",
         "První manželka Barbara zemřela 7.(?) 9. 1822 v č. 6, 35 let, v šestinedělí; den předtím zemřel novorozený syn Ignaz (2¼ hodiny, slabost při porodu) (171-4 snímek 25). Dřívější dítě Joseph †1. 2. 1821, 1 den, psotník (Fraiß). Po 2. sňatku syn Anton *†14. 2. 1824 (mrtvě narozený), pak Anton *16. 4. 1828 (171-4 snímky 15, 25).",
-        "První sňatek 17. 2. 1808 Benátky č. 6 (171-4 snímek 5): Joseph Proß, syn †Andrease(?) Proße z č. 6, 20 let × Barbara(?), dcera Josefa Pibrta(?) z Benátek, 19(?) let – čtení jmen nejisté, vedeno v dotazu."
+        "První sňatek 17. 2. 1808 Benátky č. 6 (171-4 snímek 5): Joseph Proß, syn †Andrease(?) Proße z č. 6, 20 let × Barbara(?), dcera Josefa Pibrta(?) z Benátek, 19(?) let – čtení jmen nejisté, vedeno v dotazu.",
+        "Otec Andreas Proß, zahradník v Benátkách č. 6, zemřel před únorem 1808 („verstorbenen“); v knize zemřelých Benátek 1800–1810 (171-4 snímek 24) není → zemřel nejspíš 1789–1799 (zápisy jsou ve velkouhřínovské knize 171-9, nečteno)."
       ],
       "interesting": [
         "Josef a Agatha ovdověli v tomtéž týdnu: mlynář Josef Pibrt(?) zemřel 6. 9. 1822 v č. 4, Josefova žena Barbara 7.(?) 9. 1822 v sousedním č. 6. Za necelý rok se vdovec a vdova vzali (171-4 snímky 5 a 25).",
-        "Ze čtyř dětí, které jsem v Benátkách k Josefovi našel do roku 1828, přežil jen Anton *1828 (171-4 snímky 15, 25)."
+        "Ze čtyř dětí, které jsem v Benátkách k Josefovi našel do roku 1828, přežil jen Anton *1828 (171-4 snímky 15, 25).",
+        "Při křtu dostal jména Franz Joseph, celý život ale vystupuje jen jako Joseph. Kmotrou byla Elisabetha Druin(?), domkářka (171-3 snímek 78)."
       ]
     },
     {
       "id": "agathe-pross",
       "name": "Agathe Proßová",
-      "maiden": null,
+      "maiden": "Leik",
       "birth": {
-        "display": "kolem 1788",
-        "precision": "circa",
-        "note": "35 let při sňatku 5. 8. 1823 (171-4 snímek 5)."
+        "display": "4. 2. 1788, Malý Uhřínov č. 34",
+        "precision": "exact",
+        "date": "1788-02-04",
+        "place": "Malý Uhřínov č. 34",
+        "note": "171-3 snímek 51 (oddíl Kleinaurim): Agatha, dcera Ignaze Leika a Kathariny; kmotři Susanna Rosterin(?), panna, a Karl Krisel(?), mládenec; křtil kurát Gallus Hawel. Ztotožnění: sňatek syna 1858 „geb. Leik aus Klein-Aurim“, věk 35 v srpnu 1823 sedí přesně; příjmení Leik je čitelně i u sourozence Antona 1. 9. 1785 (snímek 50)."
       },
       "baptism": null,
       "death": null,
@@ -4132,14 +4157,28 @@
           "signatura": "171-4",
           "detail": "snímek 25, pag. 3",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/917979c4-1830-4d14-b063-7753fc188b14/dao/917979c4-1830-4d14-b063-7753fc188b14/file/5f45d0f0-604a-446c-b2ab-3492565b4bdf"
+        },
+        {
+          "label": "ARON, narození 4. 2. 1788",
+          "signatura": "171-3",
+          "detail": "snímek 51, Kleinaurim (Malý Uhřínov) 1787–1788, dům 34",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/dao/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/file/074469c8-3a3f-4fdc-832d-f363ce374183"
+        },
+        {
+          "label": "ARON, narození 1. 9. 1785 (sourozenec Anton)",
+          "signatura": "171-3",
+          "detail": "snímek 50, Kleinaurim pag. 1, dům 34",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/dao/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/file/cb4940fd-9e69-4b97-9c52-34568914d9d9"
         }
       ],
       "notes": [
         "Manželka Josefa Proße, matka Antona *kolem 1828. Původem z Malého Uhřínova (Klein-Aurim). Rodné příjmení se čte opatrně (Lux / Leik / podobně) — neuvádí se, viz q-pross-dorner-puvod.",
-        "Při sňatku 5. 8. 1823 v Benátkách vdova („Witib“) po †Josefu Pibrtovi(?), mlynáři – ten zemřel 6. 9. 1822 v Benátkách č. 4 na úbytě (Abzehrung), 6? let (171-4 snímky 5 a 25). Rodné příjmení zatím jen ze sňatku syna 1858 („Leik?“ z Klein-Aurim = Malý Uhřínov); kandidátní sňatek 1814 viz q-pross-dorner-puvod."
+        "Při sňatku 5. 8. 1823 v Benátkách vdova („Witib“) po †Josefu Pibrtovi(?), mlynáři – ten zemřel 6. 9. 1822 v Benátkách č. 4 na úbytě (Abzehrung), 6? let (171-4 snímky 5 a 25). Rodné příjmení zatím jen ze sňatku syna 1858 („Leik?“ z Klein-Aurim = Malý Uhřínov); kandidátní sňatek 1814 viz q-pross-dorner-puvod.",
+        "Sourozenec: Anton *1. 9. 1785 Malý Uhřínov č. 34 (171-3 snímek 50). Rodný list obce Kleinaurim 1784–1797 je v 171-3 na snímcích ~50–53."
       ],
       "interesting": [
-        "Byla dvakrát vdaná do Benátek: nejdřív za mlynáře o generaci staršího (domněnka podle kandidátního zápisu 1814: jemu 55, jí 26), podruhé za souseda, zahradníka Josefa Proße (171-4 snímek 5)."
+        "Byla dvakrát vdaná do Benátek: nejdřív za mlynáře o generaci staršího (domněnka podle kandidátního zápisu 1814: jemu 55, jí 26), podruhé za souseda, zahradníka Josefa Proße (171-4 snímek 5).",
+        "Narodila se v únoru 1788 a v únoru 1814 se v Benátkách vdávala „Gertruda, dcera Ignaze L…, zahradníka v Kl. Aurim“, přesně 26letá. Jiná Gertruda se v Malém Uhřínově v letech 1787–1788 nenarodila – je proto dost možné, že farář v roce 1814 Agathu zapsal pod jiným jménem. Domněnka, viz q-pross-dorner-puvod."
       ]
     },
     {
@@ -8500,6 +8539,134 @@
         "Otec Karla Kubečka; v zápisu sňatku 1800 „Jiřík Kubeček z Machova“, zemřelý. Manželka neuvedena."
       ],
       "interesting": []
+    },
+    {
+      "id": "andreas-pross",
+      "name": "Andreas Proß",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Zahradník (Gärtner), Benátky č. 6.",
+      "places": [
+        "Benátky č. 6"
+      ],
+      "branch": "pross",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 22. 7. 1786",
+          "signatura": "171-3",
+          "detail": "snímek 78, Benátky pag. 1, dům 6",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/dao/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/file/c5827436-ba28-440e-b64d-17def8d2635f"
+        },
+        {
+          "label": "ARON, sňatek 17. 2. 1808",
+          "signatura": "171-4",
+          "detail": "snímek 5, oddaní Benátky, dům 6",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/917979c4-1830-4d14-b063-7753fc188b14/dao/917979c4-1830-4d14-b063-7753fc188b14/file/554d95c9-9e8a-43f6-a0e7-3a453624f012"
+        }
+      ],
+      "notes": [
+        "Otec Josefa (Franz Josepha) *22. 7. 1786 (171-3 snímek 78); ve sňatku syna 17. 2. 1808 už „verstorben“ (171-4 snímek 5). Další děti v č. 6: Martha 2. 2. 1785, Andreas 2. 3. 1788 (171-3 snímky 78–79). Od 1789 je v č. 6 jiný otec (Friedrich Nitzgebauer?)."
+      ],
+      "interesting": [
+        "V Benátkách žila v 80. letech 18. století ještě rodina Christopha Proße v č. 3 – jeho žena se také jmenovala Katharina. Příbuzenský vztah obou mužů neznám."
+      ]
+    },
+    {
+      "id": "katharina-pross",
+      "name": "Katharina Proßová",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Manželka zahradníka Andrease Proße, Benátky č. 6.",
+      "places": [
+        "Benátky č. 6"
+      ],
+      "branch": "pross",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 22. 7. 1786",
+          "signatura": "171-3",
+          "detail": "snímek 78, Benátky pag. 1, dům 6",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/dao/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/file/c5827436-ba28-440e-b64d-17def8d2635f"
+        }
+      ],
+      "notes": [
+        "Matka Josefa (Franz Josepha) *22. 7. 1786; rodné příjmení v zápisu neuvedeno (171-3 snímek 78)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "ignaz-leik",
+      "name": "Ignaz Leik",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "V Malém Uhřínově č. 34 (1785, 1788); 1814 snad zahradník v Kl. Aurim (čtení nejisté).",
+      "places": [
+        "Malý Uhřínov č. 34"
+      ],
+      "branch": "pross",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 4. 2. 1788",
+          "signatura": "171-3",
+          "detail": "snímek 51, Kleinaurim (Malý Uhřínov) 1787–1788, dům 34",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/dao/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/file/074469c8-3a3f-4fdc-832d-f363ce374183"
+        },
+        {
+          "label": "ARON, narození 1. 9. 1785 (sourozenec Anton)",
+          "signatura": "171-3",
+          "detail": "snímek 50, Kleinaurim pag. 1, dům 34",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/dao/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/file/cb4940fd-9e69-4b97-9c52-34568914d9d9"
+        }
+      ],
+      "notes": [
+        "Otec Agathy *4. 2. 1788 a Antona *1. 9. 1785 (171-3 snímky 50–51). Příjmení psáno Leik."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "katharina-leik",
+      "name": "Katharina Leiková",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "Manželka Ignaze Leika, Malý Uhřínov č. 34.",
+      "places": [
+        "Malý Uhřínov č. 34"
+      ],
+      "branch": "pross",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 4. 2. 1788",
+          "signatura": "171-3",
+          "detail": "snímek 51, Kleinaurim (Malý Uhřínov) 1787–1788, dům 34",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/dao/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/file/074469c8-3a3f-4fdc-832d-f363ce374183"
+        },
+        {
+          "label": "ARON, narození 1. 9. 1785 (sourozenec Anton)",
+          "signatura": "171-3",
+          "detail": "snímek 50, Kleinaurim pag. 1, dům 34",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/dao/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/file/cb4940fd-9e69-4b97-9c52-34568914d9d9"
+        }
+      ],
+      "notes": [
+        "Matka Agathy *4. 2. 1788; rodné příjmení v zápisu neuvedeno (171-3 snímek 51)."
+      ],
+      "interesting": []
     }
   ],
   "unions": [
@@ -11508,6 +11675,50 @@
       "notes": [
         "Rodiče Karla Kubečka (sňatek 1800); matka v zápisu neuvedena."
       ]
+    },
+    {
+      "id": "u-andreas-pross-katharina",
+      "partners": [
+        "andreas-pross",
+        "katharina-pross"
+      ],
+      "children": [
+        "josef-pross"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, narození 22. 7. 1786",
+          "signatura": "171-3",
+          "detail": "snímek 78, Benátky pag. 1, dům 6",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/dao/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/file/c5827436-ba28-440e-b64d-17def8d2635f"
+        },
+        {
+          "label": "ARON, sňatek 17. 2. 1808",
+          "signatura": "171-4",
+          "detail": "snímek 5, oddaní Benátky, dům 6",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/917979c4-1830-4d14-b063-7753fc188b14/dao/917979c4-1830-4d14-b063-7753fc188b14/file/554d95c9-9e8a-43f6-a0e7-3a453624f012"
+        }
+      ]
+    },
+    {
+      "id": "u-ignaz-leik-katharina",
+      "partners": [
+        "ignaz-leik",
+        "katharina-leik"
+      ],
+      "children": [
+        "agathe-pross"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, narození 4. 2. 1788",
+          "signatura": "171-3",
+          "detail": "snímek 51, Kleinaurim (Malý Uhřínov) 1787–1788, dům 34",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/dao/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/file/074469c8-3a3f-4fdc-832d-f363ce374183"
+        }
+      ]
     }
   ],
   "identifications": [],
@@ -12350,7 +12561,7 @@
       "id": "q-pross-dorner-puvod",
       "title": "Proß a Dörner — původ Josefa Proße a rodná příjmení Agathe a Marie",
       "summary": "Sňatek Anton Proß × Franziska Dörner 15. 6. 1858 (144-3943, snímek 77) a narození Antona 13. 7. 1866 (144-3938, snímek 62) jmenují Josefa Proße, zahradníka v č. 6, a Agathe z Malého Uhřínova; Johanna Dörnera ze Sedloňova č. 32 a Marii z Janova č. 26.",
-      "details": "Franziska Dörner *8. 6. 1838 Sedloňov č. 39 doložena (144-3937 snímek 8); její děd Karl Dörner (Sedloňov 47) × Susanna Herzig přidáni; sňatek 20. 11. 1792 (144-5 snímek 96) a narození Johanna 12. 9. 1800 (144-2 snímek 110) doloženy. Rozpor: zápis 1838 jmenuje otcem Susanny Antona Herziga, chalupníka č. 114, ale zápisy 1792 a 1800 shodně † Adama Herziga; Anton Herzig, syn po † Adamovi, se ženil 29. 1. 1793 (144-5 snímek 96, dům 48) — byl to tedy její bratr. V mapě je otcem Adam. Křest Karla Dörnera: index 144-6 snímek 7 má Karly 5. 4. 1763 (s. 1), 1766 (s. 28, 144-2 snímek 19 — syn Johanna a Anny Dorothey, ne Christopha) a 11/1768 (s. 40, 144-2 snímek 25 — syn Johanna Christopha Dörnera a Susanny). Kandidát 1768 nesedí přesně s věkem 25 v roce 1792; nezapsáno. Karl 5. 4. 1763 (144-2 snímek 5) je syn Melchiora Dörnera a Dorothey — vyloučen (výřez vypisy/_sheets/144-2/z144-2-s5-1763-04-karl-dorner-syn-melchiora.jpg). Jediným kandidátem se jménem otce Christoph tak zůstává Karl 11/1768. Nejisté: rodné příjmení Marie Dörnerové — 1838 dcera Franze „Czwentaczka(?)“, chalupníka v Janově č. 26, a Marie, dcery Antona „Ulrich(?)“ z Janova č. 28 (panství Opočno); 1858 čteno „Czerlaika / Lwotaika“. Proß: Anton st. *kolem 1828 v sedloňovském indexu 1825–1838 (144-3, snímek 90, písmeno P) NENÍ — narodil se jinde. Obec otce Josefa (č. 6) čtena „Bauratal / Banatal(?)“, matka Agathe roz. „Beik / Leik(?)“ z „Klein-Aurim“ č. 2, Bezirksamt čten „Aicheneu / Auscherau(?)“ — neidentifikováno; možná Malá Úpa (Klein-Aupa) a okres Maršov, ověřit. Další krok: Janov u Sedloňova — fara Sedloňov? (Janov patří k Opočnu, fara pravděpodobně Bystré / Olešnice); identifikace obce Proßů. Kolo 25. 11. 2026 (noc): sňatek Johann Dörner × Maria v Bystrém NENÍ — Janov 1811–1826 (14-4 snímky 55–56, 69–73) bez Dörnera; index sňatků 14-5 písmeno D 1829–1849 (snímek 198) bez Dörnera („Dinter Johann“ 1840 je jiná osoba). Svatba byla nejspíš ve farnosti ženicha (Sedloňov?) nebo jinde. Kolo 25. 11. 2026 (ráno): sňatek Johann Dörner × Maria NENÍ ani v sedloňovském indexu oddaných 144-7 (snímky 7 R–8 L, ženichové Dörner 1795–1880): Johannové 1827 × Theresia Feiner(?), 1830 × Theresia Walsch, 1836 × Theresia Fabel, 5. 11. 1840 × Maria Dörner (tělo 144-3943 snímek 48: Johann, syn Josefa ze Sedloňova č. 50, 31 let × Maria z č. 69 — jiný pár). Svatba Johanna × Marie (Janov č. 26) byla tedy mimo Sedloňov i Bystré. Kolo C (25. 11. 2026): Index zemřelých Sedloňov 144-3946 (snímek 186, oddíl D, 1795–1863) uvádí mezi lety 1800–1838 jediného dospělého Karla Dörnera: str. 52, tj. snímek 31 — 1817, „Carl Dörner, Feldgärtner“, Sedloňov č. 71, 48 let (tj. narozen kolem 1768/69). Jinak je v indexu jen Carl, syn Johanna, 1802 (1 den). Věk 48 podporuje kandidátní křest z listopadu 1768 (144-2 snímek 25), ale dům č. 71 a povolání zahradník se liší od „Weber, č. 47“ (1800), takže zatím nejde o jistou shodu. Christoph Dörner zemřelý 16. 8. 1796 (č. 66) v indexu je jiná osoba, protože otec Karla byl už 1792 nebožtík. Kolo D (25. 11. 2026): Úmrtí Johanna Christopha Dörnera 13. 3. 1791 (Sedloňov č. 47, 79 let; 144-5 snímek 248) je zapsané do mapy. Jméno Johann Christoph a dům 47 dále podporují, že kandidátní křest Carolus z listopadu 1768 (otec Johann Christoph Dörner × Susanna) je náš Karl. Karl je proto silný kandidát; datum narození ale zatím nezapisuji, dokud nebude vyloučen jiný Carolus Dörner z let 1766–1768. Adam Herzig: v Sedloňově je úmrtí 8. 12. 1786, „Adam Herzig“, č. 91, 55 let (144-5 snímek 243), a 7. 8. 1788 Apollonia, vdova po † Adamu Herzigovi, č. 39, 68 let (snímek 246). Je to kandidát na otce Susanny, ale čísla domů (91/39) neodpovídají domům 47/48 a v obci žilo více Herzigů (např. Christoph Herzig). Proto zatím jen zde. Kolo E: Karl (křest 11/1768) a Susanna Herzig (křest 8. 2. 1767) jsou zapsáni do mapy. V dotazu zůstává kandidátní úmrtí Adama Herziga 1786 (vdova Apollonia ≠ matka Maria) a úmrtí Karla 1817 (č. 71). Kolo G2: Janov patří k faře Bystré. Oddací Janov 2/1827–1834 (14-5 snímky 70–71: 26. 2. 1827, 24. 11. 1828, 22. 9. 1831, 5. 11. 1833, 21. 8. 1834) – Dörner není; 21. 8. 1834 se z Janova č. 26 vdává Franziska, dcera Wenzela „Luzar(?)“ – jiná rodina. „Dinter Johann“ 1840 v indexu 14-5 je z Janova č. 4, ne č. 26. Sňatek Johann Dörner × Maria tedy v Bystrém 1811–1849 ani v Sedloňově není. Kolo I: sousední fary nedočteny (čas věnován Klimešovi, Faltům a Hrubým). Kolo P (25. 11. 2026): Olešnice + Polom, index oddaných 119-9 lit. D (snímek 7–8, výřez vypisy/119-9/z119-9-s7-index-d-dorner-1824-1832.jpg, https://aron.vychodoceskearchivy.cz/apu/f0f98951-d61a-48b4-a82c-b3e254211c2c/dao/f0f98951-d61a-48b4-a82c-b3e254211c2c/file/e1cf7b78-452c-4244-a712-0e41715b4554): jediný Johann Dörner × Maria je 21. 11. 1826 v Polomi (pag. 17). Tělo 119-1 snímek 391 (výřez vypisy/119-1/z119-1-s391-1826-11-21-johann-dorner-syn-antona-x-maria-zeuner-odmitnuto.jpg, https://aron.vychodoceskearchivy.cz/apu/c942febb-f341-4f4a-8e83-d80c422e5040/dao/c942febb-f341-4f4a-8e83-d80c422e5040/file/e801cdb2-af6d-4ecf-8b1a-56d2c75290ae): ženich Johann, 24 let, syn Antona Dörnera, sedláka ze Sedloňova; nevěsta Maria, 22 let, dcera Josefa Zeunera(?), sedláka z Polomi č. 68 – ODMÍTNUTO (náš Johann je syn Karla, *1800; nevěsta má být z Janova č. 26). Další Johannové v indexu: 1828 × Theresia Dörner (Polom), 1820–1842 jinak žádný Johann × Maria. Olešnice a Polom tedy negativní. | Kolo BA (27. 11. 2026): obec Proßů VYŘEŠENA – „Bauratal/Lanatal“ = Benatek = Benátky (zaniklá osada, k. ú. Uhřínov, obec Liberk), „Aicheneu/Auscherau“ = Bezirksamt Reichenau (Rychnov n. Kn.). Fara Velký Uhřínov, kniha 171-4 (Benátky NOZ 1784–1850). Jistě: Anton *16. 4. 1828 Benátky č. 6 (snímek 15, okraj: křestní list vydán v květnu 1858); sňatek rodičů 5. 8. 1823 (snímek 5; Josef vdovec 37, Agatha vdova po †Josefu Pibrtovi(?), mlynáři, 35). KANDIDÁTI: (a) narození Josefa – 171-3 snímek 78 (Benátky 1784–1787): 22. 7. 1786 Franz Joseph, č. 6, syn Andrease Proße a Kathariny; věk sedí na 37 let (1823); v 1. sňatku 17. 2. 1808 (171-4 snímek 5) je ženich „syn †Andrease(?) Proße z č. 6“, 20 let; v č. 6 se Andreasovi a Katharině narodili i Martha 2. 2. 1785 a Andreas 2. 3. 1788 (171-3 snímky 78–79); od 1789 je v č. 6 už jiný otec (Friedrich Nitzgebauer?). (b) rodné příjmení Agathy – 171-4 snímek 5: 8. 2. 1814 Benátky č. 4 Franz Joseph Pibrt(?), mlynář, vdovec, 55 × Gertruda, dcera Ignaze Lenka(?), zahradníka v Kl. Aurim (Malý Uhřínov) č. 33(?), 26 let (≈1788 – sedí na Agathu 35 v roce 1823 i na „geb. Leik(?) aus Klein-Aurim“ 1858); ale jméno Gertruda ≠ Agatha. Svědek Ignaz Lenk(?), domkář. Další Proßové v Benátkách: Christoph Proß (č. 3, †1800, 45 let), Ignaz Proß (č. 2, 1784), Franz Proß (č. 3, děti 1826, 1829); 1818 sňatek Franz, syn Karla Proße, obchodníka(?) z Langenbrücku(?) v hrabství Kladském × Margaretha, dcera †Christopha Proße (č. 3) – stopa do Kladska. Negativ: Malý Uhřínov 1784–1797 v 171-3 jsem nenašel (sondy snímky 71, 74, 76–88, 90, 93, 98, 101, 105, 108, 111 – oddíly Velký Uhřínov, Benátky, Bělá, Bukový, Tisovec, Hutě, Podolí, Kamenec). Další krok: zbylé snímky 171-3 (1–7, 89, 91–92, 94–97, 99–100, 102–104, 106–107, 109–110, 112) pro Agathu/Gertrudu Lenk(ovou) *~1788; Josef Proß †po 1858 (Benátky Z po 1850 = 93-x Lukavice?).",
+      "details": "Franziska Dörner *8. 6. 1838 Sedloňov č. 39 doložena (144-3937 snímek 8); její děd Karl Dörner (Sedloňov 47) × Susanna Herzig přidáni; sňatek 20. 11. 1792 (144-5 snímek 96) a narození Johanna 12. 9. 1800 (144-2 snímek 110) doloženy. Rozpor: zápis 1838 jmenuje otcem Susanny Antona Herziga, chalupníka č. 114, ale zápisy 1792 a 1800 shodně † Adama Herziga; Anton Herzig, syn po † Adamovi, se ženil 29. 1. 1793 (144-5 snímek 96, dům 48) — byl to tedy její bratr. V mapě je otcem Adam. Křest Karla Dörnera: index 144-6 snímek 7 má Karly 5. 4. 1763 (s. 1), 1766 (s. 28, 144-2 snímek 19 — syn Johanna a Anny Dorothey, ne Christopha) a 11/1768 (s. 40, 144-2 snímek 25 — syn Johanna Christopha Dörnera a Susanny). Kandidát 1768 nesedí přesně s věkem 25 v roce 1792; nezapsáno. Karl 5. 4. 1763 (144-2 snímek 5) je syn Melchiora Dörnera a Dorothey — vyloučen (výřez vypisy/_sheets/144-2/z144-2-s5-1763-04-karl-dorner-syn-melchiora.jpg). Jediným kandidátem se jménem otce Christoph tak zůstává Karl 11/1768. Nejisté: rodné příjmení Marie Dörnerové — 1838 dcera Franze „Czwentaczka(?)“, chalupníka v Janově č. 26, a Marie, dcery Antona „Ulrich(?)“ z Janova č. 28 (panství Opočno); 1858 čteno „Czerlaika / Lwotaika“. Proß: Anton st. *kolem 1828 v sedloňovském indexu 1825–1838 (144-3, snímek 90, písmeno P) NENÍ — narodil se jinde. Obec otce Josefa (č. 6) čtena „Bauratal / Banatal(?)“, matka Agathe roz. „Beik / Leik(?)“ z „Klein-Aurim“ č. 2, Bezirksamt čten „Aicheneu / Auscherau(?)“ — neidentifikováno; možná Malá Úpa (Klein-Aupa) a okres Maršov, ověřit. Další krok: Janov u Sedloňova — fara Sedloňov? (Janov patří k Opočnu, fara pravděpodobně Bystré / Olešnice); identifikace obce Proßů. Kolo 25. 11. 2026 (noc): sňatek Johann Dörner × Maria v Bystrém NENÍ — Janov 1811–1826 (14-4 snímky 55–56, 69–73) bez Dörnera; index sňatků 14-5 písmeno D 1829–1849 (snímek 198) bez Dörnera („Dinter Johann“ 1840 je jiná osoba). Svatba byla nejspíš ve farnosti ženicha (Sedloňov?) nebo jinde. Kolo 25. 11. 2026 (ráno): sňatek Johann Dörner × Maria NENÍ ani v sedloňovském indexu oddaných 144-7 (snímky 7 R–8 L, ženichové Dörner 1795–1880): Johannové 1827 × Theresia Feiner(?), 1830 × Theresia Walsch, 1836 × Theresia Fabel, 5. 11. 1840 × Maria Dörner (tělo 144-3943 snímek 48: Johann, syn Josefa ze Sedloňova č. 50, 31 let × Maria z č. 69 — jiný pár). Svatba Johanna × Marie (Janov č. 26) byla tedy mimo Sedloňov i Bystré. Kolo C (25. 11. 2026): Index zemřelých Sedloňov 144-3946 (snímek 186, oddíl D, 1795–1863) uvádí mezi lety 1800–1838 jediného dospělého Karla Dörnera: str. 52, tj. snímek 31 — 1817, „Carl Dörner, Feldgärtner“, Sedloňov č. 71, 48 let (tj. narozen kolem 1768/69). Jinak je v indexu jen Carl, syn Johanna, 1802 (1 den). Věk 48 podporuje kandidátní křest z listopadu 1768 (144-2 snímek 25), ale dům č. 71 a povolání zahradník se liší od „Weber, č. 47“ (1800), takže zatím nejde o jistou shodu. Christoph Dörner zemřelý 16. 8. 1796 (č. 66) v indexu je jiná osoba, protože otec Karla byl už 1792 nebožtík. Kolo D (25. 11. 2026): Úmrtí Johanna Christopha Dörnera 13. 3. 1791 (Sedloňov č. 47, 79 let; 144-5 snímek 248) je zapsané do mapy. Jméno Johann Christoph a dům 47 dále podporují, že kandidátní křest Carolus z listopadu 1768 (otec Johann Christoph Dörner × Susanna) je náš Karl. Karl je proto silný kandidát; datum narození ale zatím nezapisuji, dokud nebude vyloučen jiný Carolus Dörner z let 1766–1768. Adam Herzig: v Sedloňově je úmrtí 8. 12. 1786, „Adam Herzig“, č. 91, 55 let (144-5 snímek 243), a 7. 8. 1788 Apollonia, vdova po † Adamu Herzigovi, č. 39, 68 let (snímek 246). Je to kandidát na otce Susanny, ale čísla domů (91/39) neodpovídají domům 47/48 a v obci žilo více Herzigů (např. Christoph Herzig). Proto zatím jen zde. Kolo E: Karl (křest 11/1768) a Susanna Herzig (křest 8. 2. 1767) jsou zapsáni do mapy. V dotazu zůstává kandidátní úmrtí Adama Herziga 1786 (vdova Apollonia ≠ matka Maria) a úmrtí Karla 1817 (č. 71). Kolo G2: Janov patří k faře Bystré. Oddací Janov 2/1827–1834 (14-5 snímky 70–71: 26. 2. 1827, 24. 11. 1828, 22. 9. 1831, 5. 11. 1833, 21. 8. 1834) – Dörner není; 21. 8. 1834 se z Janova č. 26 vdává Franziska, dcera Wenzela „Luzar(?)“ – jiná rodina. „Dinter Johann“ 1840 v indexu 14-5 je z Janova č. 4, ne č. 26. Sňatek Johann Dörner × Maria tedy v Bystrém 1811–1849 ani v Sedloňově není. Kolo I: sousední fary nedočteny (čas věnován Klimešovi, Faltům a Hrubým). Kolo P (25. 11. 2026): Olešnice + Polom, index oddaných 119-9 lit. D (snímek 7–8, výřez vypisy/119-9/z119-9-s7-index-d-dorner-1824-1832.jpg, https://aron.vychodoceskearchivy.cz/apu/f0f98951-d61a-48b4-a82c-b3e254211c2c/dao/f0f98951-d61a-48b4-a82c-b3e254211c2c/file/e1cf7b78-452c-4244-a712-0e41715b4554): jediný Johann Dörner × Maria je 21. 11. 1826 v Polomi (pag. 17). Tělo 119-1 snímek 391 (výřez vypisy/119-1/z119-1-s391-1826-11-21-johann-dorner-syn-antona-x-maria-zeuner-odmitnuto.jpg, https://aron.vychodoceskearchivy.cz/apu/c942febb-f341-4f4a-8e83-d80c422e5040/dao/c942febb-f341-4f4a-8e83-d80c422e5040/file/e801cdb2-af6d-4ecf-8b1a-56d2c75290ae): ženich Johann, 24 let, syn Antona Dörnera, sedláka ze Sedloňova; nevěsta Maria, 22 let, dcera Josefa Zeunera(?), sedláka z Polomi č. 68 – ODMÍTNUTO (náš Johann je syn Karla, *1800; nevěsta má být z Janova č. 26). Další Johannové v indexu: 1828 × Theresia Dörner (Polom), 1820–1842 jinak žádný Johann × Maria. Olešnice a Polom tedy negativní. | Kolo BA (27. 11. 2026): obec Proßů VYŘEŠENA – „Bauratal/Lanatal“ = Benatek = Benátky (zaniklá osada, k. ú. Uhřínov, obec Liberk), „Aicheneu/Auscherau“ = Bezirksamt Reichenau (Rychnov n. Kn.). Fara Velký Uhřínov, kniha 171-4 (Benátky NOZ 1784–1850). Jistě: Anton *16. 4. 1828 Benátky č. 6 (snímek 15, okraj: křestní list vydán v květnu 1858); sňatek rodičů 5. 8. 1823 (snímek 5; Josef vdovec 37, Agatha vdova po †Josefu Pibrtovi(?), mlynáři, 35). KANDIDÁTI: (a) narození Josefa – 171-3 snímek 78 (Benátky 1784–1787): 22. 7. 1786 Franz Joseph, č. 6, syn Andrease Proße a Kathariny; věk sedí na 37 let (1823); v 1. sňatku 17. 2. 1808 (171-4 snímek 5) je ženich „syn †Andrease(?) Proße z č. 6“, 20 let; v č. 6 se Andreasovi a Katharině narodili i Martha 2. 2. 1785 a Andreas 2. 3. 1788 (171-3 snímky 78–79); od 1789 je v č. 6 už jiný otec (Friedrich Nitzgebauer?). (b) rodné příjmení Agathy – 171-4 snímek 5: 8. 2. 1814 Benátky č. 4 Franz Joseph Pibrt(?), mlynář, vdovec, 55 × Gertruda, dcera Ignaze Lenka(?), zahradníka v Kl. Aurim (Malý Uhřínov) č. 33(?), 26 let (≈1788 – sedí na Agathu 35 v roce 1823 i na „geb. Leik(?) aus Klein-Aurim“ 1858); ale jméno Gertruda ≠ Agatha. Svědek Ignaz Lenk(?), domkář. Další Proßové v Benátkách: Christoph Proß (č. 3, †1800, 45 let), Ignaz Proß (č. 2, 1784), Franz Proß (č. 3, děti 1826, 1829); 1818 sňatek Franz, syn Karla Proße, obchodníka(?) z Langenbrücku(?) v hrabství Kladském × Margaretha, dcera †Christopha Proße (č. 3) – stopa do Kladska. Negativ: Malý Uhřínov 1784–1797 v 171-3 jsem nenašel (sondy snímky 71, 74, 76–88, 90, 93, 98, 101, 105, 108, 111 – oddíly Velký Uhřínov, Benátky, Bělá, Bukový, Tisovec, Hutě, Podolí, Kamenec). Další krok: zbylé snímky 171-3 (1–7, 89, 91–92, 94–97, 99–100, 102–104, 106–107, 109–110, 112) pro Agathu/Gertrudu Lenk(ovou) *~1788; Josef Proß †po 1858 (Benátky Z po 1850 = 93-x Lukavice?). | Kolo BB (27. 11. 2026): Josef ZTOTOŽNĚN s Franz Josephem *22. 7. 1786 Benátky č. 6 (otec Andreas potvrzen novým čtením sňatku 1808: „Sohn des verstorbenen Andreas Proß, Gärtners aus N. 6“). Agatha NALEZENA: *4. 2. 1788 Malý Uhřínov č. 34, dcera Ignaze Leika a Kathariny (171-3 snímek 51; oddíl Kleinaurim = snímky ~50–53). Zbývá: zda nevěsta „Gertruda, dcera Ignaze L…“ 8. 2. 1814 (171-4 snímek 5) je Agatha (věk sedí na den, jiná Gertruda 1787–88 v Malém Uhřínově není) – pak by 1. manžel byl Franz Joseph Pibrt(?), mlynář, vdovec, 55, †6. 9. 1822. Úmrtí Andrease Proße 1789–1799 (171-9, nečteno). Rodná příjmení obou Katharin neuvedena.",
       "related_ids": [
         "anton-pross-1828",
         "josef-pross",
@@ -12449,6 +12660,18 @@
           "signatura": "171-3",
           "detail": "snímek 78",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/dao/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/file/c5827436-ba28-440e-b64d-17def8d2635f"
+        },
+        {
+          "label": "ARON, narození 4. 2. 1788",
+          "signatura": "171-3",
+          "detail": "snímek 51, Kleinaurim (Malý Uhřínov) 1787–1788, dům 34",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/dao/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/file/074469c8-3a3f-4fdc-832d-f363ce374183"
+        },
+        {
+          "label": "ARON, sňatek 17. 2. 1808",
+          "signatura": "171-4",
+          "detail": "snímek 5, oddaní Benátky, dům 6",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/917979c4-1830-4d14-b063-7753fc188b14/dao/917979c4-1830-4d14-b063-7753fc188b14/file/554d95c9-9e8a-43f6-a0e7-3a453624f012"
         }
       ]
     },
@@ -13380,8 +13603,8 @@
     {
       "id": "q-georg-dauer-predchozi-manzelky",
       "title": "Předchozí manželky Georga Dauera (Ruprechtice č. 74, 1780–1792)",
-      "summary": "Georg Dauer byl při sňatku s Barbarou Ringelovou 9. 10. 1792 vdovec. V č. 74 zemřela 16. 8. 1792 A. Maria Daußin (34 let); matkou jeho dětí je 1780–1781 Elisabeth Mayer(ová), 1784–1787 A. Maria Meißner(ová). Jedna, nebo dvě předchozí ženy? Kde a kdy se Georg poprvé oženil?",
-      "details": "Jisté ze zápisů: 141-3 snímek 10 (ženich 38, sloupec Witwer); 141-5 snímek 14, Pag. 22: 16. 8. 1792 č. 74 A. Maria Daußin, 34, Abzehrung, manžel neuveden; 141-7599 snímek 342, Pag. 604: 12. 12. 1780 č. 74 Johann Joseph, otec Dauße George, chalupník, matka Elisabeth Mäyerin z Ruprechtic, kmotři Joseph Rosenberg, chalupník z Vižňova, a Maria, žena sedláka Johanna Herzoga(?); 141-1 snímek 10, Pag. 14: 27. 10. 1785 č. 74 Joseph, otec George Dauße, matka A. Maria Meyßnerin(?), kmotři Joseph Rosenberger(?), sedlák, a A. Maria Opitzin. Index 141-4251 snímek 19 (lit. D): Georg, chalupník č. 74 – 12. 12. 1780 Joh. Joseph a 23. 12. 1781 A. Maria (matka Elisab. Meyerin), 1784 A. Maria, 1785 Joseph, 1787 Joh. Georg (matka A. Maria Meißnerin). Pozor: Anton Dauer, chalupník č. 35, má v těch letech také manželku Elisabeth Meyerin (např. 19. 7. 1785, 141-1 snímek 9, Pag. 13) – možná písařova záměna v roce 1780–1781 u č. 74. Sňatek Georga před 1784 v indexu 174-23 není (žádný Dauer jako ženich 1660–1785) a 141-3 1784–1785 (snímky 4–5) ho nemá. Další krok: úmrtí Elisabeth (141-7599 Z 1782–4/1784, snímky ~645–659), sňatek Georg × A. Maria Meißner v okolních farnostech (Broumov, Vižňov 174-x), dočíst 141-3 1786–1791 na Georga a Anton Dauer (č. 35) jako možný bratr. Další Dauer v Ruprechticích: Benedikt Dauße †3. 1. 1789 č. 125 (index 141-4254 snímek 7).",
+      "summary": "Georg Dauer měl tři manželky: Elisabeth Mayer(ová) († 26. 5. 1783, jistě), A. Maria Meißner(ová) († 16. 8. 1792, dům a čas sedí) a Barbaru Ringelovou (1792). Otevřené: sňatky s Elisabeth (před 1780) a s A. Marií (6/1783–1784) a Georgův původ.",
+      "details": "Jisté ze zápisů: 141-3 snímek 10 (ženich 38, sloupec Witwer); 141-5 snímek 14, Pag. 22: 16. 8. 1792 č. 74 A. Maria Daußin, 34, Abzehrung, manžel neuveden; 141-7599 snímek 342, Pag. 604: 12. 12. 1780 č. 74 Johann Joseph, otec Dauße George, chalupník, matka Elisabeth Mäyerin z Ruprechtic, kmotři Joseph Rosenberg, chalupník z Vižňova, a Maria, žena sedláka Johanna Herzoga(?); 141-1 snímek 10, Pag. 14: 27. 10. 1785 č. 74 Joseph, otec George Dauße, matka A. Maria Meyßnerin(?), kmotři Joseph Rosenberger(?), sedlák, a A. Maria Opitzin. Index 141-4251 snímek 19 (lit. D): Georg, chalupník č. 74 – 12. 12. 1780 Joh. Joseph a 23. 12. 1781 A. Maria (matka Elisab. Meyerin), 1784 A. Maria, 1785 Joseph, 1787 Joh. Georg (matka A. Maria Meißnerin). Pozor: Anton Dauer, chalupník č. 35, má v těch letech také manželku Elisabeth Meyerin (např. 19. 7. 1785, 141-1 snímek 9, Pag. 13) – možná písařova záměna v roce 1780–1781 u č. 74. Sňatek Georga před 1784 v indexu 174-23 není (žádný Dauer jako ženich 1660–1785) a 141-3 1784–1785 (snímky 4–5) ho nemá. Další krok: úmrtí Elisabeth (141-7599 Z 1782–4/1784, snímky ~645–659), sňatek Georg × A. Maria Meißner v okolních farnostech (Broumov, Vižňov 174-x), dočíst 141-3 1786–1791 na Georga a Anton Dauer (č. 35) jako možný bratr. Další Dauer v Ruprechticích: Benedikt Dauße †3. 1. 1789 č. 125 (index 141-4254 snímek 7). | Kolo BB: 141-7599 snímek 657 – 24. 4. 1783 nouzově pokřtěné dítě George Daußera č. 74; 26. 5. 1783 Elisabeth, manželka George Daußera, chalupníka, č. 74, 30 let (pohřbil P. Nicolaus Wittiger, zaopatřil P. Dionysius Fliegus). Záměna s Antonem z č. 35 tím odpadá. 141-3 snímky 4–5 (1784–1785): sňatek Georg × A. Maria Meißner tam není; oddací oddíl 141-7599 pro rok 1783 jsem nenašel (sonda snímek 470 = oddaní 1771–1772; snímky 480–483 jsou souvislý text, 483 = zemřelí 1734–1735 – pořadí snímků nepravidelné) – sňatek 1783 nenalezen (a index 174-23 ho nemá) → nejspíš v jiné farnosti.",
       "sources": [
         {
           "label": "ARON, sňatek 9. 10. 1792 (sloupec Witwer)",
@@ -13418,6 +13641,12 @@
           "signatura": "141-4254",
           "detail": "snímek 7, Seite 22 (1792)",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/a7ba0d4e-7eba-4c6c-93b8-c6075466b1f3/dao/a7ba0d4e-7eba-4c6c-93b8-c6075466b1f3/file/db57ebd9-92c2-4958-a79c-b02f7c604f1c"
+        },
+        {
+          "label": "ARON, úmrtí 24. 4. a 26. 5. 1783",
+          "signatura": "141-7599",
+          "detail": "snímek 657, Ruprechtice č. 74",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/9158442c-71b3-4363-b176-9991a80cf92d"
         }
       ],
       "related_ids": [

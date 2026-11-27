@@ -2041,6 +2041,15 @@
    "velky": "img/zdroje/141-7599_s602_velky.jpg",
    "vyrez_soubor": "z141-7599-s602-1767-01-25-anton-ringel-ausgedinger.jpg"
   },
+  "141-7599|657": {
+   "signatura": "141-7599",
+   "snimek": 657,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/9158442c-71b3-4363-b176-9991a80cf92d",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-7599_s657.jpg",
+   "velky": "img/zdroje/141-7599_s657_velky.jpg",
+   "vyrez_soubor": "z141-7599-s657-1783-04-24-dite-Georga-Dause-c74-nouzove-pokrtene-a-1783-05-26-Elisabeth-manzelka-Georga-Dause-30-let.jpg"
+  },
   "141-7599|68": {
    "signatura": "141-7599",
    "snimek": 68,
@@ -2465,6 +2474,24 @@
    "vyrez": "celá strana",
    "nahled": "img/zdroje/144-8637_s038.jpg",
    "velky": "img/zdroje/144-8637_s038_velky.jpg"
+  },
+  "171-3|50": {
+   "signatura": "171-3",
+   "snimek": 50,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/dao/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/file/cb4940fd-9e69-4b97-9c52-34568914d9d9",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-3_s050.jpg",
+   "velky": "img/zdroje/171-3_s050_velky.jpg",
+   "vyrez_soubor": "s050-narozeni-1-9-1785-Maly-Uhrinov34-Anton-otec-Ignaz-Leik-matka-Katharina-sourozenec.jpg"
+  },
+  "171-3|51": {
+   "signatura": "171-3",
+   "snimek": 51,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/dao/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/file/074469c8-3a3f-4fdc-832d-f363ce374183",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-3_s051.jpg",
+   "velky": "img/zdroje/171-3_s051_velky.jpg",
+   "vyrez_soubor": "s051-narozeni-4-2-1788-Maly-Uhrinov34-Agatha-otec-Ignaz-Leik-matka-Katharina.jpg"
   },
   "171-3|78": {
    "signatura": "171-3",
