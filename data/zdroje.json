@@ -873,6 +873,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 171-7 (poř.č. 12193), 1784-1842",
    "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, Tisovec (N 1784-1842, O 1784-1841, Z 1784-1842)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/bee9894a-c65a-40e0-a2a9-48cc76f6162f"
+  },
+  "171-2801": {
+   "apu": "b0e3f307-530f-4f47-98d2-19823d213f3e",
+   "dao": "b0e3f307-530f-4f47-98d2-19823d213f3e",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 171-2801 (poř.č. 12191), 1834-1925",
+   "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, Malý Uhřínov (N 1834-1868, O 1835-1894, Z 1835-1925)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/b0e3f307-530f-4f47-98d2-19823d213f3e"
   }
  },
  "aliasy": {
@@ -2640,6 +2647,15 @@
    "velky": "img/zdroje/171-10_s046_velky.jpg",
    "vyrez_soubor": "s046-index-zemrelych-lit-R-S-Rolletschek-Johann-3-4-1782-a-Seibert.jpg"
   },
+  "171-10|50": {
+   "signatura": "171-10",
+   "snimek": 50,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/99630e87-b1e2-4ff1-bca5-b8e3de72419d/dao/99630e87-b1e2-4ff1-bca5-b8e3de72419d/file/a3f7d5a5-ae04-434d-9d10-dc901d9e56e1",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-10_s050.jpg",
+   "velky": "img/zdroje/171-10_s050_velky.jpg",
+   "vyrez_soubor": "s050-birmovanci-Giessaus-Tisovec-Seibertove-vcetne-ctyr-Katharin.jpg"
+  },
   "171-2797|25": {
    "signatura": "171-2797",
    "snimek": 25,
@@ -2657,6 +2673,51 @@
    "nahled": "img/zdroje/171-2797_s026.jpg",
    "velky": "img/zdroje/171-2797_s026_velky.jpg",
    "vyrez_soubor": "s026-oddani-Maly-Uhrinov-3-6-1788-c1-Friedrich-Neugebauer-29-x-vdova-Katharina-Pross-26.jpg"
+  },
+  "171-2801|129": {
+   "signatura": "171-2801",
+   "snimek": 129,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/b0e3f307-530f-4f47-98d2-19823d213f3e/dao/b0e3f307-530f-4f47-98d2-19823d213f3e/file/79472522-0de2-4232-93fb-1a9ed1c6b9bb",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-2801_s129.jpg",
+   "velky": "img/zdroje/171-2801_s129_velky.jpg",
+   "vyrez_soubor": "s129-narozeni-21-12-1867-Maly-Uhrinov24-Wilhelmina-vnucka-Josefa-Prosse-vymenkare-Benatky6-a-Agathy-Bekove-z-c33.jpg"
+  },
+  "171-2801|133": {
+   "signatura": "171-2801",
+   "snimek": 133,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/b0e3f307-530f-4f47-98d2-19823d213f3e/dao/b0e3f307-530f-4f47-98d2-19823d213f3e/file/9c0cf900-4968-4507-a589-bf8c51572f46",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-2801_s133.jpg",
+   "velky": "img/zdroje/171-2801_s133_velky.jpg",
+   "vyrez_soubor": "s133-umrti-6-1-1836-Maly-Uhrinov33-Ignaz-Beck-zahradnik-74-5-6.jpg"
+  },
+  "171-2801|134": {
+   "signatura": "171-2801",
+   "snimek": 134,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/b0e3f307-530f-4f47-98d2-19823d213f3e/dao/b0e3f307-530f-4f47-98d2-19823d213f3e/file/87699ce1-3567-45f5-8d52-bc16dd8a67ff",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-2801_s134.jpg",
+   "velky": "img/zdroje/171-2801_s134_velky.jpg",
+   "vyrez_soubor": "s134-umrti-9-4-1837-Maly-Uhrinov33-Katharina-vdova-po-Ignazi-Beckovi-75-4.jpg"
+  },
+  "171-2|108": {
+   "signatura": "171-2",
+   "snimek": 108,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922/dao/ae8057d2-4543-4429-836f-2da5eee0f922/file/39f355af-e1f5-4607-9a66-a2e4a5ee88e3",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-2_s108.jpg",
+   "velky": "img/zdroje/171-2_s108_velky.jpg",
+   "vyrez_soubor": "s108-oddani-1755-Giessaus-Joseph-Rolletschek-x-Ludmila-a-Johann-Pross-x-Anna-Susanna-Seibertova.jpg"
+  },
+  "171-2|109": {
+   "signatura": "171-2",
+   "snimek": 109,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922/dao/ae8057d2-4543-4429-836f-2da5eee0f922/file/25cbd002-c6c8-426d-b987-ca967eaaa810",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-2_s109.jpg",
+   "velky": "img/zdroje/171-2_s109_velky.jpg",
+   "vyrez_soubor": "s109-oddani-29-2-1756-Joseph-syn-Franze-Seiberta-x-Eva-Rosina-dcera-Joh-Christopha-Krause.jpg"
   },
   "171-2|129": {
    "signatura": "171-2",
