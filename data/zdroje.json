@@ -1042,6 +1042,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 99-16 (poř.č. 6894), 1605-1784",
    "popis": "římskokatolický index ZEMŘELÝCH, ODDANÝCH, farnost (Martínkovice, Otovice)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/0f398987-6602-45b0-99ea-bd23354fa409"
+  },
+  "99-8": {
+   "apu": "5d3023d7-b8c2-458a-96eb-4200971e130c",
+   "dao": "5d3023d7-b8c2-458a-96eb-4200971e130c",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 99-8 (poř.č. 6870), 1637-1747",
+   "popis": "římskokatolická matrika NAROZENÝCH, filiální obvod Božanov (Božanov)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/5d3023d7-b8c2-458a-96eb-4200971e130c"
   }
  },
  "aliasy": {
@@ -5497,6 +5504,14 @@
    "velky": "img/zdroje/96-9405_s074_velky.jpg",
    "vyrez_soubor": "p074-snatek-5-11-1904-Bohumir-Jirman-ucitel-NS95-ze-Zdarek-a-Paulina-Kralova-NS28.jpg"
   },
+  "99-14|59": {
+   "signatura": "99-14",
+   "snimek": 59,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8775726d-ba3e-44be-9ef2-1bd2b267d7be/dao/8775726d-ba3e-44be-9ef2-1bd2b267d7be/file/fec532a9-73f4-437a-8c92-33e7fe4531e9",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-14_s059.jpg",
+   "velky": "img/zdroje/99-14_s059_velky.jpg"
+  },
   "99-14|60": {
    "signatura": "99-14",
    "snimek": 60,
@@ -5512,6 +5527,14 @@
    "vyrez": "celá strana",
    "nahled": "img/zdroje/99-16_s023.jpg",
    "velky": "img/zdroje/99-16_s023_velky.jpg"
+  },
+  "99-16|24": {
+   "signatura": "99-16",
+   "snimek": 24,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/0f398987-6602-45b0-99ea-bd23354fa409/dao/0f398987-6602-45b0-99ea-bd23354fa409/file/a6e3064f-824f-4316-8196-09b1db59e177",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-16_s024.jpg",
+   "velky": "img/zdroje/99-16_s024_velky.jpg"
   },
   "99-16|71": {
    "signatura": "99-16",
@@ -5529,6 +5552,14 @@
    "nahled": "img/zdroje/99-16_s072.jpg",
    "velky": "img/zdroje/99-16_s072_velky.jpg"
   },
+  "99-16|75": {
+   "signatura": "99-16",
+   "snimek": 75,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/0f398987-6602-45b0-99ea-bd23354fa409/dao/0f398987-6602-45b0-99ea-bd23354fa409/file/8f52b860-34b6-4dd7-8e7b-b4e46aca206a",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-16_s075.jpg",
+   "velky": "img/zdroje/99-16_s075_velky.jpg"
+  },
   "99-1|32": {
    "signatura": "99-1",
    "snimek": 32,
@@ -5536,6 +5567,14 @@
    "vyrez": "celá strana",
    "nahled": "img/zdroje/99-1_s032.jpg",
    "velky": "img/zdroje/99-1_s032_velky.jpg"
+  },
+  "99-1|43": {
+   "signatura": "99-1",
+   "snimek": 43,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/0298d825-8819-476c-b61f-a7402f233e40/dao/0298d825-8819-476c-b61f-a7402f233e40/file/07c6cdcc-fd6e-4271-9100-1daa8429fa40",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-1_s043.jpg",
+   "velky": "img/zdroje/99-1_s043_velky.jpg"
   },
   "99-1|44": {
    "signatura": "99-1",
@@ -5588,6 +5627,14 @@
    "velky": "img/zdroje/99-2_s129_velky.jpg",
    "vyrez_soubor": "n99-2-s129-pag145-1685-10-31-georg-syn-georga-a-rosiny-z-martinkovic.jpg"
   },
+  "99-2|302": {
+   "signatura": "99-2",
+   "snimek": 302,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/211afc92-e9fc-43c6-acfa-c289dc419f77/dao/211afc92-e9fc-43c6-acfa-c289dc419f77/file/844dcdee-aa7f-4267-be78-57fd42806db0",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-2_s302.jpg",
+   "velky": "img/zdroje/99-2_s302_velky.jpg"
+  },
   "99-2|315": {
    "signatura": "99-2",
    "snimek": 315,
@@ -5596,6 +5643,14 @@
    "nahled": "img/zdroje/99-2_s315.jpg",
    "velky": "img/zdroje/99-2_s315_velky.jpg",
    "vyrez_soubor": "z99-2-s315-pag46-1682-06-melchior-rosenberg-z-otovic.jpg"
+  },
+  "99-2|329": {
+   "signatura": "99-2",
+   "snimek": 329,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/211afc92-e9fc-43c6-acfa-c289dc419f77/dao/211afc92-e9fc-43c6-acfa-c289dc419f77/file/7f81c0a0-233c-4b53-8300-a6a8b2b581e4",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-2_s329.jpg",
+   "velky": "img/zdroje/99-2_s329_velky.jpg"
   },
   "99-2|377": {
    "signatura": "99-2",
@@ -5613,6 +5668,15 @@
    "nahled": "img/zdroje/99-2_s378.jpg",
    "velky": "img/zdroje/99-2_s378_velky.jpg"
   },
+  "99-2|76": {
+   "signatura": "99-2",
+   "snimek": 76,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/211afc92-e9fc-43c6-acfa-c289dc419f77/dao/211afc92-e9fc-43c6-acfa-c289dc419f77/file/abb921ad-dc96-4a71-807e-5b14d02bd392",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/99-2_s076.jpg",
+   "velky": "img/zdroje/99-2_s076_velky.jpg",
+   "vyrez_soubor": "n99-2-s76-pag39-1666-03-19-dite-melchera-rosenbrecka-v-otovicich.jpg"
+  },
   "99-8015|137": {
    "signatura": "99-8015",
    "snimek": 137,
@@ -5621,6 +5685,56 @@
    "nahled": "img/zdroje/99-8015_s137.jpg",
    "velky": "img/zdroje/99-8015_s137_velky.jpg",
    "vyrez_soubor": "pross-satek-L-wide.jpg"
+  },
+  "99-8|11": {
+   "signatura": "99-8",
+   "snimek": 11,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/5d3023d7-b8c2-458a-96eb-4200971e130c/dao/5d3023d7-b8c2-458a-96eb-4200971e130c/file/802ab16e-6d29-4ee6-bbd2-b5f8c3881e5e",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-8_s011.jpg",
+   "velky": "img/zdroje/99-8_s011_velky.jpg"
+  },
+  "99-8|15": {
+   "signatura": "99-8",
+   "snimek": 15,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/5d3023d7-b8c2-458a-96eb-4200971e130c/dao/5d3023d7-b8c2-458a-96eb-4200971e130c/file/1ee429a1-ddeb-4263-b652-ffd94234ee5d",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-8_s015.jpg",
+   "velky": "img/zdroje/99-8_s015_velky.jpg"
+  },
+  "99-8|17": {
+   "signatura": "99-8",
+   "snimek": 17,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/5d3023d7-b8c2-458a-96eb-4200971e130c/dao/5d3023d7-b8c2-458a-96eb-4200971e130c/file/e570dd8c-528e-4bde-9d38-034f9bf8510f",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/99-8_s017.jpg",
+   "velky": "img/zdroje/99-8_s017_velky.jpg",
+   "vyrez_soubor": "n99-8-s17-pag32-1655-02-02-georg-syn-melchiora-rossenbrigka.jpg"
+  },
+  "99-8|18": {
+   "signatura": "99-8",
+   "snimek": 18,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/5d3023d7-b8c2-458a-96eb-4200971e130c/dao/5d3023d7-b8c2-458a-96eb-4200971e130c/file/e844600b-24d3-4c82-8ae0-a662b684fcad",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/99-8_s018.jpg",
+   "velky": "img/zdroje/99-8_s018_velky.jpg",
+   "vyrez_soubor": "n99-8-s18-pag35-1656-12-24-kmotra-justina-manzelka-melchiora.jpg"
+  },
+  "99-8|19": {
+   "signatura": "99-8",
+   "snimek": 19,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/5d3023d7-b8c2-458a-96eb-4200971e130c/dao/5d3023d7-b8c2-458a-96eb-4200971e130c/file/1e0ee339-da5a-40a3-a756-db1b607e0328",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-8_s019.jpg",
+   "velky": "img/zdroje/99-8_s019_velky.jpg"
+  },
+  "99-8|22": {
+   "signatura": "99-8",
+   "snimek": 22,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/5d3023d7-b8c2-458a-96eb-4200971e130c/dao/5d3023d7-b8c2-458a-96eb-4200971e130c/file/9b947967-0e08-41f0-be37-45e4faa2b0a7",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-8_s022.jpg",
+   "velky": "img/zdroje/99-8_s022_velky.jpg"
   },
   "CDIAL-618-2-2567|197": {
    "signatura": "CDIAL-618-2-2567",

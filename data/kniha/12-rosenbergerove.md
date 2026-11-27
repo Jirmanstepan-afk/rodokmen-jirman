@@ -34,7 +34,27 @@ Dne 22. září pohřbili dva Melchiorovy syny a 28. září jeho malého syna. 
 
 Melchior mor přežil, ale jen o necelé dva roky. V červnu 1682 byl „der Melcher Rosenberg von Ottendorf“ pohřben.[^99-2/315: pohřeb Melchiora Rosenbergera, červen 1682] Melchior je se Štěpánem ve **čtrnácté generaci** a je to zatím nejstarší doložený předek celého rodokmenu. Ve čtrnácté generaci je i Martin Scholtz z Martínkovic.
 
-> Domněnka: V martínkovické knize je 14. listopadu 1649 svatba mládence „Melcher Rosenbreck“, syna Christopha(?) Rosenbrecka z Barzdorfu(?), s pannou Justinou, dcerou Caspara Merkela(?) z Otovic. Jiný Melchior Rosenberg se v indexu svateb 1605–1679 nevyskytuje, takže to nejspíš je náš Melchior a Justina by mohla být Georgovou matkou. Křest Georga jsem ale nenašel a Melchior se mohl oženit i podruhé, proto to beru jen jako stopu k patnácté generaci [?q-hertzog-jonas-puvod].
+## Stopa do Božanova
+
+Martínkovická kniha zapsala 14. listopadu 1649 svatbu mládence „Melcher Rosenbreck“, syna Christopha(?) Rosenbrecka z Barzdorfu(?), s pannou Justinou, dcerou Caspara Merkela(?) z Otovic.[^99-1/32: oddací zápis 14. 11. 1649, Martínkovice] Barzdorf je Božanov a jeho křestní kniha začíná rokem 1637. V roce 1649 v ní jako kmotr vystupuje „Christoff Rosenbreck“ (21. března) a 4. července „Melcher Rosenbreck, Junggesell“, tedy ještě svobodný, čtyři měsíce před svatbou.[^99-8/11: křty 21. 3. a 4. 7. 1649, Božanov]
+
+Od roku 1653 v Božanově křtí děti „Malcher Rossenbrigken“. Dne 26. června 1653 to byl syn Johann[^99-8/15: křest Johanna, syna Malchera Rossenbrigka, 26. 6. 1653] a 2. února 1655 syn **George**. Kmotry byli George Ferder(?), Caspar Meyer a Rosina, vdova po Hansi Ringelovi starším.[^99-8/17: křest George, syna Malchera Rossenbrigka, 2. 2. 1655, Božanov]
+
+![99-8/17] Křest George, syna Malchera Rossenbrigka, 2. února 1655 v Božanově (první zápis nahoře).
+
+Dne 28. dubna 1657 následoval syn Christoph, pojmenovaný nejspíš po dědovi.[^99-8/19: křest Christopha, syna Malchera Rossenbrigka, 28. 4. 1657] Melchiorova žena se v Božanově objevuje jako kmotra „Justina Malcher Rossenbrigkens Ehefrau“ v letech 1656, 1658 a 1660, tedy stejná Justina jako na svatbě 1649. Dne 23. listopadu 1659 se jim narodilo dítě tak slabé, že ho porodní bába pokřtila z nouze, a hned zemřelo.[^99-8/22: nouzový křest dítěte Malchera Rossenbrigka 23. 11. 1659]
+
+Jeden z těch křtů má svůj příběh. Dne 24. prosince 1656 šla Justina za kmotru nemanželskému chlapci Christophovi. Farář k zápisu připsal velké „NB“ a poznámku, že dítě není z manželského lože a že matka byla podle své výpovědi znásilněna cizím mužem, o němž neví, kdo je a odkud je.[^99-8/18: křest 24. 12. 1656, kmotra Justina, manželka Malchera Rossenbrigka]
+
+![99-8/18] Zápis z Štědrého dne 1656 s poznámkou „NB“. Mezi kmotry je „Justina Malcher Rossenbrigkens Ehefrau“.
+
+Později se „Melcher Rosenbreck“ objevuje v Otovicích: 19. března 1666 tam „Melcherovi Rosenbreckovi a jeho manželce v Otovicích“ pokřtili dítě, podle indexu dceru Dorotheu.[^99-2/76: křest dítěte Melchera Rosenbrecka v Otovicích 19. 3. 1666]
+
+> Domněnka: Melcher Rosenbreck z Božanova, jeho Georg pokřtěný 2. 2. 1655 a Melcher v Otovicích roku 1666 jsou podle mě náš Melchior a náš Georg. Jméno Melchior je mezi Rosenbergery jediné, Justina je z Otovic, rodina se do Otovic prokazatelně dostala a Georgovi by bylo při svatbě v roce 1678 třiadvacet let. Chybí ale přímý důkaz: božanovská kniha má v letech 1660–1665 mezery a nevím, jestli Georg narozený 1655 nezemřel a jestli se Melchiorovi nenarodil další Georg. Proto Georgův křest ani Christopha Rosenbrecka (pravděpodobně 15. generace) zatím do rodokmenu nezapisuji [?q-hertzog-jonas-puvod].
+
+> Domněnka: Melchiorův vlastní křest kolem let 1620–1628 se najít nedá. V martínkovickém indexu narozených 1605–1630 Melchior Rosenberg není (jsou tam jen Georg a Christoph 1606, Christoph 1611, Balthasar 1619 a Jacob 1621) a božanovská křestní kniha začíná až rokem 1637. Christoph Rosenberg pokřtěný v Martínkovicích roku 1606 nebo 1611 by věkem mohl být Melchiorovým otcem, ale nic to nedokládá.
+
+> Domněnka: Rosinin otec je v oddacím zápisu 1678 „Martin Schaltz (Scholtz?) von Merzdorf“. Ve farnosti žil Martin Scholtz z Otovic, kterému 21. 12. 1669 pohřbili manželku. Jako vdovec se 26. 7. 1671 znovu oženil s pannou Helenou a sám zemřel 18. září 1693, pohřben byl 20. září. Jestli je to Rosinin otec, nevím, protože zápis z roku 1678 uvádí Martínkovice. Jeho první svatba v indexu oddaných 1605–1667 není [?q-scholtz-martin].
 
 ## Johann Adalbert a Johann Joseph
 
