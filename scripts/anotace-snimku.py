@@ -43,6 +43,15 @@ def arrow(d, p0, p1, col, w=4):
     pts = [p1, (p1[0] - L * math.cos(a - .42), p1[1] - L * math.sin(a - .42)), (p1[0] - L * math.cos(a + .42), p1[1] - L * math.sin(a + .42))]
     d.polygon(pts, fill=col)
 
+def _dash(d, b, col, w=5, L=16):
+    x0, y0, x1, y1 = b
+    for a, c in (((x0, y0), (x1, y0)), ((x0, y1), (x1, y1))):
+        x = a[0]
+        while x < c[0]: d.line([(x, a[1]), (min(x + L, c[0]), a[1])], fill=col, width=w); x += 2 * L
+    for a, c in (((x0, y0), (x0, y1)), ((x1, y0), (x1, y1))):
+        y = a[1]
+        while y < c[1]: d.line([(a[0], y), (a[0], min(y + L, c[1]))], fill=col, width=w); y += 2 * L
+
 def render(it):
     src = ROOT / it['src']
     im = Image.open(src).convert('RGB')
@@ -94,7 +103,8 @@ def render(it):
         labs = []
         for i in idx:
             m = marks[i]
-            lat = wrap(dtmp, '„' + m['lat'] + '“', f_lat, colw - 30)
+            lt = ('„' + m['lat'] + '“' if m.get('lat') else '') + (' (čtení nejisté)' if m.get('nejiste') else '')
+            lat = wrap(dtmp, lt.strip(), f_lat, colw - 30) if lt.strip() else []
             cs = wrap(dtmp, m['cs'], f_cs, colw - 30 - round(34 * sz))
             h = 18 + len(lat) * round(36 * sz) + len(cs) * round(38 * sz) + 12
             labs.append((i, lat, cs, h, colw))
@@ -131,7 +141,10 @@ def render(it):
             od.rectangle(b, fill=(r, g_, bl, 34))
             out.paste(Image.alpha_composite(out.convert('RGBA'), ov).convert('RGB'))
             d = ImageDraw.Draw(out)
-            d.rounded_rectangle(b, radius=6, outline=col, width=5)
+            if m.get('nejiste'):
+                _dash(d, b, col)
+            else:
+                d.rounded_rectangle(b, radius=6, outline=col, width=5)
             bs.append(b)
         boxes[i] = (bs, col)
     def draw_rows(rows, rh, y, top):
@@ -190,7 +203,7 @@ def main():
         if vy.is_dir():
             shutil.copyfile(dst, vy / name)
         index[it['key']] = {'soubor': f'img/zdroje/{name}', 'plyne': it['plyne'], 'titulek': it['title'],
-                            'oznaceno': [m['lat'] + ' → ' + m['cs'] for m in it['marks']]}
+                            'oznaceno': [(m.get('lat') or '') + (' (?)' if m.get('nejiste') else '') + ' → ' + m['cs'] for m in it['marks']]}
         print('ok', name, img.size)
     json.dump({'_info': 'Generováno scripts/anotace-snimku.py ze scripts/anotace-spec.json. Vyznačené snímky zápisů pro knihu a web; originály zůstávají v img/zdroje.',
                'snimky': index}, open(ROOT / 'data/anotace.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
