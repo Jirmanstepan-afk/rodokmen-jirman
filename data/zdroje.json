@@ -845,6 +845,20 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 171-2797 (poř.č. 12181), 1784-1837",
    "popis": "římskokatolická matrika ODDANÝCH, Velký Uhřínov (1784-1837), Malý Uhřínov (1784-1796), Benátky (1784-1787), Bělá (1784-1796), Bukový (1784-1796), Tisovec (1784-1793), Hutě (1784-1795), Podolí (1784-1795), Kamenec (1784-1804)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/f7a85f10-ccc5-41dc-9d4c-b19a8cf97643"
+  },
+  "171-10": {
+   "apu": "99630e87-b1e2-4ff1-bca5-b8e3de72419d",
+   "dao": "99630e87-b1e2-4ff1-bca5-b8e3de72419d",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 171-10 (poř.č. 12195), 1724-1799",
+   "popis": "římskokatolický index NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, farnost (Bělá, Benátky, Bukový, Hutě, Kamenec, Malý Uhřínov, Podolí, Tisovec, Velký Uhřínov)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/99630e87-b1e2-4ff1-bca5-b8e3de72419d"
+  },
+  "159-4061": {
+   "apu": "d21da203-37b2-4e74-a53e-4cd6666d44b6",
+   "dao": "d21da203-37b2-4e74-a53e-4cd6666d44b6",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 159-4061 (poř.č. 11109), 1643-1896",
+   "popis": "římskokatolický index NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, Šonov\nN od 1742, O do 1885, Z 1742-1888",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/d21da203-37b2-4e74-a53e-4cd6666d44b6"
   }
  },
  "aliasy": {
@@ -1184,6 +1198,15 @@
    "nahled": "img/zdroje/13-56_s029.jpg",
    "velky": "img/zdroje/13-56_s029_velky.jpg",
    "vyrez_soubor": "z13-56-s29-index-o-hausdorf-anton-1779-1781.jpg"
+  },
+  "13-56|74": {
+   "signatura": "13-56",
+   "snimek": 74,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/98b82b7e-43c8-434b-8fb8-e4ac4ced1d90/dao/98b82b7e-43c8-434b-8fb8-e4ac4ced1d90/file/54b5ffa9-fa6a-4280-add2-c09bbe7846c3",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/13-56_s074.jpg",
+   "velky": "img/zdroje/13-56_s074_velky.jpg",
+   "vyrez_soubor": "z13-56-s74-index-o-lit-T-1779-1783-bez-dauera.jpg"
   },
   "13-57|109": {
    "signatura": "13-57",
@@ -2540,6 +2563,33 @@
    "nahled": "img/zdroje/144-8637_s038.jpg",
    "velky": "img/zdroje/144-8637_s038_velky.jpg"
   },
+  "159-4061|200": {
+   "signatura": "159-4061",
+   "snimek": 200,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/d21da203-37b2-4e74-a53e-4cd6666d44b6/dao/d21da203-37b2-4e74-a53e-4cd6666d44b6/file/71186ae4-fc59-41cf-bf55-ed4aad3e6441",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/159-4061_s200.jpg",
+   "velky": "img/zdroje/159-4061_s200_velky.jpg",
+   "vyrez_soubor": "s200-index-oddanych-Sonov-lit-T-1767-1786-bez-dauera.jpg"
+  },
+  "171-10|24": {
+   "signatura": "171-10",
+   "snimek": 24,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/99630e87-b1e2-4ff1-bca5-b8e3de72419d/dao/99630e87-b1e2-4ff1-bca5-b8e3de72419d/file/6a3c11dd-0a30-4196-ad27-dc77d5ea71ff",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-10_s024.jpg",
+   "velky": "img/zdroje/171-10_s024_velky.jpg",
+   "vyrez_soubor": "s024-index-narozenych-lit-B-1753-1796-Bek-vice-Ignazu-1753-1761.jpg"
+  },
+  "171-10|46": {
+   "signatura": "171-10",
+   "snimek": 46,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/99630e87-b1e2-4ff1-bca5-b8e3de72419d/dao/99630e87-b1e2-4ff1-bca5-b8e3de72419d/file/d419dac7-b9e0-4f2e-8d76-c67cf13a3f1d",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-10_s046.jpg",
+   "velky": "img/zdroje/171-10_s046_velky.jpg",
+   "vyrez_soubor": "s046-index-zemrelych-lit-R-S-Rolletschek-Johann-3-4-1782-a-Seibert.jpg"
+  },
   "171-2797|25": {
    "signatura": "171-2797",
    "snimek": 25,
@@ -2566,6 +2616,15 @@
    "nahled": "img/zdroje/171-2_s129.jpg",
    "velky": "img/zdroje/171-2_s129_velky.jpg",
    "vyrez_soubor": "s129-oddani-23-2-1784-Benatky6-Andreas-syn-zemr-Franze-Prosse-zahradnika-x-Katharina-dcera-Johanna-Rolecka-sedlaka-Maly-Uhrinov.jpg"
+  },
+  "171-2|172": {
+   "signatura": "171-2",
+   "snimek": 172,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922/dao/ae8057d2-4543-4429-836f-2da5eee0f922/file/0e7a8ee2-511e-45dc-a416-8bf85f157e29",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-2_s172.jpg",
+   "velky": "img/zdroje/171-2_s172_velky.jpg",
+   "vyrez_soubor": "s172-umrti-30-10-1775-Maly-Uhrinov34-Ludmila-manzelka-Josepha-Beka-zahradnika-53-let.jpg"
   },
   "171-2|23": {
    "signatura": "171-2",
