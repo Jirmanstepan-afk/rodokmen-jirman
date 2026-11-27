@@ -68,6 +68,10 @@ Babiččin otec [[antonin-flegl|Antonín Flegl]] se narodil 8. 6. 1919 na Podkar
 
 Do Benešova u Broumova přišli v únoru 1947 také volyňští Češi, třeba rodina Žižkových. Ti se v únoru 1947 vraceli z Volyně a cestou je v Šumperku navštívil generál Ludvík Svoboda. Po předchozím majiteli jejich statku zbyly jen tři otýpky slámy.[^A. Stejskal: Volyňští Češi na Broumovsku, zvláštní vydání Broumovských novin, s. 21]
 
-Náchodské matriky jsou v archivu jen do let 1915 (narození) a 1936 (sňatky), další svazky jsou zřejmě pořád na matričním úřadě. Proto Mariino narození ani svatbu Fleglových v archivu zatím vidět nemůžu. Prošel jsem aspoň náchodskou knihu oddaných od října 1917 do června 1923 (ARON 106-8171, snímky 24–160). Ženich s příjmením Zelený v ní není, takže Mariini rodiče se v Náchodě v těch letech nebrali, nebo se brali jinde.[^ARON-106-8171: oddaní Náchod 10/1917–6/1923, snímky 24–160, ženich Zelený nenalezen]
+Náchodské matriky jsou v archivu jen do let 1915 (narození) a 1936 (sňatky), další svazky jsou zřejmě pořád na matričním úřadě. Proto Mariino narození ani svatbu Fleglových v archivu zatím vidět nemůžu. Prošel jsem aspoň náchodskou knihu oddaných od října 1917 do června 1923 (ARON 106-8171, snímky 24–160). Ženich s příjmením Zelený v ní není, takže Mariini rodiče se v Náchodě v těch letech nebrali, nebo se brali jinde.[^106-8171: oddaní Náchod 10/1917–6/1923, snímky 24–160, ženich Zelený nenalezen]
+
+V Náchodě jsem ale našel jednu rodinu Zelených, kterou zatím nedokážu s Marií spojit. 14. listopadu 1898 se v Náchodě oženil tkadlec Josef Zelený z Bělovsi, narozený v roce 1874 v Kostelci nad Orlicí, s tovární dělnicí Rosálií Dostálovou z Borovnice. Za svědka mu šel Jan Zelený, snad bratr.[^106-7295/52: sňatek Josef Zelený × Rosálie Dostálová, Náchod 14. 11. 1898, č. 143] Josef později pracoval jako preclíkář a zemřel v Náchodě 23. března 1913, bylo mu 38 let.[^106-7300/369: úmrtí Josef Zelený, preclíkář, Náchod č. 568, 23. 3. 1913] Vdova Rosálie se v prosinci 1919 znovu vdala.
+
+> Domněnka: Pokud Marie z této rodiny pochází, byla by spíš vnučkou Josefa a Rosálie než jejich dcerou. Josef zemřel osm let před jejím narozením.
 
 Do budoucna bych tuhle kapitolu rád rozšířil, pokud se najdou doklady.
