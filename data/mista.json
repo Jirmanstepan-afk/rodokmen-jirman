@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-27",
   "timezone": "Europe/Helsinki",
   "note": "Souřadnice obcí a částí obcí, ne čísla domů. Zdroj u každého místa. Nic se nedomýšlí: nezamčená nebo nejistě čtená místa jsou v unplaced_rules a na mapě jen v seznamu bez bodu.",
   "places": [
@@ -836,6 +836,27 @@
         "wikidata": "Q64"
       },
       "note": null
+    },
+    {
+      "id": "dlouha-ves-rychnov",
+      "name": "Dlouhá Ves u Rychnova nad Kněžnou",
+      "aliases": [
+        "Dlouhá Ves (Langendorf) u Rychnova nad Kněžnou",
+        "Dlouhá Ves č. 35",
+        "Langendorf",
+        "Dlouhá Ves"
+      ],
+      "type": "část města Rychnov nad Kněžnou",
+      "admin": "okres Rychnov nad Kněžnou",
+      "country": "CZ",
+      "lat": 50.1472,
+      "lon": 16.3,
+      "source": {
+        "label": "Wikidata Q11812544 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q11812544",
+        "wikidata": "Q11812544"
+      },
+      "note": "V oddacím zápisu 1879 „Langendorf N. 35 … aus dem Reichenauer Amtsbezirke“ (okres Rychnov) – tím je obec zamčena."
     }
   ],
   "unplaced_rules": [

@@ -1797,7 +1797,7 @@
       "places": [
         "Kout (Stiefwinkel) č. 16 (narození 1855, dům děda Josefa Tschinkela)",
         "Choceň č. 215 (1887)",
-        "Dlouhá Ves č. 35 (první manžel; obec stejného jména není zamčena)"
+        "Dlouhá Ves (Langendorf) u Rychnova nad Kněžnou č. 35 (první manžel, 1879)"
       ],
       "branch": "tschinkel",
       "certainty": "potvrzeno",
@@ -1819,31 +1819,46 @@
           "label": "ARON",
           "signatura": "3141",
           "detail": "s. 151"
+        },
+        {
+          "label": "ARON, oddací zápis 9. 7. 1879, Deštné (Franz Schmida × Anna Tschinkel)",
+          "signatura": "24-7674",
+          "detail": "snímek 84, pag. 157–158, 3. zápis (č. 38)",
+          "apu": "8daff487-f368-4cfa-ad5c-153ca38a2386",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/8daff487-f368-4cfa-ad5c-153ca38a2386/dao/8daff487-f368-4cfa-ad5c-153ca38a2386/file/878e4e86-70af-43c3-92c4-ea7c7a63e370"
         }
       ],
       "notes": [
         "Vdova po †Františku Šmídovi, krejčím v Dlouhé Vsi č. 35. Otec Anny v zápisu není jmenován — je zapsána po matce Aloisií Tschinkelové.",
-        "Narození 13. 2. 1855 v Koutu (Stiefwinkel) č. 16, pokřtěna 14. 2. (24-3931, snímek 169, pag. 361): Anna, nemanželská (sloupec otce prázdný), matka Aloisie, katolička, manželská dcera Josefa Tschinkela, podruha (Inwohner) v Koutu č. 16, a Anny rozené Dienerové z č. 21. Jména, dům č. 16 i babička Dienerová z č. 21 se shodují se zápisem sňatku 1887."
+        "Narození 13. 2. 1855 v Koutu (Stiefwinkel) č. 16, pokřtěna 14. 2. (24-3931, snímek 169, pag. 361): Anna, nemanželská (sloupec otce prázdný), matka Aloisie, katolička, manželská dcera Josefa Tschinkela, podruha (Inwohner) v Koutu č. 16, a Anny rozené Dienerové z č. 21. Jména, dům č. 16 i babička Dienerová z č. 21 se shodují se zápisem sňatku 1887.",
+        "První sňatek 9. 7. 1879 v Deštném s Franzem Schmidou (Šmídem), krejčím z Dlouhé Vsi č. 35 (24-7674, snímek 84): „Anna, uneheliche Tochter der Aloisia Tschinkel, ehelichen Tochter des Josef Tschinkel, Inwohners in Deschney N. 16, und seiner Gattin Anna, geborene Diener aus Wildschitz N. 21, beide katholisch und aus dem Neustädter Amtsbezirke“, 24 let, svobodná."
       ],
       "interesting": [
         "Narodila se jako nemanželské dítě v domě, kde její děd Josef Tschinkel bydlel jako podruh (Inwohner) – matka Aloisie tedy rodila u svých rodičů.",
         "Kmotrem byl Johann Obst, učitel v Deštném; kmotrou Karolina, manželka zahradníka (Feldgärtner) z Deštného č. 45. Porodní bábou byla také žena z Deštného č. 45.",
-        "V kolonce otce je pozdější přípisek „Trauschein 18 5/4 87“ – 5. 4. 1887 byl ze zápisu vydán doklad ke sňatku; svatba s Františkem Syrovým v Chocni byla o čtyři týdny později, 2. 5. 1887."
+        "V kolonce otce je pozdější přípisek „Trauschein 18 5/4 87“ – 5. 4. 1887 byl ze zápisu vydán doklad ke sňatku; svatba s Františkem Syrovým v Chocni byla o čtyři týdny později, 2. 5. 1887.",
+        "Poprvé se vdávala 9. 7. 1879 v Deštném ve 24 letech za o tři roky mladšího krejčího Františka Šmída (Schmida) z Dlouhé Vsi u Rychnova; svědky byli Ignaz Pohl, truhlář (Tischler) z Deštného č. 48, a Ignaz K…(?), domkář z Dříše(?) č. 26.",
+        "Během osmi let byla dvakrát nevěstou: 1879 v Deštném, 1887 jako vdova v Chocni.",
+        "Pod zápisem je potvrzení kanonické vizitace 28. 7. 1879 a biskupské vizitace v Deštném 15. 6. 1880, podepsané „Josef Johann, Bischof“ (královéhradecký biskup Josef Jan Hais, 1875–1892)."
       ]
     },
     {
       "id": "frantisek-smid",
       "name": "František Šmíd",
       "maiden": null,
-      "birth": null,
+      "birth": {
+        "display": "cca 1857/58",
+        "precision": "circa",
+        "note": "21 let k 9. 7. 1879 (v zápisu slovy „zwanzig eins“); nezletilý – zletilosti nabyl prohlášením okresního soudu v Rychnově 14. 5. 1879."
+      },
       "baptism": null,
       "death": {
-        "display": "před 2. 5. 1887",
+        "display": "mezi 9. 7. 1879 a 2. 5. 1887",
         "precision": "range"
       },
-      "occupation": "Krejčí, Dlouhá Ves č. 35.",
+      "occupation": "Krejčí (Schneider), Dlouhá Ves (Langendorf) č. 35, okres Rychnov nad Kněžnou (1879, 1887).",
       "places": [
-        "Dlouhá Ves č. 35 (obec stejného jména není zamčena)"
+        "Dlouhá Ves (Langendorf) u Rychnova nad Kněžnou č. 35"
       ],
       "branch": "tschinkel",
       "certainty": "potvrzeno",
@@ -1853,12 +1868,24 @@
           "label": "ARON",
           "signatura": "6489",
           "detail": "snímek 20"
+        },
+        {
+          "label": "ARON, oddací zápis 9. 7. 1879, Deštné (Franz Schmida × Anna Tschinkel)",
+          "signatura": "24-7674",
+          "detail": "snímek 84, pag. 157–158, 3. zápis (č. 38)",
+          "apu": "8daff487-f368-4cfa-ad5c-153ca38a2386",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/8daff487-f368-4cfa-ad5c-153ca38a2386/dao/8daff487-f368-4cfa-ad5c-153ca38a2386/file/878e4e86-70af-43c3-92c4-ea7c7a63e370"
         }
       ],
       "notes": [
-        "První manžel Anny, později Syrové. Není v přímé linii potomků Josefa *1888."
+        "První manžel Anny, později Syrové. Není v přímé linii potomků Josefa *1888.",
+        "Sňatek 9. 7. 1879 v Deštném (24-7674, snímek 84): „Franz Schmida, Schneider, ehelicher Sohn des Johann Schmida, Häuslers in Langendorf N. 35, und seiner Gattin Maria, geborene Borchart(?) aus Lhotka N. 1, beide katholisch und aus dem Reichenauer Amtsbezirke“, 21 let, svobodný. Rodiče jen v poznámce (nejsou v přímé linii); příjmení matky a přesná Lhotka nejisté."
       ],
-      "interesting": []
+      "interesting": [
+        "Při svatbě mu bylo 21 let, byl tedy podle tehdejšího práva nezletilý; v zápisu je poznámka, že nezletilost byla odstraněna prohlášením (zletilosti?) okresního soudu v Rychnově z 14. 5. 1879, č. 3268.",
+        "Nevěsta byla o tři roky starší (24).",
+        "Zemřel mladý – nejpozději v 29 letech (Anna je v roce 1887 vdova)."
+      ]
     },
     {
       "id": "frantiska-syrova",
@@ -2038,10 +2065,18 @@
         {
           "label": "ARON",
           "signatura": "3141"
+        },
+        {
+          "label": "ARON, oddací zápis 9. 7. 1879, Deštné (Franz Schmida × Anna Tschinkel)",
+          "signatura": "24-7674",
+          "detail": "snímek 84, pag. 157–158, 3. zápis (č. 38)",
+          "apu": "8daff487-f368-4cfa-ad5c-153ca38a2386",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/8daff487-f368-4cfa-ad5c-153ca38a2386/dao/8daff487-f368-4cfa-ad5c-153ca38a2386/file/878e4e86-70af-43c3-92c4-ea7c7a63e370"
         }
       ],
       "notes": [
-        "1855 svobodná matka nemanželské dcery Anny; zapsána jako manželská dcera Josefa Tschinkela, podruha v Koutu (Stiefwinkel) č. 16, a Anny rozené Dienerové z č. 21 (24-3931, snímek 169)."
+        "1855 svobodná matka nemanželské dcery Anny; zapsána jako manželská dcera Josefa Tschinkela, podruha v Koutu (Stiefwinkel) č. 16, a Anny rozené Dienerové z č. 21 (24-3931, snímek 169).",
+        "1879: Anna zapsána jako „uneheliche Tochter der Aloisia Tschinkel“ (24-7674 snímek 84); o Aloisiině sňatku či úmrtí zápis nic neříká."
       ],
       "interesting": []
     },
@@ -2071,11 +2106,19 @@
           "label": "ARON",
           "signatura": "6489",
           "detail": "snímek 20"
+        },
+        {
+          "label": "ARON, oddací zápis 9. 7. 1879, Deštné (Franz Schmida × Anna Tschinkel)",
+          "signatura": "24-7674",
+          "detail": "snímek 84, pag. 157–158, 3. zápis (č. 38)",
+          "apu": "8daff487-f368-4cfa-ad5c-153ca38a2386",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/8daff487-f368-4cfa-ad5c-153ca38a2386/dao/8daff487-f368-4cfa-ad5c-153ca38a2386/file/878e4e86-70af-43c3-92c4-ea7c7a63e370"
         }
       ],
       "notes": [
         "Štiefwinkl = Kout, osada obce Deštné v Orlických horách (něm. Stiefwinkel u Deschney).",
-        "V roce 1855 podruh (Inwohner) v Koutu č. 16 – stejně jako v zápisu 1887 (24-3931, snímek 169)."
+        "V roce 1855 podruh (Inwohner) v Koutu č. 16 – stejně jako v zápisu 1887 (24-3931, snímek 169).",
+        "1879 (sňatek vnučky Anny, 24-7674 snímek 84): „Josef Tschinkel, Inwohner in Deschney N. 16“ – bez označení zemřelý; zda ještě žil, z toho nelze jistě usoudit."
       ],
       "interesting": []
     },
@@ -2105,11 +2148,19 @@
           "label": "ARON",
           "signatura": "6489",
           "detail": "snímek 20"
+        },
+        {
+          "label": "ARON, oddací zápis 9. 7. 1879, Deštné (Franz Schmida × Anna Tschinkel)",
+          "signatura": "24-7674",
+          "detail": "snímek 84, pag. 157–158, 3. zápis (č. 38)",
+          "apu": "8daff487-f368-4cfa-ad5c-153ca38a2386",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/8daff487-f368-4cfa-ad5c-153ca38a2386/dao/8daff487-f368-4cfa-ad5c-153ca38a2386/file/878e4e86-70af-43c3-92c4-ea7c7a63e370"
         }
       ],
       "notes": [
         "Obec Věže č. 21 neslučovat s Věží u Havlíčkova Brodu bez důkazu. Okres Nové Město odpovídá dobovému zařazení Deštného pod BH Nové Město nad Metují.",
-        "1855: „Anna geborene Diener, No. 21“ (24-3931, snímek 169); obec za číslem čtu nejistě, viz dotaz q-tschinkel-24-9."
+        "1855: „Anna geborene Diener, No. 21“ (24-3931, snímek 169); obec za číslem čtu nejistě, viz dotaz q-tschinkel-24-9.",
+        "1879 (24-7674 snímek 84) zřetelně „Anna, geborene Diener aus Wildschitz N. 21“, okres (Amtsbezirk) Nové Město; obec Wildschitz zatím neztotožněna (Vlčice u Trutnova/Javorníka nesedí na okres)."
       ],
       "interesting": []
     },
@@ -8754,11 +8805,26 @@
           "label": "ARON",
           "signatura": "6489",
           "detail": "snímek 20"
+        },
+        {
+          "label": "ARON, oddací zápis 9. 7. 1879, Deštné (Franz Schmida × Anna Tschinkel)",
+          "signatura": "24-7674",
+          "detail": "snímek 84, pag. 157–158, 3. zápis (č. 38)",
+          "apu": "8daff487-f368-4cfa-ad5c-153ca38a2386",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/8daff487-f368-4cfa-ad5c-153ca38a2386/dao/8daff487-f368-4cfa-ad5c-153ca38a2386/file/878e4e86-70af-43c3-92c4-ea7c7a63e370"
         }
       ],
       "notes": [
-        "První manželství Anny, skončené vdovstvím před 2. 5. 1887."
-      ]
+        "První manželství Anny, skončené vdovstvím před 2. 5. 1887.",
+        "Sňatek 9. 7. 1879, Deštné v Orlických horách, oddával farář Wenzel Erychleb(?); ohlášky 22. a 29. 6. a 6.(?) 7. 1879."
+      ],
+      "married": {
+        "display": "9. 7. 1879",
+        "precision": "exact",
+        "date": "1879-07-09",
+        "place": "Deštné v Orlických horách",
+        "note": "24-7674, snímek 84, č. 38."
+      }
     },
     {
       "id": "u-frantiska-syrova-alone",
@@ -11406,9 +11472,9 @@
     },
     {
       "id": "q-tschinkel-24-9",
-      "title": "Tschinkelové z Koutu: narození Aloisie, sňatek Josefa Tschinkela a Anny Dienerové, obec Dienerových",
-      "summary": "Narození Anny 13. 2. 1855 v Koutu č. 16 je doloženo. Otevřené: narození Aloisie, sňatek a původ Josefa Tschinkela a Anny Dienerové a obec Dienerových č. 21.",
-      "details": "Čtení příjmení v indexu není uzavřené (možné i Tschinkerl / podobně) a těla v 24-5 (folio cca 217, 1819, „Jos.“) ještě nebyla čtena. Josef Tschinkel, otec Aloisie ze Štiefwinklu č. 16, se s tímto zápisem neslučuje, dokud tělo nepotvrdí dům, rodiče a jméno. Index 24-3949 (N 1835–1878) samostatný oddíl T nemá. Kolo AW (27. 11. 2026): Narození Anny 13. 2. 1855 nalezeno (24-3931, snímek 169, pag. 361, oddíl Stiefwinkel). Nejistá čtení v témže zápisu: u Anny Dienerové stojí za „No 21“ obec čtená jako „W…schitz(?)“ (zápis 1887 má „Věže č. 21“), „beide zum Bezirk Neustadt gehörig“; před „Ehegattin“ snad „verstorbenen(?)“ – úmrtí Anny Dienerové před 1855 proto není doloženo; jméno křtícího kněze „Carl …(?)“ a porodní báby „Karolina H…(?) N. 45“ nejisté. Bez výsledku: Aloisie v N Deštné, oddíl Stiefwinkel 7/1837–1842 (24-3931, snímky 155–158, pag. 333–340; v č. 16 tehdy jiná rodina); v indexu 24-9 (T, 1819–1829) není žádná Aloisie Tschinkel (jen Joh. Nep. 1819, Fr. Karl 1819, Franz 1820, Theresia 1821/1822/1823, Augustin 1824, Marianna a Anna 1825, Adelheid 1826, Ignaz 1826 a další do 1829). Kolo AW (pokračování): Bez výsledku též index 24-9 T 1831–1835 (snímek 26: Katharina 1831, Gertraud 1832, Andreas(?) 1833, další jména Tilgner/Tring) a tělo 24-5 pro 1835–6/1837 (snímky 132–144, všechna křestní jména přečtena, žádná Aloisie); index T 1808–1818 (snímek 25) Aloisii také nemá. Aloisie se tedy v Deštném 1808–1842 nenarodila (rok 1830 v indexu T bez záznamu) – pravděpodobně pochází odjinud, nejspíš z farnosti matky Anny Dienerové. Kandidát (NEJISTÝ, nesloučen): 19. 3. 1814 Hüttenberg č. 7 pokřtěn Joseph, syn Karla Tschinkela, Inwohnera v Hüttenbergu, a Elisabeth, dcery Mathiase Sch…(?), zahradníka v Neudorfu č. 30 (24-5, snímek 96, fol. 183). Shodu s Josefem Tschinkelem, Inwohnerem v Koutu č. 16 (1855), nic nedokládá – potřeba jeho úmrtní zápis s věkem nebo sňatek s Annou Dienerovou.",
+      "title": "Tschinkelové z Koutu: narození Aloisie, sňatek Josefa Tschinkela a Anny Dienerové, obec Wildschitz č. 21",
+      "summary": "Narození Anny 13. 2. 1855 (Kout č. 16) a její první sňatek 9. 7. 1879 (Deštné) jsou doloženy. Otevřené: narození Aloisie, sňatek, původ a úmrtí Josefa Tschinkela a Anny Dienerové a ztotožnění obce Wildschitz č. 21 (okres Nové Město).",
+      "details": "Čtení příjmení v indexu není uzavřené (možné i Tschinkerl / podobně) a těla v 24-5 (folio cca 217, 1819, „Jos.“) ještě nebyla čtena. Josef Tschinkel, otec Aloisie ze Štiefwinklu č. 16, se s tímto zápisem neslučuje, dokud tělo nepotvrdí dům, rodiče a jméno. Index 24-3949 (N 1835–1878) samostatný oddíl T nemá. Kolo AW (27. 11. 2026): Narození Anny 13. 2. 1855 nalezeno (24-3931, snímek 169, pag. 361, oddíl Stiefwinkel). Nejistá čtení v témže zápisu: u Anny Dienerové stojí za „No 21“ obec čtená jako „W…schitz(?)“ (zápis 1887 má „Věže č. 21“), „beide zum Bezirk Neustadt gehörig“; před „Ehegattin“ snad „verstorbenen(?)“ – úmrtí Anny Dienerové před 1855 proto není doloženo; jméno křtícího kněze „Carl …(?)“ a porodní báby „Karolina H…(?) N. 45“ nejisté. Bez výsledku: Aloisie v N Deštné, oddíl Stiefwinkel 7/1837–1842 (24-3931, snímky 155–158, pag. 333–340; v č. 16 tehdy jiná rodina); v indexu 24-9 (T, 1819–1829) není žádná Aloisie Tschinkel (jen Joh. Nep. 1819, Fr. Karl 1819, Franz 1820, Theresia 1821/1822/1823, Augustin 1824, Marianna a Anna 1825, Adelheid 1826, Ignaz 1826 a další do 1829). Kolo AW (pokračování): Bez výsledku též index 24-9 T 1831–1835 (snímek 26: Katharina 1831, Gertraud 1832, Andreas(?) 1833, další jména Tilgner/Tring) a tělo 24-5 pro 1835–6/1837 (snímky 132–144, všechna křestní jména přečtena, žádná Aloisie); index T 1808–1818 (snímek 25) Aloisii také nemá. Aloisie se tedy v Deštném 1808–1842 nenarodila (rok 1830 v indexu T bez záznamu) – pravděpodobně pochází odjinud, nejspíš z farnosti matky Anny Dienerové. Kandidát (NEJISTÝ, nesloučen): 19. 3. 1814 Hüttenberg č. 7 pokřtěn Joseph, syn Karla Tschinkela, Inwohnera v Hüttenbergu, a Elisabeth, dcery Mathiase Sch…(?), zahradníka v Neudorfu č. 30 (24-5, snímek 96, fol. 183). Shodu s Josefem Tschinkelem, Inwohnerem v Koutu č. 16 (1855), nic nedokládá – potřeba jeho úmrtní zápis s věkem nebo sňatek s Annou Dienerovou. Kolo AX (27. 11. 2026): Oddací zápis 9. 7. 1879 (24-7674, snímek 84) píše zřetelně „Anna, geborene Diener aus Wildschitz N. 21 … aus dem Neustädter Amtsbezirke“ a Josefa jako „Inwohner in Deschney N. 16“ (bez označení zemřelý). Obec Wildschitz v okrese Nové Město zatím neztotožněna (Vlčice/Wildschütz u Trutnova a u Javorníka do okresu nepatří); zápis 1887 má „Věže“. Úmrtí Josefa Tschinkela: Z Deštné 24-3944 1855–1857 přehledově bez nálezu (snímky 101–107, čtení nejisté kvůli rozlišení) – neúplné.",
       "related_ids": [
         "josef-tschinkel",
         "anna-diener",
@@ -11440,6 +11506,13 @@
           "detail": "snímek 96, fol. 183, poslední zápis",
           "apu": "9634f2ed-f27b-4902-b935-cc261da19e92",
           "url": "https://aron.vychodoceskearchivy.cz/apu/9634f2ed-f27b-4902-b935-cc261da19e92/dao/9634f2ed-f27b-4902-b935-cc261da19e92/file/b8cee5b6-4fce-47d1-94a4-cdf7f71a9c06"
+        },
+        {
+          "label": "ARON, oddací zápis 9. 7. 1879 (Wildschitz N. 21)",
+          "signatura": "24-7674",
+          "detail": "snímek 84, pag. 157–158, č. 38",
+          "apu": "8daff487-f368-4cfa-ad5c-153ca38a2386",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/8daff487-f368-4cfa-ad5c-153ca38a2386/dao/8daff487-f368-4cfa-ad5c-153ca38a2386/file/878e4e86-70af-43c3-92c4-ea7c7a63e370"
         }
       ]
     },
