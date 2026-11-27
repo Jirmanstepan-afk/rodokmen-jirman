@@ -1129,6 +1129,211 @@
     }
    ],
    "plyne": "Rok po Eleonořině smrti se vdovec Josef Jirmann (45) znovu oženil; zápis potvrzuje, že jeho rodiči byli Josef a Anna Jirmannovi z Vysoké Srbské, ne naši předkové z Machova č. 47."
+  },
+  {
+   "key": "53-53|31",
+   "src": "img/zdroje/53-53_s031_velky.jpg",
+   "title": "Sňatek Františka Špačka ml. – Vysoká Srbská, 4. 5. 1847",
+   "zdroj": "SOA Zámrsk, sign. 53-53, snímek 31, fol. 29",
+   "crop": [
+    0,
+    0,
+    2000,
+    482
+   ],
+   "entry": [
+    0,
+    0,
+    2000,
+    330
+   ],
+   "marks": [
+    {
+     "box": [
+      0,
+      0,
+      125,
+      150
+     ],
+     "lat": "Am 4ten Mai 1847",
+     "cs": "4. května 1847"
+    },
+    {
+     "box": [
+      140,
+      10,
+      190,
+      60
+     ],
+     "lat": "29",
+     "cs": "dům č. 29"
+    },
+    {
+     "box": [
+      195,
+      0,
+      690,
+      45
+     ],
+     "lat": "Franz Špaček, Weber und Inmann",
+     "cs": "František Špaček, tkadlec a podruh"
+    },
+    {
+     "box": [
+      195,
+      30,
+      690,
+      115
+     ],
+     "lat": "ehelicher Sohn des verstorbenen Franz Špaček, Häuslers aus Hochsichel No. 29",
+     "cs": "manželský syn zemřelého Františka Špačka, chalupníka z VS č. 29"
+    },
+    {
+     "box": [
+      195,
+      110,
+      690,
+      200
+     ],
+     "lat": "und dessen Gattin Dorothea, gebornen Falta aus Slatina No. 39",
+     "cs": "a jeho manželky Doroty, rozené Faltové ze Slatiny č. 39"
+    },
+    {
+     "box": [
+      835,
+      8,
+      882,
+      52
+     ],
+     "lat": "22",
+     "cs": "22 let, svobodný"
+    },
+    {
+     "box": [
+      0,
+      245,
+      690,
+      305
+     ],
+     "lat": "mit obervormundschaftlicher Bewilligung des Herrschaft Nachoder Oberamtes vom 12. April 1847",
+     "cs": "s poručenským povolením náchodského vrchního úřadu z 12. 4. 1847"
+    },
+    {
+     "box": [
+      1010,
+      0,
+      1470,
+      215
+     ],
+     "lat": "Anna, eheliche Tochter des Jacob …, Inmanns aus Hochsichel No. 26",
+     "cs": "nevěsta Anna, dcera podruha Jakuba … z VS č. 26, 26 let",
+     "nejiste": true
+    },
+    {
+     "box": [
+      1660,
+      25,
+      2000,
+      130
+     ],
+     "lat": "Josef Špaček, Chalupner aus Hochsichel No. 29",
+     "cs": "svědek Josef Špaček(?), chalupník z VS č. 29",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Dorota Faltová měla s Františkem Špačkem ještě syna Františka (*asi 1825); zápis z roku 1847 opět uvádí její původ ze Slatiny č. 39."
+  },
+  {
+   "key": "53-20|5",
+   "src": "img/zdroje/53-20_s005_velky.jpg",
+   "title": "Narození Františka Špačka ml. – Vysoká Srbská, 6. 10. 1825",
+   "zdroj": "SOA Zámrsk, sign. 53-20, snímek 5, pag. 3",
+   "crop": [
+    0,
+    0,
+    2000,
+    575
+   ],
+   "entry": [
+    0,
+    0,
+    2000,
+    500
+   ],
+   "marks": [
+    {
+     "box": [
+      40,
+      15,
+      155,
+      150
+     ],
+     "lat": "October 6.",
+     "cs": "6. října 1825"
+    },
+    {
+     "box": [
+      160,
+      55,
+      235,
+      125
+     ],
+     "lat": "29",
+     "cs": "dům č. 29"
+    },
+    {
+     "box": [
+      235,
+      45,
+      465,
+      155
+     ],
+     "lat": "Franciscus Spatschek",
+     "cs": "František Špaček"
+    },
+    {
+     "box": [
+      830,
+      55,
+      1060,
+      205
+     ],
+     "lat": "Franz Spatschek, Innmann",
+     "cs": "otec František Špaček, podruh"
+    },
+    {
+     "box": [
+      1075,
+      50,
+      1390,
+      165
+     ],
+     "lat": "Dorothea Spatschek,",
+     "cs": "matka Dorota Špačková"
+    },
+    {
+     "box": [
+      1075,
+      170,
+      1390,
+      470
+     ],
+     "lat": "Tochter nach dem Georg Falta, Innmann aus Slatina No. 39, Nachoder Herrschaft",
+     "cs": "dcera po (zemřelém) Jiřím Faltovi, podruhovi ze Slatiny č. 39, panství Náchod"
+    },
+    {
+     "box": [
+      1400,
+      40,
+      1880,
+      420
+     ],
+     "lat": "Melichar … Bauer aus Zdiar; Veronica … Häuslerin aus Hochsichel",
+     "cs": "kmotři: Melichar …, sedlák ze Žďáru(?), a Veronika …, chalupnice z VS",
+     "nejiste": true
+    }
+   ],
+   "plyne": "František Špaček ml., který se ženil v roce 1847, je doložen jako syn našich Františka Špačka a Doroty Faltové – bratr předkyně Anny."
   }
  ]
 }

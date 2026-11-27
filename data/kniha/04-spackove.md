@@ -20,6 +20,16 @@ František zemřel 26. dubna 1835 ve Vysoké Srbské č. 29 ve věku 40 let, už
 
 > Domněnka: Na Annině svatbě v roce 1844 byl svědkem Josef Špaček, chalupník z Vysoké Srbské č. 29. Domnívám se, že to byl její starší bratr, který v tom domě po otci hospodařil. Zápis ale příbuzenství svědka neuvádí a jeho jméno čtu s otazníkem.
 
+Anna měla i mladšího bratra Františka. Narodil se 6. října 1825 ve Vysoké Srbské č. 29. Matka je u něj zapsána jako „Tochter nach dem Georg Falta, Innmann aus Slatina No. 39“, tedy dcera po zemřelém Jiřím Faltovi, podruhovi ze Slatiny č. 39.[^53-20/5: narození Františka Špačka ml. 6. 10. 1825, Vysoká Srbská č. 29, pag. 3]
+
+![53-20/5] Narození Františka Špačka mladšího 6. října 1825 ve Vysoké Srbské č. 29. U matky Doroty je opět poznámka, že pochází ze Slatiny č. 39.
+
+František mladší se 4. května 1847 ve Vysoké Srbské oženil s Annou, dcerou podruha z č. 26. Byl to „Franz Špaček, Weber und Inmann“, tedy tkadlec a podruh, 22 let, „syn zemřelého Františka Špačka, chalupníka z Vysoké Srbské č. 29, a jeho manželky Doroty, rozené Faltové ze Slatiny č. 39“. Nevěstě bylo 26 let. Prvním svědkem byl chalupník z č. 29, jehož jméno čtu jen nejistě jako Josef Špaček.[^53-53/31: sňatek Františka Špačka ml. 4. 5. 1847, Vysoká Srbská, fol. 29]
+
+![53-53/31] Svatba Františka Špačka mladšího 4. května 1847 ve Vysoké Srbské. Zápis znovu uvádí, že jeho matka Dorota pocházela ze Slatiny č. 39.
+
+Zajímavost: Stejně jako jeho bratr Josef o osm let dřív se ani František bez úředního svolení oženit nemohl. Otec byl po smrti a ženichovi ještě nebylo 24 let, takže svatbu musel 12. dubna 1847 povolit náchodský vrchní úřad jako poručenský soud. Ohlášky byly 11., 18. a 25. dubna.
+
 ## Faltovi ze Slatiny
 
 Dorota Faltová je ve všech zápisech dcerou Jiřího (Georga) Falty, podruha ze Slatiny č. 39 na náchodském panství. Při svatbě jí bylo 24 let, takže se narodila kolem roku 1792. Ve slatinské matrice jsem našel Dorotu Marii, dceru Jiřího Falty, pokřtěnou 12. března 1792. Věk sedí, jenže narodila se v domě č. 109, ne v č. 39. Proto ji zatím nepřipisuji [?q-falta-slatina].
@@ -38,7 +48,7 @@ Dorota přežila manžela o celých 21 let. Zemřela jako vdova 10. srpna 1856 v
 
 ![53-4174/15] Úmrtí Doroty Špačkové, rozené Faltové, 10. srpna 1856 ve Vysoké Srbské č. 29, ve věku 63 let, na sešlost věkem.
 
-Zajímavost: úmrtní zápis přidává k Dorotinu rodnému domu ve Slatině už třetí číslo – 56. Jinde je to č. 39 a u kandidátského křtu č. 109. Věk 63 let odpovídá narození v letech 1792–1793, takže kandidátka z března 1792 věkově stále sedí [?q-falta-slatina].
+Zajímavost: úmrtní zápis přidává k Dorotinu rodnému domu ve Slatině už třetí číslo – 56. Jinde je to č. 39 (celkem v osmi zápisech z let 1817–1857, naposledy při svatbě syna Františka v roce 1847) a u kandidátského křtu č. 109. Věk 63 let odpovídá narození v letech 1792–1793, takže kandidátka z března 1792 věkově stále sedí [?q-falta-slatina].
 
 > Domněnka: Rodina podruha Jiřího Falty se ve Slatině stěhovala mezi domy, a proto se čísla v zápisech liší. Dorota Marie pokřtěná 12. 3. 1792 v č. 109 je tak nejspíš naše Dorota. Dokud to nepotvrdí další zápis, nechávám ji mimo strom.
 

@@ -4548,6 +4548,15 @@
    "velky": "img/zdroje/53-20_s179_velky.jpg",
    "vyrez_soubor": "z53-20-s179-1857-matka-anna-spackova-falta.jpg"
   },
+  "53-20|5": {
+   "signatura": "53-20",
+   "snimek": 5,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/5f9cac13-2769-47d2-83a8-0b14917d5073/dao/5f9cac13-2769-47d2-83a8-0b14917d5073/file/9fb6e9ce-5755-46a4-a2d9-4cda32021772",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-20_s005.jpg",
+   "velky": "img/zdroje/53-20_s005_velky.jpg",
+   "vyrez_soubor": "z53-20-s5-pag3-1825-10-06-franciscus-spatschek-vs29-otec-franz-matka-dorothea-faltova-slatina39.jpg"
+  },
   "53-2|13": {
    "signatura": "53-2",
    "snimek": 13,
@@ -4833,6 +4842,15 @@
    "nahled": "img/zdroje/53-53_s025.jpg",
    "velky": "img/zdroje/53-53_s025_velky.jpg",
    "vyrez_soubor": "z53-53-s25-1844-11-19-snatek-jan-klimes-anna-spackova.jpg"
+  },
+  "53-53|31": {
+   "signatura": "53-53",
+   "snimek": 31,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/dao/71f912a9-76a8-4d96-ba3d-f1de19b3b6bd/file/d554af54-23b8-41e8-866c-26341a799e4e",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/53-53_s031.jpg",
+   "velky": "img/zdroje/53-53_s031_velky.jpg",
+   "vyrez_soubor": "o53-53-s31-fol29-1847-05-04-franz-spacek-syn-franze-a-dorothey-faltove-slatina39-x-anna.jpg"
   },
   "53-53|46": {
    "signatura": "53-53",
