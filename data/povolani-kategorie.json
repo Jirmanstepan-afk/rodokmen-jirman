@@ -42,7 +42,7 @@
       "id": "obuvnik",
       "label": "Obuvník",
       "explain": "Řemeslo výroby a oprav obuvi. V zápisu se objevuje i mistr obuvi.",
-      "patterns": ["obuvník", "obuvnik", "mistr obuvi"]
+      "patterns": ["obuvník", "obuvnik", "mistr obuvi", "švec", "svec", "sutor", "schuhmacher"]
     },
     {
       "id": "tesar",
