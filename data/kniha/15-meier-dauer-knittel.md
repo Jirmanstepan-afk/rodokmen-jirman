@@ -22,6 +22,12 @@ Při svatbě 19. února 1748 se v Ruprechticích ženil „Anton Rüngel, mláde
 
 > Domněnka: Tento Anton z roku 1718 je můj předek, Barbařin otec. Rok sedí přesně na věk 75 let v úmrtním zápisu z roku 1793 a otec Johann (Hans) z Vižňova sedí na svatbu z roku 1748. Žádný zápis ale výslovně neříká, že ženich z roku 1748 je tentýž muž jako vdovec, který se ženil v roce 1770. V Ruprechticích navíc žili i jiní Antonové Ringelové, například syn Tobiase narozený 1708 nebo Anton Benedikt narozený 1725.[^141-4251/75: index narozených Ruprechtice, písmeno R, 1703–1738] Hans Ringel a Rosina proto zatím do rodokmenu nejdou [?q-ringel-puvod-1748].
 
+Hanse a Rosinu jsem pak našel i u oltáře. Dne 8. listopadu 1712 se ve Vižňově oženil „Johannes Ringel, mládenec, manželský syn Tobiase Ringela“, s pannou Rosinou, dcerou Tobiase Heintzela. Mezi svědky byli dva muži jménem Tobias Bircke.[^174-6/40: oddací zápis 8. 11. 1712, Vižňov]
+
+![174-6/40] Svatba Johanna Ringela, syna Tobiase, a Rosiny Heintzelové 8. listopadu 1712 (druhý zápis).
+
+> Domněnka: Pokud je ruprechtický Anton opravdu syn Hanse a Rosiny, vedla by jeho linie k [[tobias-ringel-viznov|Tobiasovi Ringelovi]] a [[dorothea-ringel-viznov|Dorothee, rozené Bircke]]. Ze dvou Tobiasů, kteří tehdy ve Vižňově žili, měl syna Johanna jen Tobias s Dorotheou (Johann Joseph, *1692). Barbara Dauerová by pak pocházela ze stejného vižňovského rodu jako Barbara Rosenbergová a Ignatz s Genovefou by byli vzdálení příbuzní. Proti tomu stojí, že v Ruprechticích žili v letech 1750–1770 nejméně čtyři ženatí Antonové Ringelové najednou (sedlák se Schrollovou a podruzi s Rosinou, Annou Elisabeth a Annou Marií), takže z rejstříků nepoznám, který z nich je Barbařin otec [?q-ringel-puvod-1748].
+
 Zajímavost: z Vižňova do Ruprechtic si v té době chodili Ringelové pro nevěsty pravidelně. Oddací rejstřík Ruprechtic má v letech 1737–1750 hned čtyři ženichy Rüngel z Wiesen: vdovce Johanna (1737, nevěsta Maria z Ruprechtic), Hanse (1747, nevěsta Maria Hertzogová), Antona (1748, vdova Rosina Opitzová) a vdovce Johanna Georga (1751, nevěsta Anna Rosina Gottschlichová(?)).
 
 ## Barbara a Georg Dauer

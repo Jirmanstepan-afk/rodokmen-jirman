@@ -6740,8 +6740,19 @@
       "id": "johannes-rosenberg-ruprechtice",
       "name": "Johannes (Johann Adalbert) Rosenberg",
       "maiden": null,
-      "birth": null,
-      "baptism": null,
+      "birth": {
+        "display": "22. 4. 1709",
+        "precision": "exact",
+        "date": "1709-04-22",
+        "place": "Ruprechtice",
+        "note": "Datum křtu podle indexu 141-4251 a těla 141-7598 (pag. 455)."
+      },
+      "baptism": {
+        "display": "22. 4. 1709",
+        "precision": "exact",
+        "date": "1709-04-22",
+        "place": "Ruprechtice"
+      },
       "death": null,
       "occupation": "Podruh (Hausgenoss) v Ruprechticích (1743).",
       "places": [
@@ -6792,14 +6803,34 @@
           "signatura": "141-7599",
           "detail": "snímek 93, fol. 113: 1. 3. 1743 Johann Josephus (*28. 2.), otec Johann Adalbert Rosenberg, Hausgenoss z Ruprechtic, matka Anna Maria; výřez vypisy/141-7599/z141-7599-s93-fol113-1743-03-01-johann-josephus-rosenberg-nar-1743-02-28-otec-johann-adalbert-matka-anna-maria.jpg",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/0748c5ed-8b7e-4687-931b-287eebfe9cc5"
+        },
+        {
+          "label": "ARON, křest 22. 4. 1709",
+          "signatura": "141-7598",
+          "detail": "snímek 323, pag. 455, Ruprechtice; výřez vypisy/141-7598/n141-7598-s323-pag455-1709-04-22-hans-adalbertus-syn-hanse-rosenbergera-a-judith.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1fad27ed-fc5f-438c-a712-e096f25a2e51/dao/1fad27ed-fc5f-438c-a712-e096f25a2e51/file/0f470502-d421-4ca5-b456-5a40e9e29739"
+        },
+        {
+          "label": "ARON, index narozených Ruprechtice lit. R 1703–1738",
+          "signatura": "141-4251",
+          "detail": "snímek 75: jediný Joh. Adalbert Rosenberger 22. 4. 1709 (otec Johann, matka Judith, fol. 455)"
+        },
+        {
+          "label": "ARON, sňatek 6. 10. 1734",
+          "signatura": "174-6",
+          "detail": "snímek 66, fol. 121, Vižňov (kostel sv. Anny); výřez vypisy/174-6/o174-6-s66-fol121-1734-10-06-johann-adalbert-rosenberger-x-maria-waltzel.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/dao/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/file/e1b801df-e4fc-47e4-b388-a53c2da1e02a"
         }
       ],
       "notes": [
         "Otec Johanna Josepha Rosenberga (sňatek 19. 11. 1764); tehdy uveden bez „weyland“, tedy patrně žijící. Manželka v zápisu neuvedena.",
         "Kolo AA: při křtu syna 1. 3. 1743 „Johann Adalbert Rosenberg, Hausgenoss“ z Ruprechtic, manželka Anna Maria. Tatáž dvojice (Johann/Johann Adalbert × A. Maria) má v indexu děti 1741–1760.",
-        "Kolo AC: v křtech dětí 1736, 1738, 1741, 1743 (141-7599 fol. 34, 62, 93, 113) vždy „Johann Adalbert Rosenberg(er)“, podruh (Hausgenoss) v Ruprechticích, manželka Anna Maria. Sňatek před 1736 nenalezen."
+        "Kolo AC: v křtech dětí 1736, 1738, 1741, 1743 (141-7599 fol. 34, 62, 93, 113) vždy „Johann Adalbert Rosenberg(er)“, podruh (Hausgenoss) v Ruprechticích, manželka Anna Maria. Sňatek před 1736 nenalezen.",
+        "Kolo BS: Pokřtěn 22. 4. 1709 v Ruprechticích jako „Hanß Adalbertus“, syn Hanse Rosenbergera z Ruprechtic a Judith; kmotři Tobias Bircke a Anna Maria, žena Tobiase Riedela (141-7598, snímek 323). 6. 10. 1734 se v kostele sv. Anny ve Vižňově oženil jako „Johann Adalbert Rosenberger, ein junger Gesell, Hanß Rosenbergers ehel. Sohn aus Ruppersdorf“ s pannou Marií, dcerou Georga Waltzela z Vižňova (174-6, snímek 66). Připsání: jediný Johann Adalbert Rosenberg(er) v indexech narozených Ruprechtic 1703–1738 a oddaných Ruprechtic (174-23) i Vižňova (174-21) 1678–1751; děti s Annou Marií od 1736."
       ],
-      "interesting": []
+      "interesting": [
+        "Ženil se ve Vižňově, ve filiálním kostele sv. Anny, a za svědka měl mimo jiné Hanse Heinricha Birckeho — příjmení Bircke se v rodu objevuje opakovaně (kmotr Tobias Bircke při jeho křtu 1709)."
+      ]
     },
     {
       "id": "anton-obitz-ruprechtice",
@@ -6840,14 +6871,15 @@
     },
     {
       "id": "anna-maria-rosenberg-ruprechtice",
-      "name": "Anna Maria Rosenbergová",
-      "maiden": null,
+      "name": "Anna Maria Rosenbergová (roz. Waltzel)",
+      "maiden": "Waltzel",
       "birth": null,
       "baptism": null,
       "death": null,
       "occupation": null,
       "places": [
-        "Ruprechtice"
+        "Ruprechtice",
+        "Vižňov (původ)"
       ],
       "branch": "rosenberger",
       "certainty": "potvrzeno",
@@ -6864,10 +6896,17 @@
           "signatura": "141-4251",
           "detail": "snímek 75; výřez vypisy/141-4251/z141-4251-s75-index-n-lit-r-1739-1762-rosenberger-jos-joseph-1743-otec-johann-adalbert.jpg",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/b628c27c-a629-44c8-a008-e4d017646195/dao/b628c27c-a629-44c8-a008-e4d017646195/file/3014aeac-f92c-4405-a50b-1e83f8db61dc"
+        },
+        {
+          "label": "ARON, sňatek 6. 10. 1734",
+          "signatura": "174-6",
+          "detail": "snímek 66, fol. 121, Vižňov (kostel sv. Anny); výřez vypisy/174-6/o174-6-s66-fol121-1734-10-06-johann-adalbert-rosenberger-x-maria-waltzel.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/dao/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/file/e1b801df-e4fc-47e4-b388-a53c2da1e02a"
         }
       ],
       "notes": [
-        "Manželka Johanna Adalberta Rosenberga, matka Johanna Josepha *28. 2. 1743. Rodné příjmení v zápisu neuvedeno."
+        "Manželka Johanna Adalberta Rosenberga, matka Johanna Josepha *28. 2. 1743. Rodné příjmení v zápisu neuvedeno.",
+        "Kolo BS: rodné příjmení ze sňatku 6. 10. 1734 (174-6, snímek 66, fol. 121): „Jungfrau Maria, George Waltzels … ehel. Tochter aus Wiesen“. Povolání otce v zápisu nejisté čtení."
       ],
       "interesting": []
     },
@@ -10285,6 +10324,234 @@
       "aliases": [
         "Martinus Spadt"
       ]
+    },
+    {
+      "id": "hans-rosenberger-1702",
+      "name": "Hans (Johann) Rosenberger",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Otovice (Ottendorf) – původ",
+        "Ruprechtice"
+      ],
+      "branch": "rosenberger",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 31. 1. 1702",
+          "signatura": "141-7598",
+          "detail": "snímek 48, pag. 94, Ruprechtice; výřez vypisy/141-7598/o141-7598-s48-pag94-1702-01-31-hans-rosenberger-ottendorf-x-judith-hertzog.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1fad27ed-fc5f-438c-a712-e096f25a2e51/dao/1fad27ed-fc5f-438c-a712-e096f25a2e51/file/cd5be5af-d69a-4bca-a083-fa2f9f1163d5"
+        },
+        {
+          "label": "ARON, křest 22. 4. 1709",
+          "signatura": "141-7598",
+          "detail": "snímek 323, pag. 455, Ruprechtice; výřez vypisy/141-7598/n141-7598-s323-pag455-1709-04-22-hans-adalbertus-syn-hanse-rosenbergera-a-judith.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1fad27ed-fc5f-438c-a712-e096f25a2e51/dao/1fad27ed-fc5f-438c-a712-e096f25a2e51/file/0f470502-d421-4ca5-b456-5a40e9e29739"
+        }
+      ],
+      "notes": [
+        "Sňatek 31. 1. 1702 v Ruprechticích (141-7598, snímek 48, pag. 94): „Hanß Rosenberger, ein junger Geselle, weyl. George Rosenbergers nachgelassener ehel. Sohn von Ottendorf“ × panna Judith, pozůstalá dcera †Jonase Hertzoga z Ruprechtic; oddával P. Petrus, svědek Caspar Bircke z Jetřichova.",
+        "Otec Johanna Adalberta *22. 4. 1709 (křest: „Hanß Rosenbergern von Ruppersdorf und Judithen seinem Weib“)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "judith-hertzog-1677",
+      "name": "Judith Rosenbergerová",
+      "maiden": "Hertzog",
+      "birth": {
+        "display": "19. 8. 1677",
+        "precision": "exact",
+        "date": "1677-08-19",
+        "place": "Ruprechtice",
+        "note": "Datum křtu."
+      },
+      "baptism": {
+        "display": "19. 8. 1677",
+        "precision": "exact",
+        "date": "1677-08-19",
+        "place": "Ruprechtice"
+      },
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Ruprechtice"
+      ],
+      "branch": "rosenberger",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, křest 19. 8. 1677",
+          "signatura": "141-7598",
+          "detail": "snímek 193, pag. 183, Ruprechtice; výřez vypisy/141-7598/n141-7598-s193-pag183-1677-08-19-judith-dcera-jonase-hertzoga.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1fad27ed-fc5f-438c-a712-e096f25a2e51/dao/1fad27ed-fc5f-438c-a712-e096f25a2e51/file/c21dc153-60ec-4e3f-a7a1-bb218225dd87"
+        },
+        {
+          "label": "ARON, index narozených Ruprechtice lit. H 1652–1694",
+          "signatura": "141-4251",
+          "detail": "snímky 36–37; Jonas Hertzog × Judith mají děti 1663–1679, jediná Judith 19. 8. 1677 (fol. 183)",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/b628c27c-a629-44c8-a008-e4d017646195/dao/b628c27c-a629-44c8-a008-e4d017646195/file/82b823e5-aa26-4e89-977b-269bf49dfbad"
+        },
+        {
+          "label": "ARON, sňatek 31. 1. 1702",
+          "signatura": "141-7598",
+          "detail": "snímek 48, pag. 94, Ruprechtice; výřez vypisy/141-7598/o141-7598-s48-pag94-1702-01-31-hans-rosenberger-ottendorf-x-judith-hertzog.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1fad27ed-fc5f-438c-a712-e096f25a2e51/dao/1fad27ed-fc5f-438c-a712-e096f25a2e51/file/cd5be5af-d69a-4bca-a083-fa2f9f1163d5"
+        },
+        {
+          "label": "ARON, křest 22. 4. 1709",
+          "signatura": "141-7598",
+          "detail": "snímek 323, pag. 455, Ruprechtice; výřez vypisy/141-7598/n141-7598-s323-pag455-1709-04-22-hans-adalbertus-syn-hanse-rosenbergera-a-judith.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1fad27ed-fc5f-438c-a712-e096f25a2e51/dao/1fad27ed-fc5f-438c-a712-e096f25a2e51/file/0f470502-d421-4ca5-b456-5a40e9e29739"
+        }
+      ],
+      "notes": [
+        "Křest 19. 8. 1677 (141-7598, snímek 193, pag. 183): Jonas Hertzog a jeho manželka Judith dali pokřtít dceru Judith; kmotři Maria, žena Martina Klämpta(?) z Ruprechtic, a Hans Dimbter z Hynčic.",
+        "Připsání nevěstě z 1702 („Jungfrau Judith, weyl. Jonas Hertzogs nachgelassene ehel. Tochter von Ruppersdorf“): index narozených 141-4251 lit. H 1652–1694 má jedinou Judith s otcem Jonasem. Druhý Jonas (*1665, syn Jonase × Judith) by byl při jejím narození dvanáctiletý."
+      ],
+      "interesting": [
+        "Ve 24 letech se vdala za mládence z Otovic. Její matka i ona se jmenovaly Judith, stejně jako o generaci dřív řada žen v Ruprechticích."
+      ]
+    },
+    {
+      "id": "georg-rosenberger-otovice",
+      "name": "Georg Rosenberger",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 31. 1. 1702",
+        "precision": "before",
+        "note": "Ve sňatku syna „weyl.“"
+      },
+      "occupation": null,
+      "places": [
+        "Otovice (Ottendorf)"
+      ],
+      "branch": "rosenberger",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 31. 1. 1702",
+          "signatura": "141-7598",
+          "detail": "snímek 48, pag. 94, Ruprechtice; výřez vypisy/141-7598/o141-7598-s48-pag94-1702-01-31-hans-rosenberger-ottendorf-x-judith-hertzog.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1fad27ed-fc5f-438c-a712-e096f25a2e51/dao/1fad27ed-fc5f-438c-a712-e096f25a2e51/file/cd5be5af-d69a-4bca-a083-fa2f9f1163d5"
+        }
+      ],
+      "notes": [
+        "Otec Hanse Rosenbergera podle sňatku 31. 1. 1702 (141-7598, snímek 48): „weyl. George Rosenbergers nachgelassener ehel. Sohn von Ottendorf“. Otovické matriky před 1842 v ARON nejsou."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "jonas-hertzog-ruprechtice",
+      "name": "Jonas Hertzog",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před 31. 1. 1702",
+        "precision": "before",
+        "note": "Ve sňatku dcery „weyl.“"
+      },
+      "occupation": null,
+      "places": [
+        "Ruprechtice"
+      ],
+      "branch": "rosenberger",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 31. 1. 1702",
+          "signatura": "141-7598",
+          "detail": "snímek 48, pag. 94, Ruprechtice; výřez vypisy/141-7598/o141-7598-s48-pag94-1702-01-31-hans-rosenberger-ottendorf-x-judith-hertzog.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1fad27ed-fc5f-438c-a712-e096f25a2e51/dao/1fad27ed-fc5f-438c-a712-e096f25a2e51/file/cd5be5af-d69a-4bca-a083-fa2f9f1163d5"
+        },
+        {
+          "label": "ARON, křest 19. 8. 1677",
+          "signatura": "141-7598",
+          "detail": "snímek 193, pag. 183, Ruprechtice; výřez vypisy/141-7598/n141-7598-s193-pag183-1677-08-19-judith-dcera-jonase-hertzoga.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1fad27ed-fc5f-438c-a712-e096f25a2e51/dao/1fad27ed-fc5f-438c-a712-e096f25a2e51/file/c21dc153-60ec-4e3f-a7a1-bb218225dd87"
+        },
+        {
+          "label": "ARON, index narozených Ruprechtice lit. H 1652–1694",
+          "signatura": "141-4251",
+          "detail": "snímky 36–37; Jonas Hertzog × Judith mají děti 1663–1679, jediná Judith 19. 8. 1677 (fol. 183)",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/b628c27c-a629-44c8-a008-e4d017646195/dao/b628c27c-a629-44c8-a008-e4d017646195/file/82b823e5-aa26-4e89-977b-269bf49dfbad"
+        }
+      ],
+      "notes": [
+        "Otec Judith *19. 8. 1677. V indexu narozených Ruprechtic má s manželkou Judith děti 1663 (Tobias), 1665 (Jonas), 1669 a 1670 (Maria), 1676 (Johann), 1677 (Judith) a 1679 (Regina). Narodil se tedy před rokem 1645, před začátkem ruprechtické matriky (5/1652). Sňatek v ruprechtické knize 1660–1663 není (141-7598, snímky 3–4) a v oddacím indexu 174-23 začínají Hertzogové až 1673."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "judith-hertzog-st",
+      "name": "Judith Hertzogová",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Ruprechtice"
+      ],
+      "branch": "rosenberger",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, křest 19. 8. 1677",
+          "signatura": "141-7598",
+          "detail": "snímek 193, pag. 183, Ruprechtice; výřez vypisy/141-7598/n141-7598-s193-pag183-1677-08-19-judith-dcera-jonase-hertzoga.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1fad27ed-fc5f-438c-a712-e096f25a2e51/dao/1fad27ed-fc5f-438c-a712-e096f25a2e51/file/c21dc153-60ec-4e3f-a7a1-bb218225dd87"
+        },
+        {
+          "label": "ARON, index narozených Ruprechtice lit. H 1652–1694",
+          "signatura": "141-4251",
+          "detail": "snímky 36–37; Jonas Hertzog × Judith mají děti 1663–1679, jediná Judith 19. 8. 1677 (fol. 183)",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/b628c27c-a629-44c8-a008-e4d017646195/dao/b628c27c-a629-44c8-a008-e4d017646195/file/82b823e5-aa26-4e89-977b-269bf49dfbad"
+        }
+      ],
+      "notes": [
+        "Manželka Jonase Hertzoga, matka Judith *19. 8. 1677. Rodné příjmení neznámé (sňatek nenalezen)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "georg-waltzel-viznov",
+      "name": "Georg Waltzel",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Vižňov (Wiesen)"
+      ],
+      "branch": "rosenberger",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 6. 10. 1734",
+          "signatura": "174-6",
+          "detail": "snímek 66, fol. 121, Vižňov (kostel sv. Anny); výřez vypisy/174-6/o174-6-s66-fol121-1734-10-06-johann-adalbert-rosenberger-x-maria-waltzel.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/dao/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/file/e1b801df-e4fc-47e4-b388-a53c2da1e02a"
+        }
+      ],
+      "notes": [
+        "Otec Marie, nevěsty Johanna Adalberta Rosenbergera, podle sňatku 6. 10. 1734 (174-6, snímek 66, fol. 121). Povolání v zápisu čteno nejistě."
+      ],
+      "interesting": []
     }
   ],
   "unions": [
@@ -12643,12 +12910,24 @@
           "signatura": "141-7599",
           "detail": "snímek 93, fol. 113; výřez vypisy/141-7599/z141-7599-s93-fol113-1743-03-01-johann-josephus-syn-johanna-adalberta-rosenberga-a-anny-marie.jpg",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/0748c5ed-8b7e-4687-931b-287eebfe9cc5"
+        },
+        {
+          "label": "ARON, sňatek 6. 10. 1734",
+          "signatura": "174-6",
+          "detail": "snímek 66, fol. 121, Vižňov (kostel sv. Anny); výřez vypisy/174-6/o174-6-s66-fol121-1734-10-06-johann-adalbert-rosenberger-x-maria-waltzel.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/dao/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/file/e1b801df-e4fc-47e4-b388-a53c2da1e02a"
         }
       ],
       "notes": [
         "Otcovství z oddacího zápisu syna 19. 11. 1764.",
         "Kolo AA: rodiče Johann Adalbert a Anna Maria ze křtu syna 1. 3. 1743."
-      ]
+      ],
+      "married": {
+        "display": "6. 10. 1734",
+        "date": "1734-10-06",
+        "place": "Vižňov, kostel sv. Anny",
+        "note": "174-6, snímek 66, fol. 121; oddával P. Gaudentius. Svědci ženicha Hans Heinrich Bircke ze Schönau(?), Anton Kahler a Friedrich Bircke z Ruprechtic; nevěsty Caspar Alt, Caspar Kreidler a Anton(?) Märckel z Vižňova."
+      }
     },
     {
       "id": "u-anton-obitz-ruprechtice",
@@ -13736,6 +14015,116 @@
       "notes": [
         "Rodiče Elisabeth Leicht podle oddacího zápisu 1890 a křtu vnuka Petra 1904."
       ]
+    },
+    {
+      "id": "u-hans-rosenberger-judith",
+      "partners": [
+        "hans-rosenberger-1702",
+        "judith-hertzog-1677"
+      ],
+      "children": [
+        "johannes-rosenberg-ruprechtice"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, sňatek 31. 1. 1702",
+          "signatura": "141-7598",
+          "detail": "snímek 48, pag. 94, Ruprechtice; výřez vypisy/141-7598/o141-7598-s48-pag94-1702-01-31-hans-rosenberger-ottendorf-x-judith-hertzog.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1fad27ed-fc5f-438c-a712-e096f25a2e51/dao/1fad27ed-fc5f-438c-a712-e096f25a2e51/file/cd5be5af-d69a-4bca-a083-fa2f9f1163d5"
+        },
+        {
+          "label": "ARON, křest 22. 4. 1709",
+          "signatura": "141-7598",
+          "detail": "snímek 323, pag. 455, Ruprechtice; výřez vypisy/141-7598/n141-7598-s323-pag455-1709-04-22-hans-adalbertus-syn-hanse-rosenbergera-a-judith.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1fad27ed-fc5f-438c-a712-e096f25a2e51/dao/1fad27ed-fc5f-438c-a712-e096f25a2e51/file/0f470502-d421-4ca5-b456-5a40e9e29739"
+        }
+      ],
+      "married": {
+        "display": "31. 1. 1702",
+        "date": "1702-01-31",
+        "place": "Ruprechtice",
+        "note": "141-7598, snímek 48, pag. 94; oddával P. Petrus, svědek Caspar Bircke z Jetřichova."
+      },
+      "notes": [
+        "Syn Hans Adalbertus pokřtěn 22. 4. 1709 jako dítě Hanse Rosenbergera z Ruprechtic a Judith."
+      ]
+    },
+    {
+      "id": "u-georg-rosenberger-otovice",
+      "partners": [
+        "georg-rosenberger-otovice"
+      ],
+      "children": [
+        "hans-rosenberger-1702"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, sňatek 31. 1. 1702",
+          "signatura": "141-7598",
+          "detail": "snímek 48, pag. 94, Ruprechtice; výřez vypisy/141-7598/o141-7598-s48-pag94-1702-01-31-hans-rosenberger-ottendorf-x-judith-hertzog.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1fad27ed-fc5f-438c-a712-e096f25a2e51/dao/1fad27ed-fc5f-438c-a712-e096f25a2e51/file/cd5be5af-d69a-4bca-a083-fa2f9f1163d5"
+        }
+      ],
+      "notes": [
+        "Manželka nejmenována."
+      ]
+    },
+    {
+      "id": "u-jonas-hertzog-judith",
+      "partners": [
+        "jonas-hertzog-ruprechtice",
+        "judith-hertzog-st"
+      ],
+      "children": [
+        "judith-hertzog-1677"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, křest 19. 8. 1677",
+          "signatura": "141-7598",
+          "detail": "snímek 193, pag. 183, Ruprechtice; výřez vypisy/141-7598/n141-7598-s193-pag183-1677-08-19-judith-dcera-jonase-hertzoga.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1fad27ed-fc5f-438c-a712-e096f25a2e51/dao/1fad27ed-fc5f-438c-a712-e096f25a2e51/file/c21dc153-60ec-4e3f-a7a1-bb218225dd87"
+        },
+        {
+          "label": "ARON, index narozených Ruprechtice lit. H 1652–1694",
+          "signatura": "141-4251",
+          "detail": "snímky 36–37; Jonas Hertzog × Judith mají děti 1663–1679, jediná Judith 19. 8. 1677 (fol. 183)",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/b628c27c-a629-44c8-a008-e4d017646195/dao/b628c27c-a629-44c8-a008-e4d017646195/file/82b823e5-aa26-4e89-977b-269bf49dfbad"
+        },
+        {
+          "label": "ARON, sňatek 31. 1. 1702",
+          "signatura": "141-7598",
+          "detail": "snímek 48, pag. 94, Ruprechtice; výřez vypisy/141-7598/o141-7598-s48-pag94-1702-01-31-hans-rosenberger-ottendorf-x-judith-hertzog.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1fad27ed-fc5f-438c-a712-e096f25a2e51/dao/1fad27ed-fc5f-438c-a712-e096f25a2e51/file/cd5be5af-d69a-4bca-a083-fa2f9f1163d5"
+        }
+      ],
+      "notes": [
+        "Rodiče Judith *19. 8. 1677."
+      ]
+    },
+    {
+      "id": "u-georg-waltzel",
+      "partners": [
+        "georg-waltzel-viznov"
+      ],
+      "children": [
+        "anna-maria-rosenberg-ruprechtice"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, sňatek 6. 10. 1734",
+          "signatura": "174-6",
+          "detail": "snímek 66, fol. 121, Vižňov (kostel sv. Anny); výřez vypisy/174-6/o174-6-s66-fol121-1734-10-06-johann-adalbert-rosenberger-x-maria-waltzel.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/dao/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/file/e1b801df-e4fc-47e4-b388-a53c2da1e02a"
+        }
+      ],
+      "notes": [
+        "Matka nevěsty nejmenována."
+      ]
     }
   ],
   "identifications": [],
@@ -14412,8 +14801,8 @@
     {
       "id": "q-ringel-puvod-1748",
       "title": "Anton Ringel (Ruprechtice): první sňatek 1748 a otec Johann Ringel z Vižňova?",
-      "summary": "141-7599, snímek 409 (19. 2. 1748, Ruprechtice): „Anton Rüngel ein Junggesell, Johann Rüngels ehel. Sohn aus Wiesen“ si bere Rosinu, vdovu po Heinrichu Opitzovi z Ruprechtic. Snímek 537 (Pag. 121): 12. 12. 1749 zemřela „Maria, Anton Rüngels Ehewürthin allhier von Ruppersdorf“, pohřbena 15. 12. 1749. 12. 5. 1750 se Anton Ringel jako vdovec žení s Annou Marií Schroll(ovou), svědek „Johannes Rüngel aus Wiesen(?)“. Domněnka (Kolo BR): Anton *26. 1. 1718 ve Vižňově, syn Hanse (Johanna) Ringela a Rosiny (174-6, snímek 225).",
-      "details": "Řetěz svobodný 1748 → ovdověl 12/1749 → vdovec 5/1750 sedí, ale nevěsta 1748 je Rosina a zemřelá 1749 Maria. Shodu jmen záznamy nedokládají, takže otec Johann Ringel z Vižňova (generace 10) zatím do mapy nejde. Úmrtí Rosiny Rüngel(ové) jinak v ruprechtické knize 1748–5/1750 (snímky 533–538) není. Matka Barbary Dauerové: úmrtí Anny Marie Ringel(ové), roz. Schroll(ové), v ruprechtické knize zemřelých 1768 až 11/1770 (snímky 603–613) není.  Pokud zemřela v Ruprechticích až po narození Barbary (~1768), byl by zápis v prošlém úseku. To mluví spíš proti tomu, že Barbara Dauerová (*~1768) je její dcera; jistota to ale není. Další krok: úmrtí Schroll 1750–1767 a křest Antona ve Vižňově ~1718 (Vernéřovice, 174-*). Doplněk 25. 11. 2026 (večer): Anna Maria roz. Schroll(ová) žila ještě 27. 8. 1760 (křest dcery, 141-7599 snímek 188, Pag. 295). Kniha zemřelých 141-7599 je nyní prošlá souvisle od 9/1760 do 11/1770 (snímky 566–613): zápis o úmrtí Anny Marie Ringel(ové)/Schroll(ové) ani „Anton Ringels Eheweib“ tam není. Ringelové v tomto úseku: 9/1760 (snímek 568, Pag. 182) pohřbena Anna Elisabeth, dcerka Antona Ringela (pravděpodobně dítě pokřtěné 27. 8. 1760); 14. 7. 1762 (snímek 576, Pag. 199) †Anna Barbara, dcerka Antona Ringela; 7. 3. 1763 (snímek 584, Pag. 215) †Rosina Ringlin z Ruprechtic, dospělá, bez stavu a manžela; 19. 12. 1764 (snímek 595, Pag. 236) †Anna Rosina, manželka Johanna Ringela; 20. 11. 1765 (snímek 598, Pag. 242) †Anna Elisabetha, dcerka Antona Ringela, „Hausgenoss“; 25. 1. 1767 (snímek 602, Pag. 251) †Anton Ringel, výměnkář (Ausgedinger) z Ruprechtic, bez věku. Úmrtí 1767 nemůže být náš Anton (ten se 27. 11. 1770 žení jako vdovec a umírá 1793), takže v Ruprechticích žil v 60. letech ještě druhý Anton Ringel, výměnkář. Pro Barbaru Dauerovou (*~1768) to znamená: formulace „Anton Ringels Auszüglers Tochter“ (1799, 1808) je nadále připsána Antonovi †1793 z č. 33 (1771 výslovně výměnkář č. 33), ale zemřelý výměnkář 1767 je další kandidát na otce, pokud by se Barbara narodila nejpozději koncem roku 1767. Chybějící úmrtí Anny Marie Schroll(ové) v Ruprechticích 1760–1770 zatím vysvětlení nemá (jiná farnost, přehlédnutí, nebo jiné jméno v zápisu). Kolo BR (27. 11. 2026), domněnka: Index narozených Vižňov 174-19 (snímek 52, lit. R, 1716–1727) má jediného Antona Ringela, syna Johanna, a to 26. 1. 1718 (fol. 275); druhý Anton (7. 2. 1723) je syn Tobiase. Tělo 174-6, snímek 225, fol. 275: „Den 26. Januarij … Hanß Ringeln … und seiner Eheweirthin Rosina einen Sohn getaufft mit nahmen Anthon, ist gebohren worden den 26. dito in der 3. Stunde vor mittag“, kmotři Hanß Heinrich Mer(t)el(?) a Maria, žena Heinricha Hintzela(?) z Neusorge (Nová Ves?). Datum přesně odpovídá věku 75 let při úmrtí 1. 11. 1793 a jménu otce ženicha 1748 („Johann Rüngels ehel. Sohn aus Wiesen“). Oddací index Ruprechtic 174-23 (snímek 27) potvrzuje 19. 2. 1748 ženicha Antona z Wiesen a 12. 5. 1750 vdovce Antona z Ruppersdorfu; dále 25. 11. 1737 Johann Rüngel, vdovec z Wiesen × Maria Bau…(?) z Ruprechtic a 15. 11. 1747 Hans Rüngel z Wiesen × Maria Hertzog(ová). V Ruprechticích se ale v indexu 141-4251 (snímek 75) narodili i Anton Rindel 15. 8. 1708 (otec Tobias, matka A. Maria) a Anton Benedikt Rindel 1725 (otec Joh. Heinrich, matka Rosina); ten první je nejspíš sedlák Anton s ženou Marií (děti 1729–1737) a výměnkář †25. 1. 1767. Že je ženich 1748 (a tedy křest 1718) totožný s vdovcem 1770 a Barbařiným otcem †1793, žádný zápis výslovně neříká, proto Hans Ringel × Rosina do mapy nejdou.",
+      "summary": "141-7599, snímek 409 (19. 2. 1748, Ruprechtice): „Anton Rüngel ein Junggesell, Johann Rüngels ehel. Sohn aus Wiesen“ si bere Rosinu, vdovu po Heinrichu Opitzovi z Ruprechtic. Snímek 537 (Pag. 121): 12. 12. 1749 zemřela „Maria, Anton Rüngels Ehewürthin allhier von Ruppersdorf“, pohřbena 15. 12. 1749. 12. 5. 1750 se Anton Ringel jako vdovec žení s Annou Marií Schroll(ovou), svědek „Johannes Rüngel aus Wiesen(?)“. Domněnka (Kolo BR): Anton *26. 1. 1718 ve Vižňově, syn Hanse (Johanna) Ringela a Rosiny (174-6, snímek 225). Kolo BS: rodiče Antona *1718 se vzali 8. 11. 1712 (Johann, syn Tobiase Ringela × Rosina Heintzel); totožnost s Barbařiným otcem stále nedoložena (v Ruprechticích 1750–1770 nejméně čtyři současní Antonové Ringelové).",
+      "details": "Řetěz svobodný 1748 → ovdověl 12/1749 → vdovec 5/1750 sedí, ale nevěsta 1748 je Rosina a zemřelá 1749 Maria. Shodu jmen záznamy nedokládají, takže otec Johann Ringel z Vižňova (generace 10) zatím do mapy nejde. Úmrtí Rosiny Rüngel(ové) jinak v ruprechtické knize 1748–5/1750 (snímky 533–538) není. Matka Barbary Dauerové: úmrtí Anny Marie Ringel(ové), roz. Schroll(ové), v ruprechtické knize zemřelých 1768 až 11/1770 (snímky 603–613) není.  Pokud zemřela v Ruprechticích až po narození Barbary (~1768), byl by zápis v prošlém úseku. To mluví spíš proti tomu, že Barbara Dauerová (*~1768) je její dcera; jistota to ale není. Další krok: úmrtí Schroll 1750–1767 a křest Antona ve Vižňově ~1718 (Vernéřovice, 174-*). Doplněk 25. 11. 2026 (večer): Anna Maria roz. Schroll(ová) žila ještě 27. 8. 1760 (křest dcery, 141-7599 snímek 188, Pag. 295). Kniha zemřelých 141-7599 je nyní prošlá souvisle od 9/1760 do 11/1770 (snímky 566–613): zápis o úmrtí Anny Marie Ringel(ové)/Schroll(ové) ani „Anton Ringels Eheweib“ tam není. Ringelové v tomto úseku: 9/1760 (snímek 568, Pag. 182) pohřbena Anna Elisabeth, dcerka Antona Ringela (pravděpodobně dítě pokřtěné 27. 8. 1760); 14. 7. 1762 (snímek 576, Pag. 199) †Anna Barbara, dcerka Antona Ringela; 7. 3. 1763 (snímek 584, Pag. 215) †Rosina Ringlin z Ruprechtic, dospělá, bez stavu a manžela; 19. 12. 1764 (snímek 595, Pag. 236) †Anna Rosina, manželka Johanna Ringela; 20. 11. 1765 (snímek 598, Pag. 242) †Anna Elisabetha, dcerka Antona Ringela, „Hausgenoss“; 25. 1. 1767 (snímek 602, Pag. 251) †Anton Ringel, výměnkář (Ausgedinger) z Ruprechtic, bez věku. Úmrtí 1767 nemůže být náš Anton (ten se 27. 11. 1770 žení jako vdovec a umírá 1793), takže v Ruprechticích žil v 60. letech ještě druhý Anton Ringel, výměnkář. Pro Barbaru Dauerovou (*~1768) to znamená: formulace „Anton Ringels Auszüglers Tochter“ (1799, 1808) je nadále připsána Antonovi †1793 z č. 33 (1771 výslovně výměnkář č. 33), ale zemřelý výměnkář 1767 je další kandidát na otce, pokud by se Barbara narodila nejpozději koncem roku 1767. Chybějící úmrtí Anny Marie Schroll(ové) v Ruprechticích 1760–1770 zatím vysvětlení nemá (jiná farnost, přehlédnutí, nebo jiné jméno v zápisu). Kolo BR (27. 11. 2026), domněnka: Index narozených Vižňov 174-19 (snímek 52, lit. R, 1716–1727) má jediného Antona Ringela, syna Johanna, a to 26. 1. 1718 (fol. 275); druhý Anton (7. 2. 1723) je syn Tobiase. Tělo 174-6, snímek 225, fol. 275: „Den 26. Januarij … Hanß Ringeln … und seiner Eheweirthin Rosina einen Sohn getaufft mit nahmen Anthon, ist gebohren worden den 26. dito in der 3. Stunde vor mittag“, kmotři Hanß Heinrich Mer(t)el(?) a Maria, žena Heinricha Hintzela(?) z Neusorge (Nová Ves?). Datum přesně odpovídá věku 75 let při úmrtí 1. 11. 1793 a jménu otce ženicha 1748 („Johann Rüngels ehel. Sohn aus Wiesen“). Oddací index Ruprechtic 174-23 (snímek 27) potvrzuje 19. 2. 1748 ženicha Antona z Wiesen a 12. 5. 1750 vdovce Antona z Ruppersdorfu; dále 25. 11. 1737 Johann Rüngel, vdovec z Wiesen × Maria Bau…(?) z Ruprechtic a 15. 11. 1747 Hans Rüngel z Wiesen × Maria Hertzog(ová). V Ruprechticích se ale v indexu 141-4251 (snímek 75) narodili i Anton Rindel 15. 8. 1708 (otec Tobias, matka A. Maria) a Anton Benedikt Rindel 1725 (otec Joh. Heinrich, matka Rosina); ten první je nejspíš sedlák Anton s ženou Marií (děti 1729–1737) a výměnkář †25. 1. 1767. Že je ženich 1748 (a tedy křest 1718) totožný s vdovcem 1770 a Barbařiným otcem †1793, žádný zápis výslovně neříká, proto Hans Ringel × Rosina do mapy nejdou. Kolo BS (27. 11. 2026): (1) Rozhodnutí o vdovci 1770 zůstává otevřené. Index narozených Ruprechtic 141-4251 (snímky 75–76) ukazuje v letech 1749–1769 nejméně čtyři současné páry Anton Ringel/Rindel: Anton, sedlák (Bauer) × A. Maria roz. Schroll(ová) – děti 1754?, 8. 5. 1757, 27. 8. 1760 („A. Maria Schrollin“, fol. 299) a ještě 26. 6. 1763 (snímek 76, fol. 317); Anton, podruh (Inmann) × A. Rosina – 15. 1. 1756 (fol. 255); Anton, podruh × Anna Elisabeth K(n)ittel(?) – 12. 1. 1761 (141-7599 snímek 190, pag. 299: „Anton Ringeln Haußgenoß in Ruppersdorf und seiner Ehewürthin Anna Elisabeth K…telin“); Anton, podruh × Anna Maria Franck(?) – 27. 11. 1764 (141-7599 snímek 214, pag. 348) a 10. 1. 1767 (fol. 378); k tomu Rindelové (Anton Inmann × A. Maria / A. Catharina). Vdovec ze sňatku 12. 5. 1750 se Schrollovou je tedy sedlák Anton (Bauer), a protože úmrtí Schrollové v letech 1760–11/1770 v knize není, je málo pravděpodobné, že to je vdovec z roku 1770. Úmrtí 7. 3. 1763 „Rosina Ringlin“ (dospělá) by mohlo patřit ženě podruha Antona × Rosina (sňatek 1748 z Vižňova), ale manžel v zápisu není. Jednoznačné spojení Barbařina otce s ženichem 1748 chybí. (2) Sňatek Hanse Ringela × Rosiny nalezen: 8. 11. 1712 (174-6, snímek 40, fol. 70; index 174-21 snímek 9): „Johannes Ringel, ein junger Gesell, Tobias Ringels ehelicher Sohn allhier zur Wiesen, mit Jungfrau Rosina, Tobias Heintzels ehelichen Tochter daselbst“; svědci mj. Tobias Bircke a Tobias Birck z Ruprechtic. V oddacím indexu Vižňova 1712–1730 je to jediný pár Johann Ringel × Rosina, takže rodiče Antona *1718 jsou s velkou jistotou tento pár. Johann byl synem Tobiase; ze dvou současných Tobiasů má v indexu narozených 174-19 (snímek 51) syna Johanna jen Tobias „der Obere“ × Dorothea roz. Bircke (Johann Joseph 18. 4. 1692, fol. 80). Pokud by se domněnka potvrdila, ruprechtičtí i vižňovští Ringelové by se spojili: Barbara Dauerová by byla pravnučkou Tobiase a Dorothey, předků i z Ignatzovy strany – Ignatz a Genovefa by pak byli vzdálení příbuzní. Vše zůstává domněnkou.",
       "related_ids": [
         "anton-ringel",
         "barbara-pitz",
@@ -14464,6 +14853,37 @@
           "label": "ARON, index narozených Ruprechtice lit. R 1703–1738",
           "signatura": "141-4251",
           "detail": "snímek 75"
+        },
+        {
+          "label": "ARON, sňatek 8. 11. 1712",
+          "signatura": "174-6",
+          "detail": "snímek 40, fol. 70",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/dao/a76dacd8-1968-44b5-a3d7-b4d19f36cebd/file/abf48f6e-eabf-49aa-a1fd-5c68a07f7958"
+        },
+        {
+          "label": "ARON, index oddaných Vižňov lit. R",
+          "signatura": "174-21",
+          "detail": "snímek 9"
+        },
+        {
+          "label": "ARON, index narozených Vižňov lit. R 1676–1709",
+          "signatura": "174-19",
+          "detail": "snímek 51"
+        },
+        {
+          "label": "ARON, křest 1761",
+          "signatura": "141-7599",
+          "detail": "snímek 190, pag. 299"
+        },
+        {
+          "label": "ARON, křest 27. 11. 1764",
+          "signatura": "141-7599",
+          "detail": "snímek 214, pag. 348"
+        },
+        {
+          "label": "ARON, index narozených Ruprechtice lit. R 1762–1769",
+          "signatura": "141-4251",
+          "detail": "snímek 76"
         }
       ]
     },
@@ -15945,6 +16365,36 @@
         {
           "label": "J. Ságnerová: Osídlování Broumovska v letech 1945–1947 (FF UK 2008)",
           "url": "https://dspace.cuni.cz/bitstream/handle/20.500.11956/15002/DPTX_2007_2_11210_ASZK10001_122024_0_57119.pdf"
+        }
+      ]
+    },
+    {
+      "id": "q-hertzog-jonas-puvod",
+      "title": "Původ Jonase Hertzoga a Georga Rosenbergera (gen. 13)",
+      "summary": "Jonas Hertzog (Ruprechtice, děti 1663–1679) a Georg Rosenberger (Otovice, †před 1702) jsou nejstarší doložení předci Rosenbergovy linie. Jejich rodiče (gen. 14) v ARON nejsou.",
+      "details": "Domněnka/stav: Jonas se narodil před 1645, ruprechtická matrika začíná 5/1652 (fol. 101v čtyři křty 1644–1652 – neprošlo). Sňatek Jonase × Judith není v ruprechtických oddaných 1660–1663 ani v indexu 174-23 (Hertzog od 1673). Jonas mladší *1665 je syn. Možná cesta: čtyři křty 1644–1652 na fol. 101v (141-7598) a úmrtí Jonase před 1702 v 141-7598 Z (věk). Georg Rosenberger z Otovic: otovické matriky v ARON začínají 1842; starší zápisy Otovic mohou být v broumovské farnosti (13-53 index N 1632–1766 Otovice nezahrnuje) – nutno ověřit, kam Otovice v 17. stol. farně patřily. Tobias Heintzel (otec Rosiny, sňatek 13. 2. 1685 s Marthou Walzel z Hynčic, index 174-23 snímek 13) je jen v domněnkové větvi Ringel.",
+      "related_ids": [
+        "jonas-hertzog-ruprechtice",
+        "georg-rosenberger-otovice",
+        "judith-hertzog-st"
+      ],
+      "sources": [
+        {
+          "label": "ARON, sňatek 31. 1. 1702",
+          "signatura": "141-7598",
+          "detail": "snímek 48, pag. 94, Ruprechtice; výřez vypisy/141-7598/o141-7598-s48-pag94-1702-01-31-hans-rosenberger-ottendorf-x-judith-hertzog.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/1fad27ed-fc5f-438c-a712-e096f25a2e51/dao/1fad27ed-fc5f-438c-a712-e096f25a2e51/file/cd5be5af-d69a-4bca-a083-fa2f9f1163d5"
+        },
+        {
+          "label": "ARON, index narozených Ruprechtice lit. H 1652–1694",
+          "signatura": "141-4251",
+          "detail": "snímky 36–37; Jonas Hertzog × Judith mají děti 1663–1679, jediná Judith 19. 8. 1677 (fol. 183)",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/b628c27c-a629-44c8-a008-e4d017646195/dao/b628c27c-a629-44c8-a008-e4d017646195/file/82b823e5-aa26-4e89-977b-269bf49dfbad"
+        },
+        {
+          "label": "ARON, index oddaných Ruprechtice lit. H",
+          "signatura": "174-23",
+          "detail": "snímek 13"
         }
       ]
     }

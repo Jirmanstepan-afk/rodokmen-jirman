@@ -1,8 +1,26 @@
 Emma Rosenbergerová, žena Jana Proße a máma babiččiny mámy Hedviky, mě zavedla zpátky na Broumovsko a odtud do 18. století. Rosenbergerové (v zápisech také *Rosenberg*) byli po generace podruhy a chalupníky v Ruprechticích. Z této větve mám nejvíc zápisů ze všech.
 
+## Až do 17. století: Hertzogové a Rosenbergerové z Otovic
+
+Nejstarší předky této větve jsem našel v ruprechtické matrice, která začíná v květnu 1652. Dne 19. srpna 1677 dal [[jonas-hertzog-ruprechtice|Jonas Hertzog]] z Ruprechtic se ženou [[judith-hertzog-st|Judith]] pokřtít dceru, kterou také pojmenovali [[judith-hertzog-1677|Judith]]. Kmotry byli Maria, žena Martina Klämpta(?) z Ruprechtic, a Hans Dimbter z Hynčic.[^141-7598/193: křest Judith Hertzogové 19. 8. 1677, Ruprechtice] Jonas měl děti už od roku 1663, takže se musel narodit někdy kolem roku 1640, ještě za třicetileté války nebo krátce po ní.[^141-4251/36: index narozených Ruprechtice, písmeno H, 1652–1666]
+
+![141-7598/193] Poslední zápis na straně: 19. srpna 1677 dal Jonas Hertzog se ženou Judith pokřtít dceru Judith.
+
+Judith se 31. ledna 1702 vdávala. Ženichem byl [[hans-rosenberger-1702|Hans Rosenberger]], mládenec a syn zesnulého [[georg-rosenberger-otovice|George Rosenbergera]] z Otovic (*Ottendorf*). Také Jonas už tehdy nežil. Oddával je P. Petrus a jediným zapsaným svědkem byl Caspar Bircke z Jetřichova.[^141-7598/48: oddací zápis 31. 1. 1702, Ruprechtice]
+
+![141-7598/48] Sňatek Hanse Rosenbergera z Otovic a panny Judith, dcery zesnulého Jonase Hertzoga, 31. ledna 1702.
+
+Jonas Hertzog, jeho žena Judith a George Rosenberger jsou se Štěpánem ve třinácté generaci. Jsou to vedle Lorenze Ringela z Vižňova nejstarší předkové, které znám jménem.
+
+> Domněnka: Odkud Jonas pocházel a kdo byli jeho rodiče, už se z matrik zjistit nedá. Narodil se dřív, než ruprechtická kniha začíná, a jeho svatbu jsem v ní nenašel. Otovické matriky jsou v archivu až od roku 1842 [?q-hertzog-jonas-puvod].
+
 ## Johann Adalbert a Johann Joseph
 
-Nejstarší Rosenberg, kterého jistě znám, je [[johannes-rosenberg-ruprechtice|Johann Adalbert Rosenberg]], podruh (*Hausgenoss*) v Ruprechticích. S manželkou [[anna-maria-rosenberg-ruprechtice|Annou Marií]] nechal pokřtít děti v letech 1736, 1738, 1741 a 1743.[^141-7599/54: křest syna Johanna Georga 3. 2. 1736][^141-7599/68: křest dcery Anny Marie 19. 7. 1738] Jejich syn [[joseph-rosenberger-1767-otec|Johann Joseph]] se narodil 28. února 1743.[^141-7599/93: křest Johanna Josepha Rosenberga 1. 3. 1743]
+Hans a Judith dali 22. dubna 1709 pokřtít syna „Hanse Adalberta“. Kmotry byli Tobias Bircke a Anna Maria, žena Tobiase Riedela.[^141-7598/323: křest Hanse Adalberta Rosenbergera 22. 4. 1709] Ve 25 letech, 6. října 1734, se [[johannes-rosenberg-ruprechtice|Johann Adalbert Rosenberg]] jako „syn Hanse Rosenbergera z Ruprechtic“ oženil ve vižňovském kostele sv. Anny s pannou Marií, dcerou [[georg-waltzel-viznov|Georga Waltzela]] z Vižňova.[^174-6/66: oddací zápis 6. 10. 1734, Vižňov]
+
+![174-6/66] Sňatek Johanna Adalberta Rosenbergera a panny Marie Waltzelové ve Vižňově 6. října 1734 (prostřední zápis).
+
+Johann Adalbert byl podruh (*Hausgenoss*) v Ruprechticích. S manželkou [[anna-maria-rosenberg-ruprechtice|Annou Marií]] nechal pokřtít děti v letech 1736, 1738, 1741 a 1743.[^141-7599/54: křest syna Johanna Georga 3. 2. 1736][^141-7599/68: křest dcery Anny Marie 19. 7. 1738] Jejich syn [[joseph-rosenberger-1767-otec|Johann Joseph]] se narodil 28. února 1743.[^141-7599/93: křest Johanna Josepha Rosenberga 1. 3. 1743]
 
 ![141-7599/93] Křest Johanna Josepha Rosenberga 1. března 1743 v Ruprechticích. Otec Johann Adalbert, podruh, matka Anna Maria.
 
