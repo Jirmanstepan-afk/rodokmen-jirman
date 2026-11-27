@@ -96,6 +96,18 @@
     "solc": {
       "label": "Šolc",
       "color": "#6b4e32"
+    },
+    "barcak": {
+      "label": "Barčák",
+      "color": "#7a5c2e"
+    },
+    "kostal": {
+      "label": "Košťál",
+      "color": "#4f6d3a"
+    },
+    "bittner": {
+      "label": "Bittner",
+      "color": "#5e5a8a"
     }
   },
   "people": [
@@ -6656,7 +6668,12 @@
         "date": "1874-09-25",
         "place": "Bělý č. 43"
       },
-      "baptism": null,
+      "baptism": {
+        "display": "27. 9. 1874",
+        "precision": "exact",
+        "date": "1874-09-27",
+        "place": "Machov (fara)"
+      },
       "death": null,
       "occupation": "podruh, tkadlec",
       "places": [
@@ -6685,12 +6702,20 @@
           "signatura": "96-7319",
           "detail": "snímek 149",
           "apu": "335ade0a-eccc-4c8a-a917-becf12f1d6fe"
+        },
+        {
+          "label": "ARON, narození 25. 9. 1874 Václav Jermann, Bělý č. 43",
+          "signatura": "96-4234",
+          "detail": "snímek 61",
+          "apu": "1bdecfdb-3757-4e70-b00e-f88e8024851b",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/1bdecfdb-3757-4e70-b00e-f88e8024851b/dao/1bdecfdb-3757-4e70-b00e-f88e8024851b/file/6b3dd221-8100-4419-8572-7601be953585"
         }
       ],
       "notes": [
         "Otec Ludvíka *1908 podle oddacího zápisu 1934 (8179 snímek 85): „syn Václava Jirmana, tkalce v Nízké Srbské č. 97, a Anny, dcery Vincence Barčáka z Machova č. 21“. V roce 1934 žil.",
         "Údaje o narození a rodičích ze zápisu narození syna Vincence Františka 1902: manželský syn †Jana Jirmanna, chalupníka v NS č. 24, a Anny, dcery Hynka Košťála, chalupníka v Bělém č. 43. Oddán v Machově 24. 8. 1897 (zápis sňatku v online knize NS 96-9405 není, rok 1897 tam obsahuje jen 4 jiné sňatky).",
-        "Neslučovat s Václavem *1866 (Machov č. 100, sčítání 1921) ani s Václavem, podruhem NS 45 (svědek 1902), dokud to zápis neřekne."
+        "Neslučovat s Václavem *1866 (Machov č. 100, sčítání 1921) ani s Václavem, podruhem NS 45 (svědek 1902), dokud to zápis neřekne.",
+        "Křestní zápis (96-4234 snímek 61): narozen 25. 9., pokřtěn 27. 9. 1874, Bělý č. 43, křtil P. Jindřich Rajman(?), kooperátor. Otec Jan Jermann, podruh v Bělém, manželský syn †Václava Jermanna, chalupníka v NS č. 26, a Veroniky, dcery Jana Bittnara, výměnkáře v NS č. 26. Matka Anna, dcera Hynka Košťála, chalupníka v Bělém č. 43, a Anny, dcery Jana Bittnara, chalupníka v NS č. 5. Kmotr František Košťál, chalupník Bělý č. 62. Poznámka na okraji: přestoupil k Církvi československé, zápis okresního úřadu Broumov 30. 4. 1920, č. j. 12096."
       ],
       "interesting": []
     },
@@ -6704,14 +6729,19 @@
         "date": "1874-12-22",
         "place": "Machov č. 21"
       },
-      "baptism": null,
+      "baptism": {
+        "display": "26. 12. 1874",
+        "precision": "exact",
+        "date": "1874-12-26",
+        "place": "Machov (fara)"
+      },
       "death": null,
       "occupation": null,
       "places": [
         "Machov č. 21 (narození)",
         "Nízká Srbská č. 7 (1902, 1904)"
       ],
-      "branch": "jirman",
+      "branch": "barcak",
       "certainty": "potvrzeno",
       "living": false,
       "sources": [
@@ -6726,11 +6756,19 @@
           "signatura": "96-7319",
           "detail": "snímek 142",
           "apu": "335ade0a-eccc-4c8a-a917-becf12f1d6fe"
+        },
+        {
+          "label": "ARON, narození 22. 12. 1874 Anna Barčáková, Machov č. 21",
+          "signatura": "96-4232",
+          "detail": "snímek 76",
+          "apu": "32dc0308-37a8-442e-966b-23c39ed3029e",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/32dc0308-37a8-442e-966b-23c39ed3029e/dao/32dc0308-37a8-442e-966b-23c39ed3029e/file/b98fd398-e6c8-4c16-b108-2cf3bfd18e12"
         }
       ],
       "notes": [
         "Manželská dcera Vincence Barčáka, podruha v Machově č. 57 (1902), a Marie, dcery Františka Kubečka, podruha v Machově č. 27 (96-7319 snímek 142).",
-        "Zápis 1934 ji uvádí jako „Annu, dceru Vincence Barčáka z Machova č. 21“."
+        "Zápis 1934 ji uvádí jako „Annu, dceru Vincence Barčáka z Machova č. 21“.",
+        "Křestní zápis (96-4232 snímek 76): narozena 22. 12., pokřtěna 26. 12. 1874, Machov č. 21. Otec Vincenc Barčák, podruh v Machově č. 21, syn †Jakuba Barčáka, chalupnického výměnkáře v NS č. 43, a Kateřiny, dcery Antonína Matěny (v tomto zápisu čteno „Mašíny“), podruha z Velkého Poříčí. Matka Marie, dcera Františka Kubečka, podruha v Machově č. 21, a Františky, dcery Karla Žida, chalupníka v Machově č. 11. Poznámka: přestoupila k Církvi československé, zápis OÚ Broumov 1920, č. j. 12094 (o dvě čísla vedle Václava)."
       ],
       "interesting": []
     },
@@ -6806,17 +6844,51 @@
       "id": "jan-jirmann-ns24",
       "name": "Jan Jirmann",
       "maiden": null,
-      "birth": null,
-      "baptism": null,
+      "birth": {
+        "display": "13. 5. 1842",
+        "precision": "exact",
+        "date": "1842-05-13",
+        "place": "Nízká Srbská č. 26"
+      },
+      "baptism": {
+        "display": "14. 5. 1842",
+        "precision": "exact",
+        "date": "1842-05-14",
+        "place": "Machov (fara)"
+      },
       "death": null,
-      "occupation": "chalupník",
+      "occupation": "tkadlec (1872), podruh (1874), chalupník (před 1902)",
       "places": [
-        "Nízká Srbská č. 24"
+        "Nízká Srbská č. 26 (narození)",
+        "Machov č. 74 (1872)",
+        "Bělý (1874, podruh; dům č. 43 tchána)",
+        "Nízká Srbská č. 24 (chalupník, uvedeno 1902)"
       ],
       "branch": "jirman",
       "certainty": "potvrzeno",
       "living": false,
       "sources": [
+        {
+          "label": "ARON, narození 13. 5. 1842 Johann Georg (Jan) Jermann, NS č. 26",
+          "signatura": "96-15",
+          "detail": "snímek 21",
+          "apu": "89e9015b-d31a-4b96-8437-085cfa61151f",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/89e9015b-d31a-4b96-8437-085cfa61151f/dao/89e9015b-d31a-4b96-8437-085cfa61151f/file/787c702a-5c84-46be-9344-9725d8472665"
+        },
+        {
+          "label": "ARON, sňatek 2. 7. 1872 Machov: Jan Jirmann × Anna Košťálová",
+          "signatura": "96-4233",
+          "detail": "snímek 28",
+          "apu": "8ab277de-c287-47b8-8ffb-e704ce54e8e3",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/8ab277de-c287-47b8-8ffb-e704ce54e8e3/dao/8ab277de-c287-47b8-8ffb-e704ce54e8e3/file/fdd9ef11-255c-497c-8271-c8137311f203"
+        },
+        {
+          "label": "ARON, narození 25. 9. 1874 Václav Jermann, Bělý č. 43",
+          "signatura": "96-4234",
+          "detail": "snímek 61",
+          "apu": "1bdecfdb-3757-4e70-b00e-f88e8024851b",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/1bdecfdb-3757-4e70-b00e-f88e8024851b/dao/1bdecfdb-3757-4e70-b00e-f88e8024851b/file/6b3dd221-8100-4419-8572-7601be953585"
+        },
         {
           "label": "ARON, narození 31. 7. 1902 Vincenc František, NS 7 (rodiče Václav Jirmann a Anna Barčáková, jejich rodiče)",
           "signatura": "96-7319",
@@ -6825,7 +6897,9 @@
         }
       ],
       "notes": [
-        "Otec Václava *1874; v zápisu 1902 již zesnulý (†). Narození a sňatek zatím nenalezeny. Neslučovat s Janem *1825 (NS č. 5 v letech 1884 a 1901) bez zápisu."
+        "Pokřtěn jako Johann Georg (Jan Jiří) 14. 5. 1842, narozen 13. 5. 1842 v NS č. 26 (96-15 snímek 21). Otec Wenzel (Václav) Jermann, chalupník, syn †Wenzela Jermanna, chalupníka v Machově č. 74, a Elisabeth roz. Lorenz z NS č. 60; matka Veronika, dcera Johanna Bittnera, výměnkáře v NS č. 26, a Ludmily roz. Langer(?) z „Hlay“(?) č. 32 (čtení příjmení a místa nejisté). Kmotr Johann Jermann, chalupník v Machově č. 74. Porodní bába Elisabeth Jermann(ová)(?) z Machova č. 74.",
+        "Oddán 2. 7. 1872 v Machově (Bělý O 96-4233 snímek 28): tkadlec v Machově č. 74, 30 let, svobodný, syn †Václava Jirmanna, chalupníka v NS č. 26, a †Veroniky roz. Bittnerové, výměnkářky v NS č. 26. Věk 30 let sedí na narození 13. 5. 1842.",
+        "Úmrtí zatím nenalezeno: v roce 1902 už nežil. Online matrika zemřelých NS po 1853 a Bělého po 1866 v ARON není. Neslučovat s Janem *25. 3. 1825 (jiný muž: NS č. 5 v letech 1884 a 1901)."
       ],
       "interesting": []
     },
@@ -6840,10 +6914,24 @@
       "places": [
         "Bělý č. 43 (otec)"
       ],
-      "branch": "jirman",
+      "branch": "kostal",
       "certainty": "potvrzeno",
       "living": false,
       "sources": [
+        {
+          "label": "ARON, sňatek 2. 7. 1872 Machov: Jan Jirmann × Anna Košťálová",
+          "signatura": "96-4233",
+          "detail": "snímek 28",
+          "apu": "8ab277de-c287-47b8-8ffb-e704ce54e8e3",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/8ab277de-c287-47b8-8ffb-e704ce54e8e3/dao/8ab277de-c287-47b8-8ffb-e704ce54e8e3/file/fdd9ef11-255c-497c-8271-c8137311f203"
+        },
+        {
+          "label": "ARON, narození 25. 9. 1874 Václav Jermann, Bělý č. 43",
+          "signatura": "96-4234",
+          "detail": "snímek 61",
+          "apu": "1bdecfdb-3757-4e70-b00e-f88e8024851b",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/1bdecfdb-3757-4e70-b00e-f88e8024851b/dao/1bdecfdb-3757-4e70-b00e-f88e8024851b/file/6b3dd221-8100-4419-8572-7601be953585"
+        },
         {
           "label": "ARON, narození 31. 7. 1902 Vincenc František, NS 7 (rodiče Václav Jirmann a Anna Barčáková, jejich rodiče)",
           "signatura": "96-7319",
@@ -6852,7 +6940,8 @@
         }
       ],
       "notes": [
-        "Dcera Hynka Košťála, chalupníka v Bělém č. 43 (96-7319 snímek 142)."
+        "Dcera Hynka Košťála, chalupníka v Bělém č. 43, a Anny roz. Bittnerové, dcery Jana Bittnera, chalupníka v NS č. 5 (sňatek 1872, 96-4233 snímek 28; křest syna 1874, 96-4234 snímek 61).",
+        "Při sňatku 2. 7. 1872 nezletilá; otec Hynek Košťál dal souhlas a podepsal se. Narození zatím nehledáno (Bělý N 1847–1865 je sign. 96-7)."
       ],
       "interesting": []
     },
@@ -6860,18 +6949,50 @@
       "id": "vincenc-barcak",
       "name": "Vincenc Barčák",
       "maiden": null,
-      "birth": null,
-      "baptism": null,
+      "birth": {
+        "display": "14. 4. 1851",
+        "precision": "exact",
+        "date": "1851-04-14",
+        "place": "Nízká Srbská č. 43"
+      },
+      "baptism": {
+        "display": "15. 4. 1851",
+        "precision": "exact",
+        "date": "1851-04-15",
+        "place": "Machov (fara)"
+      },
       "death": null,
-      "occupation": "podruh",
+      "occupation": "tkadlec (1874), podruh (1874, 1902)",
       "places": [
-        "Machov č. 21 (1874, 1934)",
+        "Nízká Srbská č. 43 (narození)",
+        "Machov č. 21 (1874)",
         "Machov č. 57 (1902)"
       ],
-      "branch": "jirman",
+      "branch": "barcak",
       "certainty": "potvrzeno",
       "living": false,
       "sources": [
+        {
+          "label": "ARON, narození 14. 4. 1851 Vincenc Barčák, NS č. 43",
+          "signatura": "96-15",
+          "detail": "snímek 50",
+          "apu": "89e9015b-d31a-4b96-8437-085cfa61151f",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/89e9015b-d31a-4b96-8437-085cfa61151f/dao/89e9015b-d31a-4b96-8437-085cfa61151f/file/8665d411-be06-4ab6-9d35-13b4e2daabb2"
+        },
+        {
+          "label": "ARON, sňatek 3. 11. 1874 Machov: Vincenc Barčák × Marie Kubečková",
+          "signatura": "96-4230",
+          "detail": "snímek 38",
+          "apu": "ac869ed4-a60c-41de-8c26-219845ec09a3",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/ac869ed4-a60c-41de-8c26-219845ec09a3/dao/ac869ed4-a60c-41de-8c26-219845ec09a3/file/f9443af8-2d05-4432-80ec-bd3411f4f5b1"
+        },
+        {
+          "label": "ARON, narození 22. 12. 1874 Anna Barčáková, Machov č. 21",
+          "signatura": "96-4232",
+          "detail": "snímek 76",
+          "apu": "32dc0308-37a8-442e-966b-23c39ed3029e",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/32dc0308-37a8-442e-966b-23c39ed3029e/dao/32dc0308-37a8-442e-966b-23c39ed3029e/file/b98fd398-e6c8-4c16-b108-2cf3bfd18e12"
+        },
         {
           "label": "ARON, narození 31. 7. 1902 Vincenc František, NS 7 (rodiče Václav Jirmann a Anna Barčáková, jejich rodiče)",
           "signatura": "96-7319",
@@ -6886,7 +7007,9 @@
         }
       ],
       "notes": [
-        "Otec Anny *1874. Manželka Marie, dcera Františka Kubečka, podruha v Machově č. 27."
+        "Narozen 14. 4. 1851 v NS č. 43 (96-15 snímek 50), syn Jakuba Barčáka, výměnkáře, a Kateřiny, dcery Antonína Matěny, tkadlce a podruha z Velkého Poříčí, a Marie (příjmení nejisté) z Poříčí č. 45. Porodní bába Alžběta Jirmanová z Machova č. 74.",
+        "Oddán 3. 11. 1874 v Machově (96-4230 snímek 38): tkadlec v Machově č. 21, 23 let, nezletilý (souhlas soudu v Polici 14. 10. 1874), syn †Jakuba Barčáka, domkářského výměnkáře v NS č. 43, a Kateřiny, dcery Antonína Matěny, tkadlce z Velkého Poříčí.",
+        "V roce 1902 uváděn jako podruh v Machově č. 57; v letech 1874 a 1934 je s rodinou spojen dům Machov č. 21."
       ],
       "interesting": []
     },
@@ -6894,17 +7017,37 @@
       "id": "marie-kubeckova-barcakova",
       "name": "Marie Barčáková",
       "maiden": "Kubečková",
-      "birth": null,
+      "birth": {
+        "display": "asi 1854",
+        "precision": "about",
+        "date": "1854",
+        "place": null,
+        "note": "20 let při sňatku 3. 11. 1874."
+      },
       "baptism": null,
       "death": null,
       "occupation": null,
       "places": [
-        "Machov č. 27 (otec)"
+        "Machov č. 21 (1874)"
       ],
-      "branch": "jirman",
+      "branch": "barcak",
       "certainty": "potvrzeno",
       "living": false,
       "sources": [
+        {
+          "label": "ARON, sňatek 3. 11. 1874 Machov: Vincenc Barčák × Marie Kubečková",
+          "signatura": "96-4230",
+          "detail": "snímek 38",
+          "apu": "ac869ed4-a60c-41de-8c26-219845ec09a3",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/ac869ed4-a60c-41de-8c26-219845ec09a3/dao/ac869ed4-a60c-41de-8c26-219845ec09a3/file/f9443af8-2d05-4432-80ec-bd3411f4f5b1"
+        },
+        {
+          "label": "ARON, narození 22. 12. 1874 Anna Barčáková, Machov č. 21",
+          "signatura": "96-4232",
+          "detail": "snímek 76",
+          "apu": "32dc0308-37a8-442e-966b-23c39ed3029e",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/32dc0308-37a8-442e-966b-23c39ed3029e/dao/32dc0308-37a8-442e-966b-23c39ed3029e/file/b98fd398-e6c8-4c16-b108-2cf3bfd18e12"
+        },
         {
           "label": "ARON, narození 31. 7. 1902 Vincenc František, NS 7 (rodiče Václav Jirmann a Anna Barčáková, jejich rodiče)",
           "signatura": "96-7319",
@@ -6913,7 +7056,409 @@
         }
       ],
       "notes": [
-        "Dcera Františka Kubečka, podruha v Machově č. 27 (96-7319 snímek 142)."
+        "Při sňatku 3. 11. 1874 (96-4230 snímek 38) 20 let, nezletilá; dcera Františka Kubečka, podruha v Machově č. 21, a Františky, dcery Karla Žida, chalupníka v Machově č. 11. Otec dal souhlas a podepsal se.",
+        "V zápisu z roku 1902 je její otec uveden jako podruh v Machově č. 27; v letech 1874 je to č. 21."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "vaclav-jirmann-ns26",
+      "name": "Václav Jirmann",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "chalupník",
+      "places": [
+        "Nízká Srbská č. 26"
+      ],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 13. 5. 1842 Johann Georg (Jan) Jermann, NS č. 26",
+          "signatura": "96-15",
+          "detail": "snímek 21",
+          "apu": "89e9015b-d31a-4b96-8437-085cfa61151f",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/89e9015b-d31a-4b96-8437-085cfa61151f/dao/89e9015b-d31a-4b96-8437-085cfa61151f/file/787c702a-5c84-46be-9344-9725d8472665"
+        },
+        {
+          "label": "ARON, sňatek 2. 7. 1872 Machov: Jan Jirmann × Anna Košťálová",
+          "signatura": "96-4233",
+          "detail": "snímek 28",
+          "apu": "8ab277de-c287-47b8-8ffb-e704ce54e8e3",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/8ab277de-c287-47b8-8ffb-e704ce54e8e3/dao/8ab277de-c287-47b8-8ffb-e704ce54e8e3/file/fdd9ef11-255c-497c-8271-c8137311f203"
+        },
+        {
+          "label": "ARON, narození 25. 9. 1874 Václav Jermann, Bělý č. 43",
+          "signatura": "96-4234",
+          "detail": "snímek 61",
+          "apu": "1bdecfdb-3757-4e70-b00e-f88e8024851b",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/1bdecfdb-3757-4e70-b00e-f88e8024851b/dao/1bdecfdb-3757-4e70-b00e-f88e8024851b/file/6b3dd221-8100-4419-8572-7601be953585"
+        }
+      ],
+      "notes": [
+        "Otec Jana *1842. V roce 1842 chalupník v NS č. 26, syn †Václava Jermanna, chalupníka v Machově č. 74, a Alžběty roz. Lorenzové z NS č. 60. V roce 1872 už nežil (†).",
+        "Neslučovat s jinými Václavy Jirmanny z Machova bez zápisu."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "veronika-bittnerova",
+      "name": "Veronika Jirmannová",
+      "maiden": "Bittnerová",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Nízká Srbská č. 26"
+      ],
+      "branch": "bittner",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 13. 5. 1842 Johann Georg (Jan) Jermann, NS č. 26",
+          "signatura": "96-15",
+          "detail": "snímek 21",
+          "apu": "89e9015b-d31a-4b96-8437-085cfa61151f",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/89e9015b-d31a-4b96-8437-085cfa61151f/dao/89e9015b-d31a-4b96-8437-085cfa61151f/file/787c702a-5c84-46be-9344-9725d8472665"
+        },
+        {
+          "label": "ARON, sňatek 2. 7. 1872 Machov: Jan Jirmann × Anna Košťálová",
+          "signatura": "96-4233",
+          "detail": "snímek 28",
+          "apu": "8ab277de-c287-47b8-8ffb-e704ce54e8e3",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/8ab277de-c287-47b8-8ffb-e704ce54e8e3/dao/8ab277de-c287-47b8-8ffb-e704ce54e8e3/file/fdd9ef11-255c-497c-8271-c8137311f203"
+        },
+        {
+          "label": "ARON, narození 25. 9. 1874 Václav Jermann, Bělý č. 43",
+          "signatura": "96-4234",
+          "detail": "snímek 61",
+          "apu": "1bdecfdb-3757-4e70-b00e-f88e8024851b",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/1bdecfdb-3757-4e70-b00e-f88e8024851b/dao/1bdecfdb-3757-4e70-b00e-f88e8024851b/file/6b3dd221-8100-4419-8572-7601be953585"
+        }
+      ],
+      "notes": [
+        "Dcera Johanna (Jana) Bittnera, výměnkáře v NS č. 26, a Ludmily (rodné příjmení čteno Langer?, nejisté). V roce 1872 už nežila (†)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "vaclav-jirmann-machov74",
+      "name": "Václav Jirmann",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "chalupník",
+      "places": [
+        "Machov č. 74"
+      ],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 13. 5. 1842 Johann Georg (Jan) Jermann, NS č. 26",
+          "signatura": "96-15",
+          "detail": "snímek 21",
+          "apu": "89e9015b-d31a-4b96-8437-085cfa61151f",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/89e9015b-d31a-4b96-8437-085cfa61151f/dao/89e9015b-d31a-4b96-8437-085cfa61151f/file/787c702a-5c84-46be-9344-9725d8472665"
+        }
+      ],
+      "notes": [
+        "Děd Jana *1842: v zápisu 1842 „†Wenzel Jermann, chalupník v Machově č. 74“. V roce 1842 už nežil."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "alzbeta-lorenzova",
+      "name": "Alžběta Jirmannová",
+      "maiden": "Lorenzová",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Nízká Srbská č. 60 (původ)"
+      ],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 13. 5. 1842 Johann Georg (Jan) Jermann, NS č. 26",
+          "signatura": "96-15",
+          "detail": "snímek 21",
+          "apu": "89e9015b-d31a-4b96-8437-085cfa61151f",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/89e9015b-d31a-4b96-8437-085cfa61151f/dao/89e9015b-d31a-4b96-8437-085cfa61151f/file/787c702a-5c84-46be-9344-9725d8472665"
+        }
+      ],
+      "notes": [
+        "Manželka Václava Jirmanna z Machova č. 74, „Elisabeth geborene Lorenz aus Niedersichel N. 60“ (96-15 snímek 21)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "johann-bittner-ns26",
+      "name": "Jan Bittner",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "výměnkář",
+      "places": [
+        "Nízká Srbská č. 26"
+      ],
+      "branch": "bittner",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 13. 5. 1842 Johann Georg (Jan) Jermann, NS č. 26",
+          "signatura": "96-15",
+          "detail": "snímek 21",
+          "apu": "89e9015b-d31a-4b96-8437-085cfa61151f",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/89e9015b-d31a-4b96-8437-085cfa61151f/dao/89e9015b-d31a-4b96-8437-085cfa61151f/file/787c702a-5c84-46be-9344-9725d8472665"
+        },
+        {
+          "label": "ARON, narození 25. 9. 1874 Václav Jermann, Bělý č. 43",
+          "signatura": "96-4234",
+          "detail": "snímek 61",
+          "apu": "1bdecfdb-3757-4e70-b00e-f88e8024851b",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/1bdecfdb-3757-4e70-b00e-f88e8024851b/dao/1bdecfdb-3757-4e70-b00e-f88e8024851b/file/6b3dd221-8100-4419-8572-7601be953585"
+        }
+      ],
+      "notes": [
+        "Otec Veroniky; v roce 1842 výměnkář v NS č. 26 (96-15 snímek 21), v roce 1874 rovněž výměnkář v NS č. 26 (96-4234 snímek 61). Manželka Ludmila (rodné příjmení nejisté)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "hynek-kostal",
+      "name": "Hynek Košťál",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "chalupník",
+      "places": [
+        "Bělý č. 43"
+      ],
+      "branch": "kostal",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 2. 7. 1872 Machov: Jan Jirmann × Anna Košťálová",
+          "signatura": "96-4233",
+          "detail": "snímek 28",
+          "apu": "8ab277de-c287-47b8-8ffb-e704ce54e8e3",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/8ab277de-c287-47b8-8ffb-e704ce54e8e3/dao/8ab277de-c287-47b8-8ffb-e704ce54e8e3/file/fdd9ef11-255c-497c-8271-c8137311f203"
+        },
+        {
+          "label": "ARON, narození 25. 9. 1874 Václav Jermann, Bělý č. 43",
+          "signatura": "96-4234",
+          "detail": "snímek 61",
+          "apu": "1bdecfdb-3757-4e70-b00e-f88e8024851b",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/1bdecfdb-3757-4e70-b00e-f88e8024851b/dao/1bdecfdb-3757-4e70-b00e-f88e8024851b/file/6b3dd221-8100-4419-8572-7601be953585"
+        }
+      ],
+      "notes": [
+        "Otec Anny Košťálové; chalupník v Bělém č. 43 (1872, 1874). Při sňatku dcery 1872 se podepsal."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "anna-bittnerova-kostalova",
+      "name": "Anna Košťálová",
+      "maiden": "Bittnerová",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Nízká Srbská č. 5 (otec)"
+      ],
+      "branch": "bittner",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 2. 7. 1872 Machov: Jan Jirmann × Anna Košťálová",
+          "signatura": "96-4233",
+          "detail": "snímek 28",
+          "apu": "8ab277de-c287-47b8-8ffb-e704ce54e8e3",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/8ab277de-c287-47b8-8ffb-e704ce54e8e3/dao/8ab277de-c287-47b8-8ffb-e704ce54e8e3/file/fdd9ef11-255c-497c-8271-c8137311f203"
+        },
+        {
+          "label": "ARON, narození 25. 9. 1874 Václav Jermann, Bělý č. 43",
+          "signatura": "96-4234",
+          "detail": "snímek 61",
+          "apu": "1bdecfdb-3757-4e70-b00e-f88e8024851b",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/1bdecfdb-3757-4e70-b00e-f88e8024851b/dao/1bdecfdb-3757-4e70-b00e-f88e8024851b/file/6b3dd221-8100-4419-8572-7601be953585"
+        }
+      ],
+      "notes": [
+        "Manželka Hynka Košťála; dcera Jana Bittnera, chalupníka v NS č. 5 (96-4233 snímek 28; 96-4234 snímek 61). Vztah k Janu Bittnerovi z NS č. 26 (otci Veroniky) zatím není doložen."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "jakub-barcak",
+      "name": "Jakub Barčák",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "výměnkář",
+      "places": [
+        "Nízká Srbská č. 43"
+      ],
+      "branch": "barcak",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 14. 4. 1851 Vincenc Barčák, NS č. 43",
+          "signatura": "96-15",
+          "detail": "snímek 50",
+          "apu": "89e9015b-d31a-4b96-8437-085cfa61151f",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/89e9015b-d31a-4b96-8437-085cfa61151f/dao/89e9015b-d31a-4b96-8437-085cfa61151f/file/8665d411-be06-4ab6-9d35-13b4e2daabb2"
+        },
+        {
+          "label": "ARON, sňatek 3. 11. 1874 Machov: Vincenc Barčák × Marie Kubečková",
+          "signatura": "96-4230",
+          "detail": "snímek 38",
+          "apu": "ac869ed4-a60c-41de-8c26-219845ec09a3",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/ac869ed4-a60c-41de-8c26-219845ec09a3/dao/ac869ed4-a60c-41de-8c26-219845ec09a3/file/f9443af8-2d05-4432-80ec-bd3411f4f5b1"
+        },
+        {
+          "label": "ARON, narození 22. 12. 1874 Anna Barčáková, Machov č. 21",
+          "signatura": "96-4232",
+          "detail": "snímek 76",
+          "apu": "32dc0308-37a8-442e-966b-23c39ed3029e",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/32dc0308-37a8-442e-966b-23c39ed3029e/dao/32dc0308-37a8-442e-966b-23c39ed3029e/file/b98fd398-e6c8-4c16-b108-2cf3bfd18e12"
+        }
+      ],
+      "notes": [
+        "Otec Vincence *1851; výměnkář v NS č. 43 (1851), v roce 1874 už nežil (†). Podle zápisu 1851 syn †Jakuba Barčáka, chalupníka (místo čteno nejistě), a †Veroniky (rodné příjmení nejisté) z NS č. 43."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "katerina-matenova",
+      "name": "Kateřina Barčáková",
+      "maiden": "Matěnová",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Velké Poříčí (otec)"
+      ],
+      "branch": "barcak",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 14. 4. 1851 Vincenc Barčák, NS č. 43",
+          "signatura": "96-15",
+          "detail": "snímek 50",
+          "apu": "89e9015b-d31a-4b96-8437-085cfa61151f",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/89e9015b-d31a-4b96-8437-085cfa61151f/dao/89e9015b-d31a-4b96-8437-085cfa61151f/file/8665d411-be06-4ab6-9d35-13b4e2daabb2"
+        },
+        {
+          "label": "ARON, sňatek 3. 11. 1874 Machov: Vincenc Barčák × Marie Kubečková",
+          "signatura": "96-4230",
+          "detail": "snímek 38",
+          "apu": "ac869ed4-a60c-41de-8c26-219845ec09a3",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/ac869ed4-a60c-41de-8c26-219845ec09a3/dao/ac869ed4-a60c-41de-8c26-219845ec09a3/file/f9443af8-2d05-4432-80ec-bd3411f4f5b1"
+        },
+        {
+          "label": "ARON, narození 22. 12. 1874 Anna Barčáková, Machov č. 21",
+          "signatura": "96-4232",
+          "detail": "snímek 76",
+          "apu": "32dc0308-37a8-442e-966b-23c39ed3029e",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/32dc0308-37a8-442e-966b-23c39ed3029e/dao/32dc0308-37a8-442e-966b-23c39ed3029e/file/b98fd398-e6c8-4c16-b108-2cf3bfd18e12"
+        }
+      ],
+      "notes": [
+        "Dcera Antonína Matěny, tkadlce a podruha z Velkého Poříčí, a Marie (příjmení nejisté) z Poříčí č. 45 (96-15 snímek 50; 96-4230 snímek 38). V zápisu 1874 (96-4232 snímek 76) psáno „Mašíny“."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "frantisek-kubecek-machov21",
+      "name": "František Kubeček",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "podruh",
+      "places": [
+        "Machov č. 21 (1874)",
+        "Machov č. 27 (1902)"
+      ],
+      "branch": "barcak",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 3. 11. 1874 Machov: Vincenc Barčák × Marie Kubečková",
+          "signatura": "96-4230",
+          "detail": "snímek 38",
+          "apu": "ac869ed4-a60c-41de-8c26-219845ec09a3",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/ac869ed4-a60c-41de-8c26-219845ec09a3/dao/ac869ed4-a60c-41de-8c26-219845ec09a3/file/f9443af8-2d05-4432-80ec-bd3411f4f5b1"
+        },
+        {
+          "label": "ARON, narození 22. 12. 1874 Anna Barčáková, Machov č. 21",
+          "signatura": "96-4232",
+          "detail": "snímek 76",
+          "apu": "32dc0308-37a8-442e-966b-23c39ed3029e",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/32dc0308-37a8-442e-966b-23c39ed3029e/dao/32dc0308-37a8-442e-966b-23c39ed3029e/file/b98fd398-e6c8-4c16-b108-2cf3bfd18e12"
+        }
+      ],
+      "notes": [
+        "Otec Marie Kubečkové; podruh v Machově č. 21 (1874). Při sňatku dcery 1874 se podepsal."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "frantiska-zidova",
+      "name": "Františka Kubečková",
+      "maiden": "Židová",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Machov č. 11 (otec)"
+      ],
+      "branch": "barcak",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 3. 11. 1874 Machov: Vincenc Barčák × Marie Kubečková",
+          "signatura": "96-4230",
+          "detail": "snímek 38",
+          "apu": "ac869ed4-a60c-41de-8c26-219845ec09a3",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/ac869ed4-a60c-41de-8c26-219845ec09a3/dao/ac869ed4-a60c-41de-8c26-219845ec09a3/file/f9443af8-2d05-4432-80ec-bd3411f4f5b1"
+        },
+        {
+          "label": "ARON, narození 22. 12. 1874 Anna Barčáková, Machov č. 21",
+          "signatura": "96-4232",
+          "detail": "snímek 76",
+          "apu": "32dc0308-37a8-442e-966b-23c39ed3029e",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/32dc0308-37a8-442e-966b-23c39ed3029e/dao/32dc0308-37a8-442e-966b-23c39ed3029e/file/b98fd398-e6c8-4c16-b108-2cf3bfd18e12"
+        }
+      ],
+      "notes": [
+        "Dcera Karla Žida, chalupníka v Machově č. 11 (96-4230 snímek 38; 96-4232 snímek 76)."
       ],
       "interesting": []
     }
@@ -9300,6 +9845,13 @@
           "signatura": "8179",
           "detail": "snímek 85",
           "apu": "609677ed-cfe1-40bb-93b8-44935ec6ed67"
+        },
+        {
+          "label": "ARON, narození 25. 9. 1874 Václav Jermann, Bělý č. 43",
+          "signatura": "96-4234",
+          "detail": "snímek 61",
+          "apu": "1bdecfdb-3757-4e70-b00e-f88e8024851b",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/1bdecfdb-3757-4e70-b00e-f88e8024851b/dao/1bdecfdb-3757-4e70-b00e-f88e8024851b/file/6b3dd221-8100-4419-8572-7601be953585"
         }
       ],
       "notes": [
@@ -9312,12 +9864,30 @@
         "jan-jirmann-ns24",
         "anna-kostalova"
       ],
-      "married": null,
+      "married": {
+        "display": "2. 7. 1872",
+        "date": "1872-07-02",
+        "place": "Machov"
+      },
       "children": [
         "vaclav-jirmann-1874"
       ],
       "certainty": "potvrzeno",
       "sources": [
+        {
+          "label": "ARON, sňatek 2. 7. 1872 Machov: Jan Jirmann × Anna Košťálová",
+          "signatura": "96-4233",
+          "detail": "snímek 28",
+          "apu": "8ab277de-c287-47b8-8ffb-e704ce54e8e3",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/8ab277de-c287-47b8-8ffb-e704ce54e8e3/dao/8ab277de-c287-47b8-8ffb-e704ce54e8e3/file/fdd9ef11-255c-497c-8271-c8137311f203"
+        },
+        {
+          "label": "ARON, narození 25. 9. 1874 Václav Jermann, Bělý č. 43",
+          "signatura": "96-4234",
+          "detail": "snímek 61",
+          "apu": "1bdecfdb-3757-4e70-b00e-f88e8024851b",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/1bdecfdb-3757-4e70-b00e-f88e8024851b/dao/1bdecfdb-3757-4e70-b00e-f88e8024851b/file/6b3dd221-8100-4419-8572-7601be953585"
+        },
         {
           "label": "ARON, narození 31. 7. 1902 Vincenc František, NS 7 (rodiče Václav Jirmann a Anna Barčáková, jejich rodiče)",
           "signatura": "96-7319",
@@ -9326,7 +9896,7 @@
         }
       ],
       "notes": [
-        "Rodiče Václava *1874 podle zápisu 1902."
+        "Oddáni 2. 7. 1872 v Machově, zápis v knize oddaných Bělý 96-4233 snímek 28; oddal farář Viktor Munička. Svědci Václav Jirmann, chalupník v NS č. 26, a František Košťál, chalupník v Bělém č. 19(?)."
       ]
     },
     {
@@ -9335,12 +9905,30 @@
         "vincenc-barcak",
         "marie-kubeckova-barcakova"
       ],
-      "married": null,
+      "married": {
+        "display": "3. 11. 1874",
+        "date": "1874-11-03",
+        "place": "Machov"
+      },
       "children": [
         "anna-barcakova-1874"
       ],
       "certainty": "potvrzeno",
       "sources": [
+        {
+          "label": "ARON, sňatek 3. 11. 1874 Machov: Vincenc Barčák × Marie Kubečková",
+          "signatura": "96-4230",
+          "detail": "snímek 38",
+          "apu": "ac869ed4-a60c-41de-8c26-219845ec09a3",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/ac869ed4-a60c-41de-8c26-219845ec09a3/dao/ac869ed4-a60c-41de-8c26-219845ec09a3/file/f9443af8-2d05-4432-80ec-bd3411f4f5b1"
+        },
+        {
+          "label": "ARON, narození 22. 12. 1874 Anna Barčáková, Machov č. 21",
+          "signatura": "96-4232",
+          "detail": "snímek 76",
+          "apu": "32dc0308-37a8-442e-966b-23c39ed3029e",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/32dc0308-37a8-442e-966b-23c39ed3029e/dao/32dc0308-37a8-442e-966b-23c39ed3029e/file/b98fd398-e6c8-4c16-b108-2cf3bfd18e12"
+        },
         {
           "label": "ARON, narození 31. 7. 1902 Vincenc František, NS 7 (rodiče Václav Jirmann a Anna Barčáková, jejich rodiče)",
           "signatura": "96-7319",
@@ -9349,7 +9937,178 @@
         }
       ],
       "notes": [
-        "Rodiče Anny *1874 podle zápisu 1902."
+        "Oddáni 3. 11. 1874 v Machově (96-4230 snímek 38), ohlášky 18. a 25. 10. a 1. 11. 1874; oddal farář Viktor Munička. Svědci Karel Kubeček, chalupník v Machově č. 94, a Filip Matěna(?), podruh v Polici č. 82. Dcera Anna se narodila 22. 12. 1874."
+      ]
+    },
+    {
+      "id": "u-vaclav-ns26-veronika",
+      "partners": [
+        "vaclav-jirmann-ns26",
+        "veronika-bittnerova"
+      ],
+      "married": null,
+      "children": [
+        "jan-jirmann-ns24"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, narození 13. 5. 1842 Johann Georg (Jan) Jermann, NS č. 26",
+          "signatura": "96-15",
+          "detail": "snímek 21",
+          "apu": "89e9015b-d31a-4b96-8437-085cfa61151f",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/89e9015b-d31a-4b96-8437-085cfa61151f/dao/89e9015b-d31a-4b96-8437-085cfa61151f/file/787c702a-5c84-46be-9344-9725d8472665"
+        },
+        {
+          "label": "ARON, sňatek 2. 7. 1872 Machov: Jan Jirmann × Anna Košťálová",
+          "signatura": "96-4233",
+          "detail": "snímek 28",
+          "apu": "8ab277de-c287-47b8-8ffb-e704ce54e8e3",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/8ab277de-c287-47b8-8ffb-e704ce54e8e3/dao/8ab277de-c287-47b8-8ffb-e704ce54e8e3/file/fdd9ef11-255c-497c-8271-c8137311f203"
+        }
+      ],
+      "notes": [
+        "Rodiče Jana *1842 (96-15 snímek 21; 96-4233 snímek 28). Sňatek zatím nehledán."
+      ]
+    },
+    {
+      "id": "u-vaclav-machov74-alzbeta",
+      "partners": [
+        "vaclav-jirmann-machov74",
+        "alzbeta-lorenzova"
+      ],
+      "married": null,
+      "children": [
+        "vaclav-jirmann-ns26"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, narození 13. 5. 1842 Johann Georg (Jan) Jermann, NS č. 26",
+          "signatura": "96-15",
+          "detail": "snímek 21",
+          "apu": "89e9015b-d31a-4b96-8437-085cfa61151f",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/89e9015b-d31a-4b96-8437-085cfa61151f/dao/89e9015b-d31a-4b96-8437-085cfa61151f/file/787c702a-5c84-46be-9344-9725d8472665"
+        }
+      ],
+      "notes": [
+        "Rodiče Václava z NS č. 26 podle zápisu 1842."
+      ]
+    },
+    {
+      "id": "u-johann-bittner-ns26",
+      "partners": [
+        "johann-bittner-ns26"
+      ],
+      "married": null,
+      "children": [
+        "veronika-bittnerova"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, narození 13. 5. 1842 Johann Georg (Jan) Jermann, NS č. 26",
+          "signatura": "96-15",
+          "detail": "snímek 21",
+          "apu": "89e9015b-d31a-4b96-8437-085cfa61151f",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/89e9015b-d31a-4b96-8437-085cfa61151f/dao/89e9015b-d31a-4b96-8437-085cfa61151f/file/787c702a-5c84-46be-9344-9725d8472665"
+        }
+      ],
+      "notes": [
+        "Manželka Ludmila, rodné příjmení nejisté."
+      ]
+    },
+    {
+      "id": "u-hynek-kostal-anna",
+      "partners": [
+        "hynek-kostal",
+        "anna-bittnerova-kostalova"
+      ],
+      "married": null,
+      "children": [
+        "anna-kostalova"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, sňatek 2. 7. 1872 Machov: Jan Jirmann × Anna Košťálová",
+          "signatura": "96-4233",
+          "detail": "snímek 28",
+          "apu": "8ab277de-c287-47b8-8ffb-e704ce54e8e3",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/8ab277de-c287-47b8-8ffb-e704ce54e8e3/dao/8ab277de-c287-47b8-8ffb-e704ce54e8e3/file/fdd9ef11-255c-497c-8271-c8137311f203"
+        },
+        {
+          "label": "ARON, narození 25. 9. 1874 Václav Jermann, Bělý č. 43",
+          "signatura": "96-4234",
+          "detail": "snímek 61",
+          "apu": "1bdecfdb-3757-4e70-b00e-f88e8024851b",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/1bdecfdb-3757-4e70-b00e-f88e8024851b/dao/1bdecfdb-3757-4e70-b00e-f88e8024851b/file/6b3dd221-8100-4419-8572-7601be953585"
+        }
+      ],
+      "notes": [
+        "Rodiče Anny Košťálové."
+      ]
+    },
+    {
+      "id": "u-jakub-barcak-katerina",
+      "partners": [
+        "jakub-barcak",
+        "katerina-matenova"
+      ],
+      "married": null,
+      "children": [
+        "vincenc-barcak"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, narození 14. 4. 1851 Vincenc Barčák, NS č. 43",
+          "signatura": "96-15",
+          "detail": "snímek 50",
+          "apu": "89e9015b-d31a-4b96-8437-085cfa61151f",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/89e9015b-d31a-4b96-8437-085cfa61151f/dao/89e9015b-d31a-4b96-8437-085cfa61151f/file/8665d411-be06-4ab6-9d35-13b4e2daabb2"
+        },
+        {
+          "label": "ARON, sňatek 3. 11. 1874 Machov: Vincenc Barčák × Marie Kubečková",
+          "signatura": "96-4230",
+          "detail": "snímek 38",
+          "apu": "ac869ed4-a60c-41de-8c26-219845ec09a3",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/ac869ed4-a60c-41de-8c26-219845ec09a3/dao/ac869ed4-a60c-41de-8c26-219845ec09a3/file/f9443af8-2d05-4432-80ec-bd3411f4f5b1"
+        }
+      ],
+      "notes": [
+        "Rodiče Vincence *1851."
+      ]
+    },
+    {
+      "id": "u-kubecek-zidova",
+      "partners": [
+        "frantisek-kubecek-machov21",
+        "frantiska-zidova"
+      ],
+      "married": null,
+      "children": [
+        "marie-kubeckova-barcakova"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, sňatek 3. 11. 1874 Machov: Vincenc Barčák × Marie Kubečková",
+          "signatura": "96-4230",
+          "detail": "snímek 38",
+          "apu": "ac869ed4-a60c-41de-8c26-219845ec09a3",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/ac869ed4-a60c-41de-8c26-219845ec09a3/dao/ac869ed4-a60c-41de-8c26-219845ec09a3/file/f9443af8-2d05-4432-80ec-bd3411f4f5b1"
+        },
+        {
+          "label": "ARON, narození 22. 12. 1874 Anna Barčáková, Machov č. 21",
+          "signatura": "96-4232",
+          "detail": "snímek 76",
+          "apu": "32dc0308-37a8-442e-966b-23c39ed3029e",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/32dc0308-37a8-442e-966b-23c39ed3029e/dao/32dc0308-37a8-442e-966b-23c39ed3029e/file/b98fd398-e6c8-4c16-b108-2cf3bfd18e12"
+        }
+      ],
+      "notes": [
+        "Rodiče Marie Kubečkové."
       ]
     }
   ],
@@ -10826,28 +11585,37 @@
     },
     {
       "id": "q-jan-jirmann-ns24",
-      "title": "Kdo byl Jan Jirmann, chalupník v Nízké Srbské č. 24, děd Ludvíka?",
-      "summary": "Rodiče Ludvíka *1908 jsou nově doloženi (Václav Jirmann *1874 × Anna Barčáková, sňatek CČS 1934, 8179 snímek 85). Otevřený zůstává Václavův otec Jan Jirmann z NS 24 († před 1902) a jeho žena Anna Košťálová z Bělého 43.",
-      "details": "Zápis narození 1902 (96-7319 snímek 142) jmenuje Václava jako syna †Jana Jirmanna, chalupníka v NS č. 24, a Anny, dcery Hynka Košťála, chalupníka v Bělém č. 43. Další krok: křest Václava 25. 9. 1874 (Bělý patří k Machovu; machovská kniha N do 6. 1888 je online), sňatek Jana a Anny Košťálové (asi 1865–1874, Machov O 96-4228), úmrtí Jana (NS Z) a vztah k Janovi *1825 (NS č. 5 ještě 1901) a k Josefovi *1857. Kde žil Václav s rodinou při sčítání 1921, zatím nevím: v Nízké Srbské, Machově, Bezděkově, Bělém, Sedmákovicích, Závrchách, Žabokrkách ani Vysoké Srbské jsem Ludvíka nenašel; zbývá Police n. M. a čísla chybějící ve sčítání (NS č. 1, Machov č. 37 a 111). Dřívější kandidáti na Ludvíkova otce (Josef *1879, Josef *1857 a další) tím odpadají.",
+      "title": "Kdy zemřel Jan Jirmann *1842 a kde žila Václavova rodina v roce 1921?",
+      "summary": "Jan Jirmann je nově doložen: narozen 13. 5. 1842 v NS č. 26, syn Václava Jirmanna a Veroniky Bittnerové, oddán 2. 7. 1872 s Annou Košťálovou. Otevřené zůstává jeho úmrtí (před 1902) a bydliště Václavovy rodiny v roce 1921.",
+      "details": "Úmrtí Jana: matrika zemřelých NS po 1853 a Bělého po 1866 v ARON online není; Machov Z 96-4231 (do 5. 1897) zatím neprohledána. Starší generace: sňatek Václava Jirmanna (NS 26) s Veronikou Bittnerovou (asi 1830–1841, NS O 96-14 do 6. 1841), narození Václava v Machově č. 74 (96-3). V NS 1851 (96-15 snímek 51) je další dítě Václava Jirmanna, chalupníka — Janův sourozenec, zatím nečteno. Sčítání 1921: Ludvík ani Václav nejsou v NS, Machově, Bezděkově, Bělém, Sedmákovicích, Závrchách, Žabokrkách ani Vysoké Srbské; zbývá Police n. M. (poř. č. 65–67) a chybějící čísla (NS č. 1, Machov č. 37 a 111).",
       "related_ids": [
-        "vaclav-jirmann-1874",
         "jan-jirmann-ns24",
-        "anna-kostalova",
+        "vaclav-jirmann-1874",
+        "vaclav-jirmann-ns26",
         "ludvik-jirman-1908",
         "jan-jirmann-1825"
       ],
       "sources": [
         {
-          "label": "ARON, narození 31. 7. 1902 Vincenc František, NS 7 (rodiče Václav Jirmann a Anna Barčáková, jejich rodiče)",
-          "signatura": "96-7319",
-          "detail": "snímek 142",
-          "apu": "335ade0a-eccc-4c8a-a917-becf12f1d6fe"
+          "label": "ARON, narození 13. 5. 1842 Johann Georg (Jan) Jermann, NS č. 26",
+          "signatura": "96-15",
+          "detail": "snímek 21",
+          "apu": "89e9015b-d31a-4b96-8437-085cfa61151f",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/89e9015b-d31a-4b96-8437-085cfa61151f/dao/89e9015b-d31a-4b96-8437-085cfa61151f/file/787c702a-5c84-46be-9344-9725d8472665"
         },
         {
-          "label": "ARON, matrika oddaných CČS 1921–1935 (Machov a okolí), sňatek 10. 2. 1934",
-          "signatura": "8179",
-          "detail": "snímek 85",
-          "apu": "609677ed-cfe1-40bb-93b8-44935ec6ed67"
+          "label": "ARON, sňatek 2. 7. 1872 Machov: Jan Jirmann × Anna Košťálová",
+          "signatura": "96-4233",
+          "detail": "snímek 28",
+          "apu": "8ab277de-c287-47b8-8ffb-e704ce54e8e3",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/8ab277de-c287-47b8-8ffb-e704ce54e8e3/dao/8ab277de-c287-47b8-8ffb-e704ce54e8e3/file/fdd9ef11-255c-497c-8271-c8137311f203"
+        },
+        {
+          "label": "ARON, narození 25. 9. 1874 Václav Jermann, Bělý č. 43",
+          "signatura": "96-4234",
+          "detail": "snímek 61",
+          "apu": "1bdecfdb-3757-4e70-b00e-f88e8024851b",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/1bdecfdb-3757-4e70-b00e-f88e8024851b/dao/1bdecfdb-3757-4e70-b00e-f88e8024851b/file/6b3dd221-8100-4419-8572-7601be953585"
         }
       ]
     }

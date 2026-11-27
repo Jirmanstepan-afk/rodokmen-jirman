@@ -717,6 +717,34 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 8179 (poř.č. 13674), 2.1921-10.1935",
    "popis": "československá matrika ODDANÝCH, Bělý, Bezděkov nad Metují, Machovská Lhota, Machov, Nízká Srbská, Petrovice, Police nad Metují, Vysoká Srbská",
    "url": "https://aron.vychodoceskearchivy.cz/apu/609677ed-cfe1-40bb-93b8-44935ec6ed67"
+  },
+  "96-4234": {
+   "apu": "1bdecfdb-3757-4e70-b00e-f88e8024851b",
+   "dao": "1bdecfdb-3757-4e70-b00e-f88e8024851b",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 96-4234 (poř.č. 6791), 8.1865-1891",
+   "popis": "římskokatolická matrika NAROZENÝCH, Bělý + Řeřišný",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/1bdecfdb-3757-4e70-b00e-f88e8024851b"
+  },
+  "96-4233": {
+   "apu": "8ab277de-c287-47b8-8ffb-e704ce54e8e3",
+   "dao": "8ab277de-c287-47b8-8ffb-e704ce54e8e3",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 96-4233 (poř.č. 6810), 10.1863-2.1900",
+   "popis": "římskokatolická matrika ODDANÝCH, Bělý + Řeřišný",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8ab277de-c287-47b8-8ffb-e704ce54e8e3"
+  },
+  "96-4232": {
+   "apu": "32dc0308-37a8-442e-966b-23c39ed3029e",
+   "dao": "32dc0308-37a8-442e-966b-23c39ed3029e",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 96-4232 (poř.č. 6795), 6.1865-6.1888",
+   "popis": "římskokatolická matrika NAROZENÝCH, Machov",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/32dc0308-37a8-442e-966b-23c39ed3029e"
+  },
+  "96-4230": {
+   "apu": "ac869ed4-a60c-41de-8c26-219845ec09a3",
+   "dao": "ac869ed4-a60c-41de-8c26-219845ec09a3",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 96-4230 (poř.č. 6812), 4.1863-10.1894",
+   "popis": "římskokatolická matrika ODDANÝCH, Machov",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ac869ed4-a60c-41de-8c26-219845ec09a3"
   }
  },
  "aliasy": {
@@ -3739,6 +3767,15 @@
    "velky": "img/zdroje/96-14_s004_velky.jpg",
    "vyrez_soubor": "z96-14-s4-pag1-1815-01-17-tobias-maroul-chalupnik-nizka-srbska-x-marie-dcera-antonina-simka-c23.jpg"
   },
+  "96-15|21": {
+   "signatura": "96-15",
+   "snimek": 21,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/89e9015b-d31a-4b96-8437-085cfa61151f/dao/89e9015b-d31a-4b96-8437-085cfa61151f/file/3e0f8860-9a06-4d4f-8561-bcb72b55f7c5",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-15_s021.jpg",
+   "velky": "img/zdroje/96-15_s021_velky.jpg",
+   "vyrez_soubor": "p021-narozeni-13-5-1842-Johann-Georg-Jermann-NS26-otec-Wenzel-Jermann-chalupnik-syn-Wenzela-z-Machova74-a-Elisabeth-Lorenz-NS60-matka-Veronika-Bittner-dcera-Johanna-Bittnera-NS26.jpg"
+  },
   "96-15|32": {
    "signatura": "96-15",
    "snimek": 32,
@@ -3756,6 +3793,15 @@
    "nahled": "img/zdroje/96-15_s047.jpg",
    "velky": "img/zdroje/96-15_s047_velky.jpg",
    "vyrez_soubor": "maroul-josef-1850-narozeni-96-15-s47.jpg"
+  },
+  "96-15|50": {
+   "signatura": "96-15",
+   "snimek": 50,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/89e9015b-d31a-4b96-8437-085cfa61151f/dao/89e9015b-d31a-4b96-8437-085cfa61151f/file/c23e25c8-b5c2-4be2-8cc6-942de10fbc11",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-15_s050.jpg",
+   "velky": "img/zdroje/96-15_s050_velky.jpg",
+   "vyrez_soubor": "p050-narozeni-14-4-1851-Vincenc-Barcak-NS43-otec-Jakub-Barcak-vymenkar-matka-Katerina-dcera-Antonina-Mateny-tkadlce-z-V-Porici.jpg"
   },
   "96-16|20": {
    "signatura": "96-16",
@@ -3964,6 +4010,15 @@
    "nahled": "img/zdroje/96-4228_s075.jpg",
    "velky": "img/zdroje/96-4228_s075_velky.jpg"
   },
+  "96-4230|38": {
+   "signatura": "96-4230",
+   "snimek": 38,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ac869ed4-a60c-41de-8c26-219845ec09a3/dao/ac869ed4-a60c-41de-8c26-219845ec09a3/file/df653b01-9338-4685-92cd-94bf1775dd02",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-4230_s038.jpg",
+   "velky": "img/zdroje/96-4230_s038_velky.jpg",
+   "vyrez_soubor": "p038-oddani-3-11-1874-Machov-Vincenc-Barcak-tkadlec-Machov21-23-let-syn-Jakuba-Barcaka-NS43-a-Kateriny-Mateny-z-V-Porici-nevesta-Marie-Kubeckova-20-let-dcera-Frantiska-Kubecka-Machov21-a-Frantisky-Zidove.jpg"
+  },
   "96-4231|50": {
    "signatura": "96-4231",
    "snimek": 50,
@@ -3981,6 +4036,33 @@
    "nahled": "img/zdroje/96-4231_s069.jpg",
    "velky": "img/zdroje/96-4231_s069_velky.jpg",
    "vyrez_soubor": "z96-4231-s69-pag131-1878-01-24-frantiska-klimsova-roz-spackova-manzelka-vaclava-klimese-chalupnika-machov-c86-48-let.jpg"
+  },
+  "96-4232|76": {
+   "signatura": "96-4232",
+   "snimek": 76,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/32dc0308-37a8-442e-966b-23c39ed3029e/dao/32dc0308-37a8-442e-966b-23c39ed3029e/file/4e2a69a0-c77e-4386-8a02-af4769a427a3",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-4232_s076.jpg",
+   "velky": "img/zdroje/96-4232_s076_velky.jpg",
+   "vyrez_soubor": "p076-narozeni-22-12-1874-Anna-Barcakova-Machov21-otec-Vincenc-Barcak-podruh-syn-Jakuba-Barcaka-NS43-a-Kateriny-Masinove-z-V-Porici-matka-Marie-dcera-Frantiska-Kubecka-Machov21-a-Frantisky-Zidove-Machov11.jpg"
+  },
+  "96-4233|28": {
+   "signatura": "96-4233",
+   "snimek": 28,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8ab277de-c287-47b8-8ffb-e704ce54e8e3/dao/8ab277de-c287-47b8-8ffb-e704ce54e8e3/file/b20d10c0-70e8-4ad0-8345-e20dfe1beb93",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-4233_s028.jpg",
+   "velky": "img/zdroje/96-4233_s028_velky.jpg",
+   "vyrez_soubor": "p028-oddani-2-7-1872-Machov-Jan-Jirmann-tkadlec-Machov74-30-let-syn-Vaclava-Jirmanna-NS26-a-Veroniky-Bittnarove-nevesta-Anna-Kostalova-dcera-Hynka-Kostala-Bely43-a-Anny-Bittnarove-NS5.jpg"
+  },
+  "96-4234|61": {
+   "signatura": "96-4234",
+   "snimek": 61,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/1bdecfdb-3757-4e70-b00e-f88e8024851b/dao/1bdecfdb-3757-4e70-b00e-f88e8024851b/file/8d54d297-5937-451f-b6cf-b6af9839c4fb",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-4234_s061.jpg",
+   "velky": "img/zdroje/96-4234_s061_velky.jpg",
+   "vyrez_soubor": "p061-narozeni-25-9-1874-Vaclav-Jermann-Bely43-otec-Jan-podruh-syn-Vaclava-Jermanna-NS26-a-Veroniky-Bittnarove-matka-Anna-dcera-Hynka-Kostala-Bely43-a-Anny-Bittnarove-NS5.jpg"
   },
   "96-4|77": {
    "signatura": "96-4",

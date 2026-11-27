@@ -1472,28 +1472,37 @@
     },
     {
       "id": "q-jan-jirmann-ns24",
-      "title": "Kdo byl Jan Jirmann, chalupník v Nízké Srbské č. 24, děd Ludvíka?",
-      "summary": "Rodiče Ludvíka *1908 jsou nově doloženi (Václav Jirmann *1874 × Anna Barčáková, sňatek CČS 1934, 8179 snímek 85). Otevřený zůstává Václavův otec Jan Jirmann z NS 24 († před 1902) a jeho žena Anna Košťálová z Bělého 43.",
-      "details": "Zápis narození 1902 (96-7319 snímek 142) jmenuje Václava jako syna †Jana Jirmanna, chalupníka v NS č. 24, a Anny, dcery Hynka Košťála, chalupníka v Bělém č. 43. Další krok: křest Václava 25. 9. 1874 (Bělý patří k Machovu; machovská kniha N do 6. 1888 je online), sňatek Jana a Anny Košťálové (asi 1865–1874, Machov O 96-4228), úmrtí Jana (NS Z) a vztah k Janovi *1825 (NS č. 5 ještě 1901) a k Josefovi *1857. Kde žil Václav s rodinou při sčítání 1921, zatím nevím: v Nízké Srbské, Machově, Bezděkově, Bělém, Sedmákovicích, Závrchách, Žabokrkách ani Vysoké Srbské jsem Ludvíka nenašel; zbývá Police n. M. a čísla chybějící ve sčítání (NS č. 1, Machov č. 37 a 111). Dřívější kandidáti na Ludvíkova otce (Josef *1879, Josef *1857 a další) tím odpadají.",
+      "title": "Kdy zemřel Jan Jirmann *1842 a kde žila Václavova rodina v roce 1921?",
+      "summary": "Jan Jirmann je nově doložen: narozen 13. 5. 1842 v NS č. 26, syn Václava Jirmanna a Veroniky Bittnerové, oddán 2. 7. 1872 s Annou Košťálovou. Otevřené zůstává jeho úmrtí (před 1902) a bydliště Václavovy rodiny v roce 1921.",
+      "details": "Úmrtí Jana: matrika zemřelých NS po 1853 a Bělého po 1866 v ARON online není; Machov Z 96-4231 (do 5. 1897) zatím neprohledána. Starší generace: sňatek Václava Jirmanna (NS 26) s Veronikou Bittnerovou (asi 1830–1841, NS O 96-14 do 6. 1841), narození Václava v Machově č. 74 (96-3). V NS 1851 (96-15 snímek 51) je další dítě Václava Jirmanna, chalupníka — Janův sourozenec, zatím nečteno. Sčítání 1921: Ludvík ani Václav nejsou v NS, Machově, Bezděkově, Bělém, Sedmákovicích, Závrchách, Žabokrkách ani Vysoké Srbské; zbývá Police n. M. (poř. č. 65–67) a chybějící čísla (NS č. 1, Machov č. 37 a 111).",
       "related_ids": [
-        "vaclav-jirmann-1874",
         "jan-jirmann-ns24",
-        "anna-kostalova",
+        "vaclav-jirmann-1874",
+        "vaclav-jirmann-ns26",
         "ludvik-jirman-1908",
         "jan-jirmann-1825"
       ],
       "sources": [
         {
-          "label": "ARON, narození 31. 7. 1902 Vincenc František, NS 7 (rodiče Václav Jirmann a Anna Barčáková, jejich rodiče)",
-          "signatura": "96-7319",
-          "detail": "snímek 142",
-          "apu": "335ade0a-eccc-4c8a-a917-becf12f1d6fe"
+          "label": "ARON, narození 13. 5. 1842 Johann Georg (Jan) Jermann, NS č. 26",
+          "signatura": "96-15",
+          "detail": "snímek 21",
+          "apu": "89e9015b-d31a-4b96-8437-085cfa61151f",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/89e9015b-d31a-4b96-8437-085cfa61151f/dao/89e9015b-d31a-4b96-8437-085cfa61151f/file/787c702a-5c84-46be-9344-9725d8472665"
         },
         {
-          "label": "ARON, matrika oddaných CČS 1921–1935 (Machov a okolí), sňatek 10. 2. 1934",
-          "signatura": "8179",
-          "detail": "snímek 85",
-          "apu": "609677ed-cfe1-40bb-93b8-44935ec6ed67"
+          "label": "ARON, sňatek 2. 7. 1872 Machov: Jan Jirmann × Anna Košťálová",
+          "signatura": "96-4233",
+          "detail": "snímek 28",
+          "apu": "8ab277de-c287-47b8-8ffb-e704ce54e8e3",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/8ab277de-c287-47b8-8ffb-e704ce54e8e3/dao/8ab277de-c287-47b8-8ffb-e704ce54e8e3/file/fdd9ef11-255c-497c-8271-c8137311f203"
+        },
+        {
+          "label": "ARON, narození 25. 9. 1874 Václav Jermann, Bělý č. 43",
+          "signatura": "96-4234",
+          "detail": "snímek 61",
+          "apu": "1bdecfdb-3757-4e70-b00e-f88e8024851b",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/1bdecfdb-3757-4e70-b00e-f88e8024851b/dao/1bdecfdb-3757-4e70-b00e-f88e8024851b/file/6b3dd221-8100-4419-8572-7601be953585"
         }
       ]
     }

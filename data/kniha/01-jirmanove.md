@@ -22,7 +22,29 @@ Tuhle dvojici jsem už znal. Bydleli v Nízké Srbské č. 7 a v roce 1902 se ji
 
 Vincenc František, Ludvíkův starší bratr, je tedy můj prastrýc. Ve svatebním zápisu z roku 1934 už Václav nebydlí v čísle 7, ale v čísle 97, tedy ve stejném domě jako Ludvík.
 
-Teď je nejstarší jistý Jirman v mé přímé linii [[jan-jirmann-ns24|Jan Jirmann]] z Nízké Srbské č. 24, který zemřel před rokem 1902 [?q-jan-jirmann-ns24].
+## Václav, Jan a Bittnerovi z Nízké Srbské
+
+Václavův křest jsem pak našel v knize narozených pro Bělý. Narodil se 25. září 1874 v Bělém č. 43, v domě svého dědečka Hynka Košťála, a o dva dny později byl pokřtěn. Jeho otec Jan byl tehdy podruhem v Bělém. Na okraji zápisu je pozdější poznámka, že Václav v roce 1920 přestoupil k Církvi československé. Jeho žena Anna má ve svém křestním zápisu stejnou poznámku s číslem jednacím o dvě nižším. Přestoupili tedy spolu, a proto se o čtrnáct let později jejich syn Ludvík ženil v machovském sboru CČS.[^96-4234/61: narození Václava Jermanna 25. 9. 1874, Bělý č. 43]
+
+![96-4234/61] Křestní zápis Václava Jermanna z 25. září 1874. Vpravo jsou jeho rodiče Jan a Anna i oba dědové.
+
+Václavův otec [[jan-jirmann-ns24|Jan Jirmann]] se narodil 13. května 1842 v Nízké Srbské č. 26 a pokřtili ho německy jako Johanna Georga.[^96-15/21: narození Johanna Georga (Jana) Jermanna 13. 5. 1842] Jeho otec [[vaclav-jirmann-ns26|Václav]] byl chalupník v čísle 26. Matka [[veronika-bittnerova|Veronika]] byla dcerou výměnkáře Jana Bittnera ze stejného domu. Zápis jde ještě o generaci dál. Václav starší byl synem zesnulého [[vaclav-jirmann-machov74|Václava Jirmanna]], chalupníka v Machově č. 74, a [[alzbeta-lorenzova|Alžběty, rozené Lorenzové]], z Nízké Srbské č. 60.
+
+Jan se oženil 2. července 1872 v Machově. Bylo mu třicet a byl tkadlcem v Machově č. 74, tedy v domě, odkud pocházel jeho děd. Vzal si [[anna-kostalova|Annu Košťálovou]], dceru chalupníka [[hynek-kostal|Hynka Košťála]] z Bělého č. 43. Nevěsta byla nezletilá a otec jí svatbu povolil vlastním podpisem.[^96-4233/28: sňatek Jana Jirmanna a Anny Košťálové 2. 7. 1872] Annina matka [[anna-bittnerova-kostalova|Anna]] byla také rozená Bittnerová, dcera Jana Bittnera z Nízké Srbské č. 5. Obě Václavovy babičky tak byly Bittnerovy.
+
+![96-4233/28] Svatba Jana Jirmanna a Anny Košťálové v Machově 2. července 1872.
+
+> Domněnka: Jan Bittner z čísla 26 a Jan Bittner z čísla 5 mohou být příbuzní, třeba otec a syn. Pak by Jan a Anna byli bratranec a sestřenice. Zápis to ale neříká a sňatek nemá poznámku o dispenzi pro příbuzenství, takže to beru jen jako možnost.
+
+Kdy Jan zemřel, zatím nevím. V roce 1902 už nežil a mezitím se stal chalupníkem v Nízké Srbské č. 24. Matrika zemřelých Nízké Srbské z té doby v ARONu není [?q-jan-jirmann-ns24].
+
+## Barčákovi
+
+Rodinu Václavovy ženy Anny jsem dohledal také. Anna se narodila 22. prosince 1874 v Machově č. 21.[^96-4232/76: narození Anny Barčákové 22. 12. 1874] Její rodiče [[vincenc-barcak|Vincenc Barčák]] a [[marie-kubeckova-barcakova|Marie Kubečková]] se vzali v Machově jen sedm týdnů předtím, 3. listopadu 1874. Vincenc byl tkadlec a bylo mu třiadvacet, Marii dvacet. Oba byli nezletilí, a tak za Vincence dal svolení soud v Polici a za Marii její otec.[^96-4230/38: sňatek Vincence Barčáka a Marie Kubečkové 3. 11. 1874]
+
+![96-4230/38] Svatba Vincence Barčáka a Marie Kubečkové v Machově 3. listopadu 1874.
+
+Vincenc se narodil 14. dubna 1851 v Nízké Srbské č. 43. Byl synem výměnkáře [[jakub-barcak|Jakuba Barčáka]] a [[katerina-matenova|Kateřiny]], dcery tkadlce Antonína Matěny z Velkého Poříčí.[^96-15/50: narození Vincence Barčáka 14. 4. 1851] U porodu byla porodní bába Alžběta Jirmanová z Machova č. 74. Marie byla dcerou podruha [[frantisek-kubecek-machov21|Františka Kubečka]] a [[frantiska-zidova|Františky]], dcery Karla Žida z Machova č. 11.
 
 ## Slepé uličky
 
