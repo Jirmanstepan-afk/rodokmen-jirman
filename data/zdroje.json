@@ -1317,6 +1317,15 @@
    "velky": "img/zdroje/130-18_s063_velky.jpg",
    "vyrez_soubor": "z130-18-s63-1833-01-anton-winter-c49.jpg"
   },
+  "130-42|109": {
+   "signatura": "130-42",
+   "snimek": 109,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/3f1c49a8-8387-45d5-9ed7-5e04e6ba996f/dao/3f1c49a8-8387-45d5-9ed7-5e04e6ba996f/file/cd5804a3-8030-44e8-93dc-66b1270af464",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-42_s109.jpg",
+   "velky": "img/zdroje/130-42_s109_velky.jpg",
+   "vyrez_soubor": "s109-rejstrik-narozenych-Police-1757-1766-Maslo-Pekov-Maroul-Nizka-Srbska-zadny-Jan-Maslo-NS.jpg"
+  },
   "130-42|173": {
    "signatura": "130-42",
    "snimek": 173,
@@ -3805,6 +3814,15 @@
    "velky": "img/zdroje/8179_s085_velky.jpg",
    "vyrez_soubor": "p085-oddani-10-2-1934-Machov-Ludvik-Jirman-18-8-1908-NS67-syn-Vaclava-Jirmana-a-Anny-dcery-Vincence-Barcaka-Machov21-nevesta-Blazena-Klimesova-10-5-1911.jpg"
   },
+  "96-13|12": {
+   "signatura": "96-13",
+   "snimek": 12,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/21f66f25-def4-4065-95bb-4999bc1ad58b",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-13_s012.jpg",
+   "velky": "img/zdroje/96-13_s012_velky.jpg",
+   "vyrez_soubor": "s012-oddani-21-11-1804-NS9-Jan-Maslo-sedlak-vdovec-45-x-Katerina-vdova-po-Tobiasi-42-kandidat.jpg"
+  },
   "96-13|14": {
    "signatura": "96-13",
    "snimek": 14,
@@ -3886,6 +3904,24 @@
    "velky": "img/zdroje/96-13_s035_velky.jpg",
    "vyrez_soubor": "z96-13-s35-krty-nizka-srbska-1792-1798-bez-tobiase-maroula.jpg"
   },
+  "96-13|6": {
+   "signatura": "96-13",
+   "snimek": 6,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/ea05a053-cb36-4085-a517-af5f7d00a8da",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-13_s006.jpg",
+   "velky": "img/zdroje/96-13_s006_velky.jpg",
+   "vyrez_soubor": "s006-oddani-22-4-1788-NS9-Jan-Maslo-sedlak-29-svobodny-x-Rosina-vdova-35-kandidat.jpg"
+  },
+  "96-13|72": {
+   "signatura": "96-13",
+   "snimek": 72,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/8b638cfd-1e31-4549-9cb2-4c7a7091306e",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-13_s072.jpg",
+   "velky": "img/zdroje/96-13_s072_velky.jpg",
+   "vyrez_soubor": "s072-umrti-24-4-1804-NS9-Rozyna-manzelka-Jana-Masly-sedlaka-vodnatelnost-prvni-manzelka.jpg"
+  },
   "96-14|118": {
    "signatura": "96-14",
    "snimek": 118,
@@ -3948,6 +3984,15 @@
    "nahled": "img/zdroje/96-14_s007.jpg",
    "velky": "img/zdroje/96-14_s007_velky.jpg",
    "vyrez_soubor": "s007-oddani-20-11-1821-NS39-Jan-Maslo-vymenkar-vdovec-52-let-x-Veronika-28-let-dcera-zemreleho-Matese-Nemecka-tkalce-NS34.jpg"
+  },
+  "96-14|94": {
+   "signatura": "96-14",
+   "snimek": 94,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fd41faee-39b9-4778-85aa-e390771f02c0/dao/fd41faee-39b9-4778-85aa-e390771f02c0/file/d3455dab-0761-43e1-b6bd-7dd71e1d294c",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-14_s094.jpg",
+   "velky": "img/zdroje/96-14_s094_velky.jpg",
+   "vyrez_soubor": "s094-umrti-24-3-1821-NS39-Katerina-zena-Jana-Masla-sedlaka-60-let-druha-manzelka-umrtni-list-1839.jpg"
   },
   "96-14|97": {
    "signatura": "96-14",

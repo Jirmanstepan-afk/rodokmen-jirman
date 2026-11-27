@@ -20,7 +20,7 @@ Narodili se jim synové [[frantisek-maroul-1846|František]] (3. července 1846)
 
 ## Výměnkář Jan Máslo a jeho pozdní rodina
 
-Annina rodina mě překvapila. Její otec [[jan-maslo-ns71-otec|Jan Máslo]] byl už výměnkář v Nízké Srbské č. 39, tedy hospodář, který předal statek a žil na výminku. Byl vdovec. Dne 20. listopadu 1821 se znovu oženil. Ženich měl podle zápisu 52 let. Nevěsta [[veronika-nemeckova|Veronika]] měla 28 let a byla dcerou zesnulého tkalce Matěje Němečka z Nízké Srbské č. 34. Za svědky šli dva sedláci z vesnice a oba se podepsali křížky.[^96-14/7: oddací zápis 20. 11. 1821, Nízká Srbská, pag. 4]
+Annina rodina mě překvapila. Její otec [[jan-maslo-ns71-otec|Jan Máslo]] byl už výměnkář v Nízké Srbské č. 39, tedy hospodář, který předal statek a žil na výminku. Byl vdovec, předchozí žena mu zemřela teprve v březnu. Dne 20. listopadu 1821 se znovu oženil. Ženich měl podle zápisu 52 let. Nevěsta [[veronika-nemeckova|Veronika]] měla 28 let a byla dcerou zesnulého tkalce Matěje Němečka z Nízké Srbské č. 34. Za svědky šli dva sedláci z vesnice a oba se podepsali křížky.[^96-14/7: oddací zápis 20. 11. 1821, Nízká Srbská, pag. 4]
 
 ![96-14/7] Druhá svatba výměnkáře Jana Másla s Veronikou, dcerou tkalce Matěje Němečka, 20. listopadu 1821.
 
@@ -46,6 +46,36 @@ Jan Máslo zemřel 26. listopadu 1839 v osm hodin ráno v č. 39. Podle ohledac�
 > Domněnka: Myslím, že se starý výměnkář ženil hlavně proto, aby měl kdo o něj a výminek pečovat, a Veronika jako dcera chudého tkalce tím získala střechu nad hlavou. Zápis o důvodech nic neříká.
 
 > Domněnka: Na podzim 1836 je v nízkosrbské knize zemřelých nápadně mnoho zápisů. Mohla to být epidemie, třeba cholera, ale příčiny jsem neprocházel a pramen pro to zatím nemám.
+
+## Janovy předchozí manželky
+
+Veronika nebyla Janovou první ženou. Osm měsíců před svatbou, 24. března 1821, zemřela v č. 39 Kateřina, „manželka Jana Masla, sedláka“. Bylo jí 60 let. Příčinu farář zapsal slovy *Na Ubitj*, což čtu nejistě jako úbytě, tedy nejspíš tuberkulózu. Na okraji je pozdější poznámka, že její úmrtní list byl vydán 7. března 1839.[^96-14/94: úmrtí Kateřiny, manželky Jana Masla, 24. 3. 1821, Nízká Srbská č. 39]
+
+![96-14/94] Úmrtí Kateřiny, předchozí manželky Jana Másla, 24. března 1821. Na okraji je poznámka o vydání úmrtního listu v roce 1839.
+
+V knihách z let 1784–1814 jsem v Nízké Srbské našel ještě starší zápisy jednoho Jana Másla, sedláka, ale v domě č. 9, ne č. 39 [?q-maslo-prvni-manzelstvi]:
+
+- 22. dubna 1788 si devětadvacetiletý svobodný Johann Maslo vzal pětatřicetiletou vdovu Rosinu.[^96-13/6: oddací zápis 22. 4. 1788, Nízká Srbská č. 9]
+- 24. dubna 1804 zemřela Rozyna, manželka Jana Masly, sedláka z Nížkosrbska, na vodnatelnost. Bylo jí kolem padesáti, číslici věku jsem jistě nepřečetl.[^96-13/72: úmrtí Rozyny Maslové 24. 4. 1804, Nízká Srbská č. 9]
+- 21. listopadu 1804, sedm měsíců nato, se pětačtyřicetiletý vdovec Jan Maslo oženil s dvaačtyřicetiletou Kateřinou, vdovou po Tobiášovi z Nízké Srbské.[^96-13/12: oddací zápis 21. 11. 1804, Nízká Srbská č. 9]
+
+![96-13/6] Sňatek Johanna Masla s vdovou Rosinou 22. dubna 1788 (kandidát).
+
+![96-13/72] Úmrtí Rozyny, manželky Jana Masly, 24. dubna 1804 (kandidát).
+
+![96-13/12] Sňatek vdovce Jana Masla s vdovou Kateřinou 21. listopadu 1804 (kandidát).
+
+> Domněnka: Věky do sebe zapadají: Kateřině bylo 42 let v roce 1804 a 60 let v roce 1821, Janovi 29 let v roce 1788 a 45 let v roce 1804, což dává narození kolem 1759. Pokud je to tentýž muž, ženil se Jan třikrát a pokaždé si nejdřív bral starší vdovu. Nevysvětlený zůstává jen rozdíl v čísle domu (9 a 39), proto tyto zápisy do stromu zatím nedávám.
+
+V rejstříku narozených polické farnosti z let 1755–1766 jsem žádného Jana Másla z Nízké Srbské nenašel. Máslové se tam rodí v Pěkově.[^130-42/109: rejstřík narozených Police 1755–1766]
+
+**Zajímavosti – Janova manželství.**
+- Vdovou se Kateřina stala už před rokem 1804. Ve 42 letech se vdávala podruhé, Jan potřetí. Oba tedy ovdověli nejméně jednou. (oddací zápis 1804, kandidát)
+- V roce 1788 si devětadvacetiletý mládenec bral o šest let starší vdovu. Na statku to byl běžný způsob, jak se ujmout hospodářství (to je obecný kontext, ne údaj ze zápisu). (oddací zápis 1788, kandidát)
+- V roce 1790 zemřely v č. 9 dvě malé děti: 15. dubna dvoudenní Johann Wenzl a 17. října roční Sebastian Maslo. Mohly to být Janovy a Rosininy děti. (96-13 snímky 60 a 61, nejisté)
+- Kateřinin úmrtní list si někdo vyzvedl v březnu 1839, osm měsíců před Janovou smrtí. Možná šlo o dědictví nebo předání statku (domněnka). (96-14 snímek 94)
+- Zápisy z let 1800–1804 jsou už česky. Kurát Robertus Roob píše „z Nížkosrbska“. (96-13)
+- Rejstřík narozených polické farnosti sepsal podle vlastní poznámky v roce 1807 Vincenc Nrnka(?), narozený 16. 12. 1764 v Policích. (130-42 snímek 109)
 
 ## Josef a Františka Hrubá
 

@@ -5627,20 +5627,29 @@
           "signatura": "96-14",
           "detail": "snímek 118, zemřelí Nízká Srbská, dům 39",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/fd41faee-39b9-4778-85aa-e390771f02c0/dao/fd41faee-39b9-4778-85aa-e390771f02c0/file/83756027-065b-4f30-9314-1d14f747901a"
+        },
+        {
+          "label": "ARON, úmrtí manželky Kateřiny 24. 3. 1821",
+          "signatura": "96-14",
+          "detail": "snímek 94, zemřelí Nízká Srbská, dům 39",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/fd41faee-39b9-4778-85aa-e390771f02c0/dao/fd41faee-39b9-4778-85aa-e390771f02c0/file/d3455dab-0761-43e1-b6bd-7dd71e1d294c"
         }
       ],
       "notes": [
         "K 23. 1. 1844 již zemřelý výměnkář v NS č. 39. Čísla domu 30 (1846) a 39 (1844, 1850) se neslučují potichu.",
         "V narození pravnučky 1878 (96-7319 snímek 12) výměnkář v NS č. 39.",
-        "Při sňatku s Veronikou Němečkovou 20. 11. 1821 byl vdovec, 52 let, výměnkář z Nízké Srbské č. 39 (96-14 snímek 7). První manželka zatím nezjištěna.",
-        "V zápisech 1821–1839 (sňatek, narození a úmrtí dětí, vlastní úmrtí) vždy č. 39 – údaj č. 30 z roku 1846 je proto spíš chybou zápisu nebo přečíslováním (neslučuji potichu, viz dotaz)."
+        "Při sňatku s Veronikou Němečkovou 20. 11. 1821 byl vdovec, 52 let, výměnkář z Nízké Srbské č. 39 (96-14 snímek 7). Předchozí manželka Kateřina zemřela 24. 3. 1821 v NS č. 39, 60 let, jako „manželka Jana Masla, sedláka“ (96-14 snímek 94) – ovdověl tedy jen 8 měsíců před třetím(?) sňatkem.",
+        "V zápisech 1821–1839 (sňatek, narození a úmrtí dětí, vlastní úmrtí) vždy č. 39 – údaj č. 30 z roku 1846 je proto spíš chybou zápisu nebo přečíslováním (neslučuji potichu, viz dotaz).",
+        "Kolo AZ: v NS č. 9 jsou zápisy Jana Masla, sedláka – sňatek 22. 4. 1788 (29 let, svobodný × Rosina, vdova, 35), úmrtí Rosiny 24. 4. 1804 a sňatek 21. 11. 1804 (vdovec, 45 × Kateřina, vdova, 42). Velmi pravděpodobně tentýž Jan, ale dům 9 vs. 39 není vysvětlen – vedeno v dotazu q-maslo-prvni-manzelstvi, do stromu nepřidáno."
       ],
       "interesting": [
         "Výměnkář, tedy hospodář, který už předal statek a žil na výminku – a přesto se ve vysokém věku (52, podle úmrtí spíš 67) znovu oženil s o 24 (či 39) let mladší Veronikou (96-14 snímek 7).",
         "První dcera Anna se narodila 24. 1. 1822, jen 2 měsíce a 4 dny po svatbě 20. 11. 1821 – počata před sňatkem (96-14 snímky 7 a 60).",
         "Z nejméně pěti dětí z druhého manželství mu čtyři zemřely v dětství, většinou na psotník (96-14 snímky 97, 102–104).",
         "Zemřel 26. 11. 1839 na studenou sněť (kalter Brand, gangréna) ve věku udávaném 85 let; dceři Anně bylo 14 let (snímek 118).",
-        "Svědci jeho druhé svatby byli dva sedláci z Nízké Srbské, kteří se podepsali křížky (+++)."
+        "Svědci jeho druhé svatby byli dva sedláci z Nízké Srbské, kteří se podepsali křížky (+++).",
+        "Úmrtní list první(?) zemřelé manželky Kateřiny (†1821) si rodina vyzvedla 7. 3. 1839 – podle poznámky na okraji zápisu (96-14 snímek 94), tedy ještě za Janova života, osm měsíců před jeho smrtí; účel neznám (domněnka: pozůstalostní či pozemkové řízení).",
+        "Příčina smrti Kateřiny 1821: „Na Ubitj(?)“ – čtení nejisté, nejspíš úbytě (tuberkulóza) (96-14 snímek 94)."
       ]
     },
     {
@@ -5892,7 +5901,8 @@
         "Jasně v zápisu vnuka Josefa *1850; stejně čitelné i v zápisu 1846 po srovnání. Dřívější opatrné čtení „Šimůnková / Šimánková“ je opraveno.",
         "V oddacím zápisu dcery Anny 23. 1. 1844 znovu „Veronika geborenen Němeček aus Niedersrbská N. 34“.",
         "Při sňatku 20. 11. 1821: Veronika, dcera †Matěje Němečka, tkalce z Nízké Srbské č. 34, 28 let, svobodná (96-14 snímek 7). Otec Matěj Němeček se jako vedlejší osoba do stromu nepřidává.",
-        "Úmrtí v NS 1821–1841 (96-14 snímky 95–120) nenalezeno; v roce 1844 žila (sňatek dcery bez „verstorben“)."
+        "Úmrtí v NS 1821–1841 (96-14 snímky 95–120) nenalezeno; v roce 1844 žila (sňatek dcery bez „verstorben“).",
+        "Kolo AZ: úmrtí v NS 1841–11/1853 (96-14 snímky 121–143) nenalezeno; zemřelí NS po 1853 nejsou v ARON online. Narození kolem 1793 v NS (96-13 narození 5/1790–8/1795) nenalezeno – žádný otec Němeček; nejspíš narozena jinde."
       ],
       "interesting": [
         "Dcera tkalce – typické řemeslo podhorských chalup Policka a Machovska v 1. pol. 19. století.",
@@ -11660,7 +11670,7 @@
       "id": "q-tobias-71-77",
       "title": "Tobiáš Maroul č. 71 a č. 77 — je Václav *1878 sourozenec Jana?",
       "summary": "Jan (linie 71) je syn Tobiáše × Marie z NS č. 71 (1846). Václav *1878 je syn Tobiáše z NS č. 77 a Marie z Bělic 23.",
-      "details": "Jméno manželky a Bělic 23 se shodují, čísla 71 a 77 se neslučují potichu. Václav proto v mapě není zapsán jako dítě téhož svazku. Sňatek Tobiáše s Marií Šimcovou v 96-14 (1815–1841) v tomto kroku ještě nebyl souvisle nalezen. Nález 25. 11. 2026: 96-14, snímek 4, sňatek 17. 1. 1815, Nízká Srbská č. 3 — Tobiáš Maroul, chalupník z Nízké Srbské, 25 let (číslice čtena opatrně), × Marie, dcera Antonína Šimka(?) z Bělic(?) č. 23(?), 21 let; svědci Václav Hejzlar(?) a … z Nízké Srbské. Oprava 25. 11. 2026 (noc): Jan (ženich 1844) i Václav (ženich 1878, nevěsta 58 let) jsou synové Tobiáše × Marie, dcery Antonína Šimce z Bělic 23 — sňatek 1815 tedy věkově odpovídá jejich RODIČŮM, ne starší generaci; žádný „mladší Tobiáš“ není potřeba. Nejisté zůstává čtení příjmení nevěsty a obce v zápisu 1815 a totožnost Jana ns71 s Janem ns54, proto do mapy nezapsáno. Výřez: vypisy (96-14 s4), ARON soubor TILE 38921832-0207-4d5a-a38c-1bc1fd66b270 (PUBLISHED 545f9505 je tentýž snímek). Kolo AE (25. 11. 2026): zápis 1815 přečten v plném rozlišení – svědci jsou Václav Růžička a Jan Růžička, oba sedláci z Nízké Srbské (oprava dřívějšího „Hejzlar(?)“); nevěsta „Marie dcera Antonína Šimka(?) z … z No 23“ – číslo 23 a otec Antonín se shodují s Bělicí č. 23, proto sňatek 17. 1. 1815 zapsán do mapy ke svazku Tobiáš × Marie. Nečitelná zůstává obec nevěsty (Bělice? / Groß-Jenzí = Velká Jesenice?). Výřez vypisy/96-14/z96-14-s4-pag1-1815-01-17-tobias-maroul-chalupnik-nizka-srbska-x-marie-dcera-antonina-simka-c23.jpg, https://aron.vychodoceskearchivy.cz/apu/fd41faee-39b9-4778-85aa-e390771f02c0/dao/fd41faee-39b9-4778-85aa-e390771f02c0/file/38921832-0207-4d5a-a38c-1bc1fd66b270. Kandidát na Tobiášův křest: 96-13 snímek 22 (pag. 42), 25. 8. 1789, NS č. 2(?), Tobiáš, otec Václav Maroul, matka Alžběta, kmotři Václav Rybář(?) a … – věk 25 v lednu 1815 sedí, ale shoda jen jménem; jiný Tobiáš Maroul 1789–1790 v NS zatím nehledán úplně (27. 7. 1789 Tobiáš č. 48 je syn Josefa Kopeckého(?), 8/1789 Tobiáš č. 17 syn Antonína Hondry(?), kmotr Václav Maroul). Výřez vypisy/96-13/z96-13-s22-pag42-1789-08-25-tobias-syn-vaclava-maroula-a-alzbety-nizka-srbska-c2-kandidat.jpg, https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/858484d5-ed97-45ee-b62f-37cf306bbbbc. Kolo AH (25. 11. 2026): 96-13 snímek 18: 15. 12. 1786, NS č. 2, František, syn Václava Maroula a Alžběty (stejný dům i rodiče jako kandidát Tobiáš 25. 8. 1789) – rodina Václav × Alžběta Maroulovi v č. 2 potvrzena (https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/8439a36a-e9d6-429c-b619-4936220dbc7b, výřez vypisy/96-13/z96-13-s18-1786-12-15-frantisek-syn-vaclava-maroula-a-alzbety-nizka-srbska-c2.jpg). Prošlo 96-13 snímky 18–24 (12/1786–12/1791, s21–22 z kola AE): jiný Tobiáš Maroul tam není; Tobiášové 1791 (č. 17, otec Antonín Hondra(?); č. 15, otec Josef Wagner(?)) jsou z jiných rodin (https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/e33996d3-d232-4e37-9f31-dfd5bfdf4b09). Kandidát 1789 je tedy jediný Tobiáš Maroul v NS 1786–1791; ale oddací zápis 1815 rodiče ženicha neuvádí, proto stále jen v dotazu. Neprojito: snímky 15–17 (1784–1786) a 25–35. Kolo AI – 96-13 s15–17 (5/1784–9/1786): Tobiáš 17. 3. 1785 NS č. 21 je syn Jakoba Hučky(?) – jiná rodina; Tobiáš 1/1786 NS č. 31, otec „Tobias Maschan/Mahuar(?)“, sedlák, matka Anna – příjmení nejisté, Maroul to patrně není. Snímky 25–35 zatím neprohlédnuty. Kolo AJ (26. 11. 2026) – 96-13 snímky 25–35 (1792–1798) prošly bez dalšího Tobiáše Maroula (https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/86aebd17-5f1d-4b13-b36e-a9aba209a6f1). Kniha 96-13 1784–1798 je pro Tobiáše vyčerpaná; jediný kandidát zůstává 1789 (syn Václava a Alžběty, NS č. 2). Další cesta: sňatek nebo úmrtí s věkem, případně farnost Machov (Nízká Srbská patřila k Machovu).",
+      "details": "Jméno manželky a Bělic 23 se shodují, čísla 71 a 77 se neslučují potichu. Václav proto v mapě není zapsán jako dítě téhož svazku. Sňatek Tobiáše s Marií Šimcovou v 96-14 (1815–1841) v tomto kroku ještě nebyl souvisle nalezen. Nález 25. 11. 2026: 96-14, snímek 4, sňatek 17. 1. 1815, Nízká Srbská č. 3 — Tobiáš Maroul, chalupník z Nízké Srbské, 25 let (číslice čtena opatrně), × Marie, dcera Antonína Šimka(?) z Bělic(?) č. 23(?), 21 let; svědci Václav Hejzlar(?) a … z Nízké Srbské. Oprava 25. 11. 2026 (noc): Jan (ženich 1844) i Václav (ženich 1878, nevěsta 58 let) jsou synové Tobiáše × Marie, dcery Antonína Šimce z Bělic 23 — sňatek 1815 tedy věkově odpovídá jejich RODIČŮM, ne starší generaci; žádný „mladší Tobiáš“ není potřeba. Nejisté zůstává čtení příjmení nevěsty a obce v zápisu 1815 a totožnost Jana ns71 s Janem ns54, proto do mapy nezapsáno. Výřez: vypisy (96-14 s4), ARON soubor TILE 38921832-0207-4d5a-a38c-1bc1fd66b270 (PUBLISHED 545f9505 je tentýž snímek). Kolo AE (25. 11. 2026): zápis 1815 přečten v plném rozlišení – svědci jsou Václav Růžička a Jan Růžička, oba sedláci z Nízké Srbské (oprava dřívějšího „Hejzlar(?)“); nevěsta „Marie dcera Antonína Šimka(?) z … z No 23“ – číslo 23 a otec Antonín se shodují s Bělicí č. 23, proto sňatek 17. 1. 1815 zapsán do mapy ke svazku Tobiáš × Marie. Nečitelná zůstává obec nevěsty (Bělice? / Groß-Jenzí = Velká Jesenice?). Výřez vypisy/96-14/z96-14-s4-pag1-1815-01-17-tobias-maroul-chalupnik-nizka-srbska-x-marie-dcera-antonina-simka-c23.jpg, https://aron.vychodoceskearchivy.cz/apu/fd41faee-39b9-4778-85aa-e390771f02c0/dao/fd41faee-39b9-4778-85aa-e390771f02c0/file/38921832-0207-4d5a-a38c-1bc1fd66b270. Kandidát na Tobiášův křest: 96-13 snímek 22 (pag. 42), 25. 8. 1789, NS č. 2(?), Tobiáš, otec Václav Maroul, matka Alžběta, kmotři Václav Rybář(?) a … – věk 25 v lednu 1815 sedí, ale shoda jen jménem; jiný Tobiáš Maroul 1789–1790 v NS zatím nehledán úplně (27. 7. 1789 Tobiáš č. 48 je syn Josefa Kopeckého(?), 8/1789 Tobiáš č. 17 syn Antonína Hondry(?), kmotr Václav Maroul). Výřez vypisy/96-13/z96-13-s22-pag42-1789-08-25-tobias-syn-vaclava-maroula-a-alzbety-nizka-srbska-c2-kandidat.jpg, https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/858484d5-ed97-45ee-b62f-37cf306bbbbc. Kolo AH (25. 11. 2026): 96-13 snímek 18: 15. 12. 1786, NS č. 2, František, syn Václava Maroula a Alžběty (stejný dům i rodiče jako kandidát Tobiáš 25. 8. 1789) – rodina Václav × Alžběta Maroulovi v č. 2 potvrzena (https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/8439a36a-e9d6-429c-b619-4936220dbc7b, výřez vypisy/96-13/z96-13-s18-1786-12-15-frantisek-syn-vaclava-maroula-a-alzbety-nizka-srbska-c2.jpg). Prošlo 96-13 snímky 18–24 (12/1786–12/1791, s21–22 z kola AE): jiný Tobiáš Maroul tam není; Tobiášové 1791 (č. 17, otec Antonín Hondra(?); č. 15, otec Josef Wagner(?)) jsou z jiných rodin (https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/e33996d3-d232-4e37-9f31-dfd5bfdf4b09). Kandidát 1789 je tedy jediný Tobiáš Maroul v NS 1786–1791; ale oddací zápis 1815 rodiče ženicha neuvádí, proto stále jen v dotazu. Neprojito: snímky 15–17 (1784–1786) a 25–35. Kolo AI – 96-13 s15–17 (5/1784–9/1786): Tobiáš 17. 3. 1785 NS č. 21 je syn Jakoba Hučky(?) – jiná rodina; Tobiáš 1/1786 NS č. 31, otec „Tobias Maschan/Mahuar(?)“, sedlák, matka Anna – příjmení nejisté, Maroul to patrně není. Snímky 25–35 zatím neprohlédnuty. Kolo AJ (26. 11. 2026) – 96-13 snímky 25–35 (1792–1798) prošly bez dalšího Tobiáše Maroula (https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/86aebd17-5f1d-4b13-b36e-a9aba209a6f1). Kniha 96-13 1784–1798 je pro Tobiáše vyčerpaná; jediný kandidát zůstává 1789 (syn Václava a Alžběty, NS č. 2). Další cesta: sňatek nebo úmrtí s věkem, případně farnost Machov (Nízká Srbská patřila k Machovu). | Kolo AZ: 96-13 snímek 4 – sňatek 1785 Wenzl Maroul, Bauer, NS č. 3 × Elisabeth (číslo domu 3, ne 2 – jen poznámka). Rejstřík Police 130-42 snímek 109: Maroul Tobias *11. 2. 1757 Niedersichle (pag. ?), Maroul Anna *9. 11. 1759, Maroul Johannes *6. 11. 1760, Maroul Maria *6. 7. 1762, Maroul Anna *22. 3. 1765 – vše Nízká Srbská; jen rejstřík, zápisy neověřeny.",
       "related_ids": [
         "tobias-maroul",
         "marie-simcova",
@@ -11708,6 +11718,12 @@
           "label": "ARON 96-13 snímek 17 (Tobiáš 1786 č. 31)",
           "signatura": "96-13",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/b56aae51-2efb-4f49-84af-78c0b5337bba"
+        },
+        {
+          "label": "ARON, rejstřík narozených Police (Maroulové NS 1757–1765)",
+          "signatura": "130-42",
+          "detail": "snímek 109",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/3f1c49a8-8387-45d5-9ed7-5e04e6ba996f/dao/3f1c49a8-8387-45d5-9ed7-5e04e6ba996f/file/cd5804a3-8030-44e8-93dc-66b1270af464"
         }
       ]
     },
@@ -13128,8 +13144,8 @@
     {
       "id": "q-maslo-prvni-manzelstvi",
       "title": "Jan Máslo (†1839): první manželka, rok narození a původ",
-      "summary": "Při sňatku 20. 11. 1821 byl Jan Máslo vdovec, 52 let; při úmrtí 26. 11. 1839 je mu 85 let. První manželství a skutečný rok narození (≈1754 nebo ≈1769) nejsou zjištěny.",
-      "details": "Kolo AY: 96-14 snímek 7 (sňatek 1821) a snímek 118 (úmrtí 1839). Další kroky: oddaní NS/Machov před 1815 (první sňatek), zemřelí NS před 1821 (první manželka), narození kolem 1754/1769 v Nízké Srbské; kdy předal statek č. 39 (pozemková kniha); úmrtí Veroniky po 1841 (96-14 od snímku 121, 96-15). Nejistá čtení: jména svědků 1821 a kmotrů 1822/1825 (Václav J…, mlynář; Anton L…/Antoš z Machova).",
+      "summary": "Při sňatku 20. 11. 1821 byl Jan Máslo vdovec, 52 let; při úmrtí 1839 je mu 85 let. Jistě: předchozí manželka Kateřina †24. 3. 1821 (NS č. 39, 60 let). Silní kandidáti v NS č. 9: sňatek 1788 s vdovou Rosinou, její úmrtí 1804 a sňatek 1804 s vdovou Kateřinou.",
+      "details": "Kolo AY: 96-14 snímek 7 (sňatek 1821) a snímek 118 (úmrtí 1839). Další kroky: oddaní NS/Machov před 1815 (první sňatek), zemřelí NS před 1821 (první manželka), narození kolem 1754/1769 v Nízké Srbské; kdy předal statek č. 39 (pozemková kniha); úmrtí Veroniky po 1841 (96-14 od snímku 121, 96-15). Nejistá čtení: jména svědků 1821 a kmotrů 1822/1825 (Václav J…, mlynář; Anton L…/Antoš z Machova). | Kolo AZ: (1) JISTĚ 96-14 snímek 94: 24. 3. 1821 zemřela Kateřina, manželka Jana Masla, sedláka, NS č. 39, 60 let, příčina „Na Ubitj(?)“; okraj „Todtenschein ausgefolgt am 7ten März 1839“. (2) KANDIDÁT 96-13 snímek 6: 22. 4. 1788 NS č. 9 Johann Maslo, Bauer, 29, svobodný × Rosina Puchlin/Pichlin(?), vdova, 35; svědci Ignatz Hönisch(?) a Johann Kli…(?). (3) KANDIDÁT 96-13 snímek 72: 24. 4. 1804 NS č. 9 zemřela Rozyna, manželka Jana Masly, sedláka z Nížkosrbska, věk 5?(51/53?), příčina „na vodnatelnost“; zapsal kurát Robertus Roob. (4) KANDIDÁT 96-13 snímek 12: 21. 11. 1804 NS č. 9 Jan Maslo, sedlák, 45, vdovec × Kateřina, vdova po †Tobiášovi …(?) z NS č. 31/34(?), 42; svědci Jan Melichar, sedlák z NS, a Šebestián Mi…(?) z Polic(?); oddával kurát Robertus Roob. Řetěz věků sedí (Rosina 35→~51; Kateřina 42→60; Jan 29 a 45 → narození ≈1759). Nevysvětleno: dům 9 (1788–1804) vs. 39 (1821–1839) – přečíslování nebo stěhování? Možné děti z č. 9 (jen poznámka): †15. 4. 1790 Johann Wenzl, asi 2 dny (96-13 snímek 60); †17. 10. 1790 Sebastian Maslo, asi 1 rok (96-13 snímek 61); 6/1798 č. 9 zemřel Anton, pozůstalý syn po †Franzovi…(?), sedlákovi (96-13 snímek 66) – možná syn Rosiny z prvního manželství (domněnka). Narození: Policko, rejstřík narozených 130-42 snímek 109 (1755–1766): žádný Johann Maslo z NS; Maslo jen v Pěkově (Maria 27. 2. 1762, Georg 29. 10. 1763, Johann 15. 2. 1765 Pekau – věkově nesedí), Elisabeth 1. 3. 1764 (Ledhuje?), Anna 1. 3. 1761. Původ Jana tedy nejasný (domněnka: rod z Pěkova).",
       "related_ids": [
         "jan-maslo-ns71-otec",
         "veronika-nemeckova",
@@ -13147,6 +13163,36 @@
           "signatura": "96-14",
           "detail": "snímek 118, zemřelí Nízká Srbská, dům 39",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/fd41faee-39b9-4778-85aa-e390771f02c0/dao/fd41faee-39b9-4778-85aa-e390771f02c0/file/83756027-065b-4f30-9314-1d14f747901a"
+        },
+        {
+          "label": "ARON, úmrtí Kateřiny 24. 3. 1821",
+          "signatura": "96-14",
+          "detail": "snímek 94, NS č. 39",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/fd41faee-39b9-4778-85aa-e390771f02c0/dao/fd41faee-39b9-4778-85aa-e390771f02c0/file/d3455dab-0761-43e1-b6bd-7dd71e1d294c"
+        },
+        {
+          "label": "ARON, sňatek 22. 4. 1788 (kandidát)",
+          "signatura": "96-13",
+          "detail": "snímek 6, NS č. 9",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/ea05a053-cb36-4085-a517-af5f7d00a8da"
+        },
+        {
+          "label": "ARON, úmrtí Rozyny 24. 4. 1804 (kandidát)",
+          "signatura": "96-13",
+          "detail": "snímek 72, NS č. 9",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/8b638cfd-1e31-4549-9cb2-4c7a7091306e"
+        },
+        {
+          "label": "ARON, sňatek 21. 11. 1804 (kandidát)",
+          "signatura": "96-13",
+          "detail": "snímek 12, NS č. 9",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/21f66f25-def4-4065-95bb-4999bc1ad58b"
+        },
+        {
+          "label": "ARON, rejstřík narozených Police 1641–1784",
+          "signatura": "130-42",
+          "detail": "snímek 109 (1755–1766)",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/3f1c49a8-8387-45d5-9ed7-5e04e6ba996f/dao/3f1c49a8-8387-45d5-9ed7-5e04e6ba996f/file/cd5804a3-8030-44e8-93dc-66b1270af464"
         }
       ]
     },
