@@ -12,9 +12,15 @@ Jan byl později v č. 52 podruhem a nakonec výměnkářem. Dne 10. února 1822
 
 Václav Winter, onen svědek z roku 1813, byl tkadlec. V roce 1794 bydlel v Ledhujích č. 26 a 4. října 1794 se mu narodil syn [[frantisek-ventr|František Václav]]. Matkou byla podle křestního zápisu [[marie-anna-winterova|Marie Anna]] „Klimschiana“.[^130-17/28: narození Františka Václava Wintra 4. 10. 1794] Rok předtím, 11. června 1793, se tkadlec Václav Winter z téhož domu č. 26 ženil s „Rosinou Klimschianou“, 31 let.[^130-17/5: sňatek Václava Wintra a Rosiny Klimschiany 11. 6. 1793] Rodné příjmení je v obou zápisech stejné (Klimschová). Jestli jde o tutéž ženu, zapsanou jednou jako Rosina a jednou jako Marie Anna, zatím nevím [?q-hruby-ventr-predci].
 
-> Domněnka: Marie Anna a Rosina jsou táž žena, rozená Klimschová [?q-hruby-ventr-predci].
+V č. 26 se Václavovi narodily ještě další děti. Dne 11. dubna 1797 byl pokřtěn Josef a otec je tu poprvé zapsán jako chalupník, matka jako „Rozyna Klimschowa“.[^130-17/30: narození Josefa Wintera 11. 4. 1797, Ledhuje č. 26] Dne 10. listopadu 1799 následoval Václav Martin. Farář tentokrát připsal i matčin původ: Rozina byla dcerou Jana Klimše z čísla 5 na polickém panství.[^130-17/33: narození Václava Martina Wintra 10. 11. 1799, Ledhuje č. 26]
 
-> Domněnka: Wenzel Winter, který 14. března 1797 zemřel v Ledhujích č. 2 ve věku 67 let, by mohl být otcem Václava. Dům ani věk při sňatku 1793 to ale nepotvrzují, proto zůstává mimo mapu [?q-hruby-ventr-predci].
+![130-17/33] Křest Václava Martina Wintra 10. listopadu 1799 v Ledhujích č. 26. Matka Rozina je zapsána jako „dcera Jana Klimše z č. 5, panství polické“.
+
+Zajímavost: Václav Winter byl při svatbě v roce 1793 i při křtu Františka v roce 1794 tkadlec, ale v letech 1797 a 1799 už je v témže domě č. 26 chalupník. Za pár let se z nájemného řemeslníka stal majitelem chalupy.
+
+> Domněnka: Marie Anna a Rosina jsou táž žena, rozená Klimschová. V zápisech z let 1793, 1797 a 1799 se Václavova žena jmenuje Rozina Klimšová a „Marie Anna“ z roku 1794 je jediná výjimka. Pak by Františkovým dědem z matčiny strany byl Jan Klimš z č. 5 polického panství [?q-hruby-ventr-predci].
+
+> Domněnka: Wenzel Winter, který 14. března 1797 zemřel v Ledhujích č. 2 ve věku 67 let na souchotiny (Lungensucht),[^130-17/48: úmrtí Wenzela Wintera 14. 3. 1797, Ledhuje č. 2, 67 let, Lungensucht] by mohl být otcem Václava. Dům ani věk při sňatku 1793 to ale nepotvrzují, proto zůstává mimo mapu [?q-hruby-ventr-predci].
  František se 7. července 1819 oženil s Rosinou, dcerou zesnulého krejčího Josefa z Malé Ledhuje č. 3. Jeho příjmení zní v zápisech jako „Klep…“, snad Klepáček.[^130-18/4: oddací zápis 7. 7. 1819, Ledhuje] Mladí bydleli v č. 45 a 27. ledna 1821 se jim narodila dcera [[matka-hruba-spinka|Františka]].[^130-18/23: narození Františky Wentrové 27. 1. 1821, Ledhuje č. 45]
 
 ![130-18/23] Narození Františky Wentrové 27. ledna 1821 v Ledhujích č. 45.

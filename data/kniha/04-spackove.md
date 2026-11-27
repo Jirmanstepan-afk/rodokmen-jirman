@@ -26,4 +26,12 @@ Dorota Faltová je ve všech zápisech dcerou Jiřího (Georga) Falty, podruha z
 
 ![12-2/26] Křest Doroty Marie Faltové 12. března 1792 ve Slatině č. 109. Je to zatím jen kandidátka, číslo domu se s ostatními zápisy neshoduje.
 
+Dorota je při svatbě v roce 1817 zapsána jako dcera *zemřelého* podruha Jiřího. Slatinský rejstřík zemřelých zná v letech 1798–1803 jen dva Jiří Falty. Prvním je podruh Jiří Falta, který zemřel 31. srpna 1799 v č. 104 ve věku 44 let na vodnatelnost.[^12-5/22: úmrtí Jiřího Falty, podruha, 31. 8. 1799, Slatina č. 104, 44 let] Druhým je chalupník Jiří Falta z č. 109, zemřelý 24. prosince 1803 v 85 letech „stářím“.[^12-5/29: úmrtí Jiřího Falty, chalupníka, 24. 12. 1803, Slatina č. 109, 85 let][^12-7/61: rejstřík zemřelých Slatina, lit. F]
+
+![12-5/22] Úmrtí podruha Jiřího Falty 31. srpna 1799 ve Slatině č. 104, ve věku 44 let.
+
+> Domněnka: Dorotiným otcem je podruh Jiří Falta, který zemřel v roce 1799. Podruzi neměli vlastní dům a často se stěhovali, takže by se mohla narodit v č. 109 a otec zemřít v č. 104. Pětaosmdesátiletý chalupník Jiří z č. 109 by pak mohl být její děd. Pozdější zápisy ale uvádějí č. 39, proto to do stromu nedávám [?q-falta-slatina].
+
+Zajímavost: Faltové ve Slatině na přelomu století hodně umírali. Rejstřík jich mezi lety 1798 a 1803 uvádí přes deset. Dne 1. září 1799 zemřel v č. 21 sedmnáctiletý Václav, syn zahradníka Antonína Falty, „na vnitřní horkost“, tedy na horečku.
+
 Otevřená zůstává i starší generace Špačků. V hronovské matrice je 13. srpna 1782 svatba Josefa Špačka, syna Jiřího ze Zbečníku, s Marií, dcerou Tobiáše Jurny(?),[^53-1/118: oddací zápis 13. 8. 1782 – zatím jen kandidát] a Josef s Marií měli v Hronově děti Kateřinu (1787), Jana Davida (1789) a Josefa (1792). Že jsou to Františkovi rodiče a sourozenci, je velmi pravděpodobné, ale zatím to nemám potvrzené.

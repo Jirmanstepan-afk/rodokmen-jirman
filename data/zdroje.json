@@ -1063,6 +1063,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 171-1 (poř.č. 12178), 1724-1752",
    "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, farnost (Bělá, Benátky, Bukový, Hutě, Kamenec, Malý Uhřínov, Podolí, Tisovec, Velký Uhřínov) + ojediněle Pičberk",
    "url": "https://aron.vychodoceskearchivy.cz/apu/33cca047-d9ca-4eeb-8e61-af116518c522"
+  },
+  "12-5": {
+   "apu": "7a3e9d8b-8458-4bf9-80b3-bbab3a254dcc",
+   "dao": "7a3e9d8b-8458-4bf9-80b3-bbab3a254dcc",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 12-5 (poř.č. 459), 1784-1847",
+   "popis": "římskokatolická matrika ZEMŘELÝCH, římskokatolický index ZEMŘELÝCH, farnost (Mečov, Slatina nad Úpou) 5.-10.1784, Slatina nad Úpou (od 10.1784)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/7a3e9d8b-8458-4bf9-80b3-bbab3a254dcc"
   }
  },
  "aliasy": {
@@ -1257,6 +1264,24 @@
    "velky": "img/zdroje/12-4_s022_velky.jpg",
    "vyrez_soubor": "z12-4-s22-o-slatina-1808-1810-bez-spacka-faltove.jpg"
   },
+  "12-5|22": {
+   "signatura": "12-5",
+   "snimek": 22,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/7a3e9d8b-8458-4bf9-80b3-bbab3a254dcc/dao/7a3e9d8b-8458-4bf9-80b3-bbab3a254dcc/file/c91d0962-c9b1-47c9-88e4-7282b55361df",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/12-5_s022.jpg",
+   "velky": "img/zdroje/12-5_s022_velky.jpg",
+   "vyrez_soubor": "z12-5-s22-pag35-1799-08-31-jiri-falta-podruh-c104-44-let.jpg"
+  },
+  "12-5|29": {
+   "signatura": "12-5",
+   "snimek": 29,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/7a3e9d8b-8458-4bf9-80b3-bbab3a254dcc/dao/7a3e9d8b-8458-4bf9-80b3-bbab3a254dcc/file/f012383f-eaed-45f0-864f-19dd7c8faf24",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/12-5_s029.jpg",
+   "velky": "img/zdroje/12-5_s029_velky.jpg",
+   "vyrez_soubor": "z12-5-s29-pag48-1803-12-24-jiri-falta-chalupnik-c109-85-let.jpg"
+  },
   "12-7|11": {
    "signatura": "12-7",
    "snimek": 11,
@@ -1265,6 +1290,15 @@
    "nahled": "img/zdroje/12-7_s011.jpg",
    "velky": "img/zdroje/12-7_s011_velky.jpg",
    "vyrez_soubor": "z12-7-s11-index-f-falta-1785-1804-dorota-1792.jpg"
+  },
+  "12-7|61": {
+   "signatura": "12-7",
+   "snimek": 61,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/3688be9d-2fd0-4a9d-a333-5d22d581c29f/dao/3688be9d-2fd0-4a9d-a333-5d22d581c29f/file/8209c9c0-927b-4bdf-bb0a-c75fab13b4af",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/12-7_s061.jpg",
+   "velky": "img/zdroje/12-7_s061_velky.jpg",
+   "vyrez_soubor": "z12-7-s61-index-zemrelych-f-falta-jiri-1799-1803.jpg"
   },
   "13-31|103": {
    "signatura": "13-31",
@@ -1532,6 +1566,24 @@
    "velky": "img/zdroje/130-17_s028_velky.jpg",
    "vyrez_soubor": "z130-17-s28-1794-10-04-frantisek-vaclav-winter.jpg"
   },
+  "130-17|30": {
+   "signatura": "130-17",
+   "snimek": 30,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8558b085-893d-4cad-8d5d-c2326e394a0c/dao/8558b085-893d-4cad-8d5d-c2326e394a0c/file/98dae555-b9ee-4026-8857-37387c1b35f4",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-17_s030.jpg",
+   "velky": "img/zdroje/130-17_s030_velky.jpg",
+   "vyrez_soubor": "n130-17-s30-1797-04-11-josef-c26-otec-vaclav-winter-chalupnik-matka-rozyna-klimsova.jpg"
+  },
+  "130-17|33": {
+   "signatura": "130-17",
+   "snimek": 33,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8558b085-893d-4cad-8d5d-c2326e394a0c/dao/8558b085-893d-4cad-8d5d-c2326e394a0c/file/01fe4b7d-93d0-4d70-8a50-caabff499ff3",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-17_s033.jpg",
+   "velky": "img/zdroje/130-17_s033_velky.jpg",
+   "vyrez_soubor": "n130-17-s33-1799-11-10-vaclav-martin-c26-otec-vaclav-wintr-matka-rozyna-dcera-jana-klimse.jpg"
+  },
   "130-17|48": {
    "signatura": "130-17",
    "snimek": 48,
@@ -1639,6 +1691,15 @@
    "nahled": "img/zdroje/130-42_s109.jpg",
    "velky": "img/zdroje/130-42_s109_velky.jpg",
    "vyrez_soubor": "s109-rejstrik-narozenych-Police-1757-1766-Maslo-Pekov-Maroul-Nizka-Srbska-zadny-Jan-Maslo-NS.jpg"
+  },
+  "130-42|13": {
+   "signatura": "130-42",
+   "snimek": 13,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/3f1c49a8-8387-45d5-9ed7-5e04e6ba996f/dao/3f1c49a8-8387-45d5-9ed7-5e04e6ba996f/file/d7913d37-c227-469b-b60e-5135343d8269",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-42_s013.jpg",
+   "velky": "img/zdroje/130-42_s013_velky.jpg",
+   "vyrez_soubor": "z130-42-s13-index-n-lit-b-1781-1783-bittner-srbska.jpg"
   },
   "130-42|173": {
    "signatura": "130-42",
@@ -1751,6 +1812,24 @@
    "nahled": "img/zdroje/130-5_s116.jpg",
    "velky": "img/zdroje/130-5_s116_velky.jpg",
    "vyrez_soubor": "z130-5-s116-pag226-1765-02-15-Pekov-Joannes-Georgius-otec-Georg-Maslo-matka-Marianna-kandidat-Jan-Maslo.jpg"
+  },
+  "130-5|309": {
+   "signatura": "130-5",
+   "snimek": 309,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/f895f8aa-2abe-4ebb-8520-fd9ad10ac8f0/dao/f895f8aa-2abe-4ebb-8520-fd9ad10ac8f0/file/043ce8a7-65d0-4521-bbbc-e2e5022d6f65",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-5_s309.jpg",
+   "velky": "img/zdroje/130-5_s309_velky.jpg",
+   "vyrez_soubor": "n130-5-s309-pag610-1780-01-26-joannes-syn-joannese-bitnara-ns-kmotr-vaclav-lokvenc-mlynar.jpg"
+  },
+  "130-5|357": {
+   "signatura": "130-5",
+   "snimek": 357,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/f895f8aa-2abe-4ebb-8520-fd9ad10ac8f0/dao/f895f8aa-2abe-4ebb-8520-fd9ad10ac8f0/file/5d7ebb4b-d25e-45f8-89da-d5df4293ab82",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-5_s357.jpg",
+   "velky": "img/zdroje/130-5_s357_velky.jpg",
+   "vyrez_soubor": "n130-5-s357-pag707-1783-08-23-joannes-syn-tobiase-bitnara-tkalce-nizka-srbska-c26.jpg"
   },
   "130-5|44": {
    "signatura": "130-5",
