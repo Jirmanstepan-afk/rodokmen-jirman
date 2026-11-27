@@ -1047,6 +1047,79 @@
     "25 → dům č. 25"
    ]
   },
+  "119-1|25": {
+   "soubor": "img/zdroje/119-1_s025_anotace.jpg",
+   "plyne": "Anton se narodil v Olešnici č. 160. Kmotrem mu byl tkadlec Václav Urban. Antonova pozdější žena Anna Marie byla dcerou tkadlce stejného jména.",
+   "titulek": "Křest Antona Knoppa – Olešnice v Orlických horách č. 160, 2. prosince 1774",
+   "oznaceno": [
+    "In Mense Decembri → v měsíci prosinci (1774)",
+    "2. → 2. (prosince)",
+    "P. Ignatius … → křtil P. Ignác …",
+    "Antonius → Antonín",
+    "Antonius Knopp textor Gießhübl. Anna Maria → rodiče Antonín Knopp, tkadlec z Olešnice, a Anna Marie",
+    "Lev. Wenceslaus Urban textor Gießhüblensis … → kmotr Václav Urban, tkadlec z Olešnice",
+    "Gießhübl → Olešnice",
+    "160 → dům č. 160"
+   ]
+  },
+  "119-1|30": {
+   "soubor": "img/zdroje/119-1_s030_anotace.jpg",
+   "plyne": "Anna Marie se narodila tkadlci Václavu Urbanovi a Zuzaně v Olešnici č. 133.",
+   "titulek": "Křest Anny Marie Urbanové – Olešnice v Orlických horách č. 133, 6. srpna 1776",
+   "oznaceno": [
+    "In Mense Augusto → v měsíci srpnu (1776)",
+    "6 → 6. (srpna)",
+    "Anna Maria → Anna Marie",
+    "Urban Wenceslaus textor Gießhübl. Susanna → rodiče Václav Urban, tkadlec z Olešnice, a Zuzana",
+    "Lev. Dorothea filia … Gießhüblensis, Test. Anna Maria uxor … Antonij … → kmotra Dorota, dcera … z Olešnice; svědkyně Anna Marie, manželka Antonína …",
+    "Gießhübl → Olešnice",
+    "133 → dům č. 133"
+   ]
+  },
+  "119-2|111": {
+   "soubor": "img/zdroje/119-2_s111_anotace.jpg",
+   "plyne": "Zápis spojuje tři generace: Františka je dcerou Josefa Knoppa a vnučkou Antonína Knoppa a Anny Marie Urbanové.",
+   "titulek": "Narození Franzisky Knoppové – Olešnice v Orlických horách č. 160, 14. července 1837",
+   "oznaceno": [
+    "Anno 1837 → rok 1837",
+    "den 14. July geboren, den 15. July getauft → narozena 14., pokřtěna 15. července",
+    "160 → dům č. 160",
+    "Franziska → Františka",
+    "1 · 1 · 1 → katolické, děvče, manželské",
+    "Hebamme … Daniel von Gießhübl aus No 8 → porodní bába … Danielová z Olešnice č. 8",
+    "Joseph Knopp, katholisch, Weber, ehelicher Sohn des verstorbenen Anton Knopp … von Gießhübl aus No 160 und dessen Eheweib Anna Maria, geborene Urban, ebenfalls von Gießhübl aus No 13… → otec Josef Knopp, tkadlec, syn zesnulého Antonína Knoppa (č. 160) a Anny Marie roz. Urbanové",
+    "Klara, katholisch, eheliche Tochter des Augustin …, … von Gießhübl aus No 161 und dessen Eheweib Anna, geborene … → matka Klára, dcera Augustina … z Olešnice č. 161 a Anny"
+   ]
+  },
+  "13-5|110": {
+   "soubor": "img/zdroje/13-5_s110_anotace.jpg",
+   "plyne": "Anna Marie se narodila podruhovi Antonínu Hausdorfovi a Barboře Luxové. Přípis o sňatku z roku 1830 ji spojuje s Benediktem Rosenbergem.",
+   "titulek": "Narození Anny Marie Genovefy Hausdorfové – Olivětín č. 6, 29. června 1798",
+   "oznaceno": [
+    "Junio 29. → 29. června (1798)",
+    "6. → dům č. 6",
+    "Anna Maria Genovefa → Anna Marie Genovefa",
+    "Baptiz.: P. Paulus … → křtil P. Pavel (Berger)",
+    "Kop. 10. 11. 1830 … mit Rosenberg … geb. 7.10.1799 … → pozdější přípis: oddána 10. 11. 1830 s (Benediktem) Rosenbergem, narozeným 7. 10. 1799",
+    "Anton Hausdorf Inmann → otec Antonín Hausdorf, podruh",
+    "Barbara … von Johann Lux, Inmann aus Rosenthal → matka Barbora, (dcera) Jana Luxe, podruha z Rožmitálu"
+   ]
+  },
+  "13-32|70": {
+   "soubor": "img/zdroje/13-32_s070_anotace.jpg",
+   "plyne": "Antonín Hausdorf se ve 35 letech oženil jako vdovec, necelých deset měsíců po smrti první ženy. Údaje o nevěstě jsou na protější straně, mimo tento snímek.",
+   "titulek": "Sňatek vdovce Antona Hausdorfa – Olivětín, 27. září 1790 (strana ženicha)",
+   "oznaceno": [
+    "Ölberg → Olivětín",
+    "1790 → rok 1790",
+    "Septembri → září",
+    "27. → 27. (září)",
+    "6. → dům č. 6",
+    "Anton Hausdorf Wittiber von Ölberg. → ženich Antonín Hausdorf, vdovec z Olivětína",
+    "… Hausdorf … und Regina … (?) → rodiče ženicha – čtu jen zčásti",
+    "35 → ženichovi 35 let"
+   ]
+  },
   "130-17|30": {
    "soubor": "img/zdroje/130-17_s030_anotace.jpg",
    "plyne": "Žena Václava Wintera z č. 26 se v roce 1797 jmenuje Rozina Klimšová; Václav už není tkadlec, ale chalupník.",

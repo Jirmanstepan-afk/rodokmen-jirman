@@ -7503,6 +7503,533 @@
    ],
    "plyne": "Ignác se narodil v Dlouhém č. 25. Jeho otec Antonín Mader byl tkadlec a rodina patřila k poddaným opočenského panství.",
    "src": "img/zdroje/117-2_s068_velky.jpg"
+  },
+  {
+   "key": "119-1|25",
+   "title": "Křest Antona Knoppa – Olešnice v Orlických horách č. 160, 2. prosince 1774",
+   "zdroj": "SOA Zámrsk, sign. 119-1, snímek 25, levá strana",
+   "crop": [
+    100,
+    320,
+    1000,
+    530
+   ],
+   "entry": [
+    110,
+    370,
+    1000,
+    525
+   ],
+   "marks": [
+    {
+     "box": [
+      403,
+      328,
+      749,
+      385
+     ],
+     "lat": "In Mense Decembri",
+     "cs": "v měsíci prosinci (1774)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      135,
+      417,
+      160,
+      448
+     ],
+     "lat": "2.",
+     "cs": "2. (prosince)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      187,
+      375,
+      297,
+      448
+     ],
+     "lat": "P. Ignatius …",
+     "cs": "křtil P. Ignác …",
+     "pos": "top"
+    },
+    {
+     "box": [
+      303,
+      407,
+      423,
+      448
+     ],
+     "lat": "Antonius",
+     "cs": "Antonín",
+     "pos": "top"
+    },
+    {
+     "box": [
+      429,
+      375,
+      602,
+      469
+     ],
+     "lat": "Antonius Knopp textor Gießhübl. Anna Maria",
+     "cs": "rodiče Antonín Knopp, tkadlec z Olešnice, a Anna Marie"
+    },
+    {
+     "box": [
+      603,
+      370,
+      813,
+      522
+     ],
+     "lat": "Lev. Wenceslaus Urban textor Gießhüblensis …",
+     "cs": "kmotr Václav Urban, tkadlec z Olešnice"
+    },
+    {
+     "box": [
+      866,
+      423,
+      949,
+      453
+     ],
+     "lat": "Gießhübl",
+     "cs": "Olešnice",
+     "pos": "top"
+    },
+    {
+     "box": [
+      956,
+      423,
+      997,
+      453
+     ],
+     "lat": "160",
+     "cs": "dům č. 160",
+     "pos": "top"
+    }
+   ],
+   "plyne": "Anton se narodil v Olešnici č. 160. Kmotrem mu byl tkadlec Václav Urban. Antonova pozdější žena Anna Marie byla dcerou tkadlce stejného jména.",
+   "src": "img/zdroje/119-1_s025_velky.jpg"
+  },
+  {
+   "key": "119-1|30",
+   "title": "Křest Anny Marie Urbanové – Olešnice v Orlických horách č. 133, 6. srpna 1776",
+   "zdroj": "SOA Zámrsk, sign. 119-1, snímek 30, pravá strana",
+   "crop": [
+    1000,
+    1010,
+    1900,
+    1225
+   ],
+   "entry": [
+    1010,
+    1060,
+    1895,
+    1222
+   ],
+   "marks": [
+    {
+     "box": [
+      1313,
+      1018,
+      1623,
+      1054
+     ],
+     "lat": "In Mense Augusto",
+     "cs": "v měsíci srpnu (1776)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1029,
+      1071,
+      1055,
+      1107
+     ],
+     "lat": "6",
+     "cs": "6. (srpna)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1176,
+      1076,
+      1292,
+      1112
+     ],
+     "lat": "Anna Maria",
+     "cs": "Anna Marie",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1298,
+      1065,
+      1465,
+      1159
+     ],
+     "lat": "Urban Wenceslaus textor Gießhübl. Susanna",
+     "cs": "rodiče Václav Urban, tkadlec z Olešnice, a Zuzana"
+    },
+    {
+     "box": [
+      1463,
+      1065,
+      1682,
+      1222
+     ],
+     "lat": "Lev. Dorothea filia … Gießhüblensis, Test. Anna Maria uxor … Antonij …",
+     "cs": "kmotra Dorota, dcera … z Olešnice; svědkyně Anna Marie, manželka Antonína …"
+    },
+    {
+     "box": [
+      1740,
+      1113,
+      1834,
+      1152
+     ],
+     "lat": "Gießhübl",
+     "cs": "Olešnice",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1835,
+      1113,
+      1892,
+      1152
+     ],
+     "lat": "133",
+     "cs": "dům č. 133",
+     "pos": "top"
+    }
+   ],
+   "plyne": "Anna Marie se narodila tkadlci Václavu Urbanovi a Zuzaně v Olešnici č. 133.",
+   "src": "img/zdroje/119-1_s030_velky.jpg"
+  },
+  {
+   "key": "119-2|111",
+   "title": "Narození Franzisky Knoppové – Olešnice v Orlických horách č. 160, 14. července 1837",
+   "zdroj": "SOA Zámrsk, sign. 119-2, snímek 111",
+   "crop": [
+    20,
+    15,
+    1600,
+    640
+   ],
+   "skip_y": [
+    [
+     135,
+     245
+    ]
+   ],
+   "entry": [
+    25,
+    250,
+    1595,
+    635
+   ],
+   "marks": [
+    {
+     "box": [
+      30,
+      22,
+      130,
+      106
+     ],
+     "lat": "Anno 1837",
+     "cs": "rok 1837",
+     "pos": "top"
+    },
+    {
+     "box": [
+      31,
+      261,
+      124,
+      449
+     ],
+     "lat": "den 14. July geboren, den 15. July getauft",
+     "cs": "narozena 14., pokřtěna 15. července",
+     "pos": "top"
+    },
+    {
+     "box": [
+      142,
+      267,
+      196,
+      304
+     ],
+     "lat": "160",
+     "cs": "dům č. 160",
+     "pos": "top"
+    },
+    {
+     "box": [
+      220,
+      267,
+      385,
+      310
+     ],
+     "lat": "Franziska",
+     "cs": "Františka",
+     "pos": "top"
+    },
+    {
+     "box": [
+      426,
+      263,
+      622,
+      312
+     ],
+     "lat": "1 · 1 · 1",
+     "cs": "katolické, děvče, manželské",
+     "pos": "top"
+    },
+    {
+     "box": [
+      31,
+      461,
+      502,
+      504
+     ],
+     "lat": "Hebamme … Daniel von Gießhübl aus No 8",
+     "cs": "porodní bába … Danielová z Olešnice č. 8"
+    },
+    {
+     "box": [
+      631,
+      245,
+      874,
+      632
+     ],
+     "lat": "Joseph Knopp, katholisch, Weber, ehelicher Sohn des verstorbenen Anton Knopp … von Gießhübl aus No 160 und dessen Eheweib Anna Maria, geborene Urban, ebenfalls von Gießhübl aus No 13…",
+     "cs": "otec Josef Knopp, tkadlec, syn zesnulého Antonína Knoppa (č. 160) a Anny Marie roz. Urbanové"
+    },
+    {
+     "box": [
+      881,
+      245,
+      1107,
+      599
+     ],
+     "lat": "Klara, katholisch, eheliche Tochter des Augustin …, … von Gießhübl aus No 161 und dessen Eheweib Anna, geborene …",
+     "cs": "matka Klára, dcera Augustina … z Olešnice č. 161 a Anny"
+    }
+   ],
+   "plyne": "Zápis spojuje tři generace: Františka je dcerou Josefa Knoppa a vnučkou Antonína Knoppa a Anny Marie Urbanové.",
+   "src": "img/zdroje/119-2_s111_velky.jpg"
+  },
+  {
+   "key": "13-5|110",
+   "title": "Narození Anny Marie Genovefy Hausdorfové – Olivětín č. 6, 29. června 1798",
+   "zdroj": "SOA Zámrsk, sign. 13-5, snímek 110",
+   "crop": [
+    15,
+    10,
+    1911,
+    250
+   ],
+   "entry": [
+    20,
+    20,
+    1905,
+    248
+   ],
+   "marks": [
+    {
+     "box": [
+      27,
+      21,
+      178,
+      179
+     ],
+     "lat": "Junio 29.",
+     "cs": "29. června (1798)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      180,
+      80,
+      243,
+      155
+     ],
+     "lat": "6.",
+     "cs": "dům č. 6",
+     "pos": "top"
+    },
+    {
+     "box": [
+      298,
+      33,
+      543,
+      132
+     ],
+     "lat": "Anna Maria Genovefa",
+     "cs": "Anna Marie Genovefa",
+     "pos": "top"
+    },
+    {
+     "box": [
+      174,
+      174,
+      590,
+      237
+     ],
+     "lat": "Baptiz.: P. Paulus …",
+     "cs": "křtil P. Pavel (Berger)"
+    },
+    {
+     "box": [
+      456,
+      133,
+      1125,
+      237
+     ],
+     "lat": "Kop. 10. 11. 1830 … mit Rosenberg … geb. 7.10.1799 …",
+     "cs": "pozdější přípis: oddána 10. 11. 1830 s (Benediktem) Rosenbergem, narozeným 7. 10. 1799"
+    },
+    {
+     "box": [
+      873,
+      27,
+      1127,
+      119
+     ],
+     "lat": "Anton Hausdorf Inmann",
+     "cs": "otec Antonín Hausdorf, podruh",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1141,
+      33,
+      1381,
+      249
+     ],
+     "lat": "Barbara … von Johann Lux, Inmann aus Rosenthal",
+     "cs": "matka Barbora, (dcera) Jana Luxe, podruha z Rožmitálu",
+     "pos": "top"
+    }
+   ],
+   "plyne": "Anna Marie se narodila podruhovi Antonínu Hausdorfovi a Barboře Luxové. Přípis o sňatku z roku 1830 ji spojuje s Benediktem Rosenbergem.",
+   "src": "img/zdroje/13-5_s110_velky.jpg"
+  },
+  {
+   "key": "13-32|70",
+   "title": "Sňatek vdovce Antona Hausdorfa – Olivětín, 27. září 1790 (strana ženicha)",
+   "zdroj": "SOA Zámrsk, sign. 13-32, snímek 70",
+   "crop": [
+    40,
+    0,
+    983,
+    1260
+   ],
+   "skip_y": [
+    [
+     270,
+     500
+    ]
+   ],
+   "entry": [
+    60,
+    640,
+    983,
+    1250
+   ],
+   "marks": [
+    {
+     "box": [
+      373,
+      0,
+      614,
+      85
+     ],
+     "lat": "Ölberg",
+     "cs": "Olivětín",
+     "pos": "top"
+    },
+    {
+     "box": [
+      123,
+      186,
+      231,
+      266
+     ],
+     "lat": "1790",
+     "cs": "rok 1790",
+     "pos": "top"
+    },
+    {
+     "box": [
+      47,
+      512,
+      343,
+      621
+     ],
+     "lat": "Septembri",
+     "cs": "září",
+     "pos": "top"
+    },
+    {
+     "box": [
+      123,
+      748,
+      183,
+      808
+     ],
+     "lat": "27.",
+     "cs": "27. (září)",
+     "pos": "left"
+    },
+    {
+     "box": [
+      283,
+      735,
+      315,
+      802
+     ],
+     "lat": "6.",
+     "cs": "dům č. 6",
+     "pos": "left"
+    },
+    {
+     "box": [
+      318,
+      678,
+      652,
+      862
+     ],
+     "lat": "Anton Hausdorf Wittiber von Ölberg.",
+     "cs": "ženich Antonín Hausdorf, vdovec z Olivětína",
+     "pos": "right"
+    },
+    {
+     "box": [
+      308,
+      888,
+      652,
+      1242
+     ],
+     "lat": "… Hausdorf … und Regina …",
+     "cs": "rodiče ženicha – čtu jen zčásti",
+     "nejiste": true,
+     "pos": "left"
+    },
+    {
+     "box": [
+      700,
+      790,
+      760,
+      850
+     ],
+     "lat": "35",
+     "cs": "ženichovi 35 let",
+     "pos": "right"
+    }
+   ],
+   "plyne": "Antonín Hausdorf se ve 35 letech oženil jako vdovec, necelých deset měsíců po smrti první ženy. Údaje o nevěstě jsou na protější straně, mimo tento snímek.",
+   "src": "img/zdroje/13-32_s070_velky.jpg"
   }
  ]
 }
