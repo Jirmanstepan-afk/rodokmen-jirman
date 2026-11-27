@@ -374,6 +374,122 @@
     }
    ],
    "plyne": "Hans Rosenberger z Otovic, syn už zesnulého Jiřího Rosenbergera, si 31. 1. 1702 v Ruprechticích vzal Juditu, dceru zesnulého Jonase Hertzoga. Zápis tak spojuje otovické Rosenbergery s ruprechtickými Hertzogy a jmenuje otce obou snoubenců."
+  },
+  {
+   "key": "174-7364|94",
+   "src": "img/zdroje/174-7364_s094_velky.jpg",
+   "title": "Narození Emmy Rosenbergerové – Starostín, 27. prosince 1902",
+   "zdroj": "SOA Zámrsk, sign. 174-7364, snímek 94, fol. 88, poř. č. 10 (Neusorge)",
+   "crop": [
+    100,
+    0,
+    1320,
+    600
+   ],
+   "entry": [
+    130,
+    60,
+    1300,
+    590
+   ],
+   "marks": [
+    {
+     "box": [
+      150,
+      150,
+      228,
+      205
+     ],
+     "lat": "10.",
+     "cs": "pořadové číslo zápisu 10"
+    },
+    {
+     "box": [
+      232,
+      95,
+      452,
+      248
+     ],
+     "lat": "27. Dezember / 1. Jänner 1903",
+     "cs": "narozena 27. prosince 1902, pokřtěna 1. ledna 1903",
+     "pos": "top"
+    },
+    {
+     "box": [
+      468,
+      138,
+      562,
+      212
+     ],
+     "lat": "27.",
+     "cs": "dům č. 27 (Starostín)"
+    },
+    {
+     "box": [
+      636,
+      135,
+      866,
+      232
+     ],
+     "lat": "Emma",
+     "cs": "jméno dítěte: Emma",
+     "pos": "top"
+    },
+    {
+     "box": [
+      912,
+      60,
+      978,
+      262
+     ],
+     "lat": "katholisch",
+     "cs": "katolického vyznání",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1102,
+      78,
+      1152,
+      272
+     ],
+     "lat": "weiblich",
+     "cs": "pohlaví ženské"
+    },
+    {
+     "box": [
+      1222,
+      38,
+      1278,
+      282
+     ],
+     "lat": "unehelich",
+     "cs": "nemanželská (otec neuveden)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      438,
+      0,
+      1245,
+      52
+     ],
+     "lat": "Proß 8. VI. 02 … Sattel 11 … i. Märzdorf … 22. VIII. 1925",
+     "cs": "pozdější přípis: sňatek s Janem Proßem (* 8. 6. 1902, Sedloňov 11) v Martínkovicích 22. 8. 1925",
+     "pos": "top"
+    },
+    {
+     "box": [
+      245,
+      265,
+      565,
+      470
+     ],
+     "lat": "Getauft von: P. Kaj. Treutler, Pfarrer",
+     "cs": "pokřtil farář P. Kajetán Treutler"
+    }
+   ],
+   "plyne": "Emma, narozená 27. 12. 1902 ve Starostíně č. 27 jako nemanželská dcera Anny Rosenbergerové, je tatáž Emma, která se 22. 8. 1925 v Martínkovicích vdala za Jana Proße – přípis o sňatku je přímo u jejího rodného zápisu. Tím je propojena linie Rosenbergerů s Proßi."
   }
  ]
 }
