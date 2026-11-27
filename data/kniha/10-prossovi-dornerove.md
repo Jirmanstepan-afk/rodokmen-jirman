@@ -48,7 +48,9 @@ Proč byli oba ovdovělí, ukázala kniha zemřelých. Mlynář Josef Pibrt zem�
 
 ![171-3/78] Křty v Benátkách 1784–1787. Dne 22. července 1786 v č. 6 Franz Joseph, syn Andrease Proße a Kathariny.
 
-Josefovi rodiče se vzali 23. února 1784 v Benátkách č. 6. [[andreas-pross|Andreas]] byl „pozůstalý syn“ po zemřelém zahradníkovi [[franz-pross-benatky|Franzi Proßovi]]. Franz zemřel 8. května 1781 v Benátkách č. 6 jako sedmdesátiletý.[^171-2/180: úmrtí Franze Proße 8. 5. 1781, Benátky č. 6] [[katharina-pross|Katharina]] byla dcerou sedláka [[johann-rolecek|Johanna Rolečka]] (příjmení čtu nejistě) z Malého Uhřínova.[^171-2/129: sňatek Andrease Proße a Kathariny 23. 2. 1784, Benátky č. 6] Andreas zemřel 30. prosince 1787, bylo mu teprve 24 let. Katharina byla v té době těhotná. Syn Andreas se narodil 2. března 1788 a zemřel 7. května téhož roku na psotník.[^171-9/41: zemřelí Benátky 1785–1790, Andreas Proß 30. 12. 1787 a jeho posmrtný syn 7. 5. 1788]
+Josefovi rodiče se vzali 23. února 1784 v Benátkách č. 6. [[andreas-pross|Andreas]] byl „pozůstalý syn“ po zemřelém zahradníkovi [[franz-pross-benatky|Franzi Proßovi]]. Franz zemřel 8. května 1781 v Benátkách č. 6 jako sedmdesátiletý.[^171-2/180: úmrtí Franze Proße 8. 5. 1781, Benátky č. 6] [[katharina-pross|Katharina]] byla dcerou sedláka [[johann-rolecek|Johanna Rolečka]] (příjmení čtu nejistě) z Malého Uhřínova.[^171-2/129: sňatek Andrease Proße a Kathariny 23. 2. 1784, Benátky č. 6] Katharinin křest jsem pak našel v Malém Uhřínově: 9. května 1762 tam byla pokřtěna Anna Catharina, dcera Johanna Rolletschka a Apollonie. Kmotrou byla Ludmila, žena podruha Josepha Kreysela.[^171-2/28: křest Anny Cathariny Rolletschkové 9. 5. 1762, Malý Uhřínov] Jiná dcera Johanna Rolletschka v letech 1760–1764 v knize není a věk 26 let při jejím druhém sňatku v červnu 1788 sedí přesně. O dva roky později je Johann zapsán výslovně jako sedlák. Kmotrem jeho syna Joan Antona byl tehdy Laurentius Beck.[^171-2/31: křest Joan Antona, syna Johanna Rolletschka, sedláka, a Apollonie, 1764] Rody Proßů a Beků se tak potkávaly u křtitelnice už dvacet let před svatbou Josefa s Agathou.
+
+> Domněnka: Katharina se narodila na samém konci sedmileté války. Kraj pod Orlickými horami tehdy trpěl průchody vojsk a rekvizicemi. Je to dobový kontext, ne údaj ze zápisu. Andreas zemřel 30. prosince 1787, bylo mu teprve 24 let. Katharina byla v té době těhotná. Syn Andreas se narodil 2. března 1788 a zemřel 7. května téhož roku na psotník.[^171-9/41: zemřelí Benátky 1785–1790, Andreas Proß 30. 12. 1787 a jeho posmrtný syn 7. 5. 1788]
 
 ![171-9/41] Kniha zemřelých Benátek: 30. prosince 1787 Andreas Proß, 24 let, a o půl roku později „Andreas, Sohn nach dem Andreas Proß“.
 
@@ -69,7 +71,11 @@ Podzim 1775 byl pro dům č. 34 krutý. 30. října zemřela Ignazova matka Ludm
 
 Otec Joseph žil ještě dvanáct let. Zemřel 17. března 1787 v č. 34 a bylo mu 75 let, což byl na tu dobu vysoký věk.[^171-9/37: úmrtí Josepha Becka 17. 3. 1787, Malý Uhřínov č. 34] Ignaz tedy převzal zahradu ještě za otcova života. Smutek se domu nevyhnul ani potom: Ignazův dvouletý syn Ignatz zemřel 10. září 1791 na psotník.[^171-9/38: úmrtí Ignatze, syna Ignatze Becka, 10. 9. 1791, č. 34]
 
-Katharininy rodiče jsem zatím nenašel. Jediná Katharina Seibertová v rejstříku narozených, k 12. červenci 1757, se ukázala jako chyba posunutého řádku. Toho dne byl ve skutečnosti pokřtěn chlapec z Bukového a Seibert u něj byl jen kmotrem. Byl to Georg Seibert, mládenec z Benátek.[^171-2/16: křest 12. 7. 1757, kmotr Georg Seibert z Benátek] Seibertové tedy žili i v Benátkách a tam je třeba hledat dál.
+Katharininy rodiče jsem zatím nenašel. Jediná Katharina Seibertová v rejstříku narozených, k 12. červenci 1757, se ukázala jako chyba posunutého řádku. Toho dne byl ve skutečnosti pokřtěn chlapec z Bukového a Seibert u něj byl jen kmotrem. Byl to Georg Seibert, mládenec z Benátek.[^171-2/16: křest 12. 7. 1757, kmotr Georg Seibert z Benátek] Seibertové tedy žili i v Benátkách a tam je třeba hledat dál. V křtech Malého Uhřínova z let 1760–1764 Katharina Seibertová také není. V obci tehdy žil rychtář Georg Seibert se ženou Apollonií. Jejich synu Antonovi šel v roce 1763 za kmotra sám farář.[^171-2/29: křty 1763, Anton, syn rychtáře Georga Seiberta]
+
+> Domněnka: Katharina mohla být dcerou rychtáře Georga Seiberta. Zatím to nemám doložené.
+
+Ignaz Bek žil v č. 34 ještě v roce 1801. Tehdy mu tam po sedmi dnech zemřel na psotník syn Franz.[^171-8/50: úmrtí Franze, syna Ignaze Becka, zahradníka, 1801, Malý Uhřínov č. 34] Kde a kdy zemřel on sám, zatím nevím. V zemřelých Malého Uhřínova do roku 1833 jsem ho nenašel.
 
 ![171-3/51] Křest Agathy, dcery Ignaze Beka, v Malém Uhřínově 4. února 1788.
 

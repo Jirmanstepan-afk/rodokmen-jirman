@@ -859,6 +859,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 159-4061 (poř.č. 11109), 1643-1896",
    "popis": "římskokatolický index NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, Šonov\nN od 1742, O do 1885, Z 1742-1888",
    "url": "https://aron.vychodoceskearchivy.cz/apu/d21da203-37b2-4e74-a53e-4cd6666d44b6"
+  },
+  "171-8": {
+   "apu": "45fd8138-97c7-4e9d-aba5-b5e48ff76bd0",
+   "dao": "45fd8138-97c7-4e9d-aba5-b5e48ff76bd0",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 171-8 (poř.č. 12190), 1784-1834",
+   "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, Malý Uhřínov",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/45fd8138-97c7-4e9d-aba5-b5e48ff76bd0"
   }
  },
  "aliasy": {
@@ -2698,6 +2705,15 @@
    "velky": "img/zdroje/171-2_s023_velky.jpg",
    "vyrez_soubor": "s023-narozeni-Maly-Uhrinov-29-7-1760-Ignatius-syn-Josepha-Neugebauera-krcmare.jpg"
   },
+  "171-2|25": {
+   "signatura": "171-2",
+   "snimek": 25,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922/dao/ae8057d2-4543-4429-836f-2da5eee0f922/file/83b2410e-e619-413c-9201-586c1124362f",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-2_s025.jpg",
+   "velky": "img/zdroje/171-2_s025_velky.jpg",
+   "vyrez_soubor": "s025-krest-29-3-1761-Maly-Uhrinov-Anna-Catharina-dcera-Josepha-Rolletschka-podruha-a-Evy-Rosiny.jpg"
+  },
   "171-2|26": {
    "signatura": "171-2",
    "snimek": 26,
@@ -2706,6 +2722,33 @@
    "nahled": "img/zdroje/171-2_s026.jpg",
    "velky": "img/zdroje/171-2_s026_velky.jpg",
    "vyrez_soubor": "s026-narozeni-Maly-Uhrinov-31-7-1761-Ignatius-syn-Josepha-Becka-a-Ludmily-kmotr-Franz-zahradnik-Benatky.jpg"
+  },
+  "171-2|28": {
+   "signatura": "171-2",
+   "snimek": 28,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922/dao/ae8057d2-4543-4429-836f-2da5eee0f922/file/ac85469e-28e1-4c90-8c26-53d6bd54646b",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-2_s028.jpg",
+   "velky": "img/zdroje/171-2_s028_velky.jpg",
+   "vyrez_soubor": "s028-krest-9-5-1762-Maly-Uhrinov-Anna-Catharina-dcera-Joannese-Rolletschka-a-Apollonie.jpg"
+  },
+  "171-2|29": {
+   "signatura": "171-2",
+   "snimek": 29,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922/dao/ae8057d2-4543-4429-836f-2da5eee0f922/file/d560ab3a-ba7e-45bd-b761-518c96e62b3d",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-2_s029.jpg",
+   "velky": "img/zdroje/171-2_s029_velky.jpg",
+   "vyrez_soubor": "s029-krty-2-1763-Maly-Uhrinov-Rolletschek-a-Anton-syn-rychtare-Georga-Seiberta-kmotr-farar.jpg"
+  },
+  "171-2|31": {
+   "signatura": "171-2",
+   "snimek": 31,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922/dao/ae8057d2-4543-4429-836f-2da5eee0f922/file/e6db4015-7272-469a-b0fe-1dd48a72a372",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-2_s031.jpg",
+   "velky": "img/zdroje/171-2_s031_velky.jpg",
+   "vyrez_soubor": "s031-krest-17-1-1764-Maly-Uhrinov-Joan-Anton-syn-Joannese-Rolletschka-sedlaka-a-Apollonie.jpg"
   },
   "171-3|50": {
    "signatura": "171-3",
@@ -2769,6 +2812,24 @@
    "nahled": "img/zdroje/171-4_s005.jpg",
    "velky": "img/zdroje/171-4_s005_velky.jpg",
    "vyrez_soubor": "s005-oddani-5-8-1823-Benatky6-Josef-Pross-zahradnik-vdovec-37-x-Agatha-vdova-po-Josefu-Pibrt-mlynari-35.jpg"
+  },
+  "171-8|49": {
+   "signatura": "171-8",
+   "snimek": 49,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/45fd8138-97c7-4e9d-aba5-b5e48ff76bd0/dao/45fd8138-97c7-4e9d-aba5-b5e48ff76bd0/file/9fe7c115-2cfe-446c-8a5c-18827452dddb",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-8_s049.jpg",
+   "velky": "img/zdroje/171-8_s049_velky.jpg",
+   "vyrez_soubor": "s049-umrti-Maly-Uhrinov-12-1797-7-1799-bez-Ignaze-Beka-1798.jpg"
+  },
+  "171-8|50": {
+   "signatura": "171-8",
+   "snimek": 50,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/45fd8138-97c7-4e9d-aba5-b5e48ff76bd0/dao/45fd8138-97c7-4e9d-aba5-b5e48ff76bd0/file/cf90f847-e97c-4e1f-bece-d71bdfe3a44b",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-8_s050.jpg",
+   "velky": "img/zdroje/171-8_s050_velky.jpg",
+   "vyrez_soubor": "s050-umrti-1801-Maly-Uhrinov34-Franz-syn-Ignaze-Becka-zahradnika-7-dni-Fraiss.jpg"
   },
   "171-9|37": {
    "signatura": "171-9",
