@@ -3890,6 +3890,805 @@
    ],
    "plyne": "Oba otcové snoubenců v roce 1844 už nežili. Zápis dokládá, že Kubečkové pocházeli z Machova č. 19 a Židovi z č. 11.",
    "src": "img/zdroje/96-16_s020_velky.jpg"
+  },
+  {
+   "key": "53-52|12",
+   "title": "Svatba Františka Klimeše a Kateřiny Pitašové – Vysoká Srbská, 13. února 1809",
+   "zdroj": "SOA Zámrsk, sign. 53-52, snímek 12, pag. 18",
+   "crop": [
+    0,
+    140,
+    1980,
+    620
+   ],
+   "entry": [
+    30,
+    165,
+    1970,
+    605
+   ],
+   "marks": [
+    {
+     "box": [
+      38,
+      172,
+      172,
+      228
+     ],
+     "lat": "Den 13.",
+     "cs": "dne 13. (února 1809)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      222,
+      172,
+      292,
+      228
+     ],
+     "lat": "31",
+     "cs": "dům č. 31",
+     "pos": "top"
+    },
+    {
+     "box": [
+      298,
+      168,
+      662,
+      262
+     ],
+     "lat": "Franz Klimesch ein Sohn",
+     "cs": "František Klimeš, syn",
+     "pos": "top"
+    },
+    {
+     "box": [
+      298,
+      272,
+      662,
+      322
+     ],
+     "lat": "des …",
+     "cs": "křestní jméno otce – nedá se jistě přečíst",
+     "nejiste": true
+    },
+    {
+     "box": [
+      298,
+      320,
+      662,
+      600
+     ],
+     "lat": "Klimesch, Gärtner aus Zlitz N. 31 … Politzer Herrschaft",
+     "cs": "Klimeše, zahradníka ze Zlíčka č. 31, panství Police"
+    },
+    {
+     "box": [
+      748,
+      163,
+      802,
+      207
+     ],
+     "lat": "28",
+     "cs": "ženichovi 28 let",
+     "pos": "top"
+    },
+    {
+     "box": [
+      903,
+      168,
+      1302,
+      562
+     ],
+     "lat": "Katharina, eheliche Tochter des Georg Pitasch, Häusler aus Hoch-Srbsk N. 28, Nachoder Herrschaft",
+     "cs": "Kateřina, manželská dcera Jiřího Pitaše, domkáře z Vysoké Srbské č. 28, panství Náchod"
+    },
+    {
+     "box": [
+      1418,
+      153,
+      1477,
+      202
+     ],
+     "lat": "19",
+     "cs": "nevěstě 19 let",
+     "pos": "top"
+    }
+   ],
+   "plyne": "Ženich byl synem zahradníka ze Zlíčka č. 31, kam se rodina v dalších zápisech stále vrací. Křestní jméno jeho otce zůstává nejisté.",
+   "src": "img/zdroje/53-52_s012_velky.jpg"
+  },
+  {
+   "key": "53-53|25",
+   "title": "Svatba Jana Klimeše a Anny Špačkové – Vysoká Srbská, 19. listopadu 1844",
+   "zdroj": "SOA Zámrsk, sign. 53-53, snímek 25",
+   "crop": [
+    0,
+    0,
+    2000,
+    350
+   ],
+   "entry": [
+    40,
+    0,
+    1990,
+    335
+   ],
+   "marks": [
+    {
+     "box": [
+      63,
+      0,
+      170,
+      88
+     ],
+     "lat": "Den 19ten Novemb. 1844.",
+     "cs": "19. listopadu 1844",
+     "pos": "top"
+    },
+    {
+     "box": [
+      248,
+      3,
+      780,
+      36
+     ],
+     "lat": "Johann Klimesch, Weber und Inwohner",
+     "cs": "ženich Jan Klimeš, tkadlec a podruh",
+     "pos": "top"
+    },
+    {
+     "box": [
+      248,
+      30,
+      802,
+      62
+     ],
+     "lat": "ehelicher Sohn des Franz Klimesch …",
+     "cs": "manželský syn Františka Klimeše"
+    },
+    {
+     "box": [
+      248,
+      95,
+      835,
+      147
+     ],
+     "lat": "und dessen Eheweib Katharina gebohrne Pitasch …",
+     "cs": "a jeho manželky Kateřiny roz. Pitašové"
+    },
+    {
+     "box": [
+      873,
+      33,
+      907,
+      60
+     ],
+     "lat": "24",
+     "cs": "ženichovi 24 let",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1031,
+      31,
+      1447,
+      117
+     ],
+     "lat": "Anna, eheliche Tochter des verstorbenen Franz Spaček, Inwohner von Hochsrbsk N. 29",
+     "cs": "nevěsta Anna, dcera zesnulého podruha Františka Špačka z Vysoké Srbské č. 29",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1031,
+      117,
+      1447,
+      230
+     ],
+     "lat": "und dessen Eheweib Dorothea gebohrne …",
+     "cs": "a Dorothey (rodné příjmení nejisté)",
+     "nejiste": true
+    },
+    {
+     "box": [
+      1522,
+      68,
+      1558,
+      100
+     ],
+     "lat": "21",
+     "cs": "nevěstě 21 let"
+    }
+   ],
+   "plyne": "Jan byl synem Františka Klimeše a Kateřiny Pitašové, oddaných roku 1809. Kolem roku 1820 se tedy narodil, i když jeho křest zatím chybí.",
+   "src": "img/zdroje/53-53_s025_velky.jpg"
+  },
+  {
+   "key": "96-4231|50",
+   "title": "Úmrtí Anny Klimešové – Machov č. 75, 7. března 1868",
+   "zdroj": "SOA Zámrsk, sign. 96-4231, snímek 50, pag. 92, třetí zápis",
+   "crop": [
+    360,
+    200,
+    1380,
+    965
+   ],
+   "skip_y": [
+    [
+     385,
+     765
+    ]
+   ],
+   "entry": [
+    368,
+    770,
+    1375,
+    960
+   ],
+   "marks": [
+    {
+     "box": [
+      372,
+      780,
+      482,
+      952
+     ],
+     "lat": "Dne 7. března v 1 hodinu odpoledne zemřela; dne 10. března pohřbena",
+     "cs": "zemřela 7. března (1868) v 1 hodinu odpoledne, pohřbena 10. března"
+    },
+    {
+     "box": [
+      497,
+      786,
+      533,
+      828
+     ],
+     "lat": "75",
+     "cs": "dům č. 75",
+     "pos": "top"
+    },
+    {
+     "box": [
+      562,
+      786,
+      872,
+      872
+     ],
+     "lat": "Anna, vlastní dcera Jana Klimeše, chalupníka",
+     "cs": "Anna, vlastní dcera chalupníka Jana Klimeše",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1007,
+      786,
+      1062,
+      828
+     ],
+     "lat": "17",
+     "cs": "17 let",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1102,
+      772,
+      1372,
+      897
+     ],
+     "lat": "Dle úmrtního listu od 9. března 1868 … na zapálení jater",
+     "cs": "podle úmrtního listu z 9. března 1868 na zánět jater"
+    }
+   ],
+   "plyne": "Anna, dcera chalupníka Jana Klimeše, zemřela v sedmnácti letech na zánět jater. Rodina tehdy už žila v Machově č. 75.",
+   "src": "img/zdroje/96-4231_s050_velky.jpg"
+  },
+  {
+   "key": "53-9391|10",
+   "title": "Svatba Františka Klimeše – Machov, 11. května 1880",
+   "zdroj": "SOA Zámrsk, sign. 53-9391, snímek 10, levá strana (ženich)",
+   "crop": [
+    150,
+    200,
+    1850,
+    1130
+   ],
+   "entry": [
+    165,
+    220,
+    1840,
+    1120
+   ],
+   "marks": [
+    {
+     "box": [
+      172,
+      228,
+      368,
+      502
+     ],
+     "lat": "Oddáni dne 11. máje 1880",
+     "cs": "oddáni 11. května 1880",
+     "pos": "top"
+    },
+    {
+     "box": [
+      398,
+      248,
+      458,
+      302
+     ],
+     "lat": "2.",
+     "cs": "číslo domu 2 (Závrchy, odkud byla nevěsta)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      503,
+      230,
+      1487,
+      352
+     ],
+     "lat": "František Klimeš, tkadlec a gruntovní chalupník z Machova č. 75",
+     "cs": "ženich František Klimeš, tkadlec a gruntovní chalupník z Machova č. 75",
+     "pos": "top"
+    },
+    {
+     "box": [
+      503,
+      380,
+      1487,
+      600
+     ],
+     "lat": "manželský syn katolických rodičů: Jana Klimše, výměnkáře z Machova č. 75, a Anny, dcery Františka Špačka, podruha z Vysoké Srbské č. 29",
+     "cs": "syn výměnkáře Jana Klimeše a Anny roz. Špačkové"
+    },
+    {
+     "box": [
+      1622,
+      233,
+      1708,
+      297
+     ],
+     "lat": "23",
+     "cs": "ženichovi 23 let",
+     "pos": "top"
+    },
+    {
+     "box": [
+      172,
+      680,
+      1487,
+      788
+     ],
+     "lat": "Otec nezletilého ženicha na důkaz svého k tomu sňatku svolení před kopulačníma svědky se vlastnoručně podepsal:",
+     "cs": "otec nezletilého ženicha se na důkaz souhlasu před svědky vlastnoručně podepsal"
+    },
+    {
+     "box": [
+      522,
+      788,
+      808,
+      862
+     ],
+     "lat": "Jan Klimeš, otec ženicha",
+     "cs": "podpis: Jan Klimeš, otec ženicha"
+    },
+    {
+     "box": [
+      172,
+      860,
+      1487,
+      1012
+     ],
+     "lat": "Po trojím v Hronovském a Machovském farním chrámu Páně dne 25. dubna, 2. a 9. máje 1880 prošlém ohlášení oddal:",
+     "cs": "po ohláškách v Hronově a Machově 25. 4., 2. a 9. 5. 1880 oddal"
+    },
+    {
+     "box": [
+      678,
+      1003,
+      1282,
+      1117
+     ],
+     "lat": "Jan Svatoň, farář",
+     "cs": "farář Jan Svatoň"
+    }
+   ],
+   "plyne": "František nebyl ještě plnoletý, proto se k zápisu podepsal jeho otec Jan, tehdy výměnkář v Machově č. 75. Je to vlastnoruční podpis našeho předka.",
+   "src": "img/zdroje/53-9391_s010_velky.jpg"
+  },
+  {
+   "key": "53-52|3",
+   "title": "Svatba Jiřího Pitaše a Kateřiny – Vysoká Srbská, 18. července 1784",
+   "zdroj": "SOA Zámrsk, sign. 53-52, snímek 3, první strana oddací knihy",
+   "crop": [
+    60,
+    230,
+    1900,
+    470
+   ],
+   "entry": [
+    75,
+    262,
+    1880,
+    460
+   ],
+   "marks": [
+    {
+     "box": [
+      83,
+      272,
+      237,
+      337
+     ],
+     "lat": "18. Jul.",
+     "cs": "18. července (1784)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      258,
+      263,
+      477,
+      452
+     ],
+     "lat": "Georgius Pitasch von Srbska",
+     "cs": "ženich Jiří Pitaš z (Vysoké) Srbské",
+     "pos": "top"
+    },
+    {
+     "box": [
+      583,
+      283,
+      647,
+      332
+     ],
+     "lat": "25",
+     "cs": "25 let"
+    },
+    {
+     "box": [
+      793,
+      273,
+      1047,
+      337
+     ],
+     "lat": "Catharina",
+     "cs": "nevěsta Kateřina",
+     "pos": "top"
+    },
+    {
+     "box": [
+      793,
+      337,
+      1047,
+      400
+     ],
+     "lat": "",
+     "cs": "rodné příjmení nevěsty – čtení nejisté",
+     "nejiste": true
+    },
+    {
+     "box": [
+      1103,
+      283,
+      1167,
+      332
+     ],
+     "lat": "25",
+     "cs": "25 let"
+    }
+   ],
+   "plyne": "Jiří Pitaš a Kateřina byli při svatbě stejně staří, oběma bylo 25. Zápis stojí na první straně knihy založené roku 1784.",
+   "src": "img/zdroje/53-52_s003_velky.jpg"
+  },
+  {
+   "key": "53-72|26",
+   "title": "Úmrtí Jiřího Pitaše, domkáře ve Vysoké Srbské č. 28 – 18. března 1816",
+   "zdroj": "SOA Zámrsk, sign. 53-72, snímek 26, pag. 46",
+   "crop": [
+    100,
+    140,
+    1900,
+    1340
+   ],
+   "skip_y": [
+    [
+     565,
+     1092
+    ]
+   ],
+   "entry": [
+    110,
+    1100,
+    1890,
+    1335
+   ],
+   "marks": [
+    {
+     "box": [
+      290,
+      160,
+      1400,
+      240
+     ],
+     "lat": "Sterb Register Dorf Hoch-Sichel",
+     "cs": "kniha zemřelých, obec Vysoká Srbská (německy Hochsichel)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       138,
+       1103,
+       347,
+       1165
+      ],
+      [
+       113,
+       1163,
+       252,
+       1227
+      ]
+     ],
+     "lat": "Martius, Den 18",
+     "cs": "dne 18. března (1816)"
+    },
+    {
+     "box": [
+      273,
+      1163,
+      337,
+      1227
+     ],
+     "lat": "28.",
+     "cs": "dům č. 28"
+    },
+    {
+     "box": [
+      343,
+      1158,
+      947,
+      1237
+     ],
+     "lat": "Georg Pitasch Häußler",
+     "cs": "Jiří Pitaš, domkář"
+    },
+    {
+     "box": [
+      1193,
+      1158,
+      1277,
+      1227
+     ],
+     "lat": "55.",
+     "cs": "55 let"
+    },
+    {
+     "box": [
+      1378,
+      1088,
+      1822,
+      1212
+     ],
+     "lat": "an Lungensucht",
+     "cs": "na plicní souchotiny"
+    },
+    {
+     "box": [
+      248,
+      1213,
+      1612,
+      1332
+     ],
+     "lat": "Versehen und begraben Pat. Franciscus Wanietschek Cooperator",
+     "cs": "zaopatřil a pohřbil P. František Vaníček, kaplan"
+    }
+   ],
+   "plyne": "Jiří Pitaš zemřel v domě č. 28 na souchotiny v 55 letech. Narodil se tedy kolem roku 1761, což sedí s věkem při svatbě.",
+   "src": "img/zdroje/53-72_s026_velky.jpg"
+  },
+  {
+   "key": "53-2|34",
+   "title": "Křest Františka Davida Špačka – Hronov č. 88, 23. května 1795",
+   "zdroj": "SOA Zámrsk, sign. 53-2, snímek 34",
+   "crop": [
+    40,
+    100,
+    1960,
+    560
+   ],
+   "entry": [
+    60,
+    125,
+    1940,
+    550
+   ],
+   "marks": [
+    {
+     "box": [
+      88,
+      138,
+      192,
+      202
+     ],
+     "lat": "Den 23",
+     "cs": "dne 23. (května 1795)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      243,
+      143,
+      352,
+      197
+     ],
+     "lat": "88.",
+     "cs": "dům č. 88",
+     "pos": "top"
+    },
+    {
+     "box": [
+      398,
+      143,
+      712,
+      272
+     ],
+     "lat": "Frantz David Schpatzek",
+     "cs": "František David Špaček",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1018,
+      128,
+      1272,
+      362
+     ],
+     "lat": "Joseph Schpatzek Inmann",
+     "cs": "otec Josef Špaček, podruh"
+    },
+    {
+     "box": [
+      1262,
+      133,
+      1492,
+      187
+     ],
+     "lat": "Maria",
+     "cs": "matka Marie",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1262,
+      187,
+      1500,
+      540
+     ],
+     "lat": "… gebohrne … von Hronow N. 70, Nachoder Herrschaft",
+     "cs": "rozená … z Hronova č. 70, panství Náchod (jméno nejisté)",
+     "nejiste": true
+    },
+    {
+     "box": [
+      1498,
+      148,
+      1912,
+      222
+     ],
+     "lat": "David Jirasek von Hronow",
+     "cs": "kmotr David Jirásek z Hronova",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1518,
+      258,
+      1752,
+      382
+     ],
+     "lat": "Elisabetha Nowakowa",
+     "cs": "kmotra Alžběta Nováková"
+    }
+   ],
+   "plyne": "František David se narodil v Hronově č. 88 podruhovi Josefu Špačkovi. Stejné číslo domu u otce uvádí i jeho svatba roku 1817.",
+   "src": "img/zdroje/53-2_s034_velky.jpg"
+  },
+  {
+   "key": "53-52|15",
+   "title": "Svatba Františka Špačka a Doroty Faltové – Vysoká Srbská, 7. ledna 1817",
+   "zdroj": "SOA Zámrsk, sign. 53-52, snímek 15",
+   "crop": [
+    40,
+    130,
+    1960,
+    640
+   ],
+   "entry": [
+    55,
+    155,
+    1950,
+    600
+   ],
+   "marks": [
+    {
+     "box": [
+      [
+       63,
+       163,
+       327,
+       217
+      ],
+      [
+       63,
+       223,
+       187,
+       287
+      ]
+     ],
+     "lat": "Januarius, Den 7.",
+     "cs": "dne 7. ledna (1817)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      223,
+      223,
+      297,
+      287
+     ],
+     "lat": "29.",
+     "cs": "dům č. 29",
+     "pos": "top"
+    },
+    {
+     "box": [
+      343,
+      198,
+      617,
+      587
+     ],
+     "lat": "Frantz Spaček, Sohn nach dem Joseph Spaček, Inmann aus Hronow N. 88, Nachoder Herrschaft",
+     "cs": "František Špaček, syn Josefa Špačka, podruha z Hronova č. 88, panství Náchod"
+    },
+    {
+     "box": [
+      683,
+      223,
+      747,
+      282
+     ],
+     "lat": "22.",
+     "cs": "ženichovi 22 let",
+     "pos": "top"
+    },
+    {
+     "box": [
+      838,
+      213,
+      1287,
+      527
+     ],
+     "lat": "Dorothea, Tochter nach dem Georg Falta, Inmann aus Slatina N. 39, Nachoder Herrschaft",
+     "cs": "Dorota, dcera Jiřího Falty, podruha ze Slatiny č. 39, panství Náchod"
+    },
+    {
+     "box": [
+      1353,
+      148,
+      1407,
+      197
+     ],
+     "lat": "24.",
+     "cs": "nevěstě 24 let",
+     "pos": "top"
+    }
+   ],
+   "plyne": "Ženich je syn Josefa Špačka z Hronova č. 88, tedy tentýž František David pokřtěný v roce 1795. Sedí i jeho věk 22 let.",
+   "src": "img/zdroje/53-52_s015_velky.jpg"
   }
  ]
 }
