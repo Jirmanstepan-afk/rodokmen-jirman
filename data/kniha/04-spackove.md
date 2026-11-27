@@ -34,4 +34,12 @@ Dorota je při svatbě v roce 1817 zapsána jako dcera *zemřelého* podruha Ji�
 
 Zajímavost: Faltové ve Slatině na přelomu století hodně umírali. Rejstřík jich mezi lety 1798 a 1803 uvádí přes deset. Dne 1. září 1799 zemřel v č. 21 sedmnáctiletý Václav, syn zahradníka Antonína Falty, „na vnitřní horkost“, tedy na horečku.
 
+Dorota přežila manžela o celých 21 let. Zemřela jako vdova 10. srpna 1856 v pět hodin ráno ve Vysoké Srbské č. 29, tedy ve stejném domě, kde s Františkem vychovávala děti. Zápis ji nazývá „Dorothea, Witwe nach dem verstorbenen Franz Spaček, Chalupner, geborne Falta aus Slatina No: 56“, uvádí jí 63 let a jako příčinu smrti „an Altersschwäche“, tedy sešlost věkem. Pohřbena byla 12. srpna; zaopatřil ji kooperátor P. Johann Stifter a pohřbil farář Franz Hromadka.[^53-4174/15: úmrtí Doroty Špačkové, vdovy, 10. 8. 1856, Vysoká Srbská č. 29, 63 let, pag. 23][^53-4184/74: hronovský rejstřík zemřelých, lit. S, 1856 – „Špaček Dorothea, 10 August, Hoch-Sichel, IV, 23“]
+
+![53-4174/15] Úmrtí Doroty Špačkové, rozené Faltové, 10. srpna 1856 ve Vysoké Srbské č. 29, ve věku 63 let, na sešlost věkem.
+
+Zajímavost: úmrtní zápis přidává k Dorotinu rodnému domu ve Slatině už třetí číslo – 56. Jinde je to č. 39 a u kandidátského křtu č. 109. Věk 63 let odpovídá narození v letech 1792–1793, takže kandidátka z března 1792 věkově stále sedí [?q-falta-slatina].
+
+> Domněnka: Rodina podruha Jiřího Falty se ve Slatině stěhovala mezi domy, a proto se čísla v zápisech liší. Dorota Marie pokřtěná 12. 3. 1792 v č. 109 je tak nejspíš naše Dorota. Dokud to nepotvrdí další zápis, nechávám ji mimo strom.
+
 Otevřená zůstává i starší generace Špačků. V hronovské matrice je 13. srpna 1782 svatba Josefa Špačka, syna Jiřího ze Zbečníku, s Marií, dcerou Tobiáše Jurny(?),[^53-1/118: oddací zápis 13. 8. 1782 – zatím jen kandidát] a Josef s Marií měli v Hronově děti Kateřinu (1787), Jana Davida (1789) a Josefa (1792). Že jsou to Františkovi rodiče a sourozenci, je velmi pravděpodobné, ale zatím to nemám potvrzené.

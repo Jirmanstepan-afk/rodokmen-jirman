@@ -65,7 +65,7 @@ Původní znění z matriky nechávám i s německým nebo latinským výrazem v
 - Proßové a Dörnerové: [[josef-pross|Josef Proß]] – zahradník (Gärtner), Benátky č. 6 (1821–1828); Feldgärtner z Benátek č. 6 (1858)
 - Rosenbergerové: [[benedikt-rosenberger|Benedikt Rosenberger]] – podruh (Inwohner) v Ruprechticích č. 36 (1873). V zápisu narození syna 1833 je otec také podruh; dítě se narodilo v Broumově městě č. 48
 - Soumarové: [[josef-soumar|Josef Soumar]] – gruntovní chalupník (Grundhäusler), Závrchy č. 1 (1857)
-- Špačkové: [[frantisek-spacek|František Špaček]] – podruh (Inmann), Vysoká Srbská č. 29 (1818, 1823); chalupník (Häusler), VS č. 29 (1835, úmrtí); tesař, VS č. 29 (1857, zápis vnuka); podruh, VS č. 29 (1880)
+- Špačkové: [[frantisek-spacek|František Špaček]] – podruh (Inmann), Vysoká Srbská č. 29 (1818, 1823); chalupník (Häusler), VS č. 29 (1835, úmrtí); chalupník (Chalupner, 1856, úmrtí vdovy[^53-4174/15: úmrtí Doroty Špačkové 1856, pag. 23]); tesař, VS č. 29 (1857, zápis vnuka); podruh, VS č. 29 (1880)
 - Syroví: [[josef-syrovy-obuvnik|Josef Syrový]] – obuvník, Choceň č. 364
 - Tschinkelové: [[josef-tschinkel|Josef Tschinkel]] – obyvatel (Inwohner), Štiefwinkl (Kout u Deštného v Orlických horách) č. 16
 

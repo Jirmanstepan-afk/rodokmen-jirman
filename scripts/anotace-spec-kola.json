@@ -651,6 +651,178 @@
     }
    ],
    "plyne": "V srpnu 1783 rejstřík uvádí dva srbské Bittnery; Jan z 23. 8. je syn Tobiáše (str. 707), Václav Jan z 27. 8. je syn Jana a Doroty z č. 32."
+  },
+  {
+   "key": "53-4174|15",
+   "src": "img/zdroje/53-4174_s015_velky.jpg",
+   "title": "Úmrtí Doroty Špačkové – Vysoká Srbská č. 29, 10. 8. 1856",
+   "zdroj": "SOA Zámrsk, sign. 53-4174, snímek 15, pag. 23",
+   "crop": [
+    0,
+    60,
+    1843,
+    1010
+   ],
+   "entry": [
+    70,
+    550,
+    1750,
+    1000
+   ],
+   "marks": [
+    {
+     "box": [
+      280,
+      85,
+      1420,
+      175
+     ],
+     "lat": "Sterberegister. Ort: Hoch-Sichel",
+     "cs": "kniha zemřelých, obec Vysoká Srbská"
+    },
+    {
+     "box": [
+      75,
+      555,
+      315,
+      775
+     ],
+     "lat": "Den 10ten August 5 Uhr früh gestorben, den 12ten begraben",
+     "cs": "zemřela 10. srpna (1856) v 5 hodin ráno, pohřbena 12."
+    },
+    {
+     "box": [
+      318,
+      555,
+      420,
+      640
+     ],
+     "lat": "29",
+     "cs": "dům č. 29"
+    },
+    {
+     "box": [
+      420,
+      555,
+      995,
+      672
+     ],
+     "lat": "Dorothea, Witwe nach dem verstorbenen Franz Spaček, Chalupner",
+     "cs": "Dorota, vdova po zemřelém Františku Špačkovi, chalupníkovi"
+    },
+    {
+     "box": [
+      420,
+      674,
+      995,
+      800
+     ],
+     "lat": "geborne Falta aus Slatina No: 56",
+     "cs": "rozená Faltová ze Slatiny č. 56"
+    },
+    {
+     "box": [
+      1135,
+      560,
+      1215,
+      640
+     ],
+     "lat": "63",
+     "cs": "63 let"
+    },
+    {
+     "box": [
+      1320,
+      720,
+      1700,
+      790
+     ],
+     "lat": "an Altersschwäche",
+     "cs": "na sešlost věkem"
+    }
+   ],
+   "plyne": "Dorota Špačková, rozená Faltová ze Slatiny, zemřela jako vdova po chalupníkovi Františku Špačkovi 10. 8. 1856 ve Vysoké Srbské č. 29 ve věku 63 let; narodila se tedy asi v letech 1792–1793. Číslo domu jejího rodiště je tu 56, jinde 39 nebo 109."
+  },
+  {
+   "key": "53-4184|74",
+   "src": "img/zdroje/53-4184_s074_velky.jpg",
+   "title": "Rejstřík zemřelých fary Hronov, písmeno S, rok 1856",
+   "zdroj": "SOA Zámrsk, sign. 53-4184, snímek 74",
+   "crop": [
+    0,
+    0,
+    2000,
+    485
+   ],
+   "entry": [
+    0,
+    235,
+    1720,
+    335
+   ],
+   "marks": [
+    {
+     "box": [
+      0,
+      235,
+      570,
+      335
+     ],
+     "lat": "Špaček Dorothea",
+     "cs": "Dorota Špačková"
+    },
+    {
+     "box": [
+      600,
+      235,
+      720,
+      335
+     ],
+     "lat": "10",
+     "cs": "10."
+    },
+    {
+     "box": [
+      760,
+      235,
+      1030,
+      335
+     ],
+     "lat": "August",
+     "cs": "srpna (1856)"
+    },
+    {
+     "box": [
+      1090,
+      235,
+      1470,
+      335
+     ],
+     "lat": "Hoch-Sichel",
+     "cs": "Vysoká Srbská"
+    },
+    {
+     "box": [
+      1480,
+      235,
+      1570,
+      335
+     ],
+     "lat": "IV",
+     "cs": "kniha IV (zemřelí VS 1849–1891)"
+    },
+    {
+     "box": [
+      1580,
+      235,
+      1710,
+      335
+     ],
+     "lat": "23.",
+     "cs": "strana 23"
+    }
+   ],
+   "plyne": "Hronovský rejstřík zemřelých odkazuje na zápis úmrtí Doroty Špačkové 10. 8. 1856 ve Vysoké Srbské, kniha IV, strana 23 – podle něj byl dohledán zápis v knize 53-4174."
   }
  ]
 }
