@@ -10171,6 +10171,431 @@
    ],
    "plyne": "Petr se narodil 14. dubna 1904 v Kimirzi č. 119 tesaři Martinu Spadtovi a Alžbětě Leicht. Zápis jmenuje oba páry jeho prarodičů.",
    "src": "img/zdroje/CDIAL-618-2-3103_s115_velky.jpg"
+  },
+  {
+   "key": "CDIAL-618-2-2567|7",
+   "title": "Sňatek Martina Spadta a vdovy Alžběty Leicht – Kimirz, 1. července 1890",
+   "zdroj": "CDIAL Lvov, fond 618, op. 2, spr. 2567, snímek 7",
+   "crop": [
+    100,
+    0,
+    880,
+    350
+   ],
+   "entry": [
+    130,
+    168,
+    865,
+    342
+   ],
+   "marks": [
+    {
+     "box": [
+      228,
+      5,
+      725,
+      32
+     ],
+     "lat": "Kimirz et Ostałowce A. D. 1890",
+     "cs": "Kimirz a Ostałowce, roku 1890",
+     "pos": "top"
+    },
+    {
+     "box": [
+      140,
+      172,
+      180,
+      218
+     ],
+     "lat": "Julii 1.",
+     "cs": "1. července"
+    },
+    {
+     "box": [
+      210,
+      180,
+      240,
+      235
+     ],
+     "lat": "119",
+     "cs": "dům č. 119",
+     "pos": "top"
+    },
+    {
+     "box": [
+      240,
+      172,
+      335,
+      310
+     ],
+     "lat": "Martinus Spadt de Kimirz oriundus fil. Mathiae et Annae Treff(ler) sutor",
+     "cs": "ženich Martin Spadt z Kimirze, syn Matyáše a Anny Treflerové, švec"
+    },
+    {
+     "box": [
+      450,
+      172,
+      475,
+      198
+     ],
+     "lat": "24",
+     "cs": "24 let",
+     "pos": "top"
+    },
+    {
+     "box": [
+      478,
+      170,
+      660,
+      262
+     ],
+     "lat": "Elisabetha Leicht de Kimirz vidua fil. Adami et Catharinae Semmer, post Georgium Spadt",
+     "cs": "nevěsta Alžběta Leicht z Kimirze, vdova po Jiřím Spadtovi, dcera Adama a Kateřiny Semmerové"
+    },
+    {
+     "box": [
+      697,
+      172,
+      720,
+      198
+     ],
+     "lat": "24",
+     "cs": "24 let",
+     "pos": "top"
+    },
+    {
+     "box": [
+      718,
+      170,
+      835,
+      248
+     ],
+     "lat": "Mathias Hirnung, Adamus Spadt colonistae",
+     "cs": "svědci: kolonisté Matyáš Hirnung a Adam Spadt",
+     "nejiste": true
+    },
+    {
+     "box": [
+      135,
+      262,
+      862,
+      340
+     ],
+     "lat": "… Dispensatione super impedimento affinitatis … 1890 № 2198 …",
+     "cs": "dispens od překážky švagrovství, Lvov 1890 č. 2198",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Martin Spadt si 1. července 1890 vzal Alžbětu, vdovu po Jiřím Spadtovi. Kvůli švagrovství potřebovali dispens. Jiří byl tedy Martinův bratr.",
+   "src": "img/zdroje/CDIAL-618-2-2567_s007_velky.jpg"
+  },
+  {
+   "key": "CDIAL-618-2-2567|29",
+   "title": "Křest Jana Spadta – Kimirz č. 119, 9./10. února 1891",
+   "zdroj": "CDIAL Lvov, fond 618, op. 2, spr. 2567, snímek 29",
+   "crop": [
+    40,
+    0,
+    1290,
+    900
+   ],
+   "entry": [
+    60,
+    725,
+    1245,
+    885
+   ],
+   "marks": [
+    {
+     "box": [
+      68,
+      8,
+      113,
+      38
+     ],
+     "lat": "1891",
+     "cs": "rok 1891",
+     "pos": "top"
+    },
+    {
+     "box": [
+      225,
+      172,
+      915,
+      218
+     ],
+     "lat": "Pagus Kimirz et Ostałowce",
+     "cs": "obec Kimirz a Ostałowce",
+     "pos": "top"
+    },
+    {
+     "box": [
+      75,
+      728,
+      180,
+      795
+     ],
+     "lat": "Februarii 9. 10.",
+     "cs": "narozen 9., pokřtěn 10. února"
+    },
+    {
+     "box": [
+      180,
+      762,
+      225,
+      795
+     ],
+     "lat": "119",
+     "cs": "dům č. 119"
+    },
+    {
+     "box": [
+      232,
+      743,
+      383,
+      780
+     ],
+     "lat": "Joannes",
+     "cs": "Jan"
+    },
+    {
+     "box": [
+      630,
+      728,
+      818,
+      862
+     ],
+     "lat": "Martinus Spadt colonista fil. Mathiae et Annae Treffler",
+     "cs": "otec Martin Spadt, kolonista, syn Matyáše a Anny Trefflerové"
+    },
+    {
+     "box": [
+      822,
+      728,
+      1013,
+      862
+     ],
+     "lat": "Elisabetha Leicht fil. Adami et Catharinae Semmer",
+     "cs": "matka Alžběta Leicht, dcera Adama a Kateřiny Semmerové"
+    },
+    {
+     "box": [
+      1028,
+      728,
+      1238,
+      862
+     ],
+     "lat": "Joannes Treffler, Elisabetha Spadt uxor Adami colon.",
+     "cs": "kmotři Jan Treffler a Alžběta Spadtová, žena kolonisty Adama"
+    }
+   ],
+   "plyne": "Prvorozený Jan se narodil 9. února 1891 v Kimirzi č. 119, sedm měsíců po svatbě rodičů. Kmotrou byla žena Adama Spadta, svědka z jejich svatby.",
+   "src": "img/zdroje/CDIAL-618-2-2567_s029_velky.jpg"
+  },
+  {
+   "key": "CDIAL-618-2-3709|5",
+   "title": "Křest Rudolfa Spadta – Kimirz č. 119, 7./8. září 1907",
+   "zdroj": "CDIAL Lvov, fond 618, op. 2, spr. 3709, snímek 5",
+   "crop": [
+    0,
+    0,
+    1600,
+    290
+   ],
+   "entry": [
+    0,
+    0,
+    1560,
+    270
+   ],
+   "marks": [
+    {
+     "box": [
+      [
+       70,
+       35,
+       118,
+       72
+      ],
+      [
+       53,
+       100,
+       170,
+       178
+      ]
+     ],
+     "lat": "7 8 Septembr. 1907",
+     "cs": "narozen 7., pokřtěn 8. září 1907"
+    },
+    {
+     "box": [
+      170,
+      23,
+      224,
+      65
+     ],
+     "lat": "119",
+     "cs": "dům č. 119"
+    },
+    {
+     "box": [
+      265,
+      35,
+      482,
+      88
+     ],
+     "lat": "Rudolphus",
+     "cs": "Rudolf"
+    },
+    {
+     "box": [
+      190,
+      105,
+      540,
+      205
+     ],
+     "lat": "Matrimonium iniit cum Maria Smyk(?) Leopoli in Eccl. S. Mariae Magdalenae 2.3.1932(?)",
+     "cs": "pozdější poznámka: oženil se s Marií Smyk(?) ve Lvově u sv. Máří Magdalény, asi 2. 3. 1932",
+     "nejiste": true
+    },
+    {
+     "box": [
+      740,
+      0,
+      1140,
+      130
+     ],
+     "lat": "Spadt Martinus agr. fil. Mathiae et Annae Trefler",
+     "cs": "otec Martin Spadt, rolník, syn Matyáše a Anny Treflerové"
+    },
+    {
+     "box": [
+      741,
+      130,
+      1128,
+      260
+     ],
+     "lat": "Elisabetha Leicht fil. Adami et Agathae …",
+     "cs": "matka Alžběta Leicht, dcera Adama a Agáty …"
+    },
+    {
+     "box": [
+      1153,
+      0,
+      1400,
+      235
+     ],
+     "lat": "Joannes Leicht agr. … Barbara … uxor Andreae",
+     "cs": "kmotři Jan Leicht, rolník, a Barbara …, žena Ondřeje",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Rudolf se narodil 7. září 1907 v Kimirzi č. 119. Poznámka modrým inkoustem uvádí jeho sňatek ve Lvově roku 1932, jméno nevěsty je ale nejisté. V tomto zápisu je babička uvedena jako Agatha, ne Catharina.",
+   "src": "img/zdroje/CDIAL-618-2-3709_s005_velky.jpg"
+  },
+  {
+   "key": "CDIAL-618-2-3104|428",
+   "title": "Sňatek Martina Spadta mladšího a Anny Spadtové – Kimirz, 20. listopadu 1934",
+   "zdroj": "CDIAL Lvov, fond 618, op. 2, spr. 3104, snímek 428",
+   "crop": [
+    90,
+    150,
+    1560,
+    1121
+   ],
+   "entry": [
+    100,
+    770,
+    1550,
+    1090
+   ],
+   "marks": [
+    {
+     "box": [
+      190,
+      185,
+      240,
+      215
+     ],
+     "lat": "1934",
+     "cs": "rok 1934",
+     "pos": "top"
+    },
+    {
+     "box": [
+      178,
+      780,
+      255,
+      876
+     ],
+     "lat": "20 Novembris",
+     "cs": "20. listopadu"
+    },
+    {
+     "box": [
+      330,
+      780,
+      600,
+      822
+     ],
+     "lat": "Martinus Spadt agr.",
+     "cs": "ženich Martin Spadt, rolník",
+     "pos": "top"
+    },
+    {
+     "box": [
+      330,
+      822,
+      630,
+      880
+     ],
+     "lat": "fil. p. d. Martini et Elisabethis Leicht",
+     "cs": "syn † Martina a Alžběty Leicht"
+    },
+    {
+     "box": [
+      685,
+      880,
+      715,
+      970
+     ],
+     "lat": "24 ann.",
+     "cs": "24 let"
+    },
+    {
+     "box": [
+      805,
+      780,
+      1090,
+      955
+     ],
+     "lat": "Anna Spadt fil. … Mariae Spadt nata et habitans in Kimirz",
+     "cs": "nevěsta Anna Spadtová, dcera Marie Spadtové, narozená a bytem v Kimirzi"
+    },
+    {
+     "box": [
+      1170,
+      880,
+      1200,
+      980
+     ],
+     "lat": "25 ann.",
+     "cs": "25 let"
+    },
+    {
+     "box": [
+      1300,
+      780,
+      1415,
+      990
+     ],
+     "lat": "Joannes Spadt agr., Martinus Treffler agr.",
+     "cs": "svědci: rolníci Jan Spadt a Martin Treffler",
+     "pos": "top"
+    }
+   ],
+   "plyne": "Nejmladší Martin se oženil 20. listopadu 1934, osmnáct dní po Petrově smrti. Otec Martin je tu už zapsán jako zesnulý („p. d.“) a svědkem byl bratr Jan.",
+   "src": "img/zdroje/CDIAL-618-2-3104_s428_velky.jpg"
   }
  ]
 }
