@@ -9879,6 +9879,298 @@
    ],
    "plyne": "Jediná svatba v Meryszczówě v roce 1925 se naší rodiny netýká. Ženichem byl kapitán Legií z Varšavy, nevěstou dcera Władysława Norberta Czerkawského z Meryszczówa.",
    "src": "img/zdroje/CDIAL-618-2-2697_s164_velky.jpg"
+  },
+  {
+   "key": "CDIAL-618-2-2696|22",
+   "title": "Kateřina Miśków za kmotru – křest Stanislava Szlachetka, Meryszczów 1911",
+   "zdroj": "CDIAL Lvov, fond 618, op. 2, spr. 2696, snímek 22",
+   "crop": [
+    190,
+    90,
+    1300,
+    690
+   ],
+   "entry": [
+    200,
+    455,
+    1240,
+    665
+   ],
+   "marks": [
+    {
+     "box": [
+      540,
+      110,
+      865,
+      195
+     ],
+     "lat": "Meryszczów",
+     "cs": "oddíl Meryszczów",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       245,
+       470,
+       335,
+       505
+      ],
+      [
+       230,
+       510,
+       310,
+       550
+      ]
+     ],
+     "lat": "13 15 Februarii",
+     "cs": "narozen 13., pokřtěn 15. února (1911)"
+    },
+    {
+     "box": [
+      383,
+      490,
+      572,
+      540
+     ],
+     "lat": "Stanislaus",
+     "cs": "Stanislav"
+    },
+    {
+     "box": [
+      480,
+      458,
+      580,
+      490
+     ],
+     "lat": "† 3/7 911",
+     "cs": "připsaný křížek s datem 3. 7. 1911",
+     "nejiste": true,
+     "pos": "top"
+    },
+    {
+     "box": [
+      735,
+      465,
+      962,
+      640
+     ],
+     "lat": "Szlachetko Joannes mercen. … Anna …",
+     "cs": "rodiče: nádeník Jan Szlachetko a Anna …",
+     "nejiste": true
+    },
+    {
+     "box": [
+      981,
+      480,
+      1203,
+      515
+     ],
+     "lat": "Joannes Kułeba",
+     "cs": "kmotr Jan Kułeba",
+     "pos": "top"
+    },
+    {
+     "box": [
+      975,
+      513,
+      1210,
+      625
+     ],
+     "lat": "Catharina Miśków uxor Bartholomaei mercenarii",
+     "cs": "kmotra Kateřina Miśków, manželka nádeníka Bartoloměje"
+    },
+    {
+     "box": [
+      228,
+      578,
+      533,
+      650
+     ],
+     "lat": "Bapt. … Paroch. gr. cath.",
+     "cs": "křtil řeckokatolický farář",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Kateřina Miśków, manželka nádeníka Bartoloměje, žila v Meryszczówě už v roce 1911. Jména obou manželů sedí na Mariiny rodiče z dědova křtu.",
+   "src": "img/zdroje/CDIAL-618-2-2696_s022_velky.jpg"
+  },
+  {
+   "key": "CDIAL-618-2-3036|29",
+   "title": "Úmrtí Petra Spadta – Meryszczów č. 42, 2. listopadu 1934",
+   "zdroj": "CDIAL Lvov, fond 618, op. 2, spr. 3036, snímek 29",
+   "crop": [
+    230,
+    0,
+    1640,
+    420
+   ],
+   "entry": [
+    270,
+    140,
+    1600,
+    345
+   ],
+   "marks": [
+    {
+     "box": [
+      522,
+      17,
+      1028,
+      67
+     ],
+     "lat": "Meryszczów Tom I. 1934",
+     "cs": "Meryszczów, sv. I, 1934",
+     "pos": "top"
+    },
+    {
+     "box": [
+      312,
+      159,
+      465,
+      253
+     ],
+     "lat": "2. 4. Novembris",
+     "cs": "zemřel 2., pohřben 4. listopadu"
+    },
+    {
+     "box": [
+      500,
+      165,
+      553,
+      215
+     ],
+     "lat": "42",
+     "cs": "dům č. 42",
+     "pos": "top"
+    },
+    {
+     "box": [
+      589,
+      155,
+      1033,
+      278
+     ],
+     "lat": "Petrus Spadt maritus Mariae Miśków",
+     "cs": "Petr Spadt, manžel Marie Miśków"
+    },
+    {
+     "box": [
+      1191,
+      188,
+      1315,
+      230
+     ],
+     "lat": "30 an.",
+     "cs": "30 let",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1344,
+      175,
+      1556,
+      245
+     ],
+     "lat": "gruźlica",
+     "cs": "tuberkulóza",
+     "pos": "top"
+    }
+   ],
+   "plyne": "Petr Spadt zemřel 2. listopadu 1934 v domě č. 42 na tuberkulózu, bylo mu 30 let. Rodinná paměť uváděla rok 1936.",
+   "src": "img/zdroje/CDIAL-618-2-3036_s029_velky.jpg"
+  },
+  {
+   "key": "CDIAL-618-2-3103|115",
+   "title": "Křest Petra Spadta – Kimirz č. 119, 14./15. dubna 1904",
+   "zdroj": "CDIAL Lvov, fond 618, op. 2, spr. 3103, snímek 115",
+   "crop": [
+    0,
+    0,
+    1700,
+    421
+   ],
+   "entry": [
+    110,
+    40,
+    1700,
+    340
+   ],
+   "marks": [
+    {
+     "box": [
+      [
+       167,
+       94,
+       277,
+       124
+      ],
+      [
+       170,
+       135,
+       242,
+       165
+      ]
+     ],
+     "lat": "14 15 Aprilis",
+     "cs": "narozen 14., pokřtěn 15. dubna (1904)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      300,
+      76,
+      388,
+      160
+     ],
+     "lat": "119 Kimirz",
+     "cs": "Kimirz č. 119",
+     "pos": "top"
+    },
+    {
+     "box": [
+      418,
+      112,
+      582,
+      153
+     ],
+     "lat": "Petrus",
+     "cs": "Petr",
+     "pos": "top"
+    },
+    {
+     "box": [
+      885,
+      47,
+      1256,
+      177
+     ],
+     "lat": "Martinus Spadt ligni faber fil. Mathiae et Annae Trefler",
+     "cs": "otec Martin Spadt, tesař, syn Matyáše a Anny Treflerové"
+    },
+    {
+     "box": [
+      885,
+      194,
+      1238,
+      330
+     ],
+     "lat": "Elisabetha Leicht fil. Adami et Catharinae Semmer",
+     "cs": "matka Alžběta Leicht, dcera Adama a Kateřiny Semmerové"
+    },
+    {
+     "box": [
+      1315,
+      65,
+      1545,
+      290
+     ],
+     "lat": "Petrus Grün agr. Maria Trefler uxor Adami agr.",
+     "cs": "kmotři: rolník Petr Grün a Marie Treflerová, žena rolníka Adama"
+    }
+   ],
+   "plyne": "Petr se narodil 14. dubna 1904 v Kimirzi č. 119 tesaři Martinu Spadtovi a Alžbětě Leicht. Zápis jmenuje oba páry jeho prarodičů.",
+   "src": "img/zdroje/CDIAL-618-2-3103_s115_velky.jpg"
   }
  ]
 }
