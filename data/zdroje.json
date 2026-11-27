@@ -1440,6 +1440,23 @@
    "nahled": "img/zdroje/130-45_s029.jpg",
    "velky": "img/zdroje/130-45_s029_velky.jpg"
   },
+  "130-46|31": {
+   "signatura": "130-46",
+   "snimek": 31,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a956bc3c-29af-4ba6-9ab2-bc2289e37188/dao/a956bc3c-29af-4ba6-9ab2-bc2289e37188/file/2045cade-5fe3-4c45-a7d7-d399de20d4d2",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/130-46_s031.jpg",
+   "velky": "img/zdroje/130-46_s031_velky.jpg"
+  },
+  "130-46|32": {
+   "signatura": "130-46",
+   "snimek": 32,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a956bc3c-29af-4ba6-9ab2-bc2289e37188/dao/a956bc3c-29af-4ba6-9ab2-bc2289e37188/file/d6c99168-b3fe-46d9-a7a8-5087fc96e497",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-46_s032.jpg",
+   "velky": "img/zdroje/130-46_s032_velky.jpg",
+   "vyrez_soubor": "s032-rejstrik-oddanych-Police-oddil-Pekov-M-1788-1798-Maslo-Franz-1797-Georg-vdovec-1798.jpg"
+  },
   "130-46|40": {
    "signatura": "130-46",
    "snimek": 40,
@@ -2604,6 +2621,22 @@
    "nahled": "img/zdroje/174-12_s032.jpg",
    "velky": "img/zdroje/174-12_s032_velky.jpg",
    "vyrez_soubor": "o174-12-s32-1766-11-04-anton-ringel-anna.jpg"
+  },
+  "174-12|58": {
+   "signatura": "174-12",
+   "snimek": 58,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/13df5c47-98f1-4cac-9b25-0e3a9566046a/dao/13df5c47-98f1-4cac-9b25-0e3a9566046a/file/dd20f273-7ccd-486e-86e0-825838766c56",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/174-12_s058.jpg",
+   "velky": "img/zdroje/174-12_s058_velky.jpg"
+  },
+  "174-12|59": {
+   "signatura": "174-12",
+   "snimek": 59,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/13df5c47-98f1-4cac-9b25-0e3a9566046a/dao/13df5c47-98f1-4cac-9b25-0e3a9566046a/file/7ff32f4c-9193-4b53-a30d-8a861df4752b",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/174-12_s059.jpg",
+   "velky": "img/zdroje/174-12_s059_velky.jpg"
   },
   "174-12|63": {
    "signatura": "174-12",
