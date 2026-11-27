@@ -10,7 +10,10 @@ Jan byl později v č. 52 podruhem a nakonec výměnkářem. Dne 10. února 1822
 
 ## Wintrové z Ledhuj č. 26 a 45
 
-Václav Winter, onen svědek z roku 1813, byl tkadlec. V roce 1794 bydlel v Ledhujích č. 26 a 4. října 1794 se mu narodil syn [[frantisek-ventr|František Václav]].[^130-17/28: narození Františka Václava Wintra 4. 10. 1794] František se 7. července 1819 oženil s Rosinou, dcerou zesnulého krejčího Josefa z Malé Ledhuje č. 3. Jeho příjmení zní v zápisech jako „Klep…“, snad Klepáček.[^130-18/4: oddací zápis 7. 7. 1819, Ledhuje] Mladí bydleli v č. 45 a 27. ledna 1821 se jim narodila dcera [[matka-hruba-spinka|Františka]].[^130-18/23: narození Františky Wentrové 27. 1. 1821, Ledhuje č. 45]
+Václav Winter, onen svědek z roku 1813, byl tkadlec. V roce 1794 bydlel v Ledhujích č. 26 a 4. října 1794 se mu narodil syn [[frantisek-ventr|František Václav]]. Matkou byla podle křestního zápisu [[marie-anna-winterova|Marie Anna]].[^130-17/28: narození Františka Václava Wintra 4. 10. 1794] Rok předtím, 11. června 1793, se ale tkadlec Václav Winter z téhož domu č. 26 ženil s „Rosinou Klimschovou“. Jestli jde o tutéž ženu, zapsanou jednou jako Rosina a jednou jako Marie Anna, zatím nevím [?q-hruby-ventr-predci].
+
+> Domněnka: Marie Anna byla rozená Klimschová, stejně jako nevěsta z roku 1793 [?q-hruby-ventr-predci].
+ František se 7. července 1819 oženil s Rosinou, dcerou zesnulého krejčího Josefa z Malé Ledhuje č. 3. Jeho příjmení zní v zápisech jako „Klep…“, snad Klepáček.[^130-18/4: oddací zápis 7. 7. 1819, Ledhuje] Mladí bydleli v č. 45 a 27. ledna 1821 se jim narodila dcera [[matka-hruba-spinka|Františka]].[^130-18/23: narození Františky Wentrové 27. 1. 1821, Ledhuje č. 45]
 
 ![130-18/23] Narození Františky Wentrové 27. ledna 1821 v Ledhujích č. 45.
 

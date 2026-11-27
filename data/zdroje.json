@@ -1056,6 +1056,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 99-15 (poř.č. 6893), 1637-1949",
    "popis": "římskokatolický index NAROZENÝCH, filiální obvod Božanov (Božanov)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/e462f58f-ed3d-4ecb-b516-ec28e7172ece"
+  },
+  "171-1": {
+   "apu": "33cca047-d9ca-4eeb-8e61-af116518c522",
+   "dao": "33cca047-d9ca-4eeb-8e61-af116518c522",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 171-1 (poř.č. 12178), 1724-1752",
+   "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, farnost (Bělá, Benátky, Bukový, Hutě, Kamenec, Malý Uhřínov, Podolí, Tisovec, Velký Uhřínov) + ojediněle Pičberk",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/33cca047-d9ca-4eeb-8e61-af116518c522"
   }
  },
  "aliasy": {
@@ -2991,6 +2998,22 @@
    "nahled": "img/zdroje/171-10_s050.jpg",
    "velky": "img/zdroje/171-10_s050_velky.jpg",
    "vyrez_soubor": "s050-birmovanci-Giessaus-Tisovec-Seibertove-vcetne-ctyr-Katharin.jpg"
+  },
+  "171-10|56": {
+   "signatura": "171-10",
+   "snimek": 56,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/99630e87-b1e2-4ff1-bca5-b8e3de72419d/dao/99630e87-b1e2-4ff1-bca5-b8e3de72419d/file/2a09576b-7667-46f6-8f89-0c0e6cc6a318",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/171-10_s056.jpg",
+   "velky": "img/zdroje/171-10_s056_velky.jpg"
+  },
+  "171-1|55": {
+   "signatura": "171-1",
+   "snimek": 55,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/33cca047-d9ca-4eeb-8e61-af116518c522/dao/33cca047-d9ca-4eeb-8e61-af116518c522/file/8e36204b-8dc9-432d-9147-0d67536984ab",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/171-1_s055.jpg",
+   "velky": "img/zdroje/171-1_s055_velky.jpg"
   },
   "171-2797|25": {
    "signatura": "171-2797",
