@@ -2,7 +2,7 @@ Po všech kolech hledání mám v rodokmenu přes sto padesát lidí a každý z
 
 ## Co ještě nevím
 
-- **Kdo byli rodiče pradědy Ludvíka Jirmana (1908).** Bez toho nevím, jestli jsou Jirmanové z Machova opravdu moji předkové [?q-ludvik-1908-otec].
+- **Kdo byl Jan Jirmann z Nízké Srbské č. 24**, otec Václava (1874) a děd pradědy Ludvíka. Ludvíkovy rodiče už znám ze svatebního zápisu z roku 1934 [?q-jan-jirmann-ns24].
 - **Svatba Františka Klimeše a Františky Maroulové** kolem let 1900–1905 a narození jejich dcer. Machovské knihy z té doby nejsou v ARONu online.
 - **Rodné příjmení Kateřiny Pitašové**, ženy Jiřího Pitaše, a křest jejich dcery Kateřiny [?q-klimes-snatek].
 - **Křest Doroty Faltové** a jestli patří k domu č. 39, nebo č. 109 ve Slatině [?q-falta-slatina].

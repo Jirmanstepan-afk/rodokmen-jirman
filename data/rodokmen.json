@@ -2,7 +2,7 @@
   "meta": {
     "title": "Rodokmen rodiny Jirman",
     "subtitle": "Štěpán Jirman a jeho předkové — podle veřejných matrik a rodinných podkladů",
-    "updated": "2026-11-26",
+    "updated": "2026-11-27",
     "timezone": "Europe/Helsinki",
     "sources_files": [
       "ROD-1.md",
@@ -363,7 +363,8 @@
         "display": "18. 8. 1908",
         "precision": "exact",
         "date": "1908-08-18",
-        "place": "Nízká Srbská č. 67"
+        "place": "Nízká Srbská č. 67",
+        "note": "Sňatek 1934 uvádí narození v NS č. 67 a datum 18. 8. 1908 (horní číslice dne čtena jako 18, tvar připouští i 13; věk 25 5/12 sedí na obě). Rodokmen Klimeš: 18. 8. 1908."
       },
       "baptism": null,
       "death": {
@@ -375,7 +376,7 @@
       "occupation": null,
       "places": [
         "Nízká Srbská č. 67 (narození)",
-        "Nízká Srbská č. 97 (bydliště v rodokmenu)"
+        "Nízká Srbská č. 97 (bydliště 1934 a otcův dům 1934)"
       ],
       "branch": "jirman",
       "certainty": "potvrzeno",
@@ -383,15 +384,22 @@
       "sources": [
         {
           "label": "Rodokmen Klimeš, 2019"
+        },
+        {
+          "label": "ARON, matrika oddaných CČS 1921–1935 (Machov a okolí), sňatek 10. 2. 1934",
+          "signatura": "8179",
+          "detail": "snímek 85",
+          "apu": "609677ed-cfe1-40bb-93b8-44935ec6ed67"
         }
       ],
       "notes": [
         "Narození v ARON není: kniha N Nízká Srbská po 3. 1905 chybí.",
-        "Sňatek s Blaženou 10. 2. 1934 v Machově v ARON není (machovská kniha oddaných končí 10. 1894).",
-        "Matka děda podle uživatele žila později v Broumově na Kolonii; rodokmen uvádí bydliště páru Nízká Srbská 97. Obojí může platit."
+        "Matka děda podle uživatele žila později v Broumově na Kolonii; rodokmen uvádí bydliště páru Nízká Srbská 97. Obojí může platit.",
+        "Sňatek 10. 2. 1934 nalezen v československé (CČS) matrice oddaných 8179, snímek 85: Ludvík Jirman, dělník v NS č. 97, narozený v NS č. 67, syn Václava Jirmana, tkadlce v NS č. 97, a Anny, dcery Vincence Barčáka z Machova č. 21; příslušný do NS; vyznání československé; svobodný.",
+        "Oddával Jan Pachl, farář CČS v Polici n. M., administrátor v Machově. Svědci: Jaroslav Balcar(?), punčochář v NS č. 81; František Hartman, tkadlec v Bezděkově č. 93. Ženich doložil křestní list z řím.-kat. farního úřadu v Machově z 18. 1. 1934 č. 35/34 (pokřtěn tedy katolicky v Machově)."
       ],
       "interesting": [
-        "Klíčová otevřená otázka: rodiče tohoto Ludvíka nejsou v dostupných matrikách doloženi."
+        "Rodiče doloženi až v roce 2026: oddací zápis CČS 1934 jmenuje otce Václava Jirmana a matku Annu, dceru Vincence Barčáka z Machova č. 21 — to jsou přesně rodiče Vincence Františka *1902 z NS 7 (96-7319 snímek 142)."
       ]
     },
     {
@@ -428,11 +436,18 @@
           "signatura": "scit1921-Machov",
           "detail": "snímek 151",
           "apu": "ecff63a5-1a42-4cc6-9744-265857663ab9"
+        },
+        {
+          "label": "ARON, matrika oddaných CČS 1921–1935 (Machov a okolí), sňatek 10. 2. 1934",
+          "signatura": "8179",
+          "detail": "snímek 85",
+          "apu": "609677ed-cfe1-40bb-93b8-44935ec6ed67"
         }
       ],
       "notes": [
         "Narození v ARON není (Machov / Končiny N po 6. 1888 v ARON chybí).",
-        "Sčítání lidu 1921 (Machov, osada Končiny č. 75, dům Fr. Klimeše): Blažena Klimešová, dcera, svobodná, *10. 5. 1911 Machov, domovská obec Machov — potvrzuje datum z rodokmenu."
+        "Sčítání lidu 1921 (Machov, osada Končiny č. 75, dům Fr. Klimeše): Blažena Klimešová, dcera, svobodná, *10. 5. 1911 Machov, domovská obec Machov — potvrzuje datum z rodokmenu.",
+        "Oddací zápis CČS 10. 2. 1934 (8179 snímek 85): Blažena Klimešová, narozená v Machově č. 75 dne 10. 5. 1911, dcera Františka Klimeše, tkadlce v Machově č. 75, a Františky, dcery Josefa Maroula z NS č. 54; příslušná do Machova; svobodná; vyznání československé. Křestní list z řím.-kat. far. úřadu v Machově z 18. 1. 1934 č. 36/34."
       ],
       "interesting": []
     },
@@ -6630,6 +6645,277 @@
       "interesting": [
         "Rodina se tedy z Vysoké Srbské (1857) přestěhovala do Machova č. 75 nejpozději v roce 1868."
       ]
+    },
+    {
+      "id": "vaclav-jirmann-1874",
+      "name": "Václav Jirmann",
+      "maiden": null,
+      "birth": {
+        "display": "25. 9. 1874",
+        "precision": "exact",
+        "date": "1874-09-25",
+        "place": "Bělý č. 43"
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": "podruh, tkadlec",
+      "places": [
+        "Bělý č. 43 (narození)",
+        "Nízká Srbská č. 7 (1902, 1904)",
+        "Nízká Srbská č. 97 (1934)"
+      ],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, matrika oddaných CČS 1921–1935 (Machov a okolí), sňatek 10. 2. 1934",
+          "signatura": "8179",
+          "detail": "snímek 85",
+          "apu": "609677ed-cfe1-40bb-93b8-44935ec6ed67"
+        },
+        {
+          "label": "ARON, narození 31. 7. 1902 Vincenc František, NS 7 (rodiče Václav Jirmann a Anna Barčáková, jejich rodiče)",
+          "signatura": "96-7319",
+          "detail": "snímek 142",
+          "apu": "335ade0a-eccc-4c8a-a917-becf12f1d6fe"
+        },
+        {
+          "label": "ARON, narození 28. 1. 1904 Roman, NS 7",
+          "signatura": "96-7319",
+          "detail": "snímek 149",
+          "apu": "335ade0a-eccc-4c8a-a917-becf12f1d6fe"
+        }
+      ],
+      "notes": [
+        "Otec Ludvíka *1908 podle oddacího zápisu 1934 (8179 snímek 85): „syn Václava Jirmana, tkalce v Nízké Srbské č. 97, a Anny, dcery Vincence Barčáka z Machova č. 21“. V roce 1934 žil.",
+        "Údaje o narození a rodičích ze zápisu narození syna Vincence Františka 1902: manželský syn †Jana Jirmanna, chalupníka v NS č. 24, a Anny, dcery Hynka Košťála, chalupníka v Bělém č. 43. Oddán v Machově 24. 8. 1897 (zápis sňatku v online knize NS 96-9405 není, rok 1897 tam obsahuje jen 4 jiné sňatky).",
+        "Neslučovat s Václavem *1866 (Machov č. 100, sčítání 1921) ani s Václavem, podruhem NS 45 (svědek 1902), dokud to zápis neřekne."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "anna-barcakova-1874",
+      "name": "Anna Jirmannová",
+      "maiden": "Barčáková",
+      "birth": {
+        "display": "22. 12. 1874",
+        "precision": "exact",
+        "date": "1874-12-22",
+        "place": "Machov č. 21"
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Machov č. 21 (narození)",
+        "Nízká Srbská č. 7 (1902, 1904)"
+      ],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, matrika oddaných CČS 1921–1935 (Machov a okolí), sňatek 10. 2. 1934",
+          "signatura": "8179",
+          "detail": "snímek 85",
+          "apu": "609677ed-cfe1-40bb-93b8-44935ec6ed67"
+        },
+        {
+          "label": "ARON, narození 31. 7. 1902 Vincenc František, NS 7 (rodiče Václav Jirmann a Anna Barčáková, jejich rodiče)",
+          "signatura": "96-7319",
+          "detail": "snímek 142",
+          "apu": "335ade0a-eccc-4c8a-a917-becf12f1d6fe"
+        }
+      ],
+      "notes": [
+        "Manželská dcera Vincence Barčáka, podruha v Machově č. 57 (1902), a Marie, dcery Františka Kubečka, podruha v Machově č. 27 (96-7319 snímek 142).",
+        "Zápis 1934 ji uvádí jako „Annu, dceru Vincence Barčáka z Machova č. 21“."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "vincenc-frantisek-jirmann-1902",
+      "name": "Vincenc František Jirmann",
+      "maiden": null,
+      "birth": {
+        "display": "31. 7. 1902",
+        "precision": "exact",
+        "date": "1902-07-31",
+        "place": "Nízká Srbská č. 7"
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Nízká Srbská č. 7"
+      ],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 31. 7. 1902 Vincenc František, NS 7 (rodiče Václav Jirmann a Anna Barčáková, jejich rodiče)",
+          "signatura": "96-7319",
+          "detail": "snímek 142",
+          "apu": "335ade0a-eccc-4c8a-a917-becf12f1d6fe"
+        }
+      ],
+      "notes": [
+        "Starší bratr Ludvíka *1908. Pokřtěn 4. 8. 1902. Podle zápisu třetí manželské dítě matky."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "roman-jirmann-1904",
+      "name": "Roman Jirmann",
+      "maiden": null,
+      "birth": {
+        "display": "28. 1. 1904",
+        "precision": "exact",
+        "date": "1904-01-28",
+        "place": "Nízká Srbská č. 7"
+      },
+      "baptism": null,
+      "death": {
+        "display": "12. 9. 1904",
+        "precision": "exact",
+        "date": "1904-09-12"
+      },
+      "occupation": null,
+      "places": [
+        "Nízká Srbská č. 7"
+      ],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 28. 1. 1904 Roman, NS 7",
+          "signatura": "96-7319",
+          "detail": "snímek 149",
+          "apu": "335ade0a-eccc-4c8a-a917-becf12f1d6fe"
+        }
+      ],
+      "notes": [
+        "Bratr Ludvíka *1908, zemřel 12. 9. 1904 (poznámka v zápisu narození)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "jan-jirmann-ns24",
+      "name": "Jan Jirmann",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "chalupník",
+      "places": [
+        "Nízká Srbská č. 24"
+      ],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 31. 7. 1902 Vincenc František, NS 7 (rodiče Václav Jirmann a Anna Barčáková, jejich rodiče)",
+          "signatura": "96-7319",
+          "detail": "snímek 142",
+          "apu": "335ade0a-eccc-4c8a-a917-becf12f1d6fe"
+        }
+      ],
+      "notes": [
+        "Otec Václava *1874; v zápisu 1902 již zesnulý (†). Narození a sňatek zatím nenalezeny. Neslučovat s Janem *1825 (NS č. 5 v letech 1884 a 1901) bez zápisu."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "anna-kostalova",
+      "name": "Anna Jirmannová",
+      "maiden": "Košťálová",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Bělý č. 43 (otec)"
+      ],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 31. 7. 1902 Vincenc František, NS 7 (rodiče Václav Jirmann a Anna Barčáková, jejich rodiče)",
+          "signatura": "96-7319",
+          "detail": "snímek 142",
+          "apu": "335ade0a-eccc-4c8a-a917-becf12f1d6fe"
+        }
+      ],
+      "notes": [
+        "Dcera Hynka Košťála, chalupníka v Bělém č. 43 (96-7319 snímek 142)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "vincenc-barcak",
+      "name": "Vincenc Barčák",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": "podruh",
+      "places": [
+        "Machov č. 21 (1874, 1934)",
+        "Machov č. 57 (1902)"
+      ],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 31. 7. 1902 Vincenc František, NS 7 (rodiče Václav Jirmann a Anna Barčáková, jejich rodiče)",
+          "signatura": "96-7319",
+          "detail": "snímek 142",
+          "apu": "335ade0a-eccc-4c8a-a917-becf12f1d6fe"
+        },
+        {
+          "label": "ARON, matrika oddaných CČS 1921–1935 (Machov a okolí), sňatek 10. 2. 1934",
+          "signatura": "8179",
+          "detail": "snímek 85",
+          "apu": "609677ed-cfe1-40bb-93b8-44935ec6ed67"
+        }
+      ],
+      "notes": [
+        "Otec Anny *1874. Manželka Marie, dcera Františka Kubečka, podruha v Machově č. 27."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "marie-kubeckova-barcakova",
+      "name": "Marie Barčáková",
+      "maiden": "Kubečková",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Machov č. 27 (otec)"
+      ],
+      "branch": "jirman",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, narození 31. 7. 1902 Vincenc František, NS 7 (rodiče Václav Jirmann a Anna Barčáková, jejich rodiče)",
+          "signatura": "96-7319",
+          "detail": "snímek 142",
+          "apu": "335ade0a-eccc-4c8a-a917-becf12f1d6fe"
+        }
+      ],
+      "notes": [
+        "Dcera Františka Kubečka, podruha v Machově č. 27 (96-7319 snímek 142)."
+      ],
+      "interesting": []
     }
   ],
   "unions": [
@@ -6702,7 +6988,7 @@
       "married": {
         "display": "10. 2. 1934",
         "date": "1934-02-10",
-        "place": "Machov"
+        "place": "Machov, sbor CČS"
       },
       "children": [
         "ludvik-jirman-1934",
@@ -6714,10 +7000,16 @@
       "sources": [
         {
           "label": "Rodokmen Klimeš, 2019"
+        },
+        {
+          "label": "ARON, matrika oddaných CČS 1921–1935 (Machov a okolí), sňatek 10. 2. 1934",
+          "signatura": "8179",
+          "detail": "snímek 85",
+          "apu": "609677ed-cfe1-40bb-93b8-44935ec6ed67"
         }
       ],
       "notes": [
-        "Sňatek v ARON není (machovská kniha oddaných končí 10. 1894). Čtyři děti podle rodokmenu."
+        "Sňatek nalezen v matrice oddaných Církve československé 8179 (2.1921–10.1935), snímek 85, pořadové č. 2 roku 1934. Ohlášky 21. a 28. 1. a 4. 2. 1934. Čtyři děti podle rodokmenu."
       ]
     },
     {
@@ -8978,6 +9270,87 @@
       "notes": [
         "Otcovství doloženo oddacím zápisem dcery 1809. Matka (Kateřina, podle křtů sourozenců) zatím není jako osoba zapsána."
       ]
+    },
+    {
+      "id": "u-vaclav-jirmann-anna-barcakova",
+      "partners": [
+        "vaclav-jirmann-1874",
+        "anna-barcakova-1874"
+      ],
+      "married": {
+        "display": "24. 8. 1897",
+        "date": "1897-08-24",
+        "place": "Machov"
+      },
+      "children": [
+        "vincenc-frantisek-jirmann-1902",
+        "roman-jirmann-1904",
+        "ludvik-jirman-1908"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, narození 31. 7. 1902 Vincenc František, NS 7 (rodiče Václav Jirmann a Anna Barčáková, jejich rodiče)",
+          "signatura": "96-7319",
+          "detail": "snímek 142",
+          "apu": "335ade0a-eccc-4c8a-a917-becf12f1d6fe"
+        },
+        {
+          "label": "ARON, matrika oddaných CČS 1921–1935 (Machov a okolí), sňatek 10. 2. 1934",
+          "signatura": "8179",
+          "detail": "snímek 85",
+          "apu": "609677ed-cfe1-40bb-93b8-44935ec6ed67"
+        }
+      ],
+      "notes": [
+        "Datum sňatku z poznámky v zápisu narození 1902 („Oddáni v Machově dne 24. srpna 1897“). Ludvík je jejich syn podle oddacího zápisu 1934."
+      ]
+    },
+    {
+      "id": "u-jan-jirmann-anna-kostalova",
+      "partners": [
+        "jan-jirmann-ns24",
+        "anna-kostalova"
+      ],
+      "married": null,
+      "children": [
+        "vaclav-jirmann-1874"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, narození 31. 7. 1902 Vincenc František, NS 7 (rodiče Václav Jirmann a Anna Barčáková, jejich rodiče)",
+          "signatura": "96-7319",
+          "detail": "snímek 142",
+          "apu": "335ade0a-eccc-4c8a-a917-becf12f1d6fe"
+        }
+      ],
+      "notes": [
+        "Rodiče Václava *1874 podle zápisu 1902."
+      ]
+    },
+    {
+      "id": "u-vincenc-barcak-marie",
+      "partners": [
+        "vincenc-barcak",
+        "marie-kubeckova-barcakova"
+      ],
+      "married": null,
+      "children": [
+        "anna-barcakova-1874"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, narození 31. 7. 1902 Vincenc František, NS 7 (rodiče Václav Jirmann a Anna Barčáková, jejich rodiče)",
+          "signatura": "96-7319",
+          "detail": "snímek 142",
+          "apu": "335ade0a-eccc-4c8a-a917-becf12f1d6fe"
+        }
+      ],
+      "notes": [
+        "Rodiče Anny *1874 podle zápisu 1902."
+      ]
     }
   ],
   "identifications": [],
@@ -9015,65 +9388,6 @@
         "romana-spadtova-1971"
       ],
       "sources": []
-    },
-    {
-      "id": "q-ludvik-1908-otec",
-      "title": "Kdo byli rodiče Ludvíka Jirmana *1908?",
-      "summary": "Ludvík *18. 8. 1908 NS 67 je z rodokmenu Klimeš 2019 jistý, ale jeho rodiče nejsou doloženi. Nejsilnějším kandidátem je nově pár Josef Jirman *16./19. 3. 1879 NS 29 × Františka Vítková *21. 8. 1878 (oddáni 10. 11. 1902 Machov). Josef *1857 zůstává možností. Nic z toho není dokázáno.",
-      "details": "Narození Ludvíka v ARON není (kniha N NS po 3. 1905 online chybí). Kandidátní páry s dětmi v NS kolem 1900–1908:\n1) Josef Jirmann, podruh, *NS 29 (16./19. 3. 1879), syn Františka Jirmanna, podruha Machov 14, a Anny Ducháčové z Kladska; oddán 10. 11. 1902 Machov s Františkou Vítkovou *21. 8. 1878 (96-9405 snímek 70). Dítě Josef *29. 1. 1904 NS 59 †23. 2. 1905 (96-7319 snímek 148). Ve sčítání 1921 bydlí v Bezděkově č. 30 (od 5. 8. 1920), Josef skladní dělník u dráhy na stanici Police n. M., dcery Anežka *6. 4. 1899 Bělý a Marie *25. 8. 1907 Machov — Ludvík (by mu bylo 12) v domácnosti NENÍ (scit1921-Bezdekov snímek 59). Proti: Ludvík s nimi 1921 nežije. Pro: věk, bydliště NS, dítě 1907 i 1908 možné.\n2) Václav Jirmann *25. 9. 1874 Bělý 43, podruh a tkadlec NS 7, × Anna Barčáková (oddáni 24. 8. 1897 Machov), děti Vincenc František *31. 7. 1902 a Roman *28. 1. 1904 †12. 9. 1904 (96-7319 snímky 142, 149).\n3) Bohumír Jirman, učitel NS 95, ze Žďárek, × Paulina Králová NS 28, oddáni 5. 11. 1904 (96-9405 snímek 74).\n4) František Jirman *1864, tkadlec NS 5, × Anna z Bezděkova (1921 NS 5, scit1921-NS snímek 7).\n5) Josef *18. 11. 1857 (chalupník NS 75 1900–1901) × Františka Němečková.\nVe sčítání 1921 Ludvík není v Nízké Srbské, Machově ani Bezděkově (prošlo celé). V NS č. 67 bydlí 1921 Klimešové, č. 97 patří obci; Jirman tam není. Jistotu dá jen zápis narození 1908 z matriky NS (SOA Zámrsk / matriční úřad) nebo sčítání 1910.",
-      "related_ids": [
-        "ludvik-jirman-1908",
-        "josef-jirman-1857",
-        "josefa-jirmanova-1900"
-      ],
-      "sources": [
-        {
-          "label": "Zatím bez zápisu",
-          "detail": "narození Ludvíka *18. 8. 1908 NS 67 v ARON není (kniha po 3. 1905)"
-        },
-        {
-          "label": "ARON, sňatek 10. 11. 1902 Josef Jirmann × Františka Vítková",
-          "signatura": "96-9405",
-          "detail": "snímek 70",
-          "apu": "ece0dc67-f2b9-4e73-b1f6-515f084754b3"
-        },
-        {
-          "label": "ARON, narození 29. 1. 1904 Josef, NS 59 (otec Josef Jirmann *1879)",
-          "signatura": "96-7319",
-          "detail": "snímek 148",
-          "apu": "335ade0a-eccc-4c8a-a917-becf12f1d6fe"
-        },
-        {
-          "label": "ARON, sčítání 1921 Bezděkov č. 30: Josef Jirman *1879 s rodinou, bez Ludvíka",
-          "signatura": "scit1921-Bezdekov",
-          "detail": "snímek 59",
-          "apu": "d1b1390a-5754-438a-8a16-051c569d5f74"
-        },
-        {
-          "label": "ARON, narození 31. 7. 1902 Vincenc František, NS 7 (otec Václav Jirmann *1874)",
-          "signatura": "96-7319",
-          "detail": "snímek 142",
-          "apu": "335ade0a-eccc-4c8a-a917-becf12f1d6fe"
-        },
-        {
-          "label": "ARON, sňatek 5. 11. 1904 Bohumír Jirman, učitel NS 95",
-          "signatura": "96-9405",
-          "detail": "snímek 74",
-          "apu": "ece0dc67-f2b9-4e73-b1f6-515f084754b3"
-        },
-        {
-          "label": "ARON, sčítání 1921 NS č. 5: František Jirman *1864",
-          "signatura": "scit1921-NS",
-          "detail": "snímek 7",
-          "apu": "de5e354b-e132-48a9-909a-f6acc8e4ab70"
-        },
-        {
-          "label": "ARON, sčítání 1921 Machov č. 100: Václav Jirman *1866 (bez Ludvíka)",
-          "signatura": "scit1921-Machov",
-          "detail": "snímek 203",
-          "apu": "ecff63a5-1a42-4cc6-9744-265857663ab9"
-        }
-      ]
     },
     {
       "id": "q-josefa-vojteska",
@@ -10509,14 +10823,41 @@
           "apu": "67cc362a-bb02-4c90-8b33-6b6c254ac6d5"
         }
       ]
+    },
+    {
+      "id": "q-jan-jirmann-ns24",
+      "title": "Kdo byl Jan Jirmann, chalupník v Nízké Srbské č. 24, děd Ludvíka?",
+      "summary": "Rodiče Ludvíka *1908 jsou nově doloženi (Václav Jirmann *1874 × Anna Barčáková, sňatek CČS 1934, 8179 snímek 85). Otevřený zůstává Václavův otec Jan Jirmann z NS 24 († před 1902) a jeho žena Anna Košťálová z Bělého 43.",
+      "details": "Zápis narození 1902 (96-7319 snímek 142) jmenuje Václava jako syna †Jana Jirmanna, chalupníka v NS č. 24, a Anny, dcery Hynka Košťála, chalupníka v Bělém č. 43. Další krok: křest Václava 25. 9. 1874 (Bělý patří k Machovu; machovská kniha N do 6. 1888 je online), sňatek Jana a Anny Košťálové (asi 1865–1874, Machov O 96-4228), úmrtí Jana (NS Z) a vztah k Janovi *1825 (NS č. 5 ještě 1901) a k Josefovi *1857. Kde žil Václav s rodinou při sčítání 1921, zatím nevím: v Nízké Srbské, Machově, Bezděkově, Bělém, Sedmákovicích, Závrchách, Žabokrkách ani Vysoké Srbské jsem Ludvíka nenašel; zbývá Police n. M. a čísla chybějící ve sčítání (NS č. 1, Machov č. 37 a 111). Dřívější kandidáti na Ludvíkova otce (Josef *1879, Josef *1857 a další) tím odpadají.",
+      "related_ids": [
+        "vaclav-jirmann-1874",
+        "jan-jirmann-ns24",
+        "anna-kostalova",
+        "ludvik-jirman-1908",
+        "jan-jirmann-1825"
+      ],
+      "sources": [
+        {
+          "label": "ARON, narození 31. 7. 1902 Vincenc František, NS 7 (rodiče Václav Jirmann a Anna Barčáková, jejich rodiče)",
+          "signatura": "96-7319",
+          "detail": "snímek 142",
+          "apu": "335ade0a-eccc-4c8a-a917-becf12f1d6fe"
+        },
+        {
+          "label": "ARON, matrika oddaných CČS 1921–1935 (Machov a okolí), sňatek 10. 2. 1934",
+          "signatura": "8179",
+          "detail": "snímek 85",
+          "apu": "609677ed-cfe1-40bb-93b8-44935ec6ed67"
+        }
+      ]
     }
   ],
   "unattached_branches": [
     {
       "id": "ub-jirman-1857",
       "title": "Josef Jirman *1857 a předkové Jirmann–Šolc–Vejrých–Němečkové",
-      "reason": "Vazba na Ludvíka Jirmana *1908 (a tím na Štěpána) není doložena matrikou. Větev je ověřená sama o sobě, ale do hlavního grafu nepatří, dokud se otcovství nedoloží.",
-      "reattach": "Až bude vazba jistá, stačí dát id ludvik-jirman-1908 do children svazku Josefa *1857 (nebo nového potvrzeného svazku) a přesunout lidi a svazky tohoto oddílu zpět do people/unions.",
+      "reason": "Ludvíkův otec je podle oddacího zápisu 1934 Václav Jirmann *1874 (syn Jana Jirmanna z NS 24), ne Josef *1857. Tato větev tedy Ludvíkovou přímou linií není; zda je s ní příbuzná přes starší Jirmanny z Machova, není doloženo.",
+      "reattach": "Připojit jen tehdy, když zápis doloží vazbu Jana Jirmanna z NS 24 (nebo jeho rodičů) na tuto větev.",
       "people": [
         {
           "id": "anna-solcova",

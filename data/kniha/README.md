@@ -30,7 +30,7 @@ Rámeček kapitoly („Rody / Místa / Období / Vztah ke mně“), retro mapka,
 | `[^Rodinná paměť, 2026.]` | poznámka čistým textem |
 | `![53-52/12] Popisek` | samostatný řádek: obrázek (výřez matriky z `img/zdroje`) s popiskem a odkazem do ARONu |
 | `> Domněnka: text` | vizuálně odlišená domněnka (na širokém displeji na okraji) |
-| `[?q-ludvik-1908-otec]` | štítek „otevřená otázka“ s odkazem na seznam otázek kapitoly |
+| `[?q-jan-jirmann-ns24]` | štítek „otevřená otázka“ s odkazem na seznam otázek kapitoly |
 | `## Nadpis`, `### Podnadpis`, `- odrážka`, `---` (ornament), `**tučně**`, `*kurzíva*`, `[text](url)` | běžné formátování |
 
 ## Postup po kole hledání

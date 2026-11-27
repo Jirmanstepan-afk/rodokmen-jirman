@@ -710,6 +710,13 @@
    "dao": "d1b1390a-5754-438a-8a16-051c569d5f74",
    "nazev": "Státní okresní archiv Náchod: Okresní úřad Broumov I, poř.č.: 51, 1921 — sčítání lidu 1921",
    "url": "https://aron.vychodoceskearchivy.cz/apu/d1b1390a-5754-438a-8a16-051c569d5f74"
+  },
+  "8179": {
+   "apu": "609677ed-cfe1-40bb-93b8-44935ec6ed67",
+   "dao": "609677ed-cfe1-40bb-93b8-44935ec6ed67",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 8179 (poř.č. 13674), 2.1921-10.1935",
+   "popis": "československá matrika ODDANÝCH, Bělý, Bezděkov nad Metují, Machovská Lhota, Machov, Nízká Srbská, Petrovice, Police nad Metují, Vysoká Srbská",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/609677ed-cfe1-40bb-93b8-44935ec6ed67"
   }
  },
  "aliasy": {
@@ -3651,6 +3658,15 @@
    "velky": "img/zdroje/6489_s020_velky.jpg",
    "vyrez_soubor": "syrovy-satek-1887-folio17-L.jpg"
   },
+  "8179|85": {
+   "signatura": "8179",
+   "snimek": 85,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/609677ed-cfe1-40bb-93b8-44935ec6ed67/dao/609677ed-cfe1-40bb-93b8-44935ec6ed67/file/3b8de960-2c25-42d2-8c85-0036ccf478ca",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/8179_s085.jpg",
+   "velky": "img/zdroje/8179_s085_velky.jpg",
+   "vyrez_soubor": "p085-oddani-10-2-1934-Machov-Ludvik-Jirman-18-8-1908-NS67-syn-Vaclava-Jirmana-a-Anny-dcery-Vincence-Barcaka-Machov21-nevesta-Blazena-Klimesova-10-5-1911.jpg"
+  },
   "96-13|15": {
    "signatura": "96-13",
    "snimek": 15,
@@ -4000,7 +4016,7 @@
    "vyrez": "zápis",
    "nahled": "img/zdroje/96-7319_s142.jpg",
    "velky": "img/zdroje/96-7319_s142_velky.jpg",
-   "vyrez_soubor": "p142-narozeni-31-7-1902-Vincenc-Frantisek-Jirmann-NS7-otec-Vaclav-Jirmann-1874-matka-Anna-Barcakova.jpg"
+   "vyrez_soubor": "p142-detail-otec-Vaclav-Jirmann-25-9-1874-Bely43-syn-Jana-Jirmanna-NS24-a-Anny-Kostalove-matka-Anna-Barcakova-22-12-1874-Machov21-dcera-Vincence-Barcaka.jpg"
   },
   "96-7319|148": {
    "signatura": "96-7319",
@@ -4010,6 +4026,23 @@
    "nahled": "img/zdroje/96-7319_s148.jpg",
    "velky": "img/zdroje/96-7319_s148_velky.jpg",
    "vyrez_soubor": "p148-narozeni-29-1-1904-Josef-Jirmann-NS59-otec-Josef-Jirmann-1879-matka-Frantiska-Vitkova.jpg"
+  },
+  "96-7319|149": {
+   "signatura": "96-7319",
+   "snimek": 149,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/335ade0a-eccc-4c8a-a917-becf12f1d6fe/dao/335ade0a-eccc-4c8a-a917-becf12f1d6fe/file/f5d80f18-9889-43cf-865e-c3241c3d87b9",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-7319_s149.jpg",
+   "velky": "img/zdroje/96-7319_s149_velky.jpg"
+  },
+  "96-7319|15": {
+   "signatura": "96-7319",
+   "snimek": 15,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/335ade0a-eccc-4c8a-a917-becf12f1d6fe/dao/335ade0a-eccc-4c8a-a917-becf12f1d6fe/file/bcc38d99-28a9-4443-94a8-ceffa3d47a72",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-7319_s015.jpg",
+   "velky": "img/zdroje/96-7319_s015_velky.jpg",
+   "vyrez_soubor": "p015-narozeni-16-3-1879-Josef-Jirmann-NS29-otec-Frantisek-Jirmann-podruh-nemanzelsky-syn-Ludmily-matka-Anna-Duchacova.jpg"
   },
   "96-7319|46": {
    "signatura": "96-7319",
