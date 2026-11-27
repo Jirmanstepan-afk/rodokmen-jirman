@@ -1049,6 +1049,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 99-8 (poř.č. 6870), 1637-1747",
    "popis": "římskokatolická matrika NAROZENÝCH, filiální obvod Božanov (Božanov)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/5d3023d7-b8c2-458a-96eb-4200971e130c"
+  },
+  "99-15": {
+   "apu": "e462f58f-ed3d-4ecb-b516-ec28e7172ece",
+   "dao": "e462f58f-ed3d-4ecb-b516-ec28e7172ece",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 99-15 (poř.č. 6893), 1637-1949",
+   "popis": "římskokatolický index NAROZENÝCH, filiální obvod Božanov (Božanov)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/e462f58f-ed3d-4ecb-b516-ec28e7172ece"
   }
  },
  "aliasy": {
@@ -5520,6 +5527,38 @@
    "nahled": "img/zdroje/99-14_s060.jpg",
    "velky": "img/zdroje/99-14_s060_velky.jpg"
   },
+  "99-14|65": {
+   "signatura": "99-14",
+   "snimek": 65,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8775726d-ba3e-44be-9ef2-1bd2b267d7be/dao/8775726d-ba3e-44be-9ef2-1bd2b267d7be/file/9fcc0a96-bd21-46ae-a633-1e76c213337d",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-14_s065.jpg",
+   "velky": "img/zdroje/99-14_s065_velky.jpg"
+  },
+  "99-15|127": {
+   "signatura": "99-15",
+   "snimek": 127,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/e462f58f-ed3d-4ecb-b516-ec28e7172ece/dao/e462f58f-ed3d-4ecb-b516-ec28e7172ece/file/c78f4094-e893-43e8-a692-88f076dfad8a",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-15_s127.jpg",
+   "velky": "img/zdroje/99-15_s127_velky.jpg"
+  },
+  "99-15|128": {
+   "signatura": "99-15",
+   "snimek": 128,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/e462f58f-ed3d-4ecb-b516-ec28e7172ece/dao/e462f58f-ed3d-4ecb-b516-ec28e7172ece/file/86306945-6097-4c39-ab8a-d8e847e0710a",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-15_s128.jpg",
+   "velky": "img/zdroje/99-15_s128_velky.jpg"
+  },
+  "99-15|150": {
+   "signatura": "99-15",
+   "snimek": 150,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/e462f58f-ed3d-4ecb-b516-ec28e7172ece/dao/e462f58f-ed3d-4ecb-b516-ec28e7172ece/file/db75066e-20ed-4abc-99dc-fa9293f37580",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-15_s150.jpg",
+   "velky": "img/zdroje/99-15_s150_velky.jpg"
+  },
   "99-16|23": {
    "signatura": "99-16",
    "snimek": 23,
@@ -5552,6 +5591,14 @@
    "nahled": "img/zdroje/99-16_s072.jpg",
    "velky": "img/zdroje/99-16_s072_velky.jpg"
   },
+  "99-16|74": {
+   "signatura": "99-16",
+   "snimek": 74,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/0f398987-6602-45b0-99ea-bd23354fa409/dao/0f398987-6602-45b0-99ea-bd23354fa409/file/a6ffeb18-df34-4573-bfd6-5e272d2c80f3",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-16_s074.jpg",
+   "velky": "img/zdroje/99-16_s074_velky.jpg"
+  },
   "99-16|75": {
    "signatura": "99-16",
    "snimek": 75,
@@ -5559,6 +5606,14 @@
    "vyrez": "celá strana",
    "nahled": "img/zdroje/99-16_s075.jpg",
    "velky": "img/zdroje/99-16_s075_velky.jpg"
+  },
+  "99-1|167": {
+   "signatura": "99-1",
+   "snimek": 167,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/0298d825-8819-476c-b61f-a7402f233e40/dao/0298d825-8819-476c-b61f-a7402f233e40/file/bda43f42-3bb8-401e-8849-4a0ddaf34486",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-1_s167.jpg",
+   "velky": "img/zdroje/99-1_s167_velky.jpg"
   },
   "99-1|32": {
    "signatura": "99-1",
@@ -5668,6 +5723,14 @@
    "nahled": "img/zdroje/99-2_s378.jpg",
    "velky": "img/zdroje/99-2_s378_velky.jpg"
   },
+  "99-2|66": {
+   "signatura": "99-2",
+   "snimek": 66,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/211afc92-e9fc-43c6-acfa-c289dc419f77/dao/211afc92-e9fc-43c6-acfa-c289dc419f77/file/65b69c68-55a4-4d6e-9fad-038317fe1bdc",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-2_s066.jpg",
+   "velky": "img/zdroje/99-2_s066_velky.jpg"
+  },
   "99-2|76": {
    "signatura": "99-2",
    "snimek": 76,
@@ -5676,6 +5739,14 @@
    "nahled": "img/zdroje/99-2_s076.jpg",
    "velky": "img/zdroje/99-2_s076_velky.jpg",
    "vyrez_soubor": "n99-2-s76-pag39-1666-03-19-dite-melchera-rosenbrecka-v-otovicich.jpg"
+  },
+  "99-2|87": {
+   "signatura": "99-2",
+   "snimek": 87,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/211afc92-e9fc-43c6-acfa-c289dc419f77/dao/211afc92-e9fc-43c6-acfa-c289dc419f77/file/d8234062-596b-4089-805a-06b955efc563",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-2_s087.jpg",
+   "velky": "img/zdroje/99-2_s087_velky.jpg"
   },
   "99-8015|137": {
    "signatura": "99-8015",
@@ -5727,6 +5798,14 @@
    "vyrez": "celá strana",
    "nahled": "img/zdroje/99-8_s019.jpg",
    "velky": "img/zdroje/99-8_s019_velky.jpg"
+  },
+  "99-8|20": {
+   "signatura": "99-8",
+   "snimek": 20,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/5d3023d7-b8c2-458a-96eb-4200971e130c/dao/5d3023d7-b8c2-458a-96eb-4200971e130c/file/556c6ad1-014c-401e-afef-87c22522e139",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-8_s020.jpg",
+   "velky": "img/zdroje/99-8_s020_velky.jpg"
   },
   "99-8|22": {
    "signatura": "99-8",
