@@ -12,7 +12,21 @@ Judith se 31. ledna 1702 vdávala. Ženichem byl [[hans-rosenberger-1702|Hans Ro
 
 Jonas Hertzog a jeho žena Judith jsou se Štěpánem ve třinácté generaci.
 
-> Domněnka: Odkud Jonas pocházel a kdo byli jeho rodiče, už se z matrik zjistit nedá. Narodil se dřív, než ruprechtická kniha začíná, a jeho svatbu jsem v ní nenašel [?q-hertzog-jonas-puvod].
+Kdy přesně Jonas zemřel, se dá zúžit díky pohřbu jeho syna. Dne 19. dubna 1695 pohřbili v Ruprechticích mládence Hanse Hertzoga, „weyl. Jonas Hertzogs nachgelassener ehl. Sohn von Ruppersdorf“, tedy pozůstalého syna zesnulého Jonase Hertzoga. Jonas tedy zemřel před dubnem 1695. Hans byl nejspíš ten Johann, kterého Jonas s Judith nechali pokřtít v roce 1676.[^141-7598/499: pohřeb Hanse, syna zesnulého Jonase Hertzoga, 19. 4. 1695, Ruprechtice]
+
+![141-7598/499] Pohřeb mládence Hanse Hertzoga, syna zesnulého Jonase Hertzoga, 19. dubna 1695. O pár zápisů níž je 10. května pohřbena „stará Sybila Hertzogová“ z Ruprechtic.
+
+Zajímavost: ruprechtická kniha zemřelých zachytila i smutnou nehodu. Dne 1. března 1665 zemřel Jonasův synek Hans. Farář k zápisu připsal, že chlapec vrazil matce do náruče hrnec s vařící vodou a opařil se tak, že na to zemřel. Pohřben byl 3. března v Ruprechticích. Rukopis je na tom místě těžko čitelný, takže v podrobnostech se můžu mýlit, smysl je ale jasný.[^141-7598/452: pohřeb Hanse, synka Jonase Hertzoga, 1./3. 3. 1665]
+
+![141-7598/452] Zápis o smrti malého Hanse, synka Jonase Hertzoga, který se roku 1665 opařil vařící vodou.
+
+Jonas s Judith přišli i o další děti: 10. prosince 1669 jim zemřela malá Maria[^141-7598/459: úmrtí Marie, dítěte Jonase Hertzoga, 10. 12. 1669] a 7. července 1683 jejich dcera Maria, nejspíš ta pokřtěná roku 1670. Pohřbena byla se zádušní mší.[^141-7598/477: úmrtí Marie, dcery Jonase Hertzoga, 7. 7. 1683]
+
+> Domněnka: 2. září 1692 byl v Ruprechticích „se zpívanou zádušní mší“ pohřben „Jonas Hertzog von Ruppersdorf“. Farář připsal: „Bůh mu buď milostiv a v soudný den mu dej radostné vzkříšení k věčnému životu.“ Věk ani příbuzní v zápisu nejsou. Nejspíš je to náš Jonas, ale v roce 1665 se mu narodil syn, kterého také pojmenovali Jonas, a jeho úmrtí jsem v knize nenašel. Proto to nemůžu tvrdit jistě [?q-hertzog-jonas-puvod].
+
+![141-7598/492] Pohřeb Jonase Hertzoga z Ruprechtic 2. září 1692 (prostřední zápis).
+
+> Domněnka: Odkud Jonas pocházel a kdo byli jeho rodiče, už se z matrik zjistit nedá. Narodil se dřív, než ruprechtická kniha začíná, a jeho svatbu jsem v ní nenašel. V Ruprechticích ale zemřeli „starý Baltzer Hertzog“ (27. 9. 1669), „starý Melcher Hertzog“ (23. 4. 1671) a „stará Sybila Hertzogová“ (pohřbena 10. 5. 1695). Někdo z nich mohl být Jonasovým otcem nebo matkou, ale zápisy to neříkají. Ve vsi navíc žil ještě druhý manželský pár Melchior a Judith Hertzogovi, takže se obě Judith dají snadno splést [?q-hertzog-jonas-puvod].[^141-7598/461: úmrtí „starého Melchera Hertzoga“ 23. 4. 1671]
 
 ## Otovice a morová rána roku 1680
 
@@ -61,6 +75,10 @@ Zajímavost: božanovský rejstřík křtů, sepsaný mnohem později podle abec
 > Domněnka: Melchiorův vlastní křest kolem let 1620–1628 se najít nedá. V martínkovickém indexu narozených 1605–1630 Melchior Rosenberg není (jsou tam jen Georg a Christoph 1606, Christoph 1611, Balthasar 1619 a Jacob 1621) a božanovská křestní kniha začíná až rokem 1637. Christoph Rosenberg pokřtěný v Martínkovicích roku 1606 nebo 1611 by věkem mohl být Melchiorovým otcem, ale nic to nedokládá.
 
 > Domněnka: Rosinin otec je v oddacím zápisu 1678 „Martin Schaltz (Scholtz?) von Merzdorf“. Ve farnosti žil Martin Scholtz z Otovic, kterému 21. 12. 1669 pohřbili manželku. Jako vdovec se 26. 7. 1671 znovu oženil s pannou Helenou a sám zemřel 18. září 1693, pohřben byl 20. září. Jestli je to Rosinin otec, nevím, protože zápis z roku 1678 uvádí Martínkovice. Jeho první svatba v indexu oddaných 1605–1667 není [?q-scholtz-martin]. Rosinin křest jsem nenašel. Všechny Rosiny Scholtzové pokřtěné v letech 1650–1662 mají jiného otce: v Otovicích 1652 Balthasara, v Martínkovicích 1662 Lenerta, v Božanově 1658 podruha Christopha a 1659 Adama.[^99-8/22: křest Rosiny, dcery Adama Scholtze, 12. 5. 1659, Božanov]
+
+> Domněnka: V martínkovické křestní knize je 11. listopadu 1620 pokřtěn Martin, syn Malchera (Melchiora?) Scholtze. Všichni tři kmotři byli z Otovic. Mohl by to být Martin Scholtz z Otovic, který zemřel roku 1693. Bylo by mu tehdy 73 let, jenže zápis o jeho pohřbu věk neuvádí, takže to nevím jistě. V rejstříku zemřelých 1605–1641 žádný Martin Scholtz není, takže tento Martin v dětství nezemřel. Dokud nic Martina z roku 1620 nespojí s Rosininým otcem, zůstává Martin Scholtz bez rodičů [?q-scholtz-martin].[^99-1/101: křest Martina, syna Malchera Scholtze, 11. 11. 1620, Martínkovice]
+
+![99-1/101] Křest Martina, syna Malchera Scholtze, 11. listopadu 1620 (první zápis na stránce 95). Inkoust je velmi vybledlý.
 
 ## Johann Adalbert a Johann Joseph
 
