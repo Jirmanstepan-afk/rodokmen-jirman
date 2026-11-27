@@ -87,7 +87,7 @@ Původní znění z matriky nechávám i s německým nebo latinským výrazem v
 - Proßové a Dörnerové: [[karl-dorner|Karl Dörner]] – tkadlec (Weber), podruh, Sedloňov č. 47
 - Rosenbergerové: [[anton-otec-anny-1798|Anton Hausdorf]] – vdovec z Olivětína (Ölberg) při sňatku 1790; podruh (Inwohner) v Olivětíně č. 6 (1798); 1830 nádeník (Tagelöhner) v Olivětíně
 - Rosenbergerové: [[joseph-rosenberg-1799|Joseph Rosenberg]] – podruh (Inwohner) v Ruprechticích č. 73 (1799)
-- Špačkové: [[jiri-falta-slatina|Jiří (Georg) Falta]] – podruh (Inmann), Slatina č. 39, panství Náchod (1818, 1823)
+- Špačkové: [[jiri-falta-slatina|Jiří (Georg) Falta]] – podruh (Inmann), Slatina č. 39, panství Náchod (1818, 1823, 1825[^53-20/5: narození vnuka Františka 6. 10. 1825, matka „Tochter nach dem Georg Falta, Innmann aus Slatina No. 39“])
 - Špačkové: [[joseph-spacek-hronov|Josef (Joseph) Špaček]] – podruh (Inmann), Hronov č. 88 (1795; 1817 ve sňatku syna)
 
 ## 10. generace

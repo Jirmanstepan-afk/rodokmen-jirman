@@ -1070,6 +1070,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 12-5 (poř.č. 459), 1784-1847",
    "popis": "římskokatolická matrika ZEMŘELÝCH, římskokatolický index ZEMŘELÝCH, farnost (Mečov, Slatina nad Úpou) 5.-10.1784, Slatina nad Úpou (od 10.1784)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/7a3e9d8b-8458-4bf9-80b3-bbab3a254dcc"
+  },
+  "12-6": {
+   "apu": "3863d3b8-7249-475e-945e-92212d50c1b8",
+   "dao": "3863d3b8-7249-475e-945e-92212d50c1b8",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 12-6 (poř.č. 462), 1723-1784",
+   "popis": "římskokatolický index NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, farnost (Boušín, Mečov, Slatina nad Úpou)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/3863d3b8-7249-475e-945e-92212d50c1b8"
   }
  },
  "aliasy": {
@@ -1246,6 +1253,32 @@
    "velky": "img/zdroje/12-2_s032_velky.jpg",
    "vyrez_soubor": "z12-2-s32-1794-04-05-vaclav-falta-slatina-c109-otec-jiri-falta-podruh-matka-dorota-lorencova.jpg"
   },
+  "12-2|39": {
+   "signatura": "12-2",
+   "snimek": 39,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/10bcc7ad-6f37-4659-8328-2e58bd1d4a00/dao/10bcc7ad-6f37-4659-8328-2e58bd1d4a00/file/52be380b-9269-484e-a094-569371205b94",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/12-2_s039.jpg",
+   "velky": "img/zdroje/12-2_s039_velky.jpg",
+   "vyrez_soubor": "z12-2-s39-pag70-1796-antonin-falta-slatina-c109-otec-jiri-vejminkar-matka-dorota.jpg"
+  },
+  "12-2|45": {
+   "signatura": "12-2",
+   "snimek": 45,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/10bcc7ad-6f37-4659-8328-2e58bd1d4a00/dao/10bcc7ad-6f37-4659-8328-2e58bd1d4a00/file/2cc2b662-de8b-4d4c-b253-badee4489bd0",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/12-2_s045.jpg",
+   "velky": "img/zdroje/12-2_s045_velky.jpg",
+   "vyrez_soubor": "z12-2-s45-pag82-1798-05-25-anna-faltova-slatina-c109-otec-jiri-vejminkar-matka-dorota.jpg"
+  },
+  "12-2|97": {
+   "signatura": "12-2",
+   "snimek": 97,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/10bcc7ad-6f37-4659-8328-2e58bd1d4a00/dao/10bcc7ad-6f37-4659-8328-2e58bd1d4a00/file/8da62a73-9570-4d3f-b66b-51b4bdf7a41b",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/12-2_s097.jpg",
+   "velky": "img/zdroje/12-2_s097_velky.jpg"
+  },
   "12-4|21": {
    "signatura": "12-4",
    "snimek": 21,
@@ -1264,6 +1297,15 @@
    "velky": "img/zdroje/12-4_s022_velky.jpg",
    "vyrez_soubor": "z12-4-s22-o-slatina-1808-1810-bez-spacka-faltove.jpg"
   },
+  "12-4|7": {
+   "signatura": "12-4",
+   "snimek": 7,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/816b61d4-3bc4-4c30-bf85-e65a7ae148f8/dao/816b61d4-3bc4-4c30-bf85-e65a7ae148f8/file/48e46ee1-e49f-4a7f-907f-816cadf483fd",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/12-4_s007.jpg",
+   "velky": "img/zdroje/12-4_s007_velky.jpg",
+   "vyrez_soubor": "o12-4-s7-pag5-1786-jiri-falta-podruh-c44-40-let-x-marie-dcera-davida-nejmana.jpg"
+  },
   "12-5|22": {
    "signatura": "12-5",
    "snimek": 22,
@@ -1281,6 +1323,23 @@
    "nahled": "img/zdroje/12-5_s029.jpg",
    "velky": "img/zdroje/12-5_s029_velky.jpg",
    "vyrez_soubor": "z12-5-s29-pag48-1803-12-24-jiri-falta-chalupnik-c109-85-let.jpg"
+  },
+  "12-5|45": {
+   "signatura": "12-5",
+   "snimek": 45,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/7a3e9d8b-8458-4bf9-80b3-bbab3a254dcc/dao/7a3e9d8b-8458-4bf9-80b3-bbab3a254dcc/file/84c9f955-1689-4276-8d0a-a5787c8b7644",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/12-5_s045.jpg",
+   "velky": "img/zdroje/12-5_s045_velky.jpg",
+   "vyrez_soubor": "z12-5-s45-pag81-1813-05-20-jan-jiri-falta-podruh-90-let.jpg"
+  },
+  "12-6|33": {
+   "signatura": "12-6",
+   "snimek": 33,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/3863d3b8-7249-475e-945e-92212d50c1b8/dao/3863d3b8-7249-475e-945e-92212d50c1b8/file/426e8a2b-6c33-44b0-b57f-47f65fbc6992",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/12-6_s033.jpg",
+   "velky": "img/zdroje/12-6_s033_velky.jpg"
   },
   "12-7|11": {
    "signatura": "12-7",

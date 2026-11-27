@@ -1334,6 +1334,327 @@
     }
    ],
    "plyne": "František Špaček ml., který se ženil v roce 1847, je doložen jako syn našich Františka Špačka a Doroty Faltové – bratr předkyně Anny."
+  },
+  {
+   "key": "12-4|7",
+   "src": "img/zdroje/12-4_s007_velky.jpg",
+   "title": "Sňatek Jiřího Falty, podruha – Slatina, 21. 9.(?) 1786",
+   "zdroj": "SOA Zámrsk, sign. 12-4, snímek 7, pag. 5",
+   "crop": [
+    0,
+    0,
+    1919,
+    369
+   ],
+   "entry": [
+    0,
+    0,
+    1919,
+    369
+   ],
+   "marks": [
+    {
+     "box": [
+      10,
+      19,
+      173,
+      115
+     ],
+     "lat": "21. dto",
+     "cs": "21. (téhož měsíce) 1786"
+    },
+    {
+     "box": [
+      230,
+      29,
+      326,
+      125
+     ],
+     "lat": "44",
+     "cs": "dům č. 44(?)",
+     "nejiste": true
+    },
+    {
+     "box": [
+      374,
+      29,
+      566,
+      192
+     ],
+     "lat": "Gjřj Falta, podruh",
+     "cs": "ženich Jiří Falta, podruh"
+    },
+    {
+     "box": [
+      700,
+      29,
+      777,
+      134
+     ],
+     "lat": "40 let",
+     "cs": "40 let"
+    },
+    {
+     "box": [
+      878,
+      24,
+      1113,
+      254
+     ],
+     "lat": "Marya, dcera po Dawidowi Nejmanowi(?)",
+     "cs": "nevěsta Marie, dcera po Davidu Nejmanovi(?)",
+     "nejiste": true
+    },
+    {
+     "box": [
+      1204,
+      24,
+      1276,
+      134
+     ],
+     "lat": "25 let",
+     "cs": "25 let"
+    },
+    {
+     "box": [
+      1377,
+      19,
+      1756,
+      249
+     ],
+     "lat": "Wáclaw … ; Wáclaw Falta …",
+     "cs": "svědci Václav … a Václav Falta",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Jediný sňatek Jiřího Falty v oddací knize Slatiny 1784–1853 je s Marií, ne s Dorotou – rodiče naší Doroty se tu neoddávali."
+  },
+  {
+   "key": "12-2|39",
+   "src": "img/zdroje/12-2_s039_velky.jpg",
+   "title": "Narození Antonína Falty – Slatina č. 109, 1796",
+   "zdroj": "SOA Zámrsk, sign. 12-2, snímek 39, pag. 70",
+   "crop": [
+    0,
+    0,
+    1919,
+    681
+   ],
+   "entry": [
+    0,
+    288,
+    1919,
+    681
+   ],
+   "marks": [
+    {
+     "box": [
+      110,
+      300,
+      190,
+      390
+     ],
+     "lat": "4.",
+     "cs": "4. den měsíce (1796)"
+    },
+    {
+     "box": [
+      182,
+      317,
+      288,
+      427
+     ],
+     "lat": "109",
+     "cs": "dům č. 109"
+    },
+    {
+     "box": [
+      283,
+      317,
+      422,
+      427
+     ],
+     "lat": "Antonin Falta",
+     "cs": "Antonín Falta"
+    },
+    {
+     "box": [
+      907,
+      317,
+      1151,
+      432
+     ],
+     "lat": "Gjřj Falta, wejminkář",
+     "cs": "otec Jiří Falta, výměnkář"
+    },
+    {
+     "box": [
+      1161,
+      317,
+      1396,
+      624
+     ],
+     "lat": "Dorota, rozená Gjřjho Martince(?) z L…(?) No. 9",
+     "cs": "matka Dorota, dcera Jiřího Martince(?) z L…(?) č. 9",
+     "nejiste": true
+    },
+    {
+     "box": [
+      1406,
+      317,
+      1881,
+      624
+     ],
+     "lat": "Antonin Janaušek, zahradník; Dorota, manželka Františka Tomsy(?)",
+     "cs": "kmotři Antonín Janoušek, zahradník, a Dorota …",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Jiří Falta z č. 109 měl s manželkou Dorotou další děti; rodné příjmení matky se v zápisech liší (Lokvencová / Martincová?)."
+  },
+  {
+   "key": "12-2|45",
+   "src": "img/zdroje/12-2_s045_velky.jpg",
+   "title": "Narození Anny Faltové – Slatina č. 109, 25. 5. 1798",
+   "zdroj": "SOA Zámrsk, sign. 12-2, snímek 45, pag. 82",
+   "crop": [
+    0,
+    0,
+    1919,
+    398
+   ],
+   "entry": [
+    0,
+    58,
+    1919,
+    398
+   ],
+   "marks": [
+    {
+     "box": [
+      24,
+      72,
+      86,
+      187
+     ],
+     "lat": "25.",
+     "cs": "25. května 1798"
+    },
+    {
+     "box": [
+      130,
+      72,
+      225,
+      192
+     ],
+     "lat": "109",
+     "cs": "dům č. 109"
+    },
+    {
+     "box": [
+      235,
+      67,
+      441,
+      192
+     ],
+     "lat": "Anna Faltowa",
+     "cs": "Anna Faltová"
+    },
+    {
+     "box": [
+      768,
+      67,
+      993,
+      192
+     ],
+     "lat": "Gjřj Falta, wejminkář",
+     "cs": "otec Jiří Falta, výměnkář"
+    },
+    {
+     "box": [
+      1012,
+      67,
+      1315,
+      345
+     ],
+     "lat": "Dorota, manželka, rozená Gjřjho Mart… z L… No. 9",
+     "cs": "matka Dorota, dcera Jiřího Mart…(?) z L…(?) č. 9",
+     "nejiste": true
+    },
+    {
+     "box": [
+      1324,
+      67,
+      1881,
+      379
+     ],
+     "lat": "Anna, manželka Antonina Janauška, zahradnice",
+     "cs": "kmotra Anna, manželka Antonína Janouška, zahradnice"
+    }
+   ],
+   "plyne": "Poslední zjištěné dítě Jiřího a Doroty Faltových z č. 109; po roce 1798 (1799–1803) už v knize Jiří jako otec žádného Falty nefiguruje."
+  },
+  {
+   "key": "12-5|45",
+   "src": "img/zdroje/12-5_s045_velky.jpg",
+   "title": "Úmrtí Jana Jiřího Falty, podruha – Slatina, 20. 5. 1813",
+   "zdroj": "SOA Zámrsk, sign. 12-5, snímek 45, pag. 81",
+   "crop": [
+    0,
+    0,
+    1919,
+    509
+   ],
+   "entry": [
+    0,
+    249,
+    1919,
+    509
+   ],
+   "marks": [
+    {
+     "box": [
+      5,
+      264,
+      67,
+      360
+     ],
+     "lat": "20.",
+     "cs": "20. května 1813"
+    },
+    {
+     "box": [
+      216,
+      278,
+      825,
+      379
+     ],
+     "lat": "Jan Gjřj Falta, podruh(?)",
+     "cs": "Jan Jiří Falta, podruh(?)",
+     "nejiste": true
+    },
+    {
+     "box": [
+      1291,
+      273,
+      1362,
+      374
+     ],
+     "lat": "90",
+     "cs": "90 let"
+    },
+    {
+     "box": [
+      1367,
+      273,
+      1497,
+      379
+     ],
+     "lat": "Stářím",
+     "cs": "na stáří"
+    }
+   ],
+   "plyne": "Devadesátiletý Jan Jiří Falta (*asi 1723) nemůže být otcem Doroty narozené kolem 1792; jediným vhodným zemřelým Jiřím zůstává podruh † 1799."
   }
  ]
 }
