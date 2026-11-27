@@ -2225,6 +2225,860 @@
    ],
    "plyne": "Judith přežila manžela Jonase o víc než jedenáct let a 20. 12. 1703 byla pohřbena v Ruprechticích. Věk ani původ farář nezapsal.",
    "src": "img/zdroje/141-7598_s515_velky.jpg"
+  },
+  {
+   "key": "174-7|85",
+   "title": "Křest Anny Barbary, dcery Antona Ringela a Anny Drüsin – Vižňov, 24. listopadu 1768",
+   "zdroj": "SOA Zámrsk, sign. 174-7, snímek 85, fol. 164, druhý zápis na straně",
+   "crop": [
+    150,
+    700,
+    1660,
+    1061
+   ],
+   "entry": [
+    180,
+    715,
+    1650,
+    1058
+   ],
+   "marks": [
+    {
+     "box": [
+      185,
+      718,
+      490,
+      785
+     ],
+     "lat": "Den 24t November",
+     "cs": "dne 24. listopadu (1768)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      650,
+      785,
+      1640,
+      850
+     ],
+     "lat": "Anton Ringeln dem Haußgenoß in Wižen",
+     "cs": "Antonu Ringelovi, podruhovi ve Vižňově",
+     "pos": "top"
+    },
+    {
+     "box": [
+      735,
+      860,
+      965,
+      930
+     ],
+     "lat": "Anna Drüsin",
+     "cs": "(manželce) Anně Drüsin"
+    },
+    {
+     "box": [
+      [
+       1460,
+       940,
+       1625,
+       998
+      ],
+      [
+       200,
+       995,
+       322,
+       1055
+      ]
+     ],
+     "lat": "Anna Barbara",
+     "cs": "jménem Anna Barbara"
+    },
+    {
+     "box": [
+      333,
+      995,
+      1045,
+      1055
+     ],
+     "lat": "so gebohren den 24t Dito Vormittags",
+     "cs": "narozená 24. téhož měsíce dopoledne"
+    }
+   ],
+   "plyne": "Barbara, pozdější manželka Josepha Rosenberga, byla dcerou Antona Ringela. Matka se jmenovala Drüsin, a proto ji farář při svatbě zapsal jako „Drüsner“.",
+   "src": "img/zdroje/174-7_s085_velky.jpg"
+  },
+  {
+   "key": "174-12|63",
+   "title": "Dvě Barbary v oddací knize – Vižňov a Ruprechtice, 1786 a 1787",
+   "zdroj": "SOA Zámrsk, sign. 174-12, snímek 63, fol. 118–119",
+   "crop": [
+    0,
+    90,
+    1800,
+    1160
+   ],
+   "entry": [
+    930,
+    880,
+    1700,
+    1120
+   ],
+   "marks": [
+    {
+     "box": [
+      478,
+      118,
+      568,
+      312
+     ],
+     "lat": "Barbara Ringelin, Benedikt Ringels ehl. Tochter in Wižen",
+     "cs": "jiná nevěsta (26. 11. 1786): Barbara Ringelová, dcera Benedikta Ringela z Vižňova",
+     "pos": "top"
+    },
+    {
+     "box": [
+      935,
+      888,
+      1025,
+      1062
+     ],
+     "lat": "Den 13t Augusti",
+     "cs": "dne 13. srpna 1787"
+    },
+    {
+     "box": [
+      1065,
+      888,
+      1168,
+      1115
+     ],
+     "lat": "Johann Joseph Rosenberg, Junggesell, Joseph Rosenbergs ehl. Sohn in Ruppersdorf",
+     "cs": "Johann Joseph Rosenberg, mládenec, manželský syn Josepha Rosenberga z Ruprechtic"
+    },
+    {
+     "box": [
+      1243,
+      895,
+      1282,
+      940
+     ],
+     "lat": "20",
+     "cs": "ženichovi 20 let"
+    },
+    {
+     "box": [
+      1345,
+      893,
+      1447,
+      1045
+     ],
+     "lat": "Barbara, Anton Drüsners ehl. Tochter in Wižen",
+     "cs": "Barbara, manželská dcera Antona Drüsnera z Vižňova"
+    },
+    {
+     "box": [
+      1508,
+      893,
+      1552,
+      940
+     ],
+     "lat": "18",
+     "cs": "nevěstě 18 let"
+    }
+   ],
+   "plyne": "Na jedné dvojstraně jsou dvě různé Barbary: Ringelová, dcera Benedikta, a „naše“ Barbara, kterou farář zapsal po matce jako Drüsner. Slovo u ní opravdu začíná na D.",
+   "src": "img/zdroje/174-12_s063_velky.jpg"
+  },
+  {
+   "key": "174-14|133",
+   "title": "Úmrtí Antona Ringela, podruha ve Vižňově č. 58 – 7. července 1805",
+   "zdroj": "SOA Zámrsk, sign. 174-14, snímek 133, fol. 261, první zápis",
+   "crop": [
+    60,
+    40,
+    1900,
+    300
+   ],
+   "entry": [
+    70,
+    55,
+    1890,
+    290
+   ],
+   "marks": [
+    {
+     "box": [
+      115,
+      65,
+      330,
+      130
+     ],
+     "lat": "Den 7ten July",
+     "cs": "dne 7. července (1805)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      392,
+      72,
+      458,
+      132
+     ],
+     "lat": "58",
+     "cs": "dům č. 58",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       505,
+       75,
+       1065,
+       135
+      ],
+      [
+       595,
+       155,
+       865,
+       210
+      ]
+     ],
+     "lat": "Anton Ringel Hausmann in Wižen",
+     "cs": "Anton Ringel, podruh ve Vižňově"
+    },
+    {
+     "box": [
+      1425,
+      70,
+      1495,
+      128
+     ],
+     "lat": "64",
+     "cs": "věk 64 let"
+    },
+    {
+     "box": [
+      1612,
+      65,
+      1855,
+      168
+     ],
+     "lat": "An der Abzehrung",
+     "cs": "na úbytě"
+    }
+   ],
+   "plyne": "Anton Ringel zemřel na úbytě jako podruh v č. 58. Farář mu připsal 64 let, podle křtu mu bylo 61.",
+   "src": "img/zdroje/174-14_s133_velky.jpg"
+  },
+  {
+   "key": "174-6|174",
+   "title": "Křest Daniela Ringela – Vižňov, 17. června 1706",
+   "zdroj": "SOA Zámrsk, sign. 174-6, snímek 174, fol. 173",
+   "crop": [
+    140,
+    150,
+    1800,
+    860
+   ],
+   "entry": [
+    160,
+    170,
+    1780,
+    850
+   ],
+   "marks": [
+    {
+     "box": [
+      180,
+      200,
+      560,
+      282
+     ],
+     "lat": "Den 17 Junius",
+     "cs": "dne 17. června (1706)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      300,
+      330,
+      1130,
+      430
+     ],
+     "lat": "Tobias Ringeln dem obern",
+     "cs": "Tobiáši Ringelovi, tomu hornímu"
+    },
+    {
+     "box": [
+      1140,
+      330,
+      1560,
+      428
+     ],
+     "lat": "und Dorothea",
+     "cs": "a Dorothee (jeho manželce)"
+    },
+    {
+     "box": [
+      1460,
+      428,
+      1668,
+      520
+     ],
+     "lat": "Daniel",
+     "cs": "(syna) jménem Daniel"
+    },
+    {
+     "box": [
+      260,
+      535,
+      1010,
+      620
+     ],
+     "lat": "ist gebohren worden d. 17 dito",
+     "cs": "narodil se 17. téhož měsíce"
+    }
+   ],
+   "plyne": "Daniel byl synem Tobiáše Ringela, „toho horního“, a Dorothey. Přezdívka ho odlišovala od jiného Tobiáše Ringela ze vsi.",
+   "src": "img/zdroje/174-6_s174_velky.jpg"
+  },
+  {
+   "key": "174-6|17",
+   "title": "Svatba Tobiáše Ringela a Dorothey – Vižňov, 23. listopadu 1688",
+   "zdroj": "SOA Zámrsk, sign. 174-6, snímek 17, fol. 24",
+   "crop": [
+    260,
+    170,
+    1800,
+    800
+   ],
+   "entry": [
+    280,
+    190,
+    1790,
+    790
+   ],
+   "marks": [
+    {
+     "box": [
+      430,
+      245,
+      995,
+      326
+     ],
+     "lat": "Den 23 Novembris",
+     "cs": "dne 23. listopadu (1688)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       968,
+       352,
+       1760,
+       432
+      ],
+      [
+       298,
+       430,
+       398,
+       502
+      ]
+     ],
+     "lat": "Tobias Ringel ein Junger gesell",
+     "cs": "Tobiáš Ringel, mladý tovaryš",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       413,
+       437,
+       1760,
+       507
+      ],
+      [
+       302,
+       518,
+       402,
+       584
+      ]
+     ],
+     "lat": "weil. Lorenz Ringels hinterlassener Sohn",
+     "cs": "pozůstalý syn zesnulého Lorenze Ringela"
+    },
+    {
+     "box": [
+      535,
+      513,
+      1192,
+      584
+     ],
+     "lat": "und Jungfrau Dorothea",
+     "cs": "a panna Dorothea"
+    },
+    {
+     "box": [
+      1202,
+      518,
+      1760,
+      592
+     ],
+     "lat": "",
+     "cs": "jméno nevěstina otce – nedá se jistě přečíst",
+     "nejiste": true
+    },
+    {
+     "box": [
+      308,
+      590,
+      752,
+      652
+     ],
+     "lat": "ehliche tochter",
+     "cs": "manželská dcera"
+    }
+   ],
+   "plyne": "Tobiáš Ringel byl synem zesnulého Lorenze. Jméno otce nevěsty Dorothey zůstává nejisté, a proto ho tu nepřepisuji.",
+   "src": "img/zdroje/174-6_s017_velky.jpg"
+  },
+  {
+   "key": "8179|85",
+   "title": "Svatba Ludvíka Jirmana a Blaženy Klimešové – Machov (CČS), 10. února 1934",
+   "zdroj": "SOA Zámrsk, sign. 8179 (matrika Církve československé, Machov), snímek 85",
+   "crop": [
+    100,
+    0,
+    2000,
+    407
+   ],
+   "entry": [
+    130,
+    25,
+    1940,
+    400
+   ],
+   "marks": [
+    {
+     "box": [
+      138,
+      28,
+      218,
+      152
+     ],
+     "lat": "1934 únor 10.",
+     "cs": "10. února 1934",
+     "pos": "top"
+    },
+    {
+     "box": [
+      363,
+      38,
+      492,
+      182
+     ],
+     "lat": "Jan Pachl, farář v Polici n. Met.",
+     "cs": "oddával Jan Pachl, farář CČS v Polici nad Metují",
+     "pos": "top"
+    },
+    {
+     "box": [
+      518,
+      33,
+      668,
+      72
+     ],
+     "lat": "Ludvík Jirman",
+     "cs": "ženich Ludvík Jirman",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       663,
+       120,
+       937,
+       152
+      ],
+      [
+       495,
+       152,
+       937,
+       200
+      ]
+     ],
+     "lat": "syn Václava Jirmana, tkalce v Nízké Srbské čís. 97 a Anny, dcery Vincence Barčáka z Machova čís. 21",
+     "cs": "jeho rodiče: Václav Jirman, tkadlec, a Anna roz. Barčáková"
+    },
+    {
+     "box": [
+      503,
+      226,
+      692,
+      264
+     ],
+     "lat": "Blažena Klimešová",
+     "cs": "nevěsta Blažena Klimešová"
+    },
+    {
+     "box": [
+      498,
+      284,
+      937,
+      318
+     ],
+     "lat": "dcera Františka Klimeše, tkalce v Machově čís. 75",
+     "cs": "dcera tkalce Františka Klimeše z Machova č. 75"
+    },
+    {
+     "box": [
+      1058,
+      76,
+      1114,
+      124
+     ],
+     "lat": "* 18/8 08",
+     "cs": "ženich narozen 18. 8. 1908"
+    }
+   ],
+   "plyne": "Teprve tento zápis jmenuje Ludvíkovy rodiče: tkalce Václava Jirmana a Annu, dceru Vincence Barčáka z Machova.",
+   "src": "img/zdroje/8179_s085_velky.jpg"
+  },
+  {
+   "key": "96-7319|142",
+   "title": "Rodiče Vincence Františka Jirmanna v zápisu narození – Nízká Srbská, 1902",
+   "zdroj": "SOA Zámrsk, sign. 96-7319, snímek 142, sloupce otce a matky",
+   "crop": [
+    0,
+    0,
+    2000,
+    640
+   ],
+   "entry": [
+    120,
+    40,
+    1410,
+    620
+   ],
+   "marks": [
+    {
+     "box": [
+      122,
+      45,
+      718,
+      290
+     ],
+     "lat": "Jirmann Václav, katolík, podruh v Nízko-Srbské čís. 7, narozen v Bělém čís. 43 dne 25. září 1874",
+     "cs": "otec: Václav Jirmann, podruh v Nízké Srbské č. 7, narozen 25. 9. 1874 v Bělém č. 43",
+     "pos": "top"
+    },
+    {
+     "box": [
+      122,
+      298,
+      718,
+      535
+     ],
+     "lat": "manželský syn † Jana Jirmanna, chalupníka v Nízko-Srbské čís. 24, a jeho manželky Anny, dcery Hynka Košťála, chalupníka v Bělém čís. 43",
+     "cs": "syn zesnulého chalupníka Jana Jirmanna a Anny, dcery Hynka Košťála"
+    },
+    {
+     "box": [
+      130,
+      562,
+      705,
+      618
+     ],
+     "lat": "Oddáni v Machově dne 24. srpna 1897",
+     "cs": "rodiče oddáni v Machově 24. 8. 1897"
+    },
+    {
+     "box": [
+      728,
+      52,
+      1408,
+      188
+     ],
+     "lat": "Barčáková Anna, katolička, narozena v Machově čís. 21 dne 22. prosince 1874",
+     "cs": "matka: Anna Barčáková, narozena 22. 12. 1874 v Machově č. 21",
+     "pos": "top"
+    },
+    {
+     "box": [
+      728,
+      212,
+      1408,
+      492
+     ],
+     "lat": "manželská dcera Vincence Barčáka, podruha v Machově čís. 57, a jeho manželky Marie, dcery Františka Kubečka",
+     "cs": "dcera podruha Vincence Barčáka a Marie roz. Kubečkové"
+    }
+   ],
+   "plyne": "Zápis spojuje tři generace: Václav Jirmann je syn Jana Jirmanna z Nízké Srbské č. 24 a Anna je dcera Vincence Barčáka z Machova.",
+   "src": "img/zdroje/96-7319_s142_velky.jpg"
+  },
+  {
+   "key": "96-4234|61",
+   "title": "Křest Václava Jermanna – Bělý č. 43, 25. září 1874",
+   "zdroj": "SOA Zámrsk, sign. 96-4234, snímek 61, list 50",
+   "crop": [
+    0,
+    240,
+    2000,
+    475
+   ],
+   "entry": [
+    200,
+    275,
+    1960,
+    470
+   ],
+   "marks": [
+    {
+     "box": [
+      205,
+      280,
+      382,
+      328
+     ],
+     "lat": "43 Vacslav",
+     "cs": "dům č. 43, Václav",
+     "pos": "top"
+    },
+    {
+     "box": [
+      228,
+      325,
+      388,
+      405
+     ],
+     "lat": "přestoupil k č. s. … 30/4 20 č. j. 12096",
+     "cs": "pozdější přípis: přestoupil k Církvi československé (1920)",
+     "nejiste": true
+    },
+    {
+     "box": [
+      578,
+      282,
+      912,
+      345
+     ],
+     "lat": "Jermann Jan, katolík, podruh v Bělím",
+     "cs": "otec: Jan Jermann, podruh v Bělém",
+     "pos": "top"
+    },
+    {
+     "box": [
+      578,
+      345,
+      912,
+      462
+     ],
+     "lat": "manželský syn † Vacslava Jermanna, chalupníka v Nízkosrbské čís. 26, a jeho manželky Veroniky, dcery Jana Bittnara",
+     "cs": "syn zesnulého chalupníka Václava Jermanna a Veroniky roz. Bittnerové"
+    },
+    {
+     "box": [
+      998,
+      280,
+      1392,
+      458
+     ],
+     "lat": "Anna, katolička, manželská dcera Hynka Košťála, chalupníka v Bělím čís. 43, a jeho manželky Anny, dcery Jana Bittnara, chalupníka v Nízkosrbské čís. 5",
+     "cs": "matka: Anna, dcera chalupníka Hynka Košťála z Bělého č. 43"
+    },
+    {
+     "box": [
+      1508,
+      282,
+      1692,
+      362
+     ],
+     "lat": "František Košťál, chalupník v Bělím čís. 62",
+     "cs": "kmotr: František Košťál, chalupník v Bělém č. 62",
+     "pos": "top"
+    }
+   ],
+   "plyne": "Václav se narodil v domě dědečka Hynka Košťála v Bělém č. 43. Přípis na okraji dokládá jeho přestup k Církvi československé v roce 1920.",
+   "src": "img/zdroje/96-4234_s061_velky.jpg"
+  },
+  {
+   "key": "96-14|43",
+   "title": "Narození Veroniky Bittnerové – Nízká Srbská č. 20, 10. června 1815",
+   "zdroj": "SOA Zámrsk, sign. 96-14, snímek 43, fol. 11, poslední zápis na stránce",
+   "crop": [
+    220,
+    1095,
+    1720,
+    1300
+   ],
+   "entry": [
+    268,
+    1138,
+    1715,
+    1238
+   ],
+   "marks": [
+    {
+     "box": [
+      276,
+      1150,
+      364,
+      1230
+     ],
+     "lat": "Den 10 Juny",
+     "cs": "dne 10. června (1815)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      366,
+      1146,
+      402,
+      1184
+     ],
+     "lat": "20",
+     "cs": "dům č. 20",
+     "pos": "top"
+    },
+    {
+     "box": [
+      405,
+      1143,
+      544,
+      1202
+     ],
+     "lat": "Weronika Bittnerowa",
+     "cs": "Veronika Bittnerová",
+     "pos": "top"
+    },
+    {
+     "box": [
+      855,
+      1146,
+      980,
+      1207
+     ],
+     "lat": "Jan Bittner Chalup. z Nižsrbsky",
+     "cs": "otec Jan Bittner, chalupník z Nízké Srbské"
+    },
+    {
+     "box": [
+      1023,
+      1146,
+      1245,
+      1222
+     ],
+     "lat": "Ludmilla dcera Jana … z Čísla 32",
+     "cs": "matka Ludmila, dcera Jana z č. 32 (příjmení nejisté, snad Langer)",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Veronika, pozdější manželka Václava Jermanna, se narodila v Nízké Srbské č. 20 chalupníku Janu Bittnerovi. Příjmení jejího děda z matčiny strany zůstává nejisté.",
+   "src": "img/zdroje/96-14_s043_velky.jpg"
+  },
+  {
+   "key": "96-4233|28",
+   "title": "Svatba Jana Jirmanna a Anny Košťálové – Machov, 2. července 1872",
+   "zdroj": "SOA Zámrsk, sign. 96-4233, snímek 28",
+   "crop": [
+    0,
+    0,
+    1750,
+    400
+   ],
+   "entry": [
+    20,
+    0,
+    1720,
+    380
+   ],
+   "marks": [
+    {
+     "box": [
+      28,
+      2,
+      142,
+      58
+     ],
+     "lat": "2. července 1872",
+     "cs": "2. července 1872",
+     "pos": "top"
+    },
+    {
+     "box": [
+      205,
+      2,
+      668,
+      36
+     ],
+     "lat": "Jirmann Jan, tkadlec v Machově č. 74",
+     "cs": "ženich Jan Jirmann, tkadlec v Machově č. 74",
+     "pos": "top"
+    },
+    {
+     "box": [
+      733,
+      2,
+      778,
+      36
+     ],
+     "lat": "30",
+     "cs": "30 let",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       285,
+       36,
+       668,
+       66
+      ],
+      [
+       205,
+       66,
+       668,
+       188
+      ]
+     ],
+     "lat": "manželský syn nebožtíka Václava Jirmanna chalupníka v Nízko-Srbské č. 26 a jeho nebožky manželky Veroniky rozené Jan Bittnarové",
+     "cs": "syn zesnulých: chalupníka Václava Jirmanna z Nízké Srbské č. 26 a Veroniky roz. Bittnerové"
+    },
+    {
+     "box": [
+      928,
+      2,
+      1202,
+      212
+     ],
+     "lat": "Košťálová Anna, manželská dcera Hynka Košťála chalupníka v Bělím č. 43 a jeho manželky Anny rozené Jan Bittnarové",
+     "cs": "nevěsta Anna Košťálová, dcera chalupníka Hynka Košťála z Bělého č. 43 a Anny roz. Bittnerové"
+    },
+    {
+     "box": [
+      938,
+      224,
+      1432,
+      308
+     ],
+     "lat": "Otec nezletilé nevěsty svolil k tomuto sňatku manželskému a vlastnoručně se podepsal",
+     "cs": "otec nezletilé nevěsty svolil ke sňatku a vlastnoručně se podepsal"
+    },
+    {
+     "box": [
+      1218,
+      305,
+      1458,
+      368
+     ],
+     "lat": "… Košťál, otec nezletilé nevěsty",
+     "cs": "podpis otce (křestní jméno v podpisu se čte nejistě)",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Nevěsta Anna byla nezletilá, a tak svatbu povolil její otec Hynek Košťál vlastním podpisem. Ženich Jan už byl sirotek po obou rodičích.",
+   "src": "img/zdroje/96-4233_s028_velky.jpg"
   }
  ]
 }
