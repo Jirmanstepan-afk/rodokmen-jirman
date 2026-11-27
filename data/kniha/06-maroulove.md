@@ -20,7 +20,7 @@ Narodili se jim synové [[frantisek-maroul-1846|František]] (3. července 1846)
 
 ## Výměnkář Jan Máslo a jeho pozdní rodina
 
-Annina rodina mě překvapila. Její otec [[jan-maslo-ns71-otec|Jan Máslo]] byl už výměnkář v Nízké Srbské č. 39, tedy hospodář, který předal statek a žil na výminku. Byl vdovec, předchozí žena mu zemřela teprve v březnu. Dne 20. listopadu 1821 se znovu oženil. Ženich měl podle zápisu 52 let. Nevěsta [[veronika-nemeckova|Veronika]] měla 28 let a byla dcerou zesnulého tkalce Matěje Němečka z Nízké Srbské č. 34. Za svědky šli dva sedláci z vesnice a oba se podepsali křížky.[^96-14/7: oddací zápis 20. 11. 1821, Nízká Srbská, pag. 4]
+Annina rodina mě překvapila. Její otec [[jan-maslo-ns71-otec|Jan Máslo]] byl už výměnkář v Nízké Srbské č. 39, tedy hospodář, který předal statek a žil na výminku. Byl vdovec, předchozí žena mu zemřela teprve v březnu. Dne 20. listopadu 1821 se znovu oženil. Ženich měl podle zápisu 52 let. Nevěsta [[veronika-nemeckova|Veronika]] měla 28 let a byla dcerou zesnulého tkalce [[matej-nemecek-ns34|Matěje Němečka]] z Nízké Srbské č. 34. Za svědky šli dva sedláci z vesnice a oba se podepsali křížky.[^96-14/7: oddací zápis 20. 11. 1821, Nízká Srbská, pag. 4]
 
 ![96-14/7] Druhá svatba výměnkáře Jana Másla s Veronikou, dcerou tkalce Matěje Němečka, 20. listopadu 1821.
 

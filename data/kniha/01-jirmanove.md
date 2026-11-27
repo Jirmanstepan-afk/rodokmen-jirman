@@ -100,7 +100,11 @@ Rodinu Václavovy ženy Anny jsem dohledal také. Anna se narodila 22. prosince 
 
 ![96-4230/38] Svatba Vincence Barčáka a Marie Kubečkové v Machově 3. listopadu 1874.
 
-Vincenc se narodil 14. dubna 1851 v Nízké Srbské č. 43. Byl synem výměnkáře [[jakub-barcak|Jakuba Barčáka]] a [[katerina-matenova|Kateřiny]], dcery tkadlce Antonína Matěny z Velkého Poříčí.[^96-15/50: narození Vincence Barčáka 14. 4. 1851] U porodu byla porodní bába Alžběta Jirmanová z Machova č. 74. Marie byla dcerou podruha [[frantisek-kubecek-machov21|Františka Kubečka]] a [[frantiska-zidova|Františky]], dcery Karla Žida z Machova č. 11.
+Vincenc se narodil 14. dubna 1851 v Nízké Srbské č. 43. Byl synem výměnkáře [[jakub-barcak|Jakuba Barčáka]] a [[katerina-matenova|Kateřiny]], dcery tkadlce Antonína Matěny z Velkého Poříčí.[^96-15/50: narození Vincence Barčáka 14. 4. 1851] Tentýž zápis jde ještě o generaci dál. Jmenuje oba páry Vincencových prarodičů. Jakub byl „vlastní syn † [[jakub-barcak-st|Jakuba Barčáka]], chalupníka, a manželky jeho † [[veronika-barcakova-st|Veroniky]]“. Kateřina byla „vlastní dcera [[antonin-matena|Antonína Matěny]], tkadlce a podruha z Velkého Poříčí, a manželky jeho [[marie-matenova|Marye]] … z Poříčí No. 45“. Obec, odkud Jakub st. pocházel, a rodná příjmení obou babiček jsou v zápisu napsaná tak nečitelně, že je zatím nechávám otevřená [?q-barcak-matena-predci].
+
+![96-15/50] Narození Vincence Barčáka 14. dubna 1851. Farář do něj zapsal i oba páry prarodičů – Barčákovy a Matěnovy.
+
+> Domněnka: Veronika Barčáková mohla být rozená Jelínková a Marie Matěnová rozená Pašťálková nebo Hadělková; čtení je nejisté [?q-barcak-matena-predci]. U porodu byla porodní bába Alžběta Jirmanová z Machova č. 74. Marie byla dcerou podruha [[frantisek-kubecek-machov21|Františka Kubečka]] a [[frantiska-zidova|Františky]], dcery Karla Žida z Machova č. 11.
 
 Mariin křest jsem našel v machovské knize narozených. Narodila se 26. března 1854 v Machově a o tři dny později ji pokřtili. Číslo domu je v zápisu přepsané, nejspíš je to 21. Otec František Kubeček byl podruh, syn zesnulého [[karel-kubecek-machov19|Karla Kubečka]], chalupníka z Machova č. 19, a [[ludmila-kubeckova-machov19|Ludmily]]. Matka Františka byla dcerou zesnulého [[karel-zid-machov11|Karla Žida]], chalupníka z Machova č. 11, a [[anna-zidova-machov11|Anny]].[^96-4/63: narození Marie Kubečkové 26. 3. 1854]
 

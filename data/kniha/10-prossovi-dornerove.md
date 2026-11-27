@@ -4,7 +4,9 @@ Babiččina máma [[hedvika-prossova-1922|Hedvika Proßová]] se narodila v roce
 
 Nejstarší zápis v této větvi je úmrtí [[christoph-dorner|Johanna Christopha Dörnera]] ze Sedloňova č. 47. Zemřel 13. března 1791 ve věku 79 let na plicní souchotiny.[^144-5/248: úmrtí Christopha Dörnera 13. 3. 1791, Sedloňov č. 47] Narodil se tedy kolem roku 1712.
 
-Jeho syn [[karl-dorner|Karl Dörner]] byl pokřtěn v listopadu 1768. Dne 20. listopadu 1792 se v témž domě č. 47 oženil se [[susanna-herzig|Susannou]], dcerou zesnulého [[adam-herzig|Adama Herziga]] ze Sedloňova. Oddával farář Karl Hartmann.[^144-5/96: oddací zápis 20. 11. 1792, Sedloňov] Susanna byla pokřtěná 8. února 1767.[^144-2/22: křest Susanny Herzigové 8. 2. 1767] Karl byl tkadlec a podruh a v č. 47 se jim narodily děti Susanna (1793), Franz Karl (1794), Anton (1796) a 12. září 1800 Johann.[^144-2/110: narození Johanna Dörnera 12. 9. 1800, Sedloňov č. 47]
+Jeho syn [[karl-dorner|Karl Dörner]] byl pokřtěn v listopadu 1768. V křestním zápisu stojí jako „Carolus, syn Joannise Christopha Dörnera, z matky [[susanna-dornerova-sedlonov|Susanny]]“, poddaní opočenského panství.[^144-2/25: křest Karla Dörnera 11/1768, fol. 40] Dne 20. listopadu 1792 se v témž domě č. 47 oženil se [[susanna-herzig|Susannou]], dcerou zesnulého [[adam-herzig|Adama Herziga]] ze Sedloňova. Oddával farář Karl Hartmann.[^144-5/96: oddací zápis 20. 11. 1792, Sedloňov] Susanna byla pokřtěná 8. února 1767 jako dcera Adama Herziga a jeho ženy [[maria-herzigova-sedlonov|Marie]].[^144-2/22: křest Susanny Herzigové 8. 2. 1767] Za kmotru jí šla Dorothea, žena Antona Herziga. Karl byl tkadlec a podruh a v č. 47 se jim narodily děti Susanna (1793), Franz Karl (1794), Anton (1796) a 12. září 1800 Johann.[^144-2/110: narození Johanna Dörnera 12. 9. 1800, Sedloňov č. 47]
+
+![144-2/25] Křest Karla Dörnera v listopadu 1768: „filius Carolus Joannis Xphori Dörner ex Matre Susanna“.
 
 ![144-5/96] Svatba Karla Dörnera a Susanny, dcery zesnulého Adama Herziga, 20. listopadu 1792 v Sedloňově.
 

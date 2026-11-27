@@ -2567,6 +2567,28 @@
           "apu": "https://aron.vychodoceskearchivy.cz/apu/b628c27c-a629-44c8-a008-e4d017646195/dao/b628c27c-a629-44c8-a008-e4d017646195/file/0763eb6b-29fa-47a1-8f4a-ebe6ed7956ff"
         }
       ]
+    },
+    {
+      "id": "q-barcak-matena-predci",
+      "title": "Odkud pocházeli Jakub Barčák st. a jaká byla rodná příjmení Veroniky Barčákové a Marie Matěnové?",
+      "summary": "Zápis narození Vincence Barčáka 14. 4. 1851 (96-15 snímek 50) jmenuje oba páry prarodičů; jména jsou jistá, ale obec Jakuba st. a rodná příjmení obou babiček jsou čtena nejistě.",
+      "details": "Doloženo: † Jakub Barčák, chalupník, × † Veronika (rodiče Jakuba, výměnkáře z NS č. 43); Antonín Matěna, tkadlec a podruh z Velkého Poříčí, × Marie z Poříčí č. 45 (rodiče Kateřiny). Domněnka: obec Jakuba st. čtena „B?ezowice / Zbečník(?)“, snad farnost Hronov; Veronika rozená „Jelínková(?)“; Marie rozená „Pašťálková / Hadělková(?)“. Zápisy 1874 (96-4230 snímek 38, 96-4232 snímek 76) čtou Antonína i jako „Mašína“. Velké Poříčí má vlastní matriky narozených až od 8/1841 (53-24); starší zápisy jsou v hronovských knihách 53-*. Další krok: sňatek Jakuba Barčáka × Kateřiny Matěnové (96-14 / 96-4228) se jmény a čísly domů, pak křest Kateřiny v hronovských matrikách.",
+      "related_ids": [
+        "jakub-barcak-st",
+        "veronika-barcakova-st",
+        "antonin-matena",
+        "marie-matenova",
+        "jakub-barcak",
+        "katerina-matenova"
+      ],
+      "sources": [
+        {
+          "label": "ARON, narození 14. 4. 1851 Vincenc Barčák, NS č. 43",
+          "signatura": "96-15",
+          "detail": "snímek 50; otec Jakub Barčák, výměnkář, „vlastní syn † Jakuba Barčáka, chalupníka … a manželky jeho † Veroniky“; matka Kateřina, „vlastní dcera Antonína Matěny, tkadlce a podruha z Velkého Poříčí, a manželky jeho Marye … z Poříčí No. 45“; výřez vypisy/96-15/n96-15-s50-1851-04-14-vincenc-barcak-prarodice-jakub-veronika-antonin-matena-marie.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/89e9015b-d31a-4b96-8437-085cfa61151f/dao/89e9015b-d31a-4b96-8437-085cfa61151f/file/8665d411-be06-4ab6-9d35-13b4e2daabb2"
+        }
+      ]
     }
   ]
 }
