@@ -199,13 +199,19 @@
       "name": "Tadej Špadt",
       "maiden": null,
       "birth": {
-        "display": "9. 6. 1931, Mereščev (Meryszczów, dnes Мерещів u Lvova)",
+        "display": "9. 6. 1931, Meryszczów (Mereščev) č. 42",
         "date": "1931-06-09",
         "precision": "exact",
         "place": "Mereščev (Meryszczów)",
-        "note": "Sdělení Štěpána 27. 11. 2026; v matrice neověřeno."
+        "note": "Matriční zápis (CDIAL 618/2/3830, snímek 10) – shoduje se se sdělením rodiny."
       },
-      "baptism": null,
+      "baptism": {
+        "display": "14. 6. 1931, ř.-kat. farnost Przemyślany (jména Thaddeus Franciscus)",
+        "date": "1931-06-14",
+        "precision": "exact",
+        "place": "Mereščev (Meryszczów)",
+        "note": "Křtil R. P. Stanoszek, kooperátor; porodní bába Maria Gwoździk; kmotři Martinus Spadt a Catharina Tadyk, svobodná."
+      },
       "death": {
         "display": "23. 12. 2014, Broumov (nemocnice)",
         "date": "2014-12-23",
@@ -223,6 +229,12 @@
       "living": false,
       "sources": [
         {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Przemyślany 1931, Meryszczów – křest 9./14. 6. 1931",
+          "signatura": "CDIAL-618-2-3830",
+          "detail": "f. 618 op. 2 spr. 3830, snímek 10 (pag. 17), č. 3, dům 42",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/231145#file-1858724"
+        },
+        {
           "label": "Sdělení Štěpána 27. 11. 2026",
           "detail": "Rodinná paměť (sdělení rodiny); matriční ani úřední zápis v této práci zatím není."
         },
@@ -235,10 +247,12 @@
         "Otec Romany Jirmanové roz. Špadtové. Data narození a úmrtí podle sdělení Štěpána 27. 11. 2026 (rodinná paměť), v matrice v této práci neověřena.",
         "Rodiště Mereščev = ves Meryszczów (ukr. Мерещів), 6 km jižně od Přemyšlan (Przemyślany), v roce 1931 Polsko, vojvodství Tarnopol; dnes Lvovská oblast, Ukrajina.",
         "Sourozenci podle rodinné paměti: Ludvík (*1936) a Kateřina Vincencová roz. Špadtová.",
-        "Kandidát na otce (Piotr Szpadt *14. 4. 1904 z německé kolonie Kimirz) je jen v otevřeném dotazu q-spadt-puvod – do stromu nepatří."
+        "Křestní zápis 1931: „Thaddeus Franciscus“, syn Petra Spadta, ševce (sutor), syna Martina a Elisabeth Leicht, a Marie Miśków, dcery Bartoloměje a Kateřiny (příjmení nejisté, Podkurna?). Datum, jméno, otec, matka i ves souhlasí s rodinnou pamětí – ztotožnění jisté."
       ],
       "interesting": [
-        "Narodil se v roce 1931 v Polsku, v haličské vsi Meryszczów, kde žili převážně řeckokatoličtí Ukrajinci (1921: 515 řeckokatolíků, 81 římských katolíků, 18 Židů); zemřel v roce 2014 v Broumově – mezi rodištěm a místem úmrtí je asi 700 km a tři státní hranice."
+        "Narodil se v roce 1931 v Polsku, v haličské vsi Meryszczów, kde žili převážně řeckokatoličtí Ukrajinci (1921: 515 řeckokatolíků, 81 římských katolíků, 18 Židů); zemřel v roce 2014 v Broumově – mezi rodištěm a místem úmrtí je asi 700 km a tři státní hranice.",
+        "Na okraji jeho křestního zápisu je azbukou poznámka „копія а/г 26.V.67р“ – 26. 5. 1967 z něj tedy sovětský matriční úřad vydal opis. V té době už Tadej žil v Československu; opis si nejspíš vyžádal on sám, třeba kvůli úředním dokladům (domněnka).",
+        "V jeho prvním zápisu je otec Petr zapsán jako švec (sutor), v zápisu bratra Ludvíka o čtyři roky později jako rolník (agricola)."
       ],
       "aliases": [
         "Tadeusz Szpadt (možný úřední/polský tvar, neověřeno)"
@@ -9245,15 +9259,20 @@
     },
     {
       "maiden": null,
-      "birth": null,
+      "birth": {
+        "display": "asi 1904 (podle věku 30 let při úmrtí)",
+        "precision": "circa",
+        "note": "Geneteka (index, bez snímku): Piotr Schpadt/Szpadt * 14. 4. 1904 Kimirz, farnost Świrz, rodiče Marcin a Elżbieta Leicht – rodiče i věk se shodují; snímek (CDIAL 618/2/3103) zatím neověřen."
+      },
       "baptism": null,
       "death": {
-        "display": "asi 1936, u Mereščeva (Meryszczów)",
-        "precision": "circa",
+        "display": "2. 11. 1934, Meryszczów č. 42 (pohřben 4. 11.)",
+        "date": "1934-11-02",
+        "precision": "exact",
         "place": "Mereščev (Meryszczów)",
-        "note": "Sdělení Štěpána 27. 11. 2026; rok přibližný."
+        "note": "CDIAL 618/2/3036 snímek 29: „Petrus Spadt maritus Mariae Miśków“, ř.-kat., 30 let, tuberkulóza (gruźlica); pohřbil Josephus Kaczorowski, administrátor (farnost Wołków)."
       },
-      "occupation": null,
+      "occupation": "Švec (sutor, 1931), rolník (agricola, 1935)",
       "places": [
         "Mereščev (Meryszczów)"
       ],
@@ -9262,17 +9281,37 @@
       "living": false,
       "sources": [
         {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Wołków 1934, Meryszczów – úmrtí 2. 11. 1934",
+          "signatura": "CDIAL-618-2-3036",
+          "detail": "f. 618 op. 2 spr. 3036, snímek 29, č. 1, dům 42",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/230351#file-850772"
+        },
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Przemyślany 1931, Meryszczów – křest 9./14. 6. 1931",
+          "signatura": "CDIAL-618-2-3830",
+          "detail": "f. 618 op. 2 spr. 3830, snímek 10 (pag. 17), č. 3, dům 42",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/231145#file-1858724"
+        },
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Wołków 1935, Meryszczów – křest 3./20. 2. 1935",
+          "signatura": "CDIAL-618-2-3036",
+          "detail": "f. 618 op. 2 spr. 3036, snímek 33, č. 1, dům 42",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/230351#file-850752"
+        },
+        {
           "label": "Sdělení Štěpána 27. 11. 2026",
           "detail": "Rodinná paměť (sdělení rodiny); matriční ani úřední zápis v této práci zatím není."
         }
       ],
       "notes": [
-        "Otec Tadeje, Ludvíka a Kateřiny podle rodinné paměti (sdělení Štěpána 27. 11. 2026).",
-        "Podle rodinné paměti měl 3 bratry.",
-        "Zda je totožný s Piotrem Szpadtem *14. 4. 1904 z kolonie Kimirz (farnost Świrz), je otevřené – q-spadt-puvod."
+        "Otec Tadeje (křest 1931) a Ludvíka (křest 1935); úmrtí 2. 11. 1934 v Meryszczówě č. 42 – tentýž dům jako při narození obou synů.",
+        "Rodiče podle zápisů 1931 a 1935: Martin Spadt a Elisabeth Leicht (z německé kolonie Kimirz, farnost Świrz).",
+        "Rodinná paměť uváděla úmrtí „asi 1936“ – zápis dává 2. 11. 1934.",
+        "Bratr Ferdinand Spadt (syn Martina a Elisabeth Leicht) žil také v Meryszczówě: děti Romanus 1930 a Ladislaus 2. 10. 1931 (CDIAL 618/2/2697 snímek 389; 618/2/3830 snímek 10). Další bratři podle Geneteky: Jan (sňatek 1919), Adam (1921), Marcin (1934) – „3 bratři“ z rodinné paměti tedy sedí."
       ],
       "interesting": [
-        "Podle rodinné paměti byl za 1. světové války v německém zajetí. Halič patřila do Rakouska-Uherska, takže jako rakouský voják mohl padnout do zajetí ruského nebo italského; „německé zajetí“ by spíš sedělo na válku polsko-sovětskou nebo na záměnu v paměti – nevyjasněno, viz q-spadt-puvod."
+        "Zemřel ve 30 letech na tuberkulózu, tři měsíce před narozením syna Ludvíka; Ludvík je v křestním zápisu 1935 veden s křížkem u otcova jména (pohrobek).",
+        "Rodinná paměť o „německém zajetí v 1. světové válce“ na Petra (*1904) nesedí – v roce 1918 mu bylo 14 let. Mohla se týkat jeho otce Martina Spadta nebo některého ze strýců (domněnka, viz q-spadt-puvod)."
       ],
       "id": "petr-spadt",
       "name": "Petr Špadt",
@@ -9281,7 +9320,7 @@
       ]
     },
     {
-      "maiden": "Miśkiewicz (Miskevic)",
+      "maiden": "Miśków",
       "birth": null,
       "baptism": null,
       "death": null,
@@ -9292,34 +9331,59 @@
       "living": false,
       "sources": [
         {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Przemyślany 1931, Meryszczów – křest 9./14. 6. 1931",
+          "signatura": "CDIAL-618-2-3830",
+          "detail": "f. 618 op. 2 spr. 3830, snímek 10 (pag. 17), č. 3, dům 42",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/231145#file-1858724"
+        },
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Wołków 1934, Meryszczów – úmrtí 2. 11. 1934",
+          "signatura": "CDIAL-618-2-3036",
+          "detail": "f. 618 op. 2 spr. 3036, snímek 29, č. 1, dům 42",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/230351#file-850772"
+        },
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Wołków 1935, Meryszczów – křest 3./20. 2. 1935",
+          "signatura": "CDIAL-618-2-3036",
+          "detail": "f. 618 op. 2 spr. 3036, snímek 33, č. 1, dům 42",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/230351#file-850752"
+        },
+        {
           "label": "Sdělení Štěpána 27. 11. 2026",
           "detail": "Rodinná paměť (sdělení rodiny); matriční ani úřední zápis v této práci zatím není."
         }
       ],
       "notes": [
-        "Matka Tadeje Špadta podle rodinné paměti (sdělení Štěpána 27. 11. 2026). Rodné příjmení zapsáno po sluchu „Miskevic“; polsky nejspíš Miśkiewicz, ukrajinsky Міськевич.",
-        "Po smrti Petra Špadta (asi 1936) se znovu vdala – poslední příjmení Chaloupková; jméno druhého manžela neznám, do stromu ho nedávám."
+        "Matka Tadeje a Ludvíka podle křestních zápisů 1931 a 1935: „Maria Miśków, filia Bartholomaei et Catharinae …“ (příjmení matky čteno nejistě: Podkurna?/Prokopczyn?). Rodina uváděla „Miskevic“.",
+        "Po smrti Petra Špadta (2. 11. 1934) se znovu vdala – poslední příjmení Chaloupková; jméno druhého manžela neznám, do stromu ho nedávám."
       ],
       "interesting": [
-        "Ovdověla kolem roku 1936 s malými dětmi (Ludvík se narodil v únoru 1936) a později se znovu vdala za muže s českým příjmením Chaloupka – možná právě to byla cesta rodiny do Československa (domněnka, viz q-spadt-puvod)."
+        "Ovdověla v listopadu 1934 ve věku kolem 25–30 let s tříletým Tadejem a v únoru 1935 porodila Ludvíka."
       ],
       "id": "marie-chaloupkova",
       "name": "Marie Chaloupková",
       "aliases": [
         "Marie Špadtová",
-        "Maria Miśkiewicz / Міськевич (možné tvary)"
+        "Maria Miśków (zápisy 1931, 1934, 1935)",
+        "„Miskevic“ (rodinná paměť)"
       ]
     },
     {
       "maiden": null,
       "birth": {
-        "display": "2. 2. 1936, Mereščev (Meryszczów)",
-        "date": "1936-02-02",
+        "display": "3. 2. 1935, Meryszczów č. 42",
+        "date": "1935-02-03",
         "precision": "exact",
         "place": "Mereščev (Meryszczów)",
-        "note": "Sdělení Štěpána 27. 11. 2026 (zapsáno též „Meteščev“)."
+        "note": "CDIAL 618/2/3036 snímek 33. Rodina uváděla 2. 2. 1936 – matriční zápis má 3. 2. 1935."
       },
-      "baptism": null,
+      "baptism": {
+        "display": "20. 2. 1935, ř.-kat. farnost Wołków (jméno Ludovicus)",
+        "date": "1935-02-20",
+        "precision": "exact",
+        "place": "Mereščev (Meryszczów)",
+        "note": "Křtil Josephus Kaczorowski, adm.; porodní bába Maria Gwoździk; kmotři Michael Szlachetka, rolník, a Catharina Tadyk, svobodná."
+      },
       "death": {
         "display": "asi 2000, Frýdek-Místek",
         "precision": "circa",
@@ -9336,14 +9400,23 @@
       "living": false,
       "sources": [
         {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Wołków 1935, Meryszczów – křest 3./20. 2. 1935",
+          "signatura": "CDIAL-618-2-3036",
+          "detail": "f. 618 op. 2 spr. 3036, snímek 33, č. 1, dům 42",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/230351#file-850752"
+        },
+        {
           "label": "Sdělení Štěpána 27. 11. 2026",
           "detail": "Rodinná paměť (sdělení rodiny); matriční ani úřední zápis v této práci zatím není."
         }
       ],
       "notes": [
-        "Bratr Tadeje Špadta podle rodinné paměti (sdělení Štěpána 27. 11. 2026)."
+        "Bratr Tadeje Špadta. Křestní zápis 1935: „Ludovicus“, syn „† Petrus Spadt agr.“ (syn Martina a Elisabeth Leicht) a Marie Miśków; dům 42.",
+        "Rodinné datum 2. 2. 1936 se liší o rok a den – platí zápis. V roce 1936 v Meryszczówě (Wołków 1936, snímek 44) jen dva křty, žádný Spadt."
       ],
-      "interesting": [],
+      "interesting": [
+        "Narodil se tři měsíce po otcově smrti – v zápisu má otec před jménem křížek."
+      ],
       "id": "ludvik-spadt",
       "name": "Ludvík Špadt"
     },
@@ -9398,7 +9471,8 @@
       ],
       "notes": [
         "Sestra Tadeje Špadta podle sdělení Štěpána 27. 11. 2026.",
-        "Místo úmrtí Horní Jelení je jen pravděpodobné, proto ho v mapě nezaměřuji."
+        "Místo úmrtí Horní Jelení je jen pravděpodobné, proto ho v mapě nezaměřuji.",
+        "Kolo BL: v ř.-kat. křtech Meryszczówa 1930–1936 (Przemyślany 1930–1932, Wołków 1933–1936) není; 1932 „hoc anno nihil“. Narodila se tedy jinde, dříve, nebo byla pokřtěna v řeckokatolické farnosti."
       ],
       "interesting": [],
       "id": "katerina-vincencova",
@@ -9534,6 +9608,143 @@
       "interesting": [],
       "id": "jaroslava-rybenska",
       "name": "Jaroslava Rybenská"
+    },
+    {
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Kimirz (farnost Świrz)"
+      ],
+      "branch": "spadt",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Przemyślany 1931, Meryszczów – křest 9./14. 6. 1931",
+          "signatura": "CDIAL-618-2-3830",
+          "detail": "f. 618 op. 2 spr. 3830, snímek 10 (pag. 17), č. 3, dům 42",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/231145#file-1858724"
+        },
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Wołków 1935, Meryszczów – křest 3./20. 2. 1935",
+          "signatura": "CDIAL-618-2-3036",
+          "detail": "f. 618 op. 2 spr. 3036, snímek 33, č. 1, dům 42",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/230351#file-850752"
+        }
+      ],
+      "notes": [
+        "Otec Petra Spadta podle křtů vnuků 1931 a 1935 („fil. Martini et Elisabeth Leicht“). Podle Geneteky v kolonii Kimirz (farnost Świrz) otec synů Ferdynand 1900, Piotr 1904, Jan, Adam, Marcin."
+      ],
+      "interesting": [
+        "Kmotrem vnuka Tadeje 1931 byl Martinus Spadt – buď děda Martin sám, nebo strýc Marcin (*?; sňatek 1934); zápis to nerozliší."
+      ],
+      "id": "martin-spadt",
+      "name": "Martin Spadt",
+      "aliases": [
+        "Marcin Spadt"
+      ]
+    },
+    {
+      "maiden": "Leicht",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [],
+      "branch": "spadt",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Przemyślany 1931, Meryszczów – křest 9./14. 6. 1931",
+          "signatura": "CDIAL-618-2-3830",
+          "detail": "f. 618 op. 2 spr. 3830, snímek 10 (pag. 17), č. 3, dům 42",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/231145#file-1858724"
+        },
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Wołków 1935, Meryszczów – křest 3./20. 2. 1935",
+          "signatura": "CDIAL-618-2-3036",
+          "detail": "f. 618 op. 2 spr. 3036, snímek 33, č. 1, dům 42",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/230351#file-850752"
+        }
+      ],
+      "notes": [
+        "Matka Petra Spadta podle křtů vnuků 1931 a 1935."
+      ],
+      "interesting": [],
+      "id": "elisabeth-leicht",
+      "name": "Elisabeth Spadtová",
+      "aliases": [
+        "Elżbieta Leicht"
+      ]
+    },
+    {
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [],
+      "branch": "spadt",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Przemyślany 1931, Meryszczów – křest 9./14. 6. 1931",
+          "signatura": "CDIAL-618-2-3830",
+          "detail": "f. 618 op. 2 spr. 3830, snímek 10 (pag. 17), č. 3, dům 42",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/231145#file-1858724"
+        },
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Wołków 1935, Meryszczów – křest 3./20. 2. 1935",
+          "signatura": "CDIAL-618-2-3036",
+          "detail": "f. 618 op. 2 spr. 3036, snímek 33, č. 1, dům 42",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/230351#file-850752"
+        }
+      ],
+      "notes": [
+        "Otec Marie Miśków podle křtů vnuků 1931 a 1935 („fil. Bartholomaei et Catharinae“)."
+      ],
+      "interesting": [],
+      "id": "bartholomaeus-miskow",
+      "name": "Bartoloměj Miśków",
+      "aliases": [
+        "Bartholomaeus Miśków"
+      ]
+    },
+    {
+      "maiden": "nejisté čtení (Podkurna? / Prokopczyn?)",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [],
+      "branch": "spadt",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Przemyślany 1931, Meryszczów – křest 9./14. 6. 1931",
+          "signatura": "CDIAL-618-2-3830",
+          "detail": "f. 618 op. 2 spr. 3830, snímek 10 (pag. 17), č. 3, dům 42",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/231145#file-1858724"
+        },
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Wołków 1935, Meryszczów – křest 3./20. 2. 1935",
+          "signatura": "CDIAL-618-2-3036",
+          "detail": "f. 618 op. 2 spr. 3036, snímek 33, č. 1, dům 42",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/230351#file-850752"
+        }
+      ],
+      "notes": [
+        "Matka Marie Miśków podle křtů vnuků 1931 a 1935; rodné příjmení v obou zápisech čteno nejistě."
+      ],
+      "interesting": [],
+      "id": "catharina-miskowa",
+      "name": "Kateřina Miśków"
     }
   ],
   "unions": [
@@ -12716,11 +12927,30 @@
       "certainty": "potvrzeno",
       "sources": [
         {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Przemyślany 1931, Meryszczów – křest 9./14. 6. 1931",
+          "signatura": "CDIAL-618-2-3830",
+          "detail": "f. 618 op. 2 spr. 3830, snímek 10 (pag. 17), č. 3, dům 42",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/231145#file-1858724"
+        },
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Wołków 1934, Meryszczów – úmrtí 2. 11. 1934",
+          "signatura": "CDIAL-618-2-3036",
+          "detail": "f. 618 op. 2 spr. 3036, snímek 29, č. 1, dům 42",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/230351#file-850772"
+        },
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Wołków 1935, Meryszczów – křest 3./20. 2. 1935",
+          "signatura": "CDIAL-618-2-3036",
+          "detail": "f. 618 op. 2 spr. 3036, snímek 33, č. 1, dům 42",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/230351#file-850752"
+        },
+        {
           "label": "Sdělení Štěpána 27. 11. 2026"
         }
       ],
       "notes": [
-        "Rodiče a sourozenci podle rodinné paměti (sdělení Štěpána 27. 11. 2026); matriky z Meryszczówa/Przemyślan v této práci zatím nejsou."
+        "Manželství doloženo zápisy 1931 (křest Tadeje), 1934 (úmrtí Petra, „maritus Mariae Miśków“) a 1935 (křest Ludvíka). Oddací zápis nenalezen – v ř.-kat. sňatcích Meryszczówa 1929 a 1930 (Przemyślany, CDIAL 618/2/2697) není.",
+        "Kateřina je dcerou podle rodinné paměti; její křest zatím nenalezen."
       ]
     },
     {
@@ -12762,6 +12992,56 @@
       },
       "notes": [
         "Náchodská oddací matrika v ARON končí 11/1936 (106-8171, 1917–1936); sňatek 1939–1940 je v následujícím svazku, zřejmě na matričním úřadě Náchod."
+      ]
+    },
+    {
+      "id": "u-martin-elisabeth-spadt",
+      "partners": [
+        "martin-spadt",
+        "elisabeth-leicht"
+      ],
+      "children": [
+        "petr-spadt"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Przemyślany 1931, Meryszczów – křest 9./14. 6. 1931",
+          "signatura": "CDIAL-618-2-3830",
+          "detail": "f. 618 op. 2 spr. 3830, snímek 10 (pag. 17), č. 3, dům 42",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/231145#file-1858724"
+        },
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Wołków 1935, Meryszczów – křest 3./20. 2. 1935",
+          "signatura": "CDIAL-618-2-3036",
+          "detail": "f. 618 op. 2 spr. 3036, snímek 33, č. 1, dům 42",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/230351#file-850752"
+        }
+      ]
+    },
+    {
+      "id": "u-bartholomaeus-catharina-miskow",
+      "partners": [
+        "bartholomaeus-miskow",
+        "catharina-miskowa"
+      ],
+      "children": [
+        "marie-chaloupkova"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Przemyślany 1931, Meryszczów – křest 9./14. 6. 1931",
+          "signatura": "CDIAL-618-2-3830",
+          "detail": "f. 618 op. 2 spr. 3830, snímek 10 (pag. 17), č. 3, dům 42",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/231145#file-1858724"
+        },
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Wołków 1935, Meryszczów – křest 3./20. 2. 1935",
+          "signatura": "CDIAL-618-2-3036",
+          "detail": "f. 618 op. 2 spr. 3036, snímek 33, č. 1, dům 42",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/230351#file-850752"
+        }
       ]
     }
   ],
@@ -14852,15 +15132,19 @@
     },
     {
       "id": "q-spadt-puvod",
-      "title": "Špadtovi z Meryszczówa: původ Petra Špadta a cesta rodiny do Československa",
-      "summary": "Rodina podle sdělení 27. 11. 2026 z Mereščeva (Meryszczów u Przemyślan). Silný kandidát na příbuzenstvo: Spadtovi z německé josefínské kolonie Kimirz (farnost Świrz, ~20 km) – Piotr Schpadt/Szpadt *14. 4. 1904, syn Marcina × Elżbiety Leicht, bratři Ferdynand *1900, Jan, Adam, Marcin (Geneteka). Ztotožnění s Petrem Špadtem neověřeno.",
-      "details": "Kolo BK (27. 11. 2026). Geneteka (Ukrajina, příjmení Spadt/Szpadt): narození Kimirz/Świrz – Ferdynand 28. 11. 1900, Piotr 14. 4. 1904 (rodiče Marcin Spadt × Elżbieta Leicht); sňatky Jan 1919 (akt 8, × Agnieszka Treffler), Adam 1921 (akt 5, × Maria Treffler), Marcin 1934 (akt 7, × Anna Spadt). Rodinná paměť: Petr měl 3 bratry – sedí na Piotra 1904 (Ferdynand, Jan, Adam, Marcin = 4 jména, ale ne všichni museli žít). Rozpor: Piotr *1904 nemohl být v 1. světové válce v zajetí; zajetí se může týkat otce Marcina nebo jde o válku polsko-sovětskou 1920. Miśkiewicz: v Geneteka v okolních farnostech bez nálezu. Prameny: ЦДІАЛ Lvov fond 618 op. 2 (ř.-kat.): sprava 3103 (Świrz 1901–1913), 3104 (Świrz 1925–1937), 3154 (sňatky Kimirz/Niedzieliska 1895–1939), 3203 (sňatky Świrz 1928–1940); Niedzieliska (Неділиська) přímo sousedí s Meryszczówem. Řeckokatolické matriky Meryszczów: ЦДІАЛ fond 201 op. 4a, 33 sprav 1784–1944, 31 digitalizováno (uaroots.com.ua/misce/lvivska/mereshchiv-27327; archium.tsdial.archives.gov.ua). Polské lhůty: narození 100 let, sňatky a úmrtí 80 let. Otevřené: (a) ř.-kat. farnost Meryszczówa 1931 (Przemyślany?/Świrz?) a křest Tadeje 9. 6. 1931; (b) kdy a jak rodina přišla do ČSR – reemigrace 1946–47? Galicijští Němci byli 1940 přesídleni do Warthegau (Umsiedlung), Spadtovi jako Němci by mohli jít touto cestou – domněnka; druhý sňatek Marie s Chaloupkou (české příjmení) ukazuje spíš na reemigraci s Čechy – domněnka; (c) ověřit u MÚ Broumov úmrtní list Tadeje 2014 (uvádí rodiště a rodiče).",
+      "title": "Špadtovi z Meryszczówa: sňatek Petra a Marie, Kateřina, původ v Kimirzu a cesta do Československa",
+      "summary": "VYŘEŠENO kolo BL: Tadej pokřtěn 14. 6. 1931 (nar. 9. 6.), Meryszczów č. 42, ř.-kat. farnost Przemyślany; otec Petr Spadt, švec, syn Martina a Elisabeth Leicht; matka Maria Miśków. Petr † 2. 11. 1934 (30 let, TBC); Ludvík * 3. 2. 1935 (ne 1936). Otevřené: sňatek Petr × Maria, Kateřina, ověření Petrova křtu 1904 (Kimirz), cesta do ČSR.",
+      "details": "Kolo BK (27. 11. 2026). Geneteka (Ukrajina, příjmení Spadt/Szpadt): narození Kimirz/Świrz – Ferdynand 28. 11. 1900, Piotr 14. 4. 1904 (rodiče Marcin Spadt × Elżbieta Leicht); sňatky Jan 1919 (akt 8, × Agnieszka Treffler), Adam 1921 (akt 5, × Maria Treffler), Marcin 1934 (akt 7, × Anna Spadt). Rodinná paměť: Petr měl 3 bratry – sedí na Piotra 1904 (Ferdynand, Jan, Adam, Marcin = 4 jména, ale ne všichni museli žít). Rozpor: Piotr *1904 nemohl být v 1. světové válce v zajetí; zajetí se může týkat otce Marcina nebo jde o válku polsko-sovětskou 1920. Miśkiewicz: v Geneteka v okolních farnostech bez nálezu. Prameny: ЦДІАЛ Lvov fond 618 op. 2 (ř.-kat.): sprava 3103 (Świrz 1901–1913), 3104 (Świrz 1925–1937), 3154 (sňatky Kimirz/Niedzieliska 1895–1939), 3203 (sňatky Świrz 1928–1940); Niedzieliska (Неділиська) přímo sousedí s Meryszczówem. Řeckokatolické matriky Meryszczów: viz oprava v kole BL (uaroots.com.ua/misce/lvivska/mereshchiv-27327; archium.tsdial.archives.gov.ua). Polské lhůty: narození 100 let, sňatky a úmrtí 80 let. Otevřené: (a) ř.-kat. farnost Meryszczówa 1931 (Przemyślany?/Świrz?) a křest Tadeje 9. 6. 1931; (b) kdy a jak rodina přišla do ČSR – reemigrace 1946–47? Galicijští Němci byli 1940 přesídleni do Warthegau (Umsiedlung), Spadtovi jako Němci by mohli jít touto cestou – domněnka; druhý sňatek Marie s Chaloupkou (české příjmení) ukazuje spíš na reemigraci s Čechy – domněnka; (c) ověřit u MÚ Broumov úmrtní list Tadeje 2014 (uvádí rodiště a rodiče). | Kolo BL (27. 11. 2026): OPRAVA kola BK – fond 201 op. 4a spr. 6886/7633 (narození 1866–1932) patří obci Мервичі, ne Meryszczówu. Řeckokatolické narození Meryszczów + Ostałowice 1873–1941 = 201/4a/8800 (NEdigitalizováno); digitalizované jsou jen kopie 1785–1877 (3809–3815, 568). Meryszczów byl gr.-kat. filiálkou Ostałowic. Římskokatolicky patřil do 1932 k farnosti Przemyślany (618/2/2697 1921–1930; 618/2/3830 1931–1942, kopie), od 1933 k nové farnosti Wołków/Вовків (618/2/3036, kopie 1933–1936). Nálezy: 3830 snímek 10 (pag. 17) křest Thaddeus Franciscus 9./14. 6. 1931, dům 42; 3036 snímek 29 úmrtí Petrus Spadt 2./4. 11. 1934, dům 42, 30 let, gruźlica; 3036 snímek 33 křest Ludovicus 3./20. 2. 1935, dům 42, otec †. Ferdinand Spadt (bratr Petra) v Meryszczówě: Romanus 1930 (2697 snímek 389), Ladislaus 2. 10. 1931 (3830 snímek 10). Meryszczów křty: 1932 „hoc anno nihil“ (3830 snímek 35), 1933 a 1934 bez Spadtů, 1936 jen 2 křty bez Spadtů (3036 snímek 44); úmrtí 1936 jen Stanisław Jurowiecki. Sňatky Meryszczów 1929 (2697 snímky 360–361) a 1930 (snímek 414) bez Spadta. Další kroky: (a) sňatek ~1928–1930 – Przemyślany 2697 dřívější roky, Świrz 618/2/3104 (1925–1937, digitalizováno, Geneteka indexovala jen část) nebo gr.-kat. Ostałowice (nedigitalizováno); (b) Petrův křest 14. 4. 1904 – Świrz 618/2/3103 (digitalizováno, https://archium.tsdial.archives.gov.ua/files/230418/); (c) Kateřina – křty před 1929 nebo gr.-kat.; (d) Wołków po 1936 a Przemyślany 1939–1942 (3830) pro sňatek vdovy Marie s Chaloupkou; (e) proč opis Tadejova křtu 26. 5. 1967.",
       "related_ids": [
-        "tadej-spadt",
-        "petr-spadt",
-        "marie-chaloupkova",
+        "bartholomaeus-miskow",
+        "catharina-miskowa",
+        "elisabeth-leicht",
+        "katerina-vincencova",
         "ludvik-spadt",
-        "katerina-vincencova"
+        "marie-chaloupkova",
+        "martin-spadt",
+        "petr-spadt",
+        "tadej-spadt"
       ],
       "sources": [
         {
@@ -14874,6 +15158,18 @@
         {
           "label": "Wikidata Q4290845 – Мерещів",
           "url": "https://www.wikidata.org/wiki/Q4290845"
+        },
+        {
+          "label": "ЦДІАЛ archium – f. 618 op. 2 spr. 3830 (Przemyślany 1931–1942)",
+          "url": "https://archium.tsdial.archives.gov.ua/files/231145/"
+        },
+        {
+          "label": "ЦДІАЛ archium – f. 618 op. 2 spr. 3036 (Wołków 1933–1936)",
+          "url": "https://archium.tsdial.archives.gov.ua/files/230351/"
+        },
+        {
+          "label": "ЦДІАЛ archium – f. 618 op. 2 spr. 2697 (Przemyślany 1921–1930)",
+          "url": "https://archium.tsdial.archives.gov.ua/files/230012/"
         }
       ]
     },

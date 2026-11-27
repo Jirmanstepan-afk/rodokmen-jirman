@@ -1,14 +1,24 @@
-Tahle kapitola je zatím nejkratší, a to ne proto, že by mámina strana byla méně důležitá. Je krátká proto, že pro ni zatím nemám žádný matriční zápis, jen to, co si pamatujeme doma. Všechno níže stojí na sdělení rodiny z 27. 11. 2026, dokud neuvedu jinak.[^Sdělení Štěpána 27. 11. 2026 – rodinná paměť; matriční zápisy v této práci zatím nejsou]
+Tahle kapitola je zatím nejkratší, a to ne proto, že by mámina strana byla méně důležitá. Dlouho jsem pro ni neměl žádný matriční zápis, jen to, co si pamatujeme doma. U Špadtů se to teď změnilo, Fleglovi zatím stojí na sdělení rodiny z 27. 11. 2026.[^Sdělení Štěpána 27. 11. 2026 – rodinná paměť; matriční zápisy v této práci zatím nejsou]
 
 ## Špadtovi z Haliče
 
-Moje máma [[romana-spadtova-1971|Romana Jirmanová]], rozená Špadtová, se narodila kolem roku 1971 v Broumově. Její otec, můj děda [[tadej-spadt|Tadej Špadt]] (úředně možná Tadeusz Szpadt), se narodil 9. 6. 1931 v Mereščevu a zemřel 23. 12. 2014 v broumovské nemocnici. V červenci 1972 se v Broumově oženil s babičkou [[libuse-spadtova|Libuší]], rozenou Fleglovou, které doma říkáme Líba. Narodila se v roce 1945 v náchodské porodnici.
+Moje máma [[romana-spadtova-1971|Romana Jirmanová]], rozená Špadtová, se narodila kolem roku 1971 v Broumově. Její otec, můj děda [[tadej-spadt|Tadej Špadt]], se narodil 9. 6. 1931 v Mereščevu a zemřel 23. 12. 2014 v broumovské nemocnici. V červenci 1972 se v Broumově oženil s babičkou [[libuse-spadtova|Libuší]], rozenou Fleglovou, které doma říkáme Líba. Narodila se v roce 1945 v náchodské porodnici.
 
 Mereščev je polská ves Meryszczów, ukrajinsky Мерещів, asi 6 km jižně od Přemyšlan a 50 km jihovýchodně od Lvova. V roce 1931 patřila Polsku, dnes je na Ukrajině. Žili tam hlavně řeckokatoličtí Ukrajinci, menšina římských katolíků a několik židovských rodin.[^Wikidata Q4290845; uk.wikipedia – Мерещів]
 
-Dědův otec [[petr-spadt|Petr Špadt]] zemřel podle rodinné paměti kolem roku 1936 někde u Mereščeva. Měl tři bratry a za 1. světové války byl prý v německém zajetí. Dědova máma [[marie-chaloupkova|Marie]], rozená Miśkiewicz (doma „Miskevic“), se později znovu vdala a zemřela jako Chaloupková. Děda měl bratra [[ludvik-spadt|Ludvíka]] (narozen 2. 2. 1936 v Mereščevu, zemřel kolem roku 2000 ve Frýdku-Místku) a sestru [[katerina-vincencova|Kateřinu Vincencovou]], která zemřela před rokem 2012, snad v Horním Jelení.
+Dědův křest jsem našel v římskokatolické matrice farnosti Přemyšlany, která je dnes ve lvovském archivu. Narodil se 9. června 1931 v domě č. 42 a o pět dní později byl pokřtěn jako „Thaddeus Franciscus“. Jeho otec [[petr-spadt|Petr Spadt]] byl tehdy švec, syn [[martin-spadt|Martina Spadta]] a [[elisabeth-leicht|Elisabeth Leicht]]. Matka [[marie-chaloupkova|Marie]] je zapsaná jako Miśków, dcera [[bartholomaeus-miskow|Bartoloměje]] a [[catharina-miskowa|Kateřiny]]. Doma se říkalo „Miskevic“. Datum, jména i ves přesně sedí na to, co si pamatujeme.[^CDIAL-618-2-3830/10: křest Thaddeus Franciscus Spadt, Meryszczów č. 42, 9./14. 6. 1931]
 
-> Domněnka: Příjmení Spadt/Szpadt není ukrajinské ani polské, je německé. V polském rejstříku Geneteka jsem ho našel v německé kolonii Kimirz, založené v roce 1784 za Josefa II., asi 20 km od Meryszczówa. Tam se 14. 4. 1904 narodil Piotr Szpadt, syn Marcina Spadta a Elżbiety Leicht, a měl bratry Ferdynanda, Jana, Adama a Marcina. To by sedělo na „Petra se třemi bratry“, ale nevím, jestli je to on. Kdyby to byl on, nemohl být za 1. světové války v zajetí, bylo by mu deset let. Proto ho nedávám do stromu a nechávám ho v otevřených otázkách.[?q-spadt-puvod]
+![CDIAL-618-2-3830/10]
+
+Na okraji zápisu je tužkou azbukou připsáno „копія а/г 26.V.67р“. Znamená to, že 26. května 1967 z něj sovětský úřad vydal opis. Děda v té době už dávno žil v Československu, takže si ho nejspíš vyžádal on sám.
+
+Petr Špadt nezemřel v roce 1936, jak jsme si pamatovali, ale 2. listopadu 1934 ve stejném domě č. 42. Bylo mu třicet let a umřel na tuberkulózu.[^CDIAL-618-2-3036/29: úmrtí Petrus Spadt, maritus Mariae Miśków, 2. 11. 1934, 30 let, gruźlica] Dědův bratr [[ludvik-spadt|Ludvík]] se narodil o tři měsíce později, 3. února 1935 (doma se uvádělo 2. 2. 1936). V jeho křestním zápisu má otec před jménem křížek.[^CDIAL-618-2-3036/33: křest Ludovicus Spadt, syn † Petra, 3./20. 2. 1935] Prababička Marie tak v necelých třiceti letech zůstala sama se tříletým Tadejem a novorozencem. Později se znovu vdala a zemřela jako Chaloupková. Sestra [[katerina-vincencova|Kateřina Vincencová]] zemřela před rokem 2012, snad v Horním Jelení. Její křest v Meryszczówě v letech 1930–1936 není.
+
+![CDIAL-618-2-3036/29]
+
+Rod Spadtů pochází z německé kolonie Kimirz, kterou v roce 1784 založili kolonisté za Josefa II., asi 20 km od Meryszczówa. V polském rejstříku Geneteka je tam Petr („Piotr Schpadt“) zapsán s narozením 14. 4. 1904 a se stejnými rodiči. V Meryszczówě žil i jeho bratr Ferdinand, kterému se tam v letech 1930 a 1931 narodili synové. Rodinná paměť mluví o „třech bratrech“, Geneteka jich zná čtyři: Ferdinanda, Jana, Adama a Marcina.[?q-spadt-puvod]
+
+> Domněnka: Rodina si pamatovala, že Petr byl za 1. světové války v německém zajetí. Petrovi ale v roce 1918 bylo čtrnáct let. Příběh o zajetí se proto nejspíš týká jeho otce Martina nebo některého ze strýců a v paměti se přesunul o generaci.
 
 Jak se rodina z Haliče dostala do Broumova, nevím. Mám dvě možnosti a žádnou nemám doloženou. Haličští Němci byli v zimě 1939–1940 hromadně přesídleni do okupovaného Polska. Čeští a slovanští přesídlenci z Polska a Ukrajiny zase přicházeli do Československa v letech 1945–1950 a mnozí se usadili právě na vylidněném Broumovsku. Druhý sňatek prababičky Marie s mužem s českým příjmením Chaloupka mi připadá jako stopa spíš ke druhé cestě.
 

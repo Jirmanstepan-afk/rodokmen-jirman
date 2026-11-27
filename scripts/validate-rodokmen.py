@@ -210,15 +210,17 @@ def main() -> int:
     zpath = ROOT / "data" / "zdroje.json"
     z = json.loads(zpath.read_text(encoding="utf-8")) if zpath.is_file() else {"knihy": {}, "snimky": {}, "aliasy": {}}
     ARON = "https://aron.vychodoceskearchivy.cz/apu/"
+    # další veřejné archivní prohlížeče se snímky (ЦДІАЛ Lvov – archium)
+    ARCHIVY = (ARON, "https://archium.tsdial.archives.gov.ua/")
     FAMILY = re.compile(r"(rodný|křestní|rodokmen|podklad uživatele|sdělení|rodinn)", re.I)
     for key, e in (z.get("snimky") or {}).items():
-        if e.get("url") and not str(e["url"]).startswith(ARON):
+        if e.get("url") and not str(e["url"]).startswith(ARCHIVY):
             errors.append(f"zdroje.json / {key}: url není snímek ARON ({e['url']})")
         for f in ("nahled", "velky"):
             if e.get(f) and not (ROOT / e[f]).is_file():
                 errors.append(f"zdroje.json / {key}: chybí soubor {e[f]}")
     for sig, k in (z.get("knihy") or {}).items():
-        if not str(k.get("url", "")).startswith(ARON):
+        if not str(k.get("url", "")).startswith(ARCHIVY):
             errors.append(f"zdroje.json / kniha {sig}: url není ARON")
 
     def snimky_of(src):

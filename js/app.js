@@ -234,8 +234,8 @@
         <span class="src-note">Rodinný dokument — na veřejné mapě se nezveřejňuje (obsahuje žijící osoby).</span></li>`;
     }
     const links = r.shots.filter((x) => x.url).map((x) =>
-      `<a class="src-link" href="${esc(x.url)}" target="_blank" rel="noopener noreferrer">ARON snímek ${x.n} ↗</a>`);
-    if (!links.length && r.url) links.push(`<a class="src-link" href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">ARON kniha ${esc(s.signatura || "")} ↗</a>`);
+      `<a class="src-link" href="${esc(x.url)}" target="_blank" rel="noopener noreferrer">${String(x.url).includes("archium.tsdial") ? "ЦДІАЛ" : "ARON"} snímek ${x.n} ↗</a>`);
+    if (!links.length && r.url) links.push(`<a class="src-link" href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">${String(r.url).includes("archium.tsdial") ? "ЦДІАЛ" : "ARON"} kniha ${esc(s.signatura || "")} ↗</a>`);
     const thumbs = opts.noThumbs ? "" : r.shots.filter((x) => x.img).map((x) =>
       `<button type="button" class="thumb" data-big="${esc(x.big || x.img)}" data-url="${esc(x.url || "")}" data-cap="${esc((s.label || "") + " · " + (s.signatura || "") + (x.n ? " · snímek " + x.n : ""))}" data-crop="${esc(x.crop || "")}">
         <img loading="lazy" src="${esc(x.img)}" alt="Snímek ${x.n || ""} ${esc(s.signatura || "")}">

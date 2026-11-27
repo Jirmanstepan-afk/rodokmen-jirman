@@ -85,7 +85,7 @@
       const sn = snimek(sig, n);
       const url = sn ? sn.url : bookUrl(sig);
       html = `${desc ? esc(desc) + ". " : ""}SOA Zámrsk, sbírka matrik, sign. ${esc(sig)}, snímek ${esc(n)}.` +
-        (url ? ` <a href="${url}" target="_blank" rel="noopener">ARON ↗</a>` : "") +
+        (url ? ` <a href="${url}" target="_blank" rel="noopener">${String(url).includes("archium.tsdial") ? "ЦДІАЛ" : "ARON"} ↗</a>` : "") +
         (sn && sn.velky ? ` · <a href="./${sn.velky}" target="_blank" rel="noopener">snímek zápisu</a>` : "");
     } else {
       key = "t|" + raw;
@@ -106,7 +106,7 @@
       <a href="./${esc(sn.velky || sn.nahled)}" target="_blank" rel="noopener" title="Zvětšit snímek zápisu">
         <img src="./${esc(sn.nahled)}" alt="Výřez matričního zápisu: ${esc(caption || sig)}" loading="lazy"></a>
       <figcaption><span class="kn-fig-no">Obr. ${ctx.chapterNo}.${ctx.figs}</span> ${cap}
-        <span class="kn-fig-src">Sign. ${esc(sig)}, snímek ${esc(n)} · <a href="${esc(sn.url)}" target="_blank" rel="noopener">otevřít v ARON ↗</a></span></figcaption>
+        <span class="kn-fig-src">Sign. ${esc(sig)}, snímek ${esc(n)} · <a href="${esc(sn.url)}" target="_blank" rel="noopener">otevřít v ${String(sn.url).includes("archium.tsdial") ? "ЦДІАЛ" : "ARON"} ↗</a></span></figcaption>
     </figure>`;
   }
 
