@@ -774,6 +774,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 96-4235 (poř.č. 6815), 2.1844-8.1886",
    "popis": "římskokatolická matrika ODDANÝCH, Polická Lhota",
    "url": "https://aron.vychodoceskearchivy.cz/apu/87d4243c-4dd9-45e2-a26f-f24f5037e0c1"
+  },
+  "96-6": {
+   "apu": "dd5380b4-6183-4d26-939e-3c4f24a4f59b",
+   "dao": "dd5380b4-6183-4d26-939e-3c4f24a4f59b",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 96-6 (poř.č. 6789), 2.1810-1846",
+   "popis": "římskokatolická matrika NAROZENÝCH, Bělý + Řeřišný (od 4.1825)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/dd5380b4-6183-4d26-939e-3c4f24a4f59b"
   }
  },
  "aliasy": {
@@ -4054,6 +4061,15 @@
    "velky": "img/zdroje/96-1_s041_velky.jpg",
    "vyrez_soubor": "p041-oddani-26-8-1777-Machov46-Mathias-syn-zemreleho-Tobiase-Girmana-nevesta-Anna-dcera-Georga-Nitsche-tkalce.jpg"
   },
+  "96-2|12": {
+   "signatura": "96-2",
+   "snimek": 12,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af/dao/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af/file/d313ef44-4a20-4b3c-bf18-7afe328dd497",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-2_s012.jpg",
+   "velky": "img/zdroje/96-2_s012_velky.jpg",
+   "vyrez_soubor": "p012-oddani-3-2-1800-Machov19-Karel-syn-zemreleho-Jiriho-Kubecka-30-nevesta-Ludmila-19-dcera-Jana-Plska-nejiste-Machov7.jpg"
+  },
   "96-2|17": {
    "signatura": "96-2",
    "snimek": 17,
@@ -4282,6 +4298,33 @@
    "nahled": "img/zdroje/96-4_s077.jpg",
    "velky": "img/zdroje/96-4_s077_velky.jpg",
    "vyrez_soubor": "jirman-josef-1857-spread.jpg"
+  },
+  "96-6|19": {
+   "signatura": "96-6",
+   "snimek": 19,
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-6_s019.jpg",
+   "velky": "img/zdroje/96-6_s019_velky.jpg",
+   "vyrez_soubor": "p019-narozeni-28-12-1821-Bely37-Josef-Bittner-otec-Jan-Bittner-chalupnik-matka-Alzbeta-dcera-Jana-Kuhn-nejiste-NS57-nejiste-zda-tataz-rodina.jpg",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/dd5380b4-6183-4d26-939e-3c4f24a4f59b/dao/dd5380b4-6183-4d26-939e-3c4f24a4f59b/file/b3aef832-ad85-4a15-bcd3-07965f196cc5"
+  },
+  "96-6|22": {
+   "signatura": "96-6",
+   "snimek": 22,
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-6_s022.jpg",
+   "velky": "img/zdroje/96-6_s022_velky.jpg",
+   "vyrez_soubor": "p022-narozeni-4-1-1824-Bely16-Anna-Bittner-otec-Johann-Bittner-chalupnik-matka-Elisabeth-dcera-Josefa-Kuhse-nejiste-chalupnika-NS23.jpg",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/dd5380b4-6183-4d26-939e-3c4f24a4f59b/dao/dd5380b4-6183-4d26-939e-3c4f24a4f59b/file/9728c7bd-c183-485a-a64d-3989969bba70"
+  },
+  "96-6|24": {
+   "signatura": "96-6",
+   "snimek": 24,
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-6_s024.jpg",
+   "velky": "img/zdroje/96-6_s024_velky.jpg",
+   "vyrez_soubor": "p024-narozeni-unor-1826-Bely37-Veronika-Bittnerova-otec-Johann-Bittner-domkar-matka-Elisabeth-dcera-Josefa-Kuhn-nejiste-Nizka-Srbska-sestra-Anny.jpg",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/dd5380b4-6183-4d26-939e-3c4f24a4f59b/dao/dd5380b4-6183-4d26-939e-3c4f24a4f59b/file/2a0a22bd-f620-49d7-b252-bb624aaab223"
   },
   "96-7319|12": {
    "signatura": "96-7319",
