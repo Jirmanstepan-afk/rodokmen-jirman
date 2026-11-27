@@ -4689,6 +4689,1026 @@
    ],
    "plyne": "Ženich je syn Josefa Špačka z Hronova č. 88, tedy tentýž František David pokřtěný v roce 1795. Sedí i jeho věk 22 let.",
    "src": "img/zdroje/53-52_s015_velky.jpg"
+  },
+  {
+   "key": "53-19|69",
+   "title": "Narození Anny Špačkové – Vysoká Srbská č. 29, 18. ledna 1823",
+   "zdroj": "SOA Zámrsk, sign. 53-19, snímek 69",
+   "crop": [
+    60,
+    80,
+    1780,
+    661
+   ],
+   "entry": [
+    100,
+    160,
+    1760,
+    650
+   ],
+   "marks": [
+    {
+     "box": [
+      [
+       106,
+       97,
+       326,
+       146
+      ],
+      [
+       106,
+       169,
+       209,
+       209
+      ]
+     ],
+     "lat": "Januarius, Den 18",
+     "cs": "dne 18. ledna (1823)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      223,
+      169,
+      272,
+      212
+     ],
+     "lat": "29.",
+     "cs": "dům č. 29",
+     "pos": "top"
+    },
+    {
+     "box": [
+      331,
+      187,
+      470,
+      272
+     ],
+     "lat": "Anna Spaček",
+     "cs": "Anna Špačková",
+     "pos": "top"
+    },
+    {
+     "box": [
+      889,
+      196,
+      1064,
+      353
+     ],
+     "lat": "Franz Spaček Inmann",
+     "cs": "otec František Špaček, podruh",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1078,
+      196,
+      1280,
+      267
+     ],
+     "lat": "Dorothea Spaček",
+     "cs": "matka Dorota Špačková",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1078,
+      267,
+      1280,
+      641
+     ],
+     "lat": "Tochter des Georg Falta, Inmann aus Slatina N. 39, Nachoder Herrschaft",
+     "cs": "dcera Jiřího Falty, podruha ze Slatiny č. 39, panství Náchod"
+    },
+    {
+     "box": [
+      151,
+      349,
+      929,
+      452
+     ],
+     "lat": "Getauft Pat: Franciscus Wanietschek Cooperat.",
+     "cs": "pokřtil P. František Vaníček, kaplan"
+    },
+    {
+     "box": [
+      151,
+      502,
+      956,
+      623
+     ],
+     "lat": "Hebamme Anna Germann aus Hochsichel",
+     "cs": "porodní bába Anna Germannová z Vysoké Srbské"
+    }
+   ],
+   "plyne": "Anna byla dcerou podruha Františka Špačka. Poznámka u matky potvrzuje, že Dorota pocházela od Jiřího Falty ze Slatiny č. 39.",
+   "src": "img/zdroje/53-19_s069_velky.jpg"
+  },
+  {
+   "key": "12-2|26",
+   "title": "Křest Doroty Marie Faltové – Slatina č. 109, 12. března 1792 (kandidátka)",
+   "zdroj": "SOA Zámrsk, sign. 12-2, snímek 26",
+   "crop": [
+    100,
+    0,
+    2000,
+    380
+   ],
+   "entry": [
+    160,
+    50,
+    1990,
+    370
+   ],
+   "marks": [
+    {
+     "box": [
+      838,
+      0,
+      1202,
+      47
+     ],
+     "lat": "In Martio",
+     "cs": "v březnu (1792)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      173,
+      113,
+      227,
+      182
+     ],
+     "lat": "12",
+     "cs": "dne 12.",
+     "pos": "top"
+    },
+    {
+     "box": [
+      253,
+      108,
+      327,
+      182
+     ],
+     "lat": "109",
+     "cs": "dům č. 109",
+     "pos": "top"
+    },
+    {
+     "box": [
+      348,
+      103,
+      527,
+      257
+     ],
+     "lat": "Dorota Marya Faltowa",
+     "cs": "Dorota Marie Faltová"
+    },
+    {
+     "box": [
+      983,
+      73,
+      1207,
+      127
+     ],
+     "lat": "Jiři Falta",
+     "cs": "otec Jiří Falta",
+     "pos": "top"
+    },
+    {
+     "box": [
+      983,
+      127,
+      1207,
+      192
+     ],
+     "lat": "",
+     "cs": "otcovo povolání – čtení nejisté",
+     "nejiste": true
+    },
+    {
+     "box": [
+      1203,
+      73,
+      1377,
+      182
+     ],
+     "lat": "Dorota Lorenzowa",
+     "cs": "matka Dorota (příjmení se čte nejistě)",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Jméno otce Jiří Falta sedí, číslo domu 109 se ale s pozdějším Slatina č. 39 neshoduje. Zápis proto zůstává jen kandidátem.",
+   "src": "img/zdroje/12-2_s026_velky.jpg"
+  },
+  {
+   "key": "53-4158|25",
+   "title": "Narození Anežky Soumarové – Závrchy č. 2, 1. února 1857",
+   "zdroj": "SOA Zámrsk, sign. 53-4158, snímek 25",
+   "crop": [
+    60,
+    90,
+    1960,
+    440
+   ],
+   "entry": [
+    75,
+    110,
+    1950,
+    430
+   ],
+   "marks": [
+    {
+     "box": [
+      88,
+      123,
+      232,
+      252
+     ],
+     "lat": "Den 1ten Februar geboren, den 2ten Februar getauft",
+     "cs": "narozena 1. února, pokřtěna 2. února (1857)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      238,
+      123,
+      272,
+      167
+     ],
+     "lat": "2",
+     "cs": "dům č. 2",
+     "pos": "top"
+    },
+    {
+     "box": [
+      298,
+      123,
+      402,
+      197
+     ],
+     "lat": "Agnes (Aneška)",
+     "cs": "Agnes (Anežka)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      288,
+      208,
+      432,
+      318
+     ],
+     "lat": "getauft von mir: P. Johann Stiftner, Cooperator",
+     "cs": "pokřtil P. Johann Stiftner, kooperátor"
+    },
+    {
+     "box": [
+      558,
+      123,
+      952,
+      180
+     ],
+     "lat": "Johann Soumar, katholisch, Chalupner zu Závrch",
+     "cs": "otec Jan Soumar, chalupník v Závrchách",
+     "pos": "top"
+    },
+    {
+     "box": [
+      558,
+      180,
+      952,
+      272
+     ],
+     "lat": "ehelicher Sohn des Josef Soumar, Grundchalupner aus Závrch No. 1",
+     "cs": "syn Josefa Soumara, gruntovního chalupníka v Závrchách č. 1"
+    },
+    {
+     "box": [
+      558,
+      272,
+      952,
+      425
+     ],
+     "lat": "und dessen Ehegattin Maria, gebohrnen Uhl aus Deutsch-… No. 88 …",
+     "cs": "a Marie roz. Uhl z Deutsch-[Schönberg?] č. 88 v Kladsku (jméno obce nejisté)",
+     "nejiste": true
+    },
+    {
+     "box": [
+      1028,
+      128,
+      1422,
+      282
+     ],
+     "lat": "Anna, katholisch, eheliche Tochter des … Sweidar … aus Klein-Petrowitz No. 4",
+     "cs": "matka Anna, dcera … Sweidara z Malých Petrovic č. 4 (čtení nejisté)",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Zápis jmenuje Anežčiny rodiče i prarodiče. Děd Josef Soumar byl gruntovním chalupníkem v Závrchách č. 1, hned vedle domu č. 2.",
+   "src": "img/zdroje/53-4158_s025_velky.jpg"
+  },
+  {
+   "key": "96-14|4",
+   "title": "Svatba Tobiáše Maroula a Marie, dcery Antonína Šimce – Nízká Srbská, 17. ledna 1815",
+   "zdroj": "SOA Zámrsk, sign. 96-14, snímek 4",
+   "crop": [
+    0,
+    40,
+    1760,
+    206
+   ],
+   "entry": [
+    4,
+    62,
+    1750,
+    160
+   ],
+   "marks": [
+    {
+     "box": [
+      4,
+      68,
+      96,
+      120
+     ],
+     "lat": "Den 17 Januarii",
+     "cs": "dne 17. ledna (1815)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      139,
+      74,
+      161,
+      108
+     ],
+     "lat": "3.",
+     "cs": "dům č. 3",
+     "pos": "top"
+    },
+    {
+     "box": [
+      180,
+      68,
+      426,
+      149
+     ],
+     "lat": "Tobias Maroul Chalupnik z Nižsrbsky",
+     "cs": "ženich Tobiáš Maroul, chalupník z Nízké Srbské",
+     "pos": "top"
+    },
+    {
+     "box": [
+      527,
+      74,
+      567,
+      108
+     ],
+     "lat": "25",
+     "cs": "25 let"
+    },
+    {
+     "box": [
+      663,
+      68,
+      967,
+      155
+     ],
+     "lat": "Marie dcera Antonina … z Nro 23",
+     "cs": "nevěsta Marie, dcera Antonína (příjmení se čte nejistě) z č. 23",
+     "nejiste": true
+    },
+    {
+     "box": [
+      1086,
+      74,
+      1114,
+      108
+     ],
+     "lat": "21",
+     "cs": "21 let",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1239,
+      74,
+      1567,
+      155
+     ],
+     "lat": "Wáclaw Růžička a Jan Růžička, oba z Nižsrbsky",
+     "cs": "svědci Václav a Jan Růžičkové z Nízké Srbské"
+    }
+   ],
+   "plyne": "Tobiáš Maroul se ženil jako chalupník. Zápis neuvádí jeho rodiče, proto jeho křest zůstává jen domněnkou.",
+   "src": "img/zdroje/96-14_s004_velky.jpg"
+  },
+  {
+   "key": "96-13|22",
+   "title": "Křest Tobiáše Maroula – Nízká Srbská č. 2, 25. srpna 1789 (kandidát)",
+   "zdroj": "SOA Zámrsk, sign. 96-13, snímek 22, fol. 42",
+   "crop": [
+    80,
+    90,
+    1960,
+    620
+   ],
+   "entry": [
+    110,
+    400,
+    1950,
+    610
+   ],
+   "marks": [
+    {
+     "box": [
+      118,
+      108,
+      292,
+      192
+     ],
+     "lat": "1789.",
+     "cs": "rok 1789",
+     "pos": "top"
+    },
+    {
+     "box": [
+      118,
+      288,
+      322,
+      352
+     ],
+     "lat": "Augusto",
+     "cs": "v srpnu",
+     "pos": "top"
+    },
+    {
+     "box": [
+      118,
+      408,
+      202,
+      452
+     ],
+     "lat": "Den 25ten",
+     "cs": "dne 25.",
+     "pos": "top"
+    },
+    {
+     "box": [
+      343,
+      458,
+      397,
+      512
+     ],
+     "lat": "2.",
+     "cs": "dům č. 2"
+    },
+    {
+     "box": [
+      398,
+      448,
+      582,
+      512
+     ],
+     "lat": "Tobias",
+     "cs": "Tobiáš"
+    },
+    {
+     "box": [
+      1008,
+      418,
+      1202,
+      552
+     ],
+     "lat": "Wenzel Maroul",
+     "cs": "otec Václav Maroul"
+    },
+    {
+     "box": [
+      1218,
+      418,
+      1382,
+      552
+     ],
+     "lat": "Elisabeth",
+     "cs": "matka Alžběta"
+    }
+   ],
+   "plyne": "Je to jediný vhodný Tobiášův křest v Nízké Srbské a věk sedí. Svatební zápis ale rodiče nejmenuje, takže jde jen o kandidáta.",
+   "src": "img/zdroje/96-13_s022_velky.jpg"
+  },
+  {
+   "key": "96-15|47",
+   "title": "Narození Josefa Maroula – Nízká Srbská č. 71, 1. října 1850",
+   "zdroj": "SOA Zámrsk, sign. 96-15, snímek 47",
+   "crop": [
+    60,
+    190,
+    2000,
+    586
+   ],
+   "entry": [
+    100,
+    205,
+    1990,
+    580
+   ],
+   "marks": [
+    {
+     "box": [
+      108,
+      218,
+      302,
+      362
+     ],
+     "lat": "Den 1. Října narozen a dne 2. Října pokřtěn od mne",
+     "cs": "narozen 1. října, pokřtěn 2. října (1850)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      408,
+      263,
+      472,
+      312
+     ],
+     "lat": "71.",
+     "cs": "dům č. 71",
+     "pos": "top"
+    },
+    {
+     "box": [
+      568,
+      238,
+      692,
+      302
+     ],
+     "lat": "Josef",
+     "cs": "Josef",
+     "pos": "top"
+    },
+    {
+     "box": [
+      358,
+      348,
+      1022,
+      412
+     ],
+     "lat": "Placida Středy ord. S. Bened.",
+     "cs": "(pokřtil) Placida Středa, benediktin"
+    },
+    {
+     "box": [
+      358,
+      410,
+      982,
+      522
+     ],
+     "lat": "přestoupil k č. s. l. přípis o. p. Broumov z 30/4 20 …",
+     "cs": "pozdější přípis: 30. 4. 1920 přestoupil k Církvi československé"
+    },
+    {
+     "box": [
+      1298,
+      218,
+      1982,
+      347
+     ],
+     "lat": "Jan Maraul, katolík, podruh, vlastní syn Tobiáše Maraule, chalupníka z Nížkosrbský No 71",
+     "cs": "otec Jan Maroul, podruh, syn chalupníka Tobiáše Maroula z Nízké Srbské č. 71",
+     "pos": "top"
+    }
+   ],
+   "plyne": "Zápis spojuje tři generace Maroulů v č. 71. Josef v roce 1920 přestoupil k Církvi československé.",
+   "src": "img/zdroje/96-15_s047_velky.jpg"
+  },
+  {
+   "key": "96-14|7",
+   "title": "Druhá svatba výměnkáře Jana Másla s Veronikou Němečkovou – 20. listopadu 1821",
+   "zdroj": "SOA Zámrsk, sign. 96-14, snímek 7",
+   "crop": [
+    100,
+    55,
+    1800,
+    185
+   ],
+   "entry": [
+    150,
+    75,
+    1790,
+    155
+   ],
+   "marks": [
+    {
+     "box": [
+      153,
+      78,
+      287,
+      132
+     ],
+     "lat": "1821 20 Novemb.",
+     "cs": "20. listopadu 1821",
+     "pos": "top"
+    },
+    {
+     "box": [
+      286,
+      80,
+      320,
+      114
+     ],
+     "lat": "39.",
+     "cs": "dům č. 39",
+     "pos": "top"
+    },
+    {
+     "box": [
+      323,
+      78,
+      602,
+      152
+     ],
+     "lat": "Jan Maslo … z Nižsrbsky",
+     "cs": "ženich Jan Máslo z Nízké Srbské (označení stavu se čte nejistě)",
+     "nejiste": true
+    },
+    {
+     "box": [
+      627,
+      80,
+      661,
+      114
+     ],
+     "lat": "52",
+     "cs": "ženichovi 52 let",
+     "pos": "top"
+    },
+    {
+     "box": [
+      733,
+      78,
+      996,
+      150
+     ],
+     "lat": "Weronika dcera † Matěge Němečka, tkalce … N. 34",
+     "cs": "nevěsta Veronika, dcera zesnulého tkalce Matěje Němečka z č. 34"
+    },
+    {
+     "box": [
+      1098,
+      80,
+      1126,
+      114
+     ],
+     "lat": "28",
+     "cs": "nevěstě 28 let",
+     "pos": "top"
+    }
+   ],
+   "plyne": "Jan Máslo se jako dvaapadesátiletý vdovec znovu oženil s osmadvacetiletou Veronikou, dcerou zesnulého tkalce Matěje Němečka. Jeho první žena zemřela teprve v březnu téhož roku.",
+   "src": "img/zdroje/96-14_s007_velky.jpg"
+  },
+  {
+   "key": "96-14|63",
+   "title": "Narození Anny Máslové – Nízká Srbská č. 39, 20. února 1825",
+   "zdroj": "SOA Zámrsk, sign. 96-14, snímek 63, druhý zápis",
+   "crop": [
+    200,
+    40,
+    1800,
+    154
+   ],
+   "entry": [
+    230,
+    62,
+    1780,
+    153
+   ],
+   "marks": [
+    {
+     "box": [
+      238,
+      65,
+      310,
+      110
+     ],
+     "lat": "20 Februar",
+     "cs": "20. února (1825)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      304,
+      96,
+      338,
+      127
+     ],
+     "lat": "39",
+     "cs": "dům č. 39",
+     "pos": "top"
+    },
+    {
+     "box": [
+      351,
+      96,
+      450,
+      128
+     ],
+     "lat": "Anna Maslo",
+     "cs": "Anna Máslová",
+     "pos": "top"
+    },
+    {
+     "box": [
+      251,
+      122,
+      826,
+      153
+     ],
+     "lat": "Taufschein zur Erhebung eines Waisen-Kapitals ausgefolgt am … Jänner 847",
+     "cs": "křestní list k vyzvednutí sirotčího kapitálu vydán v lednu 1847"
+    },
+    {
+     "box": [
+      863,
+      96,
+      943,
+      143
+     ],
+     "lat": "Johann Maslo Ausgedinger",
+     "cs": "otec Jan Máslo, výměnkář",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1039,
+      92,
+      1267,
+      149
+     ],
+     "lat": "Weronika Tochter des † Mathias …, Weber aus Niedersrbsk N. 34",
+     "cs": "matka Veronika, dcera zesnulého tkalce Matěje (Němečka) z č. 34"
+    }
+   ],
+   "plyne": "Anna se narodila týž den, kdy zemřela její starší sestra Anna, a dostala její jméno. Křestní list si v roce 1847 vyzvedla kvůli sirotčímu dědictví.",
+   "src": "img/zdroje/96-14_s063_velky.jpg"
+  },
+  {
+   "key": "96-14|118",
+   "title": "Úmrtí výměnkáře Jana Másla – Nízká Srbská č. 39, 26. listopadu 1839",
+   "zdroj": "SOA Zámrsk, sign. 96-14, snímek 118",
+   "crop": [
+    180,
+    20,
+    1800,
+    139
+   ],
+   "entry": [
+    195,
+    28,
+    1790,
+    137
+   ],
+   "marks": [
+    {
+     "box": [
+      198,
+      33,
+      473,
+      137
+     ],
+     "lat": "Den 26ten November um 8 Uhr Morgens gestorben, den 28. November begraben",
+     "cs": "zemřel 26. listopadu (1839) v 8 hodin ráno, pohřben 28. listopadu",
+     "pos": "top"
+    },
+    {
+     "box": [
+      468,
+      43,
+      497,
+      87
+     ],
+     "lat": "39",
+     "cs": "dům č. 39",
+     "pos": "top"
+    },
+    {
+     "box": [
+      504,
+      33,
+      920,
+      79
+     ],
+     "lat": "Johann Maslo, Ausgedinger",
+     "cs": "Jan Máslo, výměnkář",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1333,
+      58,
+      1362,
+      102
+     ],
+     "lat": "85",
+     "cs": "85 let"
+    },
+    {
+     "box": [
+      1433,
+      28,
+      1779,
+      114
+     ],
+     "lat": "Laut Todtenbeschauzettel vom 26. November am kalten Brand",
+     "cs": "podle ohledacího listu z 26. listopadu na studenou sněť (gangrénu)"
+    }
+   ],
+   "plyne": "Jan Máslo zemřel v 85 letech na gangrénu. Jeho dceři Anně tehdy bylo čtrnáct, proto se později mluví o sirotčím kapitálu.",
+   "src": "img/zdroje/96-14_s118_velky.jpg"
+  },
+  {
+   "key": "96-14|94",
+   "title": "Úmrtí Kateřiny, první manželky Jana Másla – Nízká Srbská č. 39, 24. března 1821",
+   "zdroj": "SOA Zámrsk, sign. 96-14, snímek 94, prostřední zápis",
+   "crop": [
+    180,
+    10,
+    1800,
+    106
+   ],
+   "entry": [
+    195,
+    33,
+    1790,
+    75
+   ],
+   "marks": [
+    {
+     "box": [
+      203,
+      38,
+      332,
+      74
+     ],
+     "lat": "24. Martii",
+     "cs": "24. března (1821)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      498,
+      38,
+      527,
+      74
+     ],
+     "lat": "39.",
+     "cs": "dům č. 39",
+     "pos": "top"
+    },
+    {
+     "box": [
+      525,
+      36,
+      979,
+      74
+     ],
+     "lat": "Katharina … Jana Masla, Sedlaka z Nižsrbsky",
+     "cs": "Kateřina, manželka Jana Másla, sedláka z Nízké Srbské",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1000,
+      31,
+      1414,
+      64
+     ],
+     "lat": "… ausgefolgt am 7ten März 1839",
+     "cs": "pozdější přípis: (úmrtní list) vydán 7. března 1839"
+    },
+    {
+     "box": [
+      1316,
+      36,
+      1344,
+      67
+     ],
+     "lat": "60",
+     "cs": "60 let",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1463,
+      33,
+      1567,
+      67
+     ],
+     "lat": "Na Ubitj",
+     "cs": "snad „na úbytě“ (tuberkulóza) – výklad nejistý",
+     "nejiste": true,
+     "pos": "top"
+    }
+   ],
+   "plyne": "Kateřina zemřela osm měsíců před Janovou druhou svatbou. Úmrtní list byl vydán v roce 1839, nejspíš kvůli dědickému řízení.",
+   "src": "img/zdroje/96-14_s094_velky.jpg"
+  },
+  {
+   "key": "96-13|6",
+   "title": "Sňatek Johanna Másla s vdovou Rosinou – Nízká Srbská č. 9, 22. dubna 1788 (kandidát)",
+   "zdroj": "SOA Zámrsk, sign. 96-13, snímek 6",
+   "crop": [
+    230,
+    30,
+    1950,
+    210
+   ],
+   "entry": [
+    245,
+    45,
+    1940,
+    195
+   ],
+   "marks": [
+    {
+     "box": [
+      260,
+      48,
+      377,
+      97
+     ],
+     "lat": "Den 22",
+     "cs": "dne 22. (dubna 1788)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      445,
+      108,
+      474,
+      152
+     ],
+     "lat": "9.",
+     "cs": "dům č. 9",
+     "pos": "top"
+    },
+    {
+     "box": [
+      492,
+      83,
+      637,
+      192
+     ],
+     "lat": "Johann Maslo Bauer",
+     "cs": "ženich Johann Máslo, sedlák",
+     "pos": "top"
+    },
+    {
+     "box": [
+      839,
+      123,
+      897,
+      180
+     ],
+     "lat": "29.",
+     "cs": "ženichovi 29 let"
+    },
+    {
+     "box": [
+      1068,
+      103,
+      1214,
+      192
+     ],
+     "lat": "Rosina …",
+     "cs": "nevěsta Rosina (příjmení se čte nejistě)",
+     "nejiste": true
+    },
+    {
+     "box": [
+      1398,
+      123,
+      1438,
+      177
+     ],
+     "lat": "35",
+     "cs": "nevěstě 35 let"
+    },
+    {
+     "box": [
+      1548,
+      120,
+      1582,
+      180
+     ],
+     "lat": "1",
+     "cs": "čárka ve sloupci vdova"
+    }
+   ],
+   "plyne": "Devětadvacetiletý Johann Máslo si vzal o šest let starší vdovu Rosinu. Zda je to tentýž Jan Máslo z č. 39, zatím nevím jistě.",
+   "src": "img/zdroje/96-13_s006_velky.jpg"
   }
  ]
 }
