@@ -2597,6 +2597,15 @@
    "velky": "img/zdroje/171-10_s024_velky.jpg",
    "vyrez_soubor": "s024-index-narozenych-lit-B-1753-1796-Bek-vice-Ignazu-1753-1761.jpg"
   },
+  "171-10|31": {
+   "signatura": "171-10",
+   "snimek": 31,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/99630e87-b1e2-4ff1-bca5-b8e3de72419d/dao/99630e87-b1e2-4ff1-bca5-b8e3de72419d/file/f0a48b82-a05a-4643-94be-0047787f24ea",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-10_s031.jpg",
+   "velky": "img/zdroje/171-10_s031_velky.jpg",
+   "vyrez_soubor": "s031-index-narozenych-S-1760-1766-Seiberth-Seifarth-Anna-10-12-1761.jpg"
+  },
   "171-10|39": {
    "signatura": "171-10",
    "snimek": 39,
@@ -2723,6 +2732,15 @@
    "velky": "img/zdroje/171-2_s026_velky.jpg",
    "vyrez_soubor": "s026-narozeni-Maly-Uhrinov-31-7-1761-Ignatius-syn-Josepha-Becka-a-Ludmily-kmotr-Franz-zahradnik-Benatky.jpg"
   },
+  "171-2|27": {
+   "signatura": "171-2",
+   "snimek": 27,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922/dao/ae8057d2-4543-4429-836f-2da5eee0f922/file/afcd7197-1492-4664-9ba2-25452d0b4927",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-2_s027.jpg",
+   "velky": "img/zdroje/171-2_s027_velky.jpg",
+   "vyrez_soubor": "s027-krest-10-12-1761-Gissaus-Tisovec-Anna-Catharina-dcera-Josepha-Seifferta-zahradnika-a-Evy-Rosiny.jpg"
+  },
   "171-2|28": {
    "signatura": "171-2",
    "snimek": 28,
@@ -2786,6 +2804,15 @@
    "velky": "img/zdroje/171-3_s079_velky.jpg",
    "vyrez_soubor": "s079-narozeni-Benatky-1788-1790-posmrtny-Andreas-Pross-2-3-1788-c6-a-Neugebauer-x-Katharina-c6-kmotr-Anton-Pross-sedlak-Liberk.jpg"
   },
+  "171-4|12": {
+   "signatura": "171-4",
+   "snimek": 12,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/917979c4-1830-4d14-b063-7753fc188b14/dao/917979c4-1830-4d14-b063-7753fc188b14/file/2c5cd819-4e89-4be7-bd8b-6185da51d6ed",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-4_s012.jpg",
+   "velky": "img/zdroje/171-4_s012_velky.jpg",
+   "vyrez_soubor": "s012-narozeni-1814-Benatky4-Margaretha-Peibrt-matka-Agatha-opraveno-z-Gertrudy-dcera-Ignaze-Beka-babicka-Katharina-dcera-Josepha-Seiberta-Gissaus.jpg"
+  },
   "171-4|15": {
    "signatura": "171-4",
    "snimek": 15,
@@ -2794,6 +2821,15 @@
    "nahled": "img/zdroje/171-4_s015.jpg",
    "velky": "img/zdroje/171-4_s015_velky.jpg",
    "vyrez_soubor": "s015-narozeni-16-4-1828-Benatky6-Anton-Pross-otec-Josef-Pross-zahradnik-matka-Agatha-krestni-list-1858.jpg"
+  },
+  "171-4|24": {
+   "signatura": "171-4",
+   "snimek": 24,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/917979c4-1830-4d14-b063-7753fc188b14/dao/917979c4-1830-4d14-b063-7753fc188b14/file/8d36a9bc-becf-4685-ae35-e7edf9e916ba",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-4_s024.jpg",
+   "velky": "img/zdroje/171-4_s024_velky.jpg",
+   "vyrez_soubor": "s024-umrti-1800-1801-Benatky3-Christoph-Pross-syn-Franz-Joseph-Katharina-Prossova-horecky.jpg"
   },
   "171-4|25": {
    "signatura": "171-4",

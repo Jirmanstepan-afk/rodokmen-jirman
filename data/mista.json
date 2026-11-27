@@ -877,6 +877,27 @@
         "url": "https://www.openstreetmap.org/node/3120933210"
       },
       "note": "Fara Velký Uhřínov (matrika 171-4 Benátky NOZ 1784–1850); německy Benatek."
+    },
+    {
+      "id": "tisovec",
+      "name": "Tisovec",
+      "aliases": [
+        "Tisovec",
+        "Tisovec (Gießaus)",
+        "Gießaus",
+        "Giesshaus",
+        "Gießhaus"
+      ],
+      "type": "část obce Liberk (Uhřínov)",
+      "admin": "okres Rychnov nad Kněžnou",
+      "country": "CZ",
+      "lat": 50.26367,
+      "lon": 16.3435,
+      "source": {
+        "label": "OpenStreetMap, uzel 358070051 (Nominatim)",
+        "url": "https://www.openstreetmap.org/node/358070051"
+      },
+      "note": "V matrikách farnosti Velký Uhřínov „Gießaus“; v 18. století ves panství Solnice."
     }
   ],
   "unplaced_rules": [
