@@ -9685,12 +9685,36 @@
           "signatura": "CDIAL-618-2-3036",
           "detail": "f. 618 op. 2 spr. 3036, snímek 33, č. 1, dům 42",
           "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/230351#file-850752"
+        },
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Świrz 1891 (kopie), Pagus Kimirz et Ostałowice – křest Jana 9./10. 2. 1891",
+          "signatura": "CDIAL-618-2-2567",
+          "detail": "f. 618 op. 2 spr. 2567, snímek 29 (dvojstrana, pravá strana), č. 4, dům 119",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/229882#file-737303"
+        },
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Świrz 1900 (kopie), Kimirz – křest Ferdinanda 28./29. 11. 1900",
+          "signatura": "CDIAL-618-2-2567",
+          "detail": "f. 618 op. 2 spr. 2567, snímek 197 (dvojstrana, pravá strana, pag. 23), č. 25, dům 119",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/229882#file-737475"
+        },
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika narozených Kimirz 1907 – křest Rudolfa 7./8. 9. 1907",
+          "signatura": "CDIAL-618-2-3709",
+          "detail": "f. 618 op. 2 spr. 3709, snímek 5 (pag. 7), č. 11, dům 119",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/231024#file-1821697"
+        },
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika narozených Kimirz 1910 – křest Martina 25./27. 4. 1910",
+          "signatura": "CDIAL-618-2-3709",
+          "detail": "f. 618 op. 2 spr. 3709, snímek 10 (pag. 17), č. 7, dům 119",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/231024#file-1821724"
         }
       ],
       "notes": [
         "Syn Mathiase (Macieje) Spadta a Anny Trefler (oddací zápis 1890, křest syna Petra 1904). Kolonista v Kimirzi, dům č. 119.",
-        "Ženatý od 1. 7. 1890 s Elisabeth Leicht; doložení synové: Jan (sňatek 1919), Adam (*23. 4. 1898), Petr (*14. 4. 1904), Martin ml. (sňatek 1934); Ferdinand (*1900) podle Geneteky.",
-        "V oddacích zápisech synů 1919, 1921 a 1934 je u jeho jména zkratka „p. d.“ (pie defunctus = zesnulý). Zemřel tedy zřejmě před 19. 5. 1919; úmrtní zápis zatím nenalezen, proto datum úmrtí do stromu nedávám (viz q-spadt-puvod)."
+        "Ženatý od 1. 7. 1890 s Elisabeth Leicht; doložených šest synů: Jan (*1891), Adam (*1898), Ferdinand (*1900), Petr (*1904), Rudolf (*1907) a Martin ml. (*1910).",
+        "V oddacích zápisech synů 1919, 1921 a 1934 je u jeho jména zkratka „p. d.“ (pie defunctus = zesnulý). Ještě 25. 4. 1910 je uveden jako otec Martina ml. Zemřel tedy mezi 1910 a 19. 5. 1919. Úmrtní zápis nenalezen: úmrtní matrika Świrz 1883–1920 (CDIAL 618/2/2678) zachycuje jen Świrz, Chlebowice a Kopań, nikoli Kimirz. Datum úmrtí proto do stromu nedávám (viz q-spadt-puvod)."
       ],
       "interesting": [
         "Oženil se s vdovou po Georgu Spadtovi. Sňatek vyžadoval dispens arcibiskupské konzistoře ve Lvově „super impedimento affinitatis in gradu collaterali primo“ – švagrovství 1. stupně v pobočné linii, tedy Elisabeth byla vdovou po Martinově bratrovi (Grzegorz/Georg Spadt, syn Macieje, *1863 podle Geneteky).",
@@ -9742,12 +9766,37 @@
           "signatura": "CDIAL-618-2-3036",
           "detail": "f. 618 op. 2 spr. 3036, snímek 33, č. 1, dům 42",
           "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/230351#file-850752"
+        },
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Świrz 1891 (kopie), Pagus Kimirz et Ostałowice – křest Jana 9./10. 2. 1891",
+          "signatura": "CDIAL-618-2-2567",
+          "detail": "f. 618 op. 2 spr. 2567, snímek 29 (dvojstrana, pravá strana), č. 4, dům 119",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/229882#file-737303"
+        },
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Świrz 1900 (kopie), Kimirz – křest Ferdinanda 28./29. 11. 1900",
+          "signatura": "CDIAL-618-2-2567",
+          "detail": "f. 618 op. 2 spr. 2567, snímek 197 (dvojstrana, pravá strana, pag. 23), č. 25, dům 119",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/229882#file-737475"
+        },
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika narozených Kimirz 1907 – křest Rudolfa 7./8. 9. 1907",
+          "signatura": "CDIAL-618-2-3709",
+          "detail": "f. 618 op. 2 spr. 3709, snímek 5 (pag. 7), č. 11, dům 119",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/231024#file-1821697"
+        },
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika narozených Kimirz 1910 – křest Martina 25./27. 4. 1910",
+          "signatura": "CDIAL-618-2-3709",
+          "detail": "f. 618 op. 2 spr. 3709, snímek 10 (pag. 17), č. 7, dům 119",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/231024#file-1821724"
         }
       ],
       "notes": [
         "Matka Petra Spadta podle křtů vnuků 1931 a 1935 a podle Petrova křtu 1904.",
         "Dcera Adama Leichta a Cathariny Semmer z Kimirze (oddací zápis 1890, křest syna Petra 1904).",
-        "Při sňatku s Martinem 1. 7. 1890 byla vdovou „post Georgium Spadt“ – jejím prvním mužem byl Georg Spadt, Martinův bratr (dispens ze švagrovství 1. stupně)."
+        "Při sňatku s Martinem 1. 7. 1890 byla vdovou „post Georgium Spadt“ – jejím prvním mužem byl Georg Spadt, Martinův bratr (dispens ze švagrovství 1. stupně).",
+        "Matka šesti synů narozených 1891–1910 v Kimirzi č. 119. Její matka je v zápisech jednou Catharina Semmer (1890, 1891, 1904, 1910), jindy Agatha Semmer (1900, 1907)."
       ],
       "interesting": [
         "Vdala se dvakrát do téže rodiny: nejprve za Georga Spadta, po jeho smrti za jeho bratra Martina – s církevním dispensem ze Lvova."
@@ -9783,7 +9832,8 @@
         }
       ],
       "notes": [
-        "Otec Marie Miśków podle křtů vnuků 1931 a 1935 („fil. Bartholomaei et Catharinae“)."
+        "Otec Marie Miśków podle křtů vnuků 1931 a 1935 („fil. Bartholomaei et Catharinae“).",
+        "Pravděpodobně tatáž osoba (shoda jmen manželů i obce): 15. 2. 1911 je v Meryszczówě kmotrou Stanislava Szlachetka „Catharina Miśków uxor Bartholomaei mercenarii“ (CDIAL 618/2/2696, snímek 22). Bartoloměj by tedy byl nádeník (mercenarius). Viz q-spadt-puvod."
       ],
       "interesting": [],
       "id": "bartholomaeus-miskow",
@@ -9817,7 +9867,8 @@
         }
       ],
       "notes": [
-        "Matka Marie Miśków podle křtů vnuků 1931 a 1935; rodné příjmení v obou zápisech čteno nejistě."
+        "Matka Marie Miśków podle křtů vnuků 1931 a 1935; rodné příjmení v obou zápisech čteno nejistě.",
+        "Pravděpodobně tatáž osoba (shoda jmen manželů i obce): 15. 2. 1911 je v Meryszczówě kmotrou Stanislava Szlachetka „Catharina Miśków uxor Bartholomaei mercenarii“ (CDIAL 618/2/2696, snímek 22). Bartoloměj by tedy byl nádeník (mercenarius). Viz q-spadt-puvod."
       ],
       "interesting": [],
       "id": "catharina-miskowa",
@@ -9972,10 +10023,19 @@
       "name": "Jan Spadt",
       "maiden": null,
       "birth": {
-        "display": "asi 1890 (29 let při sňatku 1919)",
-        "precision": "circa"
+        "display": "9. 2. 1891, Kimirz (Кимир) č. 119",
+        "date": "1891-02-09",
+        "precision": "exact",
+        "place": "Kimirz (farnost Świrz)",
+        "note": "Křestní zápis CDIAL 618/2/2567, snímek 29: „Joannes“, otec Martinus Spadt, colonista, matka Elisabetha Leicht."
       },
-      "baptism": null,
+      "baptism": {
+        "display": "10. 2. 1891, ř.-kat. farnost Świrz",
+        "date": "1891-02-10",
+        "precision": "exact",
+        "place": "Kimirz (farnost Świrz)",
+        "note": "Kmotři Joannes Treffler a Elisabetha Spadt, manželka kolonisty Adama; porodní bába Catharina Grün; křtil Josephus Nawrocki."
+      },
       "death": null,
       "occupation": "Rolník (agricola)",
       "places": [
@@ -9985,6 +10045,12 @@
       "certainty": "potvrzeno",
       "living": false,
       "sources": [
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Świrz 1891 (kopie), Pagus Kimirz et Ostałowice – křest Jana 9./10. 2. 1891",
+          "signatura": "CDIAL-618-2-2567",
+          "detail": "f. 618 op. 2 spr. 2567, snímek 29 (dvojstrana, pravá strana), č. 4, dům 119",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/229882#file-737303"
+        },
         {
           "label": "ЦДІАЛ Lvov, ř.-kat. matrika Świrz 1919, Kimirz – sňatek Jana Spadta 19. 5. 1919",
           "signatura": "CDIAL-618-2-2705",
@@ -10000,9 +10066,11 @@
       ],
       "notes": [
         "Syn Martina Spadta a Elisabeth Leicht, rolník v Kimirzi. 19. 5. 1919 se oženil s Agnes Treffler (36 let), vdovou po Andreasovi (CDIAL 618/2/2705, snímek 238).",
-        "Věk 29 let v květnu 1919 by ukazoval na narození 1889/1890, tedy kolem sňatku rodičů 1. 7. 1890 (věk v zápisech bývá přibližný). Svědek na svatbě bratra Martina 1934."
+        "Narodil se 9. 2. 1891, sedm měsíců po svatbě rodičů 1. 7. 1890 (CDIAL 618/2/2567, snímek 29). Věk 29 let při sňatku v květnu 1919 tomu odpovídá. Svědek na svatbě bratra Martina 1934."
       ],
-      "interesting": [],
+      "interesting": [
+        "Narodil se 9. 2. 1891, sedm měsíců po svatbě rodičů 1. 7. 1890."
+      ],
       "aliases": [
         "Joannes Spadt"
       ]
@@ -10042,14 +10110,115 @@
       "aliases": []
     },
     {
+      "id": "ferdinand-spadt-1900",
+      "name": "Ferdinand Spadt",
+      "maiden": null,
+      "birth": {
+        "display": "28. 11. 1900, Kimirz (Кимир) č. 119",
+        "date": "1900-11-28",
+        "precision": "exact",
+        "place": "Kimirz (farnost Świrz)",
+        "note": "Křestní zápis CDIAL 618/2/2567, snímek 197: „Ferdinandus“, otec Martinus Szpadt, matka Elisabetha Leicht."
+      },
+      "baptism": {
+        "display": "29. 11. 1900, ř.-kat. farnost Świrz",
+        "date": "1900-11-29",
+        "precision": "exact",
+        "place": "Kimirz (farnost Świrz)",
+        "note": "Kmotři Ferdinandus Grün a Anna Semmer, manželka Petra, rolníci; porodní bába Catharina Rauch; křtil „qui supra“."
+      },
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Kimirz (farnost Świrz)",
+        "Mereščev (Meryszczów)"
+      ],
+      "branch": "spadt",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Świrz 1900 (kopie), Kimirz – křest Ferdinanda 28./29. 11. 1900",
+          "signatura": "CDIAL-618-2-2567",
+          "detail": "f. 618 op. 2 spr. 2567, snímek 197 (dvojstrana, pravá strana, pag. 23), č. 25, dům 119",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/229882#file-737475"
+        }
+      ],
+      "notes": [
+        "Syn Martina Spadta a Elisabeth Leicht (křest 1900). V křestním zápise jsou babičky uvedeny jako „Elisabetha Trefler“ a „Agatha Semmer“, kdežto v zápisech 1890, 1891, 1904 a 1910 jako Anna Trefler a Catharina Semmer; v zápise Rudolfa 1907 je zase „Agatha Semer“. Jména babiček se v zápisech liší.",
+        "Podle kola BM žil v Meryszczówě, kde se mu v letech 1930 a 1931 narodili synové (zápis 1930 ho uvádí jako syna Martina a Elisabeth Leicht)."
+      ],
+      "interesting": [
+        "Jmenuje se po kmotrovi Ferdinandu Grünovi, který o deset let později šel za kmotra i nejmladšímu bratrovi Martinovi."
+      ],
+      "aliases": [
+        "Ferdinandus Szpadt",
+        "Ferdinand Szpadt"
+      ]
+    },
+    {
+      "id": "rudolf-spadt-1907",
+      "name": "Rudolf Spadt",
+      "maiden": null,
+      "birth": {
+        "display": "7. 9. 1907, Kimirz (Кимир) č. 119",
+        "date": "1907-09-07",
+        "precision": "exact",
+        "place": "Kimirz (farnost Świrz)",
+        "note": "Křestní zápis CDIAL 618/2/3709, snímek 5: „Rudolphus“, otec Martinus Spadt, agricola, matka Elisabetha Leicht."
+      },
+      "baptism": {
+        "display": "8. 9. 1907, Kimirz",
+        "date": "1907-09-08",
+        "precision": "exact",
+        "place": "Kimirz (farnost Świrz)",
+        "note": "Kmotři Joannes Leicht, rolník, a Barbara Ro…ska (?), manželka Andrease; porodní bába Anna Marmulak (?); křtil Andreas Oberc, kooperátor."
+      },
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Kimirz (farnost Świrz)"
+      ],
+      "branch": "spadt",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika narozených Kimirz 1907 – křest Rudolfa 7./8. 9. 1907",
+          "signatura": "CDIAL-618-2-3709",
+          "detail": "f. 618 op. 2 spr. 3709, snímek 5 (pag. 7), č. 11, dům 119",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/231024#file-1821697"
+        }
+      ],
+      "notes": [
+        "Syn Martina Spadta a Elisabeth Leicht (křest 1907). Dosud neznámý bratr Petra Spadta.",
+        "Na okraji křestního zápisu je pozdější poznámka modrým inkoustem o sňatku: „Matrimonium iniit cum Maria Smyk (?) Leopoli in Eccl. S. Mariae Magdalenae 7. 3. 1932“. Příjmení nevěsty a den jsou čteny s otazníkem, proto sňatek do stromu nedávám."
+      ],
+      "interesting": [
+        "Podle poznámky na okraji křestního zápisu se oženil ve Lvově, v kostele sv. Máří Magdalény (1932). Je to první doklad, že někdo z kimirzských Spadtů odešel do velkého města."
+      ],
+      "aliases": [
+        "Rudolphus Spadt"
+      ]
+    },
+    {
       "id": "martin-spadt-1910",
       "name": "Martin Spadt ml.",
       "maiden": null,
       "birth": {
-        "display": "asi 1910 (24 let při sňatku 1934)",
-        "precision": "circa"
+        "display": "25. 4. 1910, Kimirz (Кимир) č. 119",
+        "date": "1910-04-25",
+        "precision": "exact",
+        "place": "Kimirz (farnost Świrz)",
+        "note": "Křestní zápis CDIAL 618/2/3709, snímek 10: „Marthinus“, otec Marthinus Spadt, agricola, matka Elisabeth Leicht."
       },
-      "baptism": null,
+      "baptism": {
+        "display": "27. 4. 1910, Kimirz",
+        "date": "1910-04-27",
+        "precision": "exact",
+        "place": "Kimirz (farnost Świrz)",
+        "note": "Kmotři Ferdinandus Grün, rolník, a Elisabeth Spadt, manželka rolníka Adama; porodní bába Catharina Wagner; křtil Franciscus Batut (?), kooperátor."
+      },
       "death": null,
       "occupation": "Rolník (agricola)",
       "places": [
@@ -10059,6 +10228,12 @@
       "certainty": "potvrzeno",
       "living": false,
       "sources": [
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika narozených Kimirz 1910 – křest Martina 25./27. 4. 1910",
+          "signatura": "CDIAL-618-2-3709",
+          "detail": "f. 618 op. 2 spr. 3709, snímek 10 (pag. 17), č. 7, dům 119",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/231024#file-1821724"
+        },
         {
           "label": "ЦДІАЛ Lvov, ř.-kat. matrika Świrz 1934, Kimirz – sňatek Martina Spadta ml. 20. 11. 1934",
           "signatura": "CDIAL-618-2-3104",
@@ -13255,6 +13430,12 @@
       "certainty": "potvrzeno",
       "sources": [
         {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Przemyślany 1929, Meryszczów – křest Františka Szlachetka 30. 8./1. 9. 1929 (kmotra „Maria Spadt ux. Petri“)",
+          "signatura": "CDIAL-618-2-2697",
+          "detail": "f. 618 op. 2 spr. 2697, snímek 331 (pag. 16), č. 2",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/230012#file-765816"
+        },
+        {
           "label": "ЦДІАЛ Lvov, ř.-kat. matrika Przemyślany 1931, Meryszczów – křest 9./14. 6. 1931",
           "signatura": "CDIAL-618-2-3830",
           "detail": "f. 618 op. 2 spr. 3830, snímek 10 (pag. 17), č. 3, dům 42",
@@ -13277,8 +13458,8 @@
         }
       ],
       "notes": [
-        "Manželství doloženo zápisy 1931 (křest Tadeje), 1934 (úmrtí Petra, „maritus Mariae Miśków“) a 1935 (křest Ludvíka). Oddací zápis nenalezen – v ř.-kat. sňatcích Meryszczówa 1929 a 1930 (Przemyślany, CDIAL 618/2/2697) není.",
-        "Kateřina je dcerou podle rodinné paměti; její křest zatím nenalezen."
+        "Manželství doloženo zápisy 1929 (Maria jako kmotra „Maria Spadt ux. Petri“, 1. 9. 1929), 1931 (křest Tadeje), 1934 (úmrtí Petra, „maritus Mariae Miśków“) a 1935 (křest Ludvíka). Oddací zápis nenalezen: není v ř.-kat. sňatcích Meryszczówa (Przemyślany) 1926–1930 ani v Kimirzi 1926–1932. Svatba tedy proběhla před 1. 9. 1929.",
+        "Kateřina je dcerou podle rodinné paměti. Její křest není v ř.-kat. křtech Meryszczówa 1921–1929 (Przemyślany, CDIAL 618/2/2697)."
       ]
     },
     {
@@ -13331,7 +13512,9 @@
       "children": [
         "jan-spadt-1890",
         "adam-spadt-1898",
+        "ferdinand-spadt-1900",
         "petr-spadt",
+        "rudolf-spadt-1907",
         "martin-spadt-1910"
       ],
       "certainty": "potvrzeno",
@@ -13377,6 +13560,30 @@
           "signatura": "CDIAL-618-2-3036",
           "detail": "f. 618 op. 2 spr. 3036, snímek 33, č. 1, dům 42",
           "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/230351#file-850752"
+        },
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Świrz 1891 (kopie), Pagus Kimirz et Ostałowice – křest Jana 9./10. 2. 1891",
+          "signatura": "CDIAL-618-2-2567",
+          "detail": "f. 618 op. 2 spr. 2567, snímek 29 (dvojstrana, pravá strana), č. 4, dům 119",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/229882#file-737303"
+        },
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika Świrz 1900 (kopie), Kimirz – křest Ferdinanda 28./29. 11. 1900",
+          "signatura": "CDIAL-618-2-2567",
+          "detail": "f. 618 op. 2 spr. 2567, snímek 197 (dvojstrana, pravá strana, pag. 23), č. 25, dům 119",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/229882#file-737475"
+        },
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika narozených Kimirz 1907 – křest Rudolfa 7./8. 9. 1907",
+          "signatura": "CDIAL-618-2-3709",
+          "detail": "f. 618 op. 2 spr. 3709, snímek 5 (pag. 7), č. 11, dům 119",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/231024#file-1821697"
+        },
+        {
+          "label": "ЦДІАЛ Lvov, ř.-kat. matrika narozených Kimirz 1910 – křest Martina 25./27. 4. 1910",
+          "signatura": "CDIAL-618-2-3709",
+          "detail": "f. 618 op. 2 spr. 3709, snímek 10 (pag. 17), č. 7, dům 119",
+          "apu": "https://archium.tsdial.archives.gov.ua/file-viewer/231024#file-1821724"
         }
       ],
       "married": {
@@ -13387,7 +13594,7 @@
         "note": "Ženich 24 let, švec, dům č. 119; nevěsta 24 let, vdova po Georgu Spadtovi; svědci Mathias Herrnung (?) a Adamus Spadt, kolonisté; dispens ze švagrovství 1. stupně (Lvov, ř.-lat. ordinariát, č. 2198)."
       },
       "notes": [
-        "Ferdinand Spadt (*28. 11. 1900 podle Geneteky) je pravděpodobně také jejich syn, ale snímkem zatím neověřen – proto ho mezi děti nezařazuji."
+        "Šest doložených synů: Jan (*9. 2. 1891), Adam (*23. 4. 1898), Ferdinand (*28. 11. 1900), Petr (*14. 4. 1904), Rudolf (*7. 9. 1907) a Martin ml. (*25. 4. 1910). Všichni se narodili v domě č. 119 v Kimirzi."
       ]
     },
     {
@@ -15561,7 +15768,7 @@
       "id": "q-spadt-puvod",
       "title": "Špadtovi z Meryszczówa: sňatek Petra a Marie, Kateřina, původ v Kimirzu a cesta do Československa",
       "summary": "VYŘEŠENO kolo BL: Tadej pokřtěn 14. 6. 1931 (nar. 9. 6.), Meryszczów č. 42, ř.-kat. farnost Przemyślany; otec Petr Spadt, švec, syn Martina a Elisabeth Leicht; matka Maria Miśków. Petr † 2. 11. 1934 (30 let, TBC); Ludvík * 3. 2. 1935 (ne 1936). Otevřené: sňatek Petr × Maria, Kateřina, ověření Petrova křtu 1904 (Kimirz), cesta do ČSR.",
-      "details": "Kolo BK (27. 11. 2026). Geneteka (Ukrajina, příjmení Spadt/Szpadt): narození Kimirz/Świrz – Ferdynand 28. 11. 1900, Piotr 14. 4. 1904 (rodiče Marcin Spadt × Elżbieta Leicht); sňatky Jan 1919 (akt 8, × Agnieszka Treffler), Adam 1921 (akt 5, × Maria Treffler), Marcin 1934 (akt 7, × Anna Spadt). Rodinná paměť: Petr měl 3 bratry – sedí na Piotra 1904 (Ferdynand, Jan, Adam, Marcin = 4 jména, ale ne všichni museli žít). Rozpor: Piotr *1904 nemohl být v 1. světové válce v zajetí; zajetí se může týkat otce Marcina nebo jde o válku polsko-sovětskou 1920. Miśkiewicz: v Geneteka v okolních farnostech bez nálezu. Prameny: ЦДІАЛ Lvov fond 618 op. 2 (ř.-kat.): sprava 3103 (Świrz 1901–1913), 3104 (Świrz 1925–1937), 3154 (sňatky Kimirz/Niedzieliska 1895–1939), 3203 (sňatky Świrz 1928–1940); Niedzieliska (Неділиська) přímo sousedí s Meryszczówem. Řeckokatolické matriky Meryszczów: viz oprava v kole BL (uaroots.com.ua/misce/lvivska/mereshchiv-27327; archium.tsdial.archives.gov.ua). Polské lhůty: narození 100 let, sňatky a úmrtí 80 let. Otevřené: (a) ř.-kat. farnost Meryszczówa 1931 (Przemyślany?/Świrz?) a křest Tadeje 9. 6. 1931; (b) kdy a jak rodina přišla do ČSR – reemigrace 1946–47? Galicijští Němci byli 1940 přesídleni do Warthegau (Umsiedlung), Spadtovi jako Němci by mohli jít touto cestou – domněnka; druhý sňatek Marie s Chaloupkou (české příjmení) ukazuje spíš na reemigraci s Čechy – domněnka; (c) ověřit u MÚ Broumov úmrtní list Tadeje 2014 (uvádí rodiště a rodiče). | Kolo BL (27. 11. 2026): OPRAVA kola BK – fond 201 op. 4a spr. 6886/7633 (narození 1866–1932) patří obci Мервичі, ne Meryszczówu. Řeckokatolické narození Meryszczów + Ostałowice 1873–1941 = 201/4a/8800 (NEdigitalizováno); digitalizované jsou jen kopie 1785–1877 (3809–3815, 568). Meryszczów byl gr.-kat. filiálkou Ostałowic. Římskokatolicky patřil do 1932 k farnosti Przemyślany (618/2/2697 1921–1930; 618/2/3830 1931–1942, kopie), od 1933 k nové farnosti Wołków/Вовків (618/2/3036, kopie 1933–1936). Nálezy: 3830 snímek 10 (pag. 17) křest Thaddeus Franciscus 9./14. 6. 1931, dům 42; 3036 snímek 29 úmrtí Petrus Spadt 2./4. 11. 1934, dům 42, 30 let, gruźlica; 3036 snímek 33 křest Ludovicus 3./20. 2. 1935, dům 42, otec †. Ferdinand Spadt (bratr Petra) v Meryszczówě: Romanus 1930 (2697 snímek 389), Ladislaus 2. 10. 1931 (3830 snímek 10). Meryszczów křty: 1932 „hoc anno nihil“ (3830 snímek 35), 1933 a 1934 bez Spadtů, 1936 jen 2 křty bez Spadtů (3036 snímek 44); úmrtí 1936 jen Stanisław Jurowiecki. Sňatky Meryszczów 1929 (2697 snímky 360–361) a 1930 (snímek 414) bez Spadta. Další kroky: (a) sňatek ~1928–1930 – Przemyślany 2697 dřívější roky, Świrz 618/2/3104 (1925–1937, digitalizováno, Geneteka indexovala jen část) nebo gr.-kat. Ostałowice (nedigitalizováno); (b) Petrův křest 14. 4. 1904 – Świrz 618/2/3103 (digitalizováno, https://archium.tsdial.archives.gov.ua/files/230418/); (c) Kateřina – křty před 1929 nebo gr.-kat.; (d) Wołków po 1936 a Przemyślany 1939–1942 (3830) pro sňatek vdovy Marie s Chaloupkou; (e) proč opis Tadejova křtu 26. 5. 1967. Kolo BM (27. 11. 2026): Petrův křest ověřen – Kimirz č. 119, nar. 14. 4., křest 15. 4. 1904 (618/2/3103 snímek 115, pag. 18, č. 9); otec Martinus Spadt, ligni faber, syn Mathiase a Anny Trefler; matka Elisabetha Leicht, dcera Adama a Cathariny Semmer. Sňatek rodičů 1. 7. 1890 v sekci „Pagus Kimirz et Ostałowice“ kopie Świrz 1890 (618/2/2567 snímek 7): Martinus Spadt, 24, sutor, č. 119 × Elisabetha Leicht, 24, vdova po Georgu Spadtovi; dispens ze švagrovství 1. stupně pobočné linie (Lvov, č. 2198, datum čteno 24. 6. 1889?). V Kimirském oddacím rejstříku 618/2/3154 (1895–1902) ani v 618/2/2676 (Świrz bez Kimirze) sňatek není. Sourozenci doloženi oddacími zápisy: Jan 19. 5. 1919 × Agnes Treffler, vd. (2705 snímek 238), Adam *23. 4. 1898 × Maria Treffler roz. Spadt 13. 9. 1921 (2705 snímek 301), Martin ml. 24 let × Anna Spadt 20. 11. 1934 (3104 snímek 428). Ve všech třech je otec Martin označen „p. d.“ (zesnulý) → zemřel zřejmě před 19. 5. 1919; úmrtní zápis nenalezen (kandidát: Świrz úmrtí 618/2/2678, 1883–1920, digitalizováno). Sňatek Petr × Maria Miśków: negativně – Kimirz 3154 roky 1926–1932 (snímky 63–77) a Przemyślany 2697 sekce Meryszczów 1926 (snímek 232), 1927 (262), 1928 (302), 1929 a 1930 (dříve). Zbývá: ř.-k. Przemyślany 1931 (3830, sňatky 1931 – Tadej se narodil 9. 6. 1931) a gr.-kat. Ostałowice (nedigitalizováno). Kateřina: v ř.-k. křtech Meryszczów 1930–1936 není; roky 1921–1929 (2697) jsem v tomto kole neprošel celé. Druhý sňatek Marie s Chaloupkou: Meryszczów patřil od 1933 k Wołkówu, jehož knihy po 1936 nejsou online; 3830 (Przemyślany 1939–1942) Meryszczów neobsahuje. Verlustlisten (ANNO, plný text): pro „Spadt“ jediný záznam (Michael, IR 76, Uhry – jiný člověk); pro „Kimirz“ asi 30 vojáků (IR 55, k. k. LstIR 19, IR 24), nikdo jménem Spadt – OCR ale může jméno komolit.",
+      "details": "Kolo BK (27. 11. 2026). Geneteka (Ukrajina, příjmení Spadt/Szpadt): narození Kimirz/Świrz – Ferdynand 28. 11. 1900, Piotr 14. 4. 1904 (rodiče Marcin Spadt × Elżbieta Leicht); sňatky Jan 1919 (akt 8, × Agnieszka Treffler), Adam 1921 (akt 5, × Maria Treffler), Marcin 1934 (akt 7, × Anna Spadt). Rodinná paměť: Petr měl 3 bratry – sedí na Piotra 1904 (Ferdynand, Jan, Adam, Marcin = 4 jména, ale ne všichni museli žít). Rozpor: Piotr *1904 nemohl být v 1. světové válce v zajetí; zajetí se může týkat otce Marcina nebo jde o válku polsko-sovětskou 1920. Miśkiewicz: v Geneteka v okolních farnostech bez nálezu. Prameny: ЦДІАЛ Lvov fond 618 op. 2 (ř.-kat.): sprava 3103 (Świrz 1901–1913), 3104 (Świrz 1925–1937), 3154 (sňatky Kimirz/Niedzieliska 1895–1939), 3203 (sňatky Świrz 1928–1940); Niedzieliska (Неділиська) přímo sousedí s Meryszczówem. Řeckokatolické matriky Meryszczów: viz oprava v kole BL (uaroots.com.ua/misce/lvivska/mereshchiv-27327; archium.tsdial.archives.gov.ua). Polské lhůty: narození 100 let, sňatky a úmrtí 80 let. Otevřené: (a) ř.-kat. farnost Meryszczówa 1931 (Przemyślany?/Świrz?) a křest Tadeje 9. 6. 1931; (b) kdy a jak rodina přišla do ČSR – reemigrace 1946–47? Galicijští Němci byli 1940 přesídleni do Warthegau (Umsiedlung), Spadtovi jako Němci by mohli jít touto cestou – domněnka; druhý sňatek Marie s Chaloupkou (české příjmení) ukazuje spíš na reemigraci s Čechy – domněnka; (c) ověřit u MÚ Broumov úmrtní list Tadeje 2014 (uvádí rodiště a rodiče). | Kolo BL (27. 11. 2026): OPRAVA kola BK – fond 201 op. 4a spr. 6886/7633 (narození 1866–1932) patří obci Мервичі, ne Meryszczówu. Řeckokatolické narození Meryszczów + Ostałowice 1873–1941 = 201/4a/8800 (NEdigitalizováno); digitalizované jsou jen kopie 1785–1877 (3809–3815, 568). Meryszczów byl gr.-kat. filiálkou Ostałowic. Římskokatolicky patřil do 1932 k farnosti Przemyślany (618/2/2697 1921–1930; 618/2/3830 1931–1942, kopie), od 1933 k nové farnosti Wołków/Вовків (618/2/3036, kopie 1933–1936). Nálezy: 3830 snímek 10 (pag. 17) křest Thaddeus Franciscus 9./14. 6. 1931, dům 42; 3036 snímek 29 úmrtí Petrus Spadt 2./4. 11. 1934, dům 42, 30 let, gruźlica; 3036 snímek 33 křest Ludovicus 3./20. 2. 1935, dům 42, otec †. Ferdinand Spadt (bratr Petra) v Meryszczówě: Romanus 1930 (2697 snímek 389), Ladislaus 2. 10. 1931 (3830 snímek 10). Meryszczów křty: 1932 „hoc anno nihil“ (3830 snímek 35), 1933 a 1934 bez Spadtů, 1936 jen 2 křty bez Spadtů (3036 snímek 44); úmrtí 1936 jen Stanisław Jurowiecki. Sňatky Meryszczów 1929 (2697 snímky 360–361) a 1930 (snímek 414) bez Spadta. Další kroky: (a) sňatek ~1928–1930 – Przemyślany 2697 dřívější roky, Świrz 618/2/3104 (1925–1937, digitalizováno, Geneteka indexovala jen část) nebo gr.-kat. Ostałowice (nedigitalizováno); (b) Petrův křest 14. 4. 1904 – Świrz 618/2/3103 (digitalizováno, https://archium.tsdial.archives.gov.ua/files/230418/); (c) Kateřina – křty před 1929 nebo gr.-kat.; (d) Wołków po 1936 a Przemyślany 1939–1942 (3830) pro sňatek vdovy Marie s Chaloupkou; (e) proč opis Tadejova křtu 26. 5. 1967. Kolo BM (27. 11. 2026): Petrův křest ověřen – Kimirz č. 119, nar. 14. 4., křest 15. 4. 1904 (618/2/3103 snímek 115, pag. 18, č. 9); otec Martinus Spadt, ligni faber, syn Mathiase a Anny Trefler; matka Elisabetha Leicht, dcera Adama a Cathariny Semmer. Sňatek rodičů 1. 7. 1890 v sekci „Pagus Kimirz et Ostałowice“ kopie Świrz 1890 (618/2/2567 snímek 7): Martinus Spadt, 24, sutor, č. 119 × Elisabetha Leicht, 24, vdova po Georgu Spadtovi; dispens ze švagrovství 1. stupně pobočné linie (Lvov, č. 2198, datum čteno 24. 6. 1889?). V Kimirském oddacím rejstříku 618/2/3154 (1895–1902) ani v 618/2/2676 (Świrz bez Kimirze) sňatek není. Sourozenci doloženi oddacími zápisy: Jan 19. 5. 1919 × Agnes Treffler, vd. (2705 snímek 238), Adam *23. 4. 1898 × Maria Treffler roz. Spadt 13. 9. 1921 (2705 snímek 301), Martin ml. 24 let × Anna Spadt 20. 11. 1934 (3104 snímek 428). Ve všech třech je otec Martin označen „p. d.“ (zesnulý) → zemřel zřejmě před 19. 5. 1919; úmrtní zápis nenalezen (kandidát: Świrz úmrtí 618/2/2678, 1883–1920, digitalizováno). Sňatek Petr × Maria Miśków: negativně – Kimirz 3154 roky 1926–1932 (snímky 63–77) a Przemyślany 2697 sekce Meryszczów 1926 (snímek 232), 1927 (262), 1928 (302), 1929 a 1930 (dříve). Zbývá: ř.-k. Przemyślany 1931 (3830, sňatky 1931 – Tadej se narodil 9. 6. 1931) a gr.-kat. Ostałowice (nedigitalizováno). Kateřina: v ř.-k. křtech Meryszczów 1930–1936 není; roky 1921–1929 (2697) jsem v tomto kole neprošel celé. Druhý sňatek Marie s Chaloupkou: Meryszczów patřil od 1933 k Wołkówu, jehož knihy po 1936 nejsou online; 3830 (Przemyślany 1939–1942) Meryszczów neobsahuje. Verlustlisten (ANNO, plný text): pro „Spadt“ jediný záznam (Michael, IR 76, Uhry – jiný člověk); pro „Kimirz“ asi 30 vojáků (IR 55, k. k. LstIR 19, IR 24), nikdo jménem Spadt – OCR ale může jméno komolit. Kolo BN (27. 11. 2026): Šest synů Martina × Elisabeth doloženo křty, všichni z domu Kimirz č. 119: Jan 9./10. 2. 1891 (2567 sn. 29), Adam 1898, Ferdinand 28./29. 11. 1900 (2567 sn. 197), Petr 1904, Rudolf 7./8. 9. 1907 (3709 sn. 5; na okraji sňatek ve Lvově, kostel sv. Máří Magdalény, 7. 3. 1932, nevěsta snad Maria Smyk) a Martin ml. 25./27. 4. 1910 (3709 sn. 10). Jména babiček se v zápisech liší: Catharina × Agatha Semmer, Anna × Elisabetha Trefler. Martin st. je v dubnu 1910 ještě zapsán jako otec; zemřel 1910–1919. Úmrtní matrika Świrz 1883–1920 (2678) Kimirz nezahrnuje. Úmrtní matrika Kimirze ř.-kat. online není (v archiu je jen 618/2/3709, narození 1906–1944). Řeckokatolická 201/4a/10167 (Kimir, úmrtí 1876–1944) neprohlédnuta. Sňatek Petr × Maria: 1. 9. 1929 je „Maria Spadt ux. Petri“ kmotrou v Meryszczówě (2697 sn. 331), svatba tedy proběhla před tímto datem; v ř.-kat. sňatcích Przemyślan 1929 Meryszczów není. Kateřina není v ř.-kat. křtech Meryszczówa 1921–1929 (2697). Maria Miśków: není v ř.-kat. křtech Meryszczówa 1906, 1908, 1909, 1910 (2695), 1911, 1912 (2696); rok 1907 v 2695 chybí; 1901–1905 a 1913–1920 neprohlédnuty. Rodina Miśków ale v Meryszczówě byla: 15. 2. 1911 je „Catharina Miśków uxor Bartholomaei mercenarii“ kmotrou Stanislava Szlachetka (2696 sn. 22, křtil řeckokatolický farář). Rodina Szlachetko se tak objevuje v letech 1911 i 1929. Pravděpodobně jde o řeckokatolickou rodinu; Mariin křest hledat v gr.-kat. matrikách Meryszczówa (f. 201 op. 4a). V Pletenicích 1910 matka „Anna Miśków fil. Joannis et Annae Januszewska“ (2695 sn. 343), vztah neznámý.",
       "related_ids": [
         "bartholomaeus-miskow",
         "catharina-miskowa",
@@ -15617,7 +15824,7 @@
       "id": "q-flegl-puvod",
       "title": "Antonín Flegl (*1919 Podkarpatská Rus) a Marie Zelená (*1921 Náchod): doklady",
       "summary": "Údaje jen ze sdělení 27. 11. 2026. Náchodské ř.-kat. matriky v ARON: narození do 3/1915, oddaní 1917–11/1936 – narození Marie 1921 a sňatek 1939–40 tam nejsou (zřejmě na MÚ Náchod).",
-      "details": "Kolo BK (27. 11. 2026): ARON (SOA Zámrsk, Sbírka matrik Východočeského kraje) – Náchod a předměstí: NAR 106-7287 až 106-7290 (4/1899–3/1915), ODD 106-7295, 106-7296, 106-8171 (2/1897–11/1936), ZEM 106-8173 (1864–1936). Svazek narozených od 4/1915 a oddaných od 12/1936 v ARON není. Lhůty: narození 100 let, oddaní 75 let, ale kniha se předává až po uplynutí lhůty u posledního zápisu. Otevřené: obec narození Antonína na Podkarpatské Rusi (Čech tam v roce 1919 – rodina úředníka, četníka, železničáře, nebo kolonisté?), jeho rodiče; Mariini rodiče Zelení (jejich sňatek by mohl být v 106-8171, 1917–1920); možný odkaz v oddacím zápise 1939–40. Domněnka: příjezd do Benešova u Broumova 1945 = osídlování pohraničí po odsunu Němců. Návrh žádosti (koncept) v ROD-1.md, kolo BK.",
+      "details": "Kolo BK (27. 11. 2026): ARON (SOA Zámrsk, Sbírka matrik Východočeského kraje) – Náchod a předměstí: NAR 106-7287 až 106-7290 (4/1899–3/1915), ODD 106-7295, 106-7296, 106-8171 (2/1897–11/1936), ZEM 106-8173 (1864–1936). Svazek narozených od 4/1915 a oddaných od 12/1936 v ARON není. Lhůty: narození 100 let, oddaní 75 let, ale kniha se předává až po uplynutí lhůty u posledního zápisu. Otevřené: obec narození Antonína na Podkarpatské Rusi (Čech tam v roce 1919 – rodina úředníka, četníka, železničáře, nebo kolonisté?), jeho rodiče; Mariini rodiče Zelení (jejich sňatek by mohl být v 106-8171, 1917–1920); možný odkaz v oddacím zápise 1939–40. Domněnka: příjezd do Benešova u Broumova 1945 = osídlování pohraničí po odsunu Němců. Návrh žádosti (koncept) v ROD-1.md, kolo BK. Kolo BN (27. 11. 2026): ARON 106-8171 (oddaní Náchod 1917–11/1936) je online (343 snímků, bez rejstříku; APU e691c87d-a243-4bcf-9a2a-a6471b4034fd). 1917 končí kolem snímku 23, duben 1919 je na snímku 68. Prohledat snímky cca 58–160 (1919–1920) na ženicha Zelený; zatím neprohlédnuto. Tip: Michal Flegl, „Stopami rodu Fleglů a Pluhařů“ (Rodopisná revue, 2010) – publikovaná rodová studie Fleglů, vztah k Antonínovi neověřen. Web search „Antonín Flegl“ Náchod/Broumov bez nálezu.",
       "related_ids": [
         "antonin-flegl",
         "marie-fleglova",

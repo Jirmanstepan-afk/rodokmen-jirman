@@ -920,6 +920,21 @@
       "nazev": "ЦДІАЛ Lvov, f. 618 op. 2 spr. 2697",
       "popis": "Římskokatolické matriky farnosti Przemyślany s obcemi (vč. Meryszczów), 1921–1930",
       "url": "https://archium.tsdial.archives.gov.ua/files/230012/"
+    },
+    "CDIAL-618-2-3709": {
+      "nazev": "ЦДІАЛ Lvov, f. 618 op. 2 spr. 3709",
+      "popis": "Římskokatolická matrika narozených obce Kimirz (Кимир), 1906–1944",
+      "url": "https://archium.tsdial.archives.gov.ua/files/231024/"
+    },
+    "CDIAL-618-2-2696": {
+      "nazev": "ЦДІАЛ Lvov, f. 618 op. 2 spr. 2696",
+      "popis": "Římskokatolické matriky farnosti Przemyślany s obcemi (vč. Meryszczów), 1911–1920",
+      "url": "https://archium.tsdial.archives.gov.ua/files/230011/"
+    },
+    "CDIAL-618-2-2695": {
+      "nazev": "ЦДІАЛ Lvov, f. 618 op. 2 spr. 2695",
+      "popis": "Římskokatolické matriky farnosti Przemyślany s obcemi (vč. Meryszczów), 1901–1910 (rok 1907 chybí)",
+      "url": "https://archium.tsdial.archives.gov.ua/files/230010/"
     }
   },
   "aliasy": {
@@ -5387,6 +5402,60 @@
       "nahled": "img/zdroje/CDIAL-618-2-2705_s301.jpg",
       "velky": "img/zdroje/CDIAL-618-2-2705_s301_velky.jpg",
       "vyrez_soubor": "s301-1921-09-13-snatek-Adamus-Spadt-Maria-Treffler-Kimirz-117.jpg"
+    },
+    "CDIAL-618-2-2567|29": {
+      "signatura": "CDIAL-618-2-2567",
+      "snimek": 29,
+      "url": "https://archium.tsdial.archives.gov.ua/file-viewer/229882#file-737303",
+      "vyrez": "zápis",
+      "nahled": "img/zdroje/CDIAL-618-2-2567_s029.jpg",
+      "velky": "img/zdroje/CDIAL-618-2-2567_s029_velky.jpg",
+      "vyrez_soubor": "s029-1891-krest-Joannes-Spadt.jpg"
+    },
+    "CDIAL-618-2-2567|197": {
+      "signatura": "CDIAL-618-2-2567",
+      "snimek": 197,
+      "url": "https://archium.tsdial.archives.gov.ua/file-viewer/229882#file-737475",
+      "vyrez": "zápis",
+      "nahled": "img/zdroje/CDIAL-618-2-2567_s197.jpg",
+      "velky": "img/zdroje/CDIAL-618-2-2567_s197_velky.jpg",
+      "vyrez_soubor": "s197-1900-krest-Ferdinandus-Szpadt.jpg"
+    },
+    "CDIAL-618-2-3709|5": {
+      "signatura": "CDIAL-618-2-3709",
+      "snimek": 5,
+      "url": "https://archium.tsdial.archives.gov.ua/file-viewer/231024#file-1821697",
+      "vyrez": "zápis",
+      "nahled": "img/zdroje/CDIAL-618-2-3709_s005.jpg",
+      "velky": "img/zdroje/CDIAL-618-2-3709_s005_velky.jpg",
+      "vyrez_soubor": "s005-1907-09-07-krest-Rudolphus-Spadt-Kimirz-119-snatek-Lvov-1932.jpg"
+    },
+    "CDIAL-618-2-3709|10": {
+      "signatura": "CDIAL-618-2-3709",
+      "snimek": 10,
+      "url": "https://archium.tsdial.archives.gov.ua/file-viewer/231024#file-1821724",
+      "vyrez": "zápis",
+      "nahled": "img/zdroje/CDIAL-618-2-3709_s010.jpg",
+      "velky": "img/zdroje/CDIAL-618-2-3709_s010_velky.jpg",
+      "vyrez_soubor": "s010-1910-04-25-krest-Marthinus-Spadt-Kimirz-119.jpg"
+    },
+    "CDIAL-618-2-2697|331": {
+      "signatura": "CDIAL-618-2-2697",
+      "snimek": 331,
+      "url": "https://archium.tsdial.archives.gov.ua/file-viewer/230012#file-765816",
+      "vyrez": "zápis",
+      "nahled": "img/zdroje/CDIAL-618-2-2697_s331.jpg",
+      "velky": "img/zdroje/CDIAL-618-2-2697_s331_velky.jpg",
+      "vyrez_soubor": "s331-1929-Meryszczow-kmotra-Maria-Spadt-uxor-Petri.jpg"
+    },
+    "CDIAL-618-2-2696|22": {
+      "signatura": "CDIAL-618-2-2696",
+      "snimek": 22,
+      "url": "https://archium.tsdial.archives.gov.ua/file-viewer/230011#file-779446",
+      "vyrez": "zápis",
+      "nahled": "img/zdroje/CDIAL-618-2-2696_s022.jpg",
+      "velky": "img/zdroje/CDIAL-618-2-2696_s022_velky.jpg",
+      "vyrez_soubor": "s022-1911-Meryszczow-kmotra-Catharina-Miskow-uxor-Bartholomaei.jpg"
     }
   }
 }
