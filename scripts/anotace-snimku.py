@@ -68,8 +68,12 @@ def render(it):
     for k, (a, b_) in enumerate(parts):
         crop.paste(im.crop((a, y0, b_, y1)), (ox, 0)); ox += b_ - a
         if k < len(parts) - 1: cuts.append(ox + GAP / 2); ox += GAP
-    s = OUT_W / crop.width
-    crop = crop.resize((OUT_W, round(crop.height * s)), Image.LANCZOS)
+    marks = it['marks']
+    SWR = it.get('side_w', 470) if any(m.get('pos') == 'right' for m in marks) else 0
+    SWL = it.get('side_w', 470) if any(m.get('pos') == 'left' for m in marks) else 0
+    IW = OUT_W - SWR - SWL
+    s = IW / crop.width
+    crop = crop.resize((IW, round(crop.height * s)), Image.LANCZOS)
     crop = ImageOps.autocontrast(crop, cutoff=0.5)
     cd = ImageDraw.Draw(crop)
     for c in cuts:
@@ -80,12 +84,11 @@ def render(it):
         for a, b_ in skips:
             if x >= b_: off += (b_ - a) - GAP
             elif x > a: x = a
-        return round((x - x0 - off) * s)
+        return round((x - x0 - off) * s) + SWL
     T = lambda b: (MX(b[0]), round((b[1] - y0) * s), MX(b[2]), round((b[3] - y0) * s))
-    marks = it['marks']
     # štítky: rozvržení do řad podle polohy
     dtmp = ImageDraw.Draw(crop)
-    mx_row = max(sum(1 for m in marks if m.get('pos') == 'top'), sum(1 for m in marks if m.get('pos') != 'top'))
+    mx_row = max(sum(1 for m in marks if m.get('pos') == 'top'), sum(1 for m in marks if m.get('pos') in (None, 'bottom')))
     sz = 1.0 if mx_row <= 3 else (0.9 if mx_row <= 4 else 0.8)
     f_lat = font(F_IT, round(27 * sz)); f_cs = font(F_REG, round(29 * sz), True); f_arr = font(SANS_B, round(27 * sz)); f_head = font(SANS_B, 30); f_sub = font(SANS, 22)
     f_pl = font(F_REG, 29); f_plb = font(F_REG, 29, True)
@@ -95,7 +98,22 @@ def render(it):
         return (b[0] + b[2]) / 2
     groups = {'top': [], 'bottom': []}
     for i in sorted(range(len(marks)), key=lambda i: bx0(marks[i])):
+        if marks[i].get('pos') in ('left', 'right'): continue
         groups['top' if marks[i].get('pos') == 'top' else 'bottom'].append(i)
+    f_slat = font(F_IT, 23); f_scs = font(F_REG, 25, True); f_sarr = font(SANS_B, 23)
+    def side_labels(which, SW):
+        idx = [i for i in range(len(marks)) if marks[i].get('pos') == which]
+        idx.sort(key=lambda i: (marks[i]['box'][0] if isinstance(marks[i]['box'][0], list) else marks[i]['box'])[1])
+        labs = []
+        for i in idx:
+            m = marks[i]
+            lt = ('„' + m['lat'] + '“' if m.get('lat') else '') + (' (čtení nejisté)' if m.get('nejiste') else '')
+            lat = wrap(dtmp, lt.strip(), f_slat, SW - 52) if lt.strip() else []
+            cs = wrap(dtmp, m['cs'], f_scs, SW - 52 - 30)
+            labs.append((i, lat, cs, 16 + len(lat) * 31 + len(cs) * 33 + 10))
+        return labs
+    sideR = side_labels('right', SWR) if SWR else []
+    sideL = side_labels('left', SWL) if SWL else []
     def layout(idx):
         if not idx: return [], [], 0
         ncol = min(6, len(idx)) if len(idx) <= 6 else (len(idx) + 1) // 2
@@ -119,10 +137,13 @@ def render(it):
     d0 = ImageDraw.Draw(crop)
     pl_lines = wrap(d0, 'Co z toho plyne: ' + it['plyne'], f_pl, OUT_W - 2 * pad - 20) if it.get('plyne_v_obrazku') else []
     note_lines = wrap(d0, it['poznamka'], f_sub, OUT_W - 2 * pad - 20) if it.get('poznamka') else []
+    side_need = max([sum(l[3] + 14 for l in sd) for sd in (sideR, sideL)] + [0])
+    if side_need > crop.height:
+        lab_top = img_top + side_need + 46
     H = lab_top + h_b + 34 + len(pl_lines) * 42 + (len(note_lines) * 30 + 10 if note_lines else 0) + 40
     W = OUT_W
     out = Image.new('RGB', (W, H), '#f6eedb')
-    out.paste(crop, (0, img_top))
+    out.paste(crop, (SWL, img_top))
     d = ImageDraw.Draw(out)
     d.rectangle([0, 0, W, head_h], fill='#2f2116')
     d.text((pad, 14), it['title'], font=f_head, fill='#f3e2bd')
@@ -172,6 +193,33 @@ def render(it):
                 x += colw + gap
             y += hh + gap
         return y
+    def draw_side(labs, which, SW):
+        nonlocal d
+        # cílové y = střed prvního rámečku; posun dolů kvůli překryvu
+        ys, cur = [], img_top
+        for (i, lat, cs, h) in labs:
+            b = boxes[i][0][0]; want = (b[1] + b[3]) / 2 - h / 2
+            yy = max(want, cur); ys.append(yy); cur = yy + h + 14
+        over = cur - 14 - (lab_top - 30)
+        if over > 0:  # posunout nahoru, pokud přetéká
+            nxt = lab_top - 30
+            for k in range(len(labs) - 1, -1, -1):
+                ys[k] = min(ys[k], nxt - labs[k][3]); nxt = ys[k] - 14
+        for (i, lat, cs, h), ly0 in zip(labs, ys):
+            bs, col = boxes[i]; b = bs[0]
+            lx0 = (W - SW + 12) if which == 'right' else 12
+            lx1 = lx0 + SW - 24
+            cy = ly0 + min(h / 2, 40)
+            if which == 'right': arrow(d, (lx0, cy), (b[2] + 4, (b[1] + b[3]) / 2), col, 4)
+            else: arrow(d, (lx1, cy), (b[0] - 4, (b[1] + b[3]) / 2), col, 4)
+            d.rounded_rectangle([lx0, ly0, lx1, ly0 + h], radius=12, fill='#fffaf0', outline=col, width=4)
+            ty = ly0 + 12
+            for ln in lat: d.text((lx0 + 14, ty), ln, font=f_slat, fill='#3a2c1a'); ty += 31
+            for k, ln in enumerate(cs):
+                if k == 0: d.text((lx0 + 14, ty + 1), '→', font=f_sarr, fill=col)
+                d.text((lx0 + 44, ty), ln, font=f_scs, fill=col); ty += 33
+    if sideR: draw_side(sideR, 'right', SWR)
+    if sideL: draw_side(sideL, 'left', SWL)
     if rows_t: draw_rows(rows_t, rh_t, head_h + 20, True)
     y = draw_rows(rows_b, rh_b, lab_top, False) if rows_b else lab_top
     # co z toho plyne

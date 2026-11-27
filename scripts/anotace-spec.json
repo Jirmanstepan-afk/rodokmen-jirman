@@ -490,6 +490,671 @@
     }
    ],
    "plyne": "Emma, narozená 27. 12. 1902 ve Starostíně č. 27 jako nemanželská dcera Anny Rosenbergerové, je tatáž Emma, která se 22. 8. 1925 v Martínkovicích vdala za Jana Proße – přípis o sňatku je přímo u jejího rodného zápisu. Tím je propojena linie Rosenbergerů s Proßi."
+  },
+  {
+   "key": "99-8015|137",
+   "title": "Svatba Jana Proße a Emmy Rosenbergerové – Martínkovice, 22. srpna 1925",
+   "zdroj": "SOA Zámrsk, sign. 99-8015, snímek 137, fol. 132, poř. č. 14 (sloupec bydliště vynechán)",
+   "crop": [
+    330,
+    400,
+    1940,
+    1000
+   ],
+   "skip": [
+    [
+     870,
+     1165
+    ]
+   ],
+   "entry": [
+    345,
+    440,
+    1928,
+    990
+   ],
+   "marks": [
+    {
+     "box": [
+      405,
+      410,
+      612,
+      738
+     ],
+     "lat": "1925 · Den 22. August in der Pfarrkirche zu Märzdorf",
+     "cs": "22. srpna 1925 ve farním kostele v Martínkovicích"
+    },
+    {
+     "box": [
+      638,
+      555,
+      855,
+      715
+     ],
+     "lat": "P. Theofil Herrmann, Kaplan",
+     "cs": "oddával kaplan P. Theofil Herrmann"
+    },
+    {
+     "box": [
+      [
+       1180,
+       455,
+       1925,
+       502
+      ],
+      [
+       1180,
+       502,
+       1595,
+       545
+      ]
+     ],
+     "lat": "Proß Johann, Fabrikarbeiter in Märzdorf 257, geb.: 8. VI. 1902 in Sattel N. 11",
+     "cs": "ženich Jan Proß, tovární dělník v Martínkovicích č. 257, nar. 8. 6. 1902 v Sedloňově č. 11",
+     "pos": "right"
+    },
+    {
+     "box": [
+      [
+       1225,
+       585,
+       1925,
+       628
+      ],
+      [
+       1180,
+       628,
+       1925,
+       665
+      ],
+      [
+       1180,
+       665,
+       1665,
+       705
+      ]
+     ],
+     "lat": "ehel. Sohn d. Proß Anton … u. d. + Johanna geb. Johann Mader, Inwohner in Sattel Nr. 78",
+     "cs": "syn Antona Proße a zesnulé Johanny, dcery podruha Johanna Madera ze Sedloňova č. 78",
+     "pos": "right"
+    },
+    {
+     "box": [
+      [
+       1180,
+       705,
+       1925,
+       745
+      ],
+      [
+       1180,
+       745,
+       1640,
+       785
+      ]
+     ],
+     "lat": "Rosenberger Emma, Fabrikarbeiterin, geb.: 27. XII. 1902 in Neusorge Nr. 27",
+     "cs": "nevěsta Emma Rosenbergerová, tovární dělnice, nar. 27. 12. 1902 ve Starostíně č. 27",
+     "pos": "right"
+    },
+    {
+     "box": [
+      [
+       1440,
+       785,
+       1925,
+       825
+      ],
+      [
+       1180,
+       825,
+       1925,
+       862
+      ],
+      [
+       1180,
+       862,
+       1925,
+       900
+      ],
+      [
+       1180,
+       900,
+       1925,
+       940
+      ],
+      [
+       1180,
+       940,
+       1750,
+       980
+      ]
+     ],
+     "lat": "unehel. Tochter d. + Anna Rosenberger, ehel. Tochter d. Ignaz Rosenberger … u. d. Genovefa geb. Benedikt Meier",
+     "cs": "nemanželská dcera zesnulé Anny, dcery Ignaze Rosenbergera z Vernéřovic č. 177 a Genovefy roz. Meierové z Ruprechtic č. 93",
+     "pos": "right"
+    }
+   ],
+   "plyne": "Jan Proß ze Sedloňova a Emma Rosenbergerová ze Starostína se vzali 22. 8. 1925 v Martínkovicích. Zápis jmenuje rodiče obou snoubenců a u nevěsty i její prarodiče Ignaze Rosenbergera a Genovefu Meierovou – jediný zápis tak spojuje Proße, Madery, Rosenbergery a Meiery.",
+   "src": "img/zdroje/99-8015_s137_velky.jpg"
+  },
+  {
+   "key": "99-2|114",
+   "title": "Křest Johanna (Hanse) Rosenbergera – Martínkovice, 18. srpna 1679",
+   "zdroj": "SOA Zámrsk, sign. 99-2, snímek 114, pag. 115 (prostřední zápis)",
+   "crop": [
+    150,
+    90,
+    1720,
+    425
+   ],
+   "entry": [
+    185,
+    130,
+    1700,
+    412
+   ],
+   "marks": [
+    {
+     "box": [
+      240,
+      135,
+      568,
+      195
+     ],
+     "lat": "Den 18. Augusti",
+     "cs": "dne 18. srpna (1679)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      570,
+      135,
+      1088,
+      195
+     ],
+     "lat": "ist Görge Rosenbergern",
+     "cs": "Georgu Rosenbergerovi",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1092,
+      135,
+      1484,
+      195
+     ],
+     "lat": "und seiner Ehewirttin",
+     "cs": "a jeho manželce",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1486,
+      135,
+      1694,
+      195
+     ],
+     "lat": "von Ottendorff",
+     "cs": "z Otovic",
+     "pos": "top"
+    },
+    {
+     "box": [
+      210,
+      220,
+      700,
+      280
+     ],
+     "lat": "ein Kindt getauft",
+     "cs": "bylo pokřtěno dítě"
+    },
+    {
+     "box": [
+      925,
+      220,
+      1138,
+      280
+     ],
+     "lat": "mit nahmen Johannes",
+     "cs": "jménem Johannes (Hans)"
+    },
+    {
+     "box": [
+      [
+       1148,
+       220,
+       1698,
+       280
+      ],
+      [
+       195,
+       283,
+       1675,
+       348
+      ],
+      [
+       270,
+       352,
+       1045,
+       410
+      ]
+     ],
+     "lat": "die Gatten waren Hanns Kuhse Hausmann, und Friedrich Hasslers des Müllers Ehewirttin, beide … von Ottendorff",
+     "cs": "kmotři: Hanns Kuhse (podruh?) a manželka mlynáře Friedricha Hasslera, oba z Otovic",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Georg Rosenberger z Otovic a jeho žena dali 18. 8. 1679 pokřtít syna Johanna (Hanse). Je to jediný Johann, syn Georga Rosenbergera z Otovic – tentýž Hans, který se roku 1702 ženil v Ruprechticích.",
+   "src": "img/zdroje/99-2_s114_velky.jpg"
+  },
+  {
+   "key": "99-1|53",
+   "title": "Sňatek Georga Rosenberga a Rosiny Scholtzové – Martínkovice, 6. listopadu 1678",
+   "zdroj": "SOA Zámrsk, sign. 99-1, snímek 53, pag. 99 (předposlední zápis)",
+   "crop": [
+    150,
+    268,
+    1720,
+    500
+   ],
+   "entry": [
+    165,
+    285,
+    1705,
+    485
+   ],
+   "marks": [
+    {
+     "box": [
+      205,
+      290,
+      800,
+      350
+     ],
+     "lat": "Den 6. Novembris ist getrawet",
+     "cs": "dne 6. listopadu (1678) byl oddán",
+     "pos": "top"
+    },
+    {
+     "box": [
+      802,
+      285,
+      1460,
+      350
+     ],
+     "lat": "Görge Rosenberg Junggesell",
+     "cs": "mládenec Georg Rosenberg",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       1466,
+       285,
+       1700,
+       350
+      ],
+      [
+       170,
+       352,
+       1133,
+       420
+      ]
+     ],
+     "lat": "Melchior Rosenbergers von Ottendorff ehelicher Sohn",
+     "cs": "manželský syn Melchiora Rosenbergera z Otovic",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1135,
+      352,
+      1700,
+      420
+     ],
+     "lat": "mit Jungfrau Rosinam",
+     "cs": "s pannou Rosinou"
+    },
+    {
+     "box": [
+      175,
+      420,
+      1330,
+      482
+     ],
+     "lat": "Martin Scholtz von Merzdorff ehelichen Tochter",
+     "cs": "manželskou dcerou Martina Scholtze z Martínkovic"
+    }
+   ],
+   "plyne": "Georg Rosenberg z Otovic, syn Melchiora, se 6. 11. 1678 oženil s Rosinou, dcerou Martina Scholtze z Martínkovic. Za devět měsíců se jim narodil syn Hans – tím je doložena další generace Rosenbergerů.",
+   "src": "img/zdroje/99-1_s053_velky.jpg"
+  },
+  {
+   "key": "141-1|51",
+   "title": "Narození Benedikta Rosenberga – Ruprechtice č. 73, 7. října 1799",
+   "zdroj": "SOA Zámrsk, sign. 141-1, snímek 51, pag. 97",
+   "crop": [
+    0,
+    0,
+    2000,
+    446
+   ],
+   "entry": [
+    10,
+    5,
+    1990,
+    395
+   ],
+   "marks": [
+    {
+     "box": [
+      25,
+      15,
+      200,
+      140
+     ],
+     "lat": "7. October",
+     "cs": "7. října (1799)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      190,
+      20,
+      275,
+      95
+     ],
+     "lat": "73",
+     "cs": "dům č. 73",
+     "pos": "top"
+    },
+    {
+     "box": [
+      280,
+      30,
+      530,
+      150
+     ],
+     "lat": "Benedict Rosenberg",
+     "cs": "dítě: Benedikt Rosenberg",
+     "pos": "top"
+    },
+    {
+     "box": [
+      870,
+      15,
+      1110,
+      195
+     ],
+     "lat": "Joseph Rosenberg, Inmann",
+     "cs": "otec Joseph Rosenberg, podruh",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1105,
+      15,
+      1400,
+      300
+     ],
+     "lat": "Barbara, … Anton Ringel … No 58",
+     "cs": "matka Barbara, dcera Antona Ringela (Vižňov č. 58)",
+     "nejiste": true
+    },
+    {
+     "box": [
+      1395,
+      10,
+      1880,
+      230
+     ],
+     "lat": "Benedict Mayer, Häusler · Barbara Daurin, Häuslerin",
+     "cs": "kmotři: chalupník Benedikt Mayer a chalupnice Barbara Daurová"
+    },
+    {
+     "box": [
+      860,
+      300,
+      1640,
+      385
+     ],
+     "lat": "P. Vincentius Seydl, Caplan",
+     "cs": "pokřtil kaplan P. Vincentius Seydl"
+    }
+   ],
+   "plyne": "Benedikt, narozený 7. 10. 1799 v Ruprechticích č. 73, je syn podruha Josepha Rosenberga a Barbary roz. Ringelové z Vižňova. Je to Benedikt, jehož syn Ignatz se později usadil ve Vernéřovicích.",
+   "src": "img/zdroje/141-1_s051_velky.jpg"
+  },
+  {
+   "key": "141-7599|93",
+   "title": "Křest Johanna Josepha Rosenberga – Ruprechtice, 1. března 1743",
+   "zdroj": "SOA Zámrsk, sign. 141-7599, snímek 93, fol. 113",
+   "crop": [
+    0,
+    35,
+    2000,
+    440
+   ],
+   "entry": [
+    40,
+    55,
+    1850,
+    430
+   ],
+   "marks": [
+    {
+     "box": [
+      50,
+      60,
+      385,
+      115
+     ],
+     "lat": "Den 1. Martij",
+     "cs": "dne 1. března (1743)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1010,
+      60,
+      1840,
+      115
+     ],
+     "lat": "in der Kirchen S. Jacobi allhier",
+     "cs": "v kostele sv. Jakuba zde (Ruprechtice)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      120,
+      120,
+      880,
+      180
+     ],
+     "lat": "Johann Adalbert Rosenberg",
+     "cs": "otci Johannu Adalbertovi Rosenbergovi",
+     "pos": "top"
+    },
+    {
+     "box": [
+      885,
+      120,
+      1820,
+      180
+     ],
+     "lat": "dem Haußgenoß von Ruppersdorff",
+     "cs": "podruhovi z Ruprechtic",
+     "pos": "top",
+     "nejiste": true
+    },
+    {
+     "box": [
+      135,
+      190,
+      845,
+      245
+     ],
+     "lat": "und Anna Maria seiner Ehew.",
+     "cs": "a Anně Marii, jeho manželce"
+    },
+    {
+     "box": [
+      [
+       1365,
+       190,
+       1840,
+       245
+      ],
+      [
+       115,
+       255,
+       325,
+       310
+      ]
+     ],
+     "lat": "Nahmens Johann Josephus",
+     "cs": "syn jménem Johann Joseph"
+    },
+    {
+     "box": [
+      330,
+      255,
+      1095,
+      310
+     ],
+     "lat": "ist gebohren den 28. Febr.",
+     "cs": "narozen 28. února"
+    }
+   ],
+   "plyne": "Johann Joseph, pokřtěný 1. 3. 1743 v Ruprechticích, je syn podruha Johanna Adalberta Rosenberga a Anny Marie. Johann Adalbert je syn Hanse z roku 1702 – zápis tak drží další článek řetězu Rosenbergerů.",
+   "src": "img/zdroje/141-7599_s093_velky.jpg"
+  },
+  {
+   "key": "141-7599|437",
+   "title": "Svatba J. J. Rosenberga a A. E. Obitzové – Ruprechtice, 19. 11. 1764",
+   "zdroj": "SOA Zámrsk, sign. 141-7599, snímek 437, fol. 105 (poslední zápis)",
+   "crop": [
+    120,
+    1430,
+    1310,
+    1872
+   ],
+   "entry": [
+    135,
+    1445,
+    1295,
+    1862
+   ],
+   "marks": [
+    {
+     "box": [
+      146,
+      1445,
+      469,
+      1505
+     ],
+     "lat": "Den 19. November",
+     "cs": "dne 19. listopadu (1764)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      146,
+      1505,
+      1290,
+      1564
+     ],
+     "lat": "Kirchen S. Jacobi zu Ruppersdorff ehelich Copulieret worden",
+     "cs": "v kostele sv. Jakuba v Ruprechticích oddáni",
+     "pos": "top"
+    },
+    {
+     "box": [
+      200,
+      1564,
+      975,
+      1610
+     ],
+     "lat": "Johann Joseph Rosenberg ein Junggesell",
+     "cs": "mládenec Johann Joseph Rosenberg",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       982,
+       1564,
+       1285,
+       1610
+      ],
+      [
+       200,
+       1610,
+       553,
+       1662
+      ]
+     ],
+     "lat": "Johannes Rosenbergs ehelicher Sohn in Ruppersdorff",
+     "cs": "manželský syn Johanna Rosenberga z Ruprechtic",
+     "pos": "top"
+    },
+    {
+     "box": [
+      558,
+      1610,
+      1144,
+      1662
+     ],
+     "lat": "mit Jungfrau Anna Elisabetha",
+     "cs": "s pannou Annou Elisabethou"
+    },
+    {
+     "box": [
+      [
+       1146,
+       1610,
+       1285,
+       1662
+      ],
+      [
+       200,
+       1662,
+       830,
+       1720
+      ]
+     ],
+     "lat": "weyland Anton Obitzens des obern Häusl. Tochter alda",
+     "cs": "dcerou zesnulého Antona Obitze, „horního“ chalupníka odtud"
+    },
+    {
+     "box": [
+      [
+       832,
+       1662,
+       1285,
+       1720
+      ],
+      [
+       160,
+       1720,
+       1285,
+       1778
+      ],
+      [
+       160,
+       1778,
+       1285,
+       1850
+      ]
+     ],
+     "lat": "deß Bräutigambs Beystandt wahr Johann Benedict … der Häusler, auf der Braut seithen Tobias … der Hausgenoss, beyde aus Ruppersdorff",
+     "cs": "svědci: za ženicha chalupník Johann Benedict …, za nevěstu podruh Tobias …, oba z Ruprechtic",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Johann Joseph Rosenberg, syn Johanna (Adalberta) Rosenberga z Ruprechtic, se 19. 11. 1764 oženil s Annou Elisabethou, dcerou zesnulého Antona Obitze. Z tohoto manželství pochází Joseph, otec Benedikta z roku 1799.",
+   "src": "img/zdroje/141-7599_s437_velky.jpg"
   }
  ]
 }
