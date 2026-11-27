@@ -5704,11 +5704,1023 @@
       180
      ],
      "lat": "1",
-     "cs": "čárka ve sloupci vdova"
+     "cs": "čárka, nejspíš ve sloupci vdova (záhlaví není na snímku)",
+     "nejiste": true
     }
    ],
    "plyne": "Devětadvacetiletý Johann Máslo si vzal o šest let starší vdovu Rosinu. Zda je to tentýž Jan Máslo z č. 39, zatím nevím jistě.",
    "src": "img/zdroje/96-13_s006_velky.jpg"
+  },
+  {
+   "key": "96-13|72",
+   "title": "Úmrtí Rozyny, manželky Jana Masly – Nízká Srbská č. 9, 24. dubna 1804 (kandidát)",
+   "zdroj": "SOA Zámrsk, sign. 96-13, snímek 72",
+   "crop": [
+    230,
+    30,
+    1880,
+    190
+   ],
+   "entry": [
+    260,
+    45,
+    1860,
+    180
+   ],
+   "marks": [
+    {
+     "box": [
+      268,
+      45,
+      426,
+      99
+     ],
+     "lat": "24 April",
+     "cs": "24. dubna (1804)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      598,
+      92,
+      626,
+      143
+     ],
+     "lat": "9",
+     "cs": "dům č. 9",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       663,
+       80,
+       887,
+       182
+      ],
+      [
+       1000,
+       83,
+       1162,
+       137
+      ]
+     ],
+     "lat": "Rozyna manželka Jana Masly Sedlaka z Nižkosrbska",
+     "cs": "Rozyna, manželka Jana Masly, sedláka z Nízké Srbské",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1528,
+      88,
+      1572,
+      147
+     ],
+     "lat": "5…",
+     "cs": "věk – druhou číslici jsem jistě nepřečetl (asi kolem 50)",
+     "nejiste": true
+    },
+    {
+     "box": [
+      1633,
+      83,
+      1842,
+      132
+     ],
+     "lat": "Na Wodnotelnost",
+     "cs": "na vodnatelnost"
+    }
+   ],
+   "plyne": "Rozyna zemřela v dubnu 1804 přibližně v padesáti letech. Její muž se o sedm měsíců později oženil znovu.",
+   "src": "img/zdroje/96-13_s072_velky.jpg"
+  },
+  {
+   "key": "96-13|12",
+   "title": "Sňatek vdovce Jana Masla s vdovou Kateřinou – 21. listopadu 1804 (kandidát)",
+   "zdroj": "SOA Zámrsk, sign. 96-13, snímek 12, spodní zápis",
+   "crop": [
+    20,
+    100,
+    1400,
+    302
+   ],
+   "entry": [
+    30,
+    112,
+    1390,
+    300
+   ],
+   "marks": [
+    {
+     "box": [
+      33,
+      121,
+      208,
+      162
+     ],
+     "lat": "21 Novembr",
+     "cs": "21. listopadu (1804)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      218,
+      130,
+      250,
+      175
+     ],
+     "lat": "9",
+     "cs": "dům č. 9",
+     "pos": "top"
+    },
+    {
+     "box": [
+      274,
+      121,
+      520,
+      214
+     ],
+     "lat": "Jan Maslo Sedlak z Nižkosrbska",
+     "cs": "ženich Jan Maslo, sedlák z Nízké Srbské",
+     "pos": "top"
+    },
+    {
+     "box": [
+      624,
+      118,
+      665,
+      152
+     ],
+     "lat": "45",
+     "cs": "ženichovi 45 let",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       756,
+       110,
+       1000,
+       278
+      ],
+      [
+       1000,
+       112,
+       1076,
+       236
+      ]
+     ],
+     "lat": "Katharina pozůstalá wdowa po … Tobiaši … z Nižkosrbska",
+     "cs": "nevěsta Kateřina, vdova po Tobiášovi (příjmení nečtu jistě) z Nízké Srbské",
+     "nejiste": true
+    },
+    {
+     "box": [
+      1180,
+      110,
+      1222,
+      152
+     ],
+     "lat": "42",
+     "cs": "nevěstě 42 let",
+     "pos": "top"
+    }
+   ],
+   "plyne": "Jan Maslo si sedm měsíců po smrti Rozyny vzal vdovu Kateřinu. Jestli je to tatáž Kateřina, která roku 1821 zemřela v č. 39, z tohoto zápisu nevyčtu.",
+   "src": "img/zdroje/96-13_s012_velky.jpg"
+  },
+  {
+   "key": "96-7319|12",
+   "title": "Narození Františky Maroulové – Nízká Srbská č. 54, 30. srpna 1878",
+   "zdroj": "SOA Zámrsk, sign. 96-7319, snímek 12",
+   "crop": [
+    40,
+    20,
+    1720,
+    256
+   ],
+   "entry": [
+    55,
+    35,
+    1700,
+    254
+   ],
+   "marks": [
+    {
+     "box": [
+      68,
+      45,
+      120,
+      96
+     ],
+     "lat": "30 srpna",
+     "cs": "narozena 30. srpna (1878)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      126,
+      45,
+      179,
+      96
+     ],
+     "lat": "1 září",
+     "cs": "pokřtěna 1. září",
+     "pos": "top"
+    },
+    {
+     "box": [
+      208,
+      35,
+      332,
+      149
+     ],
+     "lat": "Viktor Muniček farář",
+     "cs": "křtil farář Viktor Muniček",
+     "pos": "top"
+    },
+    {
+     "box": [
+      351,
+      45,
+      502,
+      84
+     ],
+     "lat": "Františka",
+     "cs": "Františka",
+     "pos": "top"
+    },
+    {
+     "box": [
+      656,
+      45,
+      826,
+      108
+     ],
+     "lat": "Nížkosrbská čís. 54",
+     "cs": "Nízká Srbská č. 54",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1062,
+      40,
+      1376,
+      253
+     ],
+     "lat": "Maroul Josef, katolík, chalupník v Nížkosrbské, manželský syn Jana Maroula chalupníka v Nížkosrbské č. 71 a jeho manželky Anny dcery Jana Maslo výměnkáře v Nížkosrbské č. 39, obé okresu Polického",
+     "cs": "otec Josef Maroul, chalupník, syn Jana Maroula (č. 71) a Anny, dcery výměnkáře Jana Másla (č. 39)"
+    },
+    {
+     "box": [
+      1378,
+      40,
+      1692,
+      236
+     ],
+     "lat": "Františka, katolická, manželská dcera Jana Hrubého podruha v Ledhujích č. 52 a manželky jeho Františky dcery Františka Wentra výměnkáře v Ledhujích, obé okresu Polického",
+     "cs": "matka Františka, dcera podruha Jana Hrubého (Ledhuje č. 52) a Františky, dcery výměnkáře Františka Wentra"
+    }
+   ],
+   "plyne": "Zápis spojuje čtyři rody: Maroulovy, Máslovy, Hrubé a Wentrovy. Anna Máslová z č. 39 je babička Františky z otcovy strany.",
+   "src": "img/zdroje/96-7319_s012_velky.jpg"
+  },
+  {
+   "key": "130-17|10",
+   "title": "Sňatek Jana Hrubého a Anny – Ledhuje, 15. února 1813",
+   "zdroj": "SOA Zámrsk, sign. 130-17, snímek 10",
+   "crop": [
+    150,
+    160,
+    1880,
+    430
+   ],
+   "entry": [
+    180,
+    175,
+    1870,
+    425
+   ],
+   "marks": [
+    {
+     "box": [
+      [
+       205,
+       183,
+       355,
+       218
+      ],
+      [
+       186,
+       316,
+       324,
+       425
+      ]
+     ],
+     "lat": "D. 1813 … 15. Februarii",
+     "cs": "15. února 1813",
+     "pos": "top"
+    },
+    {
+     "box": [
+      413,
+      238,
+      452,
+      272
+     ],
+     "lat": "52.",
+     "cs": "dům č. 52",
+     "pos": "top"
+    },
+    {
+     "box": [
+      458,
+      188,
+      632,
+      392
+     ],
+     "lat": "Jan Syn Frantisska Hrubeho Sedlaka z Ledhug N. 52.",
+     "cs": "ženich Jan, syn sedláka Františka Hrubého z Ledhuj č. 52",
+     "pos": "top"
+    },
+    {
+     "box": [
+      718,
+      238,
+      754,
+      274
+     ],
+     "lat": "24",
+     "cs": "ženichovi 24 let",
+     "pos": "top"
+    },
+    {
+     "box": [
+      858,
+      193,
+      1047,
+      322
+     ],
+     "lat": "Anna dcera † Josefa … z Ledhug N. 3…",
+     "cs": "nevěsta Anna, dcera zesnulého Josefa (příjmení a druhou číslici domu – 34, nebo 37 – nečtu jistě)",
+     "nejiste": true,
+     "pos": "top"
+    },
+    {
+     "box": [
+      1193,
+      243,
+      1240,
+      282
+     ],
+     "lat": "20",
+     "cs": "nevěstě 20 let",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       1373,
+       333,
+       1507,
+       412
+      ],
+      [
+       1643,
+       343,
+       1852,
+       407
+      ]
+     ],
+     "lat": "Waclaw Winter … Chalupnjk",
+     "cs": "svědek Václav Winter, chalupník"
+    }
+   ],
+   "plyne": "Jan Hrubý ze statku č. 52 se ve čtyřiadvaceti oženil s dvacetiletou Annou z Ledhuj. Na tomto snímku je Annino příjmení nečitelné.",
+   "src": "img/zdroje/130-17_s010_velky.jpg"
+  },
+  {
+   "key": "130-18|23",
+   "title": "Narození Františky Wentrové – Ledhuje č. 45, 27. ledna 1821",
+   "zdroj": "SOA Zámrsk, sign. 130-18, snímek 23",
+   "crop": [
+    40,
+    140,
+    1800,
+    470
+   ],
+   "entry": [
+    50,
+    145,
+    1790,
+    462
+   ],
+   "marks": [
+    {
+     "box": [
+      48,
+      148,
+      227,
+      232
+     ],
+     "lat": "1821 27 Januari",
+     "cs": "27. ledna 1821",
+     "pos": "top"
+    },
+    {
+     "box": [
+      243,
+      238,
+      292,
+      274
+     ],
+     "lat": "45",
+     "cs": "dům č. 45",
+     "pos": "top"
+    },
+    {
+     "box": [
+      333,
+      222,
+      497,
+      282
+     ],
+     "lat": "Franzißka",
+     "cs": "Františka",
+     "pos": "top"
+    },
+    {
+     "box": [
+      118,
+      363,
+      642,
+      417
+     ],
+     "lat": "12. Maj 1856 Taufschein ausgefolgt",
+     "cs": "křestní list vydán 12. května 1856 (před svatbou)"
+    },
+    {
+     "box": [
+      807,
+      209,
+      911,
+      401
+     ],
+     "lat": "Franz …",
+     "cs": "otec Franz (příjmení Wentr znám z jiných zápisů, tady ho nečtu jistě)",
+     "nejiste": true,
+     "pos": "top"
+    },
+    {
+     "box": [
+      1000,
+      215,
+      1225,
+      460
+     ],
+     "lat": "Rosina Tochter des † Josephi … N. 3",
+     "cs": "matka Rosina, dcera zesnulého Josefa z č. 3",
+     "pos": "top"
+    }
+   ],
+   "plyne": "Františka se narodila v Ledhujích č. 45. Křestní list si vyzvedla v květnu 1856, tři týdny před svatbou s Janem Václavem Hrubým.",
+   "src": "img/zdroje/130-18_s023_velky.jpg"
+  },
+  {
+   "key": "130-7417|15",
+   "title": "Sňatek Jana Hrubého a Františky Wentrové – Ledhuje, 2. června 1856",
+   "zdroj": "SOA Zámrsk, sign. 130-7417, snímek 15",
+   "crop": [
+    120,
+    30,
+    1960,
+    170
+   ],
+   "entry": [
+    130,
+    40,
+    1955,
+    160
+   ],
+   "marks": [
+    {
+     "box": [
+      133,
+      45,
+      214,
+      114
+     ],
+     "lat": "2ten Juny 1856",
+     "cs": "2. června 1856",
+     "pos": "top"
+    },
+    {
+     "box": [
+      260,
+      63,
+      292,
+      100
+     ],
+     "lat": "52",
+     "cs": "dům č. 52",
+     "pos": "top"
+    },
+    {
+     "box": [
+      298,
+      45,
+      862,
+      150
+     ],
+     "lat": "Johann … ehelicher Sohn des Johann Hruby Ausgedingers aus Ledhuj N. 52 und dessen Ehewirtin Anna … aus Ledhuj N. 34 … getraut von mir Franz Brand Dechant",
+     "cs": "ženich Jan (Václav), syn výměnkáře Jana Hrubého z č. 52 a Anny z č. 34; oddával děkan Franz Brand"
+    },
+    {
+     "box": [
+      920,
+      63,
+      952,
+      100
+     ],
+     "lat": "34",
+     "cs": "ženichovi 34 let",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1045,
+      45,
+      1455,
+      160
+     ],
+     "lat": "Franziska eheliche Tochter des Franz … aus Ledhuj N. 45 und dessen Ehewirtin Rosina … N. 3 … Tauf. Zt. beider 12.5.",
+     "cs": "nevěsta Františka, dcera Franze z č. 45 a Rosiny; křestní listy obou z 12. května"
+    },
+    {
+     "box": [
+      1560,
+      63,
+      1594,
+      100
+     ],
+     "lat": "35",
+     "cs": "nevěstě 35 let",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1653,
+      103,
+      1952,
+      162
+     ],
+     "lat": "Franz W… aus Ledhuj N. 45",
+     "cs": "svědek Franz (Wentr) z č. 45, otec nevěsty – jméno čtu jen zčásti",
+     "nejiste": true,
+     "pos": "top"
+    }
+   ],
+   "plyne": "Jan Václav Hrubý (34) a Františka Wentrová (35) se vzali jako svobodní. Oba si křestní listy vyzvedli 12. května, tři týdny před svatbou.",
+   "src": "img/zdroje/130-7417_s015_velky.jpg"
+  },
+  {
+   "key": "2104|169",
+   "title": "Sňatek Vojtěcha Syrového a Kateřiny Závodné – Skořenice, říjen 1764",
+   "zdroj": "SOA Zámrsk, sign. 2104, snímek 169",
+   "crop": [
+    0,
+    60,
+    1760,
+    852
+   ],
+   "entry": [
+    0,
+    70,
+    1740,
+    830
+   ],
+   "marks": [
+    {
+     "box": [
+      0,
+      72,
+      1700,
+      137
+     ],
+     "lat": "…bris contraxit Matrimonium per verba de praesenti Honestus Sponsus",
+     "cs": "(… října) uzavřel sňatek slovy přítomného času počestný ženich",
+     "pos": "top"
+    },
+    {
+     "box": [
+      0,
+      153,
+      1700,
+      228
+     ],
+     "lat": "… superstes filius post defunctum Venceslaum Syrovi Civem Choczna…",
+     "cs": "(Vojtěch – jméno je u levého okraje ořezané) pozůstalý syn po zesnulém Václavu Syrovém, měšťanu choceňském",
+     "pos": "top"
+    },
+    {
+     "box": [
+      0,
+      230,
+      1700,
+      300
+     ],
+     "lat": "pariter honesta Sponsa Catharina filia Francisci Zavodni …",
+     "cs": "a rovněž počestná nevěsta Kateřina, dcera Františka Závodného",
+     "pos": "top"
+    },
+    {
+     "box": [
+      0,
+      315,
+      1700,
+      380
+     ],
+     "lat": "… subditi Dominio Chocznensi in Ecclesia filiali S…censi praesente",
+     "cs": "poddaného choceňského panství, ve filiálním kostele (skořenickém) za přítomnosti …"
+    },
+    {
+     "box": [
+      [
+       0,
+       485,
+       1000,
+       557
+      ],
+      [
+       990,
+       438,
+       1700,
+       500
+      ],
+      [
+       0,
+       543,
+       480,
+       612
+      ]
+     ],
+     "lat": "Testibus qui fuerunt D. Joannes … Actuarius, D. Venceslaus … [c]ivis ambo Choczna…",
+     "cs": "svědci: pan Jan … (aktuář) a pan Václav … měšťan, oba z Chocně – příjmení druhého svědka je u okraje ořezané",
+     "nejiste": true
+    },
+    {
+     "box": [
+      [
+       0,
+       755,
+       1000,
+       825
+      ],
+      [
+       900,
+       722,
+       1725,
+       790
+      ]
+     ],
+     "lat": "… die 30 7bris Dnica 17 post Pent. … die 7 8bris Dnica 18va",
+     "cs": "ohlášky 30. září (17. neděle po sv. Duchu) až 7. října (18. neděle) – číslice čtu jen přibližně",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Vojtěch je v zápisu „pozůstalý syn po zesnulém Václavu Syrovém“, takže jeho otec v roce 1764 už nežil. Den svatby i jméno ženicha jsou na tomto snímku ořezané u levého okraje.",
+   "src": "img/zdroje/2104_s169_velky.jpg"
+  },
+  {
+   "key": "2104|97",
+   "title": "Sňatek Václava, syna Jakuba Syrového, a Kateřiny – Choceň, 14. října 1742",
+   "zdroj": "SOA Zámrsk, sign. 2104, snímek 97, první zápis",
+   "crop": [
+    20,
+    170,
+    1760,
+    910
+   ],
+   "entry": [
+    30,
+    460,
+    1750,
+    905
+   ],
+   "marks": [
+    {
+     "box": [
+      180,
+      180,
+      1110,
+      282
+     ],
+     "lat": "Anno Domini 1742",
+     "cs": "roku Páně 1742",
+     "pos": "top"
+    },
+    {
+     "box": [
+      48,
+      512,
+      202,
+      557
+     ],
+     "lat": "z Chocznie",
+     "cs": "z Chocně",
+     "pos": "top"
+    },
+    {
+     "box": [
+      243,
+      481,
+      314,
+      534
+     ],
+     "lat": "14",
+     "cs": "14. (října)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      338,
+      468,
+      614,
+      622
+     ],
+     "lat": "octobris Waslaw wlastni syn Jakuba Syrowiho",
+     "cs": "října – Václav, vlastní syn Jakuba Syrového"
+    },
+    {
+     "box": [
+      338,
+      620,
+      622,
+      897
+     ],
+     "lat": "Katerzyna pozůstalá dcera po neb. Tomassowj … z Chocznie",
+     "cs": "Kateřina, pozůstalá dcera po zesnulém Tomášovi (příjmení nečtu jistě), z Chocně",
+     "nejiste": true
+    },
+    {
+     "box": [
+      645,
+      471,
+      1655,
+      609
+     ],
+     "lat": "Martin …, Antonin …, Anna Manželka Waclawa … wssichni z Chocznie",
+     "cs": "svědci Martin, Antonín a Anna, manželka Václava …, všichni z Chocně"
+    },
+    {
+     "box": [
+      638,
+      587,
+      1669,
+      815
+     ],
+     "lat": "oglassenj byli … Neděli 17 … to gest 9 Septembrij … Neděli 18 to gest 16 Septembrij … Neděli 19 to gest 23 Septembrij",
+     "cs": "ohlášky 9., 16. a 23. září (17.–19. neděle po sv. Duchu)"
+    },
+    {
+     "box": [
+      638,
+      805,
+      1669,
+      902
+     ],
+     "lat": "… octobrij w Chocznie od P. Patera Servi-liana …",
+     "cs": "(oddáni 14.) října v Chocni pátrem Serviliánem …"
+    }
+   ],
+   "plyne": "V roce 1742 se v Chocni oženil Václav, syn Jakuba Syrového. Zápis ale nedokazuje, že je to Václav, otec Vojtěcha z roku 1764.",
+   "src": "img/zdroje/2104_s097_velky.jpg"
+  },
+  {
+   "key": "6489|20",
+   "title": "Sňatek vdovce Františka Syrového – Choceň, 2. května 1887 (strana ženicha)",
+   "zdroj": "SOA Zámrsk, sign. 6489, snímek 20, první zápis",
+   "crop": [
+    190,
+    180,
+    1960,
+    1250
+   ],
+   "entry": [
+    195,
+    500,
+    1950,
+    1245
+   ],
+   "marks": [
+    {
+     "box": [
+      [
+       205,
+       428,
+       405,
+       492
+      ],
+      [
+       205,
+       525,
+       375,
+       745
+      ]
+     ],
+     "lat": "1887. Dne 2. máje",
+     "cs": "2. května 1887",
+     "pos": "top"
+    },
+    {
+     "box": [
+      198,
+      878,
+      472,
+      962
+     ],
+     "lat": "Choceň",
+     "cs": "oddáni v Chocni"
+    },
+    {
+     "box": [
+      [
+       428,
+       538,
+       502,
+       602
+      ],
+      [
+       448,
+       628,
+       552,
+       742
+      ]
+     ],
+     "lat": "215. / 165.",
+     "cs": "čísla domů 215 (nevěsta) a 165 (ženich)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      578,
+      538,
+      1762,
+      662
+     ],
+     "lat": "Syrový František, vochlář",
+     "cs": "ženich František Syrový, vochlář",
+     "pos": "top"
+    },
+    {
+     "box": [
+      558,
+      660,
+      1822,
+      1002
+     ],
+     "lat": "v továrně v Chocni č. 165., syn Františky, manželské dcery † Josefa Syrovýho, obuvníka z Chocně č. 364 a matky Ludmily, rozené Kumpoštovy z Chocně č. 65.",
+     "cs": "v továrně, Choceň č. 165; syn Františky, dcery zesnulého obuvníka Josefa Syrového (č. 364) a Ludmily roz. Kumpoštové (č. 65)"
+    },
+    {
+     "box": [
+      568,
+      1008,
+      1802,
+      1232
+     ],
+     "lat": "Po trojím ohlášení dne 17., 24. dubna a 1. máje 1887. v Chocni oddal je: Boh. Beránek kaplan",
+     "cs": "ohlášky 17. a 24. dubna a 1. května 1887, oddával kaplan Boh. Beránek"
+    },
+    {
+     "box": [
+      1848,
+      578,
+      1912,
+      1002
+     ],
+     "lat": "katolického",
+     "cs": "náboženství katolické"
+    }
+   ],
+   "plyne": "František je zapsán jako syn Františky, dcery obuvníka Josefa Syrového, a příjmení má po matce. Údaje o nevěstě jsou na protější straně knihy, mimo tento snímek.",
+   "src": "img/zdroje/6489_s020_velky.jpg"
+  },
+  {
+   "key": "3141|151",
+   "title": "Narození Josefa Syrového – Choceň č. 165, únor 1888",
+   "zdroj": "SOA Zámrsk, sign. 3141, snímek 151",
+   "crop": [
+    40,
+    80,
+    1920,
+    350
+   ],
+   "entry": [
+    50,
+    88,
+    1910,
+    345
+   ],
+   "marks": [
+    {
+     "box": [
+      [
+       66,
+       155,
+       145,
+       198
+      ],
+      [
+       78,
+       200,
+       160,
+       240
+      ]
+     ],
+     "lat": "22. 26. února",
+     "cs": "narozen 22., pokřtěn 26. února – v knize je 12. února, to nesouhlasí, ověřit",
+     "nejiste": true,
+     "pos": "top"
+    },
+    {
+     "box": [
+      163,
+      168,
+      264,
+      242
+     ],
+     "lat": "Jos. Knot… farář",
+     "cs": "křtil farář Jos. Knot…",
+     "pos": "top"
+    },
+    {
+     "box": [
+      303,
+      168,
+      417,
+      222
+     ],
+     "lat": "Josef",
+     "cs": "Josef",
+     "pos": "top"
+    },
+    {
+     "box": [
+      298,
+      233,
+      437,
+      308
+     ],
+     "lat": "Bez vyzn. …",
+     "cs": "pozdější tužková poznámka, že byl bez vyznání (podle knihy od roku 1924), čtu jen zčásti",
+     "nejiste": true
+    },
+    {
+     "box": [
+      556,
+      80,
+      922,
+      327
+     ],
+     "lat": "František Syrový, katol., vochlář v továrně v Chocni č. 165, syn Františky Syrový, manž. dcery † Josefa Syrového, obuvníka v Chocni č. 364 …",
+     "cs": "otec František Syrový, vochlář, Choceň č. 165, vnuk obuvníka Josefa Syrového"
+    },
+    {
+     "box": [
+      998,
+      93,
+      1312,
+      350
+     ],
+     "lat": "Anna, katol., vdova po † Františku Šmídovi, krejčím v Dlouhé Vsi č. 35, dcera Aloisie Tschinkel…",
+     "cs": "matka Anna, vdova po krejčím Františku Šmídovi, dcera Aloisie Tschinkelové"
+    },
+    {
+     "box": [
+      1313,
+      126,
+      1462,
+      252
+     ],
+     "lat": "Choceň č. 165",
+     "cs": "Choceň č. 165",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1445,
+      92,
+      1757,
+      327
+     ],
+     "lat": "Volf Václav … Františka … manželka Josefa Novohradského …",
+     "cs": "kmotři Václav Volf, dělník v přádelně, a Františka, manželka Josefa Novohradského",
+     "pos": "top"
+    }
+   ],
+   "plyne": "Josef se narodil v únoru 1888, necelý rok po svatbě rodičů. Jako jeho babička z matčiny strany je zapsaná Aloisie Tschinkelová.",
+   "src": "img/zdroje/3141_s151_velky.jpg"
   }
  ]
 }
