@@ -6721,6 +6721,788 @@
    ],
    "plyne": "Josef se narodil v únoru 1888, necelý rok po svatbě rodičů. Jako jeho babička z matčiny strany je zapsaná Aloisie Tschinkelová.",
    "src": "img/zdroje/3141_s151_velky.jpg"
+  },
+  {
+   "key": "24-3931|169",
+   "title": "Křest Anny, nemanželské dcery Aloisie Tschinkelové – Kout č. 16, 13. 2. 1855",
+   "zdroj": "SOA Zámrsk, sign. 24-3931, snímek 169",
+   "crop": [
+    30,
+    20,
+    1960,
+    290
+   ],
+   "entry": [
+    40,
+    70,
+    1950,
+    290
+   ],
+   "marks": [
+    {
+     "box": [
+      45,
+      74,
+      196,
+      190
+     ],
+     "lat": "Den 13ten Februar geboren, den 14. getauft",
+     "cs": "narozena 13. února (1855), pokřtěna 14.",
+     "pos": "top"
+    },
+    {
+     "box": [
+      198,
+      110,
+      232,
+      144
+     ],
+     "lat": "16.",
+     "cs": "dům č. 16",
+     "pos": "top"
+    },
+    {
+     "box": [
+      228,
+      106,
+      320,
+      144
+     ],
+     "lat": "Anna",
+     "cs": "Anna",
+     "pos": "top"
+    },
+    {
+     "box": [
+      463,
+      96,
+      627,
+      134
+     ],
+     "lat": "Taufschein 18…",
+     "cs": "později vydán křestní list – datum nečtu jistě",
+     "nejiste": true,
+     "pos": "top"
+    },
+    {
+     "box": [
+      650,
+      80,
+      995,
+      200
+     ],
+     "lat": "",
+     "cs": "prázdná kolonka – podle uspořádání stránky kolonka otce; dítě bylo nemanželské",
+     "nejiste": true
+    },
+    {
+     "box": [
+      998,
+      33,
+      1562,
+      180
+     ],
+     "lat": "Aloisia katholisch, eheliche Tochter des Joseph Tschinkel, Inwohners in Stiefwinkel …",
+     "cs": "matka Aloisie, katolička, manželská dcera Josefa Tschinkela, podruha v Koutu"
+    },
+    {
+     "box": [
+      56,
+      213,
+      357,
+      292
+     ],
+     "lat": "Hebamme Karoline … geprüft",
+     "cs": "porodní bába Karolína …, zkoušená"
+    }
+   ],
+   "plyne": "Anna se narodila jako nemanželská dcera Aloisie Tschinkelové v Koutu u Deštného, otec v zápisu není. Podle navazujících zápisů je to pozdější druhá žena vochláře Františka Syrového.",
+   "src": "img/zdroje/24-3931_s169_velky.jpg"
+  },
+  {
+   "key": "24-7674|84",
+   "title": "Sňatek Franze Schmidy a Anny Tschinkelové – Deštné, 9. července 1879",
+   "zdroj": "SOA Zámrsk, sign. 24-7674, snímek 84",
+   "crop": [
+    30,
+    30,
+    1960,
+    250
+   ],
+   "entry": [
+    40,
+    38,
+    1950,
+    240
+   ],
+   "marks": [
+    {
+     "box": [
+      45,
+      47,
+      126,
+      116
+     ],
+     "lat": "Am 9. Juli",
+     "cs": "9. července (1879)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      151,
+      53,
+      190,
+      87
+     ],
+     "lat": "35.",
+     "cs": "dům č. 35",
+     "pos": "top"
+    },
+    {
+     "box": [
+      198,
+      36,
+      696,
+      198
+     ],
+     "lat": "Franz Schmida, Schneider, ehelicher Sohn des Johann Schmida, Häusler in Langendorf N. 35 und seiner Gattin Marie, geborene … aus Lhotka N. 1, beide katholisch aus dem Reichenauer Amtsbezirke",
+     "cs": "ženich František Šmída, krejčí, syn domkáře Jana Šmídy z Dlouhé Vsi č. 35 a Marie z Lhotky č. 1, z rychnovského okresu",
+     "pos": "top"
+    },
+    {
+     "box": [
+      45,
+      159,
+      849,
+      234
+     ],
+     "lat": "… Aufgebote am 22. 29. Juni und 6. Juli …",
+     "cs": "ohlášky 22. a 29. června a 6. července – čtu jen zčásti",
+     "nejiste": true
+    },
+    {
+     "box": [
+      1033,
+      65,
+      1449,
+      275
+     ],
+     "lat": "Anna, uneheliche Tochter der Aloisia Tschinkel, ehelichen Tochter des Josef Tschinkel, Inwohners in Deschney N. 16 und seiner Gattin Anna, geborene Diener aus Wildschitz N. 21, beide katholisch aus dem Neustädter Amtsbezirke",
+     "cs": "nevěsta Anna, nemanželská dcera Aloisie Tschinkelové; děd Josef Tschinkel, podruh v Deštném č. 16, babička Anna roz. Dienerová z Wildschitz č. 21"
+    },
+    {
+     "box": [
+      1539,
+      77,
+      1896,
+      228
+     ],
+     "lat": "Ignaz …, Tischler in Deschney N. 48 · Ignaz …, Häusler … N. 26, beide katholisch",
+     "cs": "svědci: Ignác …, truhlář v Deštném č. 48, a Ignác …, domkář z č. 26"
+    }
+   ],
+   "plyne": "Anna se v Deštném vdala za krejčího Františka Šmídu z Dlouhé Vsi. Zápis jmenuje oba její prarodiče z matčiny strany.",
+   "src": "img/zdroje/24-7674_s084_velky.jpg"
+  },
+  {
+   "key": "144-2|25",
+   "title": "Křest Karla Dörnera – Sedloňov (Sattel), listopad 1768",
+   "zdroj": "SOA Zámrsk, sign. 144-2, snímek 25",
+   "crop": [
+    90,
+    90,
+    1958,
+    340
+   ],
+   "entry": [
+    100,
+    140,
+    1958,
+    325
+   ],
+   "marks": [
+    {
+     "box": [
+      110,
+      184,
+      240,
+      250
+     ],
+     "lat": "Sattl",
+     "cs": "Sedloňov",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       428,
+       146,
+       1958,
+       212
+      ],
+      [
+       583,
+       207,
+       820,
+       265
+      ]
+     ],
+     "lat": "… filius Carolus Joannis Xphori Dörner ex Matre Susanna Sub[ditorum] Opocznensium",
+     "cs": "syn Karel, otec Jan Kryštof Dörner, matka Zuzana, poddaní opočenského panství",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       816,
+       207,
+       1892,
+       265
+      ],
+      [
+       433,
+       262,
+       1400,
+       322
+      ]
+     ],
+     "lat": "L. Antonius … Georgius Hartman et Susanna uxor Antonij … ex Sattl",
+     "cs": "kmotři Antonín …, Jiří Hartman a Zuzana, manželka Antonína …, ze Sedloňova"
+    },
+    {
+     "box": [
+      1398,
+      262,
+      1958,
+      322
+     ],
+     "lat": "bapt. Fran. Pfister Curatus Loci",
+     "cs": "křtil místní farář František Pfister"
+    }
+   ],
+   "plyne": "Karel se narodil v Sedloňově Janu Kryštofovi a Zuzaně Dörnerovým. Zápis stojí v listopadovém oddílu roku 1768, hned nad ním začíná prosinec.",
+   "src": "img/zdroje/144-2_s025_velky.jpg"
+  },
+  {
+   "key": "144-5|96",
+   "title": "Sňatek Karla Dörnera a Susanny Herzigové – Sedloňov č. 47, 20. listopadu 1792",
+   "zdroj": "SOA Zámrsk, sign. 144-5, snímek 96",
+   "crop": [
+    20,
+    0,
+    1958,
+    580
+   ],
+   "entry": [
+    25,
+    150,
+    1950,
+    575
+   ],
+   "marks": [
+    {
+     "box": [
+      [
+       27,
+       0,
+       125,
+       100
+      ],
+      [
+       27,
+       164,
+       130,
+       267
+      ]
+     ],
+     "lat": "Novem-ber · 20. 9bris",
+     "cs": "20. listopadu (1792)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      174,
+      164,
+      238,
+      218
+     ],
+     "lat": "47.",
+     "cs": "dům č. 47",
+     "pos": "top"
+    },
+    {
+     "box": [
+      243,
+      155,
+      561,
+      453
+     ],
+     "lat": "Karl Sohn nach dem † Christof Dörner von Sattel",
+     "cs": "ženich Karel, syn zesnulého Kryštofa Dörnera ze Sedloňova",
+     "pos": "top"
+    },
+    {
+     "box": [
+      615,
+      164,
+      679,
+      218
+     ],
+     "lat": "25",
+     "cs": "ženichovi 25 let",
+     "pos": "top"
+    },
+    {
+     "box": [
+      831,
+      155,
+      1188,
+      453
+     ],
+     "lat": "Susanna Tochter nach dem † Adam Herzig von Sattel",
+     "cs": "nevěsta Zuzana, dcera zesnulého Adama Herziga ze Sedloňova",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1273,
+      164,
+      1335,
+      218
+     ],
+     "lat": "24",
+     "cs": "nevěstě 24 let",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1439,
+      155,
+      1894,
+      384
+     ],
+     "lat": "… Schulz von Sattel · Adam … von Sattel",
+     "cs": "svědci: sedloňovský rychtář … a Adam … ze Sedloňova"
+    },
+    {
+     "box": [
+      370,
+      478,
+      982,
+      571
+     ],
+     "lat": "Cop. Burkhard … Pfarrer",
+     "cs": "oddával farář Burkhard …"
+    }
+   ],
+   "plyne": "Karel Dörner (25) a Zuzana Herzigová (24) se vzali v listopadu 1792. Otcové obou už tehdy nežili.",
+   "src": "img/zdroje/144-5_s096_velky.jpg"
+  },
+  {
+   "key": "144-3943|77",
+   "title": "Sňatek Antona Proße a Franzisky Dörnerové – Sedloňov, 15. června 1858",
+   "zdroj": "SOA Zámrsk, sign. 144-3943, snímek 77",
+   "crop": [
+    20,
+    0,
+    2000,
+    300
+   ],
+   "entry": [
+    30,
+    4,
+    1990,
+    290
+   ],
+   "marks": [
+    {
+     "box": [
+      33,
+      10,
+      132,
+      96
+     ],
+     "lat": "Juni den 15. 1858",
+     "cs": "15. června 1858",
+     "pos": "top"
+    },
+    {
+     "box": [
+      139,
+      16,
+      173,
+      43
+     ],
+     "lat": "32",
+     "cs": "dům č. 32",
+     "pos": "top"
+    },
+    {
+     "box": [
+      203,
+      4,
+      790,
+      173
+     ],
+     "lat": "Anton Proß, Müllergesell aus …, ehelicher Sohn des Josef Proß, Ausgedinger aus … N. 6 und dessen Eheweib Agatha, geborene … alle zum Bezirksamte Reichenau gehörig",
+     "cs": "ženich Anton Proß, mlynářský tovaryš, syn výměnkáře Josefa Proße a Agáty, z rychnovského okresu"
+    },
+    {
+     "box": [
+      845,
+      16,
+      879,
+      49
+     ],
+     "lat": "30",
+     "cs": "ženichovi 30 let",
+     "pos": "top"
+    },
+    {
+     "box": [
+      110,
+      192,
+      790,
+      284
+     ],
+     "lat": "Nach dreimaligem Aufgebote, als: am 3. 6. u. 13. Juni 1858 … getraut von mir: P. Josef … Pfarrer",
+     "cs": "po třech ohláškách 3., 6. a 13. června 1858 oddal farář P. Josef …"
+    },
+    {
+     "box": [
+      998,
+      4,
+      1578,
+      190
+     ],
+     "lat": "Franziska Dörner, eheliche Tochter des Johann Dörner, Inwohners aus Sattel N. 32 und dessen Eheweib Maria, geborene … N. 26, alle zum Bezirksamte Neustadt gehörig",
+     "cs": "nevěsta Františka Dörnerová, dcera podruha Jana Dörnera ze Sedloňova č. 32 a Marie"
+    },
+    {
+     "box": [
+      1626,
+      13,
+      1657,
+      47
+     ],
+     "lat": "20",
+     "cs": "nevěstě 20 let",
+     "pos": "top"
+    },
+    {
+     "box": [
+      998,
+      180,
+      1590,
+      267
+     ],
+     "lat": "Der Vater der minderjährigen Braut willigt in diese Ehe ein, dessen eigenhändige Unterschrift: +++ Johann Dörner",
+     "cs": "otec nezletilé nevěsty se sňatkem souhlasí; jeho vlastnoruční „podpis“: tři křížky, Johann Dörner"
+    }
+   ],
+   "plyne": "Františce bylo 20 let a byla tedy nezletilá, proto musel souhlasit otec. Psát neuměl, a tak místo podpisu udělal tři křížky.",
+   "src": "img/zdroje/144-3943_s077_velky.jpg"
+  },
+  {
+   "key": "144-3938|195",
+   "title": "Narození Anny Proßové s pozdější legitimací – Sedloňov č. 88, leden 1889",
+   "zdroj": "SOA Zámrsk, sign. 144-3938, snímek 195",
+   "crop": [
+    20,
+    0,
+    1470,
+    246
+   ],
+   "entry": [
+    30,
+    8,
+    1462,
+    244
+   ],
+   "marks": [
+    {
+     "box": [
+      33,
+      10,
+      143,
+      90
+     ],
+     "lat": "Jänner 28. geboren …",
+     "cs": "narozena 28. ledna (1889)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      174,
+      33,
+      202,
+      61
+     ],
+     "lat": "88",
+     "cs": "dům č. 88",
+     "pos": "top"
+    },
+    {
+     "box": [
+      238,
+      38,
+      302,
+      74
+     ],
+     "lat": "Anna",
+     "cs": "Anna",
+     "pos": "top"
+    },
+    {
+     "box": [
+      192,
+      80,
+      355,
+      149
+     ],
+     "lat": "cop. 23/10 1915 in …",
+     "cs": "pozdější přípis: oddána 23. 10. 1915",
+     "pos": "top"
+    },
+    {
+     "box": [
+      139,
+      127,
+      555,
+      184
+     ],
+     "lat": "… Johanna Mader aus Sattel N. 3…",
+     "cs": "původně zapsaná jen matka Johanna Maderová ze Sedloňova"
+    },
+    {
+     "box": [
+      33,
+      186,
+      555,
+      231
+     ],
+     "lat": "per subsequens Matrimonium die 19. Febr. 1890 contractum … legitimata",
+     "cs": "legitimována následným sňatkem uzavřeným 19. února 1890"
+    },
+    {
+     "box": [
+      563,
+      16,
+      1002,
+      190
+     ],
+     "lat": "… Anton Proß, katholisch, Weber in Sattel N. 88, ehelicher Sohn des Anton Proß, Müllers in Sattel N. 130 und dessen Ehegattin Franziska geb. Dörner aus Sattel N. 32 …",
+     "cs": "dopsaný otec Anton Proß, tkadlec v č. 88, syn mlynáře Antona Proße a Františky roz. Dörnerové"
+    },
+    {
+     "box": [
+      586,
+      198,
+      896,
+      243
+     ],
+     "lat": "Anton Proß · Johanna Mader",
+     "cs": "vlastnoruční podpisy obou rodičů"
+    },
+    {
+     "box": [
+      1033,
+      16,
+      1461,
+      208
+     ],
+     "lat": "Johanna Mader, katholisch, eheliche Tochter des Johann Mader, Inwohners in Sattel N. 78 und dessen Gattin Franciska geb. Knopp aus … N. 150 …",
+     "cs": "matka Johanna Maderová, dcera podruha Jana Madera (č. 78) a Františky roz. Knoppové"
+    }
+   ],
+   "plyne": "Anna se narodila před svatbou rodičů. Po sňatku v únoru 1890 se otec Anton Proß dodatečně přihlásil k otcovství a oba rodiče přípis podepsali.",
+   "src": "img/zdroje/144-3938_s195_velky.jpg"
+  },
+  {
+   "key": "144-3938|41",
+   "title": "Narození Johanny Maderové – Sedloňov č. 120, 21. června 1863",
+   "zdroj": "SOA Zámrsk, sign. 144-3938, snímek 41",
+   "crop": [
+    20,
+    0,
+    1470,
+    186
+   ],
+   "entry": [
+    30,
+    10,
+    1462,
+    186
+   ],
+   "marks": [
+    {
+     "box": [
+      33,
+      16,
+      132,
+      90
+     ],
+     "lat": "den 21 Juni geboren, den 22 Juni getauft",
+     "cs": "narozena 21., pokřtěna 22. června (1863)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      150,
+      33,
+      192,
+      62
+     ],
+     "lat": "120",
+     "cs": "dům č. 120",
+     "pos": "top"
+    },
+    {
+     "box": [
+      208,
+      26,
+      310,
+      68
+     ],
+     "lat": "Johanna",
+     "cs": "Johanna",
+     "pos": "top"
+    },
+    {
+     "box": [
+      563,
+      16,
+      1002,
+      186
+     ],
+     "lat": "Mader Johann, katholisch, …, ehelicher Sohn des … Mader, Ausgedinger aus Sattel N. 120 und dessen Gattin Johanna, geborene … aus Sattel N. 1…, Bez. Neustadt",
+     "cs": "otec Jan Mader, syn výměnkáře … Madera ze Sedloňova č. 120"
+    },
+    {
+     "box": [
+      998,
+      0,
+      1461,
+      155
+     ],
+     "lat": "Franziska …, eheliche Tochter weil. Josef … aus Gießhübel N. 100 und dessen Ehegattin … aus Gießhübel, Bez. Neustadt",
+     "cs": "matka Františka, dcera zesnulého Josefa (Knoppa) z Olešnice v Orlických horách č. 100 – příjmení na snímku nečtu jistě",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Johanna se narodila v Sedloňově č. 120 v domě, kde jako výměnkář žil její děd z otcovy strany.",
+   "src": "img/zdroje/144-3938_s041_velky.jpg"
+  },
+  {
+   "key": "117-2|68",
+   "title": "Křest Ignatia Madera – Dlouhé č. 25, 31. července 1780",
+   "zdroj": "SOA Zámrsk, sign. 117-2, snímek 68, poslední zápis",
+   "crop": [
+    100,
+    20,
+    1760,
+    1830
+   ],
+   "skip_y": [
+    [
+     235,
+     1555
+    ]
+   ],
+   "entry": [
+    110,
+    1560,
+    1750,
+    1828
+   ],
+   "marks": [
+    {
+     "box": [
+      467,
+      29,
+      1519,
+      107
+     ],
+     "lat": "Baptizati Anno 1780 in Mense Julio",
+     "cs": "pokřtění roku 1780 v měsíci červenci",
+     "pos": "top"
+    },
+    {
+     "box": [
+      125,
+      1595,
+      187,
+      1657
+     ],
+     "lat": "31",
+     "cs": "31. (července)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      212,
+      1565,
+      382,
+      1696
+     ],
+     "lat": "P. Fran. … Capellanus",
+     "cs": "křtil kaplan P. František …",
+     "pos": "top"
+    },
+    {
+     "box": [
+      387,
+      1556,
+      557,
+      1696
+     ],
+     "lat": "Ignatius",
+     "cs": "Ignác",
+     "pos": "top"
+    },
+    {
+     "box": [
+      572,
+      1604,
+      888,
+      1784
+     ],
+     "lat": "Mader Antonius … textor, … Anna Rosina, subditi Opocznenses",
+     "cs": "rodiče Antonín Mader, tkadlec, a Anna Rozina, poddaní opočenského panství"
+    },
+    {
+     "box": [
+      1322,
+      1740,
+      1394,
+      1793
+     ],
+     "lat": "Catho",
+     "cs": "katolík"
+    },
+    {
+     "box": [
+      1438,
+      1711,
+      1618,
+      1803
+     ],
+     "lat": "Dlauhey",
+     "cs": "Dlouhé"
+    },
+    {
+     "box": [
+      1643,
+      1718,
+      1715,
+      1797
+     ],
+     "lat": "25",
+     "cs": "dům č. 25"
+    }
+   ],
+   "plyne": "Ignác se narodil v Dlouhém č. 25. Jeho otec Antonín Mader byl tkadlec a rodina patřila k poddaným opočenského panství.",
+   "src": "img/zdroje/117-2_s068_velky.jpg"
   }
  ]
 }
