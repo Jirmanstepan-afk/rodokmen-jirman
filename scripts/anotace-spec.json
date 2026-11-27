@@ -9543,6 +9543,342 @@
    ],
    "plyne": "Agatha byla pokřtěna v únoru 1788 jako dcera Ignaze Becka a Kathariny. Zápis leží na samém spodku strany a snímek ho uřízl, den a dolní řádek tu proto vidět nejsou.",
    "src": "img/zdroje/171-3_s051_velky.jpg"
+  },
+  {
+   "key": "CDIAL-618-2-3830|10",
+   "title": "Křest Thaddea Franciska Spadta – Meryszczów č. 42, 9./14. června 1931",
+   "zdroj": "CDIAL Lvov, fond 618, op. 2, spr. 3830, snímek 10",
+   "crop": [
+    0,
+    0,
+    1000,
+    425
+   ],
+   "entry": [
+    90,
+    200,
+    910,
+    395
+   ],
+   "marks": [
+    {
+     "box": [
+      100,
+      68,
+      155,
+      90
+     ],
+     "lat": "1931",
+     "cs": "rok 1931",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       115,
+       210,
+       135,
+       238
+      ],
+      [
+       110,
+       240,
+       150,
+       262
+      ]
+     ],
+     "lat": "9 Junii",
+     "cs": "narozen 9. června",
+     "pos": "top"
+    },
+    {
+     "box": [
+      150,
+      210,
+      175,
+      238
+     ],
+     "lat": "14",
+     "cs": "pokřtěn 14. června",
+     "pos": "top"
+    },
+    {
+     "box": [
+      198,
+      210,
+      228,
+      238
+     ],
+     "lat": "42",
+     "cs": "dům č. 42",
+     "pos": "top"
+    },
+    {
+     "box": [
+      250,
+      210,
+      335,
+      290
+     ],
+     "lat": "Thaddeus Franciscus",
+     "cs": "Tadeáš František",
+     "pos": "top"
+    },
+    {
+     "box": [
+      500,
+      205,
+      670,
+      310
+     ],
+     "lat": "Petrus Spadt sutor fil. Martini et Elisabeth Leicht",
+     "cs": "otec Petr Spadt, švec, syn Martina a Alžběty Leicht"
+    },
+    {
+     "box": [
+      500,
+      312,
+      645,
+      395
+     ],
+     "lat": "Maria Miśków fil. Bartholomaei et Catharinae …",
+     "cs": "matka Marie Miśków, dcera Bartoloměje a Kateřiny …",
+     "nejiste": true
+    },
+    {
+     "box": [
+      818,
+      210,
+      905,
+      295
+     ],
+     "lat": "копія а/г 26.V.67р",
+     "cs": "tužkou: opis vydán 26. 5. 1967"
+    }
+   ],
+   "plyne": "Děda se narodil 9. června 1931 v Meryszczówě č. 42 a 14. června byl pokřtěn. Otec Petr Spadt byl švec, matka Marie rozená Miśków. Tužková poznámka ukazuje, že z matriky byl v roce 1967 vydán opis.",
+   "src": "img/zdroje/CDIAL-618-2-3830_s010_velky.jpg"
+  },
+  {
+   "key": "CDIAL-618-2-2697|331",
+   "title": "Marie Spadtová za kmotru – křest Františka Szlachetka, Meryszczów 1929",
+   "zdroj": "CDIAL Lvov, fond 618, op. 2, spr. 2697, snímek 331",
+   "crop": [
+    100,
+    20,
+    1320,
+    370
+   ],
+   "entry": [
+    150,
+    235,
+    1320,
+    345
+   ],
+   "marks": [
+    {
+     "box": [
+      483,
+      56,
+      756,
+      98
+     ],
+     "lat": "Meryszczów",
+     "cs": "oddíl Meryszczów",
+     "pos": "top"
+    },
+    {
+     "box": [
+      190,
+      238,
+      325,
+      290
+     ],
+     "lat": "30 Augusti · 1 Septembris",
+     "cs": "narozen 30. srpna, pokřtěn 1. září (1929)"
+    },
+    {
+     "box": [
+      399,
+      240,
+      504,
+      275
+     ],
+     "lat": "Franciscus",
+     "cs": "František",
+     "pos": "top"
+    },
+    {
+     "box": [
+      651,
+      238,
+      875,
+      345
+     ],
+     "lat": "Michael Szlachetko … Anna …",
+     "cs": "rodiče Michael Szlachetko a Anna …",
+     "nejiste": true
+    },
+    {
+     "box": [
+      882,
+      240,
+      980,
+      275
+     ],
+     "lat": "Joannes Padyk",
+     "cs": "kmotr Jan Padyk",
+     "pos": "top"
+    },
+    {
+     "box": [
+      882,
+      272,
+      1030,
+      322
+     ],
+     "lat": "Maria Spadt ux. Petri",
+     "cs": "kmotra Marie Spadtová, manželka Petra"
+    }
+   ],
+   "plyne": "Na podzim 1929 byla Marie už zapsaná jako „Spadt, manželka Petra“. S Petrem se tedy vzala nejpozději v srpnu 1929.",
+   "src": "img/zdroje/CDIAL-618-2-2697_s331_velky.jpg"
+  },
+  {
+   "key": "CDIAL-618-2-2697|145",
+   "title": "Sňatky Přemyšlany 1924: oddíl Meryszczów „hoc anno vacat“",
+   "zdroj": "CDIAL Lvov, fond 618, op. 2, spr. 2697, snímek 145",
+   "crop": [
+    250,
+    30,
+    1650,
+    780
+   ],
+   "entry": [
+    700,
+    640,
+    1400,
+    715
+   ],
+   "marks": [
+    {
+     "box": [
+      731,
+      655,
+      1003,
+      705
+     ],
+     "lat": "Meryszczów",
+     "cs": "oddíl Meryszczów"
+    },
+    {
+     "box": [
+      1054,
+      663,
+      1377,
+      705
+     ],
+     "lat": "hoc anno vacat",
+     "cs": "tohoto roku nic (žádný sňatek)"
+    }
+   ],
+   "plyne": "V roce 1924 nebyl v Meryszczówě zapsán v římskokatolické knize žádný sňatek. Svatba Petra a Marie tu tedy být nemůže.",
+   "src": "img/zdroje/CDIAL-618-2-2697_s145_velky.jpg"
+  },
+  {
+   "key": "CDIAL-618-2-2697|164",
+   "title": "Jediná meryszczówská svatba roku 1925: Machnowski × Czerkawska, 26. září",
+   "zdroj": "CDIAL Lvov, fond 618, op. 2, spr. 2697, snímek 164",
+   "crop": [
+    100,
+    300,
+    1500,
+    820
+   ],
+   "entry": [
+    140,
+    395,
+    1420,
+    800
+   ],
+   "marks": [
+    {
+     "box": [
+      552,
+      323,
+      816,
+      374
+     ],
+     "lat": "Meryszczów",
+     "cs": "oddíl Meryszczów",
+     "pos": "top"
+    },
+    {
+     "box": [
+      161,
+      408,
+      264,
+      502
+     ],
+     "lat": "26. Septembris",
+     "cs": "26. září (1925)"
+    },
+    {
+     "box": [
+      297,
+      400,
+      510,
+      723
+     ],
+     "lat": "Felix Henricus Machnowski, kapitan I p. Leg. … natus in Złoczów et habitans Varsaviae",
+     "cs": "ženich Felix Henryk Machnowski, kapitán 1. pěšího pluku Legií, narozen ve Złoczowě, bytem ve Varšavě"
+    },
+    {
+     "box": [
+      570,
+      425,
+      612,
+      460
+     ],
+     "lat": "29",
+     "cs": "29 let",
+     "pos": "top"
+    },
+    {
+     "box": [
+      672,
+      400,
+      884,
+      706
+     ],
+     "lat": "Ludovica Helena Czerkawska … nata et habitans in Meryszczów",
+     "cs": "nevěsta Ludwika Helena Czerkawska, narozená a bytem v Meryszczówě"
+    },
+    {
+     "box": [
+      943,
+      425,
+      980,
+      460
+     ],
+     "lat": "26",
+     "cs": "26 let",
+     "pos": "top"
+    },
+    {
+     "box": [
+      926,
+      620,
+      1403,
+      765
+     ],
+     "lat": "Producti ex parte sponsi … Warszawa …",
+     "cs": "doklady ženicha, mimo jiné povolení k sňatku z Varšavy",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Jediná svatba v Meryszczówě v roce 1925 se naší rodiny netýká. Ženichem byl kapitán Legií z Varšavy, nevěstou dcera Władysława Norberta Czerkawského z Meryszczówa.",
+   "src": "img/zdroje/CDIAL-618-2-2697_s164_velky.jpg"
   }
  ]
 }
