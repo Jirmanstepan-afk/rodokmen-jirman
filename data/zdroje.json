@@ -890,6 +890,36 @@
       "nazev": "ЦДІАЛ Lvov, f. 618 op. 2 spr. 3036",
       "popis": "Římskokatolické matriky (kopie) farnosti Wołków (Вовків) s obcemi Bitka, Brykoń, Ładańce, Meryszczów, Pletenice aj., 1933–1936",
       "url": "https://archium.tsdial.archives.gov.ua/files/230351/"
+    },
+    "CDIAL-618-2-3103": {
+      "nazev": "ЦДІАЛ Lvov, f. 618 op. 2 spr. 3103",
+      "popis": "Římskokatolické matriky farnosti Świrz s obcemi Kimirz, Kopań, Tuczne aj. (1901–1902, 1904, 1906–1913) a Nowosielce (1933–1937)",
+      "url": "https://archium.tsdial.archives.gov.ua/files/230418/"
+    },
+    "CDIAL-618-2-2567": {
+      "nazev": "ЦДІАЛ Lvov, f. 618 op. 2 spr. 2567",
+      "popis": "Římskokatolické matriky (kopie) farnosti Świrz s obcemi Kimirz, Ostałowice, Tuczne aj., 1890–1900",
+      "url": "https://archium.tsdial.archives.gov.ua/files/229882/"
+    },
+    "CDIAL-618-2-2705": {
+      "nazev": "ЦДІАЛ Lvov, f. 618 op. 2 spr. 2705",
+      "popis": "Římskokatolické matriky farnosti Świrz s obcemi Hlibowice, Kimirz, Kopań aj., 1914–1924",
+      "url": "https://archium.tsdial.archives.gov.ua/files/230020/"
+    },
+    "CDIAL-618-2-3104": {
+      "nazev": "ЦДІАЛ Lvov, f. 618 op. 2 spr. 3104",
+      "popis": "Římskokatolické matriky farnosti Świrz s obcemi Hlibowice Świrskie, Kimirz, Kopań, Niedzieliska, 1925–1937",
+      "url": "https://archium.tsdial.archives.gov.ua/files/230419/"
+    },
+    "CDIAL-618-2-3154": {
+      "nazev": "ЦДІАЛ Lvov, f. 618 op. 2 spr. 3154",
+      "popis": "Římskokatolická oddací matrika obce Kimirz (s Niedzieliskami), 1895–1939",
+      "url": "https://archium.tsdial.archives.gov.ua/files/230469/"
+    },
+    "CDIAL-618-2-2697": {
+      "nazev": "ЦДІАЛ Lvov, f. 618 op. 2 spr. 2697",
+      "popis": "Římskokatolické matriky farnosti Przemyślany s obcemi (vč. Meryszczów), 1921–1930",
+      "url": "https://archium.tsdial.archives.gov.ua/files/230012/"
     }
   },
   "aliasy": {
@@ -5312,6 +5342,51 @@
       "nahled": "img/zdroje/CDIAL-618-2-3036_s033.jpg",
       "velky": "img/zdroje/CDIAL-618-2-3036_s033_velky.jpg",
       "vyrez_soubor": "s033-1935-02-03-krest-Ludovicus-Spadt-Meryszczow-42.jpg"
+    },
+    "CDIAL-618-2-3103|115": {
+      "signatura": "CDIAL-618-2-3103",
+      "snimek": 115,
+      "url": "https://archium.tsdial.archives.gov.ua/file-viewer/230418#file-911579",
+      "vyrez": "zápis",
+      "nahled": "img/zdroje/CDIAL-618-2-3103_s115.jpg",
+      "velky": "img/zdroje/CDIAL-618-2-3103_s115_velky.jpg",
+      "vyrez_soubor": "s115-1904-04-14-krest-Petrus-Spadt-Kimirz-119.jpg"
+    },
+    "CDIAL-618-2-2567|7": {
+      "signatura": "CDIAL-618-2-2567",
+      "snimek": 7,
+      "url": "https://archium.tsdial.archives.gov.ua/file-viewer/229882#file-737416",
+      "vyrez": "zápis",
+      "nahled": "img/zdroje/CDIAL-618-2-2567_s007.jpg",
+      "velky": "img/zdroje/CDIAL-618-2-2567_s007_velky.jpg",
+      "vyrez_soubor": "s007-1890-07-01-snatek-Martinus-Spadt-Elisabetha-Leicht-Kimirz-119.jpg"
+    },
+    "CDIAL-618-2-3104|428": {
+      "signatura": "CDIAL-618-2-3104",
+      "snimek": 428,
+      "url": "https://archium.tsdial.archives.gov.ua/file-viewer/230419#file-914846",
+      "vyrez": "zápis",
+      "nahled": "img/zdroje/CDIAL-618-2-3104_s428.jpg",
+      "velky": "img/zdroje/CDIAL-618-2-3104_s428_velky.jpg",
+      "vyrez_soubor": "s428-1934-11-20-snatek-Martinus-Spadt-ml-Anna-Spadt-Kimirz.jpg"
+    },
+    "CDIAL-618-2-2705|238": {
+      "signatura": "CDIAL-618-2-2705",
+      "snimek": 238,
+      "url": "https://archium.tsdial.archives.gov.ua/file-viewer/230020#file-767294",
+      "vyrez": "zápis",
+      "nahled": "img/zdroje/CDIAL-618-2-2705_s238.jpg",
+      "velky": "img/zdroje/CDIAL-618-2-2705_s238_velky.jpg",
+      "vyrez_soubor": "s238-1919-05-19-snatek-Joannes-Spadt-Agnes-Treffler-Kimirz.jpg"
+    },
+    "CDIAL-618-2-2705|301": {
+      "signatura": "CDIAL-618-2-2705",
+      "snimek": 301,
+      "url": "https://archium.tsdial.archives.gov.ua/file-viewer/230020#file-767674",
+      "vyrez": "zápis",
+      "nahled": "img/zdroje/CDIAL-618-2-2705_s301.jpg",
+      "velky": "img/zdroje/CDIAL-618-2-2705_s301_velky.jpg",
+      "vyrez_soubor": "s301-1921-09-13-snatek-Adamus-Spadt-Maria-Treffler-Kimirz-117.jpg"
     }
   }
 }

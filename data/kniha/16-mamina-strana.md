@@ -16,9 +16,21 @@ Petr Špadt nezemřel v roce 1936, jak jsme si pamatovali, ale 2. listopadu 1934
 
 ![CDIAL-618-2-3036/29]
 
-Rod Spadtů pochází z německé kolonie Kimirz, kterou v roce 1784 založili kolonisté za Josefa II., asi 20 km od Meryszczówa. V polském rejstříku Geneteka je tam Petr („Piotr Schpadt“) zapsán s narozením 14. 4. 1904 a se stejnými rodiči. V Meryszczówě žil i jeho bratr Ferdinand, kterému se tam v letech 1930 a 1931 narodili synové. Rodinná paměť mluví o „třech bratrech“, Geneteka jich zná čtyři: Ferdinanda, Jana, Adama a Marcina.[?q-spadt-puvod]
+Rod Spadtů pochází z německé kolonie Kimirz (dnes Кимир), kterou v roce 1784 založili kolonisté za Josefa II. Leží jen asi 7 km od Meryszczówa. Petrův křest jsem teď našel přímo v matrice farnosti Świrz: [[petr-spadt|Petr]] se narodil 14. dubna 1904 v Kimirzi v domě č. 119 a druhý den byl pokřtěn.[^CDIAL-618-2-3103/115: křest Petrus, nar. 14. 4., pokřtěn 15. 4. 1904, Kimirz č. 119; otec Martinus Spadt, ligni faber, syn Mathiase a Anny Trefler; matka Elisabetha Leicht, dcera Adama a Cathariny Semmer] Jeho otec [[martin-spadt|Martin]] byl tehdy tesař (ligni faber). Zápis jmenuje i oba páry Petrových prarodičů: [[mathias-spadt|Mathiase Spadta]] s [[anna-trefler|Annou Trefler]] a [[adam-leicht|Adama Leichta]] s [[catharina-semmer|Catharinou Semmer]]. Všechna ta příjmení patří ke kolonistům z Kimirze.
 
-> Domněnka: Rodina si pamatovala, že Petr byl za 1. světové války v německém zajetí. Petrovi ale v roce 1918 bylo čtrnáct let. Příběh o zajetí se proto nejspíš týká jeho otce Martina nebo některého ze strýců a v paměti se přesunul o generaci.
+![CDIAL-618-2-3103/115]
+
+Martin a [[elisabeth-leicht|Elisabeth]] se vzali 1. července 1890. Martinovi bylo 24 let a byl švec, stejně jako později jeho syn Petr. Elisabeth bylo také 24 let a už byla vdova: jejím prvním mužem byl Georg Spadt. Ke svatbě potřebovali povolení lvovské konzistoře „pro překážku švagrovství v prvním stupni pobočné linie“. Znamená to, že Georg byl Martinův bratr. Elisabeth se tedy po smrti jednoho bratra vdala za druhého.[^CDIAL-618-2-2567/7: sňatek Martinus Spadt, 24, sutor, Kimirz č. 119, syn Mathiase a Anny Trefler × Elisabetha Leicht, 24, vdova po Georgu Spadtovi, dcera Adama a Cathariny Semmer; dispens ze švagrovství 1. stupně, Lvov č. 2198]
+
+![CDIAL-618-2-2567/7]
+
+Petrovi bratři jsou doloženi i ve svatebních zápisech. [[jan-spadt-1890|Jan]] se oženil v roce 1919 a [[adam-spadt-1898|Adam]], narozený 23. 4. 1898, v roce 1921. Oba si vzali vdovy, které se obě jmenovaly Trefflerová. [[martin-spadt-1910|Martin mladší]] se oženil v listopadu 1934, osmnáct dní po Petrově smrti.[^CDIAL-618-2-3104/428: sňatek Martinus Spadt, 24, syn † Martina a Elisabeth Leicht × Anna Spadt, 25, Kimirz 20. 11. 1934; svědek Joannes Spadt] V Meryszczówě žil i bratr Ferdinand, kterému se tam v letech 1930 a 1931 narodili synové. Rodina si pamatovala „tři bratry“, doloženi jsou čtyři. Ve všech třech svatebních zápisech synů má otec Martin u jména zkratku „p. d.“, tedy zesnulý. Zemřel tedy nejspíš už před květnem 1919. Dědovým kmotrem „Martinem Spadtem“ v roce 1931 proto byl nejspíš strýc Martin mladší, ne děda.[?q-spadt-puvod]
+
+![CDIAL-618-2-3104/428]
+
+Pro zajímavost: v rakousko-uherských seznamech ztrát z 1. světové války (Verlustlisten) jsem našel asi třicet vojáků z Kimirze. Většinou sloužili u 55. pěšího pluku nebo u zeměbrany, mnoho jich padlo do ruského zajetí a skončilo v Kurganu, Taškentu nebo ve Ferganě. Je mezi nimi Ludwig Leicht, zajatý v Charkově, a Adam Treffler, který padl v únoru 1916. Spadt mezi nimi není, ale přepis z novin může jméno zkomolit.
+
+> Domněnka: Rodina si pamatovala, že Petr byl za 1. světové války v německém zajetí. Petrovi ale v roce 1918 bylo čtrnáct let. Příběh o zajetí se proto nejspíš týká jeho otce Martina nebo některého ze strýců a v paměti se přesunul o generaci. Martin zemřel někdy mezi lety 1904 a 1919, mohl tedy padnout nebo zemřít ve válce. Doložené to ale nemám.
 
 Jak se rodina z Haliče dostala do Broumova, nevím. Mám dvě možnosti a žádnou nemám doloženou. Haličští Němci byli v zimě 1939–1940 hromadně přesídleni do okupovaného Polska. Čeští a slovanští přesídlenci z Polska a Ukrajiny zase přicházeli do Československa v letech 1945–1950 a mnozí se usadili právě na vylidněném Broumovsku. Druhý sňatek prababičky Marie s mužem s českým příjmením Chaloupka mi připadá jako stopa spíš ke druhé cestě.
 

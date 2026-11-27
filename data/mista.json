@@ -973,6 +973,28 @@
         "url": "https://www.wikidata.org/wiki/Q48194",
         "wikidata": "Q48194"
       }
+    },
+    {
+      "id": "kimirz",
+      "name": "Kimirz (farnost Świrz)",
+      "aliases": [
+        "Kimirz (farnost Świrz)",
+        "Kimirz",
+        "Kimir",
+        "Кимир",
+        "Kymyr"
+      ],
+      "type": "ves",
+      "admin": "Lvovská oblast (do 1939: pow. Przemyślany)",
+      "country": "UA",
+      "lat": 49.64972,
+      "lon": 24.49444,
+      "source": {
+        "label": "Wikidata Q4220678 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q4220678",
+        "wikidata": "Q4220678"
+      },
+      "note": "Německá kolonie (kolonisté Spadt, Leicht, Treffler, Semmer, Grün aj.), ř.-kat. farnost Świrz; asi 7 km od Meryszczówa."
     }
   ],
   "unplaced_rules": [
