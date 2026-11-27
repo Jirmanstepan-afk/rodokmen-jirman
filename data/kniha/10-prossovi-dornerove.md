@@ -75,15 +75,25 @@ Katharinina otce jsem nakonec našel nečekaně, v zápisu o vnučce. V roce 181
 
 Starší stopa přes rejstřík k 12. červenci 1757 byla slepá, šlo o posunutý řádek a Seibert byl u toho křtu jen kmotrem.[^171-2/16: křest 12. 7. 1757, kmotr Georg Seibert z Benátek] Rejstřík narozených z let 1760–1766 uvádí Seiberty i Seifarty, ale jedinou dívku jménem Anna 10. prosince 1761.[^171-10/31: index narozených lit. S 1760–1766] Ten den byla v Gießaus pokřtěna Anna Catharina, dcera Josepha Seifferta, zahradníka, a Evy Rosiny. Kmotrou byla Ludmila, žena zahradníka Josepha Rolletschka z téže vsi.[^171-2/27: křest Anny Cathariny Seiffertové 10. 12. 1761, Gießaus – kandidát] Otec, jeho povolání i ves souhlasí se zápisem z roku 1814 a věk 22 let při svatbě v říjnu 1784 sedí přesně. Ani tady ale není číslo domu, proto křest a matku Evu Rosinu zatím nechávám jako otevřený dotaz. [?q-bek-seibert-puvod]
 
-Ignaz Bek žil v č. 34 ještě v roce 1801. Tehdy mu tam po sedmi dnech zemřel na psotník syn Franz.[^171-8/50: úmrtí Franze, syna Ignaze Becka, zahradníka, 1801, Malý Uhřínov č. 34] V únoru 1814 byl ještě naživu. Provdával tehdy dceru a je zapsán jako zahradník v Malém Uhřínově č. 33.[^171-4/5: sňatek 8. 2. 1814 Franz Joseph Peibrt × Gertruda (Agatha), dcera Ignaze Becka] Kde a kdy zemřel, zatím nevím. V zemřelých Malého Uhřínova do roku 1833 ani Benátek do roku 1825 jsem ho nenašel.
+Pak jsem prošel zemřelé v Gießaus. V březnu 1789 tam zemřel v domě č. 13 Joseph Seibert, bylo mu 54 let a zabila ho úplavice.[^171-9/49: úmrtí Josepha Seiberta 16. 3. 1789, Gießaus č. 13 – kandidát] O patnáct let později, v květnu 1804, zemřela v témže domě „Eva Rosina, vdova po zemřelém Josephu Seibertovi, zahradníkovi“. Bylo jí 72 let a zemřela na souchotiny.[^171-7/39: úmrtí Evy Rosiny, vdovy po Josephu Seibertovi, 25. 5. 1804, Gießaus č. 13 – kandidát] Jméno, povolání, ves i manželka tak souhlasí se zápisem z roku 1814 i s křtem z roku 1761. Zápis z roku 1789 ale povolání neuvádí a u křtu chybí číslo domu, takže i tohle zůstává v otevřeném dotazu. [?q-bek-seibert-puvod]
 
-> Domněnka: „Ignaz Bek, domkář ve Velkém Uhřínově“, který svědčí při benátských svatbách v letech 1815–1823 a také při Agathině druhé svatbě, může být on sám na výměnku, nebo jeho syn. Zápis to nerozlišuje.
+- V roce 1819 zemřela v Gießaus č. 8 svobodná Martha, „dcera zemřelého Josepha Seiberta“, 55 let.[^171-7/42: úmrtí Marthy, dcery † Josepha Seiberta, 16. 6. 1819, Gießaus č. 8] V rejstříku narozených je Martha Seiberthová k 18. červnu 1764. Nejspíš to byla Katharinina mladší sestra.
+- Hned vedle, v č. 15, žili Rolletschkové. Joseph Rolletschek zemřel v září 1787 na mrtvici. Jeho žena Ludmila, kmotra při Katharinině kandidátním křtu, se dožila 85 let a zemřela v roce 1812.[^171-7/41: úmrtí Ludmily, vdovy po Josephu Rolletschkovi, 12. 6. 1812, Gießaus č. 1] Jejich dcera Katharina, stejně stará jako Katharina Seibertová, zemřela svobodná v únoru 1804 ve 42 letech.
+- Mladší Joseph Seibert, zahradník v Gießaus č. 8, pohřbil v letech 1814–1815 během dvaceti měsíců tři dcery.
+
+> Domněnka: Mladší Joseph Seibert z č. 8 byl nejspíš Katharinin bratr, který převzal otcovu zahradu. Číslo domu se mohlo změnit při přečíslování kolem roku 1805.
+
+Ignaz Bek žil v č. 34 ještě v roce 1801. Tehdy mu tam po sedmi dnech zemřel na psotník syn Franz.[^171-8/50: úmrtí Franze, syna Ignaze Becka, zahradníka, 1801, Malý Uhřínov č. 34] V únoru 1814 byl ještě naživu. Provdával tehdy dceru a je zapsán jako zahradník v Malém Uhřínově č. 33.[^171-4/5: sňatek 8. 2. 1814 Franz Joseph Peibrt × Gertruda (Agatha), dcera Ignaze Becka] Kde a kdy zemřel, zatím nevím. V zemřelých Malého Uhřínova do roku 1833, Benátek do roku 1825 ani Velkého Uhřínova v letech 1814–1840 jsem ho nenašel.
+
+Ve Velkém Uhřínově žil v té době jmenovec. Ignaz Beck, domkář v č. 4, zemřel v říjnu 1839 v 80 letech a farář k němu připsal, že byl 48 let kostelníkem.[^171-9/30: úmrtí Ignaze Becka, výměnkáře a kostelníka, 12. 10. 1839, Velký Uhřínov č. 4] Jeho žena se jmenovala Anna Maria.[^171-9/21: úmrtí Anny Marie, ženy Ignaze Becka, domkáře, 27. 7. 1822, Velký Uhřínov č. 4] Kostelníkem byl tedy od roku 1791. Náš Ignaz ale tehdy hospodařil jako zahradník v Malém Uhřínově, takže to podle mě je jiný muž.
+
+> Domněnka: „Ignaz Bek, domkář ve Velkém Uhřínově“, který svědčí při benátských svatbách v letech 1815–1823 a také při Agathině druhé svatbě, je nejspíš tento kostelník, a ne Agathin otec. Kostelník chodil za svědka často.
 
 ![171-3/51] Křest Agathy, dcery Ignaze Beka, v Malém Uhřínově 4. února 1788.
 
 ### Zajímavosti
 
-- Josef Proß se poprvé ženil už 17. února 1808, ve 20 letech, opět v č. 6. Jako ženich je zapsán „syn †Andrease(?) Proße“ a nevěsta byla Barbara(?), dcera Josefa Pibrta(?). Jména čtu nejistě, proto jsou jen v dotazu.[^171-4/5: první sňatek Josefa Proße 17. 2. 1808]
+- Josef Proß se poprvé ženil už 17. února 1808, ve 20 letech, opět v č. 6. Jako ženich je zapsán „syn zemřelého Andrease Proße, zahradníka z č. 6“. Nevěstu jsem při druhém čtení přečetl jako Katharinu(?), dceru Josepha Pibrta(?), zahradníka z č. 4(?) v Benátkách, 19 let. Jedním ze svědků byl Joseph Seibert. Jména čtu nejistě, proto jsou jen v dotazu. [?q-pross-dorner-puvod][^171-4/5: první sňatek Josefa Proße 17. 2. 1808]
 - V knize narozených Benátek 1784–1787 je 22. července 1786 v č. 6 pokřtěn Franz Joseph, syn Andrease Proße a Kathariny. Věkem by to mohl být náš Josef.[^171-3/78: narození Benátky 1784–1787, Franz Joseph 22. 7. 1786 č. 6] [?q-pross-dorner-puvod]
 - Proßů bylo v Benátkách víc: Christoph v č. 3, Ignaz v č. 2, Franz v č. 3. V roce 1818 si Margaretha, dcera zemřelého Christopha, vzala Franze, syna obchodníka(?) Karla Proße z Langenbrücku(?) v Kladsku. Je to první stopa, že Proßové mohli mít příbuzné za tehdejší hranicí v Kladsku.
 
@@ -91,7 +101,7 @@ Ignaz Bek žil v č. 34 ještě v roce 1801. Tehdy mu tam po sedmi dnech zemřel
 - Kmotry Agathiny dcery Margarethy (1814) byli Rolletschkové: Margaretha, dcera šenkýře Antona Rolletschka z Gießaus, a Joseph Rolletschek, kostelník v Malém Uhřínově.[^171-4/12: narození Margarethy Peibrt 1814 – kmotři]
 - V zimě 1800/1801 zemřeli v Benátkách č. 3, v druhé domácnosti Proßů, během šesti týdnů na „Faulfieber“ a „hitziges Fieber“ devatenáctiletý Franz Joseph Proß, Katharina Proßová (41) a mládenec Anton Linse(?). Hospodář Christoph Proß zemřel už v březnu 1800.[^171-4/24: zemřelí Benátky 1800–1801, č. 3]
 
-> Domněnka: První žena Josefa Proße byla podle zápisu z roku 1808 dcerou Josefa Pibrta(?). Pokud to byl tentýž mlynář, pak si Josef Proß v roce 1823 vzal vdovu po svém tchánovi, tedy nevlastní matku své zesnulé ženy. Jméno ve sňatku 1808 čtu nejistě.
+> Domněnka: První žena Josefa Proße byla podle zápisu z roku 1808 dcerou Josefa Pibrta(?) z č. 4(?). V č. 4 stál mlýn, ale otec je v zápisu spíš „zahradník“ než „mlynář“. Pokud to byl tentýž mlynář, pak si Josef Proß v roce 1823 vzal vdovu po svém tchánovi, tedy nevlastní matku své zesnulé ženy. Jméno ve sňatku 1808 čtu nejistě.
 
 ## Ze Sedloňova do Martínkovic
 

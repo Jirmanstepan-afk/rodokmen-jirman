@@ -866,6 +866,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 171-8 (poř.č. 12190), 1784-1834",
    "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, Malý Uhřínov",
    "url": "https://aron.vychodoceskearchivy.cz/apu/45fd8138-97c7-4e9d-aba5-b5e48ff76bd0"
+  },
+  "171-7": {
+   "apu": "bee9894a-c65a-40e0-a2a9-48cc76f6162f",
+   "dao": "bee9894a-c65a-40e0-a2a9-48cc76f6162f",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 171-7 (poř.č. 12193), 1784-1842",
+   "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, Tisovec (N 1784-1842, O 1784-1841, Z 1784-1842)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/bee9894a-c65a-40e0-a2a9-48cc76f6162f"
   }
  },
  "aliasy": {
@@ -2849,6 +2856,33 @@
    "velky": "img/zdroje/171-4_s005_velky.jpg",
    "vyrez_soubor": "s005-oddani-5-8-1823-Benatky6-Josef-Pross-zahradnik-vdovec-37-x-Agatha-vdova-po-Josefu-Pibrt-mlynari-35.jpg"
   },
+  "171-7|39": {
+   "signatura": "171-7",
+   "snimek": 39,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/bee9894a-c65a-40e0-a2a9-48cc76f6162f/dao/bee9894a-c65a-40e0-a2a9-48cc76f6162f/file/1801e745-a7a3-4cce-8024-e0bd3434f1a7",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-7_s039.jpg",
+   "velky": "img/zdroje/171-7_s039_velky.jpg",
+   "vyrez_soubor": "s039-umrti-1804-Tisovec15-Katharina-Rolletschkova-42-a-Tisovec13-Eva-Rosina-vdova-po-Josephu-Seibertovi-zahradnikovi-72.jpg"
+  },
+  "171-7|41": {
+   "signatura": "171-7",
+   "snimek": 41,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/bee9894a-c65a-40e0-a2a9-48cc76f6162f/dao/bee9894a-c65a-40e0-a2a9-48cc76f6162f/file/1170a638-a992-4165-88a9-4211531e37d3",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-7_s041.jpg",
+   "velky": "img/zdroje/171-7_s041_velky.jpg",
+   "vyrez_soubor": "s041-umrti-12-6-1812-Tisovec1-Ludmila-vdova-po-Josephu-Rolletschkovi-85.jpg"
+  },
+  "171-7|42": {
+   "signatura": "171-7",
+   "snimek": 42,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/bee9894a-c65a-40e0-a2a9-48cc76f6162f/dao/bee9894a-c65a-40e0-a2a9-48cc76f6162f/file/de2480c6-1307-49b6-9cff-29d5a6349b1b",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-7_s042.jpg",
+   "velky": "img/zdroje/171-7_s042_velky.jpg",
+   "vyrez_soubor": "s042-umrti-16-6-1819-Tisovec8-Martha-dcera-zemreleho-Josepha-Seiberta-55.jpg"
+  },
   "171-8|49": {
    "signatura": "171-8",
    "snimek": 49,
@@ -2866,6 +2900,24 @@
    "nahled": "img/zdroje/171-8_s050.jpg",
    "velky": "img/zdroje/171-8_s050_velky.jpg",
    "vyrez_soubor": "s050-umrti-1801-Maly-Uhrinov34-Franz-syn-Ignaze-Becka-zahradnika-7-dni-Fraiss.jpg"
+  },
+  "171-9|21": {
+   "signatura": "171-9",
+   "snimek": 21,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a56cfc73-d272-4f88-aef6-feafbf1fa353/dao/a56cfc73-d272-4f88-aef6-feafbf1fa353/file/535492e3-bf4a-4540-b22e-15681abf13e5",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-9_s021.jpg",
+   "velky": "img/zdroje/171-9_s021_velky.jpg",
+   "vyrez_soubor": "s021-umrti-27-7-1822-Velky-Uhrinov4-Anna-Maria-zena-Ignaze-Becka-domkare-57-a-Christoph-Beck-74.jpg"
+  },
+  "171-9|30": {
+   "signatura": "171-9",
+   "snimek": 30,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a56cfc73-d272-4f88-aef6-feafbf1fa353/dao/a56cfc73-d272-4f88-aef6-feafbf1fa353/file/03aae6a3-e6db-4669-bf7b-ad73f3d0c4f8",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-9_s030.jpg",
+   "velky": "img/zdroje/171-9_s030_velky.jpg",
+   "vyrez_soubor": "s030-umrti-12-10-1839-Velky-Uhrinov4-Ignaz-Beck-vymenkar-48-let-kostelnik-80-let.jpg"
   },
   "171-9|37": {
    "signatura": "171-9",
@@ -2893,6 +2945,15 @@
    "nahled": "img/zdroje/171-9_s041.jpg",
    "velky": "img/zdroje/171-9_s041_velky.jpg",
    "vyrez_soubor": "s041-umrti-Benatky-1785-1789-Andreas-Pross-c6-30-12-1787-24-let-a-posmrtny-syn-Andreas-7-5-1788.jpg"
+  },
+  "171-9|49": {
+   "signatura": "171-9",
+   "snimek": 49,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a56cfc73-d272-4f88-aef6-feafbf1fa353/dao/a56cfc73-d272-4f88-aef6-feafbf1fa353/file/7affa0c1-0234-427a-a5fb-fd2f8c859459",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-9_s049.jpg",
+   "velky": "img/zdroje/171-9_s049_velky.jpg",
+   "vyrez_soubor": "s049-umrti-16-3-1789-Tisovec13-Joseph-Seibert-54-let-uplavice.jpg"
   },
   "174-12|31": {
    "signatura": "174-12",
