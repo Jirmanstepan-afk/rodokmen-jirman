@@ -803,6 +803,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 24-7674 (poř.č. 1638), 1850-1924",
    "popis": "římskokatolická matrika ODDANÝCH, Deštné v Orlických horách + Dříš + Kout + Paseka + Pastviny + Víska + Zákoutí",
    "url": "https://aron.vychodoceskearchivy.cz/apu/8daff487-f368-4cfa-ad5c-153ca38a2386"
+  },
+  "24-6100": {
+   "apu": "c94d4759-12c1-4973-bcc1-7c5356e74553",
+   "dao": "c94d4759-12c1-4973-bcc1-7c5356e74553",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 24-6100 (poř.č. 1646), 1878-1916",
+   "popis": "římskokatolická matrika ZEMŘELÝCH, Deštné v Orlických horách + Dříš + Kout + Paseka + Pastviny + Víska + Zákoutí",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/c94d4759-12c1-4973-bcc1-7c5356e74553"
   }
  },
  "aliasy": {
@@ -3089,6 +3096,15 @@
    "nahled": "img/zdroje/24-5_s096.jpg",
    "velky": "img/zdroje/24-5_s096_velky.jpg",
    "vyrez_soubor": "s96-fol183-narozeni-19-3-1814-Hutenberg7-Josef-syn-Karla-Tschinkela-a-Alzbety-KANDIDAT-nejisty.jpg"
+  },
+  "24-6100|13": {
+   "signatura": "24-6100",
+   "snimek": 13,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/c94d4759-12c1-4973-bcc1-7c5356e74553/dao/c94d4759-12c1-4973-bcc1-7c5356e74553/file/46aabc50-f848-45e8-8d45-8b6c64a04c80",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/24-6100_s013.jpg",
+   "velky": "img/zdroje/24-6100_s013_velky.jpg",
+   "vyrez_soubor": "s13-umrti-5-8-1881-Destne35-Josef-Schmida-syn-Franze-Schmidy-z-Rychnova-KANDIDAT-syn-Anny.jpg"
   },
   "24-7674|84": {
    "signatura": "24-7674",

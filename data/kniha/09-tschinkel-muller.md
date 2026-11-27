@@ -47,6 +47,10 @@ Do Chocně přišla Anna jako vdova, a tak jsem hledal její první svatbu. Naš
 
 > Domněnka: Wildschitz v novoměstském okrese zatím neumím najít. Známé Vlčice (*Wildschütz*) leží u Trutnova a u Javorníka, a ty do okresu Nové Město nepatří. Proto obec do mapy nedávám [?q-tschinkel-24-9].
 
+Hledal jsem i úmrtí Annina děda Josefa Tschinkela, a to v deštenské knize zemřelých od roku 1878 do září 1887. Nenašel jsem ho. Našel jsem v ní ale jiný zápis, který mě zastavil. Dne 5. srpna 1881 zemřel v Deštném č. 35 malý Josef Šmída (*Schmida*), manželský syn Františka Šmídy, podruha v Rychnově. Narodil se v Rychnově a byl tam i domovsky příslušný. Jako příčinu smrti farář zapsal „slabost“ (*Schwäche*).[^24-6100/13: úmrtí 5. 8. 1881, Josef Schmida, Deštné č. 35 – jen kandidát]
+
+> Domněnka: Myslím, že to mohl být syn Anny a Františka. Jméno otce, jeho rodiště a rok by seděly. Matka ale v zápisu není, a proto chlapce do stromu nedávám. Kdyby to tak bylo, Anna by během osmi let pohřbila dítě i muže a pak odešla sloužit do Chocně. Potvrdit by to mohl jen křest v rychnovské matrice [?q-tschinkel-24-9].
+
 ## Marie Müllerová z Libné
 
 [[marie-mullerova-1896|Marie Müllerová]], žena Josefa Syrového, se narodila 9. ledna 1896 v Libné č. 42 u Broumova. Její vlastní rodný zápis online není, datum i dům znám z poznámky u narození jejího syna. V roce 1916 byla tovární dělnicí v Broumově. Její otec [[leopold-muller|Leopold Müller]] byl textilní dělník (*Zeugarbeiter*). Matka [[marie-nagelova|Marie]] byla dcerou [[franz-nagel|Franze Nagela]] ze vsi, kterou čtu jako Unter-Hein[z?]endorf v okrese Mohelnice na zábřežském panství. Okres a panství jsou čitelné, přesný název vsi zatím ne.
