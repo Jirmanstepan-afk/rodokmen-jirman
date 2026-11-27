@@ -10,7 +10,7 @@ Kateřina, která si v roce 1809 vzala tesaře Františka Klimeše, byla dcerou 
 
 Když jsem poskládal křty jeho dětí, vyšlo mi, že rodina se po Vysoké Srbské stěhovala skoro s každým dítětem. V roce 1784 a 1787 byli v č. 38, v roce 1785, kdy se narodil syn Václav, v č. 30,[^53-19/6: narození Václava Pitaše 1785, Vysoká Srbská č. 30] v roce 1790 při narození Alžběty v č. 34[^53-19/12: narození Alžběty Pitašové 1790] a od roku 1791 v č. 28.[^53-19/14: narození Anny Marie Pitašové 1791] V č. 28 se v prosinci 1793 narodila Marie[^53-19/18: narození Marie Pitašové 9. 12. 1793] a tam rodina žila ještě v roce 1809, kdy se vdávala Kateřina.
 
-> Domněnka: Stěhování o pár domů dál bylo u chalupníků a podruhů běžné, šlo se tam, kde byl volný byt nebo práce. Já se dnes pracovně pohybuji mezi Skandinávií a Pobaltím. Jiřího důvody ale neznám.
+> Domněnka: Stěhování o pár domů dál bylo u chalupníků a podruhů běžné, šlo se tam, kde byl volný byt nebo práce. Jiřího důvody ale neznám.
 
 V č. 28 také rodinu potkalo neštěstí. Dne 16. března 1808 zemřel sedmiletý syn Josef, příčinou byl podle zápisu otok.[^53-72/20: úmrtí Josefa Pitaše 16. 3. 1808, Vysoká Srbská č. 28] Jiří sám zemřel o osm let později, 18. března 1816, v tomtéž domě. Bylo mu 55 let a zemřel na plicní souchotiny.[^53-72/26: úmrtí Jiřího Pitaše 18. 3. 1816]
 

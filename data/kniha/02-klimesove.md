@@ -8,7 +8,7 @@ Nejstarší Klimeš, kterého jistě znám, je [[frantisek-klimes-tesar|Františ
 
 Když jsem pak četl další zápisy, všiml jsem si, že se pořád vrací stejná adresa: Zlíčko č. 31. Tam František v roce 1809 bydlel jako syn zahradníka. V roce 1844 je tam zapsaný jako „tkadlec a podruh“[^53-53/25: oddací zápis syna Jana 19. 11. 1844] a v roce 1857, kdy se mu narodil pravnuk, jako tesař.[^53-20/179: narození pravnuka Františka 14. 8. 1857] Ve stejném domě tedy žil nejméně 48 let a za tu dobu vystřídal tři různé způsoby obživy.
 
-> Domněnka: Nejsem si jistý, jestli František v roce 1857 ještě žil, nebo jestli farář jen opsal jeho poslední povolání. Zápis to neříká. Mě osobně zaráží, že celý jeho život se dá nakreslit kolem jednoho čísla popisného, kdežto já za měsíc přejedu několik zemí.
+> Domněnka: Nejsem si jistý, jestli František v roce 1857 ještě žil, nebo jestli farář jen opsal jeho poslední povolání. Zápis to neříká. Mě osobně zaráží, že celý jeho život se dá nakreslit kolem jednoho čísla popisného, a že takový život byl tehdy úplně obyčejný.
 
 ## Jan a Anna
 

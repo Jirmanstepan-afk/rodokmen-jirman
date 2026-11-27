@@ -36,7 +36,7 @@ Josef se 21. září 1802 oženil s [[ludmila-kumpostova|Ludmilou Kumpoštovou]]
 - V Chocni byla ve stejné době ještě druhá Ludmila Kumpoštová, narozená 14. června 1782, dcera Vojtěcha a Anny. Mou Ludmilu poznám podle otce Františka a domu č. 51. (rejstřík narozených K)
 - Zápis z roku 1811 je česky a Josefovo povolání je v něm nářečně „šewc“. (zápis narození dcery 1811)
 
-> Domněnka: Josef Syrový ševcoval v jednom městě, já jezdím s profesionálním gastro vybavením po severní Evropě. Myslím, že nás spojuje aspoň to, že oba žijeme ze zákazníků, kteří se k nám vracejí. Je to ale jen moje představa, o Josefových zákaznících nevím nic.
+> Domněnka: Josef Syrový ševcoval celý život v jednom městě. Švec tehdy žil hlavně ze stálých zákazníků z okolí. Je to ale jen moje představa, o Josefových zákaznících nevím nic.
 
 ## Nemanželský syn a vdovec
 

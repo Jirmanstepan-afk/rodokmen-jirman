@@ -18,7 +18,7 @@ Rámeček kapitoly („Rody / Místa / Období / Vztah ke mně“), retro mapka,
 2. **Domněnky** se píšou zvlášť jako blok `> Domněnka: …` a jazykem „Domnívám se…“ nebo „Možná…“.
 3. **Žijící osoby:** jen jméno a rok, žádné adresy ani čísla domů.
 4. **Rodinné dokumenty** (Gerdin křestní list, Klimešův rodokmen 2019) se jen zmiňují, nikdy se nevkládají jako obrázek.
-5. **Srovnání s mým životem** jen střídmě. Ze svého života používám jen tohle: Export Manager v RM Gastro, obchod pro severní Evropu (Skandinávie a Pobaltí), hodně cestuji.
+5. **Srovnání s mým životem** jen střídmě. Ze svého života používám jen tohle: mám dvě děti, Jakuba a Magdalenu, a prostě mě zajímá náš původ. Povolání ani zaměstnavatele neuvádět.
 
 ## Značky v textu
 

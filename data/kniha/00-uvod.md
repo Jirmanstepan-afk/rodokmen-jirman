@@ -1,6 +1,6 @@
 Jmenuji se Štěpán Jirman a tahle kniha je o lidech, bez kterých bych tu nebyl. Většinu z nich jsem nikdy nepotkal a o mnoha z nich se nedochovalo nic víc než pár řádků v matrice: datum křtu, jméno kmotra, číslo domu, příčina smrti. Z těch řádků jsem se rozhodl poskládat příběh. Nechci si nic přimýšlet. Co v knize stojí jako fakt, je doložené zápisem, na který vede poznámka pod čarou. Kde si nejsem jistý, píšu to otevřeně.
 
-Moje rodina žila v Broumově. Dnes pracuji jako Export Manager ve firmě RM Gastro, která dělá profesionální gastro vybavení, a mám na starosti severní Evropu, tedy Skandinávii a Pobaltí. Hodně cestuji. Možná i proto mě začalo zajímat, kde vlastně jsou moje kořeny a jak daleko od sebe moji předkové žili. Odpověď mě překvapila: skoro všichni se narodili, vzali a zemřeli na kousku země mezi Broumovem, Hronovem, Policí nad Metují a Orlickými horami. Jen jedna větev vede do Chocně a druhá, mámina, podle rodinné paměti až na Ukrajinu.
+Moje rodina žila v Broumově. Mám dvě děti, Jakuba a Magdalenu. Mě prostě zajímá, odkud pocházíme, kde jsou naše kořeny a jak daleko od sebe naši předkové žili. Odpověď mě překvapila: skoro všichni se narodili, vzali a zemřeli na kousku země mezi Broumovem, Hronovem, Policí nad Metují a Orlickými horami. Jen jedna větev vede do Chocně a druhá, mámina, podle rodinné paměti až na Ukrajinu.
 
 ## Jak se čte matrika
 
