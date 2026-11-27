@@ -48,9 +48,11 @@ Svatbu jejích rodičů jsem našel v knize oddaných pro Polickou Lhotu. [[hyne
 
 ![96-4235/6] Svatba Ignáce Košťála a Anny Bittnerové 30. ledna 1849.
 
-Rodná příjmení obou babiček čtu jen nejistě. U Veroniky to vypadá na „Hornych ze Slavného č. 37“, Alžběta byla dcerou Josefa z Nízké Srbské č. 23, jehož příjmení nepřečtu. Narození Ignáce jsem v knize Polické Lhoty z let 1816–1818 nenašel a narození Anny v nízkosrbské knize z let 1822–1826 také ne [?q-kostal-bittner-predci].
+Rodná příjmení obou babiček čtu jen nejistě. U Veroniky to vypadá na „Hornych ze Slavného č. 37“, Alžběta byla dcerou Josefa z Nízké Srbské č. 23, jehož příjmení nepřečtu. Narození Ignáce jsem nenašel v knize Polické Lhoty z let 1813–1820 ani v machovské knize z let 1815–1820. Svatbu Josefa a Veroniky jsem v polickolhotské knize oddaných z let 1810–1824 také nenašel. Narození Anny není v bělské knize z let 1822–1825 ani v nízkosrbské z let 1822–1826 a svatbu Jana Bittnera s Alžbětou jsem v nízkosrbských oddaných z let 1810–1827 nenašel [?q-kostal-bittner-predci].
 
 > Domněnka: Josef a Veronika byli podruzi a mohli se stěhovat. Ignác se proto mohl narodit jinde, třeba ve Slavném, odkud byla jeho matka. Tužková poznámka u nevěsty na svatebním zápisu se dá číst jako „Bělý 1824“. Pokud to platí, narodila se Anna Bittnerová v Bělém a ne v Nízké Srbské.
+
+> Domněnka: V Machově se 18. listopadu 1812 oženil Josef, syn Tobiáše Košťála z Lhoty Náchodské, s Marií z Lhoty Náchodské č. 14.[^96-3/16: sňatek Josefa Košťála a Marie 18. 11. 1812] Číslo 14 sedí na dům, kde později žil Ignácův otec Josef. Nevěsta se ale jmenuje Marie, ne Veronika, a matriky rozlišují Lhotu Náchodskou a Lhotu Polickou. Může jít o jiného Josefa, nebo o první manželství téhož muže. Proto to do stromu nedávám.
 
 ## Václav z čísla 47 a Lorencovi
 
@@ -88,7 +90,7 @@ Mariin křest jsem našel v machovské knize narozených. Narodila se 26. březn
 
 ![96-4/63] Křestní zápis Marie Kubečkové z 26. března 1854.
 
-Rodiče se vzali v Machově 21. května 1844. Františkovi bylo osmadvacet, Františce pětadvacet. Oba jejich otcové už tehdy nežili.[^96-16/20: sňatek Františka Kubečka a Františky Židové 21. 5. 1844] Rodná příjmení obou babiček jsem s jistotou nepřečetl. Na okraji Mariina křestního zápisu je pozdější poznámka „+12/10 1915“. Zemřela tedy možná 12. října 1915, ale bez zápisu v knize zemřelých to do stromu nedávám [?q-kubecek-zid-predci].
+Rodiče se vzali v Machově 21. května 1844. Františkovi bylo osmadvacet, Františce pětadvacet. Oba jejich otcové už tehdy nežili.[^96-16/20: sňatek Františka Kubečka a Františky Židové 21. 5. 1844] Pak jsem šel o generaci zpátky. František se narodil 23. října 1815 v Machově č. 19 jako syn chalupníka Karla Kubečka a Ludmily.[^96-3/74: narození Františka Kubečka 23. 10. 1815, Machov č. 19] Františka se narodila 15. září 1818 v Machově č. 22 jako dcera Karla Žida a Anny.[^96-3/79: narození Františky Židové 15. 9. 1818, Machov č. 22] Karel Žid si Annu vzal v Machově 9. května 1813. Byl synem Karla Žida z Machova a Anně bylo jednadvacet.[^96-3/17: sňatek Karla Žida a Anny 9. 5. 1813] Svatbu Karla Kubečka a Ludmily jsem v machovských oddaných z let 1803–1818 nenašel. Rodná příjmení obou babiček jsem s jistotou nepřečetl. Ludmila byla dcerou zesnulého Jana z Machova č. 7, snad Plška. Anna byla dcerou zesnulého tkalce Jana z Nízké Srbské č. 37, snad Duška. Na okraji Mariina křestního zápisu je pozdější poznámka „+12/10 1915“. Zemřela tedy možná 12. října 1915, ale bez zápisu v knize zemřelých to do stromu nedávám [?q-kubecek-zid-predci].
 
 ![96-16/20] Svatba Františka Kubečka a Františky Židové v Machově 21. května 1844.
 

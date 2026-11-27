@@ -7564,11 +7564,11 @@
       "name": "František Kubeček",
       "maiden": null,
       "birth": {
-        "display": "asi 1816",
-        "precision": "about",
-        "date": "1816",
-        "place": null,
-        "note": "28 let při sňatku 21. 5. 1844."
+        "display": "23. 10. 1815",
+        "precision": "exact",
+        "date": "1815-10-23",
+        "place": "Machov č. 19",
+        "note": "Matrika N Machov 1815: Franz, otec Karel Kubeček, chalupník z Machova, matka Ludmila z Machova č. 7. Věk 28 let při sňatku 1844 souhlasí."
       },
       "baptism": null,
       "death": null,
@@ -7609,6 +7609,13 @@
           "detail": "snímek 63",
           "apu": "fcb4abe9-3d31-42b6-86ed-47cd1aca78f3",
           "url": "https://aron.vychodoceskearchivy.cz/apu/fcb4abe9-3d31-42b6-86ed-47cd1aca78f3/dao/fcb4abe9-3d31-42b6-86ed-47cd1aca78f3/file/64654305-a112-47de-978d-4fe76966e5a2"
+        },
+        {
+          "label": "ARON, narození 23. 10. 1815 František Kubeček, Machov č. 19",
+          "signatura": "96-3",
+          "detail": "snímek 74",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/a9d10ec0-3c79-4399-ae06-44e1eb366aae"
         }
       ],
       "notes": [
@@ -7622,11 +7629,11 @@
       "name": "Františka Kubečková",
       "maiden": "Židová",
       "birth": {
-        "display": "asi 1819",
-        "precision": "about",
-        "date": "1819",
-        "place": null,
-        "note": "25 let při sňatku 21. 5. 1844."
+        "display": "15. 9. 1818",
+        "precision": "exact",
+        "date": "1818-09-15",
+        "place": "Machov č. 22",
+        "note": "Matrika N Machov 1818: Franziska, otec Karel Žid z Machova, matka Anna, dcera †Jana (příjmení nejisté) z Nízké Srbské č. 37. Věk 25 let při sňatku 1844 souhlasí."
       },
       "baptism": null,
       "death": null,
@@ -7665,6 +7672,13 @@
           "detail": "snímek 63",
           "apu": "fcb4abe9-3d31-42b6-86ed-47cd1aca78f3",
           "url": "https://aron.vychodoceskearchivy.cz/apu/fcb4abe9-3d31-42b6-86ed-47cd1aca78f3/dao/fcb4abe9-3d31-42b6-86ed-47cd1aca78f3/file/64654305-a112-47de-978d-4fe76966e5a2"
+        },
+        {
+          "label": "ARON, narození 15. 9. 1818 Františka Židová, Machov č. 22",
+          "signatura": "96-3",
+          "detail": "snímek 79",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/1ee80dc6-76ad-4db4-964b-2246361ee61f"
         }
       ],
       "notes": [
@@ -7881,6 +7895,13 @@
           "detail": "snímek 63",
           "apu": "fcb4abe9-3d31-42b6-86ed-47cd1aca78f3",
           "url": "https://aron.vychodoceskearchivy.cz/apu/fcb4abe9-3d31-42b6-86ed-47cd1aca78f3/dao/fcb4abe9-3d31-42b6-86ed-47cd1aca78f3/file/64654305-a112-47de-978d-4fe76966e5a2"
+        },
+        {
+          "label": "ARON, narození 23. 10. 1815 František Kubeček, Machov č. 19",
+          "signatura": "96-3",
+          "detail": "snímek 74",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/a9d10ec0-3c79-4399-ae06-44e1eb366aae"
         }
       ],
       "notes": [
@@ -7897,7 +7918,8 @@
       "death": null,
       "occupation": null,
       "places": [
-        "Machov č. 19 (manžel)"
+        "Machov č. 19 (manžel)",
+        "Machov č. 7 (rodný dům, 1815)"
       ],
       "branch": "barcak",
       "certainty": "potvrzeno",
@@ -7916,6 +7938,13 @@
           "detail": "snímek 63",
           "apu": "fcb4abe9-3d31-42b6-86ed-47cd1aca78f3",
           "url": "https://aron.vychodoceskearchivy.cz/apu/fcb4abe9-3d31-42b6-86ed-47cd1aca78f3/dao/fcb4abe9-3d31-42b6-86ed-47cd1aca78f3/file/64654305-a112-47de-978d-4fe76966e5a2"
+        },
+        {
+          "label": "ARON, narození 23. 10. 1815 František Kubeček, Machov č. 19",
+          "signatura": "96-3",
+          "detail": "snímek 74",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/a9d10ec0-3c79-4399-ae06-44e1eb366aae"
         }
       ],
       "notes": [
@@ -7936,6 +7965,7 @@
       },
       "occupation": "chalupník (Häusler)",
       "places": [
+        "Machov č. 22 (1813, 1818)",
         "Machov č. 11"
       ],
       "branch": "barcak",
@@ -7955,6 +7985,20 @@
           "detail": "snímek 63",
           "apu": "fcb4abe9-3d31-42b6-86ed-47cd1aca78f3",
           "url": "https://aron.vychodoceskearchivy.cz/apu/fcb4abe9-3d31-42b6-86ed-47cd1aca78f3/dao/fcb4abe9-3d31-42b6-86ed-47cd1aca78f3/file/64654305-a112-47de-978d-4fe76966e5a2"
+        },
+        {
+          "label": "ARON, narození 15. 9. 1818 Františka Židová, Machov č. 22",
+          "signatura": "96-3",
+          "detail": "snímek 79",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/1ee80dc6-76ad-4db4-964b-2246361ee61f"
+        },
+        {
+          "label": "ARON, sňatek 9. 5. 1813 Machov: Karel Žid × Anna z Nízké Srbské č. 37",
+          "signatura": "96-3",
+          "detail": "snímek 17",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/74b89b01-a5ce-4598-9cdf-709da3b3b59c"
         }
       ],
       "notes": [
@@ -7966,12 +8010,19 @@
       "id": "anna-zidova-machov11",
       "name": "Anna Židová",
       "maiden": null,
-      "birth": null,
+      "birth": {
+        "display": "asi 1792",
+        "precision": "about",
+        "date": "1792",
+        "place": null,
+        "note": "21 let při sňatku 9. 5. 1813."
+      },
       "baptism": null,
       "death": null,
       "occupation": null,
       "places": [
-        "Machov č. 11 (manžel)"
+        "Machov č. 11 (manžel)",
+        "Nízká Srbská č. 37 (rodný dům, 1813)"
       ],
       "branch": "barcak",
       "certainty": "potvrzeno",
@@ -7990,12 +8041,53 @@
           "detail": "snímek 63",
           "apu": "fcb4abe9-3d31-42b6-86ed-47cd1aca78f3",
           "url": "https://aron.vychodoceskearchivy.cz/apu/fcb4abe9-3d31-42b6-86ed-47cd1aca78f3/dao/fcb4abe9-3d31-42b6-86ed-47cd1aca78f3/file/64654305-a112-47de-978d-4fe76966e5a2"
+        },
+        {
+          "label": "ARON, narození 15. 9. 1818 Františka Židová, Machov č. 22",
+          "signatura": "96-3",
+          "detail": "snímek 79",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/1ee80dc6-76ad-4db4-964b-2246361ee61f"
+        },
+        {
+          "label": "ARON, sňatek 9. 5. 1813 Machov: Karel Žid × Anna z Nízké Srbské č. 37",
+          "signatura": "96-3",
+          "detail": "snímek 17",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/74b89b01-a5ce-4598-9cdf-709da3b3b59c"
         }
       ],
       "notes": [
         "Manželka Karla Žida, matka Františky. Rodné příjmení a obec čteny nejistě (z Nízké Srbské č. 37?), proto prázdné; viz dotaz q-kubecek-zid-predci."
       ],
       "interesting": []
+    },
+    {
+      "id": "karel-zid-st-machov",
+      "name": "Karel Žid",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Machov"
+      ],
+      "branch": "barcak",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 9. 5. 1813 Machov: Karel Žid × Anna z Nízké Srbské č. 37",
+          "signatura": "96-3",
+          "detail": "snímek 17",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/74b89b01-a5ce-4598-9cdf-709da3b3b59c"
+        }
+      ],
+      "notes": [
+        "Otec ženicha Karla Žida při sňatku 9. 5. 1813 (Machov). Manželka neuvedena."
+      ]
     }
   ],
   "unions": [
@@ -10835,7 +10927,12 @@
         "karel-zid-machov11",
         "anna-zidova-machov11"
       ],
-      "married": null,
+      "married": {
+        "display": "9. 5. 1813",
+        "precision": "exact",
+        "date": "1813-05-09",
+        "place": "Machov"
+      },
       "children": [
         "frantiska-zidova"
       ],
@@ -10854,10 +10951,47 @@
           "detail": "snímek 63",
           "apu": "fcb4abe9-3d31-42b6-86ed-47cd1aca78f3",
           "url": "https://aron.vychodoceskearchivy.cz/apu/fcb4abe9-3d31-42b6-86ed-47cd1aca78f3/dao/fcb4abe9-3d31-42b6-86ed-47cd1aca78f3/file/64654305-a112-47de-978d-4fe76966e5a2"
+        },
+        {
+          "label": "ARON, sňatek 9. 5. 1813 Machov: Karel Žid × Anna z Nízké Srbské č. 37",
+          "signatura": "96-3",
+          "detail": "snímek 17",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/74b89b01-a5ce-4598-9cdf-709da3b3b59c"
+        },
+        {
+          "label": "ARON, narození 15. 9. 1818 Františka Židová, Machov č. 22",
+          "signatura": "96-3",
+          "detail": "snímek 79",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/1ee80dc6-76ad-4db4-964b-2246361ee61f"
         }
       ],
       "notes": [
         "Rodiče Františky Židové."
+      ]
+    },
+    {
+      "id": "u-karel-zid-st",
+      "partners": [
+        "karel-zid-st-machov"
+      ],
+      "married": null,
+      "children": [
+        "karel-zid-machov11"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, sňatek 9. 5. 1813 Machov: Karel Žid × Anna z Nízké Srbské č. 37",
+          "signatura": "96-3",
+          "detail": "snímek 17",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/74b89b01-a5ce-4598-9cdf-709da3b3b59c"
+        }
+      ],
+      "notes": [
+        "Rodiče Karla Žida (sňatek 1813); matka v zápisu neuvedena."
       ]
     }
   ],
@@ -12447,8 +12581,8 @@
     {
       "id": "q-kostal-bittner-predci",
       "title": "Košťálové a Bittnerové o generaci výš: nejistá čtení a chybějící narození",
-      "summary": "Sňatek Ignáce (Hynka) Košťála a Anny Bittnerové 30. 1. 1849 je doložen. Nejisté zůstávají rodná příjmení matek a narození obou snoubenců.",
-      "details": "Veronika, matka Ignáce: v zápisech 1849 a 1852 čteno „rozená Hornych(?) ze Slavného(?) č. 37“. Alžběta, matka Anny: dcera Josefa „Ruše/Kühn(?)“, chalupníka z Nízké Srbské č. 23. Narození Ignáce (asi 1817–1818) v N Polická Lhota 96-11 snímky 29–30 (1816–1818) není; narození Anny (asi 1823–1824) v N Nízká Srbská 96-14 snímky 58–64 (1822–1826) není. Na sňatku je u nevěsty tužkou pozdější poznámka, čtená jako „Bělý(?) 1824“. Anna *15. 5. 1823 (96-14 snímek 60) je jiná: matka Marie z Machova č. 52.",
+      "summary": "Sňatek Ignáce (Hynka) Košťála a Anny Bittnerové 30. 1. 1849 je doložen. Narození obou snoubenců ani sňatky jejich rodičů se zatím nenašly; je jen nejistá stopa.",
+      "details": "Veronika, matka Ignáce: 1849 a 1852 čteno „rozená Hornych(?) ze Slavného(?) č. 37“. Alžběta, matka Anny: dcera Josefa „Ruše/Kühn(?)“, chalupníka z Nízké Srbské č. 23. Bez výsledku prohledáno: narození Ignáce v N Lhota Polická 1813–1820 (96-11 snímky 27–31) a v N Machov 1815–1820 (96-3 snímky 74–83); sňatek Josef × Veronika v O Lhota Polická 1810–1824 (96-11 snímky 4–6); narození Anny v N Bělý 1822–1825 (96-11 snímky 34–35) a N Nízká Srbská 1822–1826 (96-14 snímky 58–64); sňatek Jan Bittner × Alžběta v O Nízká Srbská 1810–1827 (96-13 snímky 13–14, 96-14 snímky 4–9). Stopa 1 (nejistá): 18. 11. 1812 Machov (96-3 snímek 16) se ženil Josef, syn Tobiáše Košťála z Lhoty Náchodské (č. 34, 24 let), s Marií z Lhoty Náchodské č. 14. Číslo 14 sedí na Hynkův dům, ale manželka je Marie, ne Veronika. Jejich děti Jan (12. 7. 1816), Jan (28. 11. 1817) a Ludmila (25. 1. 1819) jsou v N Machov (96-3 snímky 75, 78, 80). Stopa 2 (nejistá): 18. 6. 1812 (96-13 snímek 14) se v Nízké Srbské č. 55 ženil Jan, syn Tobiáše (příjmení nečitelné, Bittner nepotvrzen), 30 let, s Alžbětou, dcerou Josefa „Kühn(?)“ z Nízké Srbské č. 61(?). Dům ani příjmení nesedí jistě. Pozor na místo: v zápisech se objevuje „Lhota Náchodská/Machovská“ i „Lhota Polická“ jako různá místa. Alias Lhota Polická = Machovská Lhota v mista.json z kola AS může být chybný; ponechán beze změny, než se ověří. Na sňatku 1849 je u nevěsty tužkou pozdější poznámka „Bělý(?) 1824“. Anna *15. 5. 1823 (96-14 snímek 60) je jiná: matka Marie z Machova č. 52.",
       "related_ids": [
         "hynek-kostal",
         "anna-bittnerova-kostalova",
@@ -12471,20 +12605,37 @@
           "detail": "snímek 13",
           "apu": "f027b4f7-439e-4ffa-86d4-b0a223a38b04",
           "url": "https://aron.vychodoceskearchivy.cz/apu/f027b4f7-439e-4ffa-86d4-b0a223a38b04/dao/f027b4f7-439e-4ffa-86d4-b0a223a38b04/file/b02b49cb-39d4-4d1c-ad1e-990c505a23ea"
+        },
+        {
+          "label": "ARON, sňatek 18. 11. 1812 Machov: Josef Košťál × Marie (nejistá stopa)",
+          "signatura": "96-3",
+          "detail": "snímek 16",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/5f58b6d1-1956-4135-9518-3203ee8cef81"
+        },
+        {
+          "label": "ARON, sňatek 18. 6. 1812 Nízká Srbská č. 55: Jan × Alžběta (nejistá stopa)",
+          "signatura": "96-13",
+          "detail": "snímek 14",
+          "apu": "7b7474d9-7487-45d6-b6c1-c0af58dc1dc7",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/c0feedb4-567a-4863-946d-23cdc3552f21"
         }
       ]
     },
     {
       "id": "q-kubecek-zid-predci",
-      "title": "Kubečkové a Židové: nejistá rodná příjmení a úmrtí Marie",
-      "summary": "Narození Marie Kubečkové 26. 3. 1854 a sňatek jejích rodičů 21. 5. 1844 jsou doloženy. Nejisté jsou rodná příjmení babiček a pozdní poznámka o úmrtí.",
-      "details": "Ludmila, matka Františka Kubečka: 1844 čteno „Pešek(?)“, 1854 „Plšková(?)“, z Machova č. 7. Anna, matka Františky Židové: příjmení nečitelné, snad z Nízké Srbské č. 37. Na okraji křestního zápisu Marie je pozdější poznámka „+12/10 1915“ (zemřela 12. 10. 1915?) bez místa a čísla zápisu; do mapy jen po ověření v matrice zemřelých. Číslo domu v zápisu narození je přepsané (nejspíš 21). Narození Františka (asi 1816, Machov č. 19) a Františky (asi 1819, Machov č. 11) lze hledat v 96-3.",
+      "title": "Kubečkové a Židové: nejistá rodná příjmení, sňatek Kubečkových a úmrtí Marie",
+      "summary": "Narození Františka Kubečka (23. 10. 1815) a Františky Židové (15. 9. 1818) i sňatek Karla Žida a Anny (9. 5. 1813) jsou doloženy. Nejistá zůstávají rodná příjmení matek, sňatek Karla Kubečka a Ludmily a pozdní poznámka o úmrtí Marie.",
+      "details": "Ludmila, matka Františka Kubečka: 1815 čteno „dcera zemřelého Jana Plška(?) z Machova č. 7“, 1844 „Pešek(?)“, 1854 „Plšková(?)“; příjmení proto nejisté. Anna, matka Františky Židové: 1813 a 1818 dcera zemřelého Jana „Duška(?)“, tkalce z Nízké Srbské č. 37; příjmení nejisté. Sňatek Karla Kubečka a Ludmily není v oddaných Machova 1803–1818 (96-3); Machov má v oddaných mezeru 6/1794–1803, další krok je 96-2 (oddaní do 1802). Otec ženicha Karla Žida (1813) je Karel Žid z Machova; matka v zápisu není. Na okraji křestního zápisu Marie (1854) je pozdější poznámka „+12/10 1915“ bez místa; do mapy jen po ověření v zemřelých.",
       "related_ids": [
         "marie-kubeckova-barcakova",
         "frantisek-kubecek-machov21",
         "frantiska-zidova",
         "ludmila-kubeckova-machov19",
-        "anna-zidova-machov11"
+        "anna-zidova-machov11",
+        "karel-kubecek-machov19",
+        "karel-zid-machov11",
+        "karel-zid-st-machov"
       ],
       "sources": [
         {
@@ -12500,6 +12651,27 @@
           "detail": "snímek 20",
           "apu": "cb90c1cf-803f-4391-b456-d5983c3f388f",
           "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/fddf6868-27b7-460b-a862-2a71c7b8c765"
+        },
+        {
+          "label": "ARON, narození 23. 10. 1815 František Kubeček, Machov č. 19",
+          "signatura": "96-3",
+          "detail": "snímek 74",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/a9d10ec0-3c79-4399-ae06-44e1eb366aae"
+        },
+        {
+          "label": "ARON, narození 15. 9. 1818 Františka Židová, Machov č. 22",
+          "signatura": "96-3",
+          "detail": "snímek 79",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/1ee80dc6-76ad-4db4-964b-2246361ee61f"
+        },
+        {
+          "label": "ARON, sňatek 9. 5. 1813 Machov: Karel Žid × Anna",
+          "signatura": "96-3",
+          "detail": "snímek 17",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/74b89b01-a5ce-4598-9cdf-709da3b3b59c"
         }
       ]
     }
