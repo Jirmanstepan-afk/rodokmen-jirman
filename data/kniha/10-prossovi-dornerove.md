@@ -16,13 +16,39 @@ Jeho syn [[karl-dorner|Karl Dörner]] byl pokřtěn v listopadu 1768. Dne 20. li
 
 ## Mlynářský tovaryš Anton Proß
 
-Ženich [[anton-pross-1828|Anton Proß]] měl 30 let a byl mlynářský tovaryš. Byl synem zahradníka [[josef-pross|Josefa Proße]] z č. 6 obce, jejíž název čtu jen opatrně, a [[agathe-pross|Agathy]] z Malého Uhřínova [?q-pross-dorner-puvod]. Anton s Franziskou žili v Sedloňově č. 130 a 13. července 1866 se jim tam narodil syn [[anton-pross|Anton]].[^144-3938/62: narození Antona Proße 13. 7. 1866, Sedloňov č. 130]
+Ženich [[anton-pross-1828|Anton Proß]] měl 30 let a byl mlynářský tovaryš. Byl synem zahradníka [[josef-pross|Josefa Proße]] z Benátek č. 6 a [[agathe-pross|Agathy]] z Malého Uhřínova [?q-pross-dorner-puvod]. Anton s Franziskou žili v Sedloňově č. 130 a 13. července 1866 se jim tam narodil syn [[anton-pross|Anton]].[^144-3938/62: narození Antona Proße 13. 7. 1866, Sedloňov č. 130]
 
 Mladší Anton byl tkadlec v Sedloňově č. 88. Dne 19. února 1890 se oženil s [[johanna-mader|Johannou Maderovou]]. Vím to z indexu, protože samotná kniha oddaných z té doby online není. Už měli dceru Annu, narozenou v roce 1889, kterou sňatek legitimoval. U jejího zápisu jsou dodatečně dopsaní oba rodiče i se svými rodiči a oba se tam vlastní rukou podepsali.[^144-3938/195: narození Anny Proßové 1889 s legitimací 1890]
 
 ![144-3938/195] Zápis o narození Anny Proßové s pozdější legitimací. Podpisy Anton Proß a Johanna Mader.
 
 > Domněnka: Johann Dörner se v roce 1858 podepsal třemi křížky, jeho vnuk Anton a Antonova žena Johanna v roce 1890 už vlastní rukou. Myslím, že mezi těmi dvěma podpisy je vidět, jak se do vesnic dostávala školní docházka. Je to ale můj výklad, ne údaj ze zápisu.
+
+## Benátky, osada, která zmizela
+
+Název obce ve svatebním zápisu z roku 1858 jsem dlouho četl špatně. Napoprvé mi vyšlo „Bauratal“ nebo „Lanatal“, ale když jsem se k zápisu vrátil, stálo tam „aus Benatek N. 6“ a úřad „Bezirksamt Reichenau“, tedy Rychnov nad Kněžnou. Benátky byly malá horská osada u Uhřínova, patřící k faře Velký Uhřínov. Dnes už neexistují, na mapě po nich zbyl jen rozcestník „Benátky (býv. osada)“. Všechny benátské křty, svatby i pohřby z let 1784–1850 se vešly do jedné tenké knihy.
+
+V té knize jsem našel Antonův křest. [[anton-pross-1828|Anton Proß]] se narodil 16. dubna 1828 v Benátkách č. 6. Byl manželským synem zahradníka [[josef-pross|Josefa Proße]] a [[agathe-pross|Agathy]]. Na okraji je poznámka, že křestní list byl vydán v květnu 1858, tedy pár týdnů před jeho svatbou v Sedloňově.[^171-4/15: narození Antona Proße 16. 4. 1828, Benátky č. 6]
+
+![171-4/15] Křest Antona Proße 16. dubna 1828 v Benátkách č. 6, s poznámkou o vydání křestního listu v roce 1858.
+
+Rodiče se vzali 5. srpna 1823, také v čísle 6. Josef byl vdovec a bylo mu 37 let. Agathě bylo 35 a byla vdovou po mlynáři Josefu Pibrtovi (příjmení čtu s otazníkem). Svědkem byl mimo jiné mlynář Franz Pibrt z Benátek.[^171-4/5: sňatek Josefa Proße a Agathy 5. 8. 1823, Benátky č. 6]
+
+![171-4/5] Druhý sňatek Josefa Proße: vdovec Josef a vdova Agatha, 5. srpna 1823.
+
+Proč byli oba ovdovělí, ukázala kniha zemřelých. Mlynář Josef Pibrt zemřel 6. září 1822 v Benátkách č. 4 na úbytě. O den později zemřela v sousedním č. 6 Josefova první žena Barbara, bylo jí 35 let a zemřela v šestinedělí. Jejich novorozený syn Ignaz žil jen pár hodin. Už v roce 1821 Josefovi zemřel jednodenní syn Joseph na psotník. A první syn z nového manželství, také Anton, se 14. února 1824 narodil mrtvý. Anton z roku 1828 byl tedy druhý Anton, a ze čtyř dětí, které jsem k Josefovi v Benátkách do té doby našel, přežil jen on.[^171-4/25: zemřelí Benátky 1819–1825, mezi nimi Josef Pibrt a Barbara Proßová 1822]
+
+![171-4/25] Kniha zemřelých z Benátek: v září 1822 tu těsně za sebou stojí mlynář Josef Pibrt a Barbara, žena Josefa Proße.
+
+> Domněnka: Vdovec se čtyřletou zkušeností se smrtí dětí a vdova po mlynáři ze sousedního domu se vzali necelý rok po obou pohřbech. Myslím, že v malé osadě to byla spíš nutnost než romance: hospodářství s malými dětmi bez ženy i vdova bez muže se těžko udržely. Je to ale můj výklad.
+
+### Zajímavosti
+
+- Josef Proß se poprvé ženil už 17. února 1808, ve 20 letech, opět v č. 6. Jako ženich je zapsán „syn †Andrease(?) Proße“ a nevěsta byla Barbara(?), dcera Josefa Pibrta(?). Jména čtu nejistě, proto jsou jen v dotazu.[^171-4/5: první sňatek Josefa Proße 17. 2. 1808]
+- V knize narozených Benátek 1784–1787 je 22. července 1786 v č. 6 pokřtěn Franz Joseph, syn Andrease Proße a Kathariny. Věkem by to mohl být náš Josef.[^171-3/78: narození Benátky 1784–1787, Franz Joseph 22. 7. 1786 č. 6] [?q-pross-dorner-puvod]
+- Proßů bylo v Benátkách víc: Christoph v č. 3, Ignaz v č. 2, Franz v č. 3. V roce 1818 si Margaretha, dcera zemřelého Christopha, vzala Franze, syna obchodníka(?) Karla Proße z Langenbrücku(?) v Kladsku. Je to první stopa, že Proßové mohli mít příbuzné za tehdejší hranicí v Kladsku.
+
+> Domněnka: Rodné příjmení Agathy znám jen z roku 1858 („Leik?“ z Malého Uhřínova). V roce 1814 se v Benátkách č. 4 oženil mlynář-vdovec Franz Joseph Pibrt(?), 55 let, s šestadvacetiletou Gertrudou, dcerou zahradníka Ignaze Lenka(?) z Malého Uhřínova. Věk i původ by na Agathu seděly, ale křestní jméno ne. Proto to nechávám jako otevřený dotaz.[^171-4/5: sňatek 8. 2. 1814 Pibrt × Gertruda Lenk(?)]
 
 ## Ze Sedloňova do Martínkovic
 

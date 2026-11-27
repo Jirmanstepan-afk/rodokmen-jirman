@@ -857,6 +857,26 @@
         "wikidata": "Q11812544"
       },
       "note": "V oddacím zápisu 1879 „Langendorf N. 35 … aus dem Reichenauer Amtsbezirke“ (okres Rychnov) – tím je obec zamčena."
+    },
+    {
+      "id": "benatky-liberk",
+      "name": "Benátky (zaniklá osada u Uhřínova)",
+      "aliases": [
+        "Benátky",
+        "Benatek",
+        "Benátky č. 6",
+        "Benátky č. 4"
+      ],
+      "type": "zaniklá osada, k. ú. Uhřínov, obec Liberk",
+      "admin": "okres Rychnov nad Kněžnou",
+      "country": "CZ",
+      "lat": 50.22426,
+      "lon": 16.33378,
+      "source": {
+        "label": "OpenStreetMap, uzel 3120933210 (Nominatim: Benátky, locality; rozcestník „Benátky (býv. osada)“)",
+        "url": "https://www.openstreetmap.org/node/3120933210"
+      },
+      "note": "Fara Velký Uhřínov (matrika 171-4 Benátky NOZ 1784–1850); německy Benatek."
     }
   ],
   "unplaced_rules": [

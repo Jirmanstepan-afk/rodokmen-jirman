@@ -810,6 +810,20 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 24-6100 (poř.č. 1646), 1878-1916",
    "popis": "římskokatolická matrika ZEMŘELÝCH, Deštné v Orlických horách + Dříš + Kout + Paseka + Pastviny + Víska + Zákoutí",
    "url": "https://aron.vychodoceskearchivy.cz/apu/c94d4759-12c1-4973-bcc1-7c5356e74553"
+  },
+  "171-4": {
+   "apu": "917979c4-1830-4d14-b063-7753fc188b14",
+   "dao": "917979c4-1830-4d14-b063-7753fc188b14",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 171-4 (poř.č. 12184), 1784-1850",
+   "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, Benátky (N 1784-1849, O 1784-1850, Z 1784-1850)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/917979c4-1830-4d14-b063-7753fc188b14"
+  },
+  "171-3": {
+   "apu": "5d82c88b-3a14-4c48-a1ac-bc9b3cace57a",
+   "dao": "5d82c88b-3a14-4c48-a1ac-bc9b3cace57a",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 171-3 (poř.č. 12180), 1784-1842",
+   "popis": "římskokatolická matrika NAROZENÝCH, Velký Uhřínov (1784-1842), Malý Uhřínov (1784-1797), Benátky (1784-1797), Bělá (1784-1796), Bukový (1784-1797), Tisovec (1784-1796), Hutě (1784-1797), Podolí (1784-1797), Kamenec (1784-1797)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a"
   }
  },
  "aliasy": {
@@ -2415,6 +2429,42 @@
    "vyrez": "celá strana",
    "nahled": "img/zdroje/144-8637_s038.jpg",
    "velky": "img/zdroje/144-8637_s038_velky.jpg"
+  },
+  "171-3|78": {
+   "signatura": "171-3",
+   "snimek": 78,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/dao/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/file/c5827436-ba28-440e-b64d-17def8d2635f",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-3_s078.jpg",
+   "velky": "img/zdroje/171-3_s078_velky.jpg",
+   "vyrez_soubor": "s078-narozeni-1784-1787-Benatky-Franz-Joseph-22-7-1786-c6-syn-Andrease-Prosse-kandidat-Josef.jpg"
+  },
+  "171-4|15": {
+   "signatura": "171-4",
+   "snimek": 15,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/917979c4-1830-4d14-b063-7753fc188b14/dao/917979c4-1830-4d14-b063-7753fc188b14/file/09582490-a778-4464-bc8f-4e83edcf03b8",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-4_s015.jpg",
+   "velky": "img/zdroje/171-4_s015_velky.jpg",
+   "vyrez_soubor": "s015-narozeni-16-4-1828-Benatky6-Anton-Pross-otec-Josef-Pross-zahradnik-matka-Agatha-krestni-list-1858.jpg"
+  },
+  "171-4|25": {
+   "signatura": "171-4",
+   "snimek": 25,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/917979c4-1830-4d14-b063-7753fc188b14/dao/917979c4-1830-4d14-b063-7753fc188b14/file/5f45d0f0-604a-446c-b2ab-3492565b4bdf",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-4_s025.jpg",
+   "velky": "img/zdroje/171-4_s025_velky.jpg",
+   "vyrez_soubor": "s025-umrti-1819-1825-Benatky-Josef-Pibrt-mlynar-6-9-1822-Barbara-zena-Josefa-Prosse-35-v-sestinedeli-deti-Pross.jpg"
+  },
+  "171-4|5": {
+   "signatura": "171-4",
+   "snimek": 5,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/917979c4-1830-4d14-b063-7753fc188b14/dao/917979c4-1830-4d14-b063-7753fc188b14/file/554d95c9-9e8a-43f6-a0e7-3a453624f012",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-4_s005.jpg",
+   "velky": "img/zdroje/171-4_s005_velky.jpg",
+   "vyrez_soubor": "s005-oddani-5-8-1823-Benatky6-Josef-Pross-zahradnik-vdovec-37-x-Agatha-vdova-po-Josefu-Pibrt-mlynari-35.jpg"
   },
   "174-12|31": {
    "signatura": "174-12",
