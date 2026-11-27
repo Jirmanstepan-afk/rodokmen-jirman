@@ -10329,8 +10329,19 @@
       "id": "hans-rosenberger-1702",
       "name": "Hans (Johann) Rosenberger",
       "maiden": null,
-      "birth": null,
-      "baptism": null,
+      "birth": {
+        "display": "18. 8. 1679",
+        "precision": "exact",
+        "date": "1679-08-18",
+        "place": "Otovice (Ottendorf), fara Martínkovice",
+        "note": "Datum křtu (99-2, pag. 115)."
+      },
+      "baptism": {
+        "display": "18. 8. 1679",
+        "precision": "exact",
+        "date": "1679-08-18",
+        "place": "Martínkovice (fara pro Otovice)"
+      },
       "death": null,
       "occupation": null,
       "places": [
@@ -10352,13 +10363,28 @@
           "signatura": "141-7598",
           "detail": "snímek 323, pag. 455, Ruprechtice; výřez vypisy/141-7598/n141-7598-s323-pag455-1709-04-22-hans-adalbertus-syn-hanse-rosenbergera-a-judith.jpg",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/1fad27ed-fc5f-438c-a712-e096f25a2e51/dao/1fad27ed-fc5f-438c-a712-e096f25a2e51/file/0f470502-d421-4ca5-b456-5a40e9e29739"
+        },
+        {
+          "label": "ARON, křest 18. 8. 1679",
+          "signatura": "99-2",
+          "detail": "snímek 114, pag. 115, Martínkovice/Otovice; výřez vypisy/99-2/n99-2-s114-pag115-1679-08-18-johannes-syn-georga-rosenbergera-z-otovic.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/211afc92-e9fc-43c6-acfa-c289dc419f77/dao/211afc92-e9fc-43c6-acfa-c289dc419f77/file/cb2b53c4-104c-4914-a276-69a3a999971d"
+        },
+        {
+          "label": "ARON, index narozených Martínkovice + Otovice lit. R 1631–1687",
+          "signatura": "99-14",
+          "detail": "snímek 60; z Otovic jediný Johannes Rosenberg syn Georga 1679 (II, pag. 115), druhý Hans Michel 1679 je syn Tobiase (pag. 114)",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/8775726d-ba3e-44be-9ef2-1bd2b267d7be/dao/8775726d-ba3e-44be-9ef2-1bd2b267d7be/file/9c20a968-d170-4810-9dfe-b904dce4c35f"
         }
       ],
       "notes": [
         "Sňatek 31. 1. 1702 v Ruprechticích (141-7598, snímek 48, pag. 94): „Hanß Rosenberger, ein junger Geselle, weyl. George Rosenbergers nachgelassener ehel. Sohn von Ottendorf“ × panna Judith, pozůstalá dcera †Jonase Hertzoga z Ruprechtic; oddával P. Petrus, svědek Caspar Bircke z Jetřichova.",
-        "Otec Johanna Adalberta *22. 4. 1709 (křest: „Hanß Rosenbergern von Ruppersdorf und Judithen seinem Weib“)."
+        "Otec Johanna Adalberta *22. 4. 1709 (křest: „Hanß Rosenbergern von Ruppersdorf und Judithen seinem Weib“).",
+        "Křest 18. 8. 1679 (99-2, snímek 114, pag. 115): „ist Görge Rosenbergern und seiner Ehewirthin von Ottendorf ein Kindt getaufft, mit Nahmen Johanns“; kmotři Hanns Kuhse(?) Hausmann a manželka mlynáře Friedricha Hasslera, oba z Otovic. Identifikace: v indexu 99-14 je z Otovic 1658–1687 jediný Johann Rosenberger syn Georga; ve sňatku 1702 je Hans „weyl. George Rosenbergers nachgelassener Sohn von Ottendorf“ – otec Georg z Otovic zemřel 30. 9. 1680 (jediné úmrtí Georga Rosenbergera z Otovic před 1702 v indexu 99-16)."
       ],
-      "interesting": []
+      "interesting": [
+        "Hans přišel o oba rodiče ve 13 měsících: otec Georg i matka Rosina zemřeli 30. 9. 1680 na mor, který Otovice zasáhl v srpnu–říjnu 1680. Proto ho oddací zápis 1702 nazývá „nachgelassener“ – pozůstalý, osiřelý syn."
+      ]
     },
     {
       "id": "judith-hertzog-1677",
@@ -10426,9 +10452,11 @@
       "birth": null,
       "baptism": null,
       "death": {
-        "display": "před 31. 1. 1702",
-        "precision": "before",
-        "note": "Ve sňatku syna „weyl.“"
+        "display": "30. 9. 1680",
+        "precision": "exact",
+        "date": "1680-09-30",
+        "place": "Otovice (Ottendorf)",
+        "note": "Pohřben 30. 9. 1680 spolu s manželkou Rosinou, mor 1680 (99-2, pag. 171)."
       },
       "occupation": null,
       "places": [
@@ -10443,12 +10471,71 @@
           "signatura": "141-7598",
           "detail": "snímek 48, pag. 94, Ruprechtice; výřez vypisy/141-7598/o141-7598-s48-pag94-1702-01-31-hans-rosenberger-ottendorf-x-judith-hertzog.jpg",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/1fad27ed-fc5f-438c-a712-e096f25a2e51/dao/1fad27ed-fc5f-438c-a712-e096f25a2e51/file/cd5be5af-d69a-4bca-a083-fa2f9f1163d5"
+        },
+        {
+          "label": "ARON, sňatek 6. 11. 1678",
+          "signatura": "99-1",
+          "detail": "snímek 53, pag. 99, Martínkovice; výřez vypisy/99-1/o99-1-s53-pag99-1678-11-06-georg-rosenberg-syn-melchiora-x-rosina-scholtz.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/0298d825-8819-476c-b61f-a7402f233e40/dao/0298d825-8819-476c-b61f-a7402f233e40/file/21b86fac-696e-4290-9684-1bf1acf7ccbe"
+        },
+        {
+          "label": "ARON, pohřeb 30. 9. 1680 (mor)",
+          "signatura": "99-2",
+          "detail": "snímek 378, pag. 171; výřez vypisy/99-2/z99-2-s378-pag171-1680-09-30-georg-rosenberg-a-rosina-mor.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/211afc92-e9fc-43c6-acfa-c289dc419f77/dao/211afc92-e9fc-43c6-acfa-c289dc419f77/file/05008632-3258-4635-bca5-a2a7955746ca"
+        },
+        {
+          "label": "ARON, křest 18. 8. 1679",
+          "signatura": "99-2",
+          "detail": "snímek 114, pag. 115, Martínkovice/Otovice; výřez vypisy/99-2/n99-2-s114-pag115-1679-08-18-johannes-syn-georga-rosenbergera-z-otovic.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/211afc92-e9fc-43c6-acfa-c289dc419f77/dao/211afc92-e9fc-43c6-acfa-c289dc419f77/file/cb2b53c4-104c-4914-a276-69a3a999971d"
+        },
+        {
+          "label": "ARON, index oddaných Martínkovice + Otovice lit. R",
+          "signatura": "99-16",
+          "detail": "snímek 23; Rosenberg Georg 1671 (I/80) a 1678 (I/99), Melchior 1649 (I/59)",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/0f398987-6602-45b0-99ea-bd23354fa409/dao/0f398987-6602-45b0-99ea-bd23354fa409/file/e3c32b79-102b-4483-a15b-33456997b728"
+        },
+        {
+          "label": "ARON, index zemřelých Martínkovice + Otovice lit. R 1605–1721",
+          "signatura": "99-16",
+          "detail": "snímky 71–72; jediný Georg Rosenberg z Otovic zemřelý před 1702 je 1680 (II/171); Melchior 1682 (II/46)",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/0f398987-6602-45b0-99ea-bd23354fa409/dao/0f398987-6602-45b0-99ea-bd23354fa409/file/d0d97c86-dd5f-4135-b542-267d69d99768"
+        },
+        {
+          "label": "ARON, křest 30. 5. 1677 (vyloučení)",
+          "signatura": "99-2",
+          "detail": "snímek 109, pag. 105; Georg Rosenberger z Martínkovic; výřez vypisy/99-2/n99-2-s109-pag105-1677-05-30-johannes-syn-georga-rosenbergera-z-martinkovic.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/211afc92-e9fc-43c6-acfa-c289dc419f77/dao/211afc92-e9fc-43c6-acfa-c289dc419f77/file/78dcc8d9-90f9-4766-9118-08e9a82420f7"
+        },
+        {
+          "label": "ARON, křest 11. 3. 1682 (vyloučení)",
+          "signatura": "99-2",
+          "detail": "snímek 123, pag. 133; Georg Rosenberger a Rosina z Martínkovic; výřez vypisy/99-2/n99-2-s123-pag133-1682-03-11-dorothea-dcera-georga-a-rosiny-z-martinkovic.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/211afc92-e9fc-43c6-acfa-c289dc419f77/dao/211afc92-e9fc-43c6-acfa-c289dc419f77/file/4aaaa860-ebd0-4014-a9c5-54edbb3f32f8"
+        },
+        {
+          "label": "ARON, křest 31. 10. 1685 (vyloučení)",
+          "signatura": "99-2",
+          "detail": "snímek 129, pag. 145; Georg Rosenberger a Rosina z Martínkovic; výřez vypisy/99-2/n99-2-s129-pag145-1685-10-31-georg-syn-georga-a-rosiny-z-martinkovic.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/211afc92-e9fc-43c6-acfa-c289dc419f77/dao/211afc92-e9fc-43c6-acfa-c289dc419f77/file/3ed1f4dc-283f-4190-96bc-7e867bbd4ec0"
+        },
+        {
+          "label": "ARON, sňatek 10. 11. 1671 (jiný Georg)",
+          "signatura": "99-1",
+          "detail": "snímek 44, pag. 80; Georg syn Michela Rosenbergera × Rosina; výřez vypisy/99-1/o99-1-s44-pag80-1671-11-10-georg-rosenberger-syn-michela-x-rosina.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/0298d825-8819-476c-b61f-a7402f233e40/dao/0298d825-8819-476c-b61f-a7402f233e40/file/731d6f2e-bb0c-48c3-ab5f-7df363cab2a8"
         }
       ],
       "notes": [
-        "Otec Hanse Rosenbergera podle sňatku 31. 1. 1702 (141-7598, snímek 48): „weyl. George Rosenbergers nachgelassener ehel. Sohn von Ottendorf“. Otovické matriky před 1842 v ARON nejsou."
+        "Otec Hanse Rosenbergera podle sňatku 31. 1. 1702 (141-7598, snímek 48): „weyl. George Rosenbergers nachgelassener ehel. Sohn von Ottendorf“.",
+        "Sňatek 6. 11. 1678 v Martínkovicích (99-1, snímek 53, pag. 99): „Görge Rosenberg, Junggesell, Melcher Rosenbergers von Ottendorf ehelicher Sohn, mit Jungfrau Rosinam, Martin Scholtz (čtení Schaltz?) von Merzdorf ehlichen Tochter“.",
+        "Pohřeb 30. 9. 1680 (99-2, snímek 378, pag. 171): „Den 30. September Görge Rosenberg, desgleichen seine Ehewirthin Rosina sind begraben worden“ – v seznamu obětí moru 1680, který vedl kostelník Johann Meißner.",
+        "Identifikace (proč tento Georg): v indexu oddaných 99-16 jsou v letech 1660–1700 jen dva ženichové Georg Rosenberger – 1671 (syn Michela, × Rosina) a 1678 (syn Melchiora z Otovic, × Rosina Scholtz). Georg ze sňatku 1671 žil v Martínkovicích (křty dětí 30. 5. 1677, 11. 3. 1682 a 31. 10. 1685 „von Merzdorf“) – byl tedy naživu po roce 1680 a otcem Hanse z Otovic být nemohl. Otec Hanse z Otovic narozeného 18. 8. 1679 (9 měsíců po svatbě 6. 11. 1678) je proto Georg, syn Melchiora. Melchiorova rodina umírá na mor ve stejných týdnech (manželka 1. 9., dva synové 22. 9., syn 28. 9. 1680)."
       ],
-      "interesting": []
+      "interesting": [
+        "Zemřel na mor v září 1680 spolu s manželkou Rosinou; během šesti týdnů pohřbili v Otovicích i manželku jeho otce Melchiora a tři další Melchiorovy syny. Kvůli moru byl tehdy zřízen nový hřbitov „hinter der Widmut“ (za farním statkem), posvěcený 8. 9. 1680."
+      ]
     },
     {
       "id": "jonas-hertzog-ruprechtice",
@@ -10552,6 +10639,134 @@
         "Otec Marie, nevěsty Johanna Adalberta Rosenbergera, podle sňatku 6. 10. 1734 (174-6, snímek 66, fol. 121). Povolání v zápisu čteno nejistě."
       ],
       "interesting": []
+    },
+    {
+      "id": "rosina-scholtz-1678",
+      "name": "Rosina Scholtzová",
+      "maiden": "Scholtz",
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "30. 9. 1680",
+        "precision": "exact",
+        "date": "1680-09-30",
+        "place": "Otovice (Ottendorf)",
+        "note": "Pohřbena s manželem Georgem, mor 1680 (99-2, pag. 171)."
+      },
+      "occupation": null,
+      "places": [
+        "Martínkovice (Merzdorf)",
+        "Otovice (Ottendorf)"
+      ],
+      "branch": "rosenberger",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 6. 11. 1678",
+          "signatura": "99-1",
+          "detail": "snímek 53, pag. 99, Martínkovice; výřez vypisy/99-1/o99-1-s53-pag99-1678-11-06-georg-rosenberg-syn-melchiora-x-rosina-scholtz.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/0298d825-8819-476c-b61f-a7402f233e40/dao/0298d825-8819-476c-b61f-a7402f233e40/file/21b86fac-696e-4290-9684-1bf1acf7ccbe"
+        },
+        {
+          "label": "ARON, pohřeb 30. 9. 1680 (mor)",
+          "signatura": "99-2",
+          "detail": "snímek 378, pag. 171; výřez vypisy/99-2/z99-2-s378-pag171-1680-09-30-georg-rosenberg-a-rosina-mor.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/211afc92-e9fc-43c6-acfa-c289dc419f77/dao/211afc92-e9fc-43c6-acfa-c289dc419f77/file/05008632-3258-4635-bca5-a2a7955746ca"
+        }
+      ],
+      "notes": [
+        "Dcera Martina Scholtze z Martínkovic; provdána 6. 11. 1678 za Georga Rosenbergera z Otovic (99-1, pag. 99). Matka Hanse *18. 8. 1679. Pohřbena 30. 9. 1680 („desgleichen seine Ehewirthin Rosina“)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "martin-scholtz-martinkovice",
+      "name": "Martin Scholtz",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Martínkovice (Merzdorf)"
+      ],
+      "branch": "rosenberger",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 6. 11. 1678",
+          "signatura": "99-1",
+          "detail": "snímek 53, pag. 99, Martínkovice; výřez vypisy/99-1/o99-1-s53-pag99-1678-11-06-georg-rosenberg-syn-melchiora-x-rosina-scholtz.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/0298d825-8819-476c-b61f-a7402f233e40/dao/0298d825-8819-476c-b61f-a7402f233e40/file/21b86fac-696e-4290-9684-1bf1acf7ccbe"
+        }
+      ],
+      "notes": [
+        "Otec Rosiny podle sňatku 6. 11. 1678 (99-1, pag. 99): „Martin Scholtz von Merzdorf ehlichen Tochter“. Čtení příjmení Scholtz/Schaltz (v indexu 99-16 dohledat lit. S)."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "melchior-rosenberger-otovice",
+      "name": "Melchior Rosenberger",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "6/1682",
+        "precision": "month",
+        "date": "1682-06",
+        "place": "Otovice (Ottendorf)",
+        "note": "Pohřben v červnu 1682 (den nečitelný), 99-2 pag. 46; věk neuveden."
+      },
+      "occupation": null,
+      "places": [
+        "Otovice (Ottendorf)"
+      ],
+      "branch": "rosenberger",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, sňatek 6. 11. 1678",
+          "signatura": "99-1",
+          "detail": "snímek 53, pag. 99, Martínkovice; výřez vypisy/99-1/o99-1-s53-pag99-1678-11-06-georg-rosenberg-syn-melchiora-x-rosina-scholtz.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/0298d825-8819-476c-b61f-a7402f233e40/dao/0298d825-8819-476c-b61f-a7402f233e40/file/21b86fac-696e-4290-9684-1bf1acf7ccbe"
+        },
+        {
+          "label": "ARON, pohřby – mor 1680 (pag. 170)",
+          "signatura": "99-2",
+          "detail": "snímek 377, pag. 170; výřez vypisy/99-2/z99-2-s377-pag170-1680-mor-otovice-melchiorova-manzelka.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/211afc92-e9fc-43c6-acfa-c289dc419f77/dao/211afc92-e9fc-43c6-acfa-c289dc419f77/file/a8df140c-5f5a-43e7-8fe2-e6b2e3e1a607"
+        },
+        {
+          "label": "ARON, pohřeb 30. 9. 1680 (mor)",
+          "signatura": "99-2",
+          "detail": "snímek 378, pag. 171; výřez vypisy/99-2/z99-2-s378-pag171-1680-09-30-georg-rosenberg-a-rosina-mor.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/211afc92-e9fc-43c6-acfa-c289dc419f77/dao/211afc92-e9fc-43c6-acfa-c289dc419f77/file/05008632-3258-4635-bca5-a2a7955746ca"
+        },
+        {
+          "label": "ARON, pohřeb 6/1682",
+          "signatura": "99-2",
+          "detail": "snímek 315, pag. 46; výřez vypisy/99-2/z99-2-s315-pag46-1682-06-melchior-rosenberg-z-otovic.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/211afc92-e9fc-43c6-acfa-c289dc419f77/dao/211afc92-e9fc-43c6-acfa-c289dc419f77/file/8f5f3f35-3ae1-4797-91a8-4d00feaebaf1"
+        },
+        {
+          "label": "ARON, index zemřelých Martínkovice + Otovice lit. R 1605–1721",
+          "signatura": "99-16",
+          "detail": "snímky 71–72; jediný Georg Rosenberg z Otovic zemřelý před 1702 je 1680 (II/171); Melchior 1682 (II/46)",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/0f398987-6602-45b0-99ea-bd23354fa409/dao/0f398987-6602-45b0-99ea-bd23354fa409/file/d0d97c86-dd5f-4135-b542-267d69d99768"
+        }
+      ],
+      "notes": [
+        "Otec Georga Rosenbergera podle sňatku 6. 11. 1678 (99-1, pag. 99): „Melcher Rosenbergers von Ottendorf ehelicher Sohn“.",
+        "Mor 1680: 1. 9. 1680 „still schweigend begraben Melcher Rosenbergers Ehewirthin“ (pag. 170), 22. 9. „Melcher Rosenbergern 2 Söhne begraben“, 28. 9. „Melcher Rosenbergers Söhnlein“ (pag. 171).",
+        "Pohřeb 6/1682 (99-2, snímek 315, pag. 46): „ist der Melcher Rosenberg von Ottendorf zur Erden bestattet worden“."
+      ],
+      "interesting": [
+        "Přežil morovou ránu 1680, při níž přišel během jediného měsíce o manželku, syna Georga se snachou a nejméně tři další syny; sám zemřel o necelé dva roky později. Jeho manželku pohřbili „still schweigend“ – potichu, bez zpěvu, jak se za moru pohřbívalo."
+      ]
     }
   ],
   "unions": [
@@ -14053,7 +14268,8 @@
     {
       "id": "u-georg-rosenberger-otovice",
       "partners": [
-        "georg-rosenberger-otovice"
+        "georg-rosenberger-otovice",
+        "rosina-scholtz-1678"
       ],
       "children": [
         "hans-rosenberger-1702"
@@ -14065,11 +14281,29 @@
           "signatura": "141-7598",
           "detail": "snímek 48, pag. 94, Ruprechtice; výřez vypisy/141-7598/o141-7598-s48-pag94-1702-01-31-hans-rosenberger-ottendorf-x-judith-hertzog.jpg",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/1fad27ed-fc5f-438c-a712-e096f25a2e51/dao/1fad27ed-fc5f-438c-a712-e096f25a2e51/file/cd5be5af-d69a-4bca-a083-fa2f9f1163d5"
+        },
+        {
+          "label": "ARON, sňatek 6. 11. 1678",
+          "signatura": "99-1",
+          "detail": "snímek 53, pag. 99, Martínkovice; výřez vypisy/99-1/o99-1-s53-pag99-1678-11-06-georg-rosenberg-syn-melchiora-x-rosina-scholtz.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/0298d825-8819-476c-b61f-a7402f233e40/dao/0298d825-8819-476c-b61f-a7402f233e40/file/21b86fac-696e-4290-9684-1bf1acf7ccbe"
+        },
+        {
+          "label": "ARON, křest 18. 8. 1679",
+          "signatura": "99-2",
+          "detail": "snímek 114, pag. 115, Martínkovice/Otovice; výřez vypisy/99-2/n99-2-s114-pag115-1679-08-18-johannes-syn-georga-rosenbergera-z-otovic.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/211afc92-e9fc-43c6-acfa-c289dc419f77/dao/211afc92-e9fc-43c6-acfa-c289dc419f77/file/cb2b53c4-104c-4914-a276-69a3a999971d"
         }
       ],
       "notes": [
-        "Manželka nejmenována."
-      ]
+        "Syn Hans (Johann) pokřtěn 18. 8. 1679. Oba manželé pohřbeni 30. 9. 1680 (mor)."
+      ],
+      "married": {
+        "display": "6. 11. 1678",
+        "date": "1678-11-06",
+        "place": "Martínkovice",
+        "note": "99-1, snímek 53, pag. 99."
+      }
     },
     {
       "id": "u-jonas-hertzog-judith",
@@ -14125,6 +14359,46 @@
       "notes": [
         "Matka nevěsty nejmenována."
       ]
+    },
+    {
+      "id": "u-melchior-rosenberger",
+      "partners": [
+        "melchior-rosenberger-otovice"
+      ],
+      "children": [
+        "georg-rosenberger-otovice"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, sňatek 6. 11. 1678",
+          "signatura": "99-1",
+          "detail": "snímek 53, pag. 99, Martínkovice; výřez vypisy/99-1/o99-1-s53-pag99-1678-11-06-georg-rosenberg-syn-melchiora-x-rosina-scholtz.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/0298d825-8819-476c-b61f-a7402f233e40/dao/0298d825-8819-476c-b61f-a7402f233e40/file/21b86fac-696e-4290-9684-1bf1acf7ccbe"
+        }
+      ],
+      "notes": [
+        "Matka Georga v zápisu sňatku 1678 neuvedena; manželka Melchiora zemřela 1. 9. 1680 (jméno neuvedeno)."
+      ]
+    },
+    {
+      "id": "u-martin-scholtz",
+      "partners": [
+        "martin-scholtz-martinkovice"
+      ],
+      "children": [
+        "rosina-scholtz-1678"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "ARON, sňatek 6. 11. 1678",
+          "signatura": "99-1",
+          "detail": "snímek 53, pag. 99, Martínkovice; výřez vypisy/99-1/o99-1-s53-pag99-1678-11-06-georg-rosenberg-syn-melchiora-x-rosina-scholtz.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/0298d825-8819-476c-b61f-a7402f233e40/dao/0298d825-8819-476c-b61f-a7402f233e40/file/21b86fac-696e-4290-9684-1bf1acf7ccbe"
+        }
+      ],
+      "notes": []
     }
   ],
   "identifications": [],
@@ -16370,12 +16644,13 @@
     },
     {
       "id": "q-hertzog-jonas-puvod",
-      "title": "Původ Jonase Hertzoga a Georga Rosenbergera (gen. 13)",
-      "summary": "Jonas Hertzog (Ruprechtice, děti 1663–1679) a Georg Rosenberger (Otovice, †před 1702) jsou nejstarší doložení předci Rosenbergovy linie. Jejich rodiče (gen. 14) v ARON nejsou.",
-      "details": "Domněnka/stav: Jonas se narodil před 1645, ruprechtická matrika začíná 5/1652 (fol. 101v čtyři křty 1644–1652 – neprošlo). Sňatek Jonase × Judith není v ruprechtických oddaných 1660–1663 ani v indexu 174-23 (Hertzog od 1673). Jonas mladší *1665 je syn. Možná cesta: čtyři křty 1644–1652 na fol. 101v (141-7598) a úmrtí Jonase před 1702 v 141-7598 Z (věk). Georg Rosenberger z Otovic: otovické matriky v ARON začínají 1842; starší zápisy Otovic mohou být v broumovské farnosti (13-53 index N 1632–1766 Otovice nezahrnuje) – nutno ověřit, kam Otovice v 17. stol. farně patřily. Tobias Heintzel (otec Rosiny, sňatek 13. 2. 1685 s Marthou Walzel z Hynčic, index 174-23 snímek 13) je jen v domněnkové větvi Ringel.",
+      "title": "Původ Jonase Hertzoga (gen. 13) a Melchiora Rosenbergera (gen. 14)",
+      "summary": "Rosenbergova linie je nyní doložena do gen. 14 (Melchior Rosenberger z Otovic, †1682). Jonas Hertzog (Ruprechtice) zůstává bez rodičů.",
+      "details": "Domněnka (Melchior, gen. 15): v indexu oddaných 99-16 je jediný Melchior Rosenberg 1605–1679 – sňatek 14. 11. 1649 (99-1, pag. 59): „Melcher Rosenbreck, ein Junggesell, Christoph(?) Rosenbrecks von Barzdorf(?) ehelicher Sohn, mit Jungfrau Justina, Caspar Merkels(?) von Ottendorf ehelicher Tochter“. Že jde o téhož Melchiora z Otovic a že Justina je matkou Georga, není doloženo (Georgův křest se v indexu 99-14 1650–1664 nenašel; mohl být druhá manželka). Jména otce a místa jsou čtena nejistě. Jonas Hertzog: narozen před 1645, ruprechtická matrika začíná 5/1652 (fol. 101v čtyři křty 1644–1652 – zatím neprošlo). Sňatek Jonase × Judith není v ruprechtických oddaných 1660–1663 ani v indexu 174-23 (Hertzog od 1673). Možná cesta: úmrtí Jonase před 1702 v 141-7598 Z (věk). Michel Rosenberger (otec Georga ze sňatku 1671, Martínkovice) je jiná větev – Georg z Martínkovic žil ještě 1685.",
       "related_ids": [
         "jonas-hertzog-ruprechtice",
         "georg-rosenberger-otovice",
+        "melchior-rosenberger-otovice",
         "judith-hertzog-st"
       ],
       "sources": [
@@ -16395,6 +16670,18 @@
           "label": "ARON, index oddaných Ruprechtice lit. H",
           "signatura": "174-23",
           "detail": "snímek 13"
+        },
+        {
+          "label": "ARON, sňatek 14. 11. 1649",
+          "signatura": "99-1",
+          "detail": "snímek 32, pag. 59; výřez vypisy/99-1/o99-1-s32-pag59-1649-11-14-melcher-rosenbreck-x-justina.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/0298d825-8819-476c-b61f-a7402f233e40/dao/0298d825-8819-476c-b61f-a7402f233e40/file/2753a9c3-6358-45c6-a2d3-bf44490724aa"
+        },
+        {
+          "label": "ARON, index oddaných Martínkovice + Otovice lit. R",
+          "signatura": "99-16",
+          "detail": "snímek 23; Rosenberg Georg 1671 (I/80) a 1678 (I/99), Melchior 1649 (I/59)",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/0f398987-6602-45b0-99ea-bd23354fa409/dao/0f398987-6602-45b0-99ea-bd23354fa409/file/e3c32b79-102b-4483-a15b-33456997b728"
         }
       ]
     }

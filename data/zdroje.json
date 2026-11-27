@@ -1014,6 +1014,34 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 174-4247, 1872-11.1891",
    "popis": "římskokatolická matrika NAROZENÝCH, Vernéřovice (Wernersdorf) a další obce farnosti, 1872–11.1891",
    "url": "https://aron.vychodoceskearchivy.cz/apu/2a49f6a2-9a22-4ed1-aed4-fc68aaf034a7"
+  },
+  "99-1": {
+   "apu": "0298d825-8819-476c-b61f-a7402f233e40",
+   "dao": "0298d825-8819-476c-b61f-a7402f233e40",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 99-1 (poř.č. 6860), 1605-1679",
+   "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, farnost (Martínkovice, Otovice)\nN 7.1605-1657, O 8.1605-11.1679, Z 9.1605-1641, fol. 221-225 pamětní zápisy 1699-1818",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/0298d825-8819-476c-b61f-a7402f233e40"
+  },
+  "99-2": {
+   "apu": "211afc92-e9fc-43c6-acfa-c289dc419f77",
+   "dao": "211afc92-e9fc-43c6-acfa-c289dc419f77",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 99-2 (poř.č. 6861), 1658-1729",
+   "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, farnost (Martínkovice, Otovice)\nN do 9.1729, O 1680-11.1729, Z od 2.1658, fol. 407-408 nemanželské děti 1714-1725, fol. 409-412 pamětní zápisy 1708-1730",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/211afc92-e9fc-43c6-acfa-c289dc419f77"
+  },
+  "99-14": {
+   "apu": "8775726d-ba3e-44be-9ef2-1bd2b267d7be",
+   "dao": "8775726d-ba3e-44be-9ef2-1bd2b267d7be",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 99-14 (poř.č. 6892), 1605-1784",
+   "popis": "římskokatolický index NAROZENÝCH, farnost (Martínkovice, Otovice)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8775726d-ba3e-44be-9ef2-1bd2b267d7be"
+  },
+  "99-16": {
+   "apu": "0f398987-6602-45b0-99ea-bd23354fa409",
+   "dao": "0f398987-6602-45b0-99ea-bd23354fa409",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 99-16 (poř.č. 6894), 1605-1784",
+   "popis": "římskokatolický index ZEMŘELÝCH, ODDANÝCH, farnost (Martínkovice, Otovice)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/0f398987-6602-45b0-99ea-bd23354fa409"
   }
  },
  "aliasy": {
@@ -5468,6 +5496,122 @@
    "nahled": "img/zdroje/96-9405_s074.jpg",
    "velky": "img/zdroje/96-9405_s074_velky.jpg",
    "vyrez_soubor": "p074-snatek-5-11-1904-Bohumir-Jirman-ucitel-NS95-ze-Zdarek-a-Paulina-Kralova-NS28.jpg"
+  },
+  "99-14|60": {
+   "signatura": "99-14",
+   "snimek": 60,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8775726d-ba3e-44be-9ef2-1bd2b267d7be/dao/8775726d-ba3e-44be-9ef2-1bd2b267d7be/file/db61d747-c8c8-416a-86f1-93543d4be293",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-14_s060.jpg",
+   "velky": "img/zdroje/99-14_s060_velky.jpg"
+  },
+  "99-16|23": {
+   "signatura": "99-16",
+   "snimek": 23,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/0f398987-6602-45b0-99ea-bd23354fa409/dao/0f398987-6602-45b0-99ea-bd23354fa409/file/4f47fe25-2c73-487f-8926-f76ffb04f278",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-16_s023.jpg",
+   "velky": "img/zdroje/99-16_s023_velky.jpg"
+  },
+  "99-16|71": {
+   "signatura": "99-16",
+   "snimek": 71,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/0f398987-6602-45b0-99ea-bd23354fa409/dao/0f398987-6602-45b0-99ea-bd23354fa409/file/4f830f99-d53c-4bcb-a0f6-6cc30b4b5e0e",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-16_s071.jpg",
+   "velky": "img/zdroje/99-16_s071_velky.jpg"
+  },
+  "99-16|72": {
+   "signatura": "99-16",
+   "snimek": 72,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/0f398987-6602-45b0-99ea-bd23354fa409/dao/0f398987-6602-45b0-99ea-bd23354fa409/file/9010a24b-2826-45ce-966e-c203baf6d791",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-16_s072.jpg",
+   "velky": "img/zdroje/99-16_s072_velky.jpg"
+  },
+  "99-1|32": {
+   "signatura": "99-1",
+   "snimek": 32,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/0298d825-8819-476c-b61f-a7402f233e40/dao/0298d825-8819-476c-b61f-a7402f233e40/file/67cf9250-f2d9-42a2-957f-e2c6b4d9962c",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-1_s032.jpg",
+   "velky": "img/zdroje/99-1_s032_velky.jpg"
+  },
+  "99-1|44": {
+   "signatura": "99-1",
+   "snimek": 44,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/0298d825-8819-476c-b61f-a7402f233e40/dao/0298d825-8819-476c-b61f-a7402f233e40/file/dbdb896a-8483-46b0-b3ac-49e2250a9964",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-1_s044.jpg",
+   "velky": "img/zdroje/99-1_s044_velky.jpg"
+  },
+  "99-1|53": {
+   "signatura": "99-1",
+   "snimek": 53,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/0298d825-8819-476c-b61f-a7402f233e40/dao/0298d825-8819-476c-b61f-a7402f233e40/file/355cf926-3ada-4a90-b510-226ecfa8f953",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/99-1_s053.jpg",
+   "velky": "img/zdroje/99-1_s053_velky.jpg",
+   "vyrez_soubor": "o99-1-s53-pag99-1678-11-06-georg-rosenberg-syn-melchiora-x-rosina-scholtz.jpg"
+  },
+  "99-2|109": {
+   "signatura": "99-2",
+   "snimek": 109,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/211afc92-e9fc-43c6-acfa-c289dc419f77/dao/211afc92-e9fc-43c6-acfa-c289dc419f77/file/09808e63-2b99-46ce-aec1-e29aca9bf04b",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-2_s109.jpg",
+   "velky": "img/zdroje/99-2_s109_velky.jpg"
+  },
+  "99-2|114": {
+   "signatura": "99-2",
+   "snimek": 114,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/211afc92-e9fc-43c6-acfa-c289dc419f77/dao/211afc92-e9fc-43c6-acfa-c289dc419f77/file/555f91ed-97e4-41b4-901f-68e28d768c8a",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/99-2_s114.jpg",
+   "velky": "img/zdroje/99-2_s114_velky.jpg",
+   "vyrez_soubor": "n99-2-s114-pag115-1679-08-18-johannes-syn-georga-rosenbergera-z-otovic.jpg"
+  },
+  "99-2|123": {
+   "signatura": "99-2",
+   "snimek": 123,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/211afc92-e9fc-43c6-acfa-c289dc419f77/dao/211afc92-e9fc-43c6-acfa-c289dc419f77/file/90c34564-2889-4488-8c64-7e74caaa4cf1",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-2_s123.jpg",
+   "velky": "img/zdroje/99-2_s123_velky.jpg"
+  },
+  "99-2|129": {
+   "signatura": "99-2",
+   "snimek": 129,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/211afc92-e9fc-43c6-acfa-c289dc419f77/dao/211afc92-e9fc-43c6-acfa-c289dc419f77/file/aee8e54a-3bd4-455b-9b69-8436c85fefd3",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/99-2_s129.jpg",
+   "velky": "img/zdroje/99-2_s129_velky.jpg",
+   "vyrez_soubor": "n99-2-s129-pag145-1685-10-31-georg-syn-georga-a-rosiny-z-martinkovic.jpg"
+  },
+  "99-2|315": {
+   "signatura": "99-2",
+   "snimek": 315,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/211afc92-e9fc-43c6-acfa-c289dc419f77/dao/211afc92-e9fc-43c6-acfa-c289dc419f77/file/b70b2adf-9f0a-4a12-b428-4b57ab402e45",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/99-2_s315.jpg",
+   "velky": "img/zdroje/99-2_s315_velky.jpg",
+   "vyrez_soubor": "z99-2-s315-pag46-1682-06-melchior-rosenberg-z-otovic.jpg"
+  },
+  "99-2|377": {
+   "signatura": "99-2",
+   "snimek": 377,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/211afc92-e9fc-43c6-acfa-c289dc419f77/dao/211afc92-e9fc-43c6-acfa-c289dc419f77/file/5b9e34a2-4a39-4f08-854f-dbc671f409f9",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-2_s377.jpg",
+   "velky": "img/zdroje/99-2_s377_velky.jpg"
+  },
+  "99-2|378": {
+   "signatura": "99-2",
+   "snimek": 378,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/211afc92-e9fc-43c6-acfa-c289dc419f77/dao/211afc92-e9fc-43c6-acfa-c289dc419f77/file/f3481c4f-5a35-48f2-800e-0721dc510b33",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/99-2_s378.jpg",
+   "velky": "img/zdroje/99-2_s378_velky.jpg"
   },
   "99-8015|137": {
    "signatura": "99-8015",

@@ -10,9 +10,31 @@ Judith se 31. ledna 1702 vdávala. Ženichem byl [[hans-rosenberger-1702|Hans Ro
 
 ![141-7598/48] Sňatek Hanse Rosenbergera z Otovic a panny Judith, dcery zesnulého Jonase Hertzoga, 31. ledna 1702.
 
-Jonas Hertzog, jeho žena Judith a George Rosenberger jsou se Štěpánem ve třinácté generaci. Jsou to vedle Lorenze Ringela z Vižňova nejstarší předkové, které znám jménem.
+Jonas Hertzog a jeho žena Judith jsou se Štěpánem ve třinácté generaci.
 
-> Domněnka: Odkud Jonas pocházel a kdo byli jeho rodiče, už se z matrik zjistit nedá. Narodil se dřív, než ruprechtická kniha začíná, a jeho svatbu jsem v ní nenašel. Otovické matriky jsou v archivu až od roku 1842 [?q-hertzog-jonas-puvod].
+> Domněnka: Odkud Jonas pocházel a kdo byli jeho rodiče, už se z matrik zjistit nedá. Narodil se dřív, než ruprechtická kniha začíná, a jeho svatbu jsem v ní nenašel [?q-hertzog-jonas-puvod].
+
+## Otovice a morová rána roku 1680
+
+Otovice v 17. století neměly vlastní faru. Patřily k farnosti v Martínkovicích (*Merzdorf*) a jejich křty, svatby a pohřby se zapisovaly do martínkovických knih, které se zachovaly od roku 1605. V nich jsem Rosenbergery našel. Dne 6. listopadu 1678 se v Martínkovicích ženil mládenec [[georg-rosenberger-otovice|Georg Rosenberg]], syn [[melchior-rosenberger-otovice|Melchiora Rosenbergera]] z Otovic. Nevěstou byla panna [[rosina-scholtz-1678|Rosina]], dcera [[martin-scholtz-martinkovice|Martina Scholtze]] z Martínkovic.[^99-1/53: oddací zápis 6. 11. 1678, Martínkovice]
+
+![99-1/53] Sňatek Georga Rosenberga, syna Melchiora z Otovic, a panny Rosiny Scholtzové 6. listopadu 1678 (předposlední zápis).
+
+Za devět měsíců, 18. srpna 1679, dal „Görge Rosenberger von Ottendorf“ pokřtít syna Johanna, tedy Hanse, který se pak roku 1702 ženil v Ruprechticích. Kmotry byli Hanns Kuhse(?), podruh, a manželka mlynáře Friedricha Hasslera, oba z Otovic.[^99-2/114: křest Johanna Rosenbergera 18. 8. 1679, fara Martínkovice] Že jde o téhož Hanse, je jisté: v indexu je z Otovic jediný Johann, syn Georga Rosenbergera. Ve farnosti žil ještě jeden Georg Rosenberger, syn Michela, ženatý od roku 1671 také s nějakou Rosinou. Ten ale bydlel v Martínkovicích a křtil tam děti ještě v letech 1682 a 1685.[^99-2/129: křest Georga, syna Georga a Rosiny z Martínkovic, 31. 10. 1685]
+
+![99-2/114] Křest Johanna (Hanse), syna Georga Rosenbergera z Otovic, 18. srpna 1679 (zápis uprostřed strany).
+
+V srpnu 1680 přišel do Otovic mor. Kostelník Johann Meißner založil ve farní knize zvláštní „Verzeichnis der Verstorbenen“, seznam lidí, které „Gott der Allerhöchste mit der erschrecklichen und grausamen Pest heimgesucht“. První oběť pohřbili 5. srpna. Mrtvé pak brzy přestali nosit na hřbitov u kostela a pohřbívali je v zahradách „beim Totengräber Haus“, mnohé „ohne Singen und ohne Geläut“, bez zpěvu a bez zvonů. Dne 1. září byla „still schweigend“, potichu, pohřbena Melchiorova manželka. Opat („Ihro Hochwürden Gnaden“) pak dal na svém pozemku vyměřit nový hřbitov pro morové mrtvé a 8. září ho posvětili.[^99-2/377: seznam zemřelých na mor 1680, Otovice]
+
+![99-2/377] Začátek seznamu obětí moru 1680. Dole je pohřeb manželky Melchiora Rosenbergera 1. září.
+
+Dne 22. září pohřbili dva Melchiorovy syny a 28. září jeho malého syna. Hned 30. září byli pohřbeni „Görge Rosenberg, desgleichen seine Ehewirthin Rosina“. Malý Hans tak ve třinácti měsících přišel o oba rodiče, a proto ho oddací zápis z roku 1702 nazývá „nachgelassener Sohn“, tedy osiřelým synem.[^99-2/378: pohřby 30. 9. 1680 – Georg Rosenberg a manželka Rosina]
+
+![99-2/378] Druhá strana morového seznamu. Ve spodní části je 30. září: „Görge Rosenberg, desgleichen seine Ehewirthin Rosina“.
+
+Melchior mor přežil, ale jen o necelé dva roky. V červnu 1682 byl „der Melcher Rosenberg von Ottendorf“ pohřben.[^99-2/315: pohřeb Melchiora Rosenbergera, červen 1682] Melchior je se Štěpánem ve **čtrnácté generaci** a je to zatím nejstarší doložený předek celého rodokmenu. Ve čtrnácté generaci je i Martin Scholtz z Martínkovic.
+
+> Domněnka: V martínkovické knize je 14. listopadu 1649 svatba mládence „Melcher Rosenbreck“, syna Christopha(?) Rosenbrecka z Barzdorfu(?), s pannou Justinou, dcerou Caspara Merkela(?) z Otovic. Jiný Melchior Rosenberg se v indexu svateb 1605–1679 nevyskytuje, takže to nejspíš je náš Melchior a Justina by mohla být Georgovou matkou. Křest Georga jsem ale nenašel a Melchior se mohl oženit i podruhé, proto to beru jen jako stopu k patnácté generaci [?q-hertzog-jonas-puvod].
 
 ## Johann Adalbert a Johann Joseph
 
