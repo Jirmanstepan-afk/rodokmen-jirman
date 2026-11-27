@@ -5456,6 +5456,24 @@
       "nahled": "img/zdroje/CDIAL-618-2-2696_s022.jpg",
       "velky": "img/zdroje/CDIAL-618-2-2696_s022_velky.jpg",
       "vyrez_soubor": "s022-1911-Meryszczow-kmotra-Catharina-Miskow-uxor-Bartholomaei.jpg"
+    },
+    "CDIAL-618-2-2697|164": {
+      "signatura": "CDIAL-618-2-2697",
+      "snimek": 164,
+      "url": "https://archium.tsdial.archives.gov.ua/file-viewer/230012#file-765621",
+      "vyrez": "zápis",
+      "nahled": "img/zdroje/CDIAL-618-2-2697_s164.jpg",
+      "velky": "img/zdroje/CDIAL-618-2-2697_s164_velky.jpg",
+      "vyrez_soubor": "s164-merysczow-1925.jpg"
+    },
+    "CDIAL-618-2-2697|145": {
+      "signatura": "CDIAL-618-2-2697",
+      "snimek": 145,
+      "url": "https://archium.tsdial.archives.gov.ua/file-viewer/230012#file-765515",
+      "vyrez": "zápis",
+      "nahled": "img/zdroje/CDIAL-618-2-2697_s145.jpg",
+      "velky": "img/zdroje/CDIAL-618-2-2697_s145_velky.jpg",
+      "vyrez_soubor": "s145-merysczow-1924-vacat.jpg"
     }
   }
 }

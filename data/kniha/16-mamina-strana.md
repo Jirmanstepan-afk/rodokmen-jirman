@@ -12,9 +12,17 @@ Dědův křest jsem našel v římskokatolické matrice farnosti Přemyšlany, k
 
 Na okraji zápisu je tužkou azbukou připsáno „копія а/г 26.V.67р“. Znamená to, že 26. května 1967 z něj sovětský úřad vydal opis. Děda v té době už dávno žil v Československu, takže si ho nejspíš vyžádal on sám.
 
-Kdy se Petr s Marií vzali, pořád nevím. Oddací zápis jsem v římskokatolických matrikách Přemyšlan (1926–1930) ani Kimirze (1926–1932) nenašel. Jednu jistou hranici ale už mám. Když 1. září 1929 v Meryszczówě křtili malého Františka Szlachetka, šla mu za kmotru „Maria Spadt ux. Petri“, tedy Marie Spadtová, manželka Petra. Za Spadtovou se tedy vdala ještě před 1. zářím 1929, nejméně dva roky před narozením dědy.[^CDIAL-618-2-2697/331: křest Franciscus Szlachetko, Meryszczów 30. 8./1. 9. 1929; kmotři Joannes Padyk a Maria Spadt ux. Petri]
+Kdy se Petr s Marií vzali, pořád nevím. Oddací zápis jsem v římskokatolických matrikách Přemyšlan (1921–1930) ani Kimirze (1926–1932) nenašel. V přemyšlanské knize sňatků má Meryszczów každý rok vlastní oddíl a ve dvacátých letech v něm bývalo nanejvýš pár svateb za rok: v roce 1921 jedna, v letech 1922 a 1924 žádná („hoc anno vacat“), v roce 1923 tam oddíl chybí úplně a v roce 1925 je tam jedna.[^CDIAL-618-2-2697/145: sňatky 1924, oddíl Meryszczów „hoc anno vacat“] Jednu jistou hranici ale už mám. Když 1. září 1929 v Meryszczówě křtili malého Františka Szlachetka, šla mu za kmotru „Maria Spadt ux. Petri“, tedy Marie Spadtová, manželka Petra. Za Spadtovou se tedy vdala ještě před 1. zářím 1929, nejméně dva roky před narozením dědy.[^CDIAL-618-2-2697/331: křest Franciscus Szlachetko, Meryszczów 30. 8./1. 9. 1929; kmotři Joannes Padyk a Maria Spadt ux. Petri]
 
 ![CDIAL-618-2-2697/331]
+
+![CDIAL-618-2-2697/145]
+
+Ta jediná meryszczówská svatba z roku 1925 je ale pozoruhodná. 26. září 1925 si Ludwika Helena Czerkawska, dcera Władysława Norberta Czerkawského z Meryszczówa, brala Feliksa Henryka Machnowského, kapitána 1. pěšího pluku Legií, rodáka ze Złoczowa, který žil ve Varšavě. Ohlášky proběhly ve Varšavě a k sňatku bylo potřeba vojenské povolení. Do vsi ševců a nádeníků se tak na jeden den dostal svět polských legionářů.[^CDIAL-618-2-2697/164: sňatek Felix Henricus Machnowski, kapitán 1. p. Leg., syn Severina a Josefy Schwarz, nar. Złoczów, bytem Varšava × Ludovica Helena Czerkawska, dcera Ladislava Norberta Vladimíra a Anny Brudzewské, Meryszczów 26. 9. 1925]
+
+![CDIAL-618-2-2697/164]
+
+> Domněnka: Petr a Marie se nejspíš brali v řeckokatolickém kostele, v nevěstině farnosti Ostałowice–Meryszczów. Řeckokatolické matriky sňatků a úmrtí Meryszczówa z let 1878–1941 (CDIAL 201/4a/9257) ale zatím nejsou digitalizované, stejně jako matrika narozených 1873–1941 (201/4a/8800).
 
 Mariin křest jsem v římskokatolických matrikách Meryszczówa (1906–1912) nenašel. Její rodiče tam ale stopu zanechali. 15. února 1911 křtili v Meryszczówě Stanislava Szlachetka a kmotrou mu byla „Catharina Miśków uxor Bartholomaei mercenarii“, tedy Kateřina Miśków, manželka nádeníka Bartoloměje. Jména obou manželů i ves sedí na Mariiny rodiče z dědova křtu. Zajímavé je, že o osmnáct let později, v roce 1929, šla Marie za kmotru jinému dítěti s příjmením Szlachetko. Stanislava pokřtil řeckokatolický farář.[^CDIAL-618-2-2696/22: křest Stanislaus Szlachetko, Meryszczów 13./15. 2. 1911; kmotři Joannes Kułeba a Catharina Miśków uxor Bartholomaei mercenarii][?q-spadt-puvod]
 
@@ -60,6 +68,6 @@ Babiččin otec [[antonin-flegl|Antonín Flegl]] se narodil 8. 6. 1919 na Podkar
 
 Do Benešova u Broumova přišli v únoru 1947 také volyňští Češi, třeba rodina Žižkových. Ti se v únoru 1947 vraceli z Volyně a cestou je v Šumperku navštívil generál Ludvík Svoboda. Po předchozím majiteli jejich statku zbyly jen tři otýpky slámy.[^A. Stejskal: Volyňští Češi na Broumovsku, zvláštní vydání Broumovských novin, s. 21]
 
-Náchodské matriky jsou v archivu jen do let 1915 (narození) a 1936 (sňatky), další svazky jsou zřejmě pořád na matričním úřadě. Proto Mariino narození ani svatbu Fleglových v archivu zatím vidět nemůžu.
+Náchodské matriky jsou v archivu jen do let 1915 (narození) a 1936 (sňatky), další svazky jsou zřejmě pořád na matričním úřadě. Proto Mariino narození ani svatbu Fleglových v archivu zatím vidět nemůžu. Prošel jsem aspoň náchodskou knihu oddaných od října 1917 do června 1923 (ARON 106-8171, snímky 24–160). Ženich s příjmením Zelený v ní není, takže Mariini rodiče se v Náchodě v těch letech nebrali, nebo se brali jinde.[^ARON-106-8171: oddaní Náchod 10/1917–6/1923, snímky 24–160, ženich Zelený nenalezen]
 
 Do budoucna bych tuhle kapitolu rád rozšířil, pokud se najdou doklady.
