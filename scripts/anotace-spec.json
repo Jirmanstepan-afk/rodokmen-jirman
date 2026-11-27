@@ -1436,6 +1436,329 @@
    ],
    "plyne": "Johann Adalbert Rosenberger se 6. 10. 1734 ve Vižňově oženil výslovně jako „syn Hanse Rosenbergera z Ruprechtic“. Tím je spojen Hans (sňatek 1702) s Johannem Adalbertem a jeho synem Johannem Josephem (1743).",
    "src": "img/zdroje/174-6_s066_velky.jpg"
+  },
+  {
+   "key": "99-2|377",
+   "title": "Seznam obětí moru – Otovice (fara Martínkovice), 1680",
+   "zdroj": "SOA Zámrsk, sign. 99-2, snímek 377, pravá strana (část mezi záhlavím a 1. zářím vynechána)",
+   "crop": [
+    1010,
+    70,
+    1910,
+    1320
+   ],
+   "skip_y": [
+    [
+     368,
+     1150
+    ]
+   ],
+   "entry": [
+    1040,
+    85,
+    1900,
+    1310
+   ],
+   "marks": [
+    {
+     "box": [
+      1215,
+      90,
+      1455,
+      158
+     ],
+     "lat": "Anno 1680",
+     "cs": "roku 1680",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       1050,
+       170,
+       1898,
+       290
+      ]
+     ],
+     "lat": "Verzeichniß der Verstorbenen … von mir Johann Meißner, dieser Zeit Kirchschreiber",
+     "cs": "seznam zemřelých, sepsaný kostelníkem Johannem Meißnerem",
+     "nejiste": true,
+     "pos": "top"
+    },
+    {
+     "box": [
+      1060,
+      318,
+      1645,
+      360
+     ],
+     "lat": "erschrecklichen und grausamen Pest",
+     "cs": "(navštívené) strašlivým a krutým morem",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1072,
+      1170,
+      1312,
+      1207
+     ],
+     "lat": "Den 1. September",
+     "cs": "dne 1. září"
+    },
+    {
+     "box": [
+      1312,
+      1170,
+      1622,
+      1207
+     ],
+     "lat": "ist still schweigendt begraben",
+     "cs": "byla potichu pohřbena"
+    },
+    {
+     "box": [
+      [
+       1636,
+       1170,
+       1822,
+       1207
+      ],
+      [
+       1100,
+       1205,
+       1348,
+       1236
+      ]
+     ],
+     "lat": "Melcher Rosenbergers Ehewirttin",
+     "cs": "manželka Melchiora Rosenbergera"
+    }
+   ],
+   "plyne": "Na podzim 1680 zasáhl Otovice mor. Kostelník Johann Meißner založil zvláštní seznam obětí a 1. září do něj zapsal tichý pohřeb manželky Melchiora Rosenbergera – matky Georga a babičky malého Hanse.",
+   "src": "img/zdroje/99-2_s377_velky.jpg"
+  },
+  {
+   "key": "99-2|378",
+   "title": "Morový seznam 1680 – pohřby Rosenbergerů v září",
+   "zdroj": "SOA Zámrsk, sign. 99-2, snímek 378, levá strana (spodní část)",
+   "crop": [
+    180,
+    885,
+    1000,
+    1150
+   ],
+   "entry": [
+    225,
+    895,
+    915,
+    1140
+   ],
+   "marks": [
+    {
+     "box": [
+      238,
+      900,
+      435,
+      940
+     ],
+     "lat": "Den 22. September",
+     "cs": "dne 22. září",
+     "pos": "top"
+    },
+    {
+     "box": [
+      435,
+      900,
+      905,
+      940
+     ],
+     "lat": "Melcher Rosenbergern 2 Söhne begraben",
+     "cs": "Melchioru Rosenbergerovi pohřbeni 2 synové",
+     "pos": "top"
+    },
+    {
+     "box": [
+      432,
+      1008,
+      752,
+      1046
+     ],
+     "lat": "Den 28. September Melcher Rosenbergers Söhnlein",
+     "cs": "28. září synáček Melchiora Rosenbergera",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       245,
+       1060,
+       652,
+       1096
+      ]
+     ],
+     "lat": "Den 30. September Görge Rosenberg",
+     "cs": "30. září Georg Rosenberg"
+    },
+    {
+     "box": [
+      245,
+      1096,
+      870,
+      1134
+     ],
+     "lat": "desgleichen seine Ehewirttin Rosina sindt begraben worden",
+     "cs": "a také jeho manželka Rosina byli pohřbeni"
+    }
+   ],
+   "plyne": "Mor v září 1680 vzal Melchiorovi Rosenbergerovi tři syny a 30. září i syna Georga s manželkou Rosinou. Jejich třináctiměsíční Hans osiřel – proto ho oddací zápis z roku 1702 nazývá „nachgelassener Sohn“.",
+   "src": "img/zdroje/99-2_s378_velky.jpg"
+  },
+  {
+   "key": "99-15|127",
+   "title": "Abecední rejstřík křtů Božanov, písmeno R (1637–1655)",
+   "zdroj": "SOA Zámrsk, sign. 99-15, snímek 127, pravá strana (střed seznamu vynechán)",
+   "crop": [
+    1000,
+    100,
+    1720,
+    1300
+   ],
+   "skip_y": [
+    [
+     250,
+     1170
+    ]
+   ],
+   "entry": [
+    1010,
+    110,
+    1712,
+    1290
+   ],
+   "marks": [
+    {
+     "box": [
+      1010,
+      110,
+      1712,
+      200
+     ],
+     "lat": "Namen des Kindes · Geburt Tag, Jahr · Zu finden auf der Matrik-Seite",
+     "cs": "jméno dítěte · narození (den, rok) · najdeš na straně matriky",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1030,
+      200,
+      1225,
+      248
+     ],
+     "lat": "Littera R",
+     "cs": "písmeno R",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1062,
+      1244,
+      1280,
+      1278
+     ],
+     "lat": "Rosenberg Georg",
+     "cs": "Georg Rosenberg"
+    },
+    {
+     "box": [
+      1365,
+      1244,
+      1535,
+      1278
+     ],
+     "lat": "… Februar 1655",
+     "cs": "únor 1655 (číslici dne čtu nejistě; křestní zápis má 2. února)",
+     "nejiste": true
+    },
+    {
+     "box": [
+      1640,
+      1244,
+      1690,
+      1278
+     ],
+     "lat": "32.",
+     "cs": "strana 32 křestní knihy"
+    }
+   ],
+   "plyne": "Rejstřík zná pod písmenem R v letech 1637–1655 jediného Georga Rosenberga, pokřtěného v únoru 1655 a zapsaného na straně 32 – tedy toho, jehož křestní zápis je na obrázku výše.",
+   "src": "img/zdroje/99-15_s127_velky.jpg"
+  },
+  {
+   "key": "99-1|101",
+   "title": "Křest Martina, syna Malchera Scholtze – Martínkovice, 11. listopadu 1620",
+   "zdroj": "SOA Zámrsk, sign. 99-1, snímek 101, pag. 95 (první zápis, velmi vybledlý inkoust)",
+   "crop": [
+    1030,
+    105,
+    1900,
+    290
+   ],
+   "entry": [
+    1060,
+    118,
+    1880,
+    282
+   ],
+   "marks": [
+    {
+     "box": [
+      1110,
+      125,
+      1332,
+      162
+     ],
+     "lat": "Den 11. November",
+     "cs": "dne 11. listopadu (1620)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1418,
+      125,
+      1615,
+      162
+     ],
+     "lat": "Malcher Scholtz",
+     "cs": "Malcherovi (Melchiorovi) Scholtzovi",
+     "nejiste": true,
+     "pos": "top"
+    },
+    {
+     "box": [
+      1370,
+      163,
+      1462,
+      198
+     ],
+     "lat": "Martin",
+     "cs": "dítě jménem Martin",
+     "nejiste": true
+    },
+    {
+     "box": [
+      1500,
+      228,
+      1680,
+      264
+     ],
+     "lat": "von Ottendorff",
+     "cs": "(kmotři) z Otovic",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Zápis je tak vybledlý, že jistě čtu jen datum; jméno otce, dítěte a původ kmotrů čtu s otazníkem. Martin Scholtz z roku 1620 je proto jen kandidát na otce Rosiny, nevěsty z roku 1678 – spojení zůstává domněnkou.",
+   "src": "img/zdroje/99-1_s101_velky.jpg"
   }
  ]
 }

@@ -72,6 +72,20 @@ def render(it):
     SWR = it.get('side_w', 470) if any(m.get('pos') == 'right' for m in marks) else 0
     SWL = it.get('side_w', 470) if any(m.get('pos') == 'left' for m in marks) else 0
     IW = OUT_W - SWR - SWL
+    yskips = sorted(it.get('skip_y', []))
+    if yskips:
+        yparts, cy_ = [], y0
+        for a, b_ in yskips:
+            yparts.append((cy_, a)); cy_ = b_
+        yparts.append((cy_, y1))
+        chh = sum(b_ - a for a, b_ in yparts) + GAP * (len(yparts) - 1)
+        c2 = Image.new('RGB', (crop.width, chh), '#f6eedb'); oy = 0; ycuts = []
+        for k, (a, b_) in enumerate(yparts):
+            c2.paste(crop.crop((0, a - y0, crop.width, b_ - y0)), (0, oy)); oy += b_ - a
+            if k < len(yparts) - 1: ycuts.append(oy + GAP / 2); oy += GAP
+        crop = c2
+    else:
+        ycuts = []
     s = IW / crop.width
     crop = crop.resize((IW, round(crop.height * s)), Image.LANCZOS)
     crop = ImageOps.autocontrast(crop, cutoff=0.5)
@@ -85,7 +99,16 @@ def render(it):
             if x >= b_: off += (b_ - a) - GAP
             elif x > a: x = a
         return round((x - x0 - off) * s) + SWL
-    T = lambda b: (MX(b[0]), round((b[1] - y0) * s), MX(b[2]), round((b[3] - y0) * s))
+    def MY(y):
+        off = 0
+        for a, b_ in yskips:
+            if y >= b_: off += (b_ - a) - GAP
+            elif y > a: y = a
+        return round((y - y0 - off) * s)
+    for c in ycuts:
+        Y = c * s
+        for xx in range(0, crop.width, 14): cd.line([(xx, Y), (xx + 7, Y)], fill='#8a6a35', width=3)
+    T = lambda b: (MX(b[0]), MY(b[1]), MX(b[2]), MY(b[3]))
     # štítky: rozvržení do řad podle polohy
     dtmp = ImageDraw.Draw(crop)
     mx_row = max(sum(1 for m in marks if m.get('pos') == 'top'), sum(1 for m in marks if m.get('pos') in (None, 'bottom')))
