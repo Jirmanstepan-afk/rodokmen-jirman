@@ -88,7 +88,7 @@ Zajímavost: božanovský rejstřík křtů, sepsaný mnohem později podle abec
 
 ## Johann Adalbert a Johann Joseph
 
-Hans a Judith dali 22. dubna 1709 pokřtít syna „Hanse Adalberta“. Kmotry byli Tobias Bircke a Anna Maria, žena Tobiase Riedela.[^141-7598/323: křest Hanse Adalberta Rosenbergera 22. 4. 1709] Ve 25 letech, 6. října 1734, se [[johannes-rosenberg-ruprechtice|Johann Adalbert Rosenberg]] jako „syn Hanse Rosenbergera z Ruprechtic“ oženil ve vižňovském kostele sv. Anny s pannou Marií, dcerou [[georg-waltzel-viznov|Georga Waltzela]] z Vižňova.[^174-6/66: oddací zápis 6. 10. 1734, Vižňov]
+Hans a Judith dali 22. dubna 1709 pokřtít syna „Hanse Adalberta“. Kmotry byli Tobias Bircke a Anna Maria, žena Tobiase Riedela.[^141-7598/323: křest Hanse Adalberta Rosenbergera 22. 4. 1709] Ve 25 letech, 6. října 1734, se [[johannes-rosenberg-ruprechtice|Johann Adalbert Rosenberg]] (podruh, „Hausgenoss“, v Ruprechticích[^141-7599/93: křest syna Johanna Josepha 1. 3. 1743, otec Hausgenoss]) jako „syn Hanse Rosenbergera z Ruprechtic“ oženil ve vižňovském kostele sv. Anny s pannou Marií, dcerou [[georg-waltzel-viznov|Georga Waltzela]] z Vižňova.[^174-6/66: oddací zápis 6. 10. 1734, Vižňov]
 
 ![174-6/66] Sňatek Johanna Adalberta Rosenbergera a panny Marie Waltzelové ve Vižňově 6. října 1734 (prostřední zápis).
 
@@ -102,13 +102,13 @@ Johann Joseph se 19. listopadu 1764 v kostele sv. Jakuba v Ruprechticích oženi
 
 ## Joseph a Barbara
 
-Jejich syn [[joseph-rosenberg-1799|Joseph]] byl pokřtěn 11. ledna 1767. Za kmotry mu šli sedlák Caspar Dimbler a chalupnice Anna Maria Bendel(?).[^141-7599/230: křest Josepha Rosenberga 11. 1. 1767] Bylo mu dvacet let, když se 13. srpna 1787 oženil s osmnáctiletou Barbarou z nedalekého Vižňova. Svědkem mu byl chalupník Anton Opitz.[^174-12/63: oddací zápis 13. 8. 1787]
+Jejich syn [[joseph-rosenberg-1799|Joseph]] (v roce 1799 podruh v Ruprechticích č. 73[^141-1/51: narození syna Benedikta 7. 10. 1799, otec podruh]) byl pokřtěn 11. ledna 1767. Za kmotry mu šli sedlák Caspar Dimbler a chalupnice Anna Maria Bendel(?).[^141-7599/230: křest Josepha Rosenberga 11. 1. 1767] Bylo mu dvacet let, když se 13. srpna 1787 oženil s osmnáctiletou Barbarou z nedalekého Vižňova. Svědkem mu byl chalupník Anton Opitz.[^174-12/63: oddací zápis 13. 8. 1787]
 
 > Domněnka: Josephova matka byla rozená Obitzová (Opitzová) a Anton Opitz šel Josephovi za svědka na svatbě i za kmotra synovi v roce 1793. Domnívám se, že to byl jeho příbuzný z matčiny strany, třeba strýc. Zápisy to ale neříkají.
 
 Barbara je zapsaná jako dcera Antona „Drüsnera“ z Vižňova. Dlouho mi trvalo, než jsem pochopil, že jde o [[barbara-rosenberg-1799|Barbaru Ringelovou]]: Drüsin bylo rodné příjmení její matky a Barbara pod ním v Ruprechticích vystupovala. Podrobně o tom píšu v další kapitole.
 
-Joseph s Barbarou bydleli nejdřív v Ruprechticích č. 36, kde se jim v květnu 1793 narodil syn Joseph,[^141-1/30: narození Josepha Rosenbergera 15. 5. 1793] a pak v č. 73. Tam se 7. října 1799 narodil syn [[benedikt-rosenberger|Benedikt]]. Pokřtil ho kaplan Vincentius Seydl a kmotry byli chalupník Benedikt Mayer a chalupnice Barbara Daurin.[^141-1/51: narození Benedikta Rosenberga 7. 10. 1799, Ruprechtice č. 73]
+Joseph s Barbarou bydleli nejdřív v Ruprechticích č. 36, kde se jim v květnu 1793 narodil syn Joseph,[^141-1/30: narození Josepha Rosenbergera 15. 5. 1793] a pak v č. 73. Tam se 7. října 1799 narodil syn [[benedikt-rosenberger|Benedikt]] (podruh v Ruprechticích, v roce 1873 v č. 36[^174-4248/27: zápis 14. 10. 1873, povolání]). Pokřtil ho kaplan Vincentius Seydl a kmotry byli chalupník Benedikt Mayer a chalupnice Barbara Daurin.[^141-1/51: narození Benedikta Rosenberga 7. 10. 1799, Ruprechtice č. 73]
 
 ![141-1/51] Narození Benedikta Rosenberga 7. října 1799 v Ruprechticích č. 73.
 
@@ -128,7 +128,7 @@ V pozdějších zápisech jeho vnučky z let 1902 a 1925 je však Annin otec zap
 
 ## Anna a Emma
 
-Ignatzova a Genovefina dcera [[anna-rosenberger-1879|Anna]] se narodila 9. září 1879 ve Vernéřovicích č. 177 a o dva dny později ji pokřtil farář Gotthard Schuppel, tentýž, který o šest let dřív oddával její rodiče. Porodní bábou byla Theresia Knittelová z č. 173. Tenhle jediný zápis je pro celou knihu důležitý: farář do něj u otce i matky vypsal i jejich rodiče. Otec Ignatz, chalupník a krejčí, je syn Benedikta Rosenbergera z Ruprechtic a Anny rozené Hausdorfové z Olivětína č. 6. Matka Genovefa je dcera Benedikta Meiera, podruha v Ruprechticích č. 93, a Theresie, dcery chalupníka Georga Dauera z č. 117. Jedním zápisem jsou tak doložena tři pokolení najednou.[^174-4247/91: narození Anny Rosenbergerové 9. 9. 1879, Vernéřovice č. 177]
+Ignatzova a Genovefina dcera [[anna-rosenberger-1879|Anna]] (v roce 1902 tovární dělnice ve Starostíně č. 27[^174-7364/94: narození dcery Emmy 1902, povolání matky]) se narodila 9. září 1879 ve Vernéřovicích č. 177 a o dva dny později ji pokřtil farář Gotthard Schuppel, tentýž, který o šest let dřív oddával její rodiče. Porodní bábou byla Theresia Knittelová z č. 173. Tenhle jediný zápis je pro celou knihu důležitý: farář do něj u otce i matky vypsal i jejich rodiče. Otec Ignatz, chalupník a krejčí, je syn Benedikta Rosenbergera z Ruprechtic a Anny rozené Hausdorfové z Olivětína č. 6. Matka Genovefa je dcera Benedikta Meiera, podruha v Ruprechticích č. 93, a Theresie, dcery chalupníka Georga Dauera z č. 117. Jedním zápisem jsou tak doložena tři pokolení najednou.[^174-4247/91: narození Anny Rosenbergerové 9. 9. 1879, Vernéřovice č. 177]
 
 ![174-4247/91] Narození Anny Rosenbergerové 9. září 1879 ve Vernéřovicích č. 177. Vpravo jsou rozepsáni její prarodiče z obou stran.
 

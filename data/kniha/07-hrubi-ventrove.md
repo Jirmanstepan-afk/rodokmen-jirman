@@ -2,7 +2,7 @@ Františka Hrubá, která si v roce 1874 vzala Josefa Maroula, pocházela z Ledh
 
 ## Hrubí z Ledhuj č. 52
 
-Nejstarší, koho znám, je [[frantisek-hruby-ledhuje|František Hrubý]], sedlák v Ledhujích č. 52. Jeho syn [[jan-hruby-st|Jan]], 24 let, se 15. února 1813 oženil s dvacetiletou [[anna-hruba-st|Annou]], dcerou zesnulého sedláka Josefa z Ledhuj č. 34. Jeho příjmení čtu ve třech zápisech třikrát jinak (*Ssolz*, *Schulz*, *Scheele*). Nejspíš to je Šolc, ale zatím to nevím jistě [?q-hruby-ventr-predci]. Svědkem na svatbě byl chalupník Václav Winter.[^130-17/10: oddací zápis 15. 2. 1813, Ledhuje]
+Nejstarší, koho znám, je [[frantisek-hruby-ledhuje|František Hrubý]], sedlák v Ledhujích č. 52. Jeho syn [[jan-hruby-st|Jan]] (v roce 1822 podruh v Ledhujích č. 52, v roce 1856 výměnkář tamtéž[^130-18/25: narození syna Jana Václava 10. 2. 1822][^130-7417/15: sňatek syna 2. 6. 1856]), 24 let, se 15. února 1813 oženil s dvacetiletou [[anna-hruba-st|Annou]], dcerou zesnulého sedláka Josefa z Ledhuj č. 34. Jeho příjmení čtu ve třech zápisech třikrát jinak (*Ssolz*, *Schulz*, *Scheele*). Nejspíš to je Šolc, ale zatím to nevím jistě [?q-hruby-ventr-predci]. Svědkem na svatbě byl chalupník Václav Winter.[^130-17/10: oddací zápis 15. 2. 1813, Ledhuje]
 
 ![130-17/10] Svatba Jana Hrubého a Anny 15. února 1813 v Ledhujích. Mezi svědky je chalupník Václav Winter.
 

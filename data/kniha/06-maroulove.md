@@ -14,7 +14,7 @@ Kdy se Tobiáš narodil, zatím jistě nevím. V Nízké Srbské je jediný vhod
 
 Tobiášův syn [[jan-maroul-ns71|Jan Maroul]] se oženil 23. ledna 1844 v Nízké Srbské č. 71. Bylo mu 24 let. Nevěstě [[anna-maslo-ns71|Anně Máslové]] bylo 19 let a byla dcerou zesnulého výměnkáře [[jan-maslo-ns71-otec|Jana Másla]] z č. 39 a [[veronika-nemeckova|Veroniky, rozené Němečkové]], z č. 34.[^96-4228/6: oddací zápis 23. 1. 1844, Nízká Srbská] Jan byl dlouho podruhem v domě č. 71, kde žil jeho otec, a teprve v roce 1874 je zapsaný jako chalupník.
 
-Narodili se jim synové [[frantisek-maroul-1846|František]] (3. července 1846)[^96-15/32: narození Františka Maroula 3. 7. 1846] a [[josef-maroul-1850|Josef]] (1. října 1850), kterého pokřtil benediktin Placida Středa.[^96-15/47: narození Josefa Maroula 1. 10. 1850] Anna se v roce 1874 objevuje jako výměnkářka v č. 39, tedy v domě, kde dřív žil její otec.
+Narodili se jim synové [[frantisek-maroul-1846|František]] (3. července 1846)[^96-15/32: narození Františka Maroula 3. 7. 1846] a [[josef-maroul-1850|Josef]] (v letech 1874 a 1878 chalupník v Nízké Srbské[^130-7417/43: sňatek 27. 10. 1874, povolání ženicha][^96-7319/12: narození dítěte 30. 8. 1878, povolání otce]) (1. října 1850), kterého pokřtil benediktin Placida Středa.[^96-15/47: narození Josefa Maroula 1. 10. 1850] Anna se v roce 1874 objevuje jako výměnkářka v č. 39, tedy v domě, kde dřív žil její otec.
 
 ![96-15/47] Narození Josefa Maroula 1. října 1850 v Nízké Srbské č. 71.
 

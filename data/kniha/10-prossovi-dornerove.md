@@ -1,4 +1,4 @@
-Babiččina máma [[hedvika-prossova-1922|Hedvika Proßová]] se narodila v roce 1922 v Ruprechticích. Její otec [[jan-pross-1902|Jan Proß]] ale pocházel ze Sedloňova v Orlických horách a jeho předkové tam a v okolních vsích žili nejméně od poloviny 18. století.
+Babiččina máma [[hedvika-prossova-1922|Hedvika Proßová]] se narodila v roce 1922 v Ruprechticích. Její otec [[jan-pross-1902|Jan Proß]] (v roce 1925 tovární dělník v Martínkovicích č. 257[^99-8015/137: sňatek 22. 8. 1925, povolání ženicha]) ale pocházel ze Sedloňova v Orlických horách a jeho předkové tam a v okolních vsích žili nejméně od poloviny 18. století.
 
 ## Christoph Dörner a Adam Herzig
 

@@ -8,7 +8,7 @@ V Ruprechticích a ve Vižňově žili v 18. století dva různí muži jménem 
 
 [[heinrich-knittel|Heinrich Knittel]] byl sedlák v Ruprechticích a s manželkou [[regina-knittel|Reginou]] měl dceru [[maria-knittel|Annu Marii]]. Narodila se 19. listopadu 1746 odpoledne a druhý den ji pokřtili v kostele sv. Jakuba v Ruprechticích.[^141-7599/111: křest Anny Marie Knittelové 20. 11. 1746]
 
-[[anton-ringel|Anton Ringel]] z Ruprechtic se narodil kolem roku 1718. Byl dvakrát vdovcem. V roce 1750 se oženil s Annou Marií Schrollovou[^141-7599/413: oddací zápis 12. 5. 1750] a 27. listopadu 1770 znovu, tentokrát s Marií Knittelovou, která byla o 28 let mladší. Na svatbě byli čtyři svědci, mezi nimi rychtář Anton Kahl(?) a mlynář Friedrich Braun(?).[^141-7599/448: oddací zápis 27. 11. 1770, Ruprechtice]
+[[anton-ringel|Anton Ringel]] (v roce 1771 výměnkář v Ruprechticích č. 33, v roce 1774 podruh v č. 34[^141-7599/271: narození dítěte 22. 9. 1771, otec výměnkář, č. 33][^141-7599/291: narození dítěte 16. 6. 1774, otec podruh, č. 34]) z Ruprechtic se narodil kolem roku 1718. Byl dvakrát vdovcem. V roce 1750 se oženil s Annou Marií Schrollovou[^141-7599/413: oddací zápis 12. 5. 1750] a 27. listopadu 1770 znovu, tentokrát s Marií Knittelovou, která byla o 28 let mladší. Na svatbě byli čtyři svědci, mezi nimi rychtář Anton Kahl(?) a mlynář Friedrich Braun(?).[^141-7599/448: oddací zápis 27. 11. 1770, Ruprechtice]
 
 ![141-7599/448] Svatba vdovce Antona Ringela a panny Marie, dcery Heinricha Knittela, 27. listopadu 1770.
 
