@@ -4048,6 +4048,24 @@
    "velky": "img/zdroje/96-2_s025_velky.jpg",
    "vyrez_soubor": "p025-narozeni-1-8-1790-Machov47-Wenzl-otec-Matthes-Jirmann-matka-Anna.jpg"
   },
+  "96-2|58": {
+   "signatura": "96-2",
+   "snimek": 58,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af/dao/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af/file/f7611743-0e08-458a-9ba1-71994e47d0da",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-2_s058.jpg",
+   "velky": "img/zdroje/96-2_s058_velky.jpg",
+   "vyrez_soubor": "p058-umrti-24-5-1787-Machov2-Mathias-Jirman-63-let.jpg"
+  },
+  "96-2|63": {
+   "signatura": "96-2",
+   "snimek": 63,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af/dao/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af/file/a55d85a7-2a87-41ff-b0b1-326f8fa2d8de",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-2_s063.jpg",
+   "velky": "img/zdroje/96-2_s063_velky.jpg",
+   "vyrez_soubor": "p063-umrti-12-3-1793-Machov47-nouzove-pokrteny-chlapec-syna-Mathese-Jirmanna.jpg"
+  },
   "96-3|15": {
    "signatura": "96-3",
    "snimek": 15,
@@ -4057,6 +4075,15 @@
    "velky": "img/zdroje/96-3_s015_velky.jpg",
    "vyrez_soubor": "p015-oddani-18-2-1811-Machov-Waclaw-Jirman-Machov47-20-let-nevesta-Alzbeta-dcera-zemreleho-Waclawa-Lorence-chalupnika-NS69.jpg"
   },
+  "96-3|155": {
+   "signatura": "96-3",
+   "snimek": 155,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/115ec55c-e2b4-45f7-bab6-f9d0fe6e1750",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-3_s155.jpg",
+   "velky": "img/zdroje/96-3_s155_velky.jpg",
+   "vyrez_soubor": "p155-umrti-2-5-1814-Machov47-Matej-Germann-tkadlec-65-let.jpg"
+  },
   "96-3|157": {
    "signatura": "96-3",
    "snimek": 157,
@@ -4065,6 +4092,15 @@
    "nahled": "img/zdroje/96-3_s157.jpg",
    "velky": "img/zdroje/96-3_s157_velky.jpg",
    "vyrez_soubor": "p157-umrti-16-4-1817-Machov47-Waclaw-Germann-chalupnik-28-let-a-dcery-Anna-20-3-1817-a-Weronika-9-5-1817.jpg"
+  },
+  "96-3|174": {
+   "signatura": "96-3",
+   "snimek": 174,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/d7e28ce4-5c8a-444b-9f3a-9f2c831c52ad",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-3_s174.jpg",
+   "velky": "img/zdroje/96-3_s174_velky.jpg",
+   "vyrez_soubor": "p174-umrti-30-1-1832-Machov51-Anna-vdova-po-Mathiasi-Jirmannovi-chalupnikovi-75-let.jpg"
   },
   "96-3|71": {
    "signatura": "96-3",

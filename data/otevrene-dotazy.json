@@ -1509,8 +1509,8 @@
     {
       "id": "q-vaclav-jirmann-1790",
       "title": "Je Wenzl *1. 8. 1790 v Machově č. 47 náš Václav starší a kdo byli jeho rodiče?",
-      "summary": "Václav Jirmann starší (ženich 1811, †1817, oba v Machově č. 47) se nejspíš narodil 1. 8. 1790 v Machově č. 47 jako syn Matthese (Matyáše) Jirmanna a Anny. Shoda jména, domu a věku je silná, ale zápis sňatku 1811 rodiče neuvádí, proto to do stromu zatím nedávám.",
-      "details": "Pro: týž dům č. 47, věk 20 let při sňatku 18. 2. 1811 přesně odpovídá narození 1790, v Machově 1789–1790 jsem jiného Václava Jirmanna nenašel. Proti: při úmrtí 1817 uveden věk 28 let (narození 1790 dává 26). Starší generace (také jen domněnka): Mathias, syn †Tobiase Girmana, si 26. 8. 1777 vzal Annu, dceru Georga Nitsche, tkalce (Machov č. 46); páru Mathias Girman, tkadlec × Anna se v č. 46 narodili Joannes 21. 4. 1782 a Franz 14. 1. 1786. Že je to tentýž Matthes jako v roce 1790 v č. 47, je pravděpodobné, ale není to výslovně doloženo; v Machově žil i jiný Mathias Girman, tkadlec, který se 26. 10. 1775 jako vdovec oženil s Ludmilou Hanušovou (č. 17). Co by to rozhodlo: úmrtí Matthese/Mathiase Jirmanna nebo Anny (96-2 Z 1784–1802, 96-3 Z od 1803) s číslem domu, případně další děti páru v č. 47 a úmrtí dítěte Wenzla 1790–1811. Narození Mathiase (asi 1750–1757) je před začátkem machovských matrik (96-1 začíná 9. 1770).",
+      "summary": "Václav Jirmann starší (ženich 1811, †1817, oba v Machově č. 47) se nejspíš narodil 1. 8. 1790 v Machově č. 47 jako syn Matthese (Matyáše) Jirmanna a Anny. Kolo AR domněnku výrazně posílilo (Mathes v č. 47 ještě 1793, Matěj Germann, tkadlec, †1814 v č. 47 ve věku 65 let, vdova Anna po Mathiasi Jirmannovi †1832 ve věku 75 let), ale žádný zápis výslovně neuvádí Václavovy rodiče, proto to do stromu stále nedávám.",
+      "details": "Pro: týž dům č. 47, věk 20 let při sňatku 18. 2. 1811 přesně odpovídá narození 1790, v Machově 1789–1790 jsem jiného Václava Jirmanna nenašel. Proti: při úmrtí 1817 uveden věk 28 let (narození 1790 dává 26). Starší generace (také jen domněnka): Mathias, syn †Tobiase Girmana, si 26. 8. 1777 vzal Annu, dceru Georga Nitsche, tkalce (Machov č. 46); páru Mathias Girman, tkadlec × Anna se v č. 46 narodili Joannes 21. 4. 1782 a Franz 14. 1. 1786. Že je to tentýž Matthes jako v roce 1790 v č. 47, je pravděpodobné, ale není to výslovně doloženo; v Machově žil i jiný Mathias Girman, tkadlec, který se 26. 10. 1775 jako vdovec oženil s Ludmilou Hanušovou (č. 17). Kolo AR (27. 11. 2026): 12. 3. 1793 zemřel v Machově č. 47 nouzově pokřtěný chlapec Matthese Jirmanna (96-2 s63) – Mathes tedy v č. 47 žil i po roce 1790. 2. 5. 1814 zemřel v Machově č. 47 Matěj Germann, tkadlec z Machova, 65 let (narozen asi 1749; 96-3 s155) – dům, řemeslo i věk odpovídají Mathiasovi, který se roku 1777 oženil jako svobodný („adolescens“) s Annou Nitschovou. 30. 1. 1832 (pohřeb 2. 2.) zemřela v Machově č. 51 Anna, vdova po Mathiasi Jirmannovi, chalupníkovi, 75 let (narozena asi 1757; 96-3 s174) – věk odpovídá nevěstě z roku 1777, rodné příjmení ale v zápisu není. Druhý Mathias: 24. 5. 1787 zemřel v Machově č. 2 Mathias Jirman, 63 let (narozen asi 1724; 96-2 s58) – nejspíš vdovec ze sňatku 1775, takže po roce 1787 v Machově zřejmě žil jen jeden Mathias; to ale také není výslovně doloženo. Úmrtí dítěte jménem Wenzl/Václav Jirmann jsem v 96-2 Z 1790–1802 ani v 96-3 Z 1803–1811 nenašel. Proti stále stojí věk 28 let při úmrtí 1817. Co by to rozhodlo: zápis, který výslovně jmenuje Václavovy rodiče (např. pozemková kniha nebo urbář Machova č. 47, matriční opravy, případný soupis duší); matriky samy už víc nedají. Narození Mathiase (asi 1749) je před začátkem machovských matrik (96-1 začíná 9. 1770).",
       "related_ids": [
         "vaclav-jirmann-machov74",
         "alzbeta-lorenzova",
@@ -1551,6 +1551,34 @@
           "detail": "snímek 39",
           "apu": "d4daa4c7-e32d-44eb-8765-e015dc335fb4",
           "url": "https://aron.vychodoceskearchivy.cz/apu/d4daa4c7-e32d-44eb-8765-e015dc335fb4/dao/d4daa4c7-e32d-44eb-8765-e015dc335fb4/file/29d01cc4-709d-4ed2-81e3-c2ad2114b28c"
+        },
+        {
+          "label": "ARON, úmrtí 24. 5. 1787 Mathias Jirman, Machov č. 2, 63 let (jiný Mathias)",
+          "signatura": "96-2",
+          "detail": "snímek 58",
+          "apu": "4eaee35d-58bc-4bbb-9e9c-0602ff71d2af",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af/dao/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af/file/0ad70dbb-ee17-415d-bed6-8e6b6a1d5ee4"
+        },
+        {
+          "label": "ARON, úmrtí 12. 3. 1793 nouzově pokřtěný chlapec Matthese Jirmanna, Machov č. 47",
+          "signatura": "96-2",
+          "detail": "snímek 63",
+          "apu": "4eaee35d-58bc-4bbb-9e9c-0602ff71d2af",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af/dao/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af/file/47334756-4de3-461b-8196-cd015a63baa1"
+        },
+        {
+          "label": "ARON, úmrtí 2. 5. 1814 Matěj Germann, tkadlec, Machov č. 47, 65 let",
+          "signatura": "96-3",
+          "detail": "snímek 155",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/a1dbc099-b554-4b95-85dc-23b301d0b939"
+        },
+        {
+          "label": "ARON, úmrtí 30. 1. 1832 Anna, vdova po Mathiasi Jirmannovi, chalupníkovi, Machov č. 51, 75 let",
+          "signatura": "96-3",
+          "detail": "snímek 174",
+          "apu": "bd32c3f6-8ffe-424d-b95f-f31e6707d373",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/c4ab4e2d-16cb-4908-915c-f7165e0e90ab"
         }
       ]
     }
