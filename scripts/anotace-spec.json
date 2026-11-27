@@ -1155,6 +1155,287 @@
    ],
    "plyne": "Johann Joseph Rosenberg, syn Johanna (Adalberta) Rosenberga z Ruprechtic, se 19. 11. 1764 oženil s Annou Elisabethou, dcerou zesnulého Antona Obitze. Z tohoto manželství pochází Joseph, otec Benedikta z roku 1799.",
    "src": "img/zdroje/141-7599_s437_velky.jpg"
+  },
+  {
+   "key": "99-8|17",
+   "title": "Křest George, syna Malchera Rossenbrigka – Božanov, 2. února 1655",
+   "zdroj": "SOA Zámrsk, sign. 99-8, snímek 17, pag. 32 (první zápis)",
+   "crop": [
+    150,
+    85,
+    1820,
+    300
+   ],
+   "entry": [
+    170,
+    105,
+    1800,
+    292
+   ],
+   "marks": [
+    {
+     "box": [
+      180,
+      108,
+      620,
+      162
+     ],
+     "lat": "Den 2. Februarius",
+     "cs": "dne 2. února (1655)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      660,
+      108,
+      1300,
+      162
+     ],
+     "lat": "ist Malcher Rossenbrigken",
+     "cs": "Malcherovi (Melchiorovi) Rossenbrigkovi",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1300,
+      108,
+      1780,
+      162
+     ],
+     "lat": "ein Sohn getaufft",
+     "cs": "byl pokřtěn syn",
+     "pos": "top"
+    },
+    {
+     "box": [
+      220,
+      168,
+      640,
+      232
+     ],
+     "lat": "mit Nahmen George",
+     "cs": "jménem George (Jiří)"
+    },
+    {
+     "box": [
+      [
+       640,
+       168,
+       1780,
+       232
+      ],
+      [
+       220,
+       236,
+       1600,
+       292
+      ]
+     ],
+     "lat": "die Gatten sein George Ferder, Caspar Meyer und Rosina, Hans Ringels … hinterlassene Wittib",
+     "cs": "kmotři: George Ferder(?), Caspar Meyer a Rosina, vdova po Hansi Ringelovi",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Malcher (Melchior) Rossenbrigk dal 2. 2. 1655 v Božanově pokřtít syna George. Je to Georg, který se roku 1678 jako syn Melchiora z Otovic oženil v Martínkovicích.",
+   "src": "img/zdroje/99-8_s017_velky.jpg"
+  },
+  {
+   "key": "99-8|18",
+   "title": "Křest nemanželského Christopha – Božanov, Štědrý den 1656",
+   "zdroj": "SOA Zámrsk, sign. 99-8, snímek 18, pag. 35",
+   "crop": [
+    0,
+    0,
+    1610,
+    400
+   ],
+   "entry": [
+    20,
+    15,
+    1595,
+    390
+   ],
+   "marks": [
+    {
+     "box": [
+      0,
+      25,
+      125,
+      150
+     ],
+     "lat": "NB",
+     "cs": "nota bene – farářova poznámka",
+     "pos": "top"
+    },
+    {
+     "box": [
+      60,
+      20,
+      600,
+      82
+     ],
+     "lat": "Den 24. Decembris",
+     "cs": "dne 24. prosince (1656)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      320,
+      80,
+      920,
+      135
+     ],
+     "lat": "mit Nahmen Christoph",
+     "cs": "pokřtěn jménem Christoph (Kryštof)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       1020,
+       138,
+       1460,
+       192
+      ],
+      [
+       60,
+       205,
+       600,
+       262
+      ]
+     ],
+     "lat": "und Justina Malcher Rossenbrigks Ehefraw",
+     "cs": "kmotra Justina, manželka Malchera Rossenbrigka"
+    },
+    {
+     "box": [
+      [
+       600,
+       205,
+       1580,
+       262
+      ],
+      [
+       60,
+       265,
+       1580,
+       330
+      ],
+      [
+       110,
+       330,
+       1120,
+       385
+      ]
+     ],
+     "lat": "Und daß Kindt ist nicht aus dem Ehebette gebohren, nach Aussage der Mutter ist sie nothzüchtigt worden, und der fremde … nicht bekannt, wer, oder von wannen er ist",
+     "cs": "dítě není z manželského lože; matka podle své výpovědi byla znásilněna cizím mužem a neví, kdo je a odkud",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Justina, manželka Malchera Rossenbrigka, šla 24. 12. 1656 za kmotru nemanželskému Christophovi. Zápis dokládá, že Malcher měl v roce 1656 manželku Justinu – matku Georga z roku 1655.",
+   "src": "img/zdroje/99-8_s018_velky.jpg"
+  },
+  {
+   "key": "174-6|66",
+   "title": "Sňatek Johanna Adalberta Rosenbergera a Marie Waltzelové – Vižňov, 6. října 1734",
+   "zdroj": "SOA Zámrsk, sign. 174-6, snímek 66, fol. 121 (prostřední zápis vlevo)",
+   "crop": [
+    130,
+    840,
+    980,
+    1130
+   ],
+   "entry": [
+    150,
+    855,
+    965,
+    1120
+   ],
+   "marks": [
+    {
+     "box": [
+      168,
+      860,
+      345,
+      902
+     ],
+     "lat": "Den 6. October",
+     "cs": "dne 6. října (1734)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      462,
+      860,
+      705,
+      902
+     ],
+     "lat": "in der Kirche S. Annae",
+     "cs": "v kostele sv. Anny (Vižňov)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      190,
+      940,
+      694,
+      978
+     ],
+     "lat": "Johann Adalbert Rosenberger ein Junggesell",
+     "cs": "mládenec Johann Adalbert Rosenberger",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       694,
+       940,
+       945,
+       978
+      ],
+      [
+       190,
+       978,
+       466,
+       1013
+      ]
+     ],
+     "lat": "Hans Rosenbergers ehel. Sohn aus Ruppersdorff",
+     "cs": "manželský syn Hanse Rosenbergera z Ruprechtic"
+    },
+    {
+     "box": [
+      468,
+      978,
+      762,
+      1013
+     ],
+     "lat": "Mit Jungfrau Maria",
+     "cs": "s pannou Marií"
+    },
+    {
+     "box": [
+      [
+       764,
+       978,
+       958,
+       1013
+      ],
+      [
+       190,
+       1013,
+       628,
+       1048
+      ]
+     ],
+     "lat": "Georg Waltzel … ehel. Tochter aus Wiesen",
+     "cs": "manželskou dcerou Georga Waltzela z Vižňova",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Johann Adalbert Rosenberger se 6. 10. 1734 ve Vižňově oženil výslovně jako „syn Hanse Rosenbergera z Ruprechtic“. Tím je spojen Hans (sňatek 1702) s Johannem Adalbertem a jeho synem Johannem Josephem (1743).",
+   "src": "img/zdroje/174-6_s066_velky.jpg"
   }
  ]
 }
