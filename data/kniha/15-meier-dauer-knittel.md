@@ -22,6 +22,26 @@ Barbara se 9. října 1792 provdala za chalupníka [[georg-dauer|Georga Dauera]]
 
 Barbara zemřela 3. května 1833 v č. 116 na tuberkulózu plic, bylo jí 58 let.[^141-6/23: úmrtí Barbary Dauerové 3. 5. 1833] Georg ji přežil o pět let. Zemřel 3. července 1838 v č. 117 sešlostí věkem.[^141-6/32: úmrtí Georga Dauera 3. 7. 1838]
 
+### Georgova předchozí rodina
+
+Když jsem se na oddací zápis z roku 1792 podíval znovu a srovnal sloupce, uviděl jsem, že Georg nebyl svobodný. Jednička u něj stojí ve sloupci „Witwer“, tedy vdovec. Barbara má jedničku ve sloupci svobodných.
+
+![141-3/10] Hlavička oddací knihy a zápis z 9. října 1792: Georgova jednička stojí ve sloupci „Witwer“.
+
+V knize zemřelých jsem pak našel, že 16. srpna 1792 zemřela ve stejném domě č. 74 „A. Maria Daußin“. Bylo jí 34 let a zemřela na úbytě. Manžela zápis neuvádí, ale dům i doba sedí. Georg se tedy s Barbarou oženil jen 54 dní po jejím pohřbu.[^141-5/14: úmrtí A. Marie Daußové 16. 8. 1792, Ruprechtice č. 74] [?q-georg-dauer-predchozi-manzelky]
+
+![141-5/14] Úmrtí A. Marie Daußové v Ruprechticích č. 74, 16. srpna 1792, 34 let.
+
+V č. 74 se Georgovi narodily děti už dávno předtím. Dne 12. prosince 1780 byl pokřtěn Johann Joseph, matkou byla Elisabeth Mäyerin a kmotrem Joseph Rosenberg, chalupník z Vižňova.[^141-7599/342: narození Johanna Josepha Dauße 12. 12. 1780, č. 74] Dne 27. října 1785 se narodil Joseph a matkou tu je A. Maria Meyßnerin.[^141-1/10: narození Josepha Dauße 27. 10. 1785, č. 74] Index narozených přidává ještě A. Marii (1781 a 1784) a Johanna Georga (1787).[^141-4251/19: index narozených lit. D, děti Georga Dauera č. 74]
+
+> Domněnka: Vychází mi z toho, že Barbara byla Georgova třetí žena: nejdřív Elisabeth Mayerová, pak A. Maria Meißnerová, která zemřela v srpnu 1792, a nakonec Barbara. Opatrný ale musím být kvůli tomu, že v sousedním č. 35 žil Anton Dauer s manželkou Elisabeth Meyerovou, a písař mohl matky v letech 1780–1781 zaměnit. Jistě vím jen to, že Georg byl v roce 1792 vdovec.
+
+### Zajímavosti
+
+- Barbara se v osmnácti (podle zápisu ve čtyřiadvaceti) vdala za muže o dvacet let staršího. Převzala domácnost s nejméně dvěma malými dětmi, Josephem (*1785) a Johannem Georgem (*1787), pokud ještě žili.
+- Týden po svatbě, 16. října 1792, prošel matriku při kanonické vizitaci biskupský vikář a hned pod Georgův zápis připsal „Vidi in Visitatione Canonica“.
+- Jméno se v matrikách píše pokaždé jinak: Dauße, Daußin, Daur, Dauer. Až v 19. století se ustálilo na Dauer.
+
 ## Theresia a Benedikt Meier
 
 Theresia se vdávala až ve 33 letech, 22. listopadu 1841. Ženich [[benedikt-meier|Benedikt Mayer (Meier)]], chalupník v Ruprechticích č. 107, byl o tři roky mladší. Jeho otec [[andreas-mayer|Andreas Mayer]] byl chalupník a podruh v č. 81 a v té době už nežil.[^141-4/29: oddací zápis 22. 11. 1841, Ruprechtice] Později Benedikt žil jako podruh v č. 93 a tam se narodily děti [[benedikt-mayer-1845|Benedikt]] (1845) a 8. srpna 1846 [[genovefa-meier|Genovefa]].[^141-4240/25: narození Genovefy Meierové 8. 8. 1846]

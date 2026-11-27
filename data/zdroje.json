@@ -1502,6 +1502,15 @@
    "nahled": "img/zdroje/14-5_s198.jpg",
    "velky": "img/zdroje/14-5_s198_velky.jpg"
   },
+  "141-1|10": {
+   "signatura": "141-1",
+   "snimek": 10,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/2601ece9-a0af-4023-901c-ca324cd94414/dao/2601ece9-a0af-4023-901c-ca324cd94414/file/f9cea7da-cb12-4495-9346-42225f66eaf2",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-1_s010.jpg",
+   "velky": "img/zdroje/141-1_s010_velky.jpg",
+   "vyrez_soubor": "n141-1-s10-pag14-1785-10-27-Joseph-Dause-c74-otec-George-matka-A-Maria-Meysner.jpg"
+  },
   "141-1|30": {
    "signatura": "141-1",
    "snimek": 30,
@@ -1545,7 +1554,7 @@
    "vyrez": "zápis",
    "nahled": "img/zdroje/141-3_s010.jpg",
    "velky": "img/zdroje/141-3_s010_velky.jpg",
-   "vyrez_soubor": "o141-3-s010R-1792-10-09-dauer-ringel.jpg"
+   "vyrez_soubor": "z141-3-s10-pag14-1792-10-09-Georg-Dauer-38-vdovec-sloupec-Witwer-x-Barbara-Ringel-24-svobodna.jpg"
   },
   "141-3|11": {
    "signatura": "141-3",
@@ -1669,6 +1678,15 @@
    "nahled": "img/zdroje/141-4251_s018.jpg",
    "velky": "img/zdroje/141-4251_s018_velky.jpg",
    "vyrez_soubor": "z141-4251-s18-index-d-1735-1756-bez-dauera.jpg"
+  },
+  "141-4251|19": {
+   "signatura": "141-4251",
+   "snimek": 19,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/b628c27c-a629-44c8-a008-e4d017646195/dao/b628c27c-a629-44c8-a008-e4d017646195/file/c8432545-e157-4e07-8086-53027693f294",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-4251_s019.jpg",
+   "velky": "img/zdroje/141-4251_s019_velky.jpg",
+   "vyrez_soubor": "z141-4251-s19-index-n-lit-d-1779-1787-deti-Georga-Dauera-c74-matky-Mayer-a-Meisner.jpg"
   },
   "141-4251|50": {
    "signatura": "141-4251",
@@ -1799,6 +1817,15 @@
     0.29
    ]
   },
+  "141-5|14": {
+   "signatura": "141-5",
+   "snimek": 14,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/592f4aa6-7311-43a6-8dce-fdc2710ba34c/dao/592f4aa6-7311-43a6-8dce-fdc2710ba34c/file/74d69e8b-d5af-4e0f-8360-7e9858b31fe4",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-5_s014.jpg",
+   "velky": "img/zdroje/141-5_s014_velky.jpg",
+   "vyrez_soubor": "z141-5-s14-pag22-1792-08-16-A-Maria-Dausin-c74-34-let-Abzehrung.jpg"
+  },
   "141-5|15": {
    "signatura": "141-5",
    "snimek": 15,
@@ -1906,6 +1933,15 @@
    "nahled": "img/zdroje/141-7599_s291.jpg",
    "velky": "img/zdroje/141-7599_s291_velky.jpg",
    "vyrez_soubor": "z141-7599-s291-1774-06-16-anna-barbara-margaretha-ringel.jpg"
+  },
+  "141-7599|342": {
+   "signatura": "141-7599",
+   "snimek": 342,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/5a768ec8-e199-4b10-b324-c9b4d6ee1edc",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/141-7599_s342.jpg",
+   "velky": "img/zdroje/141-7599_s342_velky.jpg",
+   "vyrez_soubor": "n141-7599-s342-pag604-1780-12-12-Johann-Joseph-Dause-c74-otec-George-matka-Elisabeth-Mayer-kmotr-Joseph-Rosenberg-Wiesen.jpg"
   },
   "141-7599|387": {
    "signatura": "141-7599",

@@ -2926,9 +2926,17 @@
       "living": false,
       "notes": [
         "Otec Theresie, tchán Benedikta Meiera. Jméno shodně ve sňatku vnučky Genovefy 1873 i v rodných zápisech 1845 a 1846.",
-        "Jméno Georg je shodně ve sňatku vnučky 1873 a v rodných zápisech 1845 a 1846. V oddacím zápisu dcery 22. 11. 1841 je otec Dauer z č. 117; kdyby se křestní jméno v tom zápisu četlo jinak, neslučovat potichu — viz otevřené dotazy."
+        "Jméno Georg je shodně ve sňatku vnučky 1873 a v rodných zápisech 1845 a 1846. V oddacím zápisu dcery 22. 11. 1841 je otec Dauer z č. 117; kdyby se křestní jméno v tom zápisu četlo jinak, neslučovat potichu — viz otevřené dotazy.",
+        "Při sňatku s Barbarou Ringelovou 9. 10. 1792 (141-3 snímek 10, Pag. 14) má ženich jedničku ve sloupci „Witwer“ (vdovec), ne „Unverehelicht“ – čteno podle polohy ve sloupcích (srovnáno s dalšími ženichy na téže straně); nevěsta má jedničku ve sloupci „Unverehelicht“ (svobodná).",
+        "16. 8. 1792 zemřela v Ruprechticích č. 74 „A. Maria Daußin“, 34 let, na úbytě (Abzehrung); pohřbil farář Heinrich Tauchmann (141-5 snímek 14, Pag. 22; index 141-4254 snímek 7). Manžel v zápisu uveden není, dům i čas ale sedí → q-georg-dauer-predchozi-manzelky.",
+        "V č. 74 se Georgu (George) Daußovi, chalupníkovi, narodily děti už před rokem 1792: Johann Joseph 12. 12. 1780, matka Elisabeth Mäyerin (141-7599 snímek 342, Pag. 604; kmotr Joseph Rosenberg, chalupník z Vižňova); A. Maria 23. 12. 1781, matka Elisab. Meyerin; A. Maria 1784, Joseph 27. 10. 1785 (141-1 snímek 10, Pag. 14) a Joh. Georg 1787, matka A. Maria Meyßnerin/Meißnerin (index 141-4251 snímek 19). Děti z dřívějších manželství jen v poznámce, do stromu nejdou."
       ],
-      "interesting": [],
+      "interesting": [
+        "Barbaru Ringelovou si vzal 54 dní po pohřbu předchozí ženy: A. Maria Daußin z č. 74 zemřela 16. 8. 1792, svatba byla 9. 10. 1792 (141-5 snímek 14; 141-3 snímek 10). Domácnost s malými dětmi (Joseph *1785, Joh. Georg *1787) potřebovala hospodyni.",
+        "Podle matrik měl Georg nejspíš tři manželky: v letech 1780–1781 je matkou jeho dětí Elisabeth Mayer(ová), 1784–1787 A. Maria Meißner(ová) a od 1792 Barbara Ringelová. Že jde o dvě různé předchozí ženy, a ne o písařovu záměnu, zatím nevím jistě (q-georg-dauer-predchozi-manzelky).",
+        "Týden po svatbě, 16. 10. 1792, prošel matriku při kanonické vizitaci biskupský vikář („Vidi in Visitatione Canonica… Franc. Boskowsky(?)“) a připsal to hned pod Georgův zápis (141-3 snímek 10).",
+        "Kmotrem Georgova syna v roce 1780 byl Joseph Rosenberg, chalupník z Vižňova (Wiesen) – příjmení, které se v rodokmenu objevuje i v jiné větvi; o jakého Josepha jde, nevím (141-7599 snímek 342)."
+      ],
       "id": "georg-dauer",
       "name": "Georg Dauer",
       "branch": "meier",
@@ -2973,6 +2981,42 @@
           "label": "ARON, index zemřelých Ruprechtice",
           "signatura": "141-4254",
           "detail": "snímek 7 vpravo a 8 vlevo, Lit. D: Barbara č. 116 3. 5. 1833 (str. 39), Georg č. 117 3. 7. 1838 (str. 57)"
+        },
+        {
+          "label": "ARON, sňatek 9. 10. 1792 (sloupec Witwer)",
+          "signatura": "141-3",
+          "detail": "snímek 10, Pag. 14, dům 74",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/41ee5d74-aaef-4eee-8599-da0678470f8b/dao/41ee5d74-aaef-4eee-8599-da0678470f8b/file/c7c7af3c-a769-4a8b-a545-f7e319f8daf1"
+        },
+        {
+          "label": "ARON, úmrtí 16. 8. 1792",
+          "signatura": "141-5",
+          "detail": "snímek 14, Pag. 22, Ruprechtice č. 74",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/592f4aa6-7311-43a6-8dce-fdc2710ba34c/dao/592f4aa6-7311-43a6-8dce-fdc2710ba34c/file/74d69e8b-d5af-4e0f-8360-7e9858b31fe4"
+        },
+        {
+          "label": "ARON, narození 12. 12. 1780",
+          "signatura": "141-7599",
+          "detail": "snímek 342, Pag. 604, Ruprechtice č. 74",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/5a768ec8-e199-4b10-b324-c9b4d6ee1edc"
+        },
+        {
+          "label": "ARON, narození 27. 10. 1785",
+          "signatura": "141-1",
+          "detail": "snímek 10, Pag. 14, Ruprechtice č. 74",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/2601ece9-a0af-4023-901c-ca324cd94414/dao/2601ece9-a0af-4023-901c-ca324cd94414/file/f9cea7da-cb12-4495-9346-42225f66eaf2"
+        },
+        {
+          "label": "ARON, index narozených lit. D 1779–1787",
+          "signatura": "141-4251",
+          "detail": "snímek 19, pravá strana",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/b628c27c-a629-44c8-a008-e4d017646195/dao/b628c27c-a629-44c8-a008-e4d017646195/file/c8432545-e157-4e07-8086-53027693f294"
+        },
+        {
+          "label": "ARON, index zemřelých lit. D 1785–1798",
+          "signatura": "141-4254",
+          "detail": "snímek 7, Seite 22 (1792)",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/a7ba0d4e-7eba-4c6c-93b8-c6075466b1f3/dao/a7ba0d4e-7eba-4c6c-93b8-c6075466b1f3/file/db57ebd9-92c2-4958-a79c-b02f7c604f1c"
         }
       ]
     },
@@ -3005,7 +3049,9 @@
         "Úmrtí 3. 5. 1833: v indexu zemřelých Ruprechtic (141-4254, Lit. D) je mezi 1808 a 1845 jediná dospělá Barbara Dauer(ová) — č. 116, manželka Georga, chalupníka a podruha; Georg sám zemřel 1838 v č. 117. Ostatní Barbary s tímto příjmením jsou 6. 4. 1808 (č. 35, před narozením Theresie 9/1808, tedy jiná) a 22. 1. 1843 (dítě †Antona Dauera).",
         "Narození připsáno 25. 11. 2026: jejím otcem je podle rodných zápisů dcer 1799 a 1808 Anton Ringel, výměnkář z č. 33, totožný s Antonem Ringelem, který byl 1771 výměnkářem v č. 33 a 1774 podruhem v č. 34 (†1793). Tento Anton má v ruprechtické matrice 1765–1777 jedinou dceru Barbaru: Annu Barbaru Margarethu *16. 6. 1774. Dřívější Barbara Antona Ringela (†14. 7. 1762) zemřela jako dítě a starší Barbary by v roce 1833 měly přes 70 let. Úmrtí Barbary Ringel(ové) v dětství bylo vyloučeno: kniha zemřelých 141-7599 je prošlá souvisle 1774–4/1784 a index zemřelých 141-4254 (Lit. R, 1784–1821) uvádí jedinou Barbaru Ringel — 20. 10. 1814, č. 11, 42 let, „des sel. Johann Ringel Häuslers Tochter“ (141-6, snímek 5, fol. 2), tedy dceru jiného otce. Věk 58 let při úmrtí sedí přesně. Ve sňatku 1792 je uvedeno 24 let, což je o 6 let víc; protokol sňatku jiný rodný zápis nepodporuje."
       ],
-      "interesting": [],
+      "interesting": [
+        "Ve 24 letech (podle zápisu; podle křtu jí bylo 18) se vdala za o 14–20 let staršího vdovce s nejméně dvěma malými dětmi, necelé dva měsíce po smrti jeho předchozí ženy (141-3 snímek 10; 141-5 snímek 14)."
+      ],
       "id": "barbara-pitz",
       "name": "Barbara Dauerová",
       "branch": "meier",
@@ -3055,6 +3101,12 @@
           "label": "ARON, index zemřelých Ruprechtice",
           "signatura": "141-4254",
           "detail": "snímek 31 vpravo, Lit. R (1784–1821): jediná Barbara Ringel 20. 10. 1814, č. 11 — dcera Johanna Ringela"
+        },
+        {
+          "label": "ARON, sňatek 9. 10. 1792 (sloupec Witwer)",
+          "signatura": "141-3",
+          "detail": "snímek 10, Pag. 14, dům 74",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/41ee5d74-aaef-4eee-8599-da0678470f8b/dao/41ee5d74-aaef-4eee-8599-da0678470f8b/file/c7c7af3c-a769-4a8b-a545-f7e319f8daf1"
         }
       ]
     },
@@ -9401,7 +9453,7 @@
         "display": "9. 10. 1792",
         "date": "1792-10-09",
         "place": "Ruprechtice č. 74",
-        "note": "141-3, Pag. 14: ženich Georg Daur, 38 let; nevěsta Barbara Ringelin, 24 let; svědci Franz Zinke(?) a Joseph Mayer. Oddával Heinrich Tauchmann, farář. Zápis je před vizitační poznámkou z 16. 10. 1792."
+        "note": "141-3, Pag. 14: ženich Georg Daur, 38 let; nevěsta Barbara Ringelin, 24 let; svědci Franz Zinke(?) a Joseph Mayer. Oddával Heinrich Tauchmann, farář. Zápis je před vizitační poznámkou z 16. 10. 1792. Ženich vdovec (jednička ve sloupci Witwer), nevěsta svobodná."
       }
     },
     {
@@ -13323,6 +13375,54 @@
           "signatura": "13-9353",
           "detail": "folio 71"
         }
+      ]
+    },
+    {
+      "id": "q-georg-dauer-predchozi-manzelky",
+      "title": "Předchozí manželky Georga Dauera (Ruprechtice č. 74, 1780–1792)",
+      "summary": "Georg Dauer byl při sňatku s Barbarou Ringelovou 9. 10. 1792 vdovec. V č. 74 zemřela 16. 8. 1792 A. Maria Daußin (34 let); matkou jeho dětí je 1780–1781 Elisabeth Mayer(ová), 1784–1787 A. Maria Meißner(ová). Jedna, nebo dvě předchozí ženy? Kde a kdy se Georg poprvé oženil?",
+      "details": "Jisté ze zápisů: 141-3 snímek 10 (ženich 38, sloupec Witwer); 141-5 snímek 14, Pag. 22: 16. 8. 1792 č. 74 A. Maria Daußin, 34, Abzehrung, manžel neuveden; 141-7599 snímek 342, Pag. 604: 12. 12. 1780 č. 74 Johann Joseph, otec Dauße George, chalupník, matka Elisabeth Mäyerin z Ruprechtic, kmotři Joseph Rosenberg, chalupník z Vižňova, a Maria, žena sedláka Johanna Herzoga(?); 141-1 snímek 10, Pag. 14: 27. 10. 1785 č. 74 Joseph, otec George Dauße, matka A. Maria Meyßnerin(?), kmotři Joseph Rosenberger(?), sedlák, a A. Maria Opitzin. Index 141-4251 snímek 19 (lit. D): Georg, chalupník č. 74 – 12. 12. 1780 Joh. Joseph a 23. 12. 1781 A. Maria (matka Elisab. Meyerin), 1784 A. Maria, 1785 Joseph, 1787 Joh. Georg (matka A. Maria Meißnerin). Pozor: Anton Dauer, chalupník č. 35, má v těch letech také manželku Elisabeth Meyerin (např. 19. 7. 1785, 141-1 snímek 9, Pag. 13) – možná písařova záměna v roce 1780–1781 u č. 74. Sňatek Georga před 1784 v indexu 174-23 není (žádný Dauer jako ženich 1660–1785) a 141-3 1784–1785 (snímky 4–5) ho nemá. Další krok: úmrtí Elisabeth (141-7599 Z 1782–4/1784, snímky ~645–659), sňatek Georg × A. Maria Meißner v okolních farnostech (Broumov, Vižňov 174-x), dočíst 141-3 1786–1791 na Georga a Anton Dauer (č. 35) jako možný bratr. Další Dauer v Ruprechticích: Benedikt Dauße †3. 1. 1789 č. 125 (index 141-4254 snímek 7).",
+      "sources": [
+        {
+          "label": "ARON, sňatek 9. 10. 1792 (sloupec Witwer)",
+          "signatura": "141-3",
+          "detail": "snímek 10, Pag. 14, dům 74",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/41ee5d74-aaef-4eee-8599-da0678470f8b/dao/41ee5d74-aaef-4eee-8599-da0678470f8b/file/c7c7af3c-a769-4a8b-a545-f7e319f8daf1"
+        },
+        {
+          "label": "ARON, úmrtí 16. 8. 1792",
+          "signatura": "141-5",
+          "detail": "snímek 14, Pag. 22, Ruprechtice č. 74",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/592f4aa6-7311-43a6-8dce-fdc2710ba34c/dao/592f4aa6-7311-43a6-8dce-fdc2710ba34c/file/74d69e8b-d5af-4e0f-8360-7e9858b31fe4"
+        },
+        {
+          "label": "ARON, narození 12. 12. 1780",
+          "signatura": "141-7599",
+          "detail": "snímek 342, Pag. 604, Ruprechtice č. 74",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/5a768ec8-e199-4b10-b324-c9b4d6ee1edc"
+        },
+        {
+          "label": "ARON, narození 27. 10. 1785",
+          "signatura": "141-1",
+          "detail": "snímek 10, Pag. 14, Ruprechtice č. 74",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/2601ece9-a0af-4023-901c-ca324cd94414/dao/2601ece9-a0af-4023-901c-ca324cd94414/file/f9cea7da-cb12-4495-9346-42225f66eaf2"
+        },
+        {
+          "label": "ARON, index narozených lit. D 1779–1787",
+          "signatura": "141-4251",
+          "detail": "snímek 19, pravá strana",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/b628c27c-a629-44c8-a008-e4d017646195/dao/b628c27c-a629-44c8-a008-e4d017646195/file/c8432545-e157-4e07-8086-53027693f294"
+        },
+        {
+          "label": "ARON, index zemřelých lit. D 1785–1798",
+          "signatura": "141-4254",
+          "detail": "snímek 7, Seite 22 (1792)",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/a7ba0d4e-7eba-4c6c-93b8-c6075466b1f3/dao/a7ba0d4e-7eba-4c6c-93b8-c6075466b1f3/file/db57ebd9-92c2-4958-a79c-b02f7c604f1c"
+        }
+      ],
+      "related_ids": [
+        "georg-dauer",
+        "barbara-pitz"
       ]
     }
   ],

@@ -1865,6 +1865,54 @@
           "detail": "folio 71"
         }
       ]
+    },
+    {
+      "id": "q-georg-dauer-predchozi-manzelky",
+      "title": "Předchozí manželky Georga Dauera (Ruprechtice č. 74, 1780–1792)",
+      "summary": "Georg Dauer byl při sňatku s Barbarou Ringelovou 9. 10. 1792 vdovec. V č. 74 zemřela 16. 8. 1792 A. Maria Daußin (34 let); matkou jeho dětí je 1780–1781 Elisabeth Mayer(ová), 1784–1787 A. Maria Meißner(ová). Jedna, nebo dvě předchozí ženy? Kde a kdy se Georg poprvé oženil?",
+      "details": "Jisté ze zápisů: 141-3 snímek 10 (ženich 38, sloupec Witwer); 141-5 snímek 14, Pag. 22: 16. 8. 1792 č. 74 A. Maria Daußin, 34, Abzehrung, manžel neuveden; 141-7599 snímek 342, Pag. 604: 12. 12. 1780 č. 74 Johann Joseph, otec Dauße George, chalupník, matka Elisabeth Mäyerin z Ruprechtic, kmotři Joseph Rosenberg, chalupník z Vižňova, a Maria, žena sedláka Johanna Herzoga(?); 141-1 snímek 10, Pag. 14: 27. 10. 1785 č. 74 Joseph, otec George Dauße, matka A. Maria Meyßnerin(?), kmotři Joseph Rosenberger(?), sedlák, a A. Maria Opitzin. Index 141-4251 snímek 19 (lit. D): Georg, chalupník č. 74 – 12. 12. 1780 Joh. Joseph a 23. 12. 1781 A. Maria (matka Elisab. Meyerin), 1784 A. Maria, 1785 Joseph, 1787 Joh. Georg (matka A. Maria Meißnerin). Pozor: Anton Dauer, chalupník č. 35, má v těch letech také manželku Elisabeth Meyerin (např. 19. 7. 1785, 141-1 snímek 9, Pag. 13) – možná písařova záměna v roce 1780–1781 u č. 74. Sňatek Georga před 1784 v indexu 174-23 není (žádný Dauer jako ženich 1660–1785) a 141-3 1784–1785 (snímky 4–5) ho nemá. Další krok: úmrtí Elisabeth (141-7599 Z 1782–4/1784, snímky ~645–659), sňatek Georg × A. Maria Meißner v okolních farnostech (Broumov, Vižňov 174-x), dočíst 141-3 1786–1791 na Georga a Anton Dauer (č. 35) jako možný bratr. Další Dauer v Ruprechticích: Benedikt Dauße †3. 1. 1789 č. 125 (index 141-4254 snímek 7).",
+      "sources": [
+        {
+          "label": "ARON, sňatek 9. 10. 1792 (sloupec Witwer)",
+          "signatura": "141-3",
+          "detail": "snímek 10, Pag. 14, dům 74",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/41ee5d74-aaef-4eee-8599-da0678470f8b/dao/41ee5d74-aaef-4eee-8599-da0678470f8b/file/c7c7af3c-a769-4a8b-a545-f7e319f8daf1"
+        },
+        {
+          "label": "ARON, úmrtí 16. 8. 1792",
+          "signatura": "141-5",
+          "detail": "snímek 14, Pag. 22, Ruprechtice č. 74",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/592f4aa6-7311-43a6-8dce-fdc2710ba34c/dao/592f4aa6-7311-43a6-8dce-fdc2710ba34c/file/74d69e8b-d5af-4e0f-8360-7e9858b31fe4"
+        },
+        {
+          "label": "ARON, narození 12. 12. 1780",
+          "signatura": "141-7599",
+          "detail": "snímek 342, Pag. 604, Ruprechtice č. 74",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/9efe1251-fe46-407a-bd3c-56944636577f/dao/9efe1251-fe46-407a-bd3c-56944636577f/file/5a768ec8-e199-4b10-b324-c9b4d6ee1edc"
+        },
+        {
+          "label": "ARON, narození 27. 10. 1785",
+          "signatura": "141-1",
+          "detail": "snímek 10, Pag. 14, Ruprechtice č. 74",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/2601ece9-a0af-4023-901c-ca324cd94414/dao/2601ece9-a0af-4023-901c-ca324cd94414/file/f9cea7da-cb12-4495-9346-42225f66eaf2"
+        },
+        {
+          "label": "ARON, index narozených lit. D 1779–1787",
+          "signatura": "141-4251",
+          "detail": "snímek 19, pravá strana",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/b628c27c-a629-44c8-a008-e4d017646195/dao/b628c27c-a629-44c8-a008-e4d017646195/file/c8432545-e157-4e07-8086-53027693f294"
+        },
+        {
+          "label": "ARON, index zemřelých lit. D 1785–1798",
+          "signatura": "141-4254",
+          "detail": "snímek 7, Seite 22 (1792)",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/a7ba0d4e-7eba-4c6c-93b8-c6075466b1f3/dao/a7ba0d4e-7eba-4c6c-93b8-c6075466b1f3/file/db57ebd9-92c2-4958-a79c-b02f7c604f1c"
+        }
+      ],
+      "related_ids": [
+        "georg-dauer",
+        "barbara-pitz"
+      ]
     }
   ]
 }
