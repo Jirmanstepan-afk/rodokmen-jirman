@@ -2644,6 +2644,61 @@
           "apu": "https://aron.vychodoceskearchivy.cz/apu/99630e87-b1e2-4ff1-bca5-b8e3de72419d/dao/99630e87-b1e2-4ff1-bca5-b8e3de72419d/file/1bd9a054-df9b-455c-9484-015f5743190e"
         }
       ]
+    },
+    {
+      "id": "q-josef-jirman-zoker",
+      "title": "Byl děda Josef Jirman (*1936) společníkem společnosti ŽOKER s.r.o.?",
+      "summary": "Sekundární obchodní databáze uvádějí Josefa Jirmana z Broumova jako společníka a zástupce jednatele půjčovny aut ŽOKER s.r.o. (IČO 47452269) v letech 1992–23. 8. 1994. Oficiální výpis s datem narození se nepodařilo získat, proto to není ve stromu.",
+      "details": "Domněnka: adresa uvedená u společníka se shoduje s bydlištěm dědy Josefa (*19. 3. 1936) v rodokmenu Klimeš 2019; v roce 1992 mu bylo asi 56 let, otci Štěpána (*1964) jen 28. Bez data narození z oficiálního výpisu or.justice.cz (společnost zanikla 5. 1. 2006, ve vyhledávání na or.justice.cz 27. 11. 2026 záznam nenalezen) nelze ztotožnění považovat za jisté. Předmět podnikání podle sekundárních zdrojů: půjčovna osobních automobilů.",
+      "related_ids": [
+        "josef-jirman-1936",
+        "josef-jirman-1964"
+      ],
+      "sources": [
+        {
+          "label": "ŽOKER s.r.o., IČO 47452269 – sekundární výpis (jasnadata.cz), společník Josef Jirman 1992–23. 8. 1994",
+          "detail": "Společnost vznikla 6. 8. 1992, zanikla 5. 1. 2006, předmět: půjčovna osobních automobilů. Oficiální výpis s datem narození chybí.",
+          "url": "https://jasnadata.cz/company/47452269"
+        }
+      ]
+    },
+    {
+      "id": "q-gerda-jirmanova-pouchov",
+      "title": "Patřila živnost Gerdy Jirmanové v Hradci Králové–Pouchově babičce Gerdě (*29. 11. 1941)?",
+      "summary": "Komerční databáze uvádějí Gerdu Jirmanovou, IČO 16287312, s živností od 30. 5. 1991 v Hradci Králové–Pouchově. V oficiálním ARES záznam k 27. 11. 2026 není. Jedna sekundární databáze uvádí DIČ, které by odpovídalo datu narození 29. 11. 1941, ale bez oficiálního potvrzení to zůstává domněnkou.",
+      "details": "Domněnka: jméno Gerda Jirmanová je velmi neobvyklé a tvrzené DIČ CZ416129043 by u ženy kódovalo 29. 11. 1941 (měsíc 61 = 11 + 50). To by sedělo na babičku Gerdu, rozenou Syrovou. Záznam ale v oficiálním ARES/RŽP k 27. 11. 2026 není (IČO 16287312 vrací 404) a sídlo je v Hradci Králové, ne v Broumově. Komerční zdroje se v předmětu činnosti rozcházejí (ARES/finmag: maloobchod s převahou potravin; edb.cz: textil a oděvy). Do stromu ani do knihy jako fakt nepatří, dokud to nepotvrdí rodina nebo oficiální výpis.",
+      "related_ids": [
+        "gerda-syrova-1941"
+      ],
+      "sources": [
+        {
+          "label": "Finmag/ARES (archivovaný přepis) – Gerda Jirmanová, IČO 16287312, vznik 30. 5. 1991",
+          "detail": "Sídlo uváděno v Hradci Králové–Pouchově. V oficiálním ARES 27. 11. 2026 záznam není.",
+          "url": "https://www.finmag.cz/obchodni-rejstrik/ares/16287312-gerda-jirmanova"
+        },
+        {
+          "label": "Evropská databanka – Gerda Jirmanová, IČO 16287312, uváděné DIČ CZ416129043",
+          "detail": "Sekundární zdroj; DIČ oficiálně neověřeno. Adresa a telefon se neuveřejňují.",
+          "url": "https://www.edb.cz/firma-216251-gerda-jirmanova-hradec-kralove-pouchov"
+        }
+      ]
+    },
+    {
+      "id": "q-josef-jirman-kuzelky-2002",
+      "title": "Který Josef Jirman hrál v prosinci 2002 kuželky za BK Broumov?",
+      "summary": "Broumovský zpravodaj 12/2002 uvádí u turnaje „nejvyšší nához: Josef Jirman BK Broumov – 220 sražených kuželek“. V Broumově je víc Josefů Jirmanů, takže bez potvrzení rodiny nelze říct, jestli šlo o tátu (*1964), dědu (*1936), nebo někoho jiného.",
+      "details": "Domněnka: věkově by vyhovoval otec i děda Štěpána (v prosinci 2002 jim bylo 38, resp. 66 let). Jméno Josef Jirman je na Broumovsku časté (mj. jiné rodiny ve Velké Vsi). Do stromu jako fakt nepatří.",
+      "related_ids": [
+        "josef-jirman-1964",
+        "josef-jirman-1936"
+      ],
+      "sources": [
+        {
+          "label": "Broumovský zpravodaj č. 12/2002, zpráva z kuželkářského turnaje BK Broumov (K. Kutil)",
+          "detail": "„nejvyšší nához: Josef Jirman BK Broumov - 220 sražených kuželek“.",
+          "url": "https://eldok.svkhk.cz/out/Broumovsky_zpravodaj/Broumovsky_zpravodaj_2002/Broumovsky_zpravodaj_2002_12.pdf"
+        }
+      ]
     }
   ]
 }

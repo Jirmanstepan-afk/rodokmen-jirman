@@ -151,7 +151,7 @@
       },
       "baptism": null,
       "death": null,
-      "occupation": null,
+      "occupation": "Podnikatel: velkoobchod a maloobchod, zprostředkování obchodu a služeb (živnost od 11. 11. 1994); silniční nákladní doprava (od 23. 6. 1997, od 19. 5. 2017 přerušena).",
       "places": [],
       "branch": "jirman",
       "certainty": "potvrzeno",
@@ -159,10 +159,16 @@
       "sources": [
         {
           "label": "Podklad uživatele"
+        },
+        {
+          "label": "ARES / živnostenský rejstřík, IČO 45572836 – Josef Jirman, *17. 5. 1964",
+          "detail": "Oficiální záznam: datum narození 17. 5. 1964 (shoduje se s podkladem rodiny). Živnost od 11. 11. 1994, předmět „Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona“ (obory Velkoobchod a maloobchod; Zprostředkování obchodu a služeb). Koncesovaná živnost „Silniční motorová doprava – nákladní …“ od 23. 6. 1997, od 19. 5. 2017 přerušena. K 27. 11. 2026 jedna živnost aktivní. Adresa sídla se ve veřejném stromu a v knize neuvádí.",
+          "url": "https://ares.gov.cz/ekonomicke-subjekty-v-be/udaje?ico=45572836"
         }
       ],
       "notes": [
-        "Otec Štěpána."
+        "Otec Štěpána.",
+        "Veřejný živnostenský rejstřík (ARES/RŽP, IČO 45572836) potvrzuje datum narození 17. 5. 1964 a obory činnosti. Adresa se neuveřejňuje."
       ],
       "interesting": []
     },
@@ -249,18 +255,32 @@
         {
           "label": "Sdělení Štěpána 27. 11. 2026 – ověřený článek rodové linie",
           "detail": "Spojení Štěpán → Romana → Tadej/Libuše a ztotožnění Tadeje s křtem 1931 ověřeno pokynem Štěpána (sdělení + shoda dat); matriční zápis Broumov 1972/2014 zatím nevyžádán."
+        },
+        {
+          "label": "Broumovské noviny 7 (2011), s. 13 – oslava jubilantů v CSS Naděje, červen 2011",
+          "detail": "Seznam jubilantů ze společné oslavy v červnu 2011 ve společenské místnosti Centra sociálních služeb Naděje v Broumově; zapsán jako „p. Tadej Szpadt“. V červnu 2011 mu bylo 80 let (nar. 9. 6. 1931). Fotografie oslavy je ve stejném čísle bez jmenovitého popisku osob.",
+          "url": "https://eldok.svkhk.cz/out/Broumovske_noviny/Broumovske_noviny_2011/Broumovske_noviny_2011_07.pdf"
+        },
+        {
+          "label": "Broumovské noviny 2 (2015), s. 17 – Společenská kronika, „Rozloučili jsme se s: Tadejem Špadtem“",
+          "detail": "Veřejný záznam města Broumov potvrzuje úmrtí. Datum 23. 12. 2014 v seznamu není; to zůstává ze sdělení rodiny.",
+          "url": "https://eldok.svkhk.cz/out/Broumovske_noviny/Broumovske_noviny_2015/Broumovske_noviny_2015_02.pdf"
         }
       ],
       "notes": [
         "Otec Romany Jirmanové roz. Špadtové – ověřený článek linie. Data narození a úmrtí podle sdělení Štěpána 27. 11. 2026; narození shodné s křtem 1931. Ověřeno pokynem Štěpána 27. 11. 2026 (sdělení Štěpána + shoda dat s křtem 1931); matriční zápis Broumov 1972/2014 zatím nevyžádán.",
         "Rodiště Mereščev = ves Meryszczów (ukr. Мерещів), 6 km jižně od Přemyšlan (Przemyślany), v roce 1931 Polsko, vojvodství Tarnopol; dnes Lvovská oblast, Ukrajina.",
         "Sourozenci podle rodinné paměti: Ludvík (*1936) a Kateřina Vincencová roz. Špadtová.",
-        "Křestní zápis 1931: „Thaddeus Franciscus“, syn Petra Spadta, ševce (sutor), syna Martina a Elisabeth Leicht, a Marie Miśków, dcery Bartoloměje a Kateřiny (příjmení nejisté, Podkurna?). Datum, jméno, otec, matka i ves souhlasí s rodinnou pamětí – ztotožnění ověřené (pokyn Štěpána 27. 11. 2026, shoda dat)."
+        "Křestní zápis 1931: „Thaddeus Franciscus“, syn Petra Spadta, ševce (sutor), syna Martina a Elisabeth Leicht, a Marie Miśków, dcery Bartoloměje a Kateřiny (příjmení nejisté, Podkurna?). Datum, jméno, otec, matka i ves souhlasí s rodinnou pamětí – ztotožnění ověřené (pokyn Štěpána 27. 11. 2026, shoda dat).",
+        "V červnu 2011 (80 let) byl mezi jubilanty na oslavě v CSS Naděje v Broumově; v Broumovských novinách 7/2011, s. 13, zapsán jako „p. Tadej Szpadt“.",
+        "Úmrtí potvrzuje společenská kronika Broumovských novin 2/2015, s. 17 („Rozloučili jsme se s: Tadejem Špadtem“). Datum 23. 12. 2014 v tom seznamu není."
       ],
       "interesting": [
         "Narodil se v roce 1931 v Polsku, v haličské vsi Meryszczów, kde žili převážně řeckokatoličtí Ukrajinci (1921: 515 řeckokatolíků, 81 římských katolíků, 18 Židů); zemřel v roce 2014 v Broumově – mezi rodištěm a místem úmrtí je asi 700 km a tři státní hranice.",
         "Na okraji jeho křestního zápisu je azbukou poznámka „копія а/г 26.V.67р“ – 26. 5. 1967 z něj tedy sovětský matriční úřad vydal opis. V té době už Tadej žil v Československu; opis si nejspíš vyžádal on sám, třeba kvůli úředním dokladům (domněnka).",
-        "V jeho prvním zápisu je otec Petr zapsán jako švec (sutor), v zápisu bratra Ludvíka o čtyři roky později jako rolník (agricola)."
+        "V jeho prvním zápisu je otec Petr zapsán jako švec (sutor), v zápisu bratra Ludvíka o čtyři roky později jako rolník (agricola).",
+        "V Broumovských novinách 7/2011 je příjmení zapsáno polským pravopisem Szpadt, což odpovídá narození v tehdejším Polsku (Meryszczów).",
+        "V červnu 2011 oslavil osmdesátiny na společné oslavě jubilantů v Centru sociálních služeb Naděje v Broumově."
       ],
       "aliases": [
         "Tadeusz Szpadt (možný úřední/polský tvar, neověřeno)"
@@ -513,12 +533,18 @@
           "signatura": "8179",
           "detail": "snímek 85",
           "apu": "609677ed-cfe1-40bb-93b8-44935ec6ed67"
+        },
+        {
+          "label": "Broumovský zpravodaj č. 02/2003, Společenská kronika – „Rozloučili jsme se s: Blaženou Jirmanovou“",
+          "detail": "Zápis podepsala matrikářka Naďa Burdychová (za SPOZ). Potvrzuje úmrtí v Broumově v období zachyceném únorovým číslem 2003. Přesné datum 15. 11. 2002 v seznamu není; to zůstává z rodokmenu Klimeš 2019. Jméno Blažena Jirmanová je neobvyklé a časově se shoduje.",
+          "url": "https://eldok.svkhk.cz/out/Broumovsky_zpravodaj/Broumovsky_zpravodaj_2003/Broumovsky_zpravodaj_2003_02.pdf"
         }
       ],
       "notes": [
         "Narození v ARON není (Machov / Končiny N po 6. 1888 v ARON chybí).",
         "Sčítání lidu 1921 (Machov, osada Končiny č. 75, dům Fr. Klimeše): Blažena Klimešová, dcera, svobodná, *10. 5. 1911 Machov, domovská obec Machov — potvrzuje datum z rodokmenu.",
-        "Oddací zápis CČS 10. 2. 1934 (8179 snímek 85): Blažena Klimešová, narozená v Machově č. 75 dne 10. 5. 1911, dcera Františka Klimeše, tkadlce v Machově č. 75, a Františky, dcery Josefa Maroula z NS č. 54; příslušná do Machova; svobodná; vyznání československé. Křestní list z řím.-kat. far. úřadu v Machově z 18. 1. 1934 č. 36/34."
+        "Oddací zápis CČS 10. 2. 1934 (8179 snímek 85): Blažena Klimešová, narozená v Machově č. 75 dne 10. 5. 1911, dcera Františka Klimeše, tkadlce v Machově č. 75, a Františky, dcery Josefa Maroula z NS č. 54; příslušná do Machova; svobodná; vyznání československé. Křestní list z řím.-kat. far. úřadu v Machově z 18. 1. 1934 č. 36/34.",
+        "Úmrtí potvrzuje společenská kronika Broumovského zpravodaje č. 02/2003 („Rozloučili jsme se s: Blaženou Jirmanovou“, matrikářka Naďa Burdychová). Datum 15. 11. 2002 v seznamu není."
       ],
       "interesting": []
     },
@@ -17610,6 +17636,61 @@
           "signatura": "171-10",
           "detail": "snímek 56, pravá strana: Proß Franz 19. 1. 1733 (pag. 3) a 24. 6. 1743 (pag. 7); po roce 1752 index nepokračuje; výřez vypisy/171-10/i171-10-s56-oddani-lit-P-1724-1752-pross-franz-1733-1743.jpg",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/99630e87-b1e2-4ff1-bca5-b8e3de72419d/dao/99630e87-b1e2-4ff1-bca5-b8e3de72419d/file/1bd9a054-df9b-455c-9484-015f5743190e"
+        }
+      ]
+    },
+    {
+      "id": "q-josef-jirman-zoker",
+      "title": "Byl děda Josef Jirman (*1936) společníkem společnosti ŽOKER s.r.o.?",
+      "summary": "Sekundární obchodní databáze uvádějí Josefa Jirmana z Broumova jako společníka a zástupce jednatele půjčovny aut ŽOKER s.r.o. (IČO 47452269) v letech 1992–23. 8. 1994. Oficiální výpis s datem narození se nepodařilo získat, proto to není ve stromu.",
+      "details": "Domněnka: adresa uvedená u společníka se shoduje s bydlištěm dědy Josefa (*19. 3. 1936) v rodokmenu Klimeš 2019; v roce 1992 mu bylo asi 56 let, otci Štěpána (*1964) jen 28. Bez data narození z oficiálního výpisu or.justice.cz (společnost zanikla 5. 1. 2006, ve vyhledávání na or.justice.cz 27. 11. 2026 záznam nenalezen) nelze ztotožnění považovat za jisté. Předmět podnikání podle sekundárních zdrojů: půjčovna osobních automobilů.",
+      "related_ids": [
+        "josef-jirman-1936",
+        "josef-jirman-1964"
+      ],
+      "sources": [
+        {
+          "label": "ŽOKER s.r.o., IČO 47452269 – sekundární výpis (jasnadata.cz), společník Josef Jirman 1992–23. 8. 1994",
+          "detail": "Společnost vznikla 6. 8. 1992, zanikla 5. 1. 2006, předmět: půjčovna osobních automobilů. Oficiální výpis s datem narození chybí.",
+          "url": "https://jasnadata.cz/company/47452269"
+        }
+      ]
+    },
+    {
+      "id": "q-gerda-jirmanova-pouchov",
+      "title": "Patřila živnost Gerdy Jirmanové v Hradci Králové–Pouchově babičce Gerdě (*29. 11. 1941)?",
+      "summary": "Komerční databáze uvádějí Gerdu Jirmanovou, IČO 16287312, s živností od 30. 5. 1991 v Hradci Králové–Pouchově. V oficiálním ARES záznam k 27. 11. 2026 není. Jedna sekundární databáze uvádí DIČ, které by odpovídalo datu narození 29. 11. 1941, ale bez oficiálního potvrzení to zůstává domněnkou.",
+      "details": "Domněnka: jméno Gerda Jirmanová je velmi neobvyklé a tvrzené DIČ CZ416129043 by u ženy kódovalo 29. 11. 1941 (měsíc 61 = 11 + 50). To by sedělo na babičku Gerdu, rozenou Syrovou. Záznam ale v oficiálním ARES/RŽP k 27. 11. 2026 není (IČO 16287312 vrací 404) a sídlo je v Hradci Králové, ne v Broumově. Komerční zdroje se v předmětu činnosti rozcházejí (ARES/finmag: maloobchod s převahou potravin; edb.cz: textil a oděvy). Do stromu ani do knihy jako fakt nepatří, dokud to nepotvrdí rodina nebo oficiální výpis.",
+      "related_ids": [
+        "gerda-syrova-1941"
+      ],
+      "sources": [
+        {
+          "label": "Finmag/ARES (archivovaný přepis) – Gerda Jirmanová, IČO 16287312, vznik 30. 5. 1991",
+          "detail": "Sídlo uváděno v Hradci Králové–Pouchově. V oficiálním ARES 27. 11. 2026 záznam není.",
+          "url": "https://www.finmag.cz/obchodni-rejstrik/ares/16287312-gerda-jirmanova"
+        },
+        {
+          "label": "Evropská databanka – Gerda Jirmanová, IČO 16287312, uváděné DIČ CZ416129043",
+          "detail": "Sekundární zdroj; DIČ oficiálně neověřeno. Adresa a telefon se neuveřejňují.",
+          "url": "https://www.edb.cz/firma-216251-gerda-jirmanova-hradec-kralove-pouchov"
+        }
+      ]
+    },
+    {
+      "id": "q-josef-jirman-kuzelky-2002",
+      "title": "Který Josef Jirman hrál v prosinci 2002 kuželky za BK Broumov?",
+      "summary": "Broumovský zpravodaj 12/2002 uvádí u turnaje „nejvyšší nához: Josef Jirman BK Broumov – 220 sražených kuželek“. V Broumově je víc Josefů Jirmanů, takže bez potvrzení rodiny nelze říct, jestli šlo o tátu (*1964), dědu (*1936), nebo někoho jiného.",
+      "details": "Domněnka: věkově by vyhovoval otec i děda Štěpána (v prosinci 2002 jim bylo 38, resp. 66 let). Jméno Josef Jirman je na Broumovsku časté (mj. jiné rodiny ve Velké Vsi). Do stromu jako fakt nepatří.",
+      "related_ids": [
+        "josef-jirman-1964",
+        "josef-jirman-1936"
+      ],
+      "sources": [
+        {
+          "label": "Broumovský zpravodaj č. 12/2002, zpráva z kuželkářského turnaje BK Broumov (K. Kutil)",
+          "detail": "„nejvyšší nához: Josef Jirman BK Broumov - 220 sražených kuželek“.",
+          "url": "https://eldok.svkhk.cz/out/Broumovsky_zpravodaj/Broumovsky_zpravodaj_2002/Broumovsky_zpravodaj_2002_12.pdf"
         }
       ]
     }
