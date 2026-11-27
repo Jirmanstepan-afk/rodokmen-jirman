@@ -422,10 +422,17 @@
       "sources": [
         {
           "label": "Rodokmen Klimeš, 2019"
+        },
+        {
+          "label": "ARON, sčítání lidu 1921 Machov, Končiny č. 75",
+          "signatura": "scit1921-Machov",
+          "detail": "snímek 151",
+          "apu": "ecff63a5-1a42-4cc6-9744-265857663ab9"
         }
       ],
       "notes": [
-        "Narození v ARON není (Machov / Končiny N po 6. 1888 v ARON chybí)."
+        "Narození v ARON není (Machov / Končiny N po 6. 1888 v ARON chybí).",
+        "Sčítání lidu 1921 (Machov, osada Končiny č. 75, dům Fr. Klimeše): Blažena Klimešová, dcera, svobodná, *10. 5. 1911 Machov, domovská obec Machov — potvrzuje datum z rodokmenu."
       ],
       "interesting": []
     },
@@ -499,16 +506,24 @@
         {
           "label": "Rodokmen Klimeš, 2019",
           "detail": "úmrtí 1938 a povolání truhlář — jen rodokmen"
+        },
+        {
+          "label": "ARON, sčítání lidu 1921 Machov, Končiny č. 75",
+          "signatura": "scit1921-Machov",
+          "detail": "snímek 151",
+          "apu": "ecff63a5-1a42-4cc6-9744-265857663ab9"
         }
       ],
       "notes": [
         "Původně nemanželský; legitimován sňatkem rodičů 11. 5. 1880 (53-9391, fol. 6).",
         "Identifikace s otcem Blaženy: souhra Závrch č. 2, Machov č. 75, matka dcera †Jana Soumara, křestní list 5. 10. 1904 a život do vystoupení z církve 1930. Sňatek s Františkou Maroulovou v ARON stále není.",
-        "Poznámky u zápisu: křestní list 5. 10. 1904; vystoupení z katolické církve do CČS, zapsáno v Broumově 6/1930, č. 15229."
+        "Poznámky u zápisu: křestní list 5. 10. 1904; vystoupení z katolické církve do CČS, zapsáno v Broumově 6/1930, č. 15229.",
+        "Sčítání 1921: přednosta domácnosti v Machově-Končinách č. 75 (vlastní dům), ženatý, *16. 11. 1878 Nízká Srbská, v Machově od roku 1897(?); povolání tkalcovství, domácí tkadlec pro faktora Ant. Havlíka ve Velkém Poříčí, totéž i 16. 7. 1914; vyznání československé."
       ],
       "interesting": [
         "Legitimován sňatkem rodičů 11. 5. 1880.",
-        "Vystoupení z katolické církve do CČS, 1930."
+        "Vystoupení z katolické církve do CČS, 1930.",
+        "V roce 1921 domácí tkadlec, pracoval pro faktora Antonína Havlíka z Velkého Poříčí; rodina hlásila vyznání československé (nová církev z roku 1920)."
       ]
     },
     {
@@ -549,11 +564,18 @@
         {
           "label": "Rodokmen Klimeš, 2019",
           "detail": "úmrtí 1963"
+        },
+        {
+          "label": "ARON, sčítání lidu 1921 Machov, Končiny č. 75",
+          "signatura": "scit1921-Machov",
+          "detail": "snímek 151",
+          "apu": "ecff63a5-1a42-4cc6-9744-265857663ab9"
         }
       ],
       "notes": [
         "Pozdější poznámky (čtení částečné): biřmování 1893 (č. 31/93); zmínka o občanském listu v Broumově (1920?); „odd. list – 27. 4. 1938 č. 796/38“ — vydání oddacího listu v roce úmrtí manžela, nikoli datum sňatku.",
-        "Sňatek s Františkem Klimešem v ARON není (machovská kniha po 10. 1894)."
+        "Sňatek s Františkem Klimešem v ARON není (machovská kniha po 10. 1894).",
+        "Sčítání 1921: manželka, *30. 8. 1878 Nízká Srbská, v Machově od 5. 5. 1905, vede domácnost."
       ],
       "interesting": []
     },
@@ -593,9 +615,9 @@
       "name": "Jiřina Fabiánová",
       "maiden": "Klimešová",
       "birth": {
-        "display": "1913",
-        "precision": "year",
-        "date": "1913",
+        "display": "17. 4. 1913",
+        "precision": "exact",
+        "date": "1913-04-17",
         "place": "Machovské Končiny č. 75"
       },
       "baptism": null,
@@ -616,9 +638,17 @@
       "sources": [
         {
           "label": "Rodokmen Klimeš, 2019"
+        },
+        {
+          "label": "ARON, sčítání lidu 1921 Machov, Končiny č. 75",
+          "signatura": "scit1921-Machov",
+          "detail": "snímek 151",
+          "apu": "ecff63a5-1a42-4cc6-9744-265857663ab9"
         }
       ],
-      "notes": [],
+      "notes": [
+        "Den narození 17. 4. 1913 (Machov) je ze sčítání lidu 1921, Machov Končiny č. 75; matriční zápis v ARON není."
+      ],
       "interesting": []
     },
     {
@@ -8988,9 +9018,9 @@
     },
     {
       "id": "q-ludvik-1908-otec",
-      "title": "Vazba Ludvík Jirman *1908 → Josef Jirman *1857",
-      "summary": "Ludvík *18. 8. 1908 NS 67 je z rodokmenu Klimeš 2019 jistý; Josef *18. 11. 1857 je z matrik jistý. Otázka, zda je Josef otcem Ludvíka, není dokázána.",
-      "details": "Narození Ludvíka v ARON není (kniha po 3. 1905). Josef, chalupník NS č. 75 v letech 1900–1901, je věkově možný otec (v roce 1908 by mu bylo 50 let), ale vazba se nesmí v mapě kreslit jako potvrzené otcovství. Z druhého manželství je doložena dcera Josefa *10. 10. 1900 NS č. 75. V 96-7319 do 26. 3. 1905 další dítě tohoto páru ani zápis u NS 67 není. Dříve kandidátská čárkovaná vazba v mapě; přesunuto sem.",
+      "title": "Kdo byli rodiče Ludvíka Jirmana *1908?",
+      "summary": "Ludvík *18. 8. 1908 NS 67 je z rodokmenu Klimeš 2019 jistý, ale jeho rodiče nejsou doloženi. Nejsilnějším kandidátem je nově pár Josef Jirman *16./19. 3. 1879 NS 29 × Františka Vítková *21. 8. 1878 (oddáni 10. 11. 1902 Machov). Josef *1857 zůstává možností. Nic z toho není dokázáno.",
+      "details": "Narození Ludvíka v ARON není (kniha N NS po 3. 1905 online chybí). Kandidátní páry s dětmi v NS kolem 1900–1908:\n1) Josef Jirmann, podruh, *NS 29 (16./19. 3. 1879), syn Františka Jirmanna, podruha Machov 14, a Anny Ducháčové z Kladska; oddán 10. 11. 1902 Machov s Františkou Vítkovou *21. 8. 1878 (96-9405 snímek 70). Dítě Josef *29. 1. 1904 NS 59 †23. 2. 1905 (96-7319 snímek 148). Ve sčítání 1921 bydlí v Bezděkově č. 30 (od 5. 8. 1920), Josef skladní dělník u dráhy na stanici Police n. M., dcery Anežka *6. 4. 1899 Bělý a Marie *25. 8. 1907 Machov — Ludvík (by mu bylo 12) v domácnosti NENÍ (scit1921-Bezdekov snímek 59). Proti: Ludvík s nimi 1921 nežije. Pro: věk, bydliště NS, dítě 1907 i 1908 možné.\n2) Václav Jirmann *25. 9. 1874 Bělý 43, podruh a tkadlec NS 7, × Anna Barčáková (oddáni 24. 8. 1897 Machov), děti Vincenc František *31. 7. 1902 a Roman *28. 1. 1904 †12. 9. 1904 (96-7319 snímky 142, 149).\n3) Bohumír Jirman, učitel NS 95, ze Žďárek, × Paulina Králová NS 28, oddáni 5. 11. 1904 (96-9405 snímek 74).\n4) František Jirman *1864, tkadlec NS 5, × Anna z Bezděkova (1921 NS 5, scit1921-NS snímek 7).\n5) Josef *18. 11. 1857 (chalupník NS 75 1900–1901) × Františka Němečková.\nVe sčítání 1921 Ludvík není v Nízké Srbské, Machově ani Bezděkově (prošlo celé). V NS č. 67 bydlí 1921 Klimešové, č. 97 patří obci; Jirman tam není. Jistotu dá jen zápis narození 1908 z matriky NS (SOA Zámrsk / matriční úřad) nebo sčítání 1910.",
       "related_ids": [
         "ludvik-jirman-1908",
         "josef-jirman-1857",
@@ -9000,6 +9030,48 @@
         {
           "label": "Zatím bez zápisu",
           "detail": "narození Ludvíka *18. 8. 1908 NS 67 v ARON není (kniha po 3. 1905)"
+        },
+        {
+          "label": "ARON, sňatek 10. 11. 1902 Josef Jirmann × Františka Vítková",
+          "signatura": "96-9405",
+          "detail": "snímek 70",
+          "apu": "ece0dc67-f2b9-4e73-b1f6-515f084754b3"
+        },
+        {
+          "label": "ARON, narození 29. 1. 1904 Josef, NS 59 (otec Josef Jirmann *1879)",
+          "signatura": "96-7319",
+          "detail": "snímek 148",
+          "apu": "335ade0a-eccc-4c8a-a917-becf12f1d6fe"
+        },
+        {
+          "label": "ARON, sčítání 1921 Bezděkov č. 30: Josef Jirman *1879 s rodinou, bez Ludvíka",
+          "signatura": "scit1921-Bezdekov",
+          "detail": "snímek 59",
+          "apu": "d1b1390a-5754-438a-8a16-051c569d5f74"
+        },
+        {
+          "label": "ARON, narození 31. 7. 1902 Vincenc František, NS 7 (otec Václav Jirmann *1874)",
+          "signatura": "96-7319",
+          "detail": "snímek 142",
+          "apu": "335ade0a-eccc-4c8a-a917-becf12f1d6fe"
+        },
+        {
+          "label": "ARON, sňatek 5. 11. 1904 Bohumír Jirman, učitel NS 95",
+          "signatura": "96-9405",
+          "detail": "snímek 74",
+          "apu": "ece0dc67-f2b9-4e73-b1f6-515f084754b3"
+        },
+        {
+          "label": "ARON, sčítání 1921 NS č. 5: František Jirman *1864",
+          "signatura": "scit1921-NS",
+          "detail": "snímek 7",
+          "apu": "de5e354b-e132-48a9-909a-f6acc8e4ab70"
+        },
+        {
+          "label": "ARON, sčítání 1921 Machov č. 100: Václav Jirman *1866 (bez Ludvíka)",
+          "signatura": "scit1921-Machov",
+          "detail": "snímek 203",
+          "apu": "ecff63a5-1a42-4cc6-9744-265857663ab9"
         }
       ]
     },

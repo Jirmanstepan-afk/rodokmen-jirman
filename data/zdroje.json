@@ -692,6 +692,24 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 96-4231 (poř.č. 6820), 1847-5.1897",
    "popis": "římskokatolická matrika ZEMŘELÝCH, Machov",
    "url": "https://aron.vychodoceskearchivy.cz/apu/7c44e04e-de76-41fa-a7e5-ac911d760e58"
+  },
+  "scit1921-NS": {
+   "apu": "de5e354b-e132-48a9-909a-f6acc8e4ab70",
+   "dao": "de5e354b-e132-48a9-909a-f6acc8e4ab70",
+   "nazev": "Státní okresní archiv Náchod: Okresní úřad Broumov I, poř.č.: 58, 1921 — sčítání lidu 1921",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/de5e354b-e132-48a9-909a-f6acc8e4ab70"
+  },
+  "scit1921-Machov": {
+   "apu": "ecff63a5-1a42-4cc6-9744-265857663ab9",
+   "dao": "ecff63a5-1a42-4cc6-9744-265857663ab9",
+   "nazev": "Státní okresní archiv Náchod: Okresní úřad Broumov I, poř.č.: 56, 1921 — sčítání lidu 1921",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ecff63a5-1a42-4cc6-9744-265857663ab9"
+  },
+  "scit1921-Bezdekov": {
+   "apu": "d1b1390a-5754-438a-8a16-051c569d5f74",
+   "dao": "d1b1390a-5754-438a-8a16-051c569d5f74",
+   "nazev": "Státní okresní archiv Náchod: Okresní úřad Broumov I, poř.č.: 51, 1921 — sčítání lidu 1921",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/d1b1390a-5754-438a-8a16-051c569d5f74"
   }
  },
  "aliasy": {
@@ -3975,6 +3993,24 @@
    "velky": "img/zdroje/96-7319_s133_velky.jpg",
    "vyrez_soubor": "jirman-josefa-1900-spread.jpg"
   },
+  "96-7319|142": {
+   "signatura": "96-7319",
+   "snimek": 142,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/335ade0a-eccc-4c8a-a917-becf12f1d6fe/dao/335ade0a-eccc-4c8a-a917-becf12f1d6fe/file/0549ce53-1981-4d4a-8e6e-d8ae08c1b0d4",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-7319_s142.jpg",
+   "velky": "img/zdroje/96-7319_s142_velky.jpg",
+   "vyrez_soubor": "p142-narozeni-31-7-1902-Vincenc-Frantisek-Jirmann-NS7-otec-Vaclav-Jirmann-1874-matka-Anna-Barcakova.jpg"
+  },
+  "96-7319|148": {
+   "signatura": "96-7319",
+   "snimek": 148,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/335ade0a-eccc-4c8a-a917-becf12f1d6fe/dao/335ade0a-eccc-4c8a-a917-becf12f1d6fe/file/fcaab8a1-72ad-401e-9df0-337f6b1b0223",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-7319_s148.jpg",
+   "velky": "img/zdroje/96-7319_s148_velky.jpg",
+   "vyrez_soubor": "p148-narozeni-29-1-1904-Josef-Jirmann-NS59-otec-Josef-Jirmann-1879-matka-Frantiska-Vitkova.jpg"
+  },
   "96-7319|46": {
    "signatura": "96-7319",
    "snimek": 46,
@@ -3993,6 +4029,24 @@
    "velky": "img/zdroje/96-9405_s066_velky.jpg",
    "vyrez_soubor": "jirman-josef-1901-spread.jpg"
   },
+  "96-9405|70": {
+   "signatura": "96-9405",
+   "snimek": 70,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ece0dc67-f2b9-4e73-b1f6-515f084754b3/dao/ece0dc67-f2b9-4e73-b1f6-515f084754b3/file/5770e539-c576-4b6c-90ee-c72a1a970f08",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-9405_s070.jpg",
+   "velky": "img/zdroje/96-9405_s070_velky.jpg",
+   "vyrez_soubor": "p070-snatek-10-11-1902-Josef-Jirmann-1879-NS29-podruh-Machov14-a-Frantiska-Vitkova-1878.jpg"
+  },
+  "96-9405|74": {
+   "signatura": "96-9405",
+   "snimek": 74,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ece0dc67-f2b9-4e73-b1f6-515f084754b3/dao/ece0dc67-f2b9-4e73-b1f6-515f084754b3/file/33f37499-725a-426e-b6b2-6edc9351e1ab",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-9405_s074.jpg",
+   "velky": "img/zdroje/96-9405_s074_velky.jpg",
+   "vyrez_soubor": "p074-snatek-5-11-1904-Bohumir-Jirman-ucitel-NS95-ze-Zdarek-a-Paulina-Kralova-NS28.jpg"
+  },
   "99-8015|137": {
    "signatura": "99-8015",
    "snimek": 137,
@@ -4001,6 +4055,42 @@
    "nahled": "img/zdroje/99-8015_s137.jpg",
    "velky": "img/zdroje/99-8015_s137_velky.jpg",
    "vyrez_soubor": "pross-satek-L-wide.jpg"
+  },
+  "scit1921-Bezdekov|59": {
+   "signatura": "scit1921-Bezdekov",
+   "snimek": 59,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/d1b1390a-5754-438a-8a16-051c569d5f74/dao/d1b1390a-5754-438a-8a16-051c569d5f74/file/70075990-a84a-4bf5-bb6b-6b1d7e190b58",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/scit1921-Bezdekov_s059.jpg",
+   "velky": "img/zdroje/scit1921-Bezdekov_s059_velky.jpg",
+   "vyrez_soubor": "s059-Bezdekov-c30-Josef-Jirman-16-3-1879-NS-skladni-delnik-drahy-Frantiska-21-8-1878-Anezka-1899-Marie-1907.jpg"
+  },
+  "scit1921-Machov|151": {
+   "signatura": "scit1921-Machov",
+   "snimek": 151,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ecff63a5-1a42-4cc6-9744-265857663ab9/dao/ecff63a5-1a42-4cc6-9744-265857663ab9/file/40496989-45c7-4dab-89ce-5680182cada5",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/scit1921-Machov_s151.jpg",
+   "velky": "img/zdroje/scit1921-Machov_s151_velky.jpg",
+   "vyrez_soubor": "s151-Machov-c75-Konciny-Frantisek-Klimes-tkadlec-Frantiska-Blazena-10-5-1911-Jirina-17-4-1913.jpg"
+  },
+  "scit1921-Machov|203": {
+   "signatura": "scit1921-Machov",
+   "snimek": 203,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ecff63a5-1a42-4cc6-9744-265857663ab9/dao/ecff63a5-1a42-4cc6-9744-265857663ab9/file/204990a5-00da-423c-86b8-f97174d57533",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/scit1921-Machov_s203.jpg",
+   "velky": "img/zdroje/scit1921-Machov_s203_velky.jpg",
+   "vyrez_soubor": "s203-Machov-c100-Vaclav-Jirman-1866-Anezka-1869-deti-Vaclav-1894-Anezka-1906-Bohuslav-1910.jpg"
+  },
+  "scit1921-NS|7": {
+   "signatura": "scit1921-NS",
+   "snimek": 7,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/de5e354b-e132-48a9-909a-f6acc8e4ab70/dao/de5e354b-e132-48a9-909a-f6acc8e4ab70/file/e5f052f7-74e3-4163-ad17-228ba1b5cb0a",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/scit1921-NS_s007.jpg",
+   "velky": "img/zdroje/scit1921-NS_s007_velky.jpg",
+   "vyrez_soubor": "s007-NS-c5-Frantisek-Jirman-1864-tkadlec-Anna-z-Bezdekova-Frantiska-1899-L.jpg"
   }
  }
 }
