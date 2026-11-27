@@ -898,6 +898,81 @@
         "url": "https://www.openstreetmap.org/node/358070051"
       },
       "note": "V matrikách farnosti Velký Uhřínov „Gießaus“; v 18. století ves panství Solnice."
+    },
+    {
+      "id": "merescev",
+      "name": "Mereščev (Meryszczów)",
+      "aliases": [
+        "Mereščev (Meryszczów)",
+        "Mereščev",
+        "Meryszczów",
+        "Мерещів",
+        "Meteščev"
+      ],
+      "type": "ves",
+      "admin": "Lvovská oblast (1931: pow. Przemyślany, woj. tarnopolskie)",
+      "country": "UA",
+      "lat": 49.61278,
+      "lon": 24.57417,
+      "source": {
+        "label": "Wikidata Q4290845 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q4290845",
+        "wikidata": "Q4290845"
+      },
+      "note": "6 km jižně od Přemyšlan; v rodině „Mereščev“."
+    },
+    {
+      "id": "nachod",
+      "name": "Náchod",
+      "aliases": [
+        "Náchod"
+      ],
+      "type": "město",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.41674,
+      "lon": 16.16297,
+      "source": {
+        "label": "Wikidata Q591823 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q591823",
+        "wikidata": "Q591823"
+      },
+      "note": "U žijících osob jen obec."
+    },
+    {
+      "id": "benesov-u-broumova",
+      "name": "Benešov u Broumova",
+      "aliases": [
+        "Benešov u Broumova"
+      ],
+      "type": "část obce Broumov",
+      "admin": "okres Náchod",
+      "country": "CZ",
+      "lat": 50.6139,
+      "lon": 16.3475,
+      "source": {
+        "label": "Wikidata Q11126761 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q11126761",
+        "wikidata": "Q11126761"
+      },
+      "note": "Německy Strassenau. Číslo domu se na webu neuvádí."
+    },
+    {
+      "id": "frydek-mistek",
+      "name": "Frýdek-Místek",
+      "aliases": [
+        "Frýdek-Místek"
+      ],
+      "type": "město",
+      "admin": "okres Frýdek-Místek",
+      "country": "CZ",
+      "lat": 49.68806,
+      "lon": 18.35361,
+      "source": {
+        "label": "Wikidata Q48194 (souřadnice P625)",
+        "url": "https://www.wikidata.org/wiki/Q48194",
+        "wikidata": "Q48194"
+      }
     }
   ],
   "unplaced_rules": [
@@ -935,6 +1010,11 @@
       "id": "lhota-bez-privlastku",
       "pattern": "(^|[\\s,;])Lhota(?!\\s*Náchodská)",
       "reason": "Samotné Lhota bez přívlastku (např. zápis 1825) se nezaměřuje; Lhota Náchodská ano."
+    },
+    {
+      "id": "podkarpatska-rus",
+      "pattern": "Podkarpatská Rus",
+      "reason": "Jen region, obec není známa."
     }
   ]
 }

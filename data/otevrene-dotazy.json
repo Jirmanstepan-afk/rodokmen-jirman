@@ -2083,6 +2083,58 @@
           "apu": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922/dao/ae8057d2-4543-4429-836f-2da5eee0f922/file/bafeadd5-121d-4987-a2f3-f5814c3b7cb4"
         }
       ]
+    },
+    {
+      "id": "q-spadt-puvod",
+      "title": "Špadtovi z Meryszczówa: původ Petra Špadta a cesta rodiny do Československa",
+      "summary": "Rodina podle sdělení 27. 11. 2026 z Mereščeva (Meryszczów u Przemyślan). Silný kandidát na příbuzenstvo: Spadtovi z německé josefínské kolonie Kimirz (farnost Świrz, ~20 km) – Piotr Schpadt/Szpadt *14. 4. 1904, syn Marcina × Elżbiety Leicht, bratři Ferdynand *1900, Jan, Adam, Marcin (Geneteka). Ztotožnění s Petrem Špadtem neověřeno.",
+      "details": "Kolo BK (27. 11. 2026). Geneteka (Ukrajina, příjmení Spadt/Szpadt): narození Kimirz/Świrz – Ferdynand 28. 11. 1900, Piotr 14. 4. 1904 (rodiče Marcin Spadt × Elżbieta Leicht); sňatky Jan 1919 (akt 8, × Agnieszka Treffler), Adam 1921 (akt 5, × Maria Treffler), Marcin 1934 (akt 7, × Anna Spadt). Rodinná paměť: Petr měl 3 bratry – sedí na Piotra 1904 (Ferdynand, Jan, Adam, Marcin = 4 jména, ale ne všichni museli žít). Rozpor: Piotr *1904 nemohl být v 1. světové válce v zajetí; zajetí se může týkat otce Marcina nebo jde o válku polsko-sovětskou 1920. Miśkiewicz: v Geneteka v okolních farnostech bez nálezu. Prameny: ЦДІАЛ Lvov fond 618 op. 2 (ř.-kat.): sprava 3103 (Świrz 1901–1913), 3104 (Świrz 1925–1937), 3154 (sňatky Kimirz/Niedzieliska 1895–1939), 3203 (sňatky Świrz 1928–1940); Niedzieliska (Неділиська) přímo sousedí s Meryszczówem. Řeckokatolické matriky Meryszczów: ЦДІАЛ fond 201 op. 4a, 33 sprav 1784–1944, 31 digitalizováno (uaroots.com.ua/misce/lvivska/mereshchiv-27327; archium.tsdial.archives.gov.ua). Polské lhůty: narození 100 let, sňatky a úmrtí 80 let. Otevřené: (a) ř.-kat. farnost Meryszczówa 1931 (Przemyślany?/Świrz?) a křest Tadeje 9. 6. 1931; (b) kdy a jak rodina přišla do ČSR – reemigrace 1946–47? Galicijští Němci byli 1940 přesídleni do Warthegau (Umsiedlung), Spadtovi jako Němci by mohli jít touto cestou – domněnka; druhý sňatek Marie s Chaloupkou (české příjmení) ukazuje spíš na reemigraci s Čechy – domněnka; (c) ověřit u MÚ Broumov úmrtní list Tadeje 2014 (uvádí rodiště a rodiče).",
+      "related_ids": [
+        "tadej-spadt",
+        "petr-spadt",
+        "marie-chaloupkova",
+        "ludvik-spadt",
+        "katerina-vincencova"
+      ],
+      "sources": [
+        {
+          "label": "Geneteka – Spadt, Ukrajina",
+          "url": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&w=21uk&rid=B&search_lastname=Spadt"
+        },
+        {
+          "label": "UaRoots – Мерещів, katalog matrik",
+          "url": "https://uaroots.com.ua/misce/lvivska/mereshchiv-27327"
+        },
+        {
+          "label": "Wikidata Q4290845 – Мерещів",
+          "url": "https://www.wikidata.org/wiki/Q4290845"
+        }
+      ]
+    },
+    {
+      "id": "q-flegl-puvod",
+      "title": "Antonín Flegl (*1919 Podkarpatská Rus) a Marie Zelená (*1921 Náchod): doklady",
+      "summary": "Údaje jen ze sdělení 27. 11. 2026. Náchodské ř.-kat. matriky v ARON: narození do 3/1915, oddaní 1917–11/1936 – narození Marie 1921 a sňatek 1939–40 tam nejsou (zřejmě na MÚ Náchod).",
+      "details": "Kolo BK (27. 11. 2026): ARON (SOA Zámrsk, Sbírka matrik Východočeského kraje) – Náchod a předměstí: NAR 106-7287 až 106-7290 (4/1899–3/1915), ODD 106-7295, 106-7296, 106-8171 (2/1897–11/1936), ZEM 106-8173 (1864–1936). Svazek narozených od 4/1915 a oddaných od 12/1936 v ARON není. Lhůty: narození 100 let, oddaní 75 let, ale kniha se předává až po uplynutí lhůty u posledního zápisu. Otevřené: obec narození Antonína na Podkarpatské Rusi (Čech tam v roce 1919 – rodina úředníka, četníka, železničáře, nebo kolonisté?), jeho rodiče; Mariini rodiče Zelení (jejich sňatek by mohl být v 106-8171, 1917–1920); možný odkaz v oddacím zápise 1939–40. Domněnka: příjezd do Benešova u Broumova 1945 = osídlování pohraničí po odsunu Němců. Návrh žádosti (koncept) v ROD-1.md, kolo BK.",
+      "related_ids": [
+        "antonin-flegl",
+        "marie-fleglova",
+        "libuse-spadtova"
+      ],
+      "sources": [
+        {
+          "label": "ARON – Náchod, oddaní 1917–1936 (106-8171)",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/e691c87d-a243-4bcf-9a2a-a6471b4034fd"
+        },
+        {
+          "label": "ARON – Náchod, narození 1909–1915 (106-7290)",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/5fb5f0cf-82ab-4069-8e9e-707add01750d"
+        },
+        {
+          "label": "A. Stejskal: Volyňští Češi na Broumovsku (Broumovské noviny, zvl. vydání)",
+          "url": "https://www.scvp.eu/downloads/Alexandr_Stejskal_-_Volynsti_Cesi_na_Broumovsku.pdf"
+        }
+      ]
     }
   ]
 }

@@ -198,15 +198,24 @@
       "id": "tadej-spadt",
       "name": "Tadej Špadt",
       "maiden": null,
-      "birth": null,
+      "birth": {
+        "display": "9. 6. 1931, Mereščev (Meryszczów, dnes Мерещів u Lvova)",
+        "date": "1931-06-09",
+        "precision": "exact",
+        "place": "Mereščev (Meryszczów)",
+        "note": "Sdělení Štěpána 27. 11. 2026; v matrice neověřeno."
+      },
       "baptism": null,
       "death": {
-        "display": "zemřel (datum z matriky není; k 22. 11. 2026 už nežil)",
-        "precision": "unknown"
+        "display": "23. 12. 2014, Broumov (nemocnice)",
+        "date": "2014-12-23",
+        "precision": "exact",
+        "place": "Broumov",
+        "note": "Sdělení Štěpána 27. 11. 2026; v matrice neověřeno."
       },
       "occupation": null,
       "places": [
-        "Ukrajina (rodinná paměť)",
+        "Mereščev (Meryszczów)",
         "Broumov"
       ],
       "branch": "spadt",
@@ -214,42 +223,66 @@
       "living": false,
       "sources": [
         {
-          "label": "Sdělení uživatele, 22.–23. 11. 2026",
-          "detail": "Rodinná paměť; matriční zápis v této práci není."
-        }
-      ],
-      "notes": [
-        "Otec Romany Jirmanové roz. Špadtové. Vztah je z rodinné paměti (sdělení uživatele 22.–23. 11. 2026), v matrice v této práci neověřen.",
-        "Původem z Ukrajiny — podle rodinné paměti.",
-        "Žil v Broumově. Datum úmrtí z matriky není; k 22. 11. 2026 už nežil."
-      ],
-      "interesting": []
-    },
-    {
-      "id": "libuse-spadtova",
-      "name": "Libuše Špadtová",
-      "maiden": "asi Fléglová",
-      "birth": null,
-      "baptism": null,
-      "death": null,
-      "occupation": null,
-      "places": [],
-      "branch": "spadt",
-      "certainty": "potvrzeno",
-      "living": true,
-      "sources": [
+          "label": "Sdělení Štěpána 27. 11. 2026",
+          "detail": "Rodinná paměť (sdělení rodiny); matriční ani úřední zápis v této práci zatím není."
+        },
         {
           "label": "Sdělení uživatele, 22.–23. 11. 2026",
           "detail": "Rodinná paměť; matriční zápis v této práci není."
         }
       ],
       "notes": [
-        "Matka Romany Jirmanové roz. Špadtové. Vztah je z rodinné paměti (sdělení uživatele 22.–23. 11. 2026), v matrice v této práci neověřen.",
-        "Rodné příjmení Fléglová (též uváděno Flégrová) je pravděpodobné, v matrice neověřeno.",
-        "K 22. 11. 2026 žije. U žijících osob se neuveřejňují adresy ani čísla domů.",
-        "Zmínka o možné sestře na Frýdecku je v paměti bez jména — osobu bez jména do stromu nepřidávám."
+        "Otec Romany Jirmanové roz. Špadtové. Data narození a úmrtí podle sdělení Štěpána 27. 11. 2026 (rodinná paměť), v matrice v této práci neověřena.",
+        "Rodiště Mereščev = ves Meryszczów (ukr. Мерещів), 6 km jižně od Přemyšlan (Przemyślany), v roce 1931 Polsko, vojvodství Tarnopol; dnes Lvovská oblast, Ukrajina.",
+        "Sourozenci podle rodinné paměti: Ludvík (*1936) a Kateřina Vincencová roz. Špadtová.",
+        "Kandidát na otce (Piotr Szpadt *14. 4. 1904 z německé kolonie Kimirz) je jen v otevřeném dotazu q-spadt-puvod – do stromu nepatří."
       ],
-      "interesting": []
+      "interesting": [
+        "Narodil se v roce 1931 v Polsku, v haličské vsi Meryszczów, kde žili převážně řeckokatoličtí Ukrajinci (1921: 515 řeckokatolíků, 81 římských katolíků, 18 Židů); zemřel v roce 2014 v Broumově – mezi rodištěm a místem úmrtí je asi 700 km a tři státní hranice."
+      ],
+      "aliases": [
+        "Tadeusz Szpadt (možný úřední/polský tvar, neověřeno)"
+      ]
+    },
+    {
+      "id": "libuse-spadtova",
+      "name": "Libuše Špadtová",
+      "maiden": "Fleglová",
+      "birth": {
+        "display": "1945, Náchod",
+        "precision": "year",
+        "place": "Náchod",
+        "note": "U žijící osoby jen rok. Sdělení Štěpána 27. 11. 2026."
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Náchod",
+        "Broumov"
+      ],
+      "branch": "spadt",
+      "certainty": "potvrzeno",
+      "living": true,
+      "sources": [
+        {
+          "label": "Sdělení Štěpána 27. 11. 2026",
+          "detail": "Rodinná paměť (sdělení rodiny); matriční ani úřední zápis v této práci zatím není."
+        },
+        {
+          "label": "Sdělení uživatele, 22.–23. 11. 2026",
+          "detail": "Rodinná paměť; matriční zápis v této práci není."
+        }
+      ],
+      "notes": [
+        "Matka Romany Jirmanové roz. Špadtové. Rodné příjmení Fleglová a rodiče Antonín Flegl a Marie roz. Zelená podle sdělení Štěpána 27. 11. 2026 (dříve uváděno „asi Fléglová/Flégrová“).",
+        "K 27. 11. 2026 žije. U žijících osob se neuveřejňují adresy, čísla domů ani přesná data narození.",
+        "Starší poznámka o „sestře na Frýdecku“ se podle sdělení 27. 11. 2026 nejspíš týká rodiny Ludvíka Špadta (bratr Tadeje, zemřel ve Frýdku-Místku)."
+      ],
+      "interesting": [],
+      "aliases": [
+        "Líba"
+      ]
     },
     {
       "id": "josef-jirman-1936",
@@ -9209,6 +9242,298 @@
         "Ve farnosti byly v 50. letech 18. století nejméně tři ženy jménem Eva Rosina spojené s rodem Seibertů – jedna Seibertová rozená, dvě provdané za Seiberty (171-2 snímky 108, 109, 111).",
         "Zemřela na souchotiny v 72 letech, patnáct let po manželovi, v tomtéž domě č. 13 (171-7 snímek 39; 171-9 snímek 49)."
       ]
+    },
+    {
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "asi 1936, u Mereščeva (Meryszczów)",
+        "precision": "circa",
+        "place": "Mereščev (Meryszczów)",
+        "note": "Sdělení Štěpána 27. 11. 2026; rok přibližný."
+      },
+      "occupation": null,
+      "places": [
+        "Mereščev (Meryszczów)"
+      ],
+      "branch": "spadt",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "Sdělení Štěpána 27. 11. 2026",
+          "detail": "Rodinná paměť (sdělení rodiny); matriční ani úřední zápis v této práci zatím není."
+        }
+      ],
+      "notes": [
+        "Otec Tadeje, Ludvíka a Kateřiny podle rodinné paměti (sdělení Štěpána 27. 11. 2026).",
+        "Podle rodinné paměti měl 3 bratry.",
+        "Zda je totožný s Piotrem Szpadtem *14. 4. 1904 z kolonie Kimirz (farnost Świrz), je otevřené – q-spadt-puvod."
+      ],
+      "interesting": [
+        "Podle rodinné paměti byl za 1. světové války v německém zajetí. Halič patřila do Rakouska-Uherska, takže jako rakouský voják mohl padnout do zajetí ruského nebo italského; „německé zajetí“ by spíš sedělo na válku polsko-sovětskou nebo na záměnu v paměti – nevyjasněno, viz q-spadt-puvod."
+      ],
+      "id": "petr-spadt",
+      "name": "Petr Špadt",
+      "aliases": [
+        "Piotr Szpadt (možný polský tvar)"
+      ]
+    },
+    {
+      "maiden": "Miśkiewicz (Miskevic)",
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [],
+      "branch": "spadt",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "Sdělení Štěpána 27. 11. 2026",
+          "detail": "Rodinná paměť (sdělení rodiny); matriční ani úřední zápis v této práci zatím není."
+        }
+      ],
+      "notes": [
+        "Matka Tadeje Špadta podle rodinné paměti (sdělení Štěpána 27. 11. 2026). Rodné příjmení zapsáno po sluchu „Miskevic“; polsky nejspíš Miśkiewicz, ukrajinsky Міськевич.",
+        "Po smrti Petra Špadta (asi 1936) se znovu vdala – poslední příjmení Chaloupková; jméno druhého manžela neznám, do stromu ho nedávám."
+      ],
+      "interesting": [
+        "Ovdověla kolem roku 1936 s malými dětmi (Ludvík se narodil v únoru 1936) a později se znovu vdala za muže s českým příjmením Chaloupka – možná právě to byla cesta rodiny do Československa (domněnka, viz q-spadt-puvod)."
+      ],
+      "id": "marie-chaloupkova",
+      "name": "Marie Chaloupková",
+      "aliases": [
+        "Marie Špadtová",
+        "Maria Miśkiewicz / Міськевич (možné tvary)"
+      ]
+    },
+    {
+      "maiden": null,
+      "birth": {
+        "display": "2. 2. 1936, Mereščev (Meryszczów)",
+        "date": "1936-02-02",
+        "precision": "exact",
+        "place": "Mereščev (Meryszczów)",
+        "note": "Sdělení Štěpána 27. 11. 2026 (zapsáno též „Meteščev“)."
+      },
+      "baptism": null,
+      "death": {
+        "display": "asi 2000, Frýdek-Místek",
+        "precision": "circa",
+        "place": "Frýdek-Místek",
+        "note": "Sdělení Štěpána 27. 11. 2026."
+      },
+      "occupation": null,
+      "places": [
+        "Mereščev (Meryszczów)",
+        "Frýdek-Místek"
+      ],
+      "branch": "spadt",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "Sdělení Štěpána 27. 11. 2026",
+          "detail": "Rodinná paměť (sdělení rodiny); matriční ani úřední zápis v této práci zatím není."
+        }
+      ],
+      "notes": [
+        "Bratr Tadeje Špadta podle rodinné paměti (sdělení Štěpána 27. 11. 2026)."
+      ],
+      "interesting": [],
+      "id": "ludvik-spadt",
+      "name": "Ludvík Špadt"
+    },
+    {
+      "maiden": null,
+      "birth": {
+        "display": "asi 1940",
+        "precision": "circa",
+        "note": "U žijící osoby jen rok. Sdělení Štěpána 27. 11. 2026."
+      },
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [],
+      "branch": "spadt",
+      "certainty": "potvrzeno",
+      "living": true,
+      "sources": [
+        {
+          "label": "Sdělení Štěpána 27. 11. 2026",
+          "detail": "Rodinná paměť (sdělení rodiny); matriční ani úřední zápis v této práci zatím není."
+        }
+      ],
+      "notes": [
+        "Manželka Ludvíka Špadta podle sdělení Štěpána 27. 11. 2026. Rodné příjmení neznámé.",
+        "K 27. 11. 2026 žije – bez adresy a přesného data."
+      ],
+      "interesting": [],
+      "id": "ruzena-spadtova",
+      "name": "Růžena Špadtová"
+    },
+    {
+      "maiden": "Špadtová",
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "před rokem 2012, snad Horní Jelení",
+        "precision": "unknown",
+        "place": "Horní Jelení",
+        "note": "Sdělení Štěpána 27. 11. 2026; místo nejisté („asi“)."
+      },
+      "occupation": null,
+      "places": [],
+      "branch": "spadt",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "Sdělení Štěpána 27. 11. 2026",
+          "detail": "Rodinná paměť (sdělení rodiny); matriční ani úřední zápis v této práci zatím není."
+        }
+      ],
+      "notes": [
+        "Sestra Tadeje Špadta podle sdělení Štěpána 27. 11. 2026.",
+        "Místo úmrtí Horní Jelení je jen pravděpodobné, proto ho v mapě nezaměřuji."
+      ],
+      "interesting": [],
+      "id": "katerina-vincencova",
+      "name": "Kateřina Vincencová"
+    },
+    {
+      "maiden": null,
+      "birth": {
+        "display": "8. 6. 1919, Podkarpatská Rus",
+        "date": "1919-06-08",
+        "precision": "exact",
+        "place": "Podkarpatská Rus",
+        "note": "Sdělení Štěpána 27. 11. 2026; obec není známa."
+      },
+      "baptism": null,
+      "death": {
+        "display": "22. 11. 1997 (datum nejisté), Náchod (nemocnice)",
+        "date": "1997-11-22",
+        "precision": "circa",
+        "place": "Náchod",
+        "note": "Sdělení Štěpána 27. 11. 2026; datum úmrtí rodina uvádí s otazníkem."
+      },
+      "occupation": null,
+      "places": [
+        "Náchod",
+        "Benešov u Broumova"
+      ],
+      "branch": "spadt",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "Sdělení Štěpána 27. 11. 2026",
+          "detail": "Rodinná paměť (sdělení rodiny); matriční ani úřední zápis v této práci zatím není."
+        }
+      ],
+      "notes": [
+        "Otec Libuše Špadtové roz. Fleglové podle sdělení Štěpána 27. 11. 2026.",
+        "Od roku 1945 žil v Benešově u Broumova (číslo domu na webu neuvádím)."
+      ],
+      "interesting": [
+        "Narodil se v červnu 1919 na Podkarpatské Rusi – v roce, kdy se toto území podle saint-germainské smlouvy (10. 9. 1919) stalo součástí Československa. V roce 1945 se usadil v Benešově u Broumova, do vsi vysídlených Němců (německy Strassenau), kam v únoru 1947 přišli i volyňští Češi."
+      ],
+      "id": "antonin-flegl",
+      "name": "Antonín Flegl"
+    },
+    {
+      "maiden": "Zelená",
+      "birth": {
+        "display": "21. 3. 1921, pravděpodobně Náchod",
+        "date": "1921-03-21",
+        "precision": "exact",
+        "place": "Náchod",
+        "note": "Sdělení Štěpána 27. 11. 2026; místo pravděpodobné."
+      },
+      "baptism": null,
+      "death": {
+        "display": "datum úmrtí neznámé",
+        "precision": "unknown"
+      },
+      "occupation": null,
+      "places": [
+        "Náchod",
+        "Benešov u Broumova"
+      ],
+      "branch": "spadt",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "Sdělení Štěpána 27. 11. 2026",
+          "detail": "Rodinná paměť (sdělení rodiny); matriční ani úřední zápis v této práci zatím není."
+        }
+      ],
+      "notes": [
+        "Matka Libuše Špadtové podle sdělení Štěpána 27. 11. 2026.",
+        "Náchodské římskokatolické matriky narozených jsou v ARON jen do 3/1915 (106-7290); svazek s rokem 1921 je zřejmě stále na matričním úřadě Náchod."
+      ],
+      "interesting": [],
+      "id": "marie-fleglova",
+      "name": "Marie Fleglová"
+    },
+    {
+      "maiden": "Fleglová",
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "asi před covidem (před 2020)",
+        "precision": "circa",
+        "note": "Sdělení Štěpána 27. 11. 2026."
+      },
+      "occupation": null,
+      "places": [],
+      "branch": "spadt",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "Sdělení Štěpána 27. 11. 2026",
+          "detail": "Rodinná paměť (sdělení rodiny); matriční ani úřední zápis v této práci zatím není."
+        }
+      ],
+      "notes": [
+        "Dcera Antonína Flegla a Marie roz. Zelené podle sdělení Štěpána 27. 11. 2026."
+      ],
+      "interesting": [],
+      "id": "dagmar-pollecova",
+      "name": "Dagmar Pollečová"
+    },
+    {
+      "maiden": "Fleglová",
+      "birth": null,
+      "baptism": null,
+      "death": {
+        "display": "2026",
+        "precision": "year",
+        "note": "Sdělení Štěpána 27. 11. 2026."
+      },
+      "occupation": null,
+      "places": [],
+      "branch": "spadt",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "Sdělení Štěpána 27. 11. 2026",
+          "detail": "Rodinná paměť (sdělení rodiny); matriční ani úřední zápis v této práci zatím není."
+        }
+      ],
+      "notes": [
+        "Dcera Antonína Flegla a Marie roz. Zelené podle sdělení Štěpána 27. 11. 2026."
+      ],
+      "interesting": [],
+      "id": "jaroslava-rybenska",
+      "name": "Jaroslava Rybenská"
     }
   ],
   "unions": [
@@ -9238,19 +9563,24 @@
         "romana-spadtova-1971"
       ],
       "married": {
-        "display": "asi na Broumovsku",
-        "precision": "unknown",
-        "note": "Místo sňatku jen z rodinné paměti, datum není. Pravděpodobné."
+        "display": "červenec 1972, Broumov",
+        "precision": "month",
+        "date": "1972-07",
+        "place": "Broumov",
+        "note": "Sdělení Štěpána 27. 11. 2026; oddací zápis v této práci není."
       },
       "certainty": "potvrzeno",
       "sources": [
+        {
+          "label": "Sdělení Štěpána 27. 11. 2026"
+        },
         {
           "label": "Sdělení uživatele, 22.–23. 11. 2026"
         }
       ],
       "notes": [
-        "Rodičovství Romany je z rodinné paměti, v matrice v této práci neověřeno.",
-        "Sňatek „asi na Broumovsku“ je pravděpodobný; datum není."
+        "Sňatek červenec 1972 v Broumově podle sdělení Štěpána 27. 11. 2026; oddací zápis (matriční úřad Broumov) v této práci není.",
+        "Romana je uváděna s narozením cca 4. 2. 1971, tedy před sňatkem – nejde o chybu dat, jen o pořadí, které rodinná paměť nevysvětluje; lze ověřit oddacím listem."
       ]
     },
     {
@@ -12371,6 +12701,68 @@
           "apu": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922/dao/ae8057d2-4543-4429-836f-2da5eee0f922/file/afcd7197-1492-4664-9ba2-25452d0b4927"
         }
       ]
+    },
+    {
+      "id": "u-petr-marie-spadt",
+      "partners": [
+        "petr-spadt",
+        "marie-chaloupkova"
+      ],
+      "children": [
+        "tadej-spadt",
+        "ludvik-spadt",
+        "katerina-vincencova"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "Sdělení Štěpána 27. 11. 2026"
+        }
+      ],
+      "notes": [
+        "Rodiče a sourozenci podle rodinné paměti (sdělení Štěpána 27. 11. 2026); matriky z Meryszczówa/Przemyślan v této práci zatím nejsou."
+      ]
+    },
+    {
+      "id": "u-ludvik-ruzena",
+      "partners": [
+        "ludvik-spadt",
+        "ruzena-spadtova"
+      ],
+      "children": [],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "Sdělení Štěpána 27. 11. 2026"
+        }
+      ]
+    },
+    {
+      "id": "u-antonin-marie-flegl",
+      "partners": [
+        "antonin-flegl",
+        "marie-fleglova"
+      ],
+      "children": [
+        "libuse-spadtova",
+        "dagmar-pollecova",
+        "jaroslava-rybenska"
+      ],
+      "certainty": "potvrzeno",
+      "sources": [
+        {
+          "label": "Sdělení Štěpána 27. 11. 2026"
+        }
+      ],
+      "married": {
+        "display": "asi 1939–1940, Náchod",
+        "precision": "circa",
+        "place": "Náchod",
+        "note": "Sdělení Štěpána 27. 11. 2026; oddací zápis v této práci není."
+      },
+      "notes": [
+        "Náchodská oddací matrika v ARON končí 11/1936 (106-8171, 1917–1936); sňatek 1939–1940 je v následujícím svazku, zřejmě na matričním úřadě Náchod."
+      ]
     }
   ],
   "identifications": [],
@@ -14455,6 +14847,58 @@
           "signatura": "171-2",
           "detail": "snímek 16",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922/dao/ae8057d2-4543-4429-836f-2da5eee0f922/file/bafeadd5-121d-4987-a2f3-f5814c3b7cb4"
+        }
+      ]
+    },
+    {
+      "id": "q-spadt-puvod",
+      "title": "Špadtovi z Meryszczówa: původ Petra Špadta a cesta rodiny do Československa",
+      "summary": "Rodina podle sdělení 27. 11. 2026 z Mereščeva (Meryszczów u Przemyślan). Silný kandidát na příbuzenstvo: Spadtovi z německé josefínské kolonie Kimirz (farnost Świrz, ~20 km) – Piotr Schpadt/Szpadt *14. 4. 1904, syn Marcina × Elżbiety Leicht, bratři Ferdynand *1900, Jan, Adam, Marcin (Geneteka). Ztotožnění s Petrem Špadtem neověřeno.",
+      "details": "Kolo BK (27. 11. 2026). Geneteka (Ukrajina, příjmení Spadt/Szpadt): narození Kimirz/Świrz – Ferdynand 28. 11. 1900, Piotr 14. 4. 1904 (rodiče Marcin Spadt × Elżbieta Leicht); sňatky Jan 1919 (akt 8, × Agnieszka Treffler), Adam 1921 (akt 5, × Maria Treffler), Marcin 1934 (akt 7, × Anna Spadt). Rodinná paměť: Petr měl 3 bratry – sedí na Piotra 1904 (Ferdynand, Jan, Adam, Marcin = 4 jména, ale ne všichni museli žít). Rozpor: Piotr *1904 nemohl být v 1. světové válce v zajetí; zajetí se může týkat otce Marcina nebo jde o válku polsko-sovětskou 1920. Miśkiewicz: v Geneteka v okolních farnostech bez nálezu. Prameny: ЦДІАЛ Lvov fond 618 op. 2 (ř.-kat.): sprava 3103 (Świrz 1901–1913), 3104 (Świrz 1925–1937), 3154 (sňatky Kimirz/Niedzieliska 1895–1939), 3203 (sňatky Świrz 1928–1940); Niedzieliska (Неділиська) přímo sousedí s Meryszczówem. Řeckokatolické matriky Meryszczów: ЦДІАЛ fond 201 op. 4a, 33 sprav 1784–1944, 31 digitalizováno (uaroots.com.ua/misce/lvivska/mereshchiv-27327; archium.tsdial.archives.gov.ua). Polské lhůty: narození 100 let, sňatky a úmrtí 80 let. Otevřené: (a) ř.-kat. farnost Meryszczówa 1931 (Przemyślany?/Świrz?) a křest Tadeje 9. 6. 1931; (b) kdy a jak rodina přišla do ČSR – reemigrace 1946–47? Galicijští Němci byli 1940 přesídleni do Warthegau (Umsiedlung), Spadtovi jako Němci by mohli jít touto cestou – domněnka; druhý sňatek Marie s Chaloupkou (české příjmení) ukazuje spíš na reemigraci s Čechy – domněnka; (c) ověřit u MÚ Broumov úmrtní list Tadeje 2014 (uvádí rodiště a rodiče).",
+      "related_ids": [
+        "tadej-spadt",
+        "petr-spadt",
+        "marie-chaloupkova",
+        "ludvik-spadt",
+        "katerina-vincencova"
+      ],
+      "sources": [
+        {
+          "label": "Geneteka – Spadt, Ukrajina",
+          "url": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&w=21uk&rid=B&search_lastname=Spadt"
+        },
+        {
+          "label": "UaRoots – Мерещів, katalog matrik",
+          "url": "https://uaroots.com.ua/misce/lvivska/mereshchiv-27327"
+        },
+        {
+          "label": "Wikidata Q4290845 – Мерещів",
+          "url": "https://www.wikidata.org/wiki/Q4290845"
+        }
+      ]
+    },
+    {
+      "id": "q-flegl-puvod",
+      "title": "Antonín Flegl (*1919 Podkarpatská Rus) a Marie Zelená (*1921 Náchod): doklady",
+      "summary": "Údaje jen ze sdělení 27. 11. 2026. Náchodské ř.-kat. matriky v ARON: narození do 3/1915, oddaní 1917–11/1936 – narození Marie 1921 a sňatek 1939–40 tam nejsou (zřejmě na MÚ Náchod).",
+      "details": "Kolo BK (27. 11. 2026): ARON (SOA Zámrsk, Sbírka matrik Východočeského kraje) – Náchod a předměstí: NAR 106-7287 až 106-7290 (4/1899–3/1915), ODD 106-7295, 106-7296, 106-8171 (2/1897–11/1936), ZEM 106-8173 (1864–1936). Svazek narozených od 4/1915 a oddaných od 12/1936 v ARON není. Lhůty: narození 100 let, oddaní 75 let, ale kniha se předává až po uplynutí lhůty u posledního zápisu. Otevřené: obec narození Antonína na Podkarpatské Rusi (Čech tam v roce 1919 – rodina úředníka, četníka, železničáře, nebo kolonisté?), jeho rodiče; Mariini rodiče Zelení (jejich sňatek by mohl být v 106-8171, 1917–1920); možný odkaz v oddacím zápise 1939–40. Domněnka: příjezd do Benešova u Broumova 1945 = osídlování pohraničí po odsunu Němců. Návrh žádosti (koncept) v ROD-1.md, kolo BK.",
+      "related_ids": [
+        "antonin-flegl",
+        "marie-fleglova",
+        "libuse-spadtova"
+      ],
+      "sources": [
+        {
+          "label": "ARON – Náchod, oddaní 1917–1936 (106-8171)",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/e691c87d-a243-4bcf-9a2a-a6471b4034fd"
+        },
+        {
+          "label": "ARON – Náchod, narození 1909–1915 (106-7290)",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/5fb5f0cf-82ab-4069-8e9e-707add01750d"
+        },
+        {
+          "label": "A. Stejskal: Volyňští Češi na Broumovsku (Broumovské noviny, zvl. vydání)",
+          "url": "https://www.scvp.eu/downloads/Alexandr_Stejskal_-_Volynsti_Cesi_na_Broumovsku.pdf"
         }
       ]
     }
