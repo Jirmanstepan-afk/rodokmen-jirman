@@ -8717,6 +8717,832 @@
    ],
    "plyne": "V dubnu 1783 zemřelo Daußerovým nouzově pokřtěné dítě a o měsíc později i matka Alžběta, které bylo 30 let.",
    "src": "img/zdroje/141-7599_s657_velky.jpg"
+  },
+  {
+   "key": "171-4|15",
+   "title": "Křest Antona Proße – Benátky č. 6, 16. dubna 1828",
+   "zdroj": "SOA Zámrsk, sign. 171-4, snímek 15",
+   "crop": [
+    0,
+    0,
+    2000,
+    565
+   ],
+   "entry": [
+    20,
+    0,
+    1980,
+    520
+   ],
+   "marks": [
+    {
+     "box": [
+      [
+       30,
+       25,
+       180,
+       85
+      ],
+      [
+       25,
+       105,
+       105,
+       155
+      ]
+     ],
+     "lat": "April 16",
+     "cs": "16. dubna (1828)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      140,
+      105,
+      190,
+      155
+     ],
+     "lat": "6",
+     "cs": "dům č. 6",
+     "pos": "top"
+    },
+    {
+     "box": [
+      230,
+      75,
+      410,
+      200
+     ],
+     "lat": "Anton Proß",
+     "cs": "Anton Proß",
+     "pos": "top"
+    },
+    {
+     "box": [
+      680,
+      40,
+      850,
+      230
+     ],
+     "lat": "Joseph Proß Gärtner",
+     "cs": "otec Josef Proß, zahradník",
+     "pos": "top"
+    },
+    {
+     "box": [
+      900,
+      25,
+      1350,
+      215
+     ],
+     "lat": "Agatha Wittib nach dem † Joseph Paibrt(?) Müller",
+     "cs": "matka Agatha, vdova po † Josefu Pibrtovi(?), mlynáři",
+     "nejiste": true
+    },
+    {
+     "box": [
+      200,
+      450,
+      725,
+      505
+     ],
+     "lat": "… Taufschein … Mai 1858",
+     "cs": "poznámka: křestní list vydán v květnu 1858",
+     "nejiste": true
+    },
+    {
+     "box": [
+      1680,
+      505,
+      1900,
+      560
+     ],
+     "lat": "1828",
+     "cs": "rok 1828"
+    }
+   ],
+   "plyne": "Anton se narodil 16. dubna 1828 v Benátkách č. 6 zahradníku Josefu Proßovi a Agathě. Poznámka dole ukazuje, že si křestní list vyzvedl v roce 1858, krátce před svatbou.",
+   "src": "img/zdroje/171-4_s015_velky.jpg"
+  },
+  {
+   "key": "171-4|5",
+   "title": "Sňatek vdovce Josefa Proße a vdovy Agathy – Benátky č. 6, 5. srpna 1823",
+   "zdroj": "SOA Zámrsk, sign. 171-4, snímek 5",
+   "crop": [
+    0,
+    0,
+    2000,
+    430
+   ],
+   "entry": [
+    0,
+    60,
+    1990,
+    425
+   ],
+   "marks": [
+    {
+     "box": [
+      840,
+      20,
+      1040,
+      85
+     ],
+     "lat": "1823",
+     "cs": "rok 1823",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       5,
+       65,
+       75,
+       200
+      ],
+      [
+       115,
+       170,
+       150,
+       205
+      ]
+     ],
+     "lat": "August 5. 6",
+     "cs": "5. srpna, dům č. 6",
+     "pos": "top"
+    },
+    {
+     "box": [
+      175,
+      80,
+      465,
+      305
+     ],
+     "lat": "Joseph Proß Gärtner Wittiber",
+     "cs": "ženich Josef Proß, zahradník, vdovec",
+     "pos": "top"
+    },
+    {
+     "box": [
+      595,
+      160,
+      665,
+      210
+     ],
+     "lat": "37",
+     "cs": "37 let"
+    },
+    {
+     "box": [
+      810,
+      90,
+      1060,
+      280
+     ],
+     "lat": "Agatha Wittib nach dem † Joseph …",
+     "cs": "nevěsta Agatha, vdova po † Josefovi …",
+     "nejiste": true
+    },
+    {
+     "box": [
+      1195,
+      185,
+      1240,
+      230
+     ],
+     "lat": "35",
+     "cs": "35 let"
+    },
+    {
+     "box": [
+      1400,
+      50,
+      1800,
+      370
+     ],
+     "lat": "Franz Pibrt(?) … Müller",
+     "cs": "svědek mimo jiné mlynář Franz Pibrt(?)",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Josef Proß si 5. srpna 1823 jako 37letý vdovec vzal 35letou vdovu Agathu. Oba tedy předtím o partnera přišli.",
+   "src": "img/zdroje/171-4_s005_velky.jpg"
+  },
+  {
+   "key": "171-4|25",
+   "title": "Úmrtí v Benátkách 1821–1822: mlynář Josef Pibrt, Barbara Proßová a syn Ignaz",
+   "zdroj": "SOA Zámrsk, sign. 171-4, snímek 25",
+   "crop": [
+    0,
+    600,
+    1794,
+    1620
+   ],
+   "entry": [
+    0,
+    700,
+    1794,
+    1590
+   ],
+   "marks": [
+    {
+     "box": [
+      240,
+      725,
+      820,
+      820
+     ],
+     "lat": "Joseph ehl. Sohn des Joseph Proß Gärtner",
+     "cs": "Josef, manž. syn zahradníka Josefa Proße (1821)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1110,
+      745,
+      1200,
+      790
+     ],
+     "lat": "1 Tag",
+     "cs": "1 den"
+    },
+    {
+     "box": [
+      880,
+      995,
+      1040,
+      1055
+     ],
+     "lat": "1822",
+     "cs": "rok 1822",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       60,
+       1005,
+       210,
+       1055
+      ],
+      [
+       90,
+       1085,
+       190,
+       1135
+      ]
+     ],
+     "lat": "September 6. 4",
+     "cs": "6. září, dům č. 4",
+     "pos": "top"
+    },
+    {
+     "box": [
+      240,
+      1065,
+      750,
+      1125
+     ],
+     "lat": "Joseph Pibrt Müller",
+     "cs": "Josef Pibrt, mlynář"
+    },
+    {
+     "box": [
+      1085,
+      1075,
+      1150,
+      1125
+     ],
+     "lat": "65",
+     "cs": "65 let"
+    },
+    {
+     "box": [
+      1220,
+      1075,
+      1730,
+      1135
+     ],
+     "lat": "an der Abzehrung",
+     "cs": "na úbytě"
+    },
+    {
+     "box": [
+      [
+       70,
+       1215,
+       190,
+       1280
+      ],
+      [
+       240,
+       1210,
+       860,
+       1325
+      ]
+     ],
+     "lat": "7. 6. Barbara Weib des Joseph Proß Gärtner",
+     "cs": "7. září, č. 6: Barbara, žena zahradníka Josefa Proße"
+    },
+    {
+     "box": [
+      1075,
+      1265,
+      1150,
+      1315
+     ],
+     "lat": "35",
+     "cs": "35 let"
+    },
+    {
+     "box": [
+      1215,
+      1270,
+      1720,
+      1330
+     ],
+     "lat": "im Kindbett…",
+     "cs": "v šestinedělí",
+     "nejiste": true
+    },
+    {
+     "box": [
+      240,
+      1400,
+      860,
+      1500
+     ],
+     "lat": "Ignaz ehl. Sohn des Joseph Proß Gärtner",
+     "cs": "Ignaz, manž. syn zahradníka Josefa Proße"
+    },
+    {
+     "box": [
+      1070,
+      1430,
+      1175,
+      1480
+     ],
+     "lat": "2½ Std.",
+     "cs": "2½ hodiny"
+    }
+   ],
+   "plyne": "Mlynář Josef Pibrt zemřel 6. září 1822, o den později Josefova žena Barbara v šestinedělí a její novorozený syn žil jen pár hodin. Tím ovdověli Josef Proß i Agatha a o rok později se vzali.",
+   "src": "img/zdroje/171-4_s025_velky.jpg"
+  },
+  {
+   "key": "171-3|78",
+   "title": "Křest Franze Josepha Proße – Benátky č. 6, 22. července 1786",
+   "zdroj": "SOA Zámrsk, sign. 171-3, snímek 78",
+   "crop": [
+    0,
+    940,
+    1338,
+    1400
+   ],
+   "entry": [
+    0,
+    1190,
+    1338,
+    1395
+   ],
+   "marks": [
+    {
+     "box": [
+      40,
+      950,
+      150,
+      1025
+     ],
+     "lat": "Anno 1786",
+     "cs": "roku 1786",
+     "pos": "top"
+    },
+    {
+     "box": [
+      40,
+      1250,
+      140,
+      1320
+     ],
+     "lat": "Julius 22",
+     "cs": "22. července"
+    },
+    {
+     "box": [
+      170,
+      1285,
+      200,
+      1325
+     ],
+     "lat": "6",
+     "cs": "dům č. 6"
+    },
+    {
+     "box": [
+      240,
+      1265,
+      365,
+      1350
+     ],
+     "lat": "Franz Joseph",
+     "cs": "František Josef"
+    },
+    {
+     "box": [
+      700,
+      1250,
+      820,
+      1335
+     ],
+     "lat": "Andreas Proß",
+     "cs": "otec Andreas Proß"
+    },
+    {
+     "box": [
+      860,
+      1255,
+      985,
+      1305
+     ],
+     "lat": "Katharina",
+     "cs": "matka Katharina"
+    }
+   ],
+   "plyne": "V č. 6 v Benátkách se 22. července 1786 narodil Franz Joseph, syn Andrease Proße a Kathariny. Podle prvního sňatku z roku 1808 jde o našeho Josefa.",
+   "src": "img/zdroje/171-3_s078_velky.jpg"
+  },
+  {
+   "key": "171-2|109",
+   "title": "Franciscus Proß z Gießhüblu jako svědek – oddací kniha, 1. června 1756",
+   "zdroj": "SOA Zámrsk, sign. 171-2, snímek 109",
+   "crop": [
+    0,
+    120,
+    1836,
+    450
+   ],
+   "entry": [
+    20,
+    150,
+    1836,
+    410
+   ],
+   "marks": [
+    {
+     "box": [
+      55,
+      150,
+      220,
+      190
+     ],
+     "lat": "Die 1. Junii",
+     "cs": "dne 1. června (1756)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      827,
+      323,
+      1727,
+      365
+     ],
+     "lat": "Testes Franciscus Proß hortulanus",
+     "cs": "svědci: Franciscus Proß, zahradník"
+    },
+    {
+     "box": [
+      55,
+      363,
+      230,
+      405
+     ],
+     "lat": "in Gießhübel",
+     "cs": "z Gießhüblu",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Franciscus Proß je tu jen svědkem na cizí svatbě. Je zapsán jako zahradník z Gießhüblu, ne z Benátek č. 6, takže to nemusí být náš Franz.",
+   "src": "img/zdroje/171-2_s109_velky.jpg"
+  },
+  {
+   "key": "171-9|41",
+   "title": "Úmrtí Andrease Proße a jeho posmrtného syna – Benátky č. 6, 1787–1788",
+   "zdroj": "SOA Zámrsk, sign. 171-9, snímek 41",
+   "crop": [
+    0,
+    800,
+    1500,
+    1470
+   ],
+   "entry": [
+    0,
+    1080,
+    1450,
+    1460
+   ],
+   "marks": [
+    {
+     "box": [
+      0,
+      818,
+      108,
+      920
+     ],
+     "lat": "Anno 1787",
+     "cs": "roku 1787",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       0,
+       1088,
+       108,
+       1180
+      ],
+      [
+       125,
+       1118,
+       155,
+       1152
+      ]
+     ],
+     "lat": "December 30 · 6",
+     "cs": "30. prosince, dům č. 6"
+    },
+    {
+     "box": [
+      208,
+      1103,
+      465,
+      1160
+     ],
+     "lat": "Andreas Proß",
+     "cs": "Andreas Proß",
+     "pos": "top"
+    },
+    {
+     "box": [
+      995,
+      1103,
+      1050,
+      1137
+     ],
+     "lat": "24",
+     "cs": "24 let",
+     "pos": "top"
+    },
+    {
+     "box": [
+      0,
+      1218,
+      108,
+      1315
+     ],
+     "lat": "Anno 1788",
+     "cs": "roku 1788"
+    },
+    {
+     "box": [
+      [
+       0,
+       1335,
+       93,
+       1415
+      ],
+      [
+       130,
+       1388,
+       162,
+       1422
+      ]
+     ],
+     "lat": "Majus 7 · 6",
+     "cs": "7. května, dům č. 6"
+    },
+    {
+     "box": [
+      208,
+      1365,
+      556,
+      1445
+     ],
+     "lat": "Andreas Sohn nach dem Andreas Proß",
+     "cs": "Andreas, syn po (zemřelém) Andreasi Proßovi"
+    },
+    {
+     "box": [
+      1150,
+      1365,
+      1250,
+      1415
+     ],
+     "lat": "Fraß",
+     "cs": "psotník"
+    }
+   ],
+   "plyne": "Andreas Proß zemřel 30. prosince 1787, bylo mu 24 let. Jeho syn, narozený už po otcově smrti, zemřel 7. května 1788 na psotník.",
+   "src": "img/zdroje/171-9_s041_velky.jpg"
+  },
+  {
+   "key": "171-2797|26",
+   "title": "Sňatek Friedricha Neugebauera a vdovy Kathariny Proßové – Malý Uhřínov, 3. června 1788",
+   "zdroj": "SOA Zámrsk, sign. 171-2797, snímek 26",
+   "crop": [
+    0,
+    0,
+    1500,
+    463
+   ],
+   "entry": [
+    100,
+    260,
+    1500,
+    440
+   ],
+   "marks": [
+    {
+     "box": [
+      128,
+      60,
+      225,
+      158
+     ],
+     "lat": "Anno 1788",
+     "cs": "roku 1788",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       128,
+       270,
+       225,
+       352
+      ],
+      [
+       265,
+       315,
+       290,
+       350
+      ]
+     ],
+     "lat": "Junius 3 · 1",
+     "cs": "3. června, dům č. 1"
+    },
+    {
+     "box": [
+      308,
+      308,
+      465,
+      390
+     ],
+     "lat": "Friedrich Neugebauer",
+     "cs": "ženich Friedrich Neugebauer"
+    },
+    {
+     "box": [
+      562,
+      322,
+      600,
+      360
+     ],
+     "lat": "29",
+     "cs": "29 let"
+    },
+    {
+     "box": [
+      720,
+      308,
+      840,
+      390
+     ],
+     "lat": "Katharina Proßin",
+     "cs": "nevěsta Katharina Proßová"
+    },
+    {
+     "box": [
+      1027,
+      322,
+      1072,
+      360
+     ],
+     "lat": "26",
+     "cs": "26 let"
+    },
+    {
+     "box": [
+      1135,
+      315,
+      1160,
+      360
+     ],
+     "lat": "1",
+     "cs": "v kolonce vdova",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1185,
+      278,
+      1500,
+      412
+     ],
+     "lat": "Friedrich Abel Richter …",
+     "cs": "svědci, mezi nimi rychtář Friedrich Abel",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Vdova Katharina Proßová (26) se 3. června 1788 znovu vdala za svobodného Friedricha Neugebauera (29), pět měsíců po smrti Andrease Proße.",
+   "src": "img/zdroje/171-2797_s026_velky.jpg"
+  },
+  {
+   "key": "171-3|51",
+   "title": "Křest Agathy, dcery Ignaze Becka – Malý Uhřínov, únor 1788",
+   "zdroj": "SOA Zámrsk, sign. 171-3, snímek 51",
+   "crop": [
+    0,
+    1000,
+    1600,
+    1409
+   ],
+   "entry": [
+    20,
+    1320,
+    1600,
+    1409
+   ],
+   "marks": [
+    {
+     "box": [
+      48,
+      1020,
+      200,
+      1105
+     ],
+     "lat": "Anno 1788",
+     "cs": "roku 1788",
+     "pos": "top"
+    },
+    {
+     "box": [
+      50,
+      1333,
+      183,
+      1383
+     ],
+     "lat": "Februarius",
+     "cs": "únor",
+     "pos": "top"
+    },
+    {
+     "box": [
+      250,
+      1370,
+      308,
+      1409
+     ],
+     "lat": "34",
+     "cs": "dům č. 34",
+     "nejiste": true,
+     "pos": "top"
+    },
+    {
+     "box": [
+      342,
+      1360,
+      483,
+      1409
+     ],
+     "lat": "Agatha",
+     "cs": "Agatha",
+     "pos": "top"
+    },
+    {
+     "box": [
+      940,
+      1325,
+      1050,
+      1409
+     ],
+     "lat": "Ignatz Be…",
+     "cs": "otec Ignaz Beck",
+     "nejiste": true,
+     "pos": "top"
+    },
+    {
+     "box": [
+      1083,
+      1333,
+      1242,
+      1375
+     ],
+     "lat": "Katharina",
+     "cs": "matka Katharina",
+     "pos": "top"
+    }
+   ],
+   "plyne": "Agatha byla pokřtěna v únoru 1788 jako dcera Ignaze Becka a Kathariny. Zápis leží na samém spodku strany a snímek ho uřízl, den a dolní řádek tu proto vidět nejsou.",
+   "src": "img/zdroje/171-3_s051_velky.jpg"
   }
  ]
 }
