@@ -20,6 +20,8 @@ Zajímavost: Václav Winter byl při svatbě v roce 1793 i při křtu Františka
 
 > Domněnka: Marie Anna a Rosina jsou táž žena, rozená Klimschová. V zápisech z let 1793, 1797 a 1799 se Václavova žena jmenuje Rozina Klimšová a „Marie Anna“ z roku 1794 je jediná výjimka. Pak by Františkovým dědem z matčiny strany byl Jan Klimš z č. 5 polického panství [?q-hruby-ventr-predci].
 
+Rozinin křest jsem hledal v polickém rejstříku narozených (130-42, písmeno K, roky 1755–1770). Podle věku 31 let při svatbě v roce 1793 se narodila kolem roku 1762. Žádná Rosina Klimschová tam není. Rejstřík ale odlišuje rodinu Klimšů od Klímů, a obě Rosiny Klímovy z té doby jsem v matrice ověřil. Rosina Anna pokřtěná 7. března 1759 v Ledhujích byla dcerou Melichara Klímy,[^130-5/57: křest Rosiny Anny Klymové 7. 3. 1759, Ledhuje – otec Melchior Klyma, vyloučeno] Rosina pokřtěná 23. srpna 1760 ve Žďáru dcerou Jakuba Klímy.[^130-5/72: křest Rosiny Klymové 23. 8. 1760, Žďár – otec Jacob Klyma, vyloučeno] Ani jedna tedy není dcerou Jana Klimše. Rozina se mohla narodit mimo polickou farnost, nebo ji rejstřík vynechal.
+
 > Domněnka: Wenzel Winter, který 14. března 1797 zemřel v Ledhujích č. 2 ve věku 67 let na souchotiny (Lungensucht),[^130-17/48: úmrtí Wenzela Wintera 14. 3. 1797, Ledhuje č. 2, 67 let, Lungensucht] by mohl být otcem Václava. Dům ani věk při sňatku 1793 to ale nepotvrzují, proto zůstává mimo mapu [?q-hruby-ventr-predci].
 
 ![130-17/48] Úmrtí Wenzela Wintera 14. března 1797 v Ledhujích č. 2, 67 let, na souchotiny.

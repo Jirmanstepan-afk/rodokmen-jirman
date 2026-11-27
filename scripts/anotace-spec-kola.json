@@ -823,6 +823,128 @@
     }
    ],
    "plyne": "Hronovský rejstřík zemřelých odkazuje na zápis úmrtí Doroty Špačkové 10. 8. 1856 ve Vysoké Srbské, kniha IV, strana 23 – podle něj byl dohledán zápis v knize 53-4174."
+  },
+  {
+   "key": "130-5|57",
+   "src": "img/zdroje/130-5_s057_velky.jpg",
+   "title": "Křest Rosiny Anny Klymové – Ledhuje, 7. 3. 1759 (vyloučeno)",
+   "zdroj": "SOA Zámrsk, sign. 130-5, snímek 57",
+   "crop": [
+    0,
+    0,
+    2000,
+    260
+   ],
+   "entry": [
+    0,
+    30,
+    1990,
+    215
+   ],
+   "marks": [
+    {
+     "box": [
+      0,
+      30,
+      225,
+      92
+     ],
+     "lat": "7. Ex Ledhug.",
+     "cs": "7. (března 1759), z Ledhuj"
+    },
+    {
+     "box": [
+      1440,
+      28,
+      1965,
+      92
+     ],
+     "lat": "infantem nomine Rosinam Annam",
+     "cs": "dítě jménem Rozina Anna"
+    },
+    {
+     "box": [
+      640,
+      92,
+      1175,
+      160
+     ],
+     "lat": "Patre Melchior Klyma",
+     "cs": "otec Melichar Klíma"
+    },
+    {
+     "box": [
+      1245,
+      92,
+      1490,
+      160
+     ],
+     "lat": "Matre Anna",
+     "cs": "matka Anna"
+    }
+   ],
+   "plyne": "Tato Rozina z Ledhuj je dcerou Melichara Klímy, ne Jana Klimše z č. 5 – pro Rozinu Klimšovou, matku Ventrových dětí, ji proto vylučuji."
+  },
+  {
+   "key": "130-5|72",
+   "src": "img/zdroje/130-5_s072_velky.jpg",
+   "title": "Křest Rosiny Klymové – Žďár, 23. 8. 1760 (vyloučeno)",
+   "zdroj": "SOA Zámrsk, sign. 130-5, snímek 72, pag. 138",
+   "crop": [
+    0,
+    0,
+    2000,
+    219
+   ],
+   "entry": [
+    50,
+    20,
+    1995,
+    215
+   ],
+   "marks": [
+    {
+     "box": [
+      55,
+      22,
+      375,
+      100
+     ],
+     "lat": "23 Ex Zdiar",
+     "cs": "23. (srpna 1760), ze Žďáru"
+    },
+    {
+     "box": [
+      1745,
+      22,
+      1930,
+      92
+     ],
+     "lat": "Rosinam",
+     "cs": "Rozinu"
+    },
+    {
+     "box": [
+      665,
+      92,
+      1225,
+      160
+     ],
+     "lat": "Patre Jacobo Klyma",
+     "cs": "otec Jakub Klíma"
+    },
+    {
+     "box": [
+      1272,
+      92,
+      1530,
+      160
+     ],
+     "lat": "Matre Veronica",
+     "cs": "matka Veronika"
+    }
+   ],
+   "plyne": "Rozina ze Žďáru je dcerou Jakuba Klímy a Veroniky – rodiči ani obcí neodpovídá Rozině Klimšové, dceři Jana Klimše z č. 5; vylučuji ji."
   }
  ]
 }

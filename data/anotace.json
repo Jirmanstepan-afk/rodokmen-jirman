@@ -934,6 +934,28 @@
     "IV → kniha IV (zemřelí VS 1849–1891)",
     "23. → strana 23"
    ]
+  },
+  "130-5|57": {
+   "soubor": "img/zdroje/130-5_s057_anotace.jpg",
+   "plyne": "Tato Rozina z Ledhuj je dcerou Melichara Klímy, ne Jana Klimše z č. 5 – pro Rozinu Klimšovou, matku Ventrových dětí, ji proto vylučuji.",
+   "titulek": "Křest Rosiny Anny Klymové – Ledhuje, 7. 3. 1759 (vyloučeno)",
+   "oznaceno": [
+    "7. Ex Ledhug. → 7. (března 1759), z Ledhuj",
+    "infantem nomine Rosinam Annam → dítě jménem Rozina Anna",
+    "Patre Melchior Klyma → otec Melichar Klíma",
+    "Matre Anna → matka Anna"
+   ]
+  },
+  "130-5|72": {
+   "soubor": "img/zdroje/130-5_s072_anotace.jpg",
+   "plyne": "Rozina ze Žďáru je dcerou Jakuba Klímy a Veroniky – rodiči ani obcí neodpovídá Rozině Klimšové, dceři Jana Klimše z č. 5; vylučuji ji.",
+   "titulek": "Křest Rosiny Klymové – Žďár, 23. 8. 1760 (vyloučeno)",
+   "oznaceno": [
+    "23 Ex Zdiar → 23. (srpna 1760), ze Žďáru",
+    "Rosinam → Rozinu",
+    "Patre Jacobo Klyma → otec Jakub Klíma",
+    "Matre Veronica → matka Veronika"
+   ]
   }
  }
 }
