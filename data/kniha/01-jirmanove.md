@@ -82,6 +82,8 @@ Rodná příjmení obou babiček čtu pořád jen nejistě. U Veroniky to vypad�
 
 Zajímavost: U Janova křtu je na okraji poznámka „14. May 1854 Taufschein ausgefolgt“. Ještě o 71 let později si tedy někdo vyzvedl jeho křestní list, třeba kvůli úřednímu řízení nebo dědictví. Kmotrem nízkosrbského Jana z roku 1780 byl Václav Lokvenc, mlynář z Nízké Srbské, a svědkyní Veronika, žena tkalce Josefa Kubečka z Machova.
 
+![130-5/309] Křest jiného Jana Bittnera 26. ledna 1780 v Nízké Srbské, syna Jana a Alžběty. Kmotrem byl mlynář Václav Lokvenc.
+
 > Domněnka: V Machově se 18. listopadu 1812 oženil Josef, syn Tobiáše Košťála z Lhoty Náchodské, s Marií z Lhoty Náchodské č. 14.[^96-3/16: sňatek Josefa Košťála a Marie 18. 11. 1812] Číslo 14 sedí na dům, kde později žil Ignácův otec Josef. Nevěsta se ale jmenuje Marie, ne Veronika, a matriky rozlišují Lhotu Náchodskou a Lhotu Polickou. Může jít o jiného Josefa, nebo o první manželství téhož muže. Proto to do stromu nedávám.
 
 ## Václav z čísla 47 a Lorencovi

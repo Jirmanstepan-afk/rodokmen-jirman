@@ -10,6 +10,9 @@ from PIL import Image, ImageDraw, ImageFont, ImageOps
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SPEC = json.load(open(ROOT / 'scripts/anotace-spec.json', encoding='utf-8'))
+# doplňkové specifikace (např. scripts/anotace-spec-kola.json z kol rodokmenu) – stejný formát, připojí se za hlavní
+for _extra in sorted((ROOT / 'scripts').glob('anotace-spec-*.json')):
+    SPEC['polozky'] += json.load(open(_extra, encoding='utf-8'))['polozky']
 FD = '/usr/share/fonts/truetype/sand-box/google/Noto Serif/'
 F_REG = FD + 'NotoSerif-VariableFont_wdth,wght.ttf'
 F_IT = FD + 'NotoSerif-Italic-VariableFont_wdth,wght.ttf'

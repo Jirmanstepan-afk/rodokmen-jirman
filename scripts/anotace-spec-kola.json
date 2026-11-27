@@ -1,0 +1,656 @@
+{
+ "_info": "Vyznačené zápisy z kol rodokmenu (CC a dál) ve formátu scripts/anotace-spec.json; souřadnice v pixelech img/zdroje/<sig>_s<NNN>_velky.jpg. Načítá je scripts/anotace-snimku.py spolu s hlavní specifikací.",
+ "polozky": [
+  {
+   "key": "130-17|30",
+   "src": "img/zdroje/130-17_s030_velky.jpg",
+   "title": "Křest Josefa Wintera – Ledhuje č. 26, 11. 4. 1797",
+   "zdroj": "SOA Zámrsk, sign. 130-17, snímek 30",
+   "crop": [
+    0,
+    0,
+    1959,
+    316
+   ],
+   "entry": [
+    30,
+    110,
+    1690,
+    316
+   ],
+   "marks": [
+    {
+     "box": [
+      30,
+      140,
+      320,
+      235
+     ],
+     "lat": "11. April",
+     "cs": "11. dubna (1797)"
+    },
+    {
+     "box": [
+      360,
+      150,
+      470,
+      240
+     ],
+     "lat": "26",
+     "cs": "číslo domu 26"
+    },
+    {
+     "box": [
+      455,
+      150,
+      640,
+      240
+     ],
+     "lat": "Joseph",
+     "cs": "pokřtěn Josef"
+    },
+    {
+     "box": [
+      1090,
+      110,
+      1360,
+      316
+     ],
+     "lat": "Wenzl Winter, Chaluper",
+     "cs": "otec Václav Winter, chalupník"
+    },
+    {
+     "box": [
+      1370,
+      110,
+      1690,
+      260
+     ],
+     "lat": "Rozyna Klimschowa",
+     "cs": "matka Rozina Klimšová"
+    }
+   ],
+   "plyne": "Žena Václava Wintera z č. 26 se v roce 1797 jmenuje Rozina Klimšová; Václav už není tkadlec, ale chalupník."
+  },
+  {
+   "key": "130-17|33",
+   "src": "img/zdroje/130-17_s033_velky.jpg",
+   "title": "Křest Václava Martina Wintra – Ledhuje č. 26, 10. 11. 1799",
+   "zdroj": "SOA Zámrsk, sign. 130-17, snímek 33",
+   "crop": [
+    0,
+    0,
+    2000,
+    326
+   ],
+   "entry": [
+    97,
+    63,
+    1576,
+    300
+   ],
+   "marks": [
+    {
+     "box": [
+      97,
+      63,
+      333,
+      130
+     ],
+     "lat": "10. Novemb.",
+     "cs": "10. listopadu (1799)"
+    },
+    {
+     "box": [
+      387,
+      193,
+      454,
+      266
+     ],
+     "lat": "26",
+     "cs": "číslo domu 26"
+    },
+    {
+     "box": [
+      459,
+      87,
+      691,
+      256
+     ],
+     "lat": "Wacslaw Martin",
+     "cs": "pokřtěn Václav Martin"
+    },
+    {
+     "box": [
+      976,
+      72,
+      1160,
+      300
+     ],
+     "lat": "Wacslaw Wintr, chalupnjk",
+     "cs": "otec Václav Wintr, chalupník"
+    },
+    {
+     "box": [
+      1165,
+      140,
+      1576,
+      203
+     ],
+     "lat": "Jana Klimsse",
+     "cs": "(matka Rozina, dcera) Jana Klimše"
+    },
+    {
+     "box": [
+      1165,
+      203,
+      1556,
+      261
+     ],
+     "lat": "N. 5. panstwj …",
+     "cs": "z čísla 5, (polického) panství",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Matka Rozina je dcerou Jana Klimše z domu č. 5 na polickém panství; tím je dán její otec a rodné příjmení Klimšová."
+  },
+  {
+   "key": "130-17|48",
+   "src": "img/zdroje/130-17_s048_velky.jpg",
+   "title": "Úmrtí Wenzela Wintera – Ledhuje č. 2, 14. 3. 1797",
+   "zdroj": "SOA Zámrsk, sign. 130-17, snímek 48",
+   "crop": [
+    40,
+    150,
+    2000,
+    880
+   ],
+   "entry": [
+    150,
+    770,
+    1940,
+    845
+   ],
+   "marks": [
+    {
+     "box": [
+      147,
+      287,
+      478,
+      360
+     ],
+     "lat": "Ao 1797",
+     "cs": "roku 1797"
+    },
+    {
+     "box": [
+      206,
+      632,
+      434,
+      695
+     ],
+     "lat": "In Martio",
+     "cs": "v březnu"
+    },
+    {
+     "box": [
+      190,
+      785,
+      270,
+      835
+     ],
+     "lat": "14.",
+     "cs": "14. (března)"
+    },
+    {
+     "box": [
+      647,
+      790,
+      728,
+      842
+     ],
+     "lat": "2.",
+     "cs": "dům č. 2"
+    },
+    {
+     "box": [
+      735,
+      786,
+      1125,
+      842
+     ],
+     "lat": "Wenzel Winter",
+     "cs": "Václav Winter"
+    },
+    {
+     "box": [
+      1463,
+      790,
+      1588,
+      842
+     ],
+     "lat": "67 Jahr",
+     "cs": "67 let"
+    },
+    {
+     "box": [
+      1639,
+      783,
+      1926,
+      842
+     ],
+     "lat": "Lungensucht",
+     "cs": "souchotiny (tuberkulóza plic)"
+    }
+   ],
+   "plyne": "Wenzel Winter zemřel 14. 3. 1797 v 67 letech na souchotiny; věkem by mohl být otcem Václava z č. 26, zápis to ale neříká (jen domněnka)."
+  },
+  {
+   "key": "12-5|22",
+   "src": "img/zdroje/12-5_s022_velky.jpg",
+   "title": "Úmrtí Jiřího Falty – Slatina č. 104, 31. 8. 1799",
+   "zdroj": "SOA Zámrsk, sign. 12-5, snímek 22, pag. 35",
+   "crop": [
+    0,
+    0,
+    1727,
+    232
+   ],
+   "entry": [
+    0,
+    45,
+    1440,
+    195
+   ],
+   "marks": [
+    {
+     "box": [
+      0,
+      105,
+      70,
+      170
+     ],
+     "lat": "31.",
+     "cs": "31. (srpna 1799)"
+    },
+    {
+     "box": [
+      70,
+      100,
+      195,
+      170
+     ],
+     "lat": "104.",
+     "cs": "dům č. 104"
+    },
+    {
+     "box": [
+      185,
+      45,
+      440,
+      195
+     ],
+     "lat": "Gjřj Falta, podruh",
+     "cs": "Jiří Falta, podruh (nájemník bez vlastního domu)"
+    },
+    {
+     "box": [
+      860,
+      95,
+      940,
+      165
+     ],
+     "lat": "44",
+     "cs": "44 let"
+    },
+    {
+     "box": [
+      1010,
+      110,
+      1440,
+      180
+     ],
+     "lat": "na wodnatedlnost",
+     "cs": "na vodnatelnost"
+    }
+   ],
+   "plyne": "Podruh Jiří Falta zemřel 31. 8. 1799 ve 44 letech; věkem se hodí na otce Faltové, nevěsty z roku 1817 (dcera zemřelého podruha Jiřího) – jen domněnka."
+  },
+  {
+   "key": "12-5|29",
+   "src": "img/zdroje/12-5_s029_velky.jpg",
+   "title": "Úmrtí Jiřího Falty – Slatina č. 109, 24. 12. 1803",
+   "zdroj": "SOA Zámrsk, sign. 12-5, snímek 29, pag. 48",
+   "crop": [
+    0,
+    0,
+    1767,
+    199
+   ],
+   "entry": [
+    0,
+    0,
+    1510,
+    125
+   ],
+   "marks": [
+    {
+     "box": [
+      680,
+      0,
+      1010,
+      40
+     ],
+     "lat": "in Decembri",
+     "cs": "v prosinci (1803)"
+    },
+    {
+     "box": [
+      0,
+      60,
+      70,
+      125
+     ],
+     "lat": "24",
+     "cs": "24. (prosince)"
+    },
+    {
+     "box": [
+      100,
+      60,
+      200,
+      125
+     ],
+     "lat": "109.",
+     "cs": "dům č. 109"
+    },
+    {
+     "box": [
+      205,
+      50,
+      685,
+      120
+     ],
+     "lat": "Gjřj Falta, chalupnjk",
+     "cs": "Jiří Falta, chalupník"
+    },
+    {
+     "box": [
+      985,
+      45,
+      1055,
+      110
+     ],
+     "lat": "85.",
+     "cs": "85 let"
+    },
+    {
+     "box": [
+      1100,
+      35,
+      1510,
+      105
+     ],
+     "lat": "stářjm …",
+     "cs": "stářím",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Chalupník Jiří Falta z č. 109 zemřel 1803 v 85 letech – na otce nevěsty narozené kolem roku 1790 je příliš starý (spíš její děd)."
+  },
+  {
+   "key": "12-7|61",
+   "src": "img/zdroje/12-7_s061_velky.jpg",
+   "title": "Rejstřík zemřelých Slatina, písmeno F",
+   "zdroj": "SOA Zámrsk, sign. 12-7, snímek 61",
+   "crop": [
+    0,
+    0,
+    958,
+    863
+   ],
+   "entry": [
+    90,
+    85,
+    910,
+    860
+   ],
+   "marks": [
+    {
+     "box": [
+      90,
+      85,
+      910,
+      200
+     ],
+     "lat": "Falta Gjřj z Slatiny 799 p. 35 (2×)",
+     "cs": "Jiří Falta ze Slatiny, 1799, str. 35 (řádek zapsán dvakrát)"
+    },
+    {
+     "box": [
+      90,
+      195,
+      910,
+      250
+     ],
+     "lat": "Falta Waclaw z Slatiny 799 p. 40",
+     "cs": "Václav Falta, 1799, str. 40"
+    },
+    {
+     "box": [
+      90,
+      795,
+      910,
+      860
+     ],
+     "lat": "Falta Gjřj z Slatiny 1803 p. 48",
+     "cs": "Jiří Falta, 1803, str. 48"
+    }
+   ],
+   "plyne": "Rejstřík zná v letech 1798–1803 jen dva zemřelé Jiří Falty: 1799 (str. 35, řádek zdvojený – na stránce je jediný zápis, č. 104) a 1803 (str. 48, č. 109); jiný kandidát na otce nevěsty z roku 1817 tu není."
+  },
+  {
+   "key": "130-5|357",
+   "src": "img/zdroje/130-5_s357_velky.jpg",
+   "title": "Křest Jana Bittnera – Nízká Srbská č. 26, 23. 8. 1783",
+   "zdroj": "SOA Zámrsk, sign. 130-5, snímek 357, pag. 707",
+   "crop": [
+    0,
+    0,
+    2000,
+    393
+   ],
+   "entry": [
+    88,
+    24,
+    1808,
+    353
+   ],
+   "marks": [
+    {
+     "box": [
+      159,
+      24,
+      210,
+      75
+     ],
+     "lat": "23.",
+     "cs": "23. (srpna 1783)"
+    },
+    {
+     "box": [
+      142,
+      224,
+      299,
+      288
+     ],
+     "lat": "Item Item",
+     "cs": "týž den, týž kněz"
+    },
+    {
+     "box": [
+      393,
+      227,
+      488,
+      285
+     ],
+     "lat": "Joannes",
+     "cs": "pokřtěn Jan"
+    },
+    {
+     "box": [
+      563,
+      220,
+      855,
+      309
+     ],
+     "lat": "Tobias Bitnar Textor, Mr. Dorothea",
+     "cs": "otec Tobiáš Bittner, tkadlec; matka Dorota"
+    },
+    {
+     "box": [
+      1533,
+      224,
+      1689,
+      299
+     ],
+     "lat": "Inferior Srbska",
+     "cs": "Nízká Srbská"
+    },
+    {
+     "box": [
+      1730,
+      271,
+      1808,
+      326
+     ],
+     "lat": "26",
+     "cs": "dům č. 26"
+    },
+    {
+     "box": [
+      88,
+      305,
+      739,
+      353
+     ],
+     "lat": "14. May 1854 Taufschein ausgefolgt",
+     "cs": "14. 5. 1854 vydán křestní list"
+    }
+   ],
+   "plyne": "Tobiáš Bittner, tkadlec z Nízké Srbské, měl 23. 8. 1783 syna Jana; podle sňatku 1812 je Tobiáš otcem ženicha Jana – zda jde o tohoto Jana (věk 28 vs. 30, dům 26 vs. 55), zůstává domněnkou."
+  },
+  {
+   "key": "130-5|309",
+   "src": "img/zdroje/130-5_s309_velky.jpg",
+   "title": "Křest Jana Bittnera – Nízká Srbská, 26. 1. 1780",
+   "zdroj": "SOA Zámrsk, sign. 130-5, snímek 309",
+   "crop": [
+    0,
+    0,
+    2000,
+    242
+   ],
+   "entry": [
+    423,
+    40,
+    1549,
+    181
+   ],
+   "marks": [
+    {
+     "box": [
+      423,
+      47,
+      554,
+      119
+     ],
+     "lat": "Joannes",
+     "cs": "pokřtěn Jan"
+    },
+    {
+     "box": [
+      557,
+      43,
+      919,
+      141
+     ],
+     "lat": "Joannes Bitnar Textor, Mr. Elisabetha",
+     "cs": "otec Jan Bittner, tkadlec; matka Alžběta"
+    },
+    {
+     "box": [
+      934,
+      40,
+      1296,
+      181
+     ],
+     "lat": "Wenceslaus Logwenz Molitor ex inferiori Srbska",
+     "cs": "kmotr Václav Lokvenc, mlynář z Nízké Srbské"
+    },
+    {
+     "box": [
+      1303,
+      40,
+      1549,
+      174
+     ],
+     "lat": "Veronica uxor Josephi Kubeček Textoris ex Machov",
+     "cs": "svědkyně Veronika, žena tkalce Josefa Kubečka z Machova"
+    }
+   ],
+   "plyne": "Tento Jan z roku 1780 je syn Jana a Alžběty, ne Tobiáše – pro ženicha z roku 1812 tedy nepřichází v úvahu."
+  },
+  {
+   "key": "130-42|13",
+   "src": "img/zdroje/130-42_s013_velky.jpg",
+   "title": "Rejstřík narozených Police, písmeno B, rok 1783",
+   "zdroj": "SOA Zámrsk, sign. 130-42, snímek 13",
+   "crop": [
+    0,
+    0,
+    1443,
+    1391
+   ],
+   "entry": [
+    20,
+    350,
+    1060,
+    1240
+   ],
+   "marks": [
+    {
+     "box": [
+      590,
+      350,
+      740,
+      410
+     ],
+     "lat": "1783",
+     "cs": "rok 1783"
+    },
+    {
+     "box": [
+      20,
+      1100,
+      1060,
+      1170
+     ],
+     "lat": "Bittner Joannes — 23 — Srbska",
+     "cs": "Jan Bittner, 23. (srpna), Srbská"
+    },
+    {
+     "box": [
+      20,
+      1175,
+      1060,
+      1240
+     ],
+     "lat": "Bittner Wenceslaus — 27 — 708",
+     "cs": "Václav Bittner, 27. (srpna), str. 708"
+    }
+   ],
+   "plyne": "V srpnu 1783 rejstřík uvádí dva srbské Bittnery; Jan z 23. 8. je syn Tobiáše (str. 707), Václav Jan z 27. 8. je syn Jana a Doroty z č. 32."
+  }
+ ]
+}

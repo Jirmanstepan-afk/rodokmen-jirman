@@ -21,6 +21,8 @@ Zajímavost: Václav Winter byl při svatbě v roce 1793 i při křtu Františka
 > Domněnka: Marie Anna a Rosina jsou táž žena, rozená Klimschová. V zápisech z let 1793, 1797 a 1799 se Václavova žena jmenuje Rozina Klimšová a „Marie Anna“ z roku 1794 je jediná výjimka. Pak by Františkovým dědem z matčiny strany byl Jan Klimš z č. 5 polického panství [?q-hruby-ventr-predci].
 
 > Domněnka: Wenzel Winter, který 14. března 1797 zemřel v Ledhujích č. 2 ve věku 67 let na souchotiny (Lungensucht),[^130-17/48: úmrtí Wenzela Wintera 14. 3. 1797, Ledhuje č. 2, 67 let, Lungensucht] by mohl být otcem Václava. Dům ani věk při sňatku 1793 to ale nepotvrzují, proto zůstává mimo mapu [?q-hruby-ventr-predci].
+
+![130-17/48] Úmrtí Wenzela Wintera 14. března 1797 v Ledhujích č. 2, 67 let, na souchotiny.
  František se 7. července 1819 oženil s Rosinou, dcerou zesnulého krejčího Josefa z Malé Ledhuje č. 3. Jeho příjmení zní v zápisech jako „Klep…“, snad Klepáček.[^130-18/4: oddací zápis 7. 7. 1819, Ledhuje] Mladí bydleli v č. 45 a 27. ledna 1821 se jim narodila dcera [[matka-hruba-spinka|Františka]].[^130-18/23: narození Františky Wentrové 27. 1. 1821, Ledhuje č. 45]
 
 ![130-18/23] Narození Františky Wentrové 27. ledna 1821 v Ledhujích č. 45.
