@@ -2939,6 +2939,14 @@
    "velky": "img/zdroje/171-10_s024_velky.jpg",
    "vyrez_soubor": "s024-index-narozenych-lit-B-1753-1796-Bek-vice-Ignazu-1753-1761.jpg"
   },
+  "171-10|28": {
+   "signatura": "171-10",
+   "snimek": 28,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/99630e87-b1e2-4ff1-bca5-b8e3de72419d/dao/99630e87-b1e2-4ff1-bca5-b8e3de72419d/file/bd0498f4-c423-444a-a119-9ea0be6e4b48",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/171-10_s028.jpg",
+   "velky": "img/zdroje/171-10_s028_velky.jpg"
+  },
   "171-10|31": {
    "signatura": "171-10",
    "snimek": 31,
@@ -3163,6 +3171,14 @@
    "nahled": "img/zdroje/171-2_s031.jpg",
    "velky": "img/zdroje/171-2_s031_velky.jpg",
    "vyrez_soubor": "s031-krest-17-1-1764-Maly-Uhrinov-Joan-Anton-syn-Joannese-Rolletschka-sedlaka-a-Apollonie.jpg"
+  },
+  "171-2|32": {
+   "signatura": "171-2",
+   "snimek": 32,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922/dao/ae8057d2-4543-4429-836f-2da5eee0f922/file/a6ee820f-851e-46c7-ae97-7e427975cb06",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/171-2_s032.jpg",
+   "velky": "img/zdroje/171-2_s032_velky.jpg"
   },
   "171-3|50": {
    "signatura": "171-3",
@@ -4859,6 +4875,14 @@
    "nahled": "img/zdroje/96-13_s018.jpg",
    "velky": "img/zdroje/96-13_s018_velky.jpg",
    "vyrez_soubor": "z96-13-s18-1786-12-15-frantisek-syn-vaclava-maroula-a-alzbety-nizka-srbska-c2.jpg"
+  },
+  "96-13|19": {
+   "signatura": "96-13",
+   "snimek": 19,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/9d755832-52eb-40e4-b0c4-c04e4001e5a4",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-13_s019.jpg",
+   "velky": "img/zdroje/96-13_s019_velky.jpg"
   },
   "96-13|22": {
    "signatura": "96-13",

@@ -2589,6 +2589,36 @@
           "apu": "https://aron.vychodoceskearchivy.cz/apu/89e9015b-d31a-4b96-8437-085cfa61151f/dao/89e9015b-d31a-4b96-8437-085cfa61151f/file/8665d411-be06-4ab6-9d35-13b4e2daabb2"
         }
       ]
+    },
+    {
+      "id": "q-lorenc-lokvenc",
+      "title": "Byla Alžběta Jirmannová rozená Lokvencová, a ne Lorencová?",
+      "summary": "V Nízké Srbské 1784–1795 není žádné dítě Václava Lorence, ale žil tam mlynář a sedlák Václav Lokvenc (Lokwenz), kterému se 10. 4. 1786 v č. 40 narodila Elisabetha. Příjmení ve sňatku 1811 lze číst i jako „Lokwencowi“.",
+      "details": "Domněnka: Alžběta, nevěsta Václava Jirmana 18. 2. 1811 (96-3 snímek 15), je dcera Václava Lokvence a Anny, narozená 10. 4. 1786 v NS č. 40 (96-13 snímek 17). Pro: příjmení otce ve sňatku 1811 je psané nezřetelně a tvar „L…cowi“ odpovídá spíš „Lokwencowi“ než „Lorencowi“; v NS narozeních 5/1784–12/1795 (96-13 snímky 15–31) jsem jiné dítě s otcem Václavem Lorencem/Lokvencem nenašel; Wentzl Lokwentz je 1787 kmotrem jako „Bauer aus Niedersichl, Müller“ (96-13 snímek 19). Proti: zápisy 1840 a 1842 píší „Lorenz“; 1811 je otec chalupník v č. 69, 1786 mlynář v č. 40 (možné přečíslování nebo přestěhování); věk nevěsty ve sňatku 1811 je nečitelný (20 / 26?). V oddacích NS 6/1784–1792 (96-13 snímky 4–7) sňatek Václava Lorence/Lokvence není – ženil se nejspíš před 1784. Další krok: Machov/Police oddaní před 1784, úmrtí Václava Lokvence 1795–1811 (96-13 Z) a přečíslování NS domů.",
+      "related_ids": [
+        "alzbeta-lorenzova",
+        "vaclav-lorenc-ns69"
+      ],
+      "sources": [
+        {
+          "label": "ARON, sňatek 18. 2. 1811 Machov",
+          "signatura": "96-3",
+          "detail": "snímek 15; nevěsta „Alžběta dcera po † Wáclawowi L…cowi, chalupníkovi z Nížkosrbska z N. 69“; výřez vypisy/96-3/p015-oddani-18-2-1811-Machov-Waclaw-Jirman-Machov47-20-let-nevesta-Alzbeta-dcera-zemreleho-Waclawa-Lorence-chalupnika-NS69.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/45202777-3c33-49a7-8b2d-9a9fbb690801"
+        },
+        {
+          "label": "ARON, narození 10. 4. 1786 Elisabetha, NS č. 40",
+          "signatura": "96-13",
+          "detail": "snímek 17, pravá strana; otec „Wentzl Müller Lokwenz“, matka Anna; kmotra Elisabeth Lokwenz; výřez vypisy/96-13/n96-13-s17-1786-04-10-elisabeth-c40-otec-wenzel-lokwenz-mlynar-kandidat-nejisty.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/5aed6b27-591d-41e5-98ad-f3e45cbd7489"
+        },
+        {
+          "label": "ARON, narození 18. 11. 1787 Elisabeth Hupka, NS č. 10",
+          "signatura": "96-13",
+          "detail": "snímek 19, pravá strana; kmotr „Wentzl Lokwentz, Bauer aus Nied(er)sichl, Müller“; výřez vypisy/96-13/n96-13-s19-1787-11-18-elisabeth-hupka-c10-kmotr-wenzel-lokwentz-sedlak-mlynar.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/e8a3d7b7-9cd8-4b43-a113-bc52898662dd"
+        }
+      ]
     }
   ]
 }

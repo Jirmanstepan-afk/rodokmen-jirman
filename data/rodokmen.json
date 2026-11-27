@@ -7868,7 +7868,8 @@
         "V zápisu 1840 „Elisabeth geborene Lorenz aus Niedersichl N. 69“, v roce 1842 „N. 60“. Ovdověla 16. 4. 1817.",
         "Porodní bába Alžběta Jirmanová z Machova č. 74 je uvedena v letech 1842 a 1851 (96-15 snímky 21 a 50); jde nejspíš o ni (Domněnka, ne do grafu).",
         "Úmrtí nenalezeno: Machov Z 96-4231 (asi 1851–5. 1897, snímky 10–100) prohledána po jménech bez nálezu vdovy Alžběty Jirmannové narozené kolem 1790. Mohla zemřít v Nízké Srbské (NS Z po 1853 v ARON online není) nebo mimo farnost. Neprohledáno: 96-3 Z 1842–1846 a 96-4231 snímky 1–9 (1847–1851).",
-        "Úmrtí nenalezeno: Machov Z 96-3 1842–1846 (snímky 189–202) ani Machov Z 96-4231 1847–5/1897 (snímky 1–100) Alžbětu Jirmannovou neuvádí (kolo AQ–AR). Žila ještě v dubnu 1851 (porodní bába, Machov č. 74)."
+        "Úmrtí nenalezeno: Machov Z 96-3 1842–1846 (snímky 189–202) ani Machov Z 96-4231 1847–5/1897 (snímky 1–100) Alžbětu Jirmannovou neuvádí (kolo AQ–AR). Žila ještě v dubnu 1851 (porodní bába, Machov č. 74).",
+        "Kolo BZ: v NS narozeních 5/1784–12/1795 (96-13 snímky 15–31) dítě Václava Lorence není; kandidát 10. 4. 1786 Elisabetha, dcera Václava Lokvence, mlynáře v č. 40 – viz dotaz q-lorenc-lokvenc (domněnka, ne do grafu)."
       ],
       "interesting": []
     },
@@ -8740,11 +8741,17 @@
       "name": "Andreas Proß",
       "maiden": null,
       "birth": {
-        "display": "kolem 1763",
-        "precision": "circa",
-        "note": "24 let při úmrtí 30. 12. 1787 (171-9 snímek 41)."
+        "display": "červen 1764 (křest 22. 6. 1764)",
+        "precision": "month",
+        "date": "1764-06",
+        "note": "Při úmrtí 30. 12. 1787 uvedeno 24 let (171-9 snímek 41)."
       },
-      "baptism": null,
+      "baptism": {
+        "display": "22. 6. 1764",
+        "precision": "exact",
+        "date": "1764-06-22",
+        "place": "Benátky"
+      },
       "death": {
         "display": "30. 12. 1787",
         "date": "1787-12-30",
@@ -8789,16 +8796,29 @@
           "signatura": "171-3",
           "detail": "snímek 79, dům 6",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/dao/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/file/5f65082c-dc6f-4938-82df-e3272a9e30ce"
+        },
+        {
+          "label": "ARON, křest 22. 6. 1764 Andreas Proß, Benátky",
+          "signatura": "171-2",
+          "detail": "snímek 32, pravá strana (fol. 27), červen 1764, marginálie „Benadek“: „baptizatus fuit Andreas filius Francisci Proß hortulani, Matris Susanna“; výřez vypisy/171-2/n171-2-s32-fol27-1764-06-22-andreas-pross-benatky-otec-franz-zahradnik-matka-susanna.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922/dao/ae8057d2-4543-4429-836f-2da5eee0f922/file/21f816be-902e-4bd1-a382-fccc77c97e62"
+        },
+        {
+          "label": "ARON, index narozených lit. P 1753–1770",
+          "signatura": "171-10",
+          "detail": "snímek 28, pravá strana: Proß Andreas 22. 6. 1764 (fol. 27) a 2. 12. 1767 (fol. 34/35 – syn Josepha Proße, sedláka z Malého Uhřínova, jiná rodina); výřez vypisy/171-10/i171-10-s28-lit-P-1753-1770-pross-andreas-1764-a-1767.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/99630e87-b1e2-4ff1-bca5-b8e3de72419d/dao/99630e87-b1e2-4ff1-bca5-b8e3de72419d/file/ca89f45e-29c4-414a-9295-61be30b84f7f"
         }
       ],
       "notes": [
         "Otec Josefa (Franz Josepha) *22. 7. 1786 (171-3 snímek 78); ve sňatku syna 17. 2. 1808 už „verstorben“ (171-4 snímek 5). Další děti v č. 6: Martha 2. 2. 1785, Andreas 2. 3. 1788 (171-3 snímky 78–79). Od 1789 je v č. 6 jiný otec (Friedrich Nitzgebauer?).",
         "Sňatek 23. 2. 1784 Benátky č. 6 (171-2 snímek 129): „Andreas superstes filius post def. Franciscum Proß, hortulanum in Benatek, cum Catharina filia Joannis Rolegyek(?) rustici Micro Aurimensis“; ohlášky 1., 8. a 15. 2.; svědci Fridericus Abel, rychtář, a Andreas Seidel, voják, oba z Malého Uhřínova.",
-        "Posmrtný syn Andreas *2. 3. 1788 č. 6 (171-3 snímek 79), †7. 5. 1788 na psotník („Andreas Sohn nach dem Andreas Proß“, 171-9 snímek 41)."
+        "Posmrtný syn Andreas *2. 3. 1788 č. 6 (171-3 snímek 79), †7. 5. 1788 na psotník („Andreas Sohn nach dem Andreas Proß“, 171-9 snímek 41).",
+        "Křest 22. 6. 1764 v Benátkách (171-2 snímek 32, fol. 27): Andreas, syn Franze Proße, zahradníka, a Susanny. Ztotožnění: otec Franz, zahradník (hortulanus) v Benátkách, souhlasí se sňatkem 1784; index narozených 171-10 (lit. P 1753–1770) má jen dva Andreasy Proße – tento a 2. 12. 1767 (syn Josepha Proße, sedláka z Malého Uhřínova, matka Magdalena; 171-2 snímek 40), který by se roku 1784 ženil v 16 letech. Věk 24 při úmrtí 12/1787 sedí (23½). – kolo BZ"
       ],
       "interesting": [
         "Zemřel ve 24 letech, necelé čtyři roky po svatbě, a manželku nechal těhotnou. Syn, kterého už nepoznal, se narodil o dva měsíce později a žil jen deset týdnů (171-9 snímek 41; 171-3 snímek 79).",
-        "Byl to „superstes filius“, tedy pozůstalý syn po zemřelém zahradníkovi Franzi Proßovi – ženil se ve dvaceti jako sirotek (171-2 snímek 129)."
+        "Byl to „superstes filius“, tedy pozůstalý syn po zemřelém zahradníkovi Franzi Proßovi – ženil se jako devatenáctiletý sirotek (171-2 snímek 129; křest 22. 6. 1764, 171-2 snímek 32)."
       ]
     },
     {
@@ -9133,7 +9153,8 @@
       ],
       "notes": [
         "Otec Andrease Proße (sňatek 23. 2. 1784, 171-2 snímek 129). V Benátkách se 1780 ženil Franciscus, syn Franze Proße (č. 6), a vdávala dcera Franze Proße – jen poznámka, ztotožnění s tímto Franzem nejisté (171-2 snímek 127).",
-        "Benátky č. 3 (jiná domácnost Proßů, příbuzenství nezjištěno): 20. 3. 1800 Christoph Proß, 45; 13. 2. 1801 jeho syn Franz Joseph, 19, „Faulfieber“; 8. 3. 1801 Katharina Proßin, zahradnice, 41, „hitzige Brustkrankheit“; 28. 3. 1801 v témž domě Anton Linse(?), mládenec, 37, „hitziges Fieber“ (171-4 snímek 24) – jen poznámka."
+        "Benátky č. 3 (jiná domácnost Proßů, příbuzenství nezjištěno): 20. 3. 1800 Christoph Proß, 45; 13. 2. 1801 jeho syn Franz Joseph, 19, „Faulfieber“; 8. 3. 1801 Katharina Proßin, zahradnice, 41, „hitzige Brustkrankheit“; 28. 3. 1801 v témž domě Anton Linse(?), mládenec, 37, „hitziges Fieber“ (171-4 snímek 24) – jen poznámka.",
+        "Manželka Susanna (susanna-pross-benatky) podle křtu syna Andrease 22. 6. 1764, kdy byl Franz zahradníkem v Benátkách (171-2 snímek 32) – kolo BZ."
       ],
       "interesting": [
         "Syna Andrease (*~1763) měl asi ve 52 letech; Andreas pak zemřel už ve 24 letech (1787).",
@@ -11135,6 +11156,39 @@
       ],
       "notes": [
         "Otec Veroniky Maslové roz. Němečkové; při jejím sňatku 20. 11. 1821 už nežil („† Matěj Němeček, tkadlec z Nízké Srbské č. 34“, 96-14 snímek 7). Manželka v zápisu jmenována není. V narozeních NS 5/1790–8/1795 (96-13) Veronika s otcem Němečkem není – rodina nejspíš do NS přišla odjinud."
+      ],
+      "interesting": []
+    },
+    {
+      "id": "susanna-pross-benatky",
+      "name": "Susanna Proßová",
+      "maiden": null,
+      "birth": null,
+      "baptism": null,
+      "death": null,
+      "occupation": null,
+      "places": [
+        "Benátky"
+      ],
+      "branch": "pross",
+      "certainty": "potvrzeno",
+      "living": false,
+      "sources": [
+        {
+          "label": "ARON, křest 22. 6. 1764 Andreas Proß, Benátky",
+          "signatura": "171-2",
+          "detail": "snímek 32, pravá strana (fol. 27), červen 1764, marginálie „Benadek“: „baptizatus fuit Andreas filius Francisci Proß hortulani, Matris Susanna“; výřez vypisy/171-2/n171-2-s32-fol27-1764-06-22-andreas-pross-benatky-otec-franz-zahradnik-matka-susanna.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922/dao/ae8057d2-4543-4429-836f-2da5eee0f922/file/21f816be-902e-4bd1-a382-fccc77c97e62"
+        },
+        {
+          "label": "ARON, index narozených lit. P 1753–1770",
+          "signatura": "171-10",
+          "detail": "snímek 28, pravá strana: Proß Andreas 22. 6. 1764 (fol. 27) a 2. 12. 1767 (fol. 34/35 – syn Josepha Proße, sedláka z Malého Uhřínova, jiná rodina); výřez vypisy/171-10/i171-10-s28-lit-P-1753-1770-pross-andreas-1764-a-1767.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/99630e87-b1e2-4ff1-bca5-b8e3de72419d/dao/99630e87-b1e2-4ff1-bca5-b8e3de72419d/file/ca89f45e-29c4-414a-9295-61be30b84f7f"
+        }
+      ],
+      "notes": [
+        "Manželka Franze Proße, zahradníka v Benátkách, matka Andrease Proße (křest 22. 6. 1764, 171-2 snímek 32). Rodné příjmení zápis neuvádí. Kmotrem byl rychtář (judex) Georg Fi…(?) – čtení nejisté."
       ],
       "interesting": []
     }
@@ -14291,7 +14345,8 @@
     {
       "id": "u-franz-pross-benatky",
       "partners": [
-        "franz-pross-benatky"
+        "franz-pross-benatky",
+        "susanna-pross-benatky"
       ],
       "children": [
         "andreas-pross"
@@ -14303,7 +14358,16 @@
           "signatura": "171-2",
           "detail": "snímek 129, pag. 24 vlevo, Benátky č. 6",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922/dao/ae8057d2-4543-4429-836f-2da5eee0f922/file/f23629f4-8488-430d-9ea4-4af3b1019681"
+        },
+        {
+          "label": "ARON, křest 22. 6. 1764 Andreas Proß, Benátky",
+          "signatura": "171-2",
+          "detail": "snímek 32, pravá strana (fol. 27), červen 1764, marginálie „Benadek“: „baptizatus fuit Andreas filius Francisci Proß hortulani, Matris Susanna“; výřez vypisy/171-2/n171-2-s32-fol27-1764-06-22-andreas-pross-benatky-otec-franz-zahradnik-matka-susanna.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922/dao/ae8057d2-4543-4429-836f-2da5eee0f922/file/21f816be-902e-4bd1-a382-fccc77c97e62"
         }
+      ],
+      "notes": [
+        "Manželka Susanna podle křtu syna Andrease 22. 6. 1764 (171-2 snímek 32); sňatek 1784 ji nejmenuje."
       ]
     },
     {
@@ -17453,6 +17517,36 @@
           "signatura": "96-15",
           "detail": "snímek 50; otec Jakub Barčák, výměnkář, „vlastní syn † Jakuba Barčáka, chalupníka … a manželky jeho † Veroniky“; matka Kateřina, „vlastní dcera Antonína Matěny, tkadlce a podruha z Velkého Poříčí, a manželky jeho Marye … z Poříčí No. 45“; výřez vypisy/96-15/n96-15-s50-1851-04-14-vincenc-barcak-prarodice-jakub-veronika-antonin-matena-marie.jpg",
           "apu": "https://aron.vychodoceskearchivy.cz/apu/89e9015b-d31a-4b96-8437-085cfa61151f/dao/89e9015b-d31a-4b96-8437-085cfa61151f/file/8665d411-be06-4ab6-9d35-13b4e2daabb2"
+        }
+      ]
+    },
+    {
+      "id": "q-lorenc-lokvenc",
+      "title": "Byla Alžběta Jirmannová rozená Lokvencová, a ne Lorencová?",
+      "summary": "V Nízké Srbské 1784–1795 není žádné dítě Václava Lorence, ale žil tam mlynář a sedlák Václav Lokvenc (Lokwenz), kterému se 10. 4. 1786 v č. 40 narodila Elisabetha. Příjmení ve sňatku 1811 lze číst i jako „Lokwencowi“.",
+      "details": "Domněnka: Alžběta, nevěsta Václava Jirmana 18. 2. 1811 (96-3 snímek 15), je dcera Václava Lokvence a Anny, narozená 10. 4. 1786 v NS č. 40 (96-13 snímek 17). Pro: příjmení otce ve sňatku 1811 je psané nezřetelně a tvar „L…cowi“ odpovídá spíš „Lokwencowi“ než „Lorencowi“; v NS narozeních 5/1784–12/1795 (96-13 snímky 15–31) jsem jiné dítě s otcem Václavem Lorencem/Lokvencem nenašel; Wentzl Lokwentz je 1787 kmotrem jako „Bauer aus Niedersichl, Müller“ (96-13 snímek 19). Proti: zápisy 1840 a 1842 píší „Lorenz“; 1811 je otec chalupník v č. 69, 1786 mlynář v č. 40 (možné přečíslování nebo přestěhování); věk nevěsty ve sňatku 1811 je nečitelný (20 / 26?). V oddacích NS 6/1784–1792 (96-13 snímky 4–7) sňatek Václava Lorence/Lokvence není – ženil se nejspíš před 1784. Další krok: Machov/Police oddaní před 1784, úmrtí Václava Lokvence 1795–1811 (96-13 Z) a přečíslování NS domů.",
+      "related_ids": [
+        "alzbeta-lorenzova",
+        "vaclav-lorenc-ns69"
+      ],
+      "sources": [
+        {
+          "label": "ARON, sňatek 18. 2. 1811 Machov",
+          "signatura": "96-3",
+          "detail": "snímek 15; nevěsta „Alžběta dcera po † Wáclawowi L…cowi, chalupníkovi z Nížkosrbska z N. 69“; výřez vypisy/96-3/p015-oddani-18-2-1811-Machov-Waclaw-Jirman-Machov47-20-let-nevesta-Alzbeta-dcera-zemreleho-Waclawa-Lorence-chalupnika-NS69.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/45202777-3c33-49a7-8b2d-9a9fbb690801"
+        },
+        {
+          "label": "ARON, narození 10. 4. 1786 Elisabetha, NS č. 40",
+          "signatura": "96-13",
+          "detail": "snímek 17, pravá strana; otec „Wentzl Müller Lokwenz“, matka Anna; kmotra Elisabeth Lokwenz; výřez vypisy/96-13/n96-13-s17-1786-04-10-elisabeth-c40-otec-wenzel-lokwenz-mlynar-kandidat-nejisty.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/5aed6b27-591d-41e5-98ad-f3e45cbd7489"
+        },
+        {
+          "label": "ARON, narození 18. 11. 1787 Elisabeth Hupka, NS č. 10",
+          "signatura": "96-13",
+          "detail": "snímek 19, pravá strana; kmotr „Wentzl Lokwentz, Bauer aus Nied(er)sichl, Müller“; výřez vypisy/96-13/n96-13-s19-1787-11-18-elisabeth-hupka-c10-kmotr-wenzel-lokwentz-sedlak-mlynar.jpg",
+          "apu": "https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/e8a3d7b7-9cd8-4b43-a113-bc52898662dd"
         }
       ]
     }

@@ -78,6 +78,10 @@ Svatbu Janových rodičů jsem našel v nízkosrbské knize oddaných. [[vaclav-
 
 Václav se narodil 1. listopadu 1814 v Machově č. 47.[^96-3/71: narození Václava Jirmanna 1. 11. 1814, Machov č. 47] Jeho rodiče se vzali v Machově 18. února 1811. Ženichovi [[vaclav-jirmann-machov74|Václavu Jirmanovi]] z čísla 47 bylo dvacet let. Nevěsta [[alzbeta-lorenzova|Alžběta]] byla dcerou zesnulého [[vaclav-lorenc-ns69|Václava Lorence]], chalupníka v Nízké Srbské č. 69. Příjmení se v tomto zápisu čte těžko, ale pozdější zápisy píší jasně Lorenz.[^96-3/15: sňatek Václava Jirmana a Alžběty Lorencové 18. 2. 1811]
 
+Alžbětin křest jsem hledal v nízkosrbské knize narozených z let 1784–1795. Dítě Václava Lorence tam není. V Nízké Srbské ale tehdy žil mlynář a sedlák Václav Lokvenc, farářem psaný „Lokwenz“, a 10. dubna 1786 se mu v č. 40 narodila Elisabetha.[^96-13/17: narození Elisabethy, dcery Václava Lokvence, 10. 4. 1786, NS č. 40] O rok později šel „Wentzl Lokwentz, Bauer aus Niedersichl, Müller“ za kmotra.[^96-13/19: narození Elisabeth Hupkové 18. 11. 1787, kmotr Václav Lokvenc]
+
+> Domněnka: Alžběta mohla být rozená Lokvencová, dcera Václava Lokvence a Anny, narozená 10. 4. 1786. Příjmení ve svatebním zápisu 1811 se dá číst i jako „Lokwencowi“. Proti tomu stojí „Lorenz“ v zápisech z let 1840 a 1842 a jiné číslo domu [?q-lorenc-lokvenc].
+
 Manželství netrvalo dlouho. Václav starší zemřel 16. dubna 1817 v čísle 47 jako chalupník. Bylo mu osmadvacet. Na téže stránce jsou zapsané i jeho dvě dcery. Anna zemřela měsíc před ním a čtyřletá Veronika necelý měsíc po něm.[^96-3/157: úmrtí Václava Jirmanna 16. 4. 1817, Machov č. 47] Alžběta tak během dvou měsíců přišla o muže a dvě děti a zůstala sama s dvouletým Václavem. Kdy zemřela, jsem nezjistil. V machovských knihách zemřelých z let 1842–1897 není.
 
 > Domněnka: Porodní bába Alžběta Jirmanová z Machova č. 74, která v letech 1842 a 1851 pomáhala u porodů v Nízké Srbské, byla nejspíš právě tahle vdova. Proto možná křest z roku 1842 uvádí u Václavova otce číslo 74, kde v té době bydlela, a ne 47.
