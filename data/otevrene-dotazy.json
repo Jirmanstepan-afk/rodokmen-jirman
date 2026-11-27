@@ -1581,6 +1581,65 @@
           "url": "https://aron.vychodoceskearchivy.cz/apu/bd32c3f6-8ffe-424d-b95f-f31e6707d373/dao/bd32c3f6-8ffe-424d-b95f-f31e6707d373/file/c4ab4e2d-16cb-4908-915c-f7165e0e90ab"
         }
       ]
+    },
+    {
+      "id": "q-kostal-bittner-predci",
+      "title": "Košťálové a Bittnerové o generaci výš: nejistá čtení a chybějící narození",
+      "summary": "Sňatek Ignáce (Hynka) Košťála a Anny Bittnerové 30. 1. 1849 je doložen. Nejisté zůstávají rodná příjmení matek a narození obou snoubenců.",
+      "details": "Veronika, matka Ignáce: v zápisech 1849 a 1852 čteno „rozená Hornych(?) ze Slavného(?) č. 37“. Alžběta, matka Anny: dcera Josefa „Ruše/Kühn(?)“, chalupníka z Nízké Srbské č. 23. Narození Ignáce (asi 1817–1818) v N Polická Lhota 96-11 snímky 29–30 (1816–1818) není; narození Anny (asi 1823–1824) v N Nízká Srbská 96-14 snímky 58–64 (1822–1826) není. Na sňatku je u nevěsty tužkou pozdější poznámka, čtená jako „Bělý(?) 1824“. Anna *15. 5. 1823 (96-14 snímek 60) je jiná: matka Marie z Machova č. 52.",
+      "related_ids": [
+        "hynek-kostal",
+        "anna-bittnerova-kostalova",
+        "veronika-kostalova-lp14",
+        "alzbeta-bittnerova-ns5",
+        "josef-kostal-lp14",
+        "jan-bittner-ns5"
+      ],
+      "sources": [
+        {
+          "label": "ARON, sňatek 30. 1. 1849 Lhota Polická: Ignác (Hynek) Košťál × Anna Bittnerová",
+          "signatura": "96-4235",
+          "detail": "snímek 6",
+          "apu": "87d4243c-4dd9-45e2-a26f-f24f5037e0c1",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/87d4243c-4dd9-45e2-a26f-f24f5037e0c1/dao/87d4243c-4dd9-45e2-a26f-f24f5037e0c1/file/460c6a56-1f24-4cf1-b377-81b75225a6e3"
+        },
+        {
+          "label": "ARON, narození 14. 11. 1849 Anna Košťálová, Bělý č. 2",
+          "signatura": "96-7",
+          "detail": "snímek 13",
+          "apu": "f027b4f7-439e-4ffa-86d4-b0a223a38b04",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/f027b4f7-439e-4ffa-86d4-b0a223a38b04/dao/f027b4f7-439e-4ffa-86d4-b0a223a38b04/file/b02b49cb-39d4-4d1c-ad1e-990c505a23ea"
+        }
+      ]
+    },
+    {
+      "id": "q-kubecek-zid-predci",
+      "title": "Kubečkové a Židové: nejistá rodná příjmení a úmrtí Marie",
+      "summary": "Narození Marie Kubečkové 26. 3. 1854 a sňatek jejích rodičů 21. 5. 1844 jsou doloženy. Nejisté jsou rodná příjmení babiček a pozdní poznámka o úmrtí.",
+      "details": "Ludmila, matka Františka Kubečka: 1844 čteno „Pešek(?)“, 1854 „Plšková(?)“, z Machova č. 7. Anna, matka Františky Židové: příjmení nečitelné, snad z Nízké Srbské č. 37. Na okraji křestního zápisu Marie je pozdější poznámka „+12/10 1915“ (zemřela 12. 10. 1915?) bez místa a čísla zápisu; do mapy jen po ověření v matrice zemřelých. Číslo domu v zápisu narození je přepsané (nejspíš 21). Narození Františka (asi 1816, Machov č. 19) a Františky (asi 1819, Machov č. 11) lze hledat v 96-3.",
+      "related_ids": [
+        "marie-kubeckova-barcakova",
+        "frantisek-kubecek-machov21",
+        "frantiska-zidova",
+        "ludmila-kubeckova-machov19",
+        "anna-zidova-machov11"
+      ],
+      "sources": [
+        {
+          "label": "ARON, narození 26. 3. 1854 Marie Kubečková, Machov",
+          "signatura": "96-4",
+          "detail": "snímek 63",
+          "apu": "fcb4abe9-3d31-42b6-86ed-47cd1aca78f3",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/fcb4abe9-3d31-42b6-86ed-47cd1aca78f3/dao/fcb4abe9-3d31-42b6-86ed-47cd1aca78f3/file/64654305-a112-47de-978d-4fe76966e5a2"
+        },
+        {
+          "label": "ARON, sňatek 21. 5. 1844 Machov: František Kubeček × Františka Židová",
+          "signatura": "96-16",
+          "detail": "snímek 20",
+          "apu": "cb90c1cf-803f-4391-b456-d5983c3f388f",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/fddf6868-27b7-460b-a862-2a71c7b8c765"
+        }
+      ]
     }
   ]
 }

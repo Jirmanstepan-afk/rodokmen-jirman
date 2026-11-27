@@ -38,6 +38,20 @@ Jan se oženil 2. července 1872 v Machově. Bylo mu třicet a byl tkadlcem v Ma
 
 Kdy Jan zemřel, zatím nevím. V roce 1902 už nežil a mezitím se stal chalupníkem v Nízké Srbské č. 24. Matrika zemřelých Nízké Srbské z té doby v ARONu není [?q-jan-jirmann-ns24]. V machovské knize zemřelých do května 1897 jsem ho nenašel.
 
+## Košťálovi z Lhoty Polické
+
+Annu Košťálovou jsem našel v bělské knize narozených. Narodila se 14. listopadu 1849 v Bělém č. 2 a druhý den ji pokřtili. Její otec Ignác Košťál byl tehdy podruhem. Byl synem [[josef-kostal-lp14|Josefa Košťála]], podruha z Lhoty Polické č. 14, a [[veronika-kostalova-lp14|Veroniky]]. Matka Anna byla dcerou [[jan-bittner-ns5|Jana Bittnera]], chalupníka z Nízké Srbské č. 5. U porodu byla zase porodní bába Alžběta Jirmannová z Machova č. 74.[^96-7/13: narození Anny Košťálové 14. 11. 1849, Bělý č. 2] Ignác je tentýž člověk jako Hynek ze svatby v roce 1872, Hynek je jen česká podoba jména. Rodiče i obce sedí a jiná Anna se mu v této knize nenarodila.
+
+![96-7/13] Křestní zápis Anny Košťálové z 14. listopadu 1849.
+
+Svatbu jejích rodičů jsem našel v knize oddaných pro Polickou Lhotu. [[hynek-kostal|Ignác Košťál]] si 30. ledna 1849 vzal [[anna-bittnerova-kostalova|Annu Bittnerovou]]. Jemu bylo jedenatřicet, jí pětadvacet, oba byli svobodní. Annina matka [[alzbeta-bittnerova-ns5|Alžběta]] tehdy už nežila.[^96-4235/6: sňatek Ignáce Košťála a Anny Bittnerové 30. 1. 1849] Malá Anna se tedy narodila necelý rok po svatbě. V roce 1852 bydlela rodina v Bělém č. 1 a Ignác byl pořád podruh. Chalupníkem v čísle 43 se stal až později.
+
+![96-4235/6] Svatba Ignáce Košťála a Anny Bittnerové 30. ledna 1849.
+
+Rodná příjmení obou babiček čtu jen nejistě. U Veroniky to vypadá na „Hornych ze Slavného č. 37“, Alžběta byla dcerou Josefa z Nízké Srbské č. 23, jehož příjmení nepřečtu. Narození Ignáce jsem v knize Polické Lhoty z let 1816–1818 nenašel a narození Anny v nízkosrbské knize z let 1822–1826 také ne [?q-kostal-bittner-predci].
+
+> Domněnka: Josef a Veronika byli podruzi a mohli se stěhovat. Ignác se proto mohl narodit jinde, třeba ve Slavném, odkud byla jeho matka. Tužková poznámka u nevěsty na svatebním zápisu se dá číst jako „Bělý 1824“. Pokud to platí, narodila se Anna Bittnerová v Bělém a ne v Nízké Srbské.
+
 ## Václav z čísla 47 a Lorencovi
 
 Svatbu Janových rodičů jsem našel v nízkosrbské knize oddaných. [[vaclav-jirmann-ns26|Václav Jirmann]] si 18. února 1840 vzal [[veronika-bittnerova|Veroniku Bittnerovou]]. Jemu bylo pětadvacet a byl chalupníkem v Nízké Srbské č. 26. Jí bylo čtyřiadvacet a byla dcerou výměnkáře Jana Bittnera ze stejného domu. Václav byl podle zápisu synem zesnulého Václava Jirmanna, chalupníka v Machově č. 47, a Alžběty, rozené Lorenzové, z Nízké Srbské č. 69.[^96-14/29: sňatek Václava Jirmanna a Veroniky Bittnerové 18. 2. 1840]
@@ -60,6 +74,8 @@ Abych domněnku potvrdil nebo vyvrátil, prošel jsem machovské knihy zemřelý
 
 > Domněnka: Dům, řemeslo i věk sedí. Matěj zemřel v čísle 47, kde žil i Václav starší, a jako tkadlec se hodí k Mathiasovi, který se v roce 1777 ženil jako svobodný mládenec. Vdova Anna by se narodila kolem roku 1757 a ke sňatku v roce 1777 by šla ve dvaceti. Mathias, který zemřel v roce 1787 ve věku třiašedesáti let, byl nejspíš ten vdovec z roku 1775. Po roce 1787 by tak v Machově zbyl jen jeden Mathias. Pořád ale nemám žádný zápis, který by Václavovy rodiče výslovně jmenoval. Ve vdovském zápisu z roku 1832 není ani Annino rodné příjmení. Proto Mathiase, Annu Nitschovou ani Tobiase do stromu nedávám [?q-vaclav-jirmann-1790].
 
+Zkusil jsem ještě pozemkové knihy, které by mohly ukázat, kdo dům č. 47 držel. Pro Machov ale v ARONu online nejsou. Pozemkové knihy velkostatku Police jsou v katalogu popsané, ale nemají žádné snímky.
+
 ## Barčákovi
 
 Rodinu Václavovy ženy Anny jsem dohledal také. Anna se narodila 22. prosince 1874 v Machově č. 21.[^96-4232/76: narození Anny Barčákové 22. 12. 1874] Její rodiče [[vincenc-barcak|Vincenc Barčák]] a [[marie-kubeckova-barcakova|Marie Kubečková]] se vzali v Machově jen sedm týdnů předtím, 3. listopadu 1874. Vincenc byl tkadlec a bylo mu třiadvacet, Marii dvacet. Oba byli nezletilí, a tak za Vincence dal svolení soud v Polici a za Marii její otec.[^96-4230/38: sňatek Vincence Barčáka a Marie Kubečkové 3. 11. 1874]
@@ -67,6 +83,14 @@ Rodinu Václavovy ženy Anny jsem dohledal také. Anna se narodila 22. prosince 
 ![96-4230/38] Svatba Vincence Barčáka a Marie Kubečkové v Machově 3. listopadu 1874.
 
 Vincenc se narodil 14. dubna 1851 v Nízké Srbské č. 43. Byl synem výměnkáře [[jakub-barcak|Jakuba Barčáka]] a [[katerina-matenova|Kateřiny]], dcery tkadlce Antonína Matěny z Velkého Poříčí.[^96-15/50: narození Vincence Barčáka 14. 4. 1851] U porodu byla porodní bába Alžběta Jirmanová z Machova č. 74. Marie byla dcerou podruha [[frantisek-kubecek-machov21|Františka Kubečka]] a [[frantiska-zidova|Františky]], dcery Karla Žida z Machova č. 11.
+
+Mariin křest jsem našel v machovské knize narozených. Narodila se 26. března 1854 v Machově a o tři dny později ji pokřtili. Číslo domu je v zápisu přepsané, nejspíš je to 21. Otec František Kubeček byl podruh, syn zesnulého [[karel-kubecek-machov19|Karla Kubečka]], chalupníka z Machova č. 19, a [[ludmila-kubeckova-machov19|Ludmily]]. Matka Františka byla dcerou zesnulého [[karel-zid-machov11|Karla Žida]], chalupníka z Machova č. 11, a [[anna-zidova-machov11|Anny]].[^96-4/63: narození Marie Kubečkové 26. 3. 1854]
+
+![96-4/63] Křestní zápis Marie Kubečkové z 26. března 1854.
+
+Rodiče se vzali v Machově 21. května 1844. Františkovi bylo osmadvacet, Františce pětadvacet. Oba jejich otcové už tehdy nežili.[^96-16/20: sňatek Františka Kubečka a Františky Židové 21. 5. 1844] Rodná příjmení obou babiček jsem s jistotou nepřečetl. Na okraji Mariina křestního zápisu je pozdější poznámka „+12/10 1915“. Zemřela tedy možná 12. října 1915, ale bez zápisu v knize zemřelých to do stromu nedávám [?q-kubecek-zid-predci].
+
+![96-16/20] Svatba Františka Kubečka a Františky Židové v Machově 21. května 1844.
 
 ## Slepé uličky
 

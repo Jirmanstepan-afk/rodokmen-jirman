@@ -760,6 +760,20 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 96-2 (poř.č. 6792), 1784-1802",
    "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, Machov\nN 5.1784-10.1801, O 5.1784-2.1802, Z od 5.1784",
    "url": "https://aron.vychodoceskearchivy.cz/apu/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af"
+  },
+  "96-7": {
+   "apu": "f027b4f7-439e-4ffa-86d4-b0a223a38b04",
+   "dao": "f027b4f7-439e-4ffa-86d4-b0a223a38b04",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 96-7 (poř.č. 6790), 1847-8.1865",
+   "popis": "římskokatolická matrika NAROZENÝCH, Bělý + Řeřišný",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/f027b4f7-439e-4ffa-86d4-b0a223a38b04"
+  },
+  "96-4235": {
+   "apu": "87d4243c-4dd9-45e2-a26f-f24f5037e0c1",
+   "dao": "87d4243c-4dd9-45e2-a26f-f24f5037e0c1",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 96-4235 (poř.č. 6815), 2.1844-8.1886",
+   "popis": "římskokatolická matrika ODDANÝCH, Polická Lhota",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/87d4243c-4dd9-45e2-a26f-f24f5037e0c1"
   }
  },
  "aliasy": {
@@ -3831,9 +3845,10 @@
    "signatura": "96-16",
    "snimek": 20,
    "url": "https://aron.vychodoceskearchivy.cz/apu/cb90c1cf-803f-4391-b456-d5983c3f388f/dao/cb90c1cf-803f-4391-b456-d5983c3f388f/file/fddf6868-27b7-460b-a862-2a71c7b8c765",
-   "vyrez": "celá strana",
+   "vyrez": "zápis",
    "nahled": "img/zdroje/96-16_s020.jpg",
-   "velky": "img/zdroje/96-16_s020_velky.jpg"
+   "velky": "img/zdroje/96-16_s020_velky.jpg",
+   "vyrez_soubor": "p020-oddani-21-5-1844-Machov19-Franz-Kubecek-28-syn-Karla-Kubecka-chalupnika-Machov19-a-Ludmily-Pesek-Machov7-nevesta-Franziska-Zid-25-dcera-Karla-Zida-Machov11.jpg"
   },
   "96-16|21": {
    "signatura": "96-16",
@@ -4196,6 +4211,24 @@
    "velky": "img/zdroje/96-4234_s061_velky.jpg",
    "vyrez_soubor": "p061-narozeni-25-9-1874-Vaclav-Jermann-Bely43-otec-Jan-podruh-syn-Vaclava-Jermanna-NS26-a-Veroniky-Bittnarove-matka-Anna-dcera-Hynka-Kostala-Bely43-a-Anny-Bittnarove-NS5.jpg"
   },
+  "96-4235|6": {
+   "signatura": "96-4235",
+   "snimek": 6,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/87d4243c-4dd9-45e2-a26f-f24f5037e0c1/dao/87d4243c-4dd9-45e2-a26f-f24f5037e0c1/file/460c6a56-1f24-4cf1-b377-81b75225a6e3",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-4235_s006.jpg",
+   "velky": "img/zdroje/96-4235_s006_velky.jpg",
+   "vyrez_soubor": "p006-oddani-30-1-1849-LhotaPolicka14-Ignac-Kostal-31-syn-Josefa-Kostala-podruha-nevesta-Anna-Bittnerova-25-dcera-Jana-Bittnera-chalupnika-NS5.jpg"
+  },
+  "96-4|63": {
+   "signatura": "96-4",
+   "snimek": 63,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fcb4abe9-3d31-42b6-86ed-47cd1aca78f3/dao/fcb4abe9-3d31-42b6-86ed-47cd1aca78f3/file/64654305-a112-47de-978d-4fe76966e5a2",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-4_s063.jpg",
+   "velky": "img/zdroje/96-4_s063_velky.jpg",
+   "vyrez_soubor": "p063-narozeni-26-3-1854-Machov21-Marie-otec-Frantisek-Kubecek-podruh-syn-Karla-Kubecka-Machov19-matka-Frantiska-dcera-Karla-Zida-Machov11.jpg"
+  },
   "96-4|77": {
    "signatura": "96-4",
    "snimek": 77,
@@ -4266,6 +4299,15 @@
    "nahled": "img/zdroje/96-7319_s046.jpg",
    "velky": "img/zdroje/96-7319_s046_velky.jpg",
    "vyrez_soubor": "jirman-frantiska-1884-L.jpg"
+  },
+  "96-7|13": {
+   "signatura": "96-7",
+   "snimek": 13,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/f027b4f7-439e-4ffa-86d4-b0a223a38b04/dao/f027b4f7-439e-4ffa-86d4-b0a223a38b04/file/b02b49cb-39d4-4d1c-ad1e-990c505a23ea",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-7_s013.jpg",
+   "velky": "img/zdroje/96-7_s013_velky.jpg",
+   "vyrez_soubor": "p013-narozeni-14-11-1849-Bely2-Anna-otec-Ignac-Kostal-podruh-syn-Josefa-Kostala-Lhota-Policka14-matka-Anna-dcera-Jana-Bittnera-NS5.jpg"
   },
   "96-9405|66": {
    "signatura": "96-9405",
