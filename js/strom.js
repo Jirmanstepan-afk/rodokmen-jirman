@@ -90,7 +90,7 @@
     if (g === 1) return "rodiče";
     if (g === 2) return "prarodiče";
     if (g <= 5) return "pra".repeat(g - 2) + "rodiče";
-    return `${g}. generace`;
+    return "předkové";
   }
   function sideOf(id) {
     const n = S.sosa.get(id); const g = S.gen.get(id);
@@ -289,6 +289,7 @@
     const badge = $("#filter-count"); badge.hidden = !cnt; badge.textContent = cnt;
     paintDim();
     if (S.view === "seznam") renderList();
+    else if (S.view === "vejir") { const k = { ...S.T }; renderFan(); S.T = k; applyT(); }
   }
   function paintDim() {
     const act = filterActive();
@@ -391,6 +392,12 @@
     $("#root-info").innerHTML = root === S.data.meta.focus ? "Střed: Štěpán. Klik na osobu = detail."
       : `Střed: ${esc(cleanName(rp.name))} · <button type="button" id="root-back">zpět na Štěpána</button>`;
     const rb = $("#root-back"); if (rb) rb.addEventListener("click", () => setRoot(null));
+    if (filterActive()) {
+      const shown = new Set(slots.values());
+      const hidden = baseList().filter((p) => matches(p) && S.gen.has(p.id) && !shown.has(p.id)).length;
+      if (hidden) $("#root-info").insertAdjacentHTML("beforeend", `<br><b>${hidden}</b> shod leží za okrajem vějíře – přidejte generace nebo otevřete <button type="button" id="to-list">Seznam</button>.`);
+      const tl = $("#to-list"); if (tl) tl.addEventListener("click", () => setView("seznam"));
+    }
     paintDim(); paintSel();
   }
   function fanText(grp, p, g, r0, r1, a0, a1) {

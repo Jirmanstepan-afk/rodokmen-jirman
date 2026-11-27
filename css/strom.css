@@ -212,3 +212,5 @@ a { color: var(--accent); }
 .tg rect { fill: #3a2716; }
 .tg text { fill: #fbeccb !important; font-size: 12px; font-weight: 700; font-family: var(--ui); }
 .tg:hover rect { fill: #7a3a1c; }
+
+#root-info #to-list{background:none;border:0;padding:0;font:inherit;color:#7a3b1d;text-decoration:underline;cursor:pointer}
