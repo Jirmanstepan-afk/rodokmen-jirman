@@ -2,11 +2,19 @@ Františka Hrubá, která si v roce 1874 vzala Josefa Maroula, pocházela z Ledh
 
 ## Hrubí z Ledhuj č. 52
 
-Nejstarší, koho znám, je [[frantisek-hruby-ledhuje|František Hrubý]], sedlák v Ledhujích č. 52. Jeho syn [[jan-hruby-st|Jan]] (v roce 1822 podruh v Ledhujích č. 52, v roce 1856 výměnkář tamtéž[^130-18/25: narození syna Jana Václava 10. 2. 1822][^130-7417/15: sňatek syna 2. 6. 1856]), 24 let, se 15. února 1813 oženil s dvacetiletou [[anna-hruba-st|Annou]], dcerou zesnulého sedláka Josefa z Ledhuj č. 34. Jeho příjmení čtu ve třech zápisech třikrát jinak (*Ssolz*, *Schulz*, *Scheele*). Nejspíš to je Šolc, ale zatím to nevím jistě [?q-hruby-ventr-predci]. Svědkem na svatbě byl chalupník Václav Winter.[^130-17/10: oddací zápis 15. 2. 1813, Ledhuje]
+Nejstarší, koho znám, je [[frantisek-hruby-ledhuje|František Hrubý]], sedlák v Ledhujích č. 52. Jeho syn [[jan-hruby-st|Jan]] (v letech 1817 a 1819 sedlák v Ledhujích č. 52,[^130-18/19: narození dcery Anny Veroniky, květen 1817][^130-18/21: narození dcery Veroniky, říjen 1819] v roce 1822 podruh tamtéž, v roce 1856 výměnkář tamtéž[^130-18/25: narození syna Jana Václava 10. 2. 1822][^130-7417/15: sňatek syna 2. 6. 1856]), 24 let, se 15. února 1813 oženil s dvacetiletou [[anna-hruba-st|Annou]], dcerou zesnulého sedláka Josefa z Ledhuj č. 34. Jeho příjmení čtu ve třech zápisech třikrát jinak (*Ssolz*, *Schulz*, *Scheele*). Nejspíš to je Šolc, ale zatím to nevím jistě [?q-hruby-ventr-predci]. Svědkem na svatbě byl chalupník Václav Winter.[^130-17/10: oddací zápis 15. 2. 1813, Ledhuje]
 
 ![130-17/10] Svatba Jana Hrubého a Anny 15. února 1813 v Ledhujích. Mezi svědky je chalupník Václav Winter.
 
 Jan byl později v č. 52 podruhem a nakonec výměnkářem. Dne 10. února 1822 se mu narodil syn [[jan-hruby|Jan Václav]].[^130-18/25: narození Jana Václava Hrubého 10. 2. 1822, Ledhuje č. 52]
+
+Jan Václav nebyl první dítě. V č. 52 se Janovi a Anně narodily už dcery Anna Kateřina (7. října 1815), Anna Veronika (v květnu 1817) a Veronika (v říjnu 1819). Že druhá Veronika dostala jméno už jednou použité, napovídá, že Anna Veronika zemřela jako malá – to jsem ale zatím neověřil.[^130-18/19: narození Anny Veroniky Hrubé, květen 1817, Ledhuje č. 52][^130-18/21: narození Veroniky Hrubé, říjen 1819, Ledhuje č. 52]
+
+![130-18/19] Narození Anny Veroniky Hrubé v květnu 1817. Otec Jan Hrubý je tu ještě sedlák, matka „Anna, dcera † Josefa … N. 34“.
+
+Zajímavost: v letech 1817 a 1819 je Jan zapsán jako sedlák, v roce 1822 už jako podruh a v roce 1856 jako výměnkář. Statek č. 52 tedy možná brzy přešel na někoho jiného.
+
+> Domněnka: Matka je v obou zápisech dcerou zemřelého Josefa z č. 34 a příjmení se tu čte jako Šolc (*Šolce*, *Šolcy*). Spolu se zápisy z let 1813 a 1822 to Šolcovou dál posiluje, ale písmo je nejasné, a tak ji do stromu zatím nedávám [?q-hruby-ventr-predci].
 
 ## Wintrové z Ledhuj č. 26 a 45
 

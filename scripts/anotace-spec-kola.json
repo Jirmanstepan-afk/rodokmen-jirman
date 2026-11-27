@@ -1655,6 +1655,150 @@
     }
    ],
    "plyne": "Devadesátiletý Jan Jiří Falta (*asi 1723) nemůže být otcem Doroty narozené kolem 1792; jediným vhodným zemřelým Jiřím zůstává podruh † 1799."
+  },
+  {
+   "key": "130-18|19",
+   "src": "img/zdroje/130-18_s019_velky.jpg",
+   "title": "Narození Anny Veroniky Hrubé – Ledhuje č. 52, květen 1817",
+   "zdroj": "SOA Zámrsk, sign. 130-18, snímek 19",
+   "crop": [
+    0,
+    0,
+    2000,
+    381
+   ],
+   "entry": [
+    0,
+    40,
+    2000,
+    381
+   ],
+   "marks": [
+    {
+     "box": [
+      0,
+      40,
+      170,
+      340
+     ],
+     "lat": "Maji (1817)",
+     "cs": "květen 1817"
+    },
+    {
+     "box": [
+      170,
+      50,
+      290,
+      135
+     ],
+     "lat": "52",
+     "cs": "dům č. 52"
+    },
+    {
+     "box": [
+      310,
+      60,
+      520,
+      200
+     ],
+     "lat": "Anna Weronika",
+     "cs": "Anna Veronika"
+    },
+    {
+     "box": [
+      940,
+      60,
+      1160,
+      180
+     ],
+     "lat": "Jan Hruby, sedlák",
+     "cs": "otec Jan Hrubý, sedlák"
+    },
+    {
+     "box": [
+      1170,
+      70,
+      1400,
+      320
+     ],
+     "lat": "Anna, dcera + Josefa Šolce(?) N. 34",
+     "cs": "matka Anna, dcera zemřelého Josefa Šolce(?) z č. 34",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Anna, žena Jana Hrubého z č. 52, je dcerou zemřelého Josefa z č. 34; příjmení se čte jako Šolc, ale ne bezpečně."
+  },
+  {
+   "key": "130-18|21",
+   "src": "img/zdroje/130-18_s021_velky.jpg",
+   "title": "Narození Veroniky Hrubé – Ledhuje č. 52, říjen 1819",
+   "zdroj": "SOA Zámrsk, sign. 130-18, snímek 21",
+   "crop": [
+    0,
+    0,
+    2000,
+    349
+   ],
+   "entry": [
+    0,
+    40,
+    2000,
+    349
+   ],
+   "marks": [
+    {
+     "box": [
+      0,
+      40,
+      170,
+      300
+     ],
+     "lat": "October (1819)",
+     "cs": "říjen 1819"
+    },
+    {
+     "box": [
+      170,
+      90,
+      260,
+      200
+     ],
+     "lat": "52",
+     "cs": "dům č. 52"
+    },
+    {
+     "box": [
+      280,
+      60,
+      530,
+      160
+     ],
+     "lat": "Veronica",
+     "cs": "Veronika"
+    },
+    {
+     "box": [
+      760,
+      50,
+      1000,
+      210
+     ],
+     "lat": "Jan Hruby, sedlák",
+     "cs": "otec Jan Hrubý, sedlák"
+    },
+    {
+     "box": [
+      1080,
+      60,
+      1410,
+      280
+     ],
+     "lat": "Anna, dcera + Josefa Šolce(?) z Ledhuj(?)",
+     "cs": "matka Anna, dcera zemřelého Josefa Šolce(?)",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Druhý zápis se stejnou matkou – Anna, dcera zemřelého Josefa Šolce(?); čtení příjmení zůstává nejisté."
   }
  ]
 }

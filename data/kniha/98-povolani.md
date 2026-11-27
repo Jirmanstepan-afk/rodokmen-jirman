@@ -57,7 +57,7 @@ Původní znění z matriky nechávám i s německým nebo latinským výrazem v
 - Maderové a Knoppové: [[ignaz-mader-ml|Ignaz Mader]] – chalupník (1833), výměnkář (1858, 1863), Sedloňov č. 120
 - Maderové a Knoppové: [[josef-knopp|Josef Knopp]] – tkadlec (Weber), Olešnice v Orl. horách č. 160
 - Maroulové: [[frantisek-ventr|František Ventr]] – tkadlec (Weber), Ledhuje č. 45 (1856); chalupník a výměnkář (Ausgedinger), Ledhuje č. 75 (1874)
-- Maroulové: [[jan-hruby-st|Jan (Johann) Hrubý]] – výměnkář (Ausgedinger), Ledhuje č. 52 (1856)
+- Maroulové: [[jan-hruby-st|Jan (Johann) Hrubý]] – sedlák, Ledhuje č. 52 (1817, 1819[^130-18/19: narození dcery Anny Veroniky, květen 1817][^130-18/21: narození dcery Veroniky, říjen 1819]); podruh, Ledhuje č. 52 (1822[^130-18/25: narození syna Jana Václava 10. 2. 1822]); výměnkář (Ausgedinger), Ledhuje č. 52 (1856)
 - Maroulové: [[tobias-maroul|Tobiáš Maroul]] – chalupník, Nízká Srbská č. 71 (1846); chalupník, Nízká Srbská č. 77 (1878, zápis syna Václava)
 - Máslovi: [[jan-maslo-ns71-otec|Jan Máslo]] – výměnkář, Nízká Srbská č. 30 (1846); výměnkář, Nízká Srbská č. 39 (1850)
 - Meierové a Dauerové: [[benedikt-meier|Benedikt Meier]] – chalupník (Häusler) v Ruprechticích č. 107 při sňatku 22. 11. 1841. Později podruh (Inwohner) v Ruprechticích č. 93 (narození dětí 1845 a 1846). Příjmení Mayer (1841, 1845–1846) / Meier (1873 a později)

@@ -1077,6 +1077,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 12-6 (poř.č. 462), 1723-1784",
    "popis": "římskokatolický index NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, farnost (Boušín, Mečov, Slatina nad Úpou)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/3863d3b8-7249-475e-945e-92212d50c1b8"
+  },
+  "53-64": {
+   "apu": "75ab804b-d8e0-423a-842a-798cc37982c0",
+   "dao": "75ab804b-d8e0-423a-842a-798cc37982c0",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 53-64 (poř.č. 3754), 1807-1832",
+   "popis": "římskokatolická matrika ZEMŘELÝCH, římskokatolický index ZEMŘELÝCH, Hronov (5.1807-1832)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/75ab804b-d8e0-423a-842a-798cc37982c0"
   }
  },
  "aliasy": {
@@ -1660,6 +1667,24 @@
    "nahled": "img/zdroje/130-17_s005.jpg",
    "velky": "img/zdroje/130-17_s005_velky.jpg",
    "vyrez_soubor": "z130-17-s05-1793-06-11-snatek-vaclav-winter-rosina-kandidat.jpg"
+  },
+  "130-18|19": {
+   "signatura": "130-18",
+   "snimek": 19,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/cf2e434f-222b-45cd-983f-270cf0915325",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-18_s019.jpg",
+   "velky": "img/zdroje/130-18_s019_velky.jpg",
+   "vyrez_soubor": "n130-18-s19-1817-05-anna-veronika-hruba-c52-otec-jan-hruby-sedlak-matka-anna-dcera-josefa-solce-c34.jpg"
+  },
+  "130-18|21": {
+   "signatura": "130-18",
+   "snimek": 21,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/989bcbc7-1797-4214-a499-f3eca8fa05c6",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-18_s021.jpg",
+   "velky": "img/zdroje/130-18_s021_velky.jpg",
+   "vyrez_soubor": "n130-18-s21-1819-10-veronika-hruba-c52-otec-jan-hruby-sedlak-matka-anna-dcera-josefa-solce.jpg"
   },
   "130-18|22": {
    "signatura": "130-18",
@@ -4919,6 +4944,14 @@
    "nahled": "img/zdroje/53-53_s046.jpg",
    "velky": "img/zdroje/53-53_s046_velky.jpg",
    "vyrez_soubor": "o53-53-s46-fol44-1857-10-13-josef-jirmann-vdovec-vs32-otec-josef-vs39-x-anna-adamova.jpg"
+  },
+  "53-64|123": {
+   "signatura": "53-64",
+   "snimek": 123,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/75ab804b-d8e0-423a-842a-798cc37982c0/dao/75ab804b-d8e0-423a-842a-798cc37982c0/file/dbb46cba-bca9-482e-811b-1f0defc2f36a",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/53-64_s123.jpg",
+   "velky": "img/zdroje/53-64_s123_velky.jpg"
   },
   "53-72|20": {
    "signatura": "53-72",
