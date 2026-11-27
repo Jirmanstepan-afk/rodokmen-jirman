@@ -838,6 +838,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 171-9 (poř.č. 12182), 1784-1847",
    "popis": "římskokatolická matrika ZEMŘELÝCH, Velký Uhřínov (1784-1847), Malý Uhřínov (1784-1797), Benátky (1784-1796), Bělá (1784-1797), Bukový (1784-1797), Tisovec (1784-1797), Hutě (1784-1797), Podolí (1784-1797), Kamenec (1784-1797)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/a56cfc73-d272-4f88-aef6-feafbf1fa353"
+  },
+  "171-2797": {
+   "apu": "f7a85f10-ccc5-41dc-9d4c-b19a8cf97643",
+   "dao": "f7a85f10-ccc5-41dc-9d4c-b19a8cf97643",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 171-2797 (poř.č. 12181), 1784-1837",
+   "popis": "římskokatolická matrika ODDANÝCH, Velký Uhřínov (1784-1837), Malý Uhřínov (1784-1796), Benátky (1784-1787), Bělá (1784-1796), Bukový (1784-1796), Tisovec (1784-1793), Hutě (1784-1795), Podolí (1784-1795), Kamenec (1784-1804)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/f7a85f10-ccc5-41dc-9d4c-b19a8cf97643"
   }
  },
  "aliasy": {
@@ -1150,6 +1157,15 @@
    "nahled": "img/zdroje/13-53_s073.jpg",
    "velky": "img/zdroje/13-53_s073_velky.jpg",
    "vyrez_soubor": "z13-53-s73-index-n-lit-h-1761-1766-bez-antona-hausdorfa.jpg"
+  },
+  "13-56|13": {
+   "signatura": "13-56",
+   "snimek": 13,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/98b82b7e-43c8-434b-8fb8-e4ac4ced1d90/dao/98b82b7e-43c8-434b-8fb8-e4ac4ced1d90/file/98f14af7-e718-4c7a-aa57-571ebab704c4",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/13-56_s013.jpg",
+   "velky": "img/zdroje/13-56_s013_velky.jpg",
+   "vyrez_soubor": "z13-56-s13-index-o-lit-d-1773-1783-bez-dauera.jpg"
   },
   "13-56|28": {
    "signatura": "13-56",
@@ -2524,6 +2540,24 @@
    "nahled": "img/zdroje/144-8637_s038.jpg",
    "velky": "img/zdroje/144-8637_s038_velky.jpg"
   },
+  "171-2797|25": {
+   "signatura": "171-2797",
+   "snimek": 25,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/f7a85f10-ccc5-41dc-9d4c-b19a8cf97643/dao/f7a85f10-ccc5-41dc-9d4c-b19a8cf97643/file/44e63c59-a9b8-44af-b97b-4992ab055403",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-2797_s025.jpg",
+   "velky": "img/zdroje/171-2797_s025_velky.jpg",
+   "vyrez_soubor": "s025-oddani-Maly-Uhrinov-5-10-1784-c34-Ignaz-Bek-23-x-Katharina-Seibert-22.jpg"
+  },
+  "171-2797|26": {
+   "signatura": "171-2797",
+   "snimek": 26,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/f7a85f10-ccc5-41dc-9d4c-b19a8cf97643/dao/f7a85f10-ccc5-41dc-9d4c-b19a8cf97643/file/0cfa7561-2663-40c2-b3d9-77a5db7cc552",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-2797_s026.jpg",
+   "velky": "img/zdroje/171-2797_s026_velky.jpg",
+   "vyrez_soubor": "s026-oddani-Maly-Uhrinov-3-6-1788-c1-Friedrich-Neugebauer-29-x-vdova-Katharina-Pross-26.jpg"
+  },
   "171-2|129": {
    "signatura": "171-2",
    "snimek": 129,
@@ -2532,6 +2566,24 @@
    "nahled": "img/zdroje/171-2_s129.jpg",
    "velky": "img/zdroje/171-2_s129_velky.jpg",
    "vyrez_soubor": "s129-oddani-23-2-1784-Benatky6-Andreas-syn-zemr-Franze-Prosse-zahradnika-x-Katharina-dcera-Johanna-Rolecka-sedlaka-Maly-Uhrinov.jpg"
+  },
+  "171-2|23": {
+   "signatura": "171-2",
+   "snimek": 23,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922/dao/ae8057d2-4543-4429-836f-2da5eee0f922/file/f24bdc43-6c24-43f3-8b47-77082b521015",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-2_s023.jpg",
+   "velky": "img/zdroje/171-2_s023_velky.jpg",
+   "vyrez_soubor": "s023-narozeni-Maly-Uhrinov-29-7-1760-Ignatius-syn-Josepha-Neugebauera-krcmare.jpg"
+  },
+  "171-2|26": {
+   "signatura": "171-2",
+   "snimek": 26,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922/dao/ae8057d2-4543-4429-836f-2da5eee0f922/file/2c2d221a-6618-4573-a6f5-eb95640ace37",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-2_s026.jpg",
+   "velky": "img/zdroje/171-2_s026_velky.jpg",
+   "vyrez_soubor": "s026-narozeni-Maly-Uhrinov-31-7-1761-Ignatius-syn-Josepha-Becka-a-Ludmily-kmotr-Franz-zahradnik-Benatky.jpg"
   },
   "171-3|50": {
    "signatura": "171-3",
