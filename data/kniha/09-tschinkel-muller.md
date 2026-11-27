@@ -20,8 +20,23 @@ Annin křest jsem našel v deštenské knize narozených. Ta je rozdělená podl
 
 Aloisiin vlastní křest jsem zatím nenašel. Kout v deštenské knize z let 1837–1842 ani v rejstříku narozených z let 1819–1829 žádnou Aloisii Tschinkelovou nemá. Svatba Josefa Tschinkela v deštenském rejstříku oddaných do roku 1828 také není. V rejstříku jsou jen svatby Karla a Ondřeje Tschinkelových. Ženich se ale tehdy obvykle ženil ve farnosti nevěsty, takže svatbu s Annou Dienerovou je třeba hledat spíš tam [?q-tschinkel-24-9].
 
+Pak jsem prošel i zbytek. V rejstříku narozených jsem četl písmeno T za léta 1808–1818 a 1831–1835. Ve staré knize jsem přečetl jména všech dětí pokřtěných od jara 1835 do června 1837, kdy kniha končí. Aloisie Tschinkelová nikde není.[^24-9/26: rejstřík narozených, písmeno T, 1831–1835] Deštenští Tschinkelové v rejstříku jsou, a to už od roku 1784: Karel, Josef, Jan, Klára, Gertruda a další. Žádná Aloisie mezi nimi ale není. Narodila se tedy nejspíš jinde.
+
+> Domněnka: Nejpravděpodobnější mi připadá, že se Aloisie narodila ve farnosti své matky Anny Dienerové, tedy v obci u čísla 21, kterou zatím neumím přečíst. Do Koutu by pak rodina přišla až později.
+
+V rejstříku jsem narazil na Josefa Tschinkela pokřtěného 19. března 1814. Narodil se v obci zapsané jako Hüttenberg č. 7 (českou podobu jména zatím neověřuji). Byl synem Karla Tschinkela, podruha v Hüttenbergu, a Alžběty, dcery zahradníka (*Gärtner*) z Neudorfu č. 30.[^24-5/96: narození 19. 3. 1814 Josef, Hüttenberg č. 7 – jen kandidát] Věkem by mohl být Aloisiiným otcem. Nic ale zatím nedokazuje, že jde o téhož Josefa, který žil v roce 1855 v Koutu č. 16. Do stromu ho proto nedávám, je jen v otevřených dotazech [?q-tschinkel-24-9].
+
+> Domněnka: Jestli je to on, pocházela by tschinkelovská větev z Hüttenbergu a Josef by byl stejně jako jeho otec podruhem, tedy člověkem bez vlastního domu, který bydlel v cizím. Ověřit by to mohl jeho úmrtní zápis s uvedeným věkem.
+
 ## Marie Müllerová z Libné
 
 [[marie-mullerova-1896|Marie Müllerová]], žena Josefa Syrového, se narodila 9. ledna 1896 v Libné č. 42 u Broumova. Její vlastní rodný zápis online není, datum i dům znám z poznámky u narození jejího syna. V roce 1916 byla tovární dělnicí v Broumově. Její otec [[leopold-muller|Leopold Müller]] byl textilní dělník (*Zeugarbeiter*). Matka [[marie-nagelova|Marie]] byla dcerou [[franz-nagel|Franze Nagela]] ze vsi, kterou čtu jako Unter-Hein[z?]endorf v okrese Mohelnice na zábřežském panství. Okres a panství jsou čitelné, přesný název vsi zatím ne.
+
+**Zajímavosti – Marie, Leopold a Nagelovi.**
+- Marii bylo 20 let, když se jí v roce 1916 narodil syn. Pracovala tehdy jako tovární dělnice v Broumově. (zápis syna 1916)
+- Svatba 23. listopadu 1916 byla válečná. Ženich byl tehdy tkadlec a Marie dělnice, oba tedy zjevně z textilních továren. (oddací zápis 1916)
+- Mariin otec Leopold je zapsán jako *Zeugarbeiter*, tedy dělník při výrobě látek (*Zeug* = tkanina). (zápis 1916)
+- Mariina matka pocházela až z Moravy, z okresu Mohelnice na zábřežském panství, vzdušnou čarou asi 100 km od Broumova. (zápis 1916)
+- Od roku 1925 je Marie stejně jako manžel zapsaná jako bez vyznání (*konfessionslos*). (poznámka u sňatku 1916)
 
 > Domněnka: Marie a Josef byli oba textilní dělníci, Josef z Chocně a Mariina matka z Moravy. Myslím, že je k sobě přivedly broumovské továrny, kam se tehdy chodilo za prací zdaleka. Kde se poznali, ale nevím.

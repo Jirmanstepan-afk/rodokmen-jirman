@@ -47,6 +47,7 @@
    "apu": "50e30184-3b2b-40c6-a01b-4ff04d029a95",
    "dao": "50e30184-3b2b-40c6-a01b-4ff04d029a95",
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 24-9 (poř.č. 1650), 1784-1835",
+   "popis": "římskokatolický index NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, farnost (Deštné v Orlických horách, Dříš, Jedlová v Orlických horách, Kout, Mnichová, Paseka, Pastviny, Víska, Zákoutí)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/50e30184-3b2b-40c6-a01b-4ff04d029a95"
   },
   "130-7417": {
@@ -788,6 +789,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 24-3931 (poř.č. 1631), 7.1837-1874",
    "popis": "římskokatolická matrika NAROZENÝCH, Deštné v Orlických horách, Dříš, Kout, Paseka, Víska, Pastviny, Zákoutí",
    "url": "https://aron.vychodoceskearchivy.cz/apu/86cf28fe-e244-4e05-8712-d51efa9cf43a"
+  },
+  "24-5": {
+   "apu": "9634f2ed-f27b-4902-b935-cc261da19e92",
+   "dao": "9634f2ed-f27b-4902-b935-cc261da19e92",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 24-5 (poř.č. 1630), 5.1784-6.1837",
+   "popis": "římskokatolická matrika NAROZENÝCH, Deštné v Orlických horách + Dříš + Kout + Paseka + Pastviny + Víska + Zákoutí",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/9634f2ed-f27b-4902-b935-cc261da19e92"
   }
  },
  "aliasy": {
@@ -3066,6 +3074,15 @@
    "velky": "img/zdroje/24-3931_s169_velky.jpg",
    "vyrez_soubor": "p169-narozeni-13-2-1855-Kout-Stiefwinkel16-Anna-nemanzelska-dcera-Aloisie-Tschinkelove-dcery-Josefa-Tschinkela-a-Anny-Dienerove.jpg"
   },
+  "24-5|96": {
+   "signatura": "24-5",
+   "snimek": 96,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/9634f2ed-f27b-4902-b935-cc261da19e92/dao/9634f2ed-f27b-4902-b935-cc261da19e92/file/24252a88-1e2b-48b4-9efb-29a9ad945aa0",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/24-5_s096.jpg",
+   "velky": "img/zdroje/24-5_s096_velky.jpg",
+   "vyrez_soubor": "s96-fol183-narozeni-19-3-1814-Hutenberg7-Josef-syn-Karla-Tschinkela-a-Alzbety-KANDIDAT-nejisty.jpg"
+  },
   "24-9|25": {
    "signatura": "24-9",
    "snimek": 25,
@@ -3073,6 +3090,15 @@
    "vyrez": "celá strana",
    "nahled": "img/zdroje/24-9_s025.jpg",
    "velky": "img/zdroje/24-9_s025_velky.jpg"
+  },
+  "24-9|26": {
+   "signatura": "24-9",
+   "snimek": 26,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/50e30184-3b2b-40c6-a01b-4ff04d029a95/dao/50e30184-3b2b-40c6-a01b-4ff04d029a95/file/cae1f950-8abc-4cdd-80e9-5c0bfbc741ee",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/24-9_s026.jpg",
+   "velky": "img/zdroje/24-9_s026_velky.jpg",
+   "vyrez_soubor": "s26-index-narozeni-T-1831-1835-Tschinkel-bez-Aloisie.jpg"
   },
   "3141|151": {
    "signatura": "3141",
