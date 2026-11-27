@@ -3738,7 +3738,7 @@
    "vyrez": "zápis",
    "nahled": "img/zdroje/96-13_s014.jpg",
    "velky": "img/zdroje/96-13_s014_velky.jpg",
-   "vyrez_soubor": "p014-oddani-18-6-1812-NS55-Jan-syn-Tobiase-prijmeni-necitelne-nevesta-Alzbeta-dcera-Josefa-Kuhn-nejiste-NS61-nejiste-stopa-Bittner.jpg"
+   "vyrez_soubor": "p014-oddani-18-6-1812-NS55-Jan-syn-Tobiase-Bittnera-x-Alzbeta-dcera-Josefa-Kuhna-NS61.jpg"
   },
   "96-13|15": {
    "signatura": "96-13",
@@ -3794,6 +3794,15 @@
    "velky": "img/zdroje/96-13_s024_velky.jpg",
    "vyrez_soubor": "z96-13-s24-1791-krty-nizka-srbska-tobias-c17-a-c15-jine-rodiny.jpg"
   },
+  "96-13|33": {
+   "signatura": "96-13",
+   "snimek": 33,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/dao/7b7474d9-7487-45d6-b6c1-c0af58dc1dc7/file/745fbace-fbe5-4aea-b3fa-3bd6049dc7c4",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-13_s033.jpg",
+   "velky": "img/zdroje/96-13_s033_velky.jpg",
+   "vyrez_soubor": "p033-narozeni-6-7-1797-NS55-Frantisek-Bittner-otec-Tobias-Bittner-sedlak.jpg"
+  },
   "96-13|35": {
    "signatura": "96-13",
    "snimek": 35,
@@ -3820,6 +3829,15 @@
    "nahled": "img/zdroje/96-14_s004.jpg",
    "velky": "img/zdroje/96-14_s004_velky.jpg",
    "vyrez_soubor": "z96-14-s4-pag1-1815-01-17-tobias-maroul-chalupnik-nizka-srbska-x-marie-dcera-antonina-simka-c23.jpg"
+  },
+  "96-14|44": {
+   "signatura": "96-14",
+   "snimek": 44,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fd41faee-39b9-4778-85aa-e390771f02c0/dao/fd41faee-39b9-4778-85aa-e390771f02c0/file/c0bfa7d5-d1ef-4709-a388-987d32f4ea93",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-14_s044.jpg",
+   "velky": "img/zdroje/96-14_s044_velky.jpg",
+   "vyrez_soubor": "p044-narozeni-25-8-1815-NS23-Veronika-Bittnerova-otec-Jan-Bittner-matka-Alzbeta-dcera-Josefa-Kuhna.jpg"
   },
   "96-15|21": {
    "signatura": "96-15",
@@ -4078,6 +4096,15 @@
    "nahled": "img/zdroje/96-2_s017.jpg",
    "velky": "img/zdroje/96-2_s017_velky.jpg",
    "vyrez_soubor": "p017-narozeni-14-1-1786-Machov46-Franz-otec-Matthias-Jirman-tkadlec-matka-Anna.jpg"
+  },
+  "96-2|21": {
+   "signatura": "96-2",
+   "snimek": 21,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af/dao/4eaee35d-58bc-4bbb-9e9c-0602ff71d2af/file/403d74e1-cb35-43ad-9dbb-d4ec02237381",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/96-2_s021.jpg",
+   "velky": "img/zdroje/96-2_s021_velky.jpg",
+   "vyrez_soubor": "p021-narozeni-23-1-1788-Machov22-Josef-Ignac-Zid-otec-Karel-Zid-matka-Anna.jpg"
   },
   "96-2|25": {
    "signatura": "96-2",
