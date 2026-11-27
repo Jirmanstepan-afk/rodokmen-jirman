@@ -1759,6 +1759,472 @@
    ],
    "plyne": "Zápis je tak vybledlý, že jistě čtu jen datum; jméno otce, dítěte a původ kmotrů čtu s otazníkem. Martin Scholtz z roku 1620 je proto jen kandidát na otce Rosiny, nevěsty z roku 1678 – spojení zůstává domněnkou.",
    "src": "img/zdroje/99-1_s101_velky.jpg"
+  },
+  {
+   "key": "141-7598|193",
+   "title": "Křest Judith Hertzogové – Ruprechtice, 19. srpna 1677",
+   "zdroj": "SOA Zámrsk, sign. 141-7598, snímek 193, pravá strana (poslední zápis, č. 33)",
+   "crop": [
+    1040,
+    1335,
+    1930,
+    1500
+   ],
+   "entry": [
+    1060,
+    1342,
+    1915,
+    1495
+   ],
+   "marks": [
+    {
+     "box": [
+      1065,
+      1345,
+      1230,
+      1385
+     ],
+     "lat": "33 Den 19 Dito",
+     "cs": "č. 33, dne 19. téhož měsíce (srpna 1677)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1230,
+      1345,
+      1487,
+      1385
+     ],
+     "lat": "hat Jonas Hertzog",
+     "cs": "dal Jonas Hertzog",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1487,
+      1345,
+      1838,
+      1385
+     ],
+     "lat": "und seine Haußfrau Judith",
+     "cs": "a jeho manželka Judith",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1408,
+      1386,
+      1595,
+      1418
+     ],
+     "lat": "ein Tochter tauffen lassen mit Nahmen Judith",
+     "cs": "pokřtít dceru jménem Judith"
+    },
+    {
+     "box": [
+      [
+       1598,
+       1386,
+       1908,
+       1418
+      ],
+      [
+       1178,
+       1422,
+       1908,
+       1456
+      ],
+      [
+       1178,
+       1460,
+       1378,
+       1494
+      ]
+     ],
+     "lat": "Die Gatten waren Maria Martin Klämpts Ehewirtin von Ruppersdorff und Hans Dimbter von …",
+     "cs": "kmotři: Maria, manželka Martina Klämpta z Ruprechtic, a Hans Dimbter",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Jonas Hertzog a jeho žena Judith dali 19. 8. 1677 v Ruprechticích pokřtít dceru Judith – pozdější nevěstu Hanse Rosenbergera z roku 1702. Jonas a Judith starší jsou tak nejstarší doložení předci po této linii.",
+   "src": "img/zdroje/141-7598_s193_velky.jpg"
+  },
+  {
+   "key": "141-7598|499",
+   "title": "Pohřeb mládence Hanse Hertzoga – Ruprechtice, 19. dubna 1695",
+   "zdroj": "SOA Zámrsk, sign. 141-7598, snímek 499, levá strana (pag. 118)",
+   "crop": [
+    30,
+    85,
+    930,
+    820
+   ],
+   "skip_y": [
+    [
+     150,
+     335
+    ]
+   ],
+   "entry": [
+    40,
+    340,
+    920,
+    815
+   ],
+   "marks": [
+    {
+     "box": [
+      470,
+      90,
+      590,
+      148
+     ],
+     "lat": "April",
+     "cs": "duben (1695)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      48,
+      346,
+      230,
+      388
+     ],
+     "lat": "Den 19. Dito",
+     "cs": "dne 19. téhož měsíce",
+     "pos": "top"
+    },
+    {
+     "box": [
+      230,
+      346,
+      580,
+      388
+     ],
+     "lat": "ist Junggesell Hans Hertzog",
+     "cs": "byl mládenec Hans Hertzog",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       580,
+       346,
+       872,
+       388
+      ],
+      [
+       30,
+       396,
+       592,
+       438
+      ]
+     ],
+     "lat": "weyl. Jonas Hertzogs nachgelassener ehel. Sohn von Ruppersdorff",
+     "cs": "pozůstalý manželský syn zesnulého Jonase Hertzoga z Ruprechtic",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       592,
+       396,
+       912,
+       438
+      ],
+      [
+       30,
+       446,
+       680,
+       488
+      ]
+     ],
+     "lat": "mit einer Gesungenen Seel Meß begraben worden",
+     "cs": "pohřben se zpívanou zádušní mší"
+    },
+    {
+     "box": [
+      370,
+      636,
+      465,
+      694
+     ],
+     "lat": "May",
+     "cs": "květen"
+    },
+    {
+     "box": [
+      283,
+      720,
+      752,
+      764
+     ],
+     "lat": "die alte Sybila Hertzogin von Ruppersdorff",
+     "cs": "10. května stará Sybila Hertzogová z Ruprechtic"
+    }
+   ],
+   "plyne": "Hans Hertzog byl v dubnu 1695 pohřben jako „pozůstalý syn zesnulého Jonase Hertzoga“. Jonas tedy zemřel před dubnem 1695 – to souhlasí s jeho pohřbem v září 1692.",
+   "src": "img/zdroje/141-7598_s499_velky.jpg"
+  },
+  {
+   "key": "141-7598|452",
+   "title": "Smrt malého Hanse Hertzoga – Ruprechtice, 1. března 1665",
+   "zdroj": "SOA Zámrsk, sign. 141-7598, snímek 452, pravá strana (zápis č. 19 pod nadpisem Martius)",
+   "crop": [
+    1040,
+    975,
+    1990,
+    1175
+   ],
+   "entry": [
+    1045,
+    1040,
+    1960,
+    1170
+   ],
+   "marks": [
+    {
+     "box": [
+      1268,
+      982,
+      1592,
+      1045
+     ],
+     "lat": "Martius",
+     "cs": "březen (1665)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1112,
+      1045,
+      1320,
+      1078
+     ],
+     "lat": "19. Den 1. Dito",
+     "cs": "č. 19, dne 1. března",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1320,
+      1045,
+      1922,
+      1078
+     ],
+     "lat": "ist Jonas Hertzogs Söhnlein Hans gestorben",
+     "cs": "zemřel synáček Jonase Hertzoga Hans",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1188,
+      1078,
+      1552,
+      1107
+     ],
+     "lat": "und den dritten allhier begraben worden",
+     "cs": "a třetího zde pohřben"
+    },
+    {
+     "box": [
+      [
+       1588,
+       1078,
+       1942,
+       1107
+      ],
+      [
+       1188,
+       1108,
+       1942,
+       1137
+      ],
+      [
+       1188,
+       1138,
+       1955,
+       1168
+      ]
+     ],
+     "lat": "welches seiner Mutter einen Topff mit siedendem Wasser in Händen gestossen und sich dadurch verbrennt hat, daß er hat müssen sterben",
+     "cs": "vrazil matce do rukou hrnec s vařící vodou a opařil se tak, že musel zemřít",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Jonasův synek Hans zemřel 1. 3. 1665 po opaření vařící vodou a 3. března byl pohřben v Ruprechticích. Zápis dokládá Jonase Hertzoga s rodinou v Ruprechticích už v roce 1665; podrobnosti nehody čtu s otazníkem.",
+   "src": "img/zdroje/141-7598_s452_velky.jpg"
+  },
+  {
+   "key": "141-7598|492",
+   "title": "Pohřeb Jonase Hertzoga – Ruprechtice, 2. září 1692",
+   "zdroj": "SOA Zámrsk, sign. 141-7598, snímek 492, levá strana (pag. 104, prostřední zápis)",
+   "crop": [
+    70,
+    980,
+    1000,
+    1200
+   ],
+   "entry": [
+    110,
+    1058,
+    965,
+    1192
+   ],
+   "marks": [
+    {
+     "box": [
+      500,
+      985,
+      625,
+      1025
+     ],
+     "lat": "September",
+     "cs": "září (1692)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      128,
+      1060,
+      360,
+      1102
+     ],
+     "lat": "Den 2. Dito",
+     "cs": "dne 2. téhož měsíce",
+     "pos": "top"
+    },
+    {
+     "box": [
+      360,
+      1060,
+      722,
+      1102
+     ],
+     "lat": "ist Jonas Hertzog von Ruppersdorff",
+     "cs": "byl Jonas Hertzog z Ruprechtic",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       722,
+       1060,
+       955,
+       1102
+      ],
+      [
+       148,
+       1102,
+       892,
+       1142
+      ]
+     ],
+     "lat": "mit einer gesungenen Seelmeß zur erden bestattet worden, Gott woll ihm gnädig sein",
+     "cs": "se zpívanou zádušní mší uložen do země, Bůh mu buď milostiv"
+    },
+    {
+     "box": [
+      148,
+      1145,
+      950,
+      1190
+     ],
+     "lat": "",
+     "cs": "připsaný řádek – čtu nejistě, nepřepisuji",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Jonas Hertzog, otec Judith pokřtěné roku 1677, byl pohřben 2. 9. 1692 v Ruprechticích se zpívanou zádušní mší. Proto ho zápis o pohřbu syna v roce 1695 nazývá zesnulým.",
+   "src": "img/zdroje/141-7598_s492_velky.jpg"
+  },
+  {
+   "key": "141-7598|515",
+   "title": "Pohřeb Judith, vdovy po Jonasi Hertzogovi – Ruprechtice, 20. prosince 1703",
+   "zdroj": "SOA Zámrsk, sign. 141-7598, snímek 515, levá strana (pag. 150, druhý zápis pod nadpisem December)",
+   "crop": [
+    50,
+    980,
+    950,
+    1285
+   ],
+   "skip_y": [
+    [
+     1035,
+     1158
+    ]
+   ],
+   "entry": [
+    65,
+    1160,
+    900,
+    1280
+   ],
+   "marks": [
+    {
+     "box": [
+      418,
+      985,
+      568,
+      1032
+     ],
+     "lat": "December",
+     "cs": "prosinec (1703)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      78,
+      1162,
+      230,
+      1202
+     ],
+     "lat": "Denn 20. Dito",
+     "cs": "dne 20. prosince",
+     "pos": "top"
+    },
+    {
+     "box": [
+      230,
+      1162,
+      370,
+      1202
+     ],
+     "lat": "ist Judith",
+     "cs": "byla Judith",
+     "pos": "top"
+    },
+    {
+     "box": [
+      370,
+      1162,
+      892,
+      1202
+     ],
+     "lat": "weyl. Jonas Hertzogs nachgelassene witib",
+     "cs": "pozůstalá vdova po zesnulém Jonasi Hertzogovi"
+    },
+    {
+     "box": [
+      [
+       68,
+       1206,
+       842,
+       1242
+      ],
+      [
+       68,
+       1246,
+       442,
+       1278
+      ]
+     ],
+     "lat": "von Ruppersdorff mit einer gesungenen Seel Meß begraben worden, der Gott gnädig sey",
+     "cs": "z Ruprechtic pohřbena se zpívanou zádušní mší, Bůh jí buď milostiv"
+    }
+   ],
+   "plyne": "Judith přežila manžela Jonase o víc než jedenáct let a 20. 12. 1703 byla pohřbena v Ruprechticích. Věk ani původ farář nezapsal.",
+   "src": "img/zdroje/141-7598_s515_velky.jpg"
   }
  ]
 }
