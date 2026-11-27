@@ -8030,6 +8030,693 @@
    ],
    "plyne": "Antonín Hausdorf se ve 35 letech oženil jako vdovec, necelých deset měsíců po smrti první ženy. Údaje o nevěstě jsou na protější straně, mimo tento snímek.",
    "src": "img/zdroje/13-32_s070_velky.jpg"
+  },
+  {
+   "key": "141-7599|448",
+   "title": "Sňatek vdovce Antona Ringela a Marie Knittelové – Ruprechtice, 27. listopadu 1770",
+   "zdroj": "SOA Zámrsk, sign. 141-7599, snímek 448",
+   "crop": [
+    60,
+    30,
+    1960,
+    700
+   ],
+   "entry": [
+    80,
+    40,
+    1940,
+    695
+   ],
+   "marks": [
+    {
+     "box": [
+      88,
+      58,
+      152,
+      122
+     ],
+     "lat": "27",
+     "cs": "27. (listopadu 1770)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      198,
+      48,
+      392,
+      322
+     ],
+     "lat": "P. Petrus Wenzel Pfarr.",
+     "cs": "oddával farář P. Petr Wenzel"
+    },
+    {
+     "box": [
+      398,
+      48,
+      892,
+      282
+     ],
+     "lat": "Anton Ringel ein Wittiber in Ruppersdorf",
+     "cs": "ženich Antonín Ringel, vdovec z Ruprechtic",
+     "pos": "top"
+    },
+    {
+     "box": [
+      398,
+      288,
+      892,
+      622
+     ],
+     "lat": "und Jungfrau Maria Heinrich Knittels Ehel. Tochter allda",
+     "cs": "a panna Marie, manželská dcera Jindřicha Knittela, odtamtéž"
+    },
+    {
+     "box": [
+      898,
+      48,
+      1472,
+      622
+     ],
+     "lat": "Anton Lill Scholtz in Ruppersdorf · Friedrich … Müller allda · Anton … Häusl. · Wenzel … Bauer allda",
+     "cs": "svědci: rychtář Antonín Lill, mlynář Bedřich …, domkář Antonín … a sedlák Václav …"
+    },
+    {
+     "box": [
+      1488,
+      48,
+      1582,
+      112
+     ],
+     "lat": "Catho:",
+     "cs": "katolíci",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1628,
+      58,
+      1742,
+      252
+     ],
+     "lat": "Ruppersdorf",
+     "cs": "Ruprechtice",
+     "pos": "top"
+    },
+    {
+     "box": [
+      198,
+      628,
+      1502,
+      692
+     ],
+     "lat": "Aufgebotten den 11. und 18. 25. November",
+     "cs": "ohlášky 11., 18. a 25. listopadu"
+    }
+   ],
+   "plyne": "Antonín Ringel se jako vdovec oženil s pannou Marií Knittelovou z Ruprechtic.",
+   "src": "img/zdroje/141-7599_s448_velky.jpg"
+  },
+  {
+   "key": "174-6|225",
+   "title": "Křest Antona, syna Hanse Ringela a Rosiny – Vižňov, 26. ledna 1718",
+   "zdroj": "SOA Zámrsk, sign. 174-6, snímek 225, levá strana, druhý zápis",
+   "crop": [
+    200,
+    100,
+    990,
+    950
+   ],
+   "skip_y": [
+    [
+     200,
+     595
+    ]
+   ],
+   "entry": [
+    205,
+    600,
+    985,
+    945
+   ],
+   "marks": [
+    {
+     "box": [
+      458,
+      118,
+      742,
+      192
+     ],
+     "lat": "Anno 1718",
+     "cs": "rok 1718",
+     "pos": "top"
+    },
+    {
+     "box": [
+      208,
+      607,
+      974,
+      668
+     ],
+     "lat": "Den 26 Januarij hat der Ehrwürdige Herr P. Ildephons…",
+     "cs": "26. ledna (křtil) důstojný pan P. Ildefons …",
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       236,
+       669,
+       974,
+       712
+      ],
+      [
+       236,
+       710,
+       422,
+       754
+      ]
+     ],
+     "lat": "Hanß Ringeln … und seiner Ehewürthin Rosina",
+     "cs": "Hansi Ringelovi a jeho manželce Rozině",
+     "pos": "top"
+    },
+    {
+     "box": [
+      865,
+      702,
+      964,
+      749
+     ],
+     "lat": "Anthon",
+     "cs": "syn Antonín",
+     "pos": "top"
+    },
+    {
+     "box": [
+      236,
+      750,
+      969,
+      825
+     ],
+     "lat": "ist gebohren worden den 26 dito in der … Stunde … mittag",
+     "cs": "narozen 26. téhož měsíce (hodinu nečtu jistě)"
+    },
+    {
+     "box": [
+      236,
+      821,
+      964,
+      944
+     ],
+     "lat": "die Paten waren Hanß Heinrich … und Maria … Ehewürthin …",
+     "cs": "kmotři Hans Heinrich … a Marie, manželka …"
+    }
+   ],
+   "plyne": "Antonín se narodil a byl pokřtěn 26. ledna 1718 jako syn Hanse a Roziny Ringelových.",
+   "src": "img/zdroje/174-6_s225_velky.jpg"
+  },
+  {
+   "key": "174-6|40",
+   "title": "Sňatek Johanna Ringela a Rosiny Heintzelové – Vižňov, 8. listopadu 1712",
+   "zdroj": "SOA Zámrsk, sign. 174-6, snímek 40, pravá strana, druhý zápis",
+   "crop": [
+    1040,
+    575,
+    1890,
+    1020
+   ],
+   "entry": [
+    1060,
+    585,
+    1885,
+    1015
+   ],
+   "marks": [
+    {
+     "box": [
+      1078,
+      588,
+      1832,
+      652
+     ],
+     "lat": "Den 8ten Novemb. Seindt ehelich Copuliert und",
+     "cs": "8. listopadu byli manželsky oddáni",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1138,
+      648,
+      1852,
+      752
+     ],
+     "lat": "Getraut worden, Johans Ringel ein junger gesell, Tobias Ringels ehelicher Sohn …",
+     "cs": "Johann Ringel, mládenec, manželský syn Tobiase Ringela",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1138,
+      748,
+      1852,
+      827
+     ],
+     "lat": "mit Jungfrau Rosina Tobias Heintzels ehelichen Tochter daselbst",
+     "cs": "s pannou Rozinou, manželskou dcerou Tobiase Heintzela odtamtéž"
+    },
+    {
+     "box": [
+      1138,
+      798,
+      1852,
+      1002
+     ],
+     "lat": "Beistand … Tobias Bircke … Tobias Birck von …",
+     "cs": "svědci, mezi nimi dva muži jménem Tobias Bircke (zbytek čtu jen zčásti, list prosvítá)",
+     "nejiste": true
+    }
+   ],
+   "plyne": "Johann (Hans) Ringel, syn Tobiase, si v roce 1712 vzal Rozinu Heintzelovou. O šest let později se jim narodil syn Antonín.",
+   "src": "img/zdroje/174-6_s040_velky.jpg"
+  },
+  {
+   "key": "141-1|88",
+   "title": "Narození Marie Theresie Dauerové – Ruprechtice č. 74, 22. září 1808",
+   "zdroj": "SOA Zámrsk, sign. 141-1, snímek 88",
+   "crop": [
+    40,
+    15,
+    2000,
+    500
+   ],
+   "entry": [
+    45,
+    25,
+    1990,
+    495
+   ],
+   "marks": [
+    {
+     "box": [
+      44,
+      30,
+      211,
+      159
+     ],
+     "lat": "den 22ten September",
+     "cs": "22. září (1808)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      244,
+      36,
+      292,
+      91
+     ],
+     "lat": "74.",
+     "cs": "dům č. 74",
+     "pos": "top"
+    },
+    {
+     "box": [
+      338,
+      36,
+      654,
+      166
+     ],
+     "lat": "Maria Theresia Dauerin",
+     "cs": "Marie Terezie Dauerová",
+     "pos": "top"
+    },
+    {
+     "box": [
+      44,
+      186,
+      917,
+      247
+     ],
+     "lat": "Getauft hat P. Christian … Cur.",
+     "cs": "křtil kurát P. Kristián …"
+    },
+    {
+     "box": [
+      963,
+      49,
+      1155,
+      197
+     ],
+     "lat": "Georg Dauer Häusler",
+     "cs": "otec Jiří Dauer, domkář",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1241,
+      39,
+      1495,
+      479
+     ],
+     "lat": "Barbara Tochter des Anton Ringel Ausdingers aus Ruppersdorf …",
+     "cs": "matka Barbora, dcera Antonína Ringela, výměnkáře z Ruprechtic"
+    }
+   ],
+   "plyne": "V tomto zápisu je matka Barbora výslovně uvedena jako dcera Antonína Ringela. Tím je Ringelova linie spojená s Dauerovými.",
+   "src": "img/zdroje/141-1_s088_velky.jpg"
+  },
+  {
+   "key": "141-3|10",
+   "title": "Sňatek George Daußera a Barbary Ringelové – Ruprechtice č. 74, 9. října 1792",
+   "zdroj": "SOA Zámrsk, sign. 141-3, snímek 10, druhý zápis",
+   "crop": [
+    0,
+    0,
+    1600,
+    765
+   ],
+   "skip_y": [
+    [
+     285,
+     600
+    ]
+   ],
+   "entry": [
+    0,
+    605,
+    1600,
+    765
+   ],
+   "marks": [
+    {
+     "box": [
+      0,
+      46,
+      66,
+      106
+     ],
+     "lat": "…92",
+     "cs": "(17)92",
+     "pos": "top"
+    },
+    {
+     "box": [
+      262,
+      38,
+      530,
+      106
+     ],
+     "lat": "Bräutigam",
+     "cs": "ženich",
+     "pos": "top"
+    },
+    {
+     "box": [
+      0,
+      614,
+      90,
+      674
+     ],
+     "lat": "…tober",
+     "cs": "(9.) října – den je ořezaný u okraje",
+     "pos": "top"
+    },
+    {
+     "box": [
+      110,
+      630,
+      162,
+      674
+     ],
+     "lat": "74",
+     "cs": "dům č. 74",
+     "pos": "top"
+    },
+    {
+     "box": [
+      190,
+      622,
+      378,
+      754
+     ],
+     "lat": "George Daußer",
+     "cs": "ženich Jiří Daußer (Dauer)"
+    },
+    {
+     "box": [
+      566,
+      630,
+      626,
+      692
+     ],
+     "lat": "38",
+     "cs": "ženichovi 38 let"
+    },
+    {
+     "box": [
+      686,
+      630,
+      714,
+      682
+     ],
+     "lat": "1",
+     "cs": "jednička ve sloupci za věkem – podle knihy sloupec Witwer (vdovec), záhlaví je na snímku nečitelné",
+     "nejiste": true
+    },
+    {
+     "box": [
+      726,
+      630,
+      1026,
+      746
+     ],
+     "lat": "Barbara Ringelin",
+     "cs": "nevěsta Barbora Ringelová"
+    },
+    {
+     "box": [
+      1118,
+      630,
+      1186,
+      692
+     ],
+     "lat": "24",
+     "cs": "nevěstě 24 let (podle křtu jí bylo 18)"
+    }
+   ],
+   "plyne": "Jiří Daußer (38) si vzal Barboru Ringelovou. Věk nevěsty je tu uveden 24 let, ale podle křtu jí bylo osmnáct.",
+   "src": "img/zdroje/141-3_s010_velky.jpg"
+  },
+  {
+   "key": "141-5|14",
+   "title": "Úmrtí A. Marie Daußové – Ruprechtice č. 74, 16. srpna 1792",
+   "zdroj": "SOA Zámrsk, sign. 141-5, snímek 14, šestý zápis",
+   "crop": [
+    100,
+    520,
+    1700,
+    710
+   ],
+   "entry": [
+    110,
+    590,
+    1690,
+    700
+   ],
+   "marks": [
+    {
+     "box": [
+      151,
+      601,
+      362,
+      650
+     ],
+     "lat": "16. August",
+     "cs": "16. srpna (1792) – den čtu jako 16",
+     "nejiste": true,
+     "pos": "top"
+    },
+    {
+     "box": [
+      [
+       298,
+       601,
+       452,
+       650
+      ],
+      [
+       178,
+       646,
+       402,
+       695
+      ]
+     ],
+     "lat": "P. Henrich Tauchmann",
+     "cs": "pohřbil P. Jindřich Tauchmann",
+     "pos": "top"
+    },
+    {
+     "box": [
+      484,
+      601,
+      524,
+      650
+     ],
+     "lat": "74",
+     "cs": "dům č. 74 – první číslice splývá s linkou",
+     "nejiste": true,
+     "pos": "top"
+    },
+    {
+     "box": [
+      565,
+      592,
+      956,
+      650
+     ],
+     "lat": "A. Maria Daußin",
+     "cs": "A. Marie Daußová",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1330,
+      601,
+      1388,
+      650
+     ],
+     "lat": "34",
+     "cs": "34 let"
+    },
+    {
+     "box": [
+      1393,
+      601,
+      1568,
+      650
+     ],
+     "lat": "Abzehrung",
+     "cs": "na úbytě"
+    }
+   ],
+   "plyne": "Zápis manžela neuvádí. Dům č. 74 i datum ale sedí na ženu Jiřího Daußera, který se o 54 dní později znovu oženil.",
+   "src": "img/zdroje/141-5_s014_velky.jpg"
+  },
+  {
+   "key": "141-7599|657",
+   "title": "Úmrtí dítěte a ženy George Daußera – Ruprechtice č. 74, duben a květen 1783",
+   "zdroj": "SOA Zámrsk, sign. 141-7599, snímek 657",
+   "crop": [
+    20,
+    30,
+    1900,
+    360
+   ],
+   "entry": [
+    30,
+    170,
+    1890,
+    355
+   ],
+   "marks": [
+    {
+     "box": [
+      280,
+      45,
+      532,
+      79
+     ],
+     "lat": "Im Monath April",
+     "cs": "v měsíci dubnu (1783)",
+     "pos": "top"
+    },
+    {
+     "box": [
+      39,
+      268,
+      67,
+      302
+     ],
+     "lat": "24",
+     "cs": "24. dubna",
+     "pos": "top"
+    },
+    {
+     "box": [
+      174,
+      268,
+      579,
+      343
+     ],
+     "lat": "George Daußers Nothgetauftes Kind",
+     "cs": "nouzově pokřtěné dítě George Daußera",
+     "pos": "top"
+    },
+    {
+     "box": [
+      703,
+      268,
+      814,
+      347
+     ],
+     "lat": "Ruppersdorf 74",
+     "cs": "Ruprechtice č. 74"
+    },
+    {
+     "box": [
+      1218,
+      45,
+      1434,
+      79
+     ],
+     "lat": "Im Monath May",
+     "cs": "v měsíci květnu",
+     "pos": "top"
+    },
+    {
+     "box": [
+      933,
+      174,
+      984,
+      208
+     ],
+     "lat": "26",
+     "cs": "26. května",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1118,
+      174,
+      1481,
+      231
+     ],
+     "lat": "George Daußers des Häuslers Ehewirthin Elisabeth",
+     "cs": "Alžběta, manželka domkáře George Daußera",
+     "pos": "top"
+    },
+    {
+     "box": [
+      1613,
+      174,
+      1682,
+      237
+     ],
+     "lat": "Ruppersdorf",
+     "cs": "Ruprechtice"
+    },
+    {
+     "box": [
+      1713,
+      174,
+      1752,
+      208
+     ],
+     "lat": "30",
+     "cs": "30 let"
+    }
+   ],
+   "plyne": "V dubnu 1783 zemřelo Daußerovým nouzově pokřtěné dítě a o měsíc později i matka Alžběta, které bylo 30 let.",
+   "src": "img/zdroje/141-7599_s657_velky.jpg"
   }
  ]
 }
