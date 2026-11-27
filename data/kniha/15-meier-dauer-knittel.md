@@ -14,6 +14,16 @@ V Ruprechticích a ve Vižňově žili v 18. století dva různí muži jménem 
 
 V roce 1771 byl Anton výměnkářem v Ruprechticích č. 33, v roce 1774 podruhem v č. 34. Tam se 16. června 1774 narodila [[barbara-pitz|Anna Barbara Margaretha]].[^141-7599/291: křest Anny Barbary Margarethy Ringelové 16. 6. 1774, Ruprechtice č. 34] Anton zemřel 1. listopadu 1793 v č. 33 ve věku 75 let.[^141-5/15: úmrtí Antona Ringela 1. 11. 1793, Ruprechtice č. 33]
 
+### Odkud Anton přišel
+
+Při svatbě 19. února 1748 se v Ruprechticích ženil „Anton Rüngel, mládenec, manželský syn Johanna Rüngela z Wiesen“, tedy z Vižňova, s vdovou Rosinou po Heinrichu Opitzovi. V oddacím rejstříku Ruprechtic je u něj místo Wiesen, kdežto u vdovce Antona, který se v roce 1750 ženil se Schrollovou, už Ruppersdorf.[^174-23/27: index oddaných Ruprechtice, písmeno R, 1737–1775] Ve vižňovském rejstříku narozených je v letech 1716–1727 jediný Anton, syn Johanna. Pokřtili ho 26. ledna 1718, v den narození, „ve 3. hodině před polednem“.[^174-19/52: index narozených Vižňov, písmeno R, 1716–1727] V křestní knize stojí, že páter Ildephons pokřtil „Hanse Ringela a jeho manželky Rosiny syna jménem Anthon“. Kmotry byli Hans Heinrich Mertel(?) a Maria, žena Heinricha Hintzela(?) z Neusorge.[^174-6/225: křest Antona Ringela 26. 1. 1718, Vižňov]
+
+![174-6/225] Křest Antona, syna Hanse Ringela a Rosiny, 26. ledna 1718 (druhý zápis na straně).
+
+> Domněnka: Tento Anton z roku 1718 je můj předek, Barbařin otec. Rok sedí přesně na věk 75 let v úmrtním zápisu z roku 1793 a otec Johann (Hans) z Vižňova sedí na svatbu z roku 1748. Žádný zápis ale výslovně neříká, že ženich z roku 1748 je tentýž muž jako vdovec, který se ženil v roce 1770. V Ruprechticích navíc žili i jiní Antonové Ringelové, například syn Tobiase narozený 1708 nebo Anton Benedikt narozený 1725.[^141-4251/75: index narozených Ruprechtice, písmeno R, 1703–1738] Hans Ringel a Rosina proto zatím do rodokmenu nejdou [?q-ringel-puvod-1748].
+
+Zajímavost: z Vižňova do Ruprechtic si v té době chodili Ringelové pro nevěsty pravidelně. Oddací rejstřík Ruprechtic má v letech 1737–1750 hned čtyři ženichy Rüngel z Wiesen: vdovce Johanna (1737, nevěsta Maria z Ruprechtic), Hanse (1747, nevěsta Maria Hertzogová), Antona (1748, vdova Rosina Opitzová) a vdovce Johanna Georga (1751, nevěsta Anna Rosina Gottschlichová(?)).
+
 ## Barbara a Georg Dauer
 
 Barbara se 9. října 1792 provdala za chalupníka [[georg-dauer|Georga Dauera]]. Jemu bylo 38 let, jí podle zápisu 24. Podle křtu jí ale bylo teprve osmnáct.[^141-3/10: oddací zápis 9. 10. 1792, Ruprechtice] Rodina žila v Ruprechticích č. 74. Narodily se tam dcery [[elisabeth-dauer-1799|Elisabeth]] (22. listopadu 1799, porodní bábou byla Rosina Menzel)[^141-1/52: narození Elisabeth Dauerové 22. 11. 1799] a [[theresia-dauer|Theresia]] (22. září 1808).[^141-1/88: narození Theresie Dauerové 22. 9. 1808]

@@ -38,7 +38,11 @@ V pozdějších zápisech jeho vnučky z let 1902 a 1925 je však Annin otec zap
 
 ## Anna a Emma
 
-Ignatzova a Genovefina dcera [[anna-rosenberger-1879|Anna]] se narodila 9. září 1879. V roce 1902 byla tovární dělnicí ve Starostíně č. 27 a 27. prosince 1902 se jí tam narodila nemanželská dcera [[emma-rosenberger-1902|Emma]]. Otec v zápisu jmenovaný není. Pokřtil ji na Nový rok 1903 farář P. Kaj. Treutler.[^174-7364/94: narození Emmy Rosenbergerové 27. 12. 1902, Starostín č. 27]
+Ignatzova a Genovefina dcera [[anna-rosenberger-1879|Anna]] se narodila 9. září 1879 ve Vernéřovicích č. 177 a o dva dny později ji pokřtil farář Gotthard Schuppel, tentýž, který o šest let dřív oddával její rodiče. Porodní bábou byla Theresia Knittelová z č. 173. Tenhle jediný zápis je pro celou knihu důležitý: farář do něj u otce i matky vypsal i jejich rodiče. Otec Ignatz, chalupník a krejčí, je syn Benedikta Rosenbergera z Ruprechtic a Anny rozené Hausdorfové z Olivětína č. 6. Matka Genovefa je dcera Benedikta Meiera, podruha v Ruprechticích č. 93, a Theresie, dcery chalupníka Georga Dauera z č. 117. Jedním zápisem jsou tak doložena tři pokolení najednou.[^174-4247/91: narození Anny Rosenbergerové 9. 9. 1879, Vernéřovice č. 177]
+
+![174-4247/91] Narození Anny Rosenbergerové 9. září 1879 ve Vernéřovicích č. 177. Vpravo jsou rozepsáni její prarodiče z obou stran.
+
+V roce 1902 byla Anna tovární dělnicí ve Starostíně č. 27 a 27. prosince 1902 se jí tam narodila nemanželská dcera [[emma-rosenberger-1902|Emma]]. Otec v zápisu jmenovaný není. Pokřtil ji na Nový rok 1903 farář P. Kaj. Treutler.[^174-7364/94: narození Emmy Rosenbergerové 27. 12. 1902, Starostín č. 27]
 
 ![174-7364/94] Narození Emmy Rosenbergerové 27. prosince 1902 ve Starostíně.
 
