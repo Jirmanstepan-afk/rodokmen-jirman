@@ -1771,14 +1771,22 @@
       "name": "Anna Syrová",
       "maiden": "Tschinkelová",
       "birth": {
-        "display": "cca 1854/55",
-        "precision": "circa",
-        "note": "32 let k 2. 5. 1887 (v zápisu i slovy „třicet dvě“)."
+        "display": "13. 2. 1855",
+        "precision": "exact",
+        "date": "1855-02-13",
+        "place": "Kout (Stiefwinkel) č. 16, farnost Deštné v Orlických horách",
+        "note": "Matrika N Deštné 24-3931, oddíl Stiefwinkel, pag. 361. Věk 32 let při sňatku 2. 5. 1887 souhlasí."
       },
-      "baptism": null,
+      "baptism": {
+        "display": "14. 2. 1855",
+        "precision": "exact",
+        "date": "1855-02-14",
+        "place": "Deštné v Orlických horách"
+      },
       "death": null,
       "occupation": "Služebná, Choceň č. 215 (1887); dříve vdova po krejčím.",
       "places": [
+        "Kout (Stiefwinkel) č. 16 (narození 1855, dům děda Josefa Tschinkela)",
         "Choceň č. 215 (1887)",
         "Dlouhá Ves č. 35 (první manžel; obec stejného jména není zamčena)"
       ],
@@ -1786,6 +1794,13 @@
       "certainty": "potvrzeno",
       "living": false,
       "sources": [
+        {
+          "label": "ARON, narození 13. 2. 1855 Anna, Kout (Stiefwinkel) č. 16, nemanželská dcera Aloisie Tschinkelové",
+          "signatura": "24-3931",
+          "detail": "snímek 169, pag. 361, 2. zápis",
+          "apu": "86cf28fe-e244-4e05-8712-d51efa9cf43a",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/86cf28fe-e244-4e05-8712-d51efa9cf43a/dao/86cf28fe-e244-4e05-8712-d51efa9cf43a/file/15b69182-11f7-41b3-a0be-3a5a77ac1146"
+        },
         {
           "label": "ARON",
           "signatura": "6489",
@@ -1798,9 +1813,14 @@
         }
       ],
       "notes": [
-        "Vdova po †Františku Šmídovi, krejčím v Dlouhé Vsi č. 35. Otec Anny v zápisu není jmenován — je zapsána po matce Aloisií Tschinkelové."
+        "Vdova po †Františku Šmídovi, krejčím v Dlouhé Vsi č. 35. Otec Anny v zápisu není jmenován — je zapsána po matce Aloisií Tschinkelové.",
+        "Narození 13. 2. 1855 v Koutu (Stiefwinkel) č. 16, pokřtěna 14. 2. (24-3931, snímek 169, pag. 361): Anna, nemanželská (sloupec otce prázdný), matka Aloisie, katolička, manželská dcera Josefa Tschinkela, podruha (Inwohner) v Koutu č. 16, a Anny rozené Dienerové z č. 21. Jména, dům č. 16 i babička Dienerová z č. 21 se shodují se zápisem sňatku 1887."
       ],
-      "interesting": []
+      "interesting": [
+        "Narodila se jako nemanželské dítě v domě, kde její děd Josef Tschinkel bydlel jako podruh (Inwohner) – matka Aloisie tedy rodila u svých rodičů.",
+        "Kmotrem byl Johann Obst, učitel v Deštném; kmotrou Karolina, manželka zahradníka (Feldgärtner) z Deštného č. 45. Porodní bábou byla také žena z Deštného č. 45.",
+        "V kolonce otce je pozdější přípisek „Trauschein 18 5/4 87“ – 5. 4. 1887 byl ze zápisu vydán doklad ke sňatku; svatba s Františkem Syrovým v Chocni byla o čtyři týdny později, 2. 5. 1887."
+      ]
     },
     {
       "id": "frantisek-smid",
@@ -1983,12 +2003,19 @@
       "death": null,
       "occupation": null,
       "places": [
-        "Štiefwinkl (Kout u Deštného v Orlických horách) č. 16 (rodiče)"
+        "Kout (Stiefwinkel) č. 16 (1855)"
       ],
       "branch": "tschinkel",
       "certainty": "potvrzeno",
       "living": false,
       "sources": [
+        {
+          "label": "ARON, narození dcery Anny 13. 2. 1855, Kout č. 16 (Aloisie jako matka)",
+          "signatura": "24-3931",
+          "detail": "snímek 169, pag. 361, 2. zápis",
+          "apu": "86cf28fe-e244-4e05-8712-d51efa9cf43a",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/86cf28fe-e244-4e05-8712-d51efa9cf43a/dao/86cf28fe-e244-4e05-8712-d51efa9cf43a/file/15b69182-11f7-41b3-a0be-3a5a77ac1146"
+        },
         {
           "label": "ARON",
           "signatura": "6489",
@@ -1999,7 +2026,9 @@
           "signatura": "3141"
         }
       ],
-      "notes": [],
+      "notes": [
+        "1855 svobodná matka nemanželské dcery Anny; zapsána jako manželská dcera Josefa Tschinkela, podruha v Koutu (Stiefwinkel) č. 16, a Anny rozené Dienerové z č. 21 (24-3931, snímek 169)."
+      ],
       "interesting": []
     },
     {
@@ -2018,13 +2047,21 @@
       "living": false,
       "sources": [
         {
+          "label": "ARON, narození vnučky Anny 13. 2. 1855, Kout č. 16",
+          "signatura": "24-3931",
+          "detail": "snímek 169, pag. 361, 2. zápis",
+          "apu": "86cf28fe-e244-4e05-8712-d51efa9cf43a",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/86cf28fe-e244-4e05-8712-d51efa9cf43a/dao/86cf28fe-e244-4e05-8712-d51efa9cf43a/file/15b69182-11f7-41b3-a0be-3a5a77ac1146"
+        },
+        {
           "label": "ARON",
           "signatura": "6489",
           "detail": "snímek 20"
         }
       ],
       "notes": [
-        "Štiefwinkl = Kout, osada obce Deštné v Orlických horách (něm. Stiefwinkel u Deschney)."
+        "Štiefwinkl = Kout, osada obce Deštné v Orlických horách (něm. Stiefwinkel u Deschney).",
+        "V roce 1855 podruh (Inwohner) v Koutu č. 16 – stejně jako v zápisu 1887 (24-3931, snímek 169)."
       ],
       "interesting": []
     },
@@ -2044,13 +2081,21 @@
       "living": false,
       "sources": [
         {
+          "label": "ARON, narození vnučky Anny 13. 2. 1855, Kout č. 16",
+          "signatura": "24-3931",
+          "detail": "snímek 169, pag. 361, 2. zápis",
+          "apu": "86cf28fe-e244-4e05-8712-d51efa9cf43a",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/86cf28fe-e244-4e05-8712-d51efa9cf43a/dao/86cf28fe-e244-4e05-8712-d51efa9cf43a/file/15b69182-11f7-41b3-a0be-3a5a77ac1146"
+        },
+        {
           "label": "ARON",
           "signatura": "6489",
           "detail": "snímek 20"
         }
       ],
       "notes": [
-        "Obec Věže č. 21 neslučovat s Věží u Havlíčkova Brodu bez důkazu. Okres Nové Město odpovídá dobovému zařazení Deštného pod BH Nové Město nad Metují."
+        "Obec Věže č. 21 neslučovat s Věží u Havlíčkova Brodu bez důkazu. Okres Nové Město odpovídá dobovému zařazení Deštného pod BH Nové Město nad Metují.",
+        "1855: „Anna geborene Diener, No. 21“ (24-3931, snímek 169); obec za číslem čtu nejistě, viz dotaz q-tschinkel-24-9."
       ],
       "interesting": []
     },
@@ -11338,9 +11383,9 @@
     },
     {
       "id": "q-tschinkel-24-9",
-      "title": "Tschinkel v indexu 24-9 (Deštné, 1784–1835)",
-      "summary": "V oddílu T indexu 24-9 je vedle rodiny Tilgner ještě druhé příjmení, čtené předběžně jako Tschinkel (1819–1829, folia kolem 217–237 knihy narozených).",
-      "details": "Čtení příjmení v indexu není uzavřené (možné i Tschinkerl / podobně) a těla v 24-5 (folio cca 217, 1819, „Jos.“) ještě nebyla čtena. Josef Tschinkel, otec Aloisie ze Štiefwinklu č. 16, se s tímto zápisem neslučuje, dokud tělo nepotvrdí dům, rodiče a jméno. Index 24-3949 (N 1835–1878) samostatný oddíl T nemá.",
+      "title": "Tschinkelové z Koutu: narození Aloisie, sňatek Josefa Tschinkela a Anny Dienerové, obec Dienerových",
+      "summary": "Narození Anny 13. 2. 1855 v Koutu č. 16 je doloženo. Otevřené: narození Aloisie, sňatek a původ Josefa Tschinkela a Anny Dienerové a obec Dienerových č. 21.",
+      "details": "Čtení příjmení v indexu není uzavřené (možné i Tschinkerl / podobně) a těla v 24-5 (folio cca 217, 1819, „Jos.“) ještě nebyla čtena. Josef Tschinkel, otec Aloisie ze Štiefwinklu č. 16, se s tímto zápisem neslučuje, dokud tělo nepotvrdí dům, rodiče a jméno. Index 24-3949 (N 1835–1878) samostatný oddíl T nemá. Kolo AW (27. 11. 2026): Narození Anny 13. 2. 1855 nalezeno (24-3931, snímek 169, pag. 361, oddíl Stiefwinkel). Nejistá čtení v témže zápisu: u Anny Dienerové stojí za „No 21“ obec čtená jako „W…schitz(?)“ (zápis 1887 má „Věže č. 21“), „beide zum Bezirk Neustadt gehörig“; před „Ehegattin“ snad „verstorbenen(?)“ – úmrtí Anny Dienerové před 1855 proto není doloženo; jméno křtícího kněze „Carl …(?)“ a porodní báby „Karolina H…(?) N. 45“ nejisté. Bez výsledku: Aloisie v N Deštné, oddíl Stiefwinkel 7/1837–1842 (24-3931, snímky 155–158, pag. 333–340; v č. 16 tehdy jiná rodina); v indexu 24-9 (T, 1819–1829) není žádná Aloisie Tschinkel (jen Joh. Nep. 1819, Fr. Karl 1819, Franz 1820, Theresia 1821/1822/1823, Augustin 1824, Marianna a Anna 1825, Adelheid 1826, Ignaz 1826 a další do 1829).",
       "related_ids": [
         "josef-tschinkel",
         "anna-diener",
@@ -11351,6 +11396,13 @@
           "label": "ARON",
           "signatura": "24-9",
           "detail": "snímek 25, oddíl T, léta 1819–1829"
+        },
+        {
+          "label": "ARON, narození 13. 2. 1855 Anna, Kout č. 16 (matka Aloisie Tschinkelová)",
+          "signatura": "24-3931",
+          "detail": "snímek 169, pag. 361, 2. zápis",
+          "apu": "86cf28fe-e244-4e05-8712-d51efa9cf43a",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/86cf28fe-e244-4e05-8712-d51efa9cf43a/dao/86cf28fe-e244-4e05-8712-d51efa9cf43a/file/15b69182-11f7-41b3-a0be-3a5a77ac1146"
         }
       ]
     },

@@ -203,9 +203,9 @@
     },
     {
       "id": "q-tschinkel-24-9",
-      "title": "Tschinkel v indexu 24-9 (Deštné, 1784–1835)",
-      "summary": "V oddílu T indexu 24-9 je vedle rodiny Tilgner ještě druhé příjmení, čtené předběžně jako Tschinkel (1819–1829, folia kolem 217–237 knihy narozených).",
-      "details": "Čtení příjmení v indexu není uzavřené (možné i Tschinkerl / podobně) a těla v 24-5 (folio cca 217, 1819, „Jos.“) ještě nebyla čtena. Josef Tschinkel, otec Aloisie ze Štiefwinklu č. 16, se s tímto zápisem neslučuje, dokud tělo nepotvrdí dům, rodiče a jméno. Index 24-3949 (N 1835–1878) samostatný oddíl T nemá.",
+      "title": "Tschinkelové z Koutu: narození Aloisie, sňatek Josefa Tschinkela a Anny Dienerové, obec Dienerových",
+      "summary": "Narození Anny 13. 2. 1855 v Koutu č. 16 je doloženo. Otevřené: narození Aloisie, sňatek a původ Josefa Tschinkela a Anny Dienerové a obec Dienerových č. 21.",
+      "details": "Čtení příjmení v indexu není uzavřené (možné i Tschinkerl / podobně) a těla v 24-5 (folio cca 217, 1819, „Jos.“) ještě nebyla čtena. Josef Tschinkel, otec Aloisie ze Štiefwinklu č. 16, se s tímto zápisem neslučuje, dokud tělo nepotvrdí dům, rodiče a jméno. Index 24-3949 (N 1835–1878) samostatný oddíl T nemá. Kolo AW (27. 11. 2026): Narození Anny 13. 2. 1855 nalezeno (24-3931, snímek 169, pag. 361, oddíl Stiefwinkel). Nejistá čtení v témže zápisu: u Anny Dienerové stojí za „No 21“ obec čtená jako „W…schitz(?)“ (zápis 1887 má „Věže č. 21“), „beide zum Bezirk Neustadt gehörig“; před „Ehegattin“ snad „verstorbenen(?)“ – úmrtí Anny Dienerové před 1855 proto není doloženo; jméno křtícího kněze „Carl …(?)“ a porodní báby „Karolina H…(?) N. 45“ nejisté. Bez výsledku: Aloisie v N Deštné, oddíl Stiefwinkel 7/1837–1842 (24-3931, snímky 155–158, pag. 333–340; v č. 16 tehdy jiná rodina); v indexu 24-9 (T, 1819–1829) není žádná Aloisie Tschinkel (jen Joh. Nep. 1819, Fr. Karl 1819, Franz 1820, Theresia 1821/1822/1823, Augustin 1824, Marianna a Anna 1825, Adelheid 1826, Ignaz 1826 a další do 1829).",
       "related_ids": [
         "josef-tschinkel",
         "anna-diener",
@@ -216,6 +216,13 @@
           "label": "ARON",
           "signatura": "24-9",
           "detail": "snímek 25, oddíl T, léta 1819–1829"
+        },
+        {
+          "label": "ARON, narození 13. 2. 1855 Anna, Kout č. 16 (matka Aloisie Tschinkelová)",
+          "signatura": "24-3931",
+          "detail": "snímek 169, pag. 361, 2. zápis",
+          "apu": "86cf28fe-e244-4e05-8712-d51efa9cf43a",
+          "url": "https://aron.vychodoceskearchivy.cz/apu/86cf28fe-e244-4e05-8712-d51efa9cf43a/dao/86cf28fe-e244-4e05-8712-d51efa9cf43a/file/15b69182-11f7-41b3-a0be-3a5a77ac1146"
         }
       ]
     },

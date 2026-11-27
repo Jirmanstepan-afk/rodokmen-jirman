@@ -781,6 +781,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 96-6 (poř.č. 6789), 2.1810-1846",
    "popis": "římskokatolická matrika NAROZENÝCH, Bělý + Řeřišný (od 4.1825)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/dd5380b4-6183-4d26-939e-3c4f24a4f59b"
+  },
+  "24-3931": {
+   "apu": "86cf28fe-e244-4e05-8712-d51efa9cf43a",
+   "dao": "86cf28fe-e244-4e05-8712-d51efa9cf43a",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 24-3931 (poř.č. 1631), 7.1837-1874",
+   "popis": "římskokatolická matrika NAROZENÝCH, Deštné v Orlických horách, Dříš, Kout, Paseka, Víska, Pastviny, Zákoutí",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/86cf28fe-e244-4e05-8712-d51efa9cf43a"
   }
  },
  "aliasy": {
@@ -3049,6 +3056,15 @@
    "nahled": "img/zdroje/2119_s065.jpg",
    "velky": "img/zdroje/2119_s065_velky.jpg",
    "vyrez_soubor": "z2119-s65-index-K-1781-ludmila-kumpostova.jpg"
+  },
+  "24-3931|169": {
+   "signatura": "24-3931",
+   "snimek": 169,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/86cf28fe-e244-4e05-8712-d51efa9cf43a/dao/86cf28fe-e244-4e05-8712-d51efa9cf43a/file/0fe5ac54-f893-435c-b4cc-fd6c6ec7f26b",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/24-3931_s169.jpg",
+   "velky": "img/zdroje/24-3931_s169_velky.jpg",
+   "vyrez_soubor": "p169-narozeni-13-2-1855-Kout-Stiefwinkel16-Anna-nemanzelska-dcera-Aloisie-Tschinkelove-dcery-Josefa-Tschinkela-a-Anny-Dienerove.jpg"
   },
   "24-9|25": {
    "signatura": "24-9",
