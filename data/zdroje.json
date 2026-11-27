@@ -824,6 +824,20 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 171-3 (poř.č. 12180), 1784-1842",
    "popis": "římskokatolická matrika NAROZENÝCH, Velký Uhřínov (1784-1842), Malý Uhřínov (1784-1797), Benátky (1784-1797), Bělá (1784-1796), Bukový (1784-1797), Tisovec (1784-1796), Hutě (1784-1797), Podolí (1784-1797), Kamenec (1784-1797)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a"
+  },
+  "171-2": {
+   "apu": "ae8057d2-4543-4429-836f-2da5eee0f922",
+   "dao": "ae8057d2-4543-4429-836f-2da5eee0f922",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 171-2 (poř.č. 12179), 1753-1786",
+   "popis": "římskokatolická matrika NAROZENÝCH, ZEMŘELÝCH, ODDANÝCH, římskokatolický index NAROZENÝCH, ODDANÝCH, farnost (Bělá, Benátky, Bukový, Hutě, Kamenec, Malý Uhřínov, Podolí, Tisovec, Velký Uhřínov) N 1753-1785, O 1753-1784, Z 1753-1784, Velký Uhřínov (NOZ 1785-1786)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922"
+  },
+  "171-9": {
+   "apu": "a56cfc73-d272-4f88-aef6-feafbf1fa353",
+   "dao": "a56cfc73-d272-4f88-aef6-feafbf1fa353",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 171-9 (poř.č. 12182), 1784-1847",
+   "popis": "římskokatolická matrika ZEMŘELÝCH, Velký Uhřínov (1784-1847), Malý Uhřínov (1784-1797), Benátky (1784-1796), Bělá (1784-1797), Bukový (1784-1797), Tisovec (1784-1797), Hutě (1784-1797), Podolí (1784-1797), Kamenec (1784-1797)",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a56cfc73-d272-4f88-aef6-feafbf1fa353"
   }
  },
  "aliasy": {
@@ -2493,6 +2507,15 @@
    "nahled": "img/zdroje/144-8637_s038.jpg",
    "velky": "img/zdroje/144-8637_s038_velky.jpg"
   },
+  "171-2|129": {
+   "signatura": "171-2",
+   "snimek": 129,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/ae8057d2-4543-4429-836f-2da5eee0f922/dao/ae8057d2-4543-4429-836f-2da5eee0f922/file/f23629f4-8488-430d-9ea4-4af3b1019681",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-2_s129.jpg",
+   "velky": "img/zdroje/171-2_s129_velky.jpg",
+   "vyrez_soubor": "s129-oddani-23-2-1784-Benatky6-Andreas-syn-zemr-Franze-Prosse-zahradnika-x-Katharina-dcera-Johanna-Rolecka-sedlaka-Maly-Uhrinov.jpg"
+  },
   "171-3|50": {
    "signatura": "171-3",
    "snimek": 50,
@@ -2500,7 +2523,7 @@
    "vyrez": "zápis",
    "nahled": "img/zdroje/171-3_s050.jpg",
    "velky": "img/zdroje/171-3_s050_velky.jpg",
-   "vyrez_soubor": "s050-narozeni-1-9-1785-Maly-Uhrinov34-Anton-otec-Ignaz-Leik-matka-Katharina-sourozenec.jpg"
+   "vyrez_soubor": "s050-narozeni-1-9-1785-Maly-Uhrinov34-Anton-otec-Ignaz-Bek-Bock-matka-Katharina-sourozenec.jpg"
   },
   "171-3|51": {
    "signatura": "171-3",
@@ -2509,7 +2532,7 @@
    "vyrez": "zápis",
    "nahled": "img/zdroje/171-3_s051.jpg",
    "velky": "img/zdroje/171-3_s051_velky.jpg",
-   "vyrez_soubor": "s051-narozeni-4-2-1788-Maly-Uhrinov34-Agatha-otec-Ignaz-Leik-matka-Katharina.jpg"
+   "vyrez_soubor": "s051-narozeni-4-2-1788-Maly-Uhrinov34-Agatha-otec-Ignaz-Bek-Bock-matka-Katharina.jpg"
   },
   "171-3|78": {
    "signatura": "171-3",
@@ -2519,6 +2542,15 @@
    "nahled": "img/zdroje/171-3_s078.jpg",
    "velky": "img/zdroje/171-3_s078_velky.jpg",
    "vyrez_soubor": "s078-narozeni-1784-1787-Benatky-Franz-Joseph-22-7-1786-c6-syn-Andrease-Prosse-kandidat-Josef.jpg"
+  },
+  "171-3|79": {
+   "signatura": "171-3",
+   "snimek": 79,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/dao/5d82c88b-3a14-4c48-a1ac-bc9b3cace57a/file/5f65082c-dc6f-4938-82df-e3272a9e30ce",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-3_s079.jpg",
+   "velky": "img/zdroje/171-3_s079_velky.jpg",
+   "vyrez_soubor": "s079-narozeni-Benatky-1788-1790-posmrtny-Andreas-Pross-2-3-1788-c6-a-Neugebauer-x-Katharina-c6-kmotr-Anton-Pross-sedlak-Liberk.jpg"
   },
   "171-4|15": {
    "signatura": "171-4",
@@ -2546,6 +2578,15 @@
    "nahled": "img/zdroje/171-4_s005.jpg",
    "velky": "img/zdroje/171-4_s005_velky.jpg",
    "vyrez_soubor": "s005-oddani-5-8-1823-Benatky6-Josef-Pross-zahradnik-vdovec-37-x-Agatha-vdova-po-Josefu-Pibrt-mlynari-35.jpg"
+  },
+  "171-9|41": {
+   "signatura": "171-9",
+   "snimek": 41,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a56cfc73-d272-4f88-aef6-feafbf1fa353/dao/a56cfc73-d272-4f88-aef6-feafbf1fa353/file/0f12d009-1891-48f7-a47b-9132145e9bb7",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/171-9_s041.jpg",
+   "velky": "img/zdroje/171-9_s041_velky.jpg",
+   "vyrez_soubor": "s041-umrti-Benatky-1785-1789-Andreas-Pross-c6-30-12-1787-24-let-a-posmrtny-syn-Andreas-7-5-1788.jpg"
   },
   "174-12|31": {
    "signatura": "174-12",

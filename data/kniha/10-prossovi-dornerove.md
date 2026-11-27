@@ -48,9 +48,16 @@ Proč byli oba ovdovělí, ukázala kniha zemřelých. Mlynář Josef Pibrt zem�
 
 ![171-3/78] Křty v Benátkách 1784–1787. Dne 22. července 1786 v č. 6 Franz Joseph, syn Andrease Proße a Kathariny.
 
-[[agathe-pross|Agatha]] se narodila 4. února 1788 v Malém Uhřínově (Kleinaurim) č. 34. Byla dcerou [[ignaz-leik|Ignaze Leika]] a [[katharina-leik|Kathariny]]. Pokřtil ji kurát Gallus Hawel.[^171-3/51: narození Agathy Leikové 4. 2. 1788, Malý Uhřínov č. 34] Příjmení Leik je stejné jako ve svatebním zápisu jejího syna z roku 1858. Čitelně ho napsal farář i u jejího staršího bratra Antona, narozeného 1. září 1785.[^171-3/50: narození Antona Leika 1. 9. 1785, Malý Uhřínov č. 34]
+Josefovi rodiče se vzali 23. února 1784 v Benátkách č. 6. [[andreas-pross|Andreas]] byl „pozůstalý syn“ po zemřelém zahradníkovi [[franz-pross-benatky|Franzi Proßovi]]. [[katharina-pross|Katharina]] byla dcerou sedláka [[johann-rolecek|Johanna Rolečka]] (příjmení čtu nejistě) z Malého Uhřínova.[^171-2/129: sňatek Andrease Proße a Kathariny 23. 2. 1784, Benátky č. 6] Andreas zemřel 30. prosince 1787, bylo mu teprve 24 let. Katharina byla v té době těhotná. Syn Andreas se narodil 2. března 1788 a zemřel 7. května téhož roku na psotník.[^171-9/41: zemřelí Benátky 1785–1790, Andreas Proß 30. 12. 1787 a jeho posmrtný syn 7. 5. 1788]
 
-![171-3/51] Křest Agathy, dcery Ignaze Leika, v Malém Uhřínově 4. února 1788.
+![171-9/41] Kniha zemřelých Benátek: 30. prosince 1787 Andreas Proß, 24 let, a o půl roku později „Andreas, Sohn nach dem Andreas Proß“.
+
+> Domněnka: Od roku 1789 se v č. 6 rodí děti Friedricha Neugebauera a Kathariny a v roce 1790 jim jde za kmotra Anton Proß, sedlák z Liberka.[^171-3/79: narození Benátky 1788–1790, č. 6] Myslím, že vdova Katharina se znovu vdala a hospodářství zůstalo v rodině, dokud nedorostl Josef. Jejich svatbu jsem ale zatím nenašel.
+
+
+[[agathe-pross|Agatha]] se narodila 4. února 1788 v Malém Uhřínově (Kleinaurim) č. 34. Byla dcerou [[ignaz-leik|Ignaze Beka]] a [[katharina-leik|Kathariny]]. Pokřtil ji kurát Gallus Hawel.[^171-3/51: narození Agathy Bekové 4. 2. 1788, Malý Uhřínov č. 34] Její rodiče se vzali 5. října 1784 v témže domě č. 34. Ženich „Ignatz Böck“ měl 23 let, nevěsta „Katharina Seibertin“ 22. Svědky byli rychtář Friedrich Abel a Christoph Kreisel a oba se podepsali jen křížky.[^171-2/129: sňatky 1784 – Andreas Proß × Katharina (23. 2.) a Ignatz Böck × Katharina Seibert (5. 10.)] Rodné příjmení Agathy jsem dřív četl jako Leik, podle svatby rodičů jde ale o Bek, německy psané Böck. Stejně ho farář napsal i u jejího staršího bratra Antona, narozeného 1. září 1785.[^171-3/50: narození Antona Beka 1. 9. 1785, Malý Uhřínov č. 34]
+
+![171-3/51] Křest Agathy, dcery Ignaze Beka, v Malém Uhřínově 4. února 1788.
 
 ### Zajímavosti
 
