@@ -16,7 +16,17 @@ Mladší Ignaz se 10. února 1825 v Sedloňově oženil s [[johanna-walsch|Johan
 
 ## Knoppové z Olešnice
 
-Na druhé straně stojí rodina Knoppových z Olešnice v Orlických horách. Zahradník [[anton-knopp|Anton Knopp]] z č. 160 se v únoru 1795 oženil. Jemu bylo 20 let, nevěstě [[anna-maria-urban|Anně]], dceře domkáře [[wenzel-urban|Wenzela Urbana]], 18 let.[^119-1/71: oddací zápis v únoru 1795, Olešnice] Jejich syn [[josef-knopp|Josef]] se narodil 11. září 1805 v č. 160[^119-1/255: narození Josefa Knoppa 11. 9. 1805] a byl tkadlec. V roce 1829 si vzal dvacetiletou [[anna-knopp|Kláru]], dceru zahradníka Augustina ze sousedního č. 161. Jejího příjmení jsem zatím přečíst neuměl [?q-mader-knopp-walsch].[^119-1/111: oddací zápis 25. 10. 1829, Olešnice]
+Na druhé straně stojí rodina Knoppových z Olešnice v Orlických horách. Zahradník [[anton-knopp|Anton Knopp]] z č. 160 se v únoru 1795 oženil. Jemu bylo 20 let, nevěstě [[anna-maria-urban|Anně]], dceře domkáře [[wenzel-urban|Wenzela Urbana]], 18 let.[^119-1/71: oddací zápis v únoru 1795, Olešnice]
+
+Oba jsem našel i v olešnické křestní knize. Anton byl pokřtěn 2. prosince 1774 v čísle 160. Jeho rodiče byli tkadlec Anton Knopp a [[anna-maria-knopp-olesnice|Anna Maria]].[^119-1/25: křest Antona Knoppa 2. 12. 1774, Olešnice č. 160] Anna Maria Urbanová byla pokřtěna 6. srpna 1776 v čísle 133. Otec Wenzel Urban byl tehdy tkadlec, matka se jmenovala [[susanna-urban-olesnice|Susanna]].[^119-1/30: křest Anny Marie Urbanové 6. 8. 1776, Olešnice č. 133] Rodná příjmení obou matek zápisy neuvádějí.
+
+Zajímavost: Antonovi šel za kmotra právě tkadlec Wenzel Urban. O dvacet let později si Anton vzal jeho dceru. Kmotr se tak stal tchánem.
+
+![119-1/25] Křest Antona Knoppa 2. prosince 1774. Mezi kmotry je Wenzel Urban.
+
+![119-1/30] Křest Anny Marie Urbanové 6. srpna 1776, rodiče Wenzel Urban a Susanna.
+
+ Jejich syn [[josef-knopp|Josef]] se narodil 11. září 1805 v č. 160[^119-1/255: narození Josefa Knoppa 11. 9. 1805] a byl tkadlec. V roce 1829 si vzal dvacetiletou [[anna-knopp|Kláru]], dceru zahradníka Augustina ze sousedního č. 161. Jejího příjmení jsem zatím přečíst neuměl [?q-mader-knopp-walsch].[^119-1/111: oddací zápis 25. 10. 1829, Olešnice]
 
 Josefova dcera [[franziska-knopp|Franziska]] se narodila 14. července 1837 v Olešnici č. 160.[^119-2/111: narození Franzisky Knoppové 14. 7. 1837]
 

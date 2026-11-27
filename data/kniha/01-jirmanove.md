@@ -30,6 +30,14 @@ Václavův křest jsem pak našel v knize narozených pro Bělý. Narodil se 25.
 
 Václavův otec [[jan-jirmann-ns24|Jan Jirmann]] se narodil 13. května 1842 v Nízké Srbské č. 26 a pokřtili ho německy jako Johanna Georga.[^96-15/21: narození Johanna Georga (Jana) Jermanna 13. 5. 1842] Jeho otec [[vaclav-jirmann-ns26|Václav]] byl chalupník v čísle 26. Matka [[veronika-bittnerova|Veronika]] byla dcerou výměnkáře Jana Bittnera ze stejného domu. Zápis jde ještě o generaci dál. Václav starší byl synem zesnulého [[vaclav-jirmann-machov74|Václava Jirmanna]], chalupníka v Machově, a [[alzbeta-lorenzova|Alžběty, rozené Lorenzové]], z Nízké Srbské. Čísla domů se v zápisech rozcházejí. Křest z roku 1842 uvádí Machov č. 74 a Nízkou Srbskou č. 60, starší zápisy mají Machov č. 47 a Nízkou Srbskou č. 69.
 
+Veroničin křest jsem našel v nízkosrbské knize narozených. [[veronika-bittnerova|Veronika]] se narodila 10. června 1815 v Nízké Srbské č. 20. Otec Jan Bittner byl tehdy chalupník, matka [[ludmila-bittnerova-ns26|Ludmila]] byla dcerou Jana, chalupníka z čísla 32. Jeho příjmení čtu jako Langer, ale jistý si tím nejsem [?q-bittner-ludmila-langer].[^96-14/43: narození Veroniky Bittnerové 10. 6. 1815, Nízká Srbská č. 20] Ve 24 letech, jak uvádí svatební zápis z roku 1840, jí tedy bylo přesně tolik, kolik má být.
+
+![96-14/43] Narození Veroniky Bittnerové 10. června 1815 (poslední zápis na stránce). Matka Ludmila je v pravém sloupci.
+
+Zajímavost: Bittnerů bylo v Nízké Srbské tolik, že se tu v létě 1815 narodily dvě Veroniky Bittnerové dvěma různým Janům Bittnerům. Naše 10. června v čísle 20 a druhá 25. srpna v čísle 23, kde byla matkou Alžběta, dcera Josefa Kühna(?). V prosinci téhož roku se v čísle 20 narodila ještě Ludmila Bittnerová třetímu Janu Bittnerovi, jehož ženou byla dcera mlynáře Jiřího Lokvence.[^96-14/44: narození druhé Veroniky Bittnerové 25. 8. 1815, č. 23]
+
+> Domněnka: Alžběta, matka druhé Veroniky, by mohla být Alžběta Bittnerová z Bělého, babička Anny Košťálové. Stejně se jmenuje i její otec Josef. Ta ale v roce 1826 pokřtila další Veroniku, takže to nesedí úplně [?q-bittner-ludmila-langer].
+
 Jan se oženil 2. července 1872 v Machově. Bylo mu třicet a byl tkadlcem v Machově č. 74, tedy v domě, odkud pocházel jeho děd. Vzal si [[anna-kostalova|Annu Košťálovou]], dceru chalupníka [[hynek-kostal|Hynka Košťála]] z Bělého č. 43. Nevěsta byla nezletilá a otec jí svatbu povolil vlastním podpisem.[^96-4233/28: sňatek Jana Jirmanna a Anny Košťálové 2. 7. 1872] Annina matka [[anna-bittnerova-kostalova|Anna]] byla také rozená Bittnerová, dcera Jana Bittnera z Nízké Srbské č. 5. Obě Václavovy babičky tak byly Bittnerovy.
 
 ![96-4233/28] Svatba Jana Jirmanna a Anny Košťálové v Machově 2. července 1872.

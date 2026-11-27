@@ -28,6 +28,12 @@ Jonas s Judith přišli i o další děti: 10. prosince 1669 jim zemřela malá 
 
 > Domněnka: Odkud Jonas pocházel a kdo byli jeho rodiče, už se z matrik zjistit nedá. Narodil se dřív, než ruprechtická kniha začíná, a jeho svatbu jsem v ní nenašel. V Ruprechticích ale zemřeli „starý Baltzer Hertzog“ (27. 9. 1669), „starý Melcher Hertzog“ (23. 4. 1671) a „stará Sybila Hertzogová“ (pohřbena 10. 5. 1695). Někdo z nich mohl být Jonasovým otcem nebo matkou, ale zápisy to neříkají. Ve vsi navíc žil ještě druhý manželský pár Melchior a Judith Hertzogovi, takže se obě Judith dají snadno splést [?q-hertzog-jonas-puvod].[^141-7598/461: úmrtí „starého Melchera Hertzoga“ 23. 4. 1671]
 
+Jonasova žena Judith ho přežila nejméně o osm let. Dne 20. prosince 1703 ji pohřbili v Ruprechticích se zpívanou zádušní mší jako „Judith, pozůstalou vdovu po zesnulém Jonasi Hertzogovi“. Věk ani původ farář nezapsal.[^141-7598/515: pohřeb Judith, vdovy po Jonasi Hertzogovi, 20. 12. 1703]
+
+![141-7598/515] Pohřeb Judith, vdovy po Jonasi Hertzogovi, 20. prosince 1703 (druhý zápis).
+
+Zajímavost: ruprechtická kniha začíná až v květnu 1652, ale na jednom listu (fol. 101v) jsou dodatečně zapsané čtyři starší křty z let 1644–1652. Jeden z nich připomíná konec třicetileté války: 29. srpna 1649 dal pokřtít syna Hanse Christopha Hans Ulrich Trachoner, voják „vom Caronischen Regiment“. Hertzog mezi těmi zápisy bohužel není.[^141-7598/104: fol. 101v, čtyři křty 1644–1652]
+
 ## Otovice a morová rána roku 1680
 
 Otovice v 17. století neměly vlastní faru. Patřily k farnosti v Martínkovicích (*Merzdorf*) a jejich křty, svatby a pohřby se zapisovaly do martínkovických knih, které se zachovaly od roku 1605. V nich jsem Rosenbergery našel. Dne 6. listopadu 1678 se v Martínkovicích ženil mládenec [[georg-rosenberger-otovice|Georg Rosenberg]], syn [[melchior-rosenberger-otovice|Melchiora Rosenbergera]] z Otovic. Nevěstou byla panna [[rosina-scholtz-1678|Rosina]], dcera [[martin-scholtz-martinkovice|Martina Scholtze]] z Martínkovic.[^99-1/53: oddací zápis 6. 11. 1678, Martínkovice]

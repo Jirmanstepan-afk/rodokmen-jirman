@@ -1108,6 +1108,14 @@
    "velky": "img/zdroje/119-1_s211_velky.jpg",
    "vyrez_soubor": "z119-1-s211-1795-12-06-klara-wondrejz-c50-odmitnuto.jpg"
   },
+  "119-1|25": {
+   "signatura": "119-1",
+   "snimek": 25,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/c942febb-f341-4f4a-8e83-d80c422e5040/dao/c942febb-f341-4f4a-8e83-d80c422e5040/file/2109be15-32ff-4773-962e-e9d00330c50d",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/119-1_s025.jpg",
+   "velky": "img/zdroje/119-1_s025_velky.jpg"
+  },
   "119-1|254": {
    "signatura": "119-1",
    "snimek": 254,
@@ -1134,6 +1142,14 @@
    "nahled": "img/zdroje/119-1_s279.jpg",
    "velky": "img/zdroje/119-1_s279_velky.jpg",
    "vyrez_soubor": "z119-1-s279-1811-02-11-anton-augustin-c161.jpg"
+  },
+  "119-1|30": {
+   "signatura": "119-1",
+   "snimek": 30,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/c942febb-f341-4f4a-8e83-d80c422e5040/dao/c942febb-f341-4f4a-8e83-d80c422e5040/file/77794efe-68ff-4004-a9eb-9e3acef7a1ad",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/119-1_s030.jpg",
+   "velky": "img/zdroje/119-1_s030_velky.jpg"
   },
   "119-1|391": {
    "signatura": "119-1",
@@ -1841,6 +1857,14 @@
    "velky": "img/zdroje/141-1_s088_velky.jpg",
    "vyrez_soubor": "s088L-1808-09-theresia.jpg"
   },
+  "141-1|97": {
+   "signatura": "141-1",
+   "snimek": 97,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/2601ece9-a0af-4023-901c-ca324cd94414/dao/2601ece9-a0af-4023-901c-ca324cd94414/file/66f009b4-8bea-4232-8493-e107e1ae0a57",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/141-1_s097.jpg",
+   "velky": "img/zdroje/141-1_s097_velky.jpg"
+  },
   "141-3|10": {
    "signatura": "141-3",
    "snimek": 10,
@@ -2199,6 +2223,14 @@
    "velky": "img/zdroje/141-6_s032_velky.jpg",
    "vyrez_soubor": "z141-6-s32-1838-07-03-georg-dauer.jpg"
   },
+  "141-7598|104": {
+   "signatura": "141-7598",
+   "snimek": 104,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/1fad27ed-fc5f-438c-a712-e096f25a2e51/dao/1fad27ed-fc5f-438c-a712-e096f25a2e51/file/3f701d3b-155e-4009-96a5-3f084f72e620",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/141-7598_s104.jpg",
+   "velky": "img/zdroje/141-7598_s104_velky.jpg"
+  },
   "141-7598|193": {
    "signatura": "141-7598",
    "snimek": 193,
@@ -2287,6 +2319,14 @@
    "vyrez": "celá strana",
    "nahled": "img/zdroje/141-7598_s499.jpg",
    "velky": "img/zdroje/141-7598_s499_velky.jpg"
+  },
+  "141-7598|515": {
+   "signatura": "141-7598",
+   "snimek": 515,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/1fad27ed-fc5f-438c-a712-e096f25a2e51/dao/1fad27ed-fc5f-438c-a712-e096f25a2e51/file/20c03f50-6b99-4b86-96ec-123e5b8b86ae",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/141-7598_s515.jpg",
+   "velky": "img/zdroje/141-7598_s515_velky.jpg"
   },
   "141-7599|111": {
    "signatura": "141-7599",
@@ -4900,6 +4940,14 @@
    "nahled": "img/zdroje/96-14_s004.jpg",
    "velky": "img/zdroje/96-14_s004_velky.jpg",
    "vyrez_soubor": "z96-14-s4-pag1-1815-01-17-tobias-maroul-chalupnik-nizka-srbska-x-marie-dcera-antonina-simka-c23.jpg"
+  },
+  "96-14|43": {
+   "signatura": "96-14",
+   "snimek": 43,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/fd41faee-39b9-4778-85aa-e390771f02c0/dao/fd41faee-39b9-4778-85aa-e390771f02c0/file/f4cf5c71-a30f-4f4a-a1a7-e6a639307df0",
+   "vyrez": "celá strana",
+   "nahled": "img/zdroje/96-14_s043.jpg",
+   "velky": "img/zdroje/96-14_s043_velky.jpg"
   },
   "96-14|44": {
    "signatura": "96-14",

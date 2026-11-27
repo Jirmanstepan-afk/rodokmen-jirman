@@ -66,6 +66,8 @@ Pro rok 1783 jsem pak v knize zemřelých našel dva zápisy z č. 74 krátce po
 
 Theresia se vdávala až ve 33 letech, 22. listopadu 1841. Ženich [[benedikt-meier|Benedikt Mayer (Meier)]], chalupník v Ruprechticích č. 107, byl o tři roky mladší. Jeho otec [[andreas-mayer|Andreas Mayer]] byl chalupník a podruh v č. 81 a v té době už nežil.[^141-4/29: oddací zápis 22. 11. 1841, Ruprechtice] Později Benedikt žil jako podruh v č. 93 a tam se narodily děti [[benedikt-mayer-1845|Benedikt]] (1845) a 8. srpna 1846 [[genovefa-meier|Genovefa]].[^141-4240/25: narození Genovefy Meierové 8. 8. 1846]
 
+> Domněnka: V ruprechtické knize narozených je kolem roku 1811 jediný Benedikt Mayer. Narodil se 6. června 1811 v čísle 28 jako nemanželský syn Barbary, dcery výměnkáře Johanna Mayera. Věk by na Benedikta seděl přesně. Při svatbě v roce 1841 je ale jako jeho otec uveden Andreas Mayer. Jestli si Barbara Andrease později vzala, nebo jde o jiného Benedikta, zatím nevím. Proto Barbaru do rodokmenu nezapisuji [?q-meier-benedikt-1811].[^141-1/97: narození Benedikta, syna Barbary Mayerové, 6. 6. 1811]
+
 Genovefa se v roce 1873 vdala za Ignatze Rosenbergera do Vernéřovic.
 
 > Domněnka: Ignatz byl vnukem Barbary Ringelové z Vižňova, Genovefa vnučkou Barbary Ringelové z Ruprechtic. Jestli byli oba Antonové Ringelové příbuzní, a tedy i Ignatz s Genovefou, nevím. Příjmení Ringel bylo v obou vsích běžné. Je to pro mě jedna z nejzajímavějších otázek, které po tomhle hledání zůstaly [?q-ringel-puvod-1748].
