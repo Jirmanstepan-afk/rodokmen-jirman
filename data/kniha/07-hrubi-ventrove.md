@@ -61,6 +61,14 @@ Rozinin křest jsem hledal v polickém rejstříku narozených (130-42, písmeno
 > Domněnka: Wenzel Winter, který 14. března 1797 zemřel v Ledhujích č. 2 ve věku 67 let na souchotiny (Lungensucht),[^130-17/48: úmrtí Wenzela Wintera 14. 3. 1797, Ledhuje č. 2, 67 let, Lungensucht] by mohl být otcem Václava. Dům ani věk při sňatku 1793 to ale nepotvrzují, proto zůstává mimo mapu [?q-hruby-ventr-predci].
 
 ![130-17/48] Úmrtí Wenzela Wintera 14. března 1797 v Ledhujích č. 2, 67 let, na souchotiny.
+
+V oddacím zápisu z 11. června 1793 jsou věky zapsané jasně: Václavovi 33 let, Rozině 31. Index oddaných, který uvádí 23 a 21, je v tomhle bodě chybný.
+
+V polickém rejstříku narozených pod písmenem W je v Ledhujích v letech 1757–1760 jediný Václav Winter: Wenceslaus Michael, pokřtěný 26. září 1757, otec Václav Winter, matka Veronika, kmotrem Jan Hrubý z téže vsi.[^130-5/44: křest Wenceslaus Michael Winter 26. 9. 1757, Ledhuje, otec Václav Winter, matka Veronika, kmotr Jan Hrubý – kandidát] Při svatbě v červnu 1793 by mu ale bylo 35 let a 8 měsíců, zápis uvádí 33. Proto ho do stromu jako našeho Václava nepřidávám. Jiný Václav Winter z Ledhují v okně věku 33 let v rejstříku není; Václav z 30. ledna 1768 je z obce Chota, ne z Ledhují.
+
+V knize zemřelých Ledhují 1785–1813, až po odkaz „continuum in Matrica nova“, jsem Rozinu ani Marii Annu Winterovou a Jana Klimše z č. 5 nenašel.[^130-17/49: úmrtí Wenzla, syna Wenzla Wintera, 4. 1. 1800, Ledhuje č. 25, 2 měsíce, Fraiß] Dne 4. ledna 1800 zemřel v č. 25 dvoumésíční Wenzl, syn Wenzla Wintera, na křeče. Časově by to mohl být Václav Martin (*10. 11. 1799 v č. 26), dům se ale o jedno číslo liší, proto ho se synem neztotožňuji jistě. Dne 9. června 1799 zemřela v č. 2 Catharina, zapsaná jako „Wenzlin Witib“, 65 let, na souchotiny – stejný dům a stejná nemoc jako u Wenzela Wintera z roku 1797, příjmení Winter v zápisu výslovně není a jméno Catharina nesedí k Veronice z křtu 1757.
+
+![130-17/49] Úmrtí dvoumésíčního Wenzla, syna Wenzla Wintera, 4. ledna 1800 v Ledhujích č. 25.
  František se 7. července 1819 oženil s Rosinou, dcerou zesnulého krejčího Josefa z Malé Ledhuje č. 3. Jeho příjmení zní v zápisech jako „Klep…“, snad Klepáček.[^130-18/4: oddací zápis 7. 7. 1819, Ledhuje] Mladí bydleli v č. 45 a 27. ledna 1821 se jim narodila dcera [[matka-hruba-spinka|Františka]].[^130-18/23: narození Františky Wentrové 27. 1. 1821, Ledhuje č. 45]
 
 ![130-18/23] Narození Františky Wentrové 27. ledna 1821 v Ledhujích č. 45.

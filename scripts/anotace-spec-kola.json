@@ -3167,6 +3167,358 @@
    ],
    "plyne": "V hronovském rejstříku narozených pod písmenem P v letech 1755–1762 není žádná Kateřina Pleschkinová ani Plischkinová z Vysoké Srbské. Jména na P z Vysoké Srbské jsou v tomto úseku především Pawržka (Pavříšek).",
    "plyne_v_obrazku": true
+  },
+  {
+   "key": "53-73|9",
+   "src": "img/zdroje/53-73_s009_velky.jpg",
+   "title": "Úmrtí Wenzela Pitasche, mistra obuvnického, VS č. 29, 23. 10. 1836",
+   "zdroj": "SOA Zámrsk, sign. 53-73, snímek 9, pravá strana (pag. 11)",
+   "crop": [
+    0,
+    0,
+    1800,
+    1107
+   ],
+   "entry": [
+    15,
+    648,
+    1710,
+    1000
+   ],
+   "marks": [
+    {
+     "box": [
+      15,
+      655,
+      200,
+      995
+     ],
+     "lat": "den 23ten Oktober um 11 Uhr früh gestorben, den 25ten begraben",
+     "cs": "23. 10. 1836 v 11 hodin ráno, pohřeb 25. 10."
+    },
+    {
+     "box": [
+      200,
+      655,
+      265,
+      740
+     ],
+     "lat": "29",
+     "cs": "Vysoká Srbská č. 29 – týž dům, kde o rok a půl dřív zemřel František Špaček"
+    },
+    {
+     "box": [
+      270,
+      655,
+      1110,
+      850
+     ],
+     "lat": "Wenzel Pitasch, Häusler und Schuhmachermeister in Hochsichel",
+     "cs": "Václav Pitaš, chalupník a mistr obuvnický ve Vysoké Srbské"
+    },
+    {
+     "box": [
+      1265,
+      655,
+      1380,
+      750
+     ],
+     "lat": "55",
+     "cs": "55 let, tedy narozen kolem 1781"
+    }
+   ],
+   "plyne": "Ve Vysoké Srbské č. 29 zemřel 23. 10. 1836 chalupník a mistr obuvnický Wenzel Pitasch, 55 let. Syn Jiřího Václav byl pokřtěn roku 1785 (bylo by mu 51) – čtyřletý rozdíl věku, proto ho se synem neztotožňuji a do stromu ho nepřidávám.",
+   "plyne_v_obrazku": true
+  },
+  {
+   "key": "53-73|20",
+   "src": "img/zdroje/53-73_s020_velky.jpg",
+   "title": "Úmrtí Ludmily, vdovy po Wenzelu Pitaschovi, roz. Lubníčkové, VS č. 37, 22. 10. 1843",
+   "zdroj": "SOA Zámrsk, sign. 53-73, snímek 20, levá strana (pag. 32)",
+   "crop": [
+    0,
+    0,
+    1800,
+    856
+   ],
+   "entry": [
+    30,
+    248,
+    1780,
+    680
+   ],
+   "marks": [
+    {
+     "box": [
+      30,
+      250,
+      250,
+      620
+     ],
+     "lat": "den 22ten Oktober 10 Uhr Vormittags gestorben, den 24ten begraben",
+     "cs": "22. 10. 1843 v 10 hodin dopoledne, pohřeb 24. 10."
+    },
+    {
+     "box": [
+      275,
+      255,
+      350,
+      345
+     ],
+     "lat": "37",
+     "cs": "Vysoká Srbská č. 37"
+    },
+    {
+     "box": [
+      340,
+      250,
+      1160,
+      530
+     ],
+     "lat": "Ludmilla, Wittwe nach dem verstorbenen Wenzel Pitasch, Häusler, geboren Lubniček",
+     "cs": "Ludmila, vdova po zemřelém Václavu Pitašovi, chalupníkovi, rozená Lubníčková"
+    },
+    {
+     "box": [
+      1210,
+      260,
+      1360,
+      360
+     ],
+     "lat": "50",
+     "cs": "50 let, tedy narozena kolem 1793"
+    }
+   ],
+   "plyne": "Ludmila, vdova po chalupníkovi Wenzelu Pitaschovi, zemřela 22. 10. 1843 v č. 37 ve věku 50 let. Rodné příjmení má Lubníčková. Je to vdova po muži z roku 1836, ne po Jiřím Pitašovi, který zemřel už v roce 1816.",
+   "plyne_v_obrazku": true
+  },
+  {
+   "key": "53-73|29",
+   "src": "img/zdroje/53-73_s029_velky.jpg",
+   "title": "Konec zápisů zemřelých VS 1833–1848: Sequitur Tomus IV (bez vdovy po Jiřím Pitašovi)",
+   "zdroj": "SOA Zámrsk, sign. 53-73, snímek 29, levá strana (pag. 50)",
+   "crop": [
+    0,
+    0,
+    1800,
+    1119
+   ],
+   "entry": [
+    470,
+    615,
+    1180,
+    760
+   ],
+   "marks": [
+    {
+     "box": [
+      30,
+      15,
+      250,
+      300
+     ],
+     "lat": "den 22ten December 1848",
+     "cs": "poslední zápis v této knize, 22. 12. 1848"
+    },
+    {
+     "box": [
+      470,
+      615,
+      1180,
+      760
+     ],
+     "lat": "Sequitur Tomus IV tus",
+     "cs": "pokračuje svazek IV (kniha 53-4174, zemřelí Vysoké Srbské 1849–1891)"
+    }
+   ],
+   "plyne": "Zápisy zemřelých Vysoké Srbské v knize 53-73 končí rokem 1848 a pokračují ve svazku IV (53-4174, 1849–1891). Vdova po Jiřím Pitašovi (*cca 1759) mezi zemřelými z let 1835–1848 v této knize není. Mohla zemřít po roce 1848, v jiné farnosti, nebo ještě před rokem 1835 v knihách už prohledaných.",
+   "plyne_v_obrazku": true
+  },
+  {
+   "key": "53-4184|62",
+   "src": "img/zdroje/53-4184_s062_velky.jpg",
+   "title": "Index zemřelých Hronov, lit. P, 1854: Pitasch Anton z Vysoké Srbské (bez vdovy po Jiřím)",
+   "zdroj": "SOA Zámrsk, sign. 53-4184, snímek 62, levá strana",
+   "crop": [
+    0,
+    0,
+    1800,
+    1561
+   ],
+   "entry": [
+    25,
+    448,
+    880,
+    515
+   ],
+   "marks": [
+    {
+     "box": [
+      380,
+      95,
+      540,
+      155
+     ],
+     "lat": "1854",
+     "cs": "rok 1854 v písmenu P"
+    },
+    {
+     "box": [
+      25,
+      448,
+      400,
+      515
+     ],
+     "lat": "Pitasch Anton",
+     "cs": "jediný Pitasch z Vysoké Srbské v tomto úseku indexu"
+    },
+    {
+     "box": [
+      400,
+      448,
+      880,
+      515
+     ],
+     "lat": "12. März, Hochsichel, IV 16",
+     "cs": "12. 3. 1854, Vysoká Srbská, kniha IV (53-4174), pag. 16"
+    }
+   ],
+   "plyne": "V hronovském indexu zemřelých pod písmenem P je za rok 1854 z Vysoké Srbské jediný Pitasch: Anton 12. 3. 1854, tomus IV, pag. 16. Stejný index jsem prošel za celá léta 1848–1872 (snímky 61–65): vdova po Jiřím Pitašovi tam není.",
+   "plyne_v_obrazku": true
+  },
+  {
+   "key": "53-4174|12",
+   "src": "img/zdroje/53-4174_s012_velky.jpg",
+   "title": "Úmrtí Antona, syna Johanna Pitasche, VS č. 37, 12. 3. 1854, 2 dny",
+   "zdroj": "SOA Zámrsk, sign. 53-4174, snímek 12, levá strana (pag. 16)",
+   "crop": [
+    0,
+    0,
+    1800,
+    1607
+   ],
+   "entry": [
+    30,
+    1210,
+    1760,
+    1475
+   ],
+   "marks": [
+    {
+     "box": [
+      40,
+      1215,
+      230,
+      1470
+     ],
+     "lat": "den 12. März 7 Uhr Abends gestorben, den 13. begraben",
+     "cs": "12. 3. 1854 v 7 hodin večer, pohřeb 13. 3."
+    },
+    {
+     "box": [
+      230,
+      1215,
+      310,
+      1290
+     ],
+     "lat": "37",
+     "cs": "Vysoká Srbská č. 37 – týž dům, kde roku 1843 zemřela Ludmila, vdova po Wenzelu Pitaschovi"
+    },
+    {
+     "box": [
+      310,
+      1215,
+      1020,
+      1410
+     ],
+     "lat": "Anton, ehelicher Sohn des Johann Pitasch, Häuslers",
+     "cs": "Anton, manželský syn chalupníka Johanna Pitasche"
+    },
+    {
+     "box": [
+      1240,
+      1220,
+      1350,
+      1310
+     ],
+     "lat": "2 Tage",
+     "cs": "2 dny"
+    }
+   ],
+   "plyne": "12. 3. 1854 zemřel ve Vysoké Srbské č. 37 dvoudenní Anton, manželský syn chalupníka Johanna Pitasche, na křeče (Fraisen). Č. 37 je dům, kde roku 1843 zemřela Ludmila, vdova po Wenzelu Pitaschovi. Do stromu ho nepřidávám; vdovou po Jiřím tento zápis není.",
+   "plyne_v_obrazku": true
+  },
+  {
+   "key": "130-17|49",
+   "src": "img/zdroje/130-17_s049_velky.jpg",
+   "title": "Úmrtí Wenzla, syna Wenzla Wintera, Ledhuje č. 25, 4. 1. 1800, 2 měsíce",
+   "zdroj": "SOA Zámrsk, sign. 130-17, snímek 49, pravá strana (leden 1800)",
+   "crop": [
+    0,
+    0,
+    1800,
+    355
+   ],
+   "entry": [
+    15,
+    245,
+    1780,
+    352
+   ],
+   "marks": [
+    {
+     "box": [
+      20,
+      250,
+      385,
+      350
+     ],
+     "lat": "den 4ten Jänner (S. Ferdinandi)",
+     "cs": "4. 1. 1800"
+    },
+    {
+     "box": [
+      390,
+      250,
+      480,
+      350
+     ],
+     "lat": "25",
+     "cs": "Ledhuje č. 25 (Václav Martin *10. 11. 1799 byl v č. 26)"
+    },
+    {
+     "box": [
+      490,
+      250,
+      1050,
+      350
+     ],
+     "lat": "Wenzl del Wenzl Winter",
+     "cs": "Václav, syn Václava Wintera"
+    },
+    {
+     "box": [
+      1280,
+      250,
+      1500,
+      350
+     ],
+     "lat": "2. Monat",
+     "cs": "2 měsíce"
+    },
+    {
+     "box": [
+      1520,
+      250,
+      1760,
+      350
+     ],
+     "lat": "Fraiß",
+     "cs": "křeče"
+    }
+   ],
+   "plyne": "4. 1. 1800 zemřel v Ledhujích č. 25 dvoumésíční Václav, syn Václava Wintera, na křeče. Časově by to mohl být Václav Martin (*10. 11. 1799 v č. 26), dům se ale o jedno číslo liší, proto ho se synem neztotožňuji jistě.",
+   "plyne_v_obrazku": true
   }
  ]
 }

@@ -2,7 +2,7 @@
   "title": "Kde jsme žili",
   "subtitle": "Rodinná kronika Jirmanů, Klimešů, Syrových, Rosenbergerů a dalších – podle matrik vypráví Štěpán Jirman",
   "author": "Štěpán Jirman",
-  "updated": "27. 11. 2026",
+  "updated": "28. 11. 2026",
   "_navod": "Struktura knihy. Text kapitol je v souborech *.md ve stejné složce; značky viz README.md. Pole people = osoby, ze kterých se počítá generace a mapka kapitoly (doplňují se i osoby odkázané v textu).",
   "parts": [
     {
