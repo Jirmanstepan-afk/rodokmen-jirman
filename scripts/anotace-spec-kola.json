@@ -2084,6 +2084,397 @@
     }
    ],
    "plyne": "František Hrubý, výměnkář z č. 52, zemřel 20. 1. 1836 ve věku 78 let (narozen kolem 1758)."
+  },
+  {
+   "key": "130-17|9",
+   "src": "img/zdroje/130-17_s009_velky.jpg",
+   "title": "Sňatek Jana Šolce, sedláka – Ledhuje č. 34, 7. 5. 1811",
+   "zdroj": "SOA Zámrsk, sign. 130-17, snímek 9",
+   "crop": [
+    0,
+    0,
+    1000,
+    94
+   ],
+   "entry": [
+    2,
+    0,
+    998,
+    93
+   ],
+   "marks": [
+    {
+     "box": [
+      5,
+      0,
+      145,
+      48
+     ],
+     "lat": "7. Maji",
+     "cs": "7. května (1811)"
+    },
+    {
+     "box": [
+      148,
+      18,
+      202,
+      72
+     ],
+     "lat": "34",
+     "cs": "číslo domu 34"
+    },
+    {
+     "box": [
+      202,
+      2,
+      420,
+      92
+     ],
+     "lat": "Jan Ssol. Sedlak … 24",
+     "cs": "ženich Jan Šolc, sedlák, 24 let, svobodný"
+    },
+    {
+     "box": [
+      448,
+      2,
+      770,
+      92
+     ],
+     "lat": "Anna dcera … sedlaka ze Drzewicek N. 32 … 27",
+     "cs": "nevěsta Anna, dcera sedláka ze Dřevíčku č. 32, 27 let"
+    },
+    {
+     "box": [
+      790,
+      2,
+      998,
+      92
+     ],
+     "lat": "Jan Mares … Jan Skoda chalupnik",
+     "cs": "svědci Jan Mareš a Jan Škoda, chalupník"
+    }
+   ],
+   "plyne": "7. 5. 1811 se v Ledhujích č. 34 žení 24letý sedlák Jan Šolc s Annou, dcerou sedláka ze Dřevíčku č. 32. Rodiče ženicha v zápisu nejsou, takže není jisté, že je synem Josefa Šolce; usedlost č. 34 ale už tehdy drží Šolc.",
+   "plyne_v_obrazku": true
+  },
+  {
+   "key": "130-17|18",
+   "src": "img/zdroje/130-17_s018_velky.jpg",
+   "title": "Křest Václava Josefa Hrubého – Ledhuje č. 32, 13. 3. 1786",
+   "zdroj": "SOA Zámrsk, sign. 130-17, snímek 18 (pag. 31)",
+   "crop": [
+    0,
+    0,
+    995,
+    400
+   ],
+   "entry": [
+    2,
+    168,
+    990,
+    385
+   ],
+   "marks": [
+    {
+     "box": [
+      12,
+      6,
+      130,
+      72
+     ],
+     "lat": "1786",
+     "cs": "rok 1786",
+     "pos": "top"
+    },
+    {
+     "box": [
+      8,
+      170,
+      148,
+      312
+     ],
+     "lat": "In Martio / Den 13th",
+     "cs": "13. března"
+    },
+    {
+     "box": [
+      146,
+      192,
+      195,
+      255
+     ],
+     "lat": "32",
+     "cs": "číslo domu 32"
+    },
+    {
+     "box": [
+      188,
+      193,
+      350,
+      295
+     ],
+     "lat": "Wenceslaus Josephus",
+     "cs": "pokřtěn Václav Josef"
+    },
+    {
+     "box": [
+      522,
+      188,
+      642,
+      328
+     ],
+     "lat": "Franz Hruby rusticus",
+     "cs": "otec František Hrubý, sedlák"
+    },
+    {
+     "box": [
+      644,
+      192,
+      748,
+      258
+     ],
+     "lat": "Veronica",
+     "cs": "matka Veronika"
+    },
+    {
+     "box": [
+      750,
+      188,
+      910,
+      280
+     ],
+     "lat": "Wenzl Hruby rusticus",
+     "cs": "kmotr Václav Hrubý, sedlák"
+    }
+   ],
+   "plyne": "Václav Josef, pokřtěný 13. 3. 1786 v Ledhujích č. 32, je synem sedláka Františka Hrubého a Veroniky; kmotrem byl sedlák Václav Hrubý. Rodina tehdy bydlela v č. 32, ne v č. 52.",
+   "plyne_v_obrazku": true
+  },
+  {
+   "key": "130-17|26",
+   "src": "img/zdroje/130-17_s026_velky.jpg",
+   "title": "Křest Gertrudy Barbory Hrubé – Ledhuje č. 33, 12. 12. 1791",
+   "zdroj": "SOA Zámrsk, sign. 130-17, snímek 26 (pag. 46)",
+   "crop": [
+    0,
+    82,
+    1000,
+    176
+   ],
+   "entry": [
+    8,
+    84,
+    995,
+    174
+   ],
+   "marks": [
+    {
+     "box": [
+      8,
+      86,
+      165,
+      172
+     ],
+     "lat": "12. Decemb.",
+     "cs": "12. prosince (1791)"
+    },
+    {
+     "box": [
+      166,
+      100,
+      210,
+      152
+     ],
+     "lat": "33",
+     "cs": "číslo domu 33"
+    },
+    {
+     "box": [
+      210,
+      88,
+      345,
+      168
+     ],
+     "lat": "Gertrudis Barbara",
+     "cs": "pokřtěna Gertruda Barbora"
+    },
+    {
+     "box": [
+      498,
+      86,
+      620,
+      172
+     ],
+     "lat": "Franciscus Hruby rusticus",
+     "cs": "otec František Hrubý, sedlák"
+    },
+    {
+     "box": [
+      620,
+      96,
+      708,
+      155
+     ],
+     "lat": "Veronica",
+     "cs": "matka Veronika"
+    },
+    {
+     "box": [
+      708,
+      86,
+      820,
+      172
+     ],
+     "lat": "Wenceslaus Hruby rusticus",
+     "cs": "kmotr Václav Hrubý, sedlák"
+    }
+   ],
+   "plyne": "Gertruda Barbora, pokřtěná 12. 12. 1791 v Ledhujích č. 33, je dcerou sedláka Františka Hrubého a Veroniky; kmotrem byl sedlák Václav Hrubý. Rodina tehdy bydlela v č. 33, ne v č. 52.",
+   "plyne_v_obrazku": true
+  },
+  {
+   "key": "130-17|24",
+   "src": "img/zdroje/130-17_s024_velky.jpg",
+   "title": "Křest Margarety Anny Hrubé – Ledhuje č. 33, 14. 9. 1790",
+   "zdroj": "SOA Zámrsk, sign. 130-17, snímek 24 (pag. 43)",
+   "crop": [
+    0,
+    20,
+    1888,
+    275
+   ],
+   "entry": [
+    12,
+    38,
+    1875,
+    258
+   ],
+   "marks": [
+    {
+     "box": [
+      18,
+      42,
+      252,
+      250
+     ],
+     "lat": "14. Sept.",
+     "cs": "14. září (1790)"
+    },
+    {
+     "box": [
+      268,
+      75,
+      335,
+      205
+     ],
+     "lat": "33",
+     "cs": "číslo domu 33"
+    },
+    {
+     "box": [
+      338,
+      68,
+      525,
+      230
+     ],
+     "lat": "Margaretta Anna",
+     "cs": "pokřtěna Markéta Anna"
+    },
+    {
+     "box": [
+      900,
+      52,
+      1186,
+      235
+     ],
+     "lat": "Franziskus Hruby rusticus",
+     "cs": "otec František Hrubý, sedlák"
+    },
+    {
+     "box": [
+      1194,
+      52,
+      1380,
+      205
+     ],
+     "lat": "Veronica",
+     "cs": "matka Veronika"
+    }
+   ],
+   "plyne": "Markéta Anna, pokřtěná 14. 9. 1790 v Ledhujích č. 33, je dcerou sedláka Františka Hrubého a Veroniky. Rodina tehdy už bydlela v č. 33, ne v č. 52.",
+   "plyne_v_obrazku": true
+  },
+  {
+   "key": "130-17|46",
+   "src": "img/zdroje/130-17_s046_velky.jpg",
+   "title": "Úmrtí Doroty Hrubé – Ledhuje č. 33, 21. 3. 1794, 2 týdny",
+   "zdroj": "SOA Zámrsk, sign. 130-17, snímek 46 (pag. 86)",
+   "crop": [
+    0,
+    10,
+    1860,
+    105
+   ],
+   "entry": [
+    5,
+    18,
+    1660,
+    100
+   ],
+   "marks": [
+    {
+     "box": [
+      8,
+      22,
+      78,
+      95
+     ],
+     "lat": "21.",
+     "cs": "21. března (1794)"
+    },
+    {
+     "box": [
+      365,
+      22,
+      448,
+      95
+     ],
+     "lat": "33",
+     "cs": "číslo domu 33"
+    },
+    {
+     "box": [
+      500,
+      16,
+      920,
+      95
+     ],
+     "lat": "Dorothea Hrubín",
+     "cs": "Dorota Hrubá"
+    },
+    {
+     "box": [
+      1230,
+      16,
+      1480,
+      95
+     ],
+     "lat": "2 Wochen",
+     "cs": "věk 2 týdny"
+    },
+    {
+     "box": [
+      1490,
+      22,
+      1655,
+      95
+     ],
+     "lat": "Fraiß",
+     "cs": "příčina: křeče (Fraiß)"
+    }
+   ],
+   "plyne": "Dorota Hrubín, zemřelá 21. 3. 1794 v Ledhujích č. 33 ve stáří 2 týdnů na křeče (Fraiß), je táž Dorota Agáta, pokřtěná 8. 3. 1794 v č. 33 jako dcera sedláka Františka Hrubého a Veroniky. Rodina tehdy stále bydlela v č. 33, ne v č. 52.",
+   "plyne_v_obrazku": true
   }
  ]
 }
