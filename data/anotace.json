@@ -2069,6 +2069,26 @@
     "2. Monat → 2 měsíce",
     "Fraiß → křeče"
    ]
+  },
+  "130-46|26": {
+   "soubor": "img/zdroje/130-46_s026_anotace.jpg",
+   "plyne": "V druhé řadě rejstříku oddaných (130-46, s. 26 vpravo) je vypsaný jen nadpis „K.“; hned pod ním začínají ženichové na P (Pinnuff, Pollert, Pohle…) od 19. 2. 1770. Oddíl K je prázdný, sňatek Jana Klimše z č. 5 v tomto rejstříku pod písmenem K proto nelze dohledat.",
+   "titulek": "Rejstřík oddaných, druhá řada: nadpis lit. K bez jmen, hned písmeno P",
+   "oznaceno": [
+    "K. → nadpis písmena K (druhá řada) – pod ním žádný ženich na K",
+    "Pinnuff David → první jméno po nadpisu K je už na P (Pinnuff), rok skáče zpět na 1770",
+    "19 February 1770 → 19. 2. 1770 – začátek oddílu P, ne pokračování K"
+   ]
+  },
+  "130-44|95": {
+   "soubor": "img/zdroje/130-44_s095_anotace.jpg",
+   "plyne": "V rejstříku zemřelých 1785–1833 (130-44, s. 95) je sice nadpis „Lit. K:“, ale pod ním jsou od roku 1785 jen příjmení na P (Prausner, Paul, Pichtel…). Obsah písmena K sem nikdo nepopsal. Úmrtí Jana Klimše z č. 5 v letech 1785–1833 proto v tomto rejstříku pod K nelze dohledat.",
+   "titulek": "Rejstřík zemřelých 1785–1833: nadpis Lit. K, pod ním jména na P",
+   "oznaceno": [
+    "Lit. K: → vyhrazené záhlaví písmena K",
+    "Prausner Anna → první zápis pod záhlavím K je už Prausner (písmeno P), 1785, Police",
+    "85 → rok 1785 – začátek oddílu P, ne obsah K"
+   ]
   }
  }
 }

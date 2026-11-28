@@ -3519,6 +3519,110 @@
    ],
    "plyne": "4. 1. 1800 zemřel v Ledhujích č. 25 dvoumésíční Václav, syn Václava Wintera, na křeče. Časově by to mohl být Václav Martin (*10. 11. 1799 v č. 26), dům se ale o jedno číslo liší, proto ho se synem neztotožňuji jistě.",
    "plyne_v_obrazku": true
+  },
+  {
+   "key": "130-46|26",
+   "src": "img/zdroje/130-46_s026_velky.jpg",
+   "title": "Rejstřík oddaných, druhá řada: nadpis lit. K bez jmen, hned písmeno P",
+   "zdroj": "SOA Zámrsk, sign. 130-46, snímek 26, pravá strana",
+   "crop": [
+    0,
+    0,
+    1800,
+    1031
+   ],
+   "entry": [
+    70,
+    420,
+    1680,
+    580
+   ],
+   "marks": [
+    {
+     "box": [
+      80,
+      430,
+      210,
+      505
+     ],
+     "lat": "K.",
+     "cs": "nadpis písmena K (druhá řada) – pod ním žádný ženich na K"
+    },
+    {
+     "box": [
+      80,
+      500,
+      430,
+      560
+     ],
+     "lat": "Pinnuff David",
+     "cs": "první jméno po nadpisu K je už na P (Pinnuff), rok skáče zpět na 1770"
+    },
+    {
+     "box": [
+      1400,
+      500,
+      1630,
+      560
+     ],
+     "lat": "19 February 1770",
+     "cs": "19. 2. 1770 – začátek oddílu P, ne pokračování K"
+    }
+   ],
+   "plyne": "V druhé řadě rejstříku oddaných (130-46, s. 26 vpravo) je vypsaný jen nadpis „K.“; hned pod ním začínají ženichové na P (Pinnuff, Pollert, Pohle…) od 19. 2. 1770. Oddíl K je prázdný, sňatek Jana Klimše z č. 5 v tomto rejstříku pod písmenem K proto nelze dohledat.",
+   "plyne_v_obrazku": true
+  },
+  {
+   "key": "130-44|95",
+   "src": "img/zdroje/130-44_s095_velky.jpg",
+   "title": "Rejstřík zemřelých 1785–1833: nadpis Lit. K, pod ním jména na P",
+   "zdroj": "SOA Zámrsk, sign. 130-44, snímek 95, pravá strana (pag. 93)",
+   "crop": [
+    0,
+    0,
+    1800,
+    1087
+   ],
+   "entry": [
+    40,
+    200,
+    1550,
+    450
+   ],
+   "marks": [
+    {
+     "box": [
+      90,
+      230,
+      290,
+      310
+     ],
+     "lat": "Lit. K:",
+     "cs": "vyhrazené záhlaví písmena K"
+    },
+    {
+     "box": [
+      40,
+      300,
+      330,
+      370
+     ],
+     "lat": "Prausner Anna",
+     "cs": "první zápis pod záhlavím K je už Prausner (písmeno P), 1785, Police"
+    },
+    {
+     "box": [
+      330,
+      300,
+      430,
+      365
+     ],
+     "lat": "85",
+     "cs": "rok 1785 – začátek oddílu P, ne obsah K"
+    }
+   ],
+   "plyne": "V rejstříku zemřelých 1785–1833 (130-44, s. 95) je sice nadpis „Lit. K:“, ale pod ním jsou od roku 1785 jen příjmení na P (Prausner, Paul, Pichtel…). Obsah písmena K sem nikdo nepopsal. Úmrtí Jana Klimše z č. 5 v letech 1785–1833 proto v tomto rejstříku pod K nelze dohledat.",
+   "plyne_v_obrazku": true
   }
  ]
 }

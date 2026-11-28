@@ -1963,6 +1963,15 @@
    "velky": "img/zdroje/130-44_s064_velky.jpg",
    "vyrez_soubor": "z130-44-s64-index-s-ledhuje-1818-ssolz-joseph-ledh-35.jpg"
   },
+  "130-44|95": {
+   "signatura": "130-44",
+   "snimek": 95,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/abd89fc7-6a72-41a5-8a89-fa7355bf4574/dao/abd89fc7-6a72-41a5-8a89-fa7355bf4574/file/33df9aed-725b-4864-8396-83c3ea6eca3a",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-44_s095.jpg",
+   "velky": "img/zdroje/130-44_s095_velky.jpg",
+   "vyrez_soubor": "z130-44-s95-index-z-lit-k-nadpis-obsah-p.jpg"
+  },
   "130-45|26": {
    "signatura": "130-45",
    "snimek": 26,
@@ -1994,6 +2003,15 @@
    "vyrez": "celá strana",
    "nahled": "img/zdroje/130-45_s029.jpg",
    "velky": "img/zdroje/130-45_s029_velky.jpg"
+  },
+  "130-46|26": {
+   "signatura": "130-46",
+   "snimek": 26,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/a956bc3c-29af-4ba6-9ab2-bc2289e37188/dao/a956bc3c-29af-4ba6-9ab2-bc2289e37188/file/39d8c619-405c-49ad-8c92-7af219fc952e",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-46_s026.jpg",
+   "velky": "img/zdroje/130-46_s026_velky.jpg",
+   "vyrez_soubor": "z130-46-s26-index-o-druha-rada-lit-k-prazdne-pak-p.jpg"
   },
   "130-46|30": {
    "signatura": "130-46",
