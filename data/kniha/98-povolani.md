@@ -57,7 +57,7 @@ Původní znění z matriky nechávám i s německým nebo latinským výrazem v
 - Maderové a Knoppové: [[ignaz-mader-ml|Ignaz Mader]] – chalupník (1833), výměnkář (1858, 1863), Sedloňov č. 120
 - Maderové a Knoppové: [[josef-knopp|Josef Knopp]] – tkadlec (Weber), Olešnice v Orl. horách č. 160
 - Maroulové: [[frantisek-ventr|František Ventr]] – tkadlec (Weber), Ledhuje č. 45 (1856); chalupník a výměnkář (Ausgedinger), Ledhuje č. 75 (1874)
-- Maroulové: [[jan-hruby-st|Jan (Johann) Hrubý]] – sedlák, Ledhuje č. 52 (1817, 1819[^130-18/19: narození dcery Anny Veroniky, květen 1817][^130-18/21: narození dcery Veroniky, říjen 1819]); podruh, Ledhuje č. 52 (1822[^130-18/25: narození syna Jana Václava 10. 2. 1822]); výměnkář (Ausgedinger), Ledhuje č. 52 (1856)
+- Maroulové: [[jan-hruby-st|Jan (Johann) Hrubý]] – sedlák (Bauer), Ledhuje č. 52 (1817, 1819, 1822, 1831[^130-18/25: narození syna Jana Václava 10. 2. 1822, „Sedlak“][^130-18/62: úmrtí syna Josefa 5. 6. 1831, „Bauer“]); výměnkář (Ausgedinger), Ledhuje č. 52 (1845, 1849, 1856[^130-7423/8: úmrtí Jana Hrubého 6. 3. 1849])
 - Maroulové: [[tobias-maroul|Tobiáš Maroul]] – chalupník, Nízká Srbská č. 71 (1846); chalupník, Nízká Srbská č. 77 (1878, zápis syna Václava)
 - Máslovi: [[jan-maslo-ns71-otec|Jan Máslo]] – výměnkář, Nízká Srbská č. 30 (1846); výměnkář, Nízká Srbská č. 39 (1850)
 - Meierové a Dauerové: [[benedikt-meier|Benedikt Meier]] – chalupník (Häusler) v Ruprechticích č. 107 při sňatku 22. 11. 1841. Později podruh (Inwohner) v Ruprechticích č. 93 (narození dětí 1845 a 1846). Příjmení Mayer (1841, 1845–1846) / Meier (1873 a později)
@@ -77,7 +77,7 @@ Původní znění z matriky nechávám i s německým nebo latinským výrazem v
 - Maderové a Knoppové: [[ignaz-walsch|Ignatz Walsch]] – chalupník (Häusler), Sedloňov č. 70 (1825)
 - Maderové a Knoppové: [[ignaz-mader-st|Ignaz Mader]] – chalupník, Polom č. 58 (1799); tkadlec (1825)
 - Maroulové: [[antonin-simec|Antonín Šimec]] – rolník, Bělic č. 23 (1878)
-- Maroulové: [[frantisek-hruby-ledhuje|František Hrubý]] – sedlák, Ledhuje č. 52 (1813)
+- Maroulové: [[frantisek-hruby-ledhuje|František Hrubý]] – sedlák, Ledhuje č. 52 (1813); výměnkář (Ausgedinger), Ledhuje č. 52 (1834, 1836[^130-18/64: úmrtí Františka Hrubého 20. 1. 1836])
 - Maroulové: [[vaclav-ventr-ledhuje|Václav Winter (Ventr)]] – tkadlec (textor), Ledhuje č. 26 (1793, 1794); chalupník, Ledhuje č. 26 (1797, 1799); chalupník (1813)
 - Máslovi: [[matej-nemecek-ns34|Matěj Němeček]] – tkadlec
 - Meierové a Dauerové: [[andreas-mayer|Andreas Mayer]] – chalupník a podruh (Häusler und Inwohner) v Ruprechticích č. 81, poddaný broumovského panství

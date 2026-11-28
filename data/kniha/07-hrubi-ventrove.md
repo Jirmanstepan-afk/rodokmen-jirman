@@ -2,19 +2,25 @@ Františka Hrubá, která si v roce 1874 vzala Josefa Maroula, pocházela z Ledh
 
 ## Hrubí z Ledhuj č. 52
 
-Nejstarší, koho znám, je [[frantisek-hruby-ledhuje|František Hrubý]], sedlák v Ledhujích č. 52. Jeho syn [[jan-hruby-st|Jan]] (v letech 1817 a 1819 sedlák v Ledhujích č. 52,[^130-18/19: narození dcery Anny Veroniky, květen 1817][^130-18/21: narození dcery Veroniky, říjen 1819] v roce 1822 podruh tamtéž, v roce 1856 výměnkář tamtéž[^130-18/25: narození syna Jana Václava 10. 2. 1822][^130-7417/15: sňatek syna 2. 6. 1856]), 24 let, se 15. února 1813 oženil s dvacetiletou [[anna-hruba-st|Annou]], dcerou zesnulého sedláka Josefa z Ledhuj č. 34. Jeho příjmení čtu ve třech zápisech třikrát jinak (*Ssolz*, *Schulz*, *Scheele*). Nejspíš to je Šolc, ale zatím to nevím jistě [?q-hruby-ventr-predci]. Svědkem na svatbě byl chalupník Václav Winter.[^130-17/10: oddací zápis 15. 2. 1813, Ledhuje]
+Nejstarší, koho znám, je [[frantisek-hruby-ledhuje|František Hrubý]], sedlák v Ledhujích č. 52. Na sklonku života byl František v č. 52 výměnkářem (*Ausgedinger*) a zemřel tam 20. ledna 1836 ve věku 78 let.[^130-18/64: úmrtí Františka Hrubého, výměnkáře, 20. 1. 1836, 78 let] Jeho syn [[jan-hruby-st|Jan]] (v letech 1817–1831 sedlák v Ledhujích č. 52,[^130-18/19: narození dcery Anny Veroniky, květen 1817][^130-18/21: narození dcery Veroniky, říjen 1819][^130-18/25: narození syna Jana Václava 10. 2. 1822][^130-18/62: úmrtí syna Josefa 5. 6. 1831, otec „Bauer“] od 40. let výměnkář tamtéž[^130-7423/5: úmrtí Anny Hrubé 6. 1. 1845, manželky výměnkáře][^130-7417/15: sňatek syna 2. 6. 1856]), 24 let, se 15. února 1813 oženil s dvacetiletou [[anna-hruba-st|Annou Šolcovou]], dcerou zesnulého sedláka Josefa Šolce z Ledhuj č. 34. Farář jméno psal po svém: v oddacím zápisu 1813 *Ssolz*, při křtu syna 1822 německy *Schulz*, v roce 1856 dokonce *Scheele*. Oba čitelné zápisy (1813 a 1822) ale jasně ukazují na Šolce. Svědkem na svatbě byl chalupník Václav Winter.[^130-17/10: oddací zápis 15. 2. 1813, Ledhuje]
 
 ![130-17/10] Svatba Jana Hrubého a Anny 15. února 1813 v Ledhujích. Mezi svědky je chalupník Václav Winter.
 
-Jan byl později v č. 52 podruhem a nakonec výměnkářem. Dne 10. února 1822 se mu narodil syn [[jan-hruby|Jan Václav]].[^130-18/25: narození Jana Václava Hrubého 10. 2. 1822, Ledhuje č. 52]
+Dne 10. února 1822 se Janovi, tehdy stále sedlákovi, narodil syn [[jan-hruby|Jan Václav]].[^130-18/25: narození Jana Václava Hrubého 10. 2. 1822, Ledhuje č. 52]
 
-Jan Václav nebyl první dítě. V č. 52 se Janovi a Anně narodily už dcery Anna Kateřina (7. října 1815), Anna Veronika (v květnu 1817) a Veronika (v říjnu 1819). Že druhá Veronika dostala jméno už jednou použité, napovídá, že Anna Veronika zemřela jako malá – to jsem ale zatím neověřil.[^130-18/19: narození Anny Veroniky Hrubé, květen 1817, Ledhuje č. 52][^130-18/21: narození Veroniky Hrubé, říjen 1819, Ledhuje č. 52]
+Jan Václav nebyl první dítě. V č. 52 se Janovi a Anně narodily už dcery Anna Kateřina (7. října 1815), Anna Veronika (v květnu 1817) a Veronika (v říjnu 1819).[^130-18/19: narození Anny Veroniky Hrubé, květen 1817, Ledhuje č. 52][^130-18/21: narození Veroniky Hrubé, říjen 1819, Ledhuje č. 52] Narodil se jim i syn Josef, který 5. června 1831 v deseti letech zemřel.[^130-18/62: úmrtí Josefa Hrubého, 10 let, 5. 6. 1831]
+
+Zajímavost: dvě dcery se jménem Veronika za dva roky. Obvykle to znamená, že starší dítě zemřelo, ale v rejstříku zemřelých polické farnosti (oddíl Ledhuje, 1800–1886) žádnou Veroniku Hrubou nenacházím. Jméno Veronika se ale v domě objevuje i o generaci výš: v č. 52 zemřela 9. června 1834 osmdesátiletá Veronika, manželka výměnkáře Františka Hrubého.[^130-18/63: úmrtí Veroniky Hrubé, 80 let, 9. 6. 1834]
+
+> Domněnka: Veronika († 1834) byla Janova matka a obě vnučky dostaly jméno po ní. Zápis to ale výslovně neříká. Proč se jméno opakovalo, když starší Veronika podle rejstříku nezemřela, zůstává záhadou – mohla zemřít mimo farnost nebo být zapsána jinak.
 
 ![130-18/19] Narození Anny Veroniky Hrubé v květnu 1817. Otec Jan Hrubý je tu ještě sedlák, matka „Anna, dcera † Josefa … N. 34“.
 
-Zajímavost: v letech 1817 a 1819 je Jan zapsán jako sedlák, v roce 1822 už jako podruh a v roce 1856 jako výměnkář. Statek č. 52 tedy možná brzy přešel na někoho jiného.
+Zajímavost: Jan s Annou statek nikdy „neprohráli“, jak jsem si dřív myslel. Starší čtení „podruh“ v zápisu z roku 1822 bylo chybné, ve skutečnosti tam stojí *Sedlak*. Jan byl sedlákem nejméně do roku 1831 a v roce 1845 už je zapsán jako výměnkář – žil tedy na výměnku, jak bylo u starých sedláků zvykem. Anna zemřela 6. ledna 1845 ve věku 53 let a Jan 6. března 1849 v šedesáti, oba na „Lungensucht“, tedy plicní souchotiny (tuberkulózu). Svatbu syna Jana Václava v roce 1856 už ani jeden z nich nezažil.[^130-7423/5: úmrtí Anny Hrubé 6. 1. 1845, 53 let][^130-7423/8: úmrtí Jana Hrubého, výměnkáře, 6. 3. 1849, 60 let]
 
-> Domněnka: Matka je v obou zápisech dcerou zemřelého Josefa z č. 34 a příjmení se tu čte jako Šolc (*Šolce*, *Šolcy*). Spolu se zápisy z let 1813 a 1822 to Šolcovou dál posiluje, ale písmo je nejasné, a tak ji do stromu zatím nedávám [?q-hruby-ventr-predci].
+![130-7423/8] Úmrtí Jana Hrubého, výměnkáře z Ledhuj č. 52, 6. března 1849 ve věku 60 let. Příčina: plicní souchotiny.
+
+> Domněnka: Statek č. 52 po Janovi převzal některý z jeho synů – kolem roku 1845 se tam podle mého čtení objevuje sedlák Franz Hrubý. Pozemkové knihy Ledhuj nejsou digitalizované, a tak předání statku zatím ověřit nejde [?q-hruby-ventr-predci].
 
 ## Wintrové z Ledhuj č. 26 a 45
 

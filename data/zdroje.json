@@ -1084,6 +1084,13 @@
    "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 53-64 (poř.č. 3754), 1807-1832",
    "popis": "římskokatolická matrika ZEMŘELÝCH, římskokatolický index ZEMŘELÝCH, Hronov (5.1807-1832)",
    "url": "https://aron.vychodoceskearchivy.cz/apu/75ab804b-d8e0-423a-842a-798cc37982c0"
+  },
+  "130-7423": {
+   "apu": "4c6bed76-57f7-4258-9055-888edf66c911",
+   "dao": "4c6bed76-57f7-4258-9055-888edf66c911",
+   "nazev": "Státní oblastní archiv v Hradci Králové: Sbírka matrik Východočeského kraje, sign.: 130-7423 (poř.č. 8783), 1842-6.1922",
+   "popis": "římskokatolická matrika ZEMŘELÝCH, Velká Ledhuje, Malá Ledhuje",
+   "url": "https://aron.vychodoceskearchivy.cz/apu/4c6bed76-57f7-4258-9055-888edf66c911"
   }
  },
  "aliasy": {
@@ -1749,6 +1756,15 @@
    "velky": "img/zdroje/130-18_s060_velky.jpg",
    "vyrez_soubor": "z130-18-s60-1826-09-marie-josefa-wintra-c45.jpg"
   },
+  "130-18|62": {
+   "signatura": "130-18",
+   "snimek": 62,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/0c9b9b62-9bc1-401e-9e78-53da97aa5bbc",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-18_s062.jpg",
+   "velky": "img/zdroje/130-18_s062_velky.jpg",
+   "vyrez_soubor": "z130-18-s62-pag118-1831-06-05-josef-hruby-syn-jana-sedlaka-c52-10-let.jpg"
+  },
   "130-18|63": {
    "signatura": "130-18",
    "snimek": 63,
@@ -1757,6 +1773,15 @@
    "nahled": "img/zdroje/130-18_s063.jpg",
    "velky": "img/zdroje/130-18_s063_velky.jpg",
    "vyrez_soubor": "z130-18-s63-1833-01-anton-winter-c49.jpg"
+  },
+  "130-18|64": {
+   "signatura": "130-18",
+   "snimek": 64,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/dao/3534fa9d-4ca4-4670-bc91-1cd2f0c079e2/file/472dd9d7-b12f-482f-9a58-a02633853fca",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-18_s064.jpg",
+   "velky": "img/zdroje/130-18_s064_velky.jpg",
+   "vyrez_soubor": "z130-18-s64-pag123-1836-01-20-frantisek-hruby-vymenkar-c52-78-let.jpg"
   },
   "130-42|108": {
    "signatura": "130-42",
@@ -1984,6 +2009,24 @@
    "nahled": "img/zdroje/130-7420_s044.jpg",
    "velky": "img/zdroje/130-7420_s044_velky.jpg",
    "vyrez_soubor": "maroul-josef-1874-index-130-7420-s44.jpg"
+  },
+  "130-7423|5": {
+   "signatura": "130-7423",
+   "snimek": 5,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/4c6bed76-57f7-4258-9055-888edf66c911/dao/4c6bed76-57f7-4258-9055-888edf66c911/file/4e993022-6080-4cc8-aa2f-3dce0aa0dec3",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-7423_s005.jpg",
+   "velky": "img/zdroje/130-7423_s005_velky.jpg",
+   "vyrez_soubor": "z130-7423-s5-pag3-1845-01-06-anna-hruba-manzelka-jana-vymenkare-c52-53-let.jpg"
+  },
+  "130-7423|8": {
+   "signatura": "130-7423",
+   "snimek": 8,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/4c6bed76-57f7-4258-9055-888edf66c911/dao/4c6bed76-57f7-4258-9055-888edf66c911/file/7d407712-86fe-4e03-bc39-7d148e92f351",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-7423_s008.jpg",
+   "velky": "img/zdroje/130-7423_s008_velky.jpg",
+   "vyrez_soubor": "z130-7423-s8-pag8-1849-03-06-jan-hruby-vymenkar-c52-60-let.jpg"
   },
   "14-4|55": {
    "signatura": "14-4",

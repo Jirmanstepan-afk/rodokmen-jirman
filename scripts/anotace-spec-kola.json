@@ -1799,6 +1799,291 @@
     }
    ],
    "plyne": "Druhý zápis se stejnou matkou – Anna, dcera zemřelého Josefa Šolce(?); čtení příjmení zůstává nejisté."
+  },
+  {
+   "key": "130-7423|5",
+   "src": "img/zdroje/130-7423_s005_velky.jpg",
+   "title": "Úmrtí Anny Hrubé – Ledhuje č. 52, 6. 1. 1845",
+   "zdroj": "SOA Zámrsk, sign. 130-7423, snímek 5 (pag. 3)",
+   "crop": [
+    0,
+    0,
+    2000,
+    281
+   ],
+   "entry": [
+    0,
+    0,
+    2000,
+    281
+   ],
+   "marks": [
+    {
+     "box": [
+      0,
+      0,
+      250,
+      250
+     ],
+     "lat": "6. Jänner früh 8 Uhr gestorben, 9. früh 9 Uhr begraben",
+     "cs": "zemřela 6. 1. 1845 v 8 ráno, pohřbena 9. 1."
+    },
+    {
+     "box": [
+      260,
+      140,
+      295,
+      200
+     ],
+     "lat": "52",
+     "cs": "dům č. 52"
+    },
+    {
+     "box": [
+      300,
+      100,
+      990,
+      250
+     ],
+     "lat": "Anna Eheweib des Johann Hruby Ausgedingers",
+     "cs": "Anna, manželka Jana Hrubého, výměnkáře"
+    },
+    {
+     "box": [
+      1090,
+      120,
+      1150,
+      190
+     ],
+     "lat": "53",
+     "cs": "53 let"
+    },
+    {
+     "box": [
+      1220,
+      90,
+      1540,
+      230
+     ],
+     "lat": "an Lungensucht",
+     "cs": "na plicní souchotiny"
+    }
+   ],
+   "plyne": "Anna Hrubá, manželka výměnkáře Jana Hrubého z č. 52, zemřela 6. 1. 1845 ve věku 53 let (narozena tedy kolem 1791/92)."
+  },
+  {
+   "key": "130-7423|8",
+   "src": "img/zdroje/130-7423_s008_velky.jpg",
+   "title": "Úmrtí Jana Hrubého – Ledhuje č. 52, 6. 3. 1849",
+   "zdroj": "SOA Zámrsk, sign. 130-7423, snímek 8 (pag. 8)",
+   "crop": [
+    0,
+    0,
+    2000,
+    172
+   ],
+   "entry": [
+    0,
+    0,
+    2000,
+    172
+   ],
+   "marks": [
+    {
+     "box": [
+      0,
+      0,
+      170,
+      172
+     ],
+     "lat": "6. März Abends … gestorben, 9. früh 9 Uhr begraben",
+     "cs": "zemřel 6. 3. 1849 večer, pohřben 9. 3."
+    },
+    {
+     "box": [
+      170,
+      60,
+      205,
+      115
+     ],
+     "lat": "52",
+     "cs": "dům č. 52"
+    },
+    {
+     "box": [
+      205,
+      0,
+      900,
+      172
+     ],
+     "lat": "Johann Hruby Ausgedinger",
+     "cs": "Jan Hrubý, výměnkář"
+    },
+    {
+     "box": [
+      1080,
+      20,
+      1135,
+      110
+     ],
+     "lat": "60",
+     "cs": "60 let"
+    },
+    {
+     "box": [
+      1230,
+      0,
+      2000,
+      172
+     ],
+     "lat": "Laut Todtenbeschauzettel vom 8. März 1849 … an Lungensucht",
+     "cs": "podle ohledacího listu z 8. 3. 1849: plicní souchotiny"
+    }
+   ],
+   "plyne": "Jan Hrubý, výměnkář z č. 52, zemřel 6. 3. 1849 ve věku 60 let – čtyři roky po manželce Anně."
+  },
+  {
+   "key": "130-18|62",
+   "src": "img/zdroje/130-18_s062_velky.jpg",
+   "title": "Úmrtí Josefa Hrubého – Ledhuje č. 52, 5. 6. 1831",
+   "zdroj": "SOA Zámrsk, sign. 130-18, snímek 62 (pag. 118)",
+   "crop": [
+    0,
+    0,
+    2000,
+    137
+   ],
+   "entry": [
+    0,
+    0,
+    2000,
+    137
+   ],
+   "marks": [
+    {
+     "box": [
+      150,
+      15,
+      500,
+      110
+     ],
+     "lat": "5. Juni (†), 7. (begraben)",
+     "cs": "zemřel 5. 6., pohřben 7. 6. 1831"
+    },
+    {
+     "box": [
+      640,
+      20,
+      690,
+      100
+     ],
+     "lat": "52",
+     "cs": "dům č. 52"
+    },
+    {
+     "box": [
+      770,
+      10,
+      1310,
+      110
+     ],
+     "lat": "Joseph Sohn des Johann Hruby Bauers",
+     "cs": "Josef, syn Jana Hrubého, sedláka"
+    },
+    {
+     "box": [
+      1600,
+      10,
+      1650,
+      110
+     ],
+     "lat": "10 Jahre",
+     "cs": "10 let"
+    }
+   ],
+   "plyne": "V roce 1831 je Jan Hrubý v č. 52 stále sedlák (Bauer); jeho desetiletý syn Josef zemřel."
+  },
+  {
+   "key": "130-18|64",
+   "src": "img/zdroje/130-18_s064_velky.jpg",
+   "title": "Úmrtí Františka Hrubého – Ledhuje č. 52, 20. 1. 1836",
+   "zdroj": "SOA Zámrsk, sign. 130-18, snímek 64 (pag. 123)",
+   "crop": [
+    0,
+    0,
+    2000,
+    256
+   ],
+   "entry": [
+    0,
+    0,
+    2000,
+    256
+   ],
+   "marks": [
+    {
+     "box": [
+      680,
+      0,
+      1440,
+      100
+     ],
+     "lat": "Anno Domini 1836",
+     "cs": "rok 1836"
+    },
+    {
+     "box": [
+      90,
+      0,
+      320,
+      256
+     ],
+     "lat": "20. Jänner früh … gestorben, 22. früh 9 Uhr begraben",
+     "cs": "zemřel 20. 1. 1836, pohřben 22. 1."
+    },
+    {
+     "box": [
+      375,
+      115,
+      420,
+      180
+     ],
+     "lat": "52",
+     "cs": "dům č. 52"
+    },
+    {
+     "box": [
+      400,
+      85,
+      960,
+      240
+     ],
+     "lat": "Franz Hruby Ausgedinger",
+     "cs": "František Hrubý, výměnkář"
+    },
+    {
+     "box": [
+      1205,
+      115,
+      1260,
+      180
+     ],
+     "lat": "78",
+     "cs": "78 let"
+    },
+    {
+     "box": [
+      1380,
+      20,
+      1720,
+      200
+     ],
+     "lat": "Laut Todtenbeschauzettel vom 21. Jänner 1836 … am Schleimschlag(?)",
+     "cs": "podle ohledacího listu z 21. 1. 1836; příčina čtena nejistě",
+     "nejiste": true
+    }
+   ],
+   "plyne": "František Hrubý, výměnkář z č. 52, zemřel 20. 1. 1836 ve věku 78 let (narozen kolem 1758)."
   }
  ]
 }
