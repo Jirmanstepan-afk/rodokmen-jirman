@@ -42,7 +42,7 @@ Dorota je při svatbě v roce 1817 zapsána jako dcera *zemřelého* podruha Ji�
 
 > Domněnka: Dorotiným otcem je podruh Jiří Falta, který zemřel v roce 1799. Podruzi neměli vlastní dům a často se stěhovali, takže by se mohla narodit v č. 109 a otec zemřít v č. 104. Pětaosmdesátiletý chalupník Jiří z č. 109 by pak mohl být její děd. Pozdější zápisy ale uvádějí č. 39, proto to do stromu nedávám [?q-falta-slatina].
 
-Jiří a Dorota Faltovi z č. 109 měli po Dorotě Marii (1792) ještě další děti: Václava (5. 4. 1794), Antonína (1796) a Annu (25. 5. 1798). Otec je u nich zapsán jednou jako podruh, jindy jako výměnkář („wejminkář“). Matka je v roce 1794 „Dorota, dcera Jana Lokvence“, v letech 1796 a 1798 ale „Dorota, rozená Jiřího Martince(?) z L…(?) č. 9“ – její rodné jméno tak zůstává nejisté.[^12-2/39: narození Antonína Falty, Slatina č. 109, 1796, pag. 70 – otec Jiří Falta, výměnkář][^12-2/45: narození Anny Faltové, Slatina č. 109, 25. 5. 1798, pag. 82] Po srpnu 1799 už ve slatinské knize narozených (prošel jsem roky 1799–1803) žádné dítě s otcem Jiřím Faltou není. To se k úmrtí podruha Jiřího v srpnu 1799 hodí, ale samo to nic nedokazuje.
+Jiří a Dorota Faltovi z č. 109 měli po Dorotě Marii (1792) ještě další děti: Václava (5. 4. 1794), Antonína (1796) a Annu (25. 5. 1798). Otec je u nich zapsán jednou jako podruh, jindy jako výměnkář („wejminkář“). Matka je v roce 1794 „Dorota, dcera Jana Lokvence“, v letech 1796 a 1798 ale „Dorota, rozená Jiřího Martince(?) z Lhoty Ústí(?) č. 9“ – místo i rodné jméno zůstávají nejisté.[^12-2/39: narození Antonína Falty, Slatina č. 109, 1796, pag. 70 – otec Jiří Falta, výměnkář][^12-2/45: narození Anny Faltové, Slatina č. 109, 25. 5. 1798, pag. 82] Po srpnu 1799 už ve slatinské knize narozených (prošel jsem roky 1799–1803) žádné dítě s otcem Jiřím Faltou není. To se k úmrtí podruha Jiřího v srpnu 1799 hodí, ale samo to nic nedokazuje.
 
 ![12-2/45] Narození Anny Faltové 25. května 1798 ve Slatině č. 109 – poslední známé dítě Jiřího a Doroty Faltových.
 
@@ -50,9 +50,11 @@ Do roku 1821 zná slatinský rejstřík zemřelých ještě jednoho Jiřího: 20
 
 ![12-5/45] Úmrtí devadesátiletého Jana Jiřího Falty 20. května 1813 ve Slatině.
 
-Sňatek Dorotiných rodičů jsem nenašel. Slatinská oddací kniha od června 1784 má jediného ženicha Jiřího Faltu: 21. září(?) 1786 se oženil čtyřicetiletý podruh Jiří Falta s pětadvacetiletou Marií, dcerou Davida Nejmana(?).[^12-4/7: sňatek Jiřího Falty, podruha, s Marií, 1786, pag. 5] Nevěsta se ale jmenuje Marie, ne Dorota. Starší rejstřík oddaných Slatiny (do roku 1775) uvádí Jiřího Faltu jen v letech 1740 a 1763.[^12-6/33: rejstřík oddaných Slatina 1723–1775, lit. F] Jiří a Dorota se tedy nejspíš brali jinde, třeba v nevěstině farnosti, nebo v letech 1776–1784, které tento rejstřík nepokrývá.
+Sňatek Dorotiných rodičů jsem nenašel. Slatinská oddací kniha od června 1784 má jediného ženicha Jiřího Faltu: 21. září(?) 1786 se oženil čtyřicetiletý podruh Jiří Falta s pětadvacetiletou Marií, dcerou Davida Nejmana(?).[^12-4/7: sňatek Jiřího Falty, podruha, s Marií, 1786, pag. 5] Nevěsta se ale jmenuje Marie, ne Dorota. Starší rejstřík oddaných Slatiny jsem znovu prošel celý: pod písmenem F končí rokem 1775, Jiří Falta je tu jen v letech 1740 a 1763, a pod posledními zápisy zbývá prázdné místo, kam už nikdo léta 1776–1784 nedopsal.[^12-6/33: rejstřík oddaných Slatina 1723–1775, lit. F] Druhá řada oddaných v této knize není, po abecedě oddaných začíná hned rejstřík zemřelých. Jiří a Dorota se tedy nejspíš brali jinde, třeba v nevěstině farnosti, nebo právě v těch letech 1776–1784, které slatinský rejstřík nepokrývá.
 
 ![12-4/7] Sňatek podruha Jiřího Falty s Marií ve Slatině roku 1786 – jediný slatinský sňatek Jiřího Falty po roce 1784.
+
+![12-6/33] Rejstřík oddaných Slatiny, písmeno F. Poslední zápisy jsou z roku 1775, pod nimi zbývá prázdná stránka.
 
 > Domněnka: Čísla domů ve Slatině se mezi lety 1790 a 1812 hromadně nezměnila. I v roce 1812 sahají až ke 159 a číslo 109 se dál používá. Číslo 39 proto nejspíš není jen nové označení domu 109, spíš další podruhovské bydliště rodiny [?q-falta-slatina].
 

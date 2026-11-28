@@ -21,3 +21,11 @@ V č. 28 také rodinu potkalo neštěstí. Dne 16. března 1808 zemřel sedmilet
 Jiřího manželka se ve všech křtech jmenuje Kateřina, ale její rodné příjmení zatím přečíst neumím. Ve svatbě 1784 to vypadá na „Pleschkin“, v křtech 1790 a 1791 na „Kürschnerin“ (kožešník) a v roce 1793 je u ní poznámka „rozená Wrschürz(?)in z Vysoké Srbské“, kmotrem je navíc Karel stejného příjmení. Dokud to nebude jasné, nechávám Kateřinu mimo strom a jen v otevřených otázkách [?q-klimes-snatek].
 
 Nevím ani, kdy se narodila Jiřího dcera Kateřina, moje předkyně. Podle věku při svatbě to bylo kolem roku 1790. Její křest se mi zatím jistě přiřadit nepodařilo.
+
+V hronovském rejstříku narozených pod písmenem P jsem proto prošel léta 1755–1762, tedy právě to okno, kdy by se pětadvacetiletá nevěsta z července 1784 měla narodit. Kateřina Pleschkinová ani Plischkinová z Vysoké Srbské tam není. Jména na P z Vysoké Srbské jsou v tom úseku především Pawržka, tedy Pavříšek.[^53-4178/114: rejstřík narozených Hronov, lit. P, 1755–1762, bez Kateřiny Pleschkinové z Vysoké Srbské]
+
+![53-4178/114] Hronovský rejstřík narozených, písmeno P, léta 1755–1762. Kateřina Pleschkinová z Vysoké Srbské tu není.
+
+Zajímavost: jediná Kateřina Pitašová, kterou rejstřík narozených Vysoké Srbské v letech 1784–1797 zná, je pokřtěná 31. října 1787 v č. 38, v tomtéž domě, kde se Jiří o tři roky dřív ženil. Při svatbě v roce 1809 jí ale farář zapsal 19 let, a podle tohoto křtu by jí bylo už 21. Proto ji zatím beru jen jako kandidátku.
+
+Vdovu po Jiřím jsem nenašel ani v knize zemřelých Vysoké Srbské 1784–1832, ani v rejstříku za roky 1833–1834. Zápisy z let 1835–1848 v téže knize rejstřík nemají, ty ještě čekají.

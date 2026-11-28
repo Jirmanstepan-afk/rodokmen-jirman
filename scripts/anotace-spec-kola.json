@@ -3013,6 +3013,160 @@
    ],
    "plyne": "V hronovském indexu oddaných (lit. H, včetně Žďárek) v letech 1775–1786 není ženich František Hrubý. Jediný Hrubý v tomto úseku je Johann ze Zbečníka 9. 6. 1780 – jiný muž.",
    "plyne_v_obrazku": true
+  },
+  {
+   "key": "12-6|33",
+   "src": "img/zdroje/12-6_s033_velky.jpg",
+   "title": "Rejstřík oddaných Slatina, lit. F – končí rokem 1775 (Jiří Falta jen 1740 a 1763)",
+   "zdroj": "SOA Zámrsk, sign. 12-6, snímek 33, pravá strana (fol. 30)",
+   "crop": [
+    990,
+    20,
+    1960,
+    1540
+   ],
+   "entry": [
+    1005,
+    130,
+    1420,
+    625
+   ],
+   "marks": [
+    {
+     "box": [
+      1410,
+      65,
+      1495,
+      135
+     ],
+     "lat": "F",
+     "cs": "písmeno F"
+    },
+    {
+     "box": [
+      1005,
+      268,
+      1415,
+      295
+     ],
+     "lat": "Falta Giržj z Slatiny 1740 p. 35",
+     "cs": "Jiří Falta ze Slatiny, 1740"
+    },
+    {
+     "box": [
+      1005,
+      415,
+      1415,
+      448
+     ],
+     "lat": "Falta Giržj z Slatiny 1763 p. 69",
+     "cs": "Jiří Falta ze Slatiny, 1763 – druhý a poslední v tomto rejstříku"
+    },
+    {
+     "box": [
+      1005,
+      562,
+      1415,
+      622
+     ],
+     "lat": "Jimenec Waclaw / Falta Jimm 1775 p. 110",
+     "cs": "poslední zápisy, rok 1775"
+    },
+    {
+     "box": [
+      1005,
+      640,
+      1880,
+      1480
+     ],
+     "lat": "(prázdné místo)",
+     "cs": "pod zápisy zbývá prázdná stránka – léta 1776–1784 sem nikdo nedopsal"
+    }
+   ],
+   "plyne": "Index oddaných lit. F končí rokem 1775. Jiří Falta je tu jen v letech 1740 a 1763. Pod posledními zápisy zbývá prázdné místo a druhá řada oddaných v této knize není (po abecedě oddaných začíná rejstřík zemřelých). Sňatek Jiřího Falty s Dorotou v letech 1776 až květen 1784 tady není.",
+   "plyne_v_obrazku": true
+  },
+  {
+   "key": "53-4178|114",
+   "src": "img/zdroje/53-4178_s114_velky.jpg",
+   "title": "Rejstřík narozených Hronov, lit. P, 1755–1762 – bez Kateřiny Pleschkinové z Vysoké Srbské",
+   "zdroj": "SOA Zámrsk, sign. 53-4178, snímek 114, levá strana",
+   "crop": [
+    0,
+    0,
+    1269,
+    2000
+   ],
+   "entry": [
+    20,
+    85,
+    1250,
+    1880
+   ],
+   "marks": [
+    {
+     "box": [
+      540,
+      5,
+      690,
+      80
+     ],
+     "lat": "P",
+     "cs": "písmeno P (pokračování od s. 113, kde řada začíná rokem 1742)"
+    },
+    {
+     "box": [
+      400,
+      200,
+      620,
+      255
+     ],
+     "lat": "A° 1755",
+     "cs": "začátek této strany, rok 1755"
+    },
+    {
+     "box": [
+      400,
+      930,
+      620,
+      975
+     ],
+     "lat": "A° 1758",
+     "cs": "začátek okna 1758–1760, kdy by se pětadvacetiletá nevěsta z července 1784 měla narodit"
+    },
+    {
+     "box": [
+      400,
+      1170,
+      620,
+      1215
+     ],
+     "lat": "A° 1760",
+     "cs": "konec věkového okna"
+    },
+    {
+     "box": [
+      650,
+      1290,
+      920,
+      1345
+     ],
+     "lat": "Hochsichel",
+     "cs": "z Vysoké Srbské tu jsou jiná jména na P (Pawržka / Pavříšek), ne Pleschkin"
+    },
+    {
+     "box": [
+      400,
+      1650,
+      620,
+      1690
+     ],
+     "lat": "A° 1762",
+     "cs": "poslední rok na této straně"
+    }
+   ],
+   "plyne": "V hronovském rejstříku narozených pod písmenem P v letech 1755–1762 není žádná Kateřina Pleschkinová ani Plischkinová z Vysoké Srbské. Jména na P z Vysoké Srbské jsou v tomto úseku především Pawržka (Pavříšek).",
+   "plyne_v_obrazku": true
   }
  ]
 }

@@ -1980,6 +1980,31 @@
     "Hruby Johann 9. Juni Zbečník I. 81 → Hrubý Johann, 9. 6. 1780, Zbečník – ne František, jiná obec",
     "1786 → poslední rok hledaného okna 1775–1786"
    ]
+  },
+  "12-6|33": {
+   "soubor": "img/zdroje/12-6_s033_anotace.jpg",
+   "plyne": "Index oddaných lit. F končí rokem 1775. Jiří Falta je tu jen v letech 1740 a 1763. Pod posledními zápisy zbývá prázdné místo a druhá řada oddaných v této knize není (po abecedě oddaných začíná rejstřík zemřelých). Sňatek Jiřího Falty s Dorotou v letech 1776 až květen 1784 tady není.",
+   "titulek": "Rejstřík oddaných Slatina, lit. F – končí rokem 1775 (Jiří Falta jen 1740 a 1763)",
+   "oznaceno": [
+    "F → písmeno F",
+    "Falta Giržj z Slatiny 1740 p. 35 → Jiří Falta ze Slatiny, 1740",
+    "Falta Giržj z Slatiny 1763 p. 69 → Jiří Falta ze Slatiny, 1763 – druhý a poslední v tomto rejstříku",
+    "Jimenec Waclaw / Falta Jimm 1775 p. 110 → poslední zápisy, rok 1775",
+    "(prázdné místo) → pod zápisy zbývá prázdná stránka – léta 1776–1784 sem nikdo nedopsal"
+   ]
+  },
+  "53-4178|114": {
+   "soubor": "img/zdroje/53-4178_s114_anotace.jpg",
+   "plyne": "V hronovském rejstříku narozených pod písmenem P v letech 1755–1762 není žádná Kateřina Pleschkinová ani Plischkinová z Vysoké Srbské. Jména na P z Vysoké Srbské jsou v tomto úseku především Pawržka (Pavříšek).",
+   "titulek": "Rejstřík narozených Hronov, lit. P, 1755–1762 – bez Kateřiny Pleschkinové z Vysoké Srbské",
+   "oznaceno": [
+    "P → písmeno P (pokračování od s. 113, kde řada začíná rokem 1742)",
+    "A° 1755 → začátek této strany, rok 1755",
+    "A° 1758 → začátek okna 1758–1760, kdy by se pětadvacetiletá nevěsta z července 1784 měla narodit",
+    "A° 1760 → konec věkového okna",
+    "Hochsichel → z Vysoké Srbské tu jsou jiná jména na P (Pawržka / Pavříšek), ne Pleschkin",
+    "A° 1762 → poslední rok na této straně"
+   ]
   }
  }
 }
