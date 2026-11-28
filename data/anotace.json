@@ -1883,6 +1883,58 @@
     "2 Wochen → věk 2 týdny",
     "Fraiß → příčina: křeče (Fraiß)"
    ]
+  },
+  "130-17|36": {
+   "soubor": "img/zdroje/130-17_s036_anotace.jpg",
+   "plyne": "15. 3. 1803 byl v Ledhujích č. 52 pokřtěn Vojtěch, syn Františka chalupníka a Roziny. To není náš František Hrubý, sedlák, s Veronikou. V roce 1803 č. 52 držela jiná domácnost.",
+   "titulek": "Křest Vojtěcha v č. 52 – 15. 3. 1803, otec František chalupník × Rozina (ne Hrubý)",
+   "oznaceno": [
+    "15. Mart. → 15. března (1803)",
+    "52 → číslo domu 52",
+    "Vojtěch → pokřtěn Vojtěch",
+    "Franz … chalupník → otec František, chalupník (příjmení není Hrubý)",
+    "Rozina dcera Franze … č. 27 → matka Rozina, dcera Františka z č. 27"
+   ]
+  },
+  "130-17|39": {
+   "soubor": "img/zdroje/130-17_s039_anotace.jpg",
+   "plyne": "1. 1. 1807 byl v Ledhujích č. 52 pokřtěn Baltazar Matěj, syn Václava chalupníka a Kateřiny. Č. 52 tehdy patřilo Václavovi, ne Františku Hrubému.",
+   "titulek": "Křest Baltazara Matěje v č. 52 – 1. 1. 1807, otec Václav chalupník × Kateřina",
+   "oznaceno": [
+    "1807 1. Januari → 1. ledna 1807",
+    "52 → číslo domu 52",
+    "Baltazar Matěj → pokřtěn Baltazar Matěj",
+    "Wenzlaus chalupník → otec Václav, chalupník",
+    "Kateřina dcera … č. 7 → matka Kateřina, dcera (z č. 7)"
+   ]
+  },
+  "130-17|41": {
+   "soubor": "img/zdroje/130-17_s041_anotace.jpg",
+   "plyne": "Ledhujské křty v knize 130-17 končí v říjnu 1808 odkazem na pag. 77. Ta strana (snímek 42) je ale začátek matriky zemřelých od roku 1785. Křty 1809–1813 v digitalizovaném 130-17 chybí.",
+   "titulek": "Konec křtů v 130-17 – říjen 1808, odkaz na pag. 77",
+   "oznaceno": [
+    "Continuationem baptizatorum vide pag: 77. et Seque → pokračování křtů viz stranu 77 a následující"
+   ]
+  },
+  "130-44|15": {
+   "soubor": "img/zdroje/130-44_s015_anotace.jpg",
+   "plyne": "V ledhujském oddílu lit. H (Ledhug 29) je jediný Joannes Hrubý zapsán 3. 6. 1787 – Johann Wenzl, už známý z matriky (č. 30). Další Joannes v tomto úseku ani ve zbytku ledhujského bloku na téže straně (do r. 1796) není.",
+   "titulek": "Rejstřík křtů lit. H, začátek oddílu Ledhuje – jediný Joannes Hrubý 3. 6. 1787",
+   "oznaceno": [
+    "Ledhug 29 → začátek oddílu Ledhuje (pag. 29)",
+    "Hruby Wenzel – 13. Mart. → Václav (Josef), 13. 3. (1786)",
+    "Hruby Joannes 87. 3. Junii → Jan (Johann Wenzl), 3. 6. 1787"
+   ]
+  },
+  "130-44|59": {
+   "soubor": "img/zdroje/130-44_s059_anotace.jpg",
+   "plyne": "Ledhujský oddíl lit. S začíná 15. 2. 1786 a na konci strany končí 29. 1. 1787. Jan Šolc (*cca 1787) ani Anna (*cca 1793) v tomto krátkém bloku nejsou. Pozdější zápisy lit. S pro Ledhuje (po lednu 1787) v tomto kole ještě nejsou dohledány.",
+   "titulek": "Rejstřík křtů lit. S, začátek oddílu Ledhuje – 1786 až leden 1787, bez Jana a Anny",
+   "oznaceno": [
+    "Ledhug 35 → začátek oddílu Ledhuje (pag. 35)",
+    "Mathias 86. 15. Fe. → Matěj, 15. 2. 1786",
+    "Christianus 87. 29. Janu. → Kristián, 29. 1. 1787 – poslední zápis bloku na této straně"
+   ]
   }
  }
 }

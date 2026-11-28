@@ -2475,6 +2475,286 @@
    ],
    "plyne": "Dorota Hrubín, zemřelá 21. 3. 1794 v Ledhujích č. 33 ve stáří 2 týdnů na křeče (Fraiß), je táž Dorota Agáta, pokřtěná 8. 3. 1794 v č. 33 jako dcera sedláka Františka Hrubého a Veroniky. Rodina tehdy stále bydlela v č. 33, ne v č. 52.",
    "plyne_v_obrazku": true
+  },
+  {
+   "key": "130-17|36",
+   "src": "img/zdroje/130-17_s036_velky.jpg",
+   "title": "Křest Vojtěcha v č. 52 – 15. 3. 1803, otec František chalupník × Rozina (ne Hrubý)",
+   "zdroj": "SOA Zámrsk, sign. 130-17, snímek 36 (pag. 66)",
+   "crop": [
+    0,
+    0,
+    2000,
+    277
+   ],
+   "entry": [
+    4,
+    6,
+    1990,
+    218
+   ],
+   "marks": [
+    {
+     "box": [
+      4,
+      10,
+      155,
+      210
+     ],
+     "lat": "15. Mart.",
+     "cs": "15. března (1803)"
+    },
+    {
+     "box": [
+      165,
+      50,
+      235,
+      205
+     ],
+     "lat": "52",
+     "cs": "číslo domu 52"
+    },
+    {
+     "box": [
+      250,
+      15,
+      420,
+      205
+     ],
+     "lat": "Vojtěch",
+     "cs": "pokřtěn Vojtěch"
+    },
+    {
+     "box": [
+      575,
+      8,
+      780,
+      210
+     ],
+     "lat": "Franz … chalupník",
+     "cs": "otec František, chalupník (příjmení není Hrubý)"
+    },
+    {
+     "box": [
+      785,
+      8,
+      1185,
+      210
+     ],
+     "lat": "Rozina dcera Franze … č. 27",
+     "cs": "matka Rozina, dcera Františka z č. 27"
+    }
+   ],
+   "plyne": "15. 3. 1803 byl v Ledhujích č. 52 pokřtěn Vojtěch, syn Františka chalupníka a Roziny. To není náš František Hrubý, sedlák, s Veronikou. V roce 1803 č. 52 držela jiná domácnost.",
+   "plyne_v_obrazku": true
+  },
+  {
+   "key": "130-17|39",
+   "src": "img/zdroje/130-17_s039_velky.jpg",
+   "title": "Křest Baltazara Matěje v č. 52 – 1. 1. 1807, otec Václav chalupník × Kateřina",
+   "zdroj": "SOA Zámrsk, sign. 130-17, snímek 39 (pag. 72)",
+   "crop": [
+    0,
+    0,
+    2000,
+    628
+   ],
+   "entry": [
+    4,
+    235,
+    1990,
+    615
+   ],
+   "marks": [
+    {
+     "box": [
+      4,
+      245,
+      200,
+      600
+     ],
+     "lat": "1807 1. Januari",
+     "cs": "1. ledna 1807"
+    },
+    {
+     "box": [
+      210,
+      310,
+      290,
+      560
+     ],
+     "lat": "52",
+     "cs": "číslo domu 52"
+    },
+    {
+     "box": [
+      300,
+      255,
+      530,
+      575
+     ],
+     "lat": "Baltazar Matěj",
+     "cs": "pokřtěn Baltazar Matěj"
+    },
+    {
+     "box": [
+      720,
+      255,
+      925,
+      600
+     ],
+     "lat": "Wenzlaus chalupník",
+     "cs": "otec Václav, chalupník"
+    },
+    {
+     "box": [
+      930,
+      255,
+      1320,
+      600
+     ],
+     "lat": "Kateřina dcera … č. 7",
+     "cs": "matka Kateřina, dcera (z č. 7)"
+    }
+   ],
+   "plyne": "1. 1. 1807 byl v Ledhujích č. 52 pokřtěn Baltazar Matěj, syn Václava chalupníka a Kateřiny. Č. 52 tehdy patřilo Václavovi, ne Františku Hrubému.",
+   "plyne_v_obrazku": true
+  },
+  {
+   "key": "130-17|41",
+   "src": "img/zdroje/130-17_s041_velky.jpg",
+   "title": "Konec křtů v 130-17 – říjen 1808, odkaz na pag. 77",
+   "zdroj": "SOA Zámrsk, sign. 130-17, snímek 41 (pag. 75)",
+   "crop": [
+    0,
+    0,
+    2000,
+    701
+   ],
+   "entry": [
+    8,
+    290,
+    1985,
+    560
+   ],
+   "marks": [
+    {
+     "box": [
+      80,
+      300,
+      1920,
+      540
+     ],
+     "lat": "Continuationem baptizatorum vide pag: 77. et Seque",
+     "cs": "pokračování křtů viz stranu 77 a následující"
+    }
+   ],
+   "plyne": "Ledhujské křty v knize 130-17 končí v říjnu 1808 odkazem na pag. 77. Ta strana (snímek 42) je ale začátek matriky zemřelých od roku 1785. Křty 1809–1813 v digitalizovaném 130-17 chybí.",
+   "plyne_v_obrazku": true
+  },
+  {
+   "key": "130-44|15",
+   "src": "img/zdroje/130-44_s015_velky.jpg",
+   "title": "Rejstřík křtů lit. H, začátek oddílu Ledhuje – jediný Joannes Hrubý 3. 6. 1787",
+   "zdroj": "SOA Zámrsk, sign. 130-44, snímek 15",
+   "crop": [
+    0,
+    0,
+    1198,
+    1054
+   ],
+   "entry": [
+    2,
+    290,
+    1080,
+    900
+   ],
+   "marks": [
+    {
+     "box": [
+      850,
+      300,
+      1075,
+      385
+     ],
+     "lat": "Ledhug 29",
+     "cs": "začátek oddílu Ledhuje (pag. 29)"
+    },
+    {
+     "box": [
+      2,
+      615,
+      900,
+      710
+     ],
+     "lat": "Hruby Wenzel – 13. Mart.",
+     "cs": "Václav (Josef), 13. 3. (1786)"
+    },
+    {
+     "box": [
+      2,
+      800,
+      900,
+      885
+     ],
+     "lat": "Hruby Joannes 87. 3. Junii",
+     "cs": "Jan (Johann Wenzl), 3. 6. 1787"
+    }
+   ],
+   "plyne": "V ledhujském oddílu lit. H (Ledhug 29) je jediný Joannes Hrubý zapsán 3. 6. 1787 – Johann Wenzl, už známý z matriky (č. 30). Další Joannes v tomto úseku ani ve zbytku ledhujského bloku na téže straně (do r. 1796) není.",
+   "plyne_v_obrazku": true
+  },
+  {
+   "key": "130-44|59",
+   "src": "img/zdroje/130-44_s059_velky.jpg",
+   "title": "Rejstřík křtů lit. S, začátek oddílu Ledhuje – 1786 až leden 1787, bez Jana a Anny",
+   "zdroj": "SOA Zámrsk, sign. 130-44, snímek 59 (pag. 54)",
+   "crop": [
+    0,
+    0,
+    1180,
+    560
+   ],
+   "entry": [
+    2,
+    70,
+    1170,
+    360
+   ],
+   "marks": [
+    {
+     "box": [
+      900,
+      75,
+      1120,
+      145
+     ],
+     "lat": "Ledhug 35",
+     "cs": "začátek oddílu Ledhuje (pag. 35)"
+    },
+    {
+     "box": [
+      80,
+      75,
+      900,
+      155
+     ],
+     "lat": "Mathias 86. 15. Fe.",
+     "cs": "Matěj, 15. 2. 1786"
+    },
+    {
+     "box": [
+      80,
+      250,
+      900,
+      345
+     ],
+     "lat": "Christianus 87. 29. Janu.",
+     "cs": "Kristián, 29. 1. 1787 – poslední zápis bloku na této straně"
+    }
+   ],
+   "plyne": "Ledhujský oddíl lit. S začíná 15. 2. 1786 a na konci strany končí 29. 1. 1787. Jan Šolc (*cca 1787) ani Anna (*cca 1793) v tomto krátkém bloku nejsou. Pozdější zápisy lit. S pro Ledhuje (po lednu 1787) v tomto kole ještě nejsou dohledány.",
+   "plyne_v_obrazku": true
   }
  ]
 }

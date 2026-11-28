@@ -1684,6 +1684,33 @@
    "velky": "img/zdroje/130-17_s033_velky.jpg",
    "vyrez_soubor": "n130-17-s33-1799-11-10-vaclav-martin-c26-otec-vaclav-wintr-matka-rozyna-dcera-jana-klimse.jpg"
   },
+  "130-17|36": {
+   "signatura": "130-17",
+   "snimek": 36,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8558b085-893d-4cad-8d5d-c2326e394a0c/dao/8558b085-893d-4cad-8d5d-c2326e394a0c/file/230dbc51-a079-41c0-80bb-ed9b6da6309b",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-17_s036.jpg",
+   "velky": "img/zdroje/130-17_s036_velky.jpg",
+   "vyrez_soubor": "n130-17-s36-1803-03-15-vojtech-c52-otec-franz-chalupnik-matka-rozina.jpg"
+  },
+  "130-17|39": {
+   "signatura": "130-17",
+   "snimek": 39,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8558b085-893d-4cad-8d5d-c2326e394a0c/dao/8558b085-893d-4cad-8d5d-c2326e394a0c/file/f7424e22-1f7f-47a1-9443-1857c06834aa",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-17_s039.jpg",
+   "velky": "img/zdroje/130-17_s039_velky.jpg",
+   "vyrez_soubor": "n130-17-s39-1807-01-01-baltazar-matej-c52-otec-vaclav-chalupnik-matka-katerina.jpg"
+  },
+  "130-17|41": {
+   "signatura": "130-17",
+   "snimek": 41,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8558b085-893d-4cad-8d5d-c2326e394a0c/dao/8558b085-893d-4cad-8d5d-c2326e394a0c/file/d55f7faa-51ac-4045-b08e-5a438475894a",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-17_s041.jpg",
+   "velky": "img/zdroje/130-17_s041_velky.jpg",
+   "vyrez_soubor": "n130-17-s41-1808-continuationem-baptizatorum-vide-pag-77.jpg"
+  },
   "130-17|46": {
    "signatura": "130-17",
    "snimek": 46,
@@ -1899,6 +1926,15 @@
    "nahled": "img/zdroje/130-44_s036.jpg",
    "velky": "img/zdroje/130-44_s036_velky.jpg",
    "vyrez_soubor": "z130-44-s36-1820-index-johann-klimesch-kandidat.jpg"
+  },
+  "130-44|59": {
+   "signatura": "130-44",
+   "snimek": 59,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/abd89fc7-6a72-41a5-8a89-fa7355bf4574/dao/abd89fc7-6a72-41a5-8a89-fa7355bf4574/file/152a12da-9f43-4324-95ed-f547f4972d32",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-44_s059.jpg",
+   "velky": "img/zdroje/130-44_s059_velky.jpg",
+   "vyrez_soubor": "z130-44-s59-index-s-ledhuje-1786-ssolz-bez-jana-anny.jpg"
   },
   "130-45|26": {
    "signatura": "130-45",
