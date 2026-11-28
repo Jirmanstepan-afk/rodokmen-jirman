@@ -1612,6 +1612,15 @@
    "velky": "img/zdroje/130-17_s010_velky.jpg",
    "vyrez_soubor": "z130-17-s10-1813-02-15-snatek-jan-hruby-anna.jpg"
   },
+  "130-17|18": {
+   "signatura": "130-17",
+   "snimek": 18,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8558b085-893d-4cad-8d5d-c2326e394a0c/dao/8558b085-893d-4cad-8d5d-c2326e394a0c/file/0e12e21b-492b-456e-9bed-ce91ab102676",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-17_s018.jpg",
+   "velky": "img/zdroje/130-17_s018_velky.jpg",
+   "vyrez_soubor": "n130-17-s18-1786-03-13-wenceslaus-josephus-hruby-c32-otec-franz-matka-veronica.jpg"
+  },
   "130-17|20": {
    "signatura": "130-17",
    "snimek": 20,
@@ -1629,6 +1638,15 @@
    "nahled": "img/zdroje/130-17_s025.jpg",
    "velky": "img/zdroje/130-17_s025_velky.jpg",
    "vyrez_soubor": "n130-17-s25-1791-03-anna-maria-schal-c34.jpg"
+  },
+  "130-17|26": {
+   "signatura": "130-17",
+   "snimek": 26,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8558b085-893d-4cad-8d5d-c2326e394a0c/dao/8558b085-893d-4cad-8d5d-c2326e394a0c/file/14b596fd-d494-4d1e-8e02-540c600ff705",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-17_s026.jpg",
+   "velky": "img/zdroje/130-17_s026_velky.jpg",
+   "vyrez_soubor": "n130-17-s26-1791-12-12-gertrudis-barbara-hruba-c33-otec-franz-matka-veronica.jpg"
   },
   "130-17|28": {
    "signatura": "130-17",
@@ -1674,6 +1692,15 @@
    "nahled": "img/zdroje/130-17_s005.jpg",
    "velky": "img/zdroje/130-17_s005_velky.jpg",
    "vyrez_soubor": "z130-17-s05-1793-06-11-snatek-vaclav-winter-rosina-kandidat.jpg"
+  },
+  "130-17|9": {
+   "signatura": "130-17",
+   "snimek": 9,
+   "url": "https://aron.vychodoceskearchivy.cz/apu/8558b085-893d-4cad-8d5d-c2326e394a0c/dao/8558b085-893d-4cad-8d5d-c2326e394a0c/file/5eb5f3c3-75a7-4a49-95a6-4849bab9f371",
+   "vyrez": "zápis",
+   "nahled": "img/zdroje/130-17_s009.jpg",
+   "velky": "img/zdroje/130-17_s009_velky.jpg",
+   "vyrez_soubor": "z130-17-s09-1811-05-07-snatek-jan-solc-sedlak-c34.jpg"
   },
   "130-18|19": {
    "signatura": "130-18",

@@ -78,6 +78,7 @@ Původní znění z matriky nechávám i s německým nebo latinským výrazem v
 - Maderové a Knoppové: [[ignaz-mader-st|Ignaz Mader]] – chalupník, Polom č. 58 (1799); tkadlec (1825)
 - Maroulové: [[antonin-simec|Antonín Šimec]] – rolník, Bělic č. 23 (1878)
 - Maroulové: [[frantisek-hruby-ledhuje|František Hrubý]] – sedlák, Ledhuje č. 52 (1813); výměnkář (Ausgedinger), Ledhuje č. 52 (1834, 1836[^130-18/64: úmrtí Františka Hrubého 20. 1. 1836])
+- Maroulové: [[josef-solc-ledhuje|Josef Šolc (Schulz)]] – sedlák, Ledhuje č. 34 (1822[^130-18/25: křest vnuka Jana Václava 10. 2. 1822, „Schulz Sedlaka z Ledhuj N. 34“])
 - Maroulové: [[vaclav-ventr-ledhuje|Václav Winter (Ventr)]] – tkadlec (textor), Ledhuje č. 26 (1793, 1794); chalupník, Ledhuje č. 26 (1797, 1799); chalupník (1813)
 - Máslovi: [[matej-nemecek-ns34|Matěj Němeček]] – tkadlec
 - Meierové a Dauerové: [[andreas-mayer|Andreas Mayer]] – chalupník a podruh (Häusler und Inwohner) v Ruprechticích č. 81, poddaný broumovského panství
