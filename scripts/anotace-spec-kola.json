@@ -2753,7 +2753,265 @@
      "cs": "Kristián, 29. 1. 1787 – poslední zápis bloku na této straně"
     }
    ],
-   "plyne": "Ledhujský oddíl lit. S začíná 15. 2. 1786 a na konci strany končí 29. 1. 1787. Jan Šolc (*cca 1787) ani Anna (*cca 1793) v tomto krátkém bloku nejsou. Pozdější zápisy lit. S pro Ledhuje (po lednu 1787) v tomto kole ještě nejsou dohledány.",
+   "plyne": "Ledhujský oddíl lit. S začíná 15. 2. 1786 a na konci strany končí 29. 1. 1787. Jan Šolc (*cca 1787) ani Anna (*cca 1793) v tomto krátkém bloku nejsou. Pozdější ledhujský oddíl lit. S je až na snímku 64 a začíná 21. 8. 1818.",
+   "plyne_v_obrazku": true
+  },
+  {
+   "key": "130-18|20",
+   "src": "img/zdroje/130-18_s020_velky.jpg",
+   "title": "Křest Josefa Šolce – Ledhuje č. 47, 21. 8. 1818 (jiný Josef než sedlák z č. 34)",
+   "zdroj": "SOA Zámrsk, sign. 130-18, snímek 20 (pag. 35)",
+   "crop": [
+    0,
+    0,
+    2000,
+    259
+   ],
+   "entry": [
+    2,
+    2,
+    1790,
+    257
+   ],
+   "marks": [
+    {
+     "box": [
+      2,
+      6,
+      200,
+      255
+     ],
+     "lat": "21. Aug. / P. Norberti / Taegl",
+     "cs": "21. srpna 1818"
+    },
+    {
+     "box": [
+      200,
+      20,
+      290,
+      200
+     ],
+     "lat": "47",
+     "cs": "číslo domu 47"
+    },
+    {
+     "box": [
+      290,
+      10,
+      500,
+      240
+     ],
+     "lat": "Jozef",
+     "cs": "pokřtěn Josef"
+    },
+    {
+     "box": [
+      800,
+      8,
+      1005,
+      255
+     ],
+     "lat": "Jozef Ssolz, Chalup.",
+     "cs": "otec Josef Šolc, chalupník"
+    },
+    {
+     "box": [
+      1005,
+      6,
+      1250,
+      255
+     ],
+     "lat": "Rozina, dcera Jana … z Dřevíčka Nro. 46",
+     "cs": "matka Rozina, dcera Jana z Dřevíčka č. 46"
+    }
+   ],
+   "plyne": "Otec je Josef Šolc, chalupník v č. 47, živý ještě v srpnu 1818. Není to náš Josef, sedlák z č. 34, který k 15. 2. 1813 už byl po smrti.",
+   "plyne_v_obrazku": true
+  },
+  {
+   "key": "130-44|64",
+   "src": "img/zdroje/130-44_s064_velky.jpg",
+   "title": "Rejstřík křtů lit. S, pozdější oddíl Ledhuje – od 21. 8. 1818 (Ledh 35)",
+   "zdroj": "SOA Zámrsk, sign. 130-44, snímek 64",
+   "crop": [
+    0,
+    0,
+    1004,
+    2000
+   ],
+   "entry": [
+    2,
+    180,
+    1000,
+    1850
+   ],
+   "marks": [
+    {
+     "box": [
+      500,
+      200,
+      880,
+      280
+     ],
+     "lat": "826 5. May Huttb 36",
+     "cs": "ještě Huttberg (Hony), 1826"
+    },
+    {
+     "box": [
+      2,
+      540,
+      500,
+      640
+     ],
+     "lat": "Ssolz Joseph.",
+     "cs": "Josef Šolc"
+    },
+    {
+     "box": [
+      500,
+      540,
+      700,
+      640
+     ],
+     "lat": "818 21. Aug.",
+     "cs": "21. 8. 1818"
+    },
+    {
+     "box": [
+      700,
+      540,
+      1000,
+      640
+     ],
+     "lat": "Ledh 35",
+     "cs": "začátek pozdějšího oddílu Ledhuje (pag. 35)"
+    },
+    {
+     "box": [
+      500,
+      1840,
+      1000,
+      1930
+     ],
+     "lat": "818 12. 7ber Pěk. 107",
+     "cs": "tady už začíná Pěkov, oddíl Ledhuje končí"
+    }
+   ],
+   "plyne": "Pozdější ledhujský oddíl lit. S začíná 21. 8. 1818 a jde zhruba do roku 1827. První zápis je Josef Šolc, ale v matrice 130-18 (snímek 20, pag. 35) je to chalupník z č. 47, ne sedlák z č. 34. Mezi lednem 1787 (snímek 59) a srpnem 1818 samostatný ledhujský záhlaví lit. S na snímcích 60–63 není.",
+   "plyne_v_obrazku": true
+  },
+  {
+   "key": "130-46|30",
+   "src": "img/zdroje/130-46_s030_velky.jpg",
+   "title": "Rejstřík oddaných, druhá řada lit. S (1787–1800) – bez Josefa Šolce z Ledhují",
+   "zdroj": "SOA Zámrsk, sign. 130-46, snímek 30, pravá strana (pag. 28)",
+   "crop": [
+    0,
+    0,
+    1398,
+    2000
+   ],
+   "entry": [
+    2,
+    2,
+    1280,
+    1960
+   ],
+   "marks": [
+    {
+     "box": [
+      200,
+      8,
+      1100,
+      160
+     ],
+     "lat": "Index Copulatorum.",
+     "cs": "rejstřík oddaných"
+    },
+    {
+     "box": [
+      1260,
+      1580,
+      1390,
+      1720
+     ],
+     "lat": "S",
+     "cs": "písmeno S, druhá řada (s věkem a číslem domu)"
+    },
+    {
+     "box": [
+      1040,
+      300,
+      1240,
+      400
+     ],
+     "lat": "1787",
+     "cs": "řada začíná převážně rokem 1787"
+    },
+    {
+     "box": [
+      250,
+      1260,
+      420,
+      1400
+     ],
+     "lat": "Ledhovi",
+     "cs": "někteří ženichové z Ledhují – žádný z nich není Josef Šolc č. 34"
+    }
+   ],
+   "plyne": "V této druhé řadě lit. S (převážně 1787–1800, s věkem a číslem domu) Josef Šolc z Ledhují č. 34 mezi ženichy není. V první abecedě (s. 15–16, 1772–1790) jsou z Ledhují jiní Šolcové (Václav 1774, Kryštof 1776, Jakob vdovec 24. 5. 1788, Anton 1. 8. 1788), ale ne Josef.",
+   "plyne_v_obrazku": true
+  },
+  {
+   "key": "53-4181|13",
+   "src": "img/zdroje/53-4181_s013_velky.jpg",
+   "title": "Index oddaných Hronov, lit. H, 1777–1786 – bez Františka Hrubého",
+   "zdroj": "SOA Zámrsk, sign. 53-4181, snímek 13",
+   "crop": [
+    0,
+    0,
+    1128,
+    2000
+   ],
+   "entry": [
+    40,
+    80,
+    1120,
+    1800
+   ],
+   "marks": [
+    {
+     "box": [
+      500,
+      240,
+      700,
+      320
+     ],
+     "lat": "1777",
+     "cs": "začátek okna na této straně"
+    },
+    {
+     "box": [
+      80,
+      800,
+      1100,
+      900
+     ],
+     "lat": "Hruby Johann 9. Juni Zbečník I. 81",
+     "cs": "Hrubý Johann, 9. 6. 1780, Zbečník – ne František, jiná obec"
+    },
+    {
+     "box": [
+      500,
+      1480,
+      700,
+      1560
+     ],
+     "lat": "1786",
+     "cs": "poslední rok hledaného okna 1775–1786"
+    }
+   ],
+   "plyne": "V hronovském indexu oddaných (lit. H, včetně Žďárek) v letech 1775–1786 není ženich František Hrubý. Jediný Hrubý v tomto úseku je Johann ze Zbečníka 9. 6. 1780 – jiný muž.",
    "plyne_v_obrazku": true
   }
  ]
